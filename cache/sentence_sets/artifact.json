@@ -4,181 +4,49 @@
     {
       "sentence": "The archaeologist identified the clay tablet as an artifact from the earliest period of the settlement.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "relic", "closeness": 3, "reasoning": "Relic implies surviving remnant of a past era, often with religious or sentimental weight, but lacks artifact's technical connotation of human workmanship distinguishable from natural objects." },
+        { "distractor": "remnant", "closeness": 3, "reasoning": "Remnant refers to what is left over after the rest is gone, not specifically to a human-made object studied for what it reveals about culture." },
+        { "distractor": "specimen", "closeness": 3, "reasoning": "Specimen is used in scientific contexts for samples studied, but it applies to natural objects just as readily as to human-made ones." },
+        { "distractor": "fragment", "closeness": 3, "reasoning": "Fragment describes a piece broken off a whole, not necessarily a complete or significant human-made object with cultural meaning." },
+        { "distractor": "document", "closeness": 2, "reasoning": "A clay tablet could be a document, but document emphasizes written content rather than the material object and its human craftsmanship." },
+        { "distractor": "monument", "closeness": 2, "reasoning": "Monument implies a large commemorative structure, not a small portable object like a clay tablet." },
+        { "distractor": "heirloom", "closeness": 2, "reasoning": "Heirloom refers to a family possession passed down through generations, not an archaeological find studied for its historical significance." },
+        { "distractor": "token", "closeness": 2, "reasoning": "Token suggests a symbol or small item representing something, not a manufactured object studied for evidence of early human activity." },
+        { "distractor": "replica", "closeness": 1, "reasoning": "A replica is a copy of something, while an artifact is an original human-made object, often ancient." },
+        { "distractor": "figment", "closeness": 1, "reasoning": "Figment means something imagined or invented, the opposite of a tangible physical object excavated by archaeologists." },
+        { "distractor": "phenomenon", "closeness": 1, "reasoning": "Phenomenon refers to an observable event or occurrence, not a manufactured physical object." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected artifact, which altered the course of the committee's deliberations.",
+      "sentence": "Museum curators debated whether the bronze helmet was a genuine battlefield artifact or a later ceremonial reproduction.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "relic", "closeness": 3, "reasoning": "Relic can describe ancient objects but often implies religious veneration rather than the archaeologically neutral sense of a human-made object from a particular period." },
+        { "distractor": "antique", "closeness": 3, "reasoning": "Antique describes age and value for collectors but does not carry artifact's meaning of an object that shows human workmanship from a specific historical context." },
+        { "distractor": "object", "closeness": 3, "reasoning": "Object is too generic and loses the cultural-historical significance that artifact implies in a museum and battlefield context." },
+        { "distractor": "collectible", "closeness": 3, "reasoning": "Collectible focuses on market desirability rather than on what the object reveals about human history or workmanship." },
+        { "distractor": "trophy", "closeness": 2, "reasoning": "Trophy implies an item taken as a prize rather than an object valued for its historical and cultural information." },
+        { "distractor": "item", "closeness": 2, "reasoning": "Item is too vague and neutral to carry the historical and archaeological weight the sentence ascribes to the helmet." },
+        { "distractor": "curio", "closeness": 2, "reasoning": "Curio suggests an oddity collected out of curiosity, missing the scholarly and historical stakes of a battlefield find." },
+        { "distractor": "forgery", "closeness": 2, "reasoning": "Forgery means a fraudulent copy, which the sentence contrasts with the artifact rather than equating them." },
+        { "distractor": "souvenir", "closeness": 1, "reasoning": "Souvenir is a memento from a personal experience, far too informal for the scholarly museum context of the sentence." },
+        { "distractor": "ornament", "closeness": 1, "reasoning": "Ornament implies decorative purpose and does not capture the evidential significance of an archaeological find." },
+        { "distractor": "fabrication", "closeness": 1, "reasoning": "Fabrication means something false or invented, which is the opposite of an authentic object from history." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the artifact to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "What appeared to be a flaw in the MRI scan was actually an artifact introduced by patient movement during imaging.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "anomaly", "closeness": 3, "reasoning": "Anomaly describes a deviation from the norm but does not specifically indicate that the flaw was introduced by the imaging process itself." },
+        { "distractor": "distortion", "closeness": 3, "reasoning": "Distortion captures the idea of a corrupted image, but artifact in imaging has the specific technical meaning of an introduced false feature, not just general warping." },
+        { "distractor": "error", "closeness": 3, "reasoning": "Error suggests a mistake in process or reading, but artifact is a technical term for interference-caused features that do not represent real anatomy." },
+        { "distractor": "glitch", "closeness": 3, "reasoning": "Glitch is informal and covers transient technical failures broadly, lacking the precise technical meaning of artifact in medical imaging." },
+        { "distractor": "noise", "closeness": 2, "reasoning": "Noise in imaging refers to random signal variation, which overlaps with artifact but is a distinct technical category." },
+        { "distractor": "defect", "closeness": 2, "reasoning": "Defect implies a flaw in the system or equipment, whereas the artifact here was produced by patient behavior, not equipment failure." },
+        { "distractor": "shadow", "closeness": 2, "reasoning": "Shadow can describe certain imaging appearances but does not name the broader class of false features caused by external interference." },
+        { "distractor": "illusion", "closeness": 2, "reasoning": "Illusion is a perceptual term, whereas artifact is a technical imaging term with a precise cause." },
+        { "distractor": "symptom", "closeness": 1, "reasoning": "Symptom refers to evidence of a condition in the patient, the opposite of an artifact which represents a false finding unrelated to anatomy." },
+        { "distractor": "diagnosis", "closeness": 1, "reasoning": "Diagnosis is a clinical conclusion drawn from imaging, not a feature appearing within the image itself." },
+        { "distractor": "specimen", "closeness": 1, "reasoning": "Specimen refers to a sample collected for analysis, not a false feature that appears in a scan." }
       ]
     }
   ]

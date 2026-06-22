@@ -4,181 +4,49 @@
     {
       "sentence": "His artful deflection of the reporter's question impressed even those who doubted his honesty.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "clever", "closeness": 3, "reasoning": "The sentence shows him successfully deflecting a reporter's question in a way that impressed observers — a skilled maneuver, but 'clever' suggests mere intelligence, whereas the sentence's emphasis on the crafted, almost performative quality of the deflection points to something more polished." },
+        { "distractor": "shrewd", "closeness": 3, "reasoning": "The deflection impresses even skeptics, suggesting a calculated finesse; 'shrewd' implies cold calculation for personal gain rather than the skilled, somewhat elegant execution the sentence highlights." },
+        { "distractor": "deft", "closeness": 3, "reasoning": "The sentence praises how smoothly the deflection was executed, which 'deft' could describe, but 'deft' usually denotes physical or technical nimbleness rather than the crafted, intentional quality the word 'artful' conveys." },
+        { "distractor": "slick", "closeness": 3, "reasoning": "The deflection works and impresses observers, which fits a 'slick' move, but 'slick' carries a pejorative tone of superficial polish that contrasts with the genuine impression the sentence describes." },
+        { "distractor": "diplomatic", "closeness": 2, "reasoning": "Deflecting a reporter's question could be diplomatic, but the sentence notes it impressed even doubters — a quality emphasizing skill over tact, not simply polite avoidance." },
+        { "distractor": "calculated", "closeness": 2, "reasoning": "The deflection was clearly intentional, but 'calculated' highlights cold premeditation without capturing the skilled, adept quality the sentence attributes to the act." },
+        { "distractor": "smooth", "closeness": 2, "reasoning": "The deflection impresses onlookers, and 'smooth' could fit, but it describes surface quality rather than the underlying skill or craft the sentence foregrounds." },
+        { "distractor": "evasive", "closeness": 2, "reasoning": "The sentence involves deflecting a question, which is technically evasive, but 'evasive' is descriptive of intent to avoid rather than of the skilled execution that impressed observers." },
+        { "distractor": "blunt", "closeness": 1, "reasoning": "The sentence shows him successfully navigating a difficult question with finesse, making 'blunt' — implying direct, unguarded speech — clearly wrong." },
+        { "distractor": "clumsy", "closeness": 1, "reasoning": "The deflection impressed onlookers, so a word meaning graceless or inept directly contradicts the sentence's tone." },
+        { "distractor": "candid", "closeness": 1, "reasoning": "The act of deflecting a question is the opposite of candid openness, making this a clear contradiction of the sentence." }
       ]
     },
     {
-      "sentence": "Her artful response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The forger's artful imitation was so convincing that it passed through two auction houses before an expert noticed the discrepancy in the brushwork.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "meticulous", "closeness": 3, "reasoning": "The forgery passed two expert-level reviews, suggesting extraordinary care, and 'meticulous' might seem to fit, but the sentence emphasizes deceptive craft — the kind that mimics another's hand — rather than mere painstaking precision." },
+        { "distractor": "flawless", "closeness": 3, "reasoning": "The imitation fooled auction houses, implying near-perfection, but a brushwork discrepancy was eventually found, and 'flawless' would contradict that detail; the sentence calls for a word capturing crafted skill, not perfection." },
+        { "distractor": "convincing", "closeness": 3, "reasoning": "The sentence states the imitation was 'so convincing' — but the blank replaces the quality that made it convincing, and using 'convincing' in the blank would be circular rather than describing the skilled manner in which it was made." },
+        { "distractor": "cunning", "closeness": 3, "reasoning": "A forger who fools multiple auction houses is certainly cunning, but 'cunning' emphasizes deceitful guile rather than the skilled, craft-based execution that distinguishes an imitation good enough to fool art experts." },
+        { "distractor": "adept", "closeness": 2, "reasoning": "The forger is clearly skilled, but 'adept' merely means proficient; the sentence calls for a word that captures the quality of the imitation's execution, not just the forger's general ability level." },
+        { "distractor": "subtle", "closeness": 2, "reasoning": "The flaw was subtle enough to escape two auction houses, but 'subtle' would describe the degree of difference rather than the crafted, skillful quality of the imitation itself." },
+        { "distractor": "elaborate", "closeness": 2, "reasoning": "The forgery may have been complex, but the sentence highlights how convincing the imitation was, not how intricate or ornate its construction." },
+        { "distractor": "careful", "closeness": 2, "reasoning": "Care was obviously exercised, but 'careful' is too generic; the sentence points to the skilled, purposefully crafted nature of the imitation, not simply that it was made with attention." },
+        { "distractor": "amateurish", "closeness": 1, "reasoning": "The imitation fooled professional auction houses, so a word meaning unskilled or unprofessional is directly contradicted by the sentence." },
+        { "distractor": "sloppy", "closeness": 1, "reasoning": "The forgery passed through two professional venues before detection, making a word implying careless execution plainly wrong." },
+        { "distractor": "conspicuous", "closeness": 1, "reasoning": "The imitation went unnoticed through multiple expert reviews, so a word meaning obvious or easily noticed is the opposite of what the sentence requires." }
       ]
     },
     {
-      "sentence": "The curator's artful arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "She arranged the data in an artful sequence that led readers gradually to a conclusion they felt they had reached on their own.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "deliberate", "closeness": 3, "reasoning": "The arrangement is clearly intentional, but 'deliberate' merely emphasizes conscious choice rather than the skilled, craft-based manipulation of sequence that makes readers feel self-guided." },
+        { "distractor": "strategic", "closeness": 3, "reasoning": "The sequencing achieves a calculated rhetorical effect, and 'strategic' might seem appropriate, but it implies military-style planning for competitive advantage rather than the aesthetic and intellectual craft the sentence highlights." },
+        { "distractor": "ingenious", "closeness": 3, "reasoning": "The sequencing is clever enough to produce a subtle persuasive effect, which 'ingenious' might describe, but 'ingenious' emphasizes novelty or inventiveness of idea rather than the skilled, crafted arrangement the sentence centers on." },
+        { "distractor": "logical", "closeness": 2, "reasoning": "The sequence leads readers to a conclusion, which sounds logical, but 'logical' describes rational structure rather than the subtle, craft-driven manipulation the sentence attributes to the arrangement." },
+        { "distractor": "persuasive", "closeness": 2, "reasoning": "The sequence makes readers adopt the author's conclusion, which is a persuasive outcome, but the blank describes the quality of the arrangement itself, not its effect; 'persuasive' would be redundant with the sentence's final clause." },
+        { "distractor": "subtle", "closeness": 2, "reasoning": "The sequence's effectiveness depends on subtlety — readers feel they reached the conclusion independently — but 'subtle' describes the degree of concealment, not the crafted skill underlying the arrangement." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "The sequence's power lies in concealing the author's guiding hand; 'transparent' — meaning obvious or unconcealed — directly contradicts this." },
+        { "distractor": "random", "closeness": 1, "reasoning": "The sentence describes deliberate arrangement to achieve a specific rhetorical effect, so a word meaning without order or plan is clearly wrong." },
+        { "distractor": "tedious", "closeness": 1, "reasoning": "Readers follow the sequence to a conclusion they embrace, suggesting engagement rather than boredom; 'tedious' contradicts the sentence's tone entirely." },
+        { "distractor": "conventional", "closeness": 2, "reasoning": "The sequence produces an unusual rhetorical effect — making readers feel they reasoned independently — which implies something beyond routine structure; 'conventional' fails to capture the crafted originality at work." },
+        { "distractor": "systematic", "closeness": 2, "reasoning": "The data is arranged in order, which could be called systematic, but 'systematic' implies mechanical method rather than the skill and intentionality the sentence attributes to the design." }
       ]
     }
   ]

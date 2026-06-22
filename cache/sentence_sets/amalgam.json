@@ -4,181 +4,49 @@
     {
       "sentence": "The city's culture was an amalgam of dozens of immigrant traditions, impossible to reduce to a single identity.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "mosaic", "closeness": 3, "reasoning": "Mosaic describes a pattern of distinct, still-separate pieces; in an amalgam the elements blend together, losing clear boundaries, whereas a mosaic retains each tile's individuality." },
+        { "distractor": "blend", "closeness": 3, "reasoning": "Blend is nearly synonymous with amalgam but is more casual and lacks the connotation of a stable, unified product formed from heterogeneous sources." },
+        { "distractor": "synthesis", "closeness": 3, "reasoning": "Synthesis implies a deliberate intellectual process of combining ideas; amalgam refers to a natural or historical mixture without necessarily implying intentional creation." },
+        { "distractor": "fusion", "closeness": 3, "reasoning": "Fusion implies the elements have melted together completely; amalgam can describe a combination where distinct sources are still traceable, making it a closer fit for immigrant traditions." },
+        { "distractor": "medley", "closeness": 2, "reasoning": "Medley suggests a varied assortment that stays loosely connected, often used for music; it does not carry amalgam's sense of a stable, cohesive mixture." },
+        { "distractor": "tapestry", "closeness": 2, "reasoning": "Tapestry is a metaphor for interweaving, but it emphasizes beauty and design rather than the physical or chemical sense of distinct elements forming a stable whole." },
+        { "distractor": "combination", "closeness": 2, "reasoning": "Combination is a generic term for things put together; it lacks the specific sense of heterogeneous elements forming a new, unified compound that amalgam conveys." },
+        { "distractor": "collage", "closeness": 2, "reasoning": "Collage describes assembled fragments that remain visibly separate; amalgam implies a more thorough blending into a single entity." },
+        { "distractor": "monolith", "closeness": 1, "reasoning": "Monolith means a uniform, single mass without internal distinction—the exact opposite of a mixture of dozens of immigrant traditions." },
+        { "distractor": "purity", "closeness": 1, "reasoning": "Purity implies freedom from mixture or contamination—a quality explicitly denied in the sentence, which states it cannot be reduced to a single identity." },
+        { "distractor": "homogeneity", "closeness": 1, "reasoning": "Homogeneity means sameness throughout—the antithesis of a mixture of dozens of different traditions." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected amalgam, which altered the course of the committee's deliberations.",
+      "sentence": "The composer's style was an amalgam of jazz improvisation and baroque counterpoint, unsettling to purists of either tradition.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "hybrid", "closeness": 3, "reasoning": "Hybrid is close—it also means a mixture of two different things—but hybrid often implies deliberate crossing for a specific result, while amalgam emphasizes the stable compound formed from originally distinct materials." },
+        { "distractor": "convergence", "closeness": 3, "reasoning": "Convergence describes the process of coming together; amalgam names the resulting mixture, not the process, so convergence changes the sentence's focus from product to movement." },
+        { "distractor": "concoction", "closeness": 3, "reasoning": "Concoction means a mixture made by combining different ingredients, often implying artificiality or oddness; it is close but carries a slightly negative or whimsical tone that amalgam does not." },
+        { "distractor": "interplay", "closeness": 3, "reasoning": "Interplay means reciprocal action between forces; it describes a dynamic relationship rather than the resulting stable compound of two blended materials." },
+        { "distractor": "pastiche", "closeness": 2, "reasoning": "Pastiche means an artistic work imitating the style of another; it implies deliberate borrowing and imitation rather than a genuine blend of two traditions into something new." },
+        { "distractor": "potpourri", "closeness": 2, "reasoning": "Potpourri suggests a loose mixture of miscellaneous things; it lacks the sense of stable, purposeful combination and sounds dismissive rather than analytical." },
+        { "distractor": "eclecticism", "closeness": 2, "reasoning": "Eclecticism is the practice of drawing from many sources; it names a broad approach rather than the specific resulting product of two traditions fused together." },
+        { "distractor": "juxtaposition", "closeness": 2, "reasoning": "Juxtaposition means placing two things side by side for contrast; it implies they remain separate and distinct—opposite to the blended unity of an amalgam." },
+        { "distractor": "discord", "closeness": 1, "reasoning": "Discord means conflict and lack of harmony; while purists might hear it that way, the sentence presents the style as a stable compound, not as conflict." },
+        { "distractor": "betrayal", "closeness": 1, "reasoning": "Betrayal means violation of trust; it might describe how purists feel but cannot describe a compositional style." },
+        { "distractor": "replica", "closeness": 1, "reasoning": "Replica means an exact copy of something—the opposite of a new combination of two distinct traditions." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the amalgam to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "His memoir proved to be an amalgam of fact and invention, making it impossible to distinguish where memory ended and fiction began.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "mixture", "closeness": 3, "reasoning": "Mixture is the most generic near-synonym; it describes the same idea but lacks amalgam's specific connotation of a stable, unified compound where the original components are no longer easily separable." },
+        { "distractor": "fabrication", "closeness": 3, "reasoning": "Fabrication implies the whole is invented; amalgam specifies that fact and fiction are both present and blended, not that the whole is false." },
+        { "distractor": "conflation", "closeness": 3, "reasoning": "Conflation means erroneously treating two things as the same; it implies intellectual error whereas amalgam describes a stable blend without necessarily implying mistake." },
+        { "distractor": "composite", "closeness": 3, "reasoning": "Composite means made up of various parts; it is close but tends to suggest clearly identifiable components rather than the thorough blending where sources become inseparable." },
+        { "distractor": "hybrid", "closeness": 2, "reasoning": "Hybrid implies deliberate crossbreeding of two types; for a memoir, it is less precise than amalgam because it stresses intentional design more than the inseparability of the result." },
+        { "distractor": "chronicle", "closeness": 2, "reasoning": "Chronicle means a factual record of events in sequence; it implies factual accuracy rather than a blend of fact and invention." },
+        { "distractor": "narrative", "closeness": 2, "reasoning": "Narrative is the story or account itself; it does not describe the quality of being a mixture of true and invented elements." },
+        { "distractor": "paradox", "closeness": 2, "reasoning": "Paradox means a seemingly contradictory statement; the memoir blends fact and fiction rather than presenting a logical contradiction." },
+        { "distractor": "manifesto", "closeness": 1, "reasoning": "Manifesto is a public declaration of beliefs or intentions—clearly wrong for a work blending personal memory and fiction." },
+        { "distractor": "confession", "closeness": 1, "reasoning": "Confession implies candid admission of wrongdoing or truth; it implies factual disclosure rather than a blend of fact and invention." },
+        { "distractor": "satire", "closeness": 1, "reasoning": "Satire uses irony and exaggeration to critique; it is a distinct literary mode, not a description of a mixture of factual and invented material." }
       ]
     }
   ]

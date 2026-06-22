@@ -1,0 +1,53 @@
+{
+  "word": "heinous",
+  "sentenceSets": [
+    {
+      "sentence": "The heinous nature of the crime made it impossible to discuss dispassionately in any public forum.",
+      "answerChoices": [
+        { "distractor": "controversial", "closeness": 3, "reasoning": "The sentence says the crime could not be discussed 'dispassionately,' implying strong moral condemnation, not mere controversy or debate." },
+        { "distractor": "egregious", "closeness": 3, "reasoning": "The sentence emphasizes moral outrage that disrupted calm discussion; 'egregious' means flagrantly bad but lacks the specific connotation of shocking evil." },
+        { "distractor": "reprehensible", "closeness": 3, "reasoning": "'Reprehensible' means deserving blame, but the sentence stresses that the crime was impossible to treat dispassionately, suggesting a deeper kind of moral horror." },
+        { "distractor": "atrocious", "closeness": 3, "reasoning": "'Atrocious' is very close but emphasizes cruelty more than shock; the sentence frames the crime as something that triggers visceral emotional reaction in public discussion." },
+        { "distractor": "unfortunate", "closeness": 2, "reasoning": "The sentence says the crime could not be discussed calmly in any forum, indicating something far worse than merely unfortunate or regrettable." },
+        { "distractor": "illegal", "closeness": 2, "reasoning": "Whether the crime was illegal is not what the sentence is conveying; it focuses on the moral character that made calm public discussion impossible." },
+        { "distractor": "complex", "closeness": 2, "reasoning": "The sentence attributes the difficulty of public discussion to the moral character of the crime, not to its complexity or nuance." },
+        { "distractor": "tragic", "closeness": 2, "reasoning": "'Tragic' implies sorrow and loss, but the sentence's emphasis on the impossibility of dispassionate discussion points to moral horror, not sadness." },
+        { "distractor": "peculiar", "closeness": 1, "reasoning": "The sentence describes something that provoked strong emotional reactions preventing calm discussion, not something that was merely strange or odd." },
+        { "distractor": "mundane", "closeness": 1, "reasoning": "Something mundane would not make public discussion impossible; the sentence clearly describes something that provoked intense moral outrage." },
+        { "distractor": "ambiguous", "closeness": 1, "reasoning": "The sentence conveys clear moral condemnation so strong it prevented dispassionate discussion; ambiguity would not produce this effect." }
+      ]
+    },
+    {
+      "sentence": "The tribunal was convened specifically to address the most heinous violations, those so extreme that ordinary courts had declined jurisdiction.",
+      "answerChoices": [
+        { "distractor": "widespread", "closeness": 3, "reasoning": "The sentence distinguishes these violations by their extreme moral character—courts declined jurisdiction—not by how many people they affected." },
+        { "distractor": "flagrant", "closeness": 3, "reasoning": "'Flagrant' means openly scandalous, but the sentence specifies violations so extreme ordinary courts stepped aside, implying moral horror beyond mere obviousness." },
+        { "distractor": "systematic", "closeness": 3, "reasoning": "The sentence explains courts declined jurisdiction because of the character of the violations, not because of their organized or methodical nature." },
+        { "distractor": "indefensible", "closeness": 3, "reasoning": "'Indefensible' focuses on the impossibility of justification; the sentence focuses on violations so shocking that ordinary courts declined to handle them." },
+        { "distractor": "serious", "closeness": 2, "reasoning": "The sentence describes violations extreme enough that ordinary courts stepped aside entirely—'serious' is far too mild to capture that level of severity." },
+        { "distractor": "unlawful", "closeness": 2, "reasoning": "All violations before a tribunal would be unlawful; the sentence distinguishes these as uniquely extreme, not just illegal." },
+        { "distractor": "documented", "closeness": 2, "reasoning": "Whether violations were documented is irrelevant to why the sentence was convened; the sentence emphasizes the extreme moral nature of the offenses." },
+        { "distractor": "political", "closeness": 2, "reasoning": "The sentence does not frame these violations as political; it describes them as extreme enough that ordinary courts declined jurisdiction." },
+        { "distractor": "recent", "closeness": 1, "reasoning": "The sentence explains the tribunal was needed because of the extreme character of the violations, not because of when they occurred." },
+        { "distractor": "technical", "closeness": 1, "reasoning": "The sentence attributes the exceptional nature of these violations to their extreme moral character, not to any technical or procedural complexity." },
+        { "distractor": "minor", "closeness": 1, "reasoning": "The sentence explicitly contrasts these violations with what ordinary courts could handle, indicating they were extraordinarily severe, not minor." }
+      ]
+    },
+    {
+      "sentence": "Even those who had long advocated leniency in sentencing recoiled at the heinous details that emerged during the trial.",
+      "answerChoices": [
+        { "distractor": "disturbing", "closeness": 3, "reasoning": "'Disturbing' captures discomfort but not the moral shock; the sentence specifies that even advocates of leniency recoiled, suggesting something shockingly evil." },
+        { "distractor": "graphic", "closeness": 3, "reasoning": "'Graphic' describes vividness of presentation, but the sentence says even leniency advocates recoiled, pointing to the moral character of what was revealed, not its explicitness." },
+        { "distractor": "damning", "closeness": 3, "reasoning": "'Damning' implies evidence that proves guilt, but the sentence's emphasis on recoiling by leniency advocates points to moral horror, not legal incrimination." },
+        { "distractor": "horrifying", "closeness": 3, "reasoning": "'Horrifying' is close but broader; the sentence specifically frames the reaction as a reversal by leniency advocates, pointing to something that crossed a moral threshold." },
+        { "distractor": "surprising", "closeness": 2, "reasoning": "The sentence attributes the recoiling of leniency advocates to the moral character of the details, not to their unexpectedness." },
+        { "distractor": "incriminating", "closeness": 2, "reasoning": "The sentence focuses on the moral reaction of observers, not on whether the details proved legal guilt." },
+        { "distractor": "sensational", "closeness": 2, "reasoning": "'Sensational' implies media dramatization; the sentence describes genuine moral recoil even among those predisposed to leniency." },
+        { "distractor": "extensive", "closeness": 2, "reasoning": "The sentence does not suggest the details were numerous or extensive; it focuses on their morally shocking character." },
+        { "distractor": "boring", "closeness": 1, "reasoning": "Details that caused even leniency advocates to recoil could not be boring; the sentence clearly describes something profoundly disturbing." },
+        { "distractor": "routine", "closeness": 1, "reasoning": "The sentence describes details extraordinary enough to reverse the position of committed leniency advocates—the opposite of routine." },
+        { "distractor": "encouraging", "closeness": 1, "reasoning": "The sentence describes details that caused recoiling; encouraging details would produce the opposite reaction." }
+      ]
+    }
+  ]
+}

@@ -4,181 +4,49 @@
     {
       "sentence": "Public apathy toward the crisis only encouraged officials to delay meaningful action.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "indifference", "closeness": 3, "reasoning": "The public's lack of pressure on officials enabled delay, which 'indifference' captures directly—citizens simply didn't care." },
+        { "distractor": "complacency", "closeness": 3, "reasoning": "A public that allows officials to delay meaningful action without protest fits 'complacency'—assuming someone else will handle it." },
+        { "distractor": "disengagement", "closeness": 3, "reasoning": "Officials delaying action because the public wasn't pushing back shows the public was disengaged from the issue." },
+        { "distractor": "passivity", "closeness": 3, "reasoning": "A public that didn't demand action, giving officials cover to delay, demonstrates collective passivity in the face of crisis." },
+        { "distractor": "fatalism", "closeness": 2, "reasoning": "A public that doesn't push for action might have believed the crisis was inevitable anyway, which 'fatalism' reflects, though it implies a belief rather than mere feeling." },
+        { "distractor": "disillusionment", "closeness": 2, "reasoning": "A public that doesn't pressure officials may have lost faith that action is possible, which 'disillusionment' captures as a cause of inaction." },
+        { "distractor": "resignation", "closeness": 2, "reasoning": "Not pushing officials to act could reflect public resignation that the crisis can't be solved, fitting the behavior described." },
+        { "distractor": "skepticism", "closeness": 2, "reasoning": "Public skepticism about whether officials could help might explain why citizens didn't press for action, though it implies doubt rather than lack of feeling." },
+        { "distractor": "outrage", "closeness": 1, "reasoning": "The sentence shows inaction and delay enabled by a non-pressuring public; 'outrage' would have had the opposite effect on officials." },
+        { "distractor": "vigilance", "closeness": 1, "reasoning": "An alert, vigilant public would have pressured officials to act—directly contradicting the dynamic the sentence describes." },
+        { "distractor": "enthusiasm", "closeness": 1, "reasoning": "Public enthusiasm about a crisis would spur officials to respond, not delay, making this word contextually opposite." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected apathy, which altered the course of the committee's deliberations.",
+      "sentence": "The philosopher argued that apathy, more than malice, explained how ordinary citizens enabled atrocities.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "indifference", "closeness": 3, "reasoning": "The philosopher contrasts emotional disengagement with active malice, and 'indifference' fits this role of non-malicious enabling through not caring." },
+        { "distractor": "passivity", "closeness": 3, "reasoning": "Ordinary citizens enabling atrocities without malicious intent fits the framing of passive, non-engaged behavior rather than active wrongdoing." },
+        { "distractor": "complicity", "closeness": 3, "reasoning": "Enabling atrocities without active malice fits 'complicity' closely—participation through inaction or silence rather than direct intent." },
+        { "distractor": "complacency", "closeness": 3, "reasoning": "The philosopher's contrast with malice points to citizens who simply didn't engage or resist, which 'complacency' captures well in this context." },
+        { "distractor": "negligence", "closeness": 2, "reasoning": "Enabling atrocities through failure to care or act could be framed as negligence, though it implies a duty that was neglected rather than pure emotional absence." },
+        { "distractor": "cowardice", "closeness": 2, "reasoning": "Citizens enabling atrocities while not actively malicious might have been fearful rather than indifferent, and 'cowardice' offers an alternative explanation the philosopher might debate." },
+        { "distractor": "selfishness", "closeness": 2, "reasoning": "Self-interest could explain why ordinary people didn't resist atrocities, offering another non-malicious explanation that contrasts with pure indifference." },
+        { "distractor": "conformity", "closeness": 2, "reasoning": "Going along with systemic atrocities because of social pressure rather than malice fits the philosopher's argument structure." },
+        { "distractor": "ignorance", "closeness": 1, "reasoning": "The philosopher specifically contrasts emotional lack of feeling with malice, and 'ignorance' introduces a knowledge-based explanation that shifts the argument." },
+        { "distractor": "ambition", "closeness": 1, "reasoning": "Ambition implies active personal gain-seeking, which aligns more with malice than with the passive enabling role the philosopher describes." },
+        { "distractor": "courage", "closeness": 1, "reasoning": "'Courage' would explain resistance to atrocities, not enabling them, making it the opposite of what the philosopher is arguing here." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the apathy to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "Her apathy during the therapy sessions worried the counselor, who hoped to see signs of emotional engagement.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "detachment", "closeness": 3, "reasoning": "A counselor hoping for emotional engagement but seeing none describes emotional detachment, which fits naturally in this therapeutic context." },
+        { "distractor": "withdrawal", "closeness": 3, "reasoning": "The absence of emotional engagement in therapy sessions is a form of emotional withdrawal that would concern a counselor." },
+        { "distractor": "numbness", "closeness": 3, "reasoning": "A counselor seeking emotional engagement but encountering its absence fits 'numbness' closely in a therapeutic context." },
+        { "distractor": "disengagement", "closeness": 3, "reasoning": "The counselor hoping for emotional engagement but not finding it describes disengagement as the central problem in these sessions." },
+        { "distractor": "reticence", "closeness": 2, "reasoning": "Not opening up emotionally in therapy could look like reticence, though this word emphasizes reluctance to speak rather than emotional flatness." },
+        { "distractor": "guardedness", "closeness": 2, "reasoning": "A patient showing no emotional engagement might be protecting themselves emotionally, which 'guardedness' reflects as a therapeutic concern." },
+        { "distractor": "hostility", "closeness": 2, "reasoning": "Active resistance to the counseling process would also concern a therapist, though 'hostility' contrasts with the passive quality the sentence describes." },
+        { "distractor": "pessimism", "closeness": 2, "reasoning": "Emotional disengagement in therapy could stem from pessimism about recovery, and a counselor would note this as a barrier to progress." },
+        { "distractor": "hyperactivity", "closeness": 1, "reasoning": "The counselor worries about emotional flatness and absence, not overexcitement or excess energy, making this word contextually opposite." },
+        { "distractor": "optimism", "closeness": 1, "reasoning": "A patient showing emotional optimism would please rather than worry a counselor, directly contradicting the sentence's meaning." },
+        { "distractor": "aggression", "closeness": 1, "reasoning": "The counselor sought emotional engagement, not aggression; while aggression would also concern a counselor, it is an entirely different clinical issue." }
       ]
     }
   ]

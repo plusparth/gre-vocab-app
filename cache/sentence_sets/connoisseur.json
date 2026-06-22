@@ -1,0 +1,53 @@
+{
+  "word": "connoisseur",
+  "sentenceSets": [
+    {
+      "sentence": "As a connoisseur of rare manuscripts, he could identify forgeries that fooled most experienced dealers.",
+      "answerChoices": [
+        { "distractor": "authority", "closeness": 3, "reasoning": "Someone who can spot forgeries that 'fooled most experienced dealers' commands recognized authority in the field — a level of mastery that goes beyond mere familiarity." },
+        { "distractor": "specialist", "closeness": 3, "reasoning": "The ability to detect forgeries invisible to ordinary experienced dealers marks someone with deep specialist knowledge in rare manuscripts." },
+        { "distractor": "maven", "closeness": 3, "reasoning": "Maven captures the idea of someone with enthusiastic, deep expertise — fitting a person who can identify what experienced dealers cannot." },
+        { "distractor": "aficionado", "closeness": 2, "reasoning": "Aficionado captures passionate expertise but typically implies enthusiastic admiration rather than the critical, evaluative skill the sentence requires to detect forgeries." },
+        { "distractor": "virtuoso", "closeness": 2, "reasoning": "Virtuoso suggests exceptional skill, which fits the forgery-detection ability, but the word is typically applied to performative talent rather than evaluative expertise." },
+        { "distractor": "veteran", "closeness": 2, "reasoning": "The sentence distinguishes the subject from 'experienced dealers,' suggesting seniority alone is not enough — veteran captures experience but not the refined judgment described." },
+        { "distractor": "scholar", "closeness": 2, "reasoning": "A scholar of rare manuscripts could plausibly detect forgeries, but scholar implies academic study whereas the sentence implies fine-grained practical judgment." },
+        { "distractor": "devotee", "closeness": 2, "reasoning": "Devotee implies passionate dedication but lacks the implication of technical expertise needed to identify forgeries that 'fooled most experienced dealers.'" },
+        { "distractor": "collector", "closeness": 1, "reasoning": "A collector of rare manuscripts might own them but would not necessarily possess the evaluative skill to identify forgeries that outsmarted experienced dealers." },
+        { "distractor": "historian", "closeness": 1, "reasoning": "A historian might know the content of manuscripts but the sentence emphasizes the ability to detect physical forgeries, which is a different specialized skill." },
+        { "distractor": "librarian", "closeness": 1, "reasoning": "A librarian manages and provides access to manuscripts but would not typically have the refined evaluative expertise implied by detecting forgeries invisible to dealers." }
+      ]
+    },
+    {
+      "sentence": "The wine connoisseur rejected bottle after bottle at the tasting, each time articulating exactly which note was off and why.",
+      "answerChoices": [
+        { "distractor": "expert", "closeness": 3, "reasoning": "The ability to reject wines and articulate precisely which note was off demonstrates expert-level discriminating knowledge of wine." },
+        { "distractor": "authority", "closeness": 3, "reasoning": "Someone who can pinpoint exactly why each bottle falls short commands recognized authority in the field." },
+        { "distractor": "specialist", "closeness": 3, "reasoning": "The detailed, technical critique of individual flavor notes marks a specialist whose knowledge is both deep and precise." },
+        { "distractor": "aficionado", "closeness": 2, "reasoning": "An aficionado shares enthusiasm and knowledge, but the sentence's cold, precise critique implies a level of technical discernment that goes beyond typical aficionado engagement." },
+        { "distractor": "critic", "closeness": 2, "reasoning": "Critic fits the evaluative act of rejecting bottles, but critic can apply to any field and lacks the implication of genuine technical mastery the sentence conveys." },
+        { "distractor": "judge", "closeness": 2, "reasoning": "In the context of a tasting, judge is plausible, but it implies a formal role rather than the deeply refined personal expertise the sentence describes." },
+        { "distractor": "enthusiast", "closeness": 2, "reasoning": "Enthusiast captures passion for wine but not the precise technical knowledge needed to articulate exactly which note is off — the sentence requires something stronger." },
+        { "distractor": "purist", "closeness": 2, "reasoning": "Rejecting bottle after bottle could suggest a purist's rigidity, but purist implies adherence to standards rather than the refined perceptive skill the sentence highlights." },
+        { "distractor": "drinker", "closeness": 1, "reasoning": "Any drinker could participate in a tasting, but the sentence describes the ability to identify specific technical flaws — far beyond what a typical drinker would do." },
+        { "distractor": "steward", "closeness": 1, "reasoning": "A wine steward handles service but is not necessarily equipped to perform the fine analytical critique the sentence describes." },
+        { "distractor": "vendor", "closeness": 1, "reasoning": "A vendor sells wine but has no implied evaluative expertise comparable to someone who can pinpoint exactly why each rejected bottle fails." }
+      ]
+    },
+    {
+      "sentence": "She was a connoisseur of silence, able to distinguish between the loaded pause that meant anger and the reflective one that meant thought.",
+      "answerChoices": [
+        { "distractor": "student", "closeness": 3, "reasoning": "The ability to distinguish nuanced qualities of silence suggests deep, sustained study — a student of human behavior who has learned to read subtle cues precisely." },
+        { "distractor": "observer", "closeness": 3, "reasoning": "Distinguishing between a 'loaded' and 'reflective' pause requires acute perceptual skill — exactly what a practiced observer of human communication develops." },
+        { "distractor": "interpreter", "closeness": 3, "reasoning": "Reading the meaning of different silences is an act of interpretation, and interpreter captures the hermeneutic skill involved." },
+        { "distractor": "analyst", "closeness": 2, "reasoning": "Breaking silence into distinct types with distinct meanings is an analytical act, but analyst implies a more systematic, formal process than the intuitive mastery described." },
+        { "distractor": "reader", "closeness": 2, "reasoning": "Reading the meaning in silence fits reader metaphorically, but the word feels vague and doesn't convey the refined expertise the sentence implies." },
+        { "distractor": "therapist", "closeness": 2, "reasoning": "A therapist would certainly attend to meaningful pauses, but the sentence describes an individual gift for discrimination rather than a professional function." },
+        { "distractor": "scholar", "closeness": 2, "reasoning": "Scholar implies intellectual depth, but distinguishing loaded from reflective silences is more a perceptual than an academic skill." },
+        { "distractor": "devotee", "closeness": 2, "reasoning": "A devotee of silence might value quiet but would not necessarily possess the discriminating skill to distinguish one type of silence from another as the sentence describes." },
+        { "distractor": "enthusiast", "closeness": 1, "reasoning": "Enthusiast implies appreciation but not the precise perceptual expertise needed to distinguish meaningfully between different types of silence in real time." },
+        { "distractor": "practitioner", "closeness": 1, "reasoning": "Practitioner implies doing something rather than perceiving it; the sentence is about reading silence, not about practicing it." },
+        { "distractor": "collector", "closeness": 1, "reasoning": "Collector implies gathering objects; silence is not something that can be accumulated, making the word a poor fit for the sentence's intended meaning." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "covert",
+  "sentenceSets": [
+    {
+      "sentence": "The agency conducted a covert operation that remained unknown to the public for more than a decade.",
+      "answerChoices": [
+        { "distractor": "clandestine", "closeness": 3, "reasoning": "Like 'covert,' 'clandestine' describes something done in secret and unknown to the public, fitting an operation hidden from public awareness for over a decade." },
+        { "distractor": "surreptitious", "closeness": 3, "reasoning": "'Surreptitious' captures the concealed, behind-the-scenes nature of an operation that the public did not know about for more than a decade." },
+        { "distractor": "undercover", "closeness": 3, "reasoning": "An 'undercover' operation, like a 'covert' one, is conducted in secret so that the public remains unaware—fitting the decade-long secrecy described." },
+        { "distractor": "cloaked", "closeness": 3, "reasoning": "'Cloaked' conveys something hidden from view or knowledge, consistent with an operation that remained unknown to the public for over ten years." },
+        { "distractor": "classified", "closeness": 2, "reasoning": "'Classified' suggests restricted access and official secrecy, which fits an agency operation kept from the public, though it implies bureaucratic designation rather than active concealment." },
+        { "distractor": "discreet", "closeness": 2, "reasoning": "'Discreet' indicates careful avoidance of notice, which partially fits an operation unknown to the public, but it does not carry the deliberate deception implied by 'covert.'" },
+        { "distractor": "invisible", "closeness": 2, "reasoning": "'Invisible' fits an operation that went undetected for a decade, though it suggests absence of visibility rather than deliberate secrecy." },
+        { "distractor": "subterranean", "closeness": 2, "reasoning": "'Subterranean' in a figurative sense fits something hidden beneath the surface of public knowledge, though it is more metaphorical than 'covert.'" },
+        { "distractor": "public", "closeness": 1, "reasoning": "'Public' is the direct opposite of what is described—an operation specifically remained unknown to the public, so substituting 'public' contradicts the sentence." },
+        { "distractor": "sanctioned", "closeness": 1, "reasoning": "'Sanctioned' addresses official approval rather than secrecy; an operation can be sanctioned and still be covert or open, making it a poor fit." },
+        { "distractor": "reckless", "closeness": 1, "reasoning": "'Reckless' describes careless behavior unrelated to secrecy, making it a grammatical but semantically distant substitute for 'covert.'" }
+      ]
+    },
+    {
+      "sentence": "The journalist suspected a covert arrangement between the two companies but could not obtain documentation to prove it.",
+      "answerChoices": [
+        { "distractor": "clandestine", "closeness": 3, "reasoning": "A 'clandestine' arrangement is one hidden from outside scrutiny—exactly what the journalist suspects and cannot document." },
+        { "distractor": "secret", "closeness": 3, "reasoning": "'Secret' fits perfectly: the journalist suspects a hidden deal between the companies but lacks proof, implying the arrangement was deliberately concealed." },
+        { "distractor": "undisclosed", "closeness": 3, "reasoning": "'Undisclosed' fits because the suspected arrangement between the two companies has not been revealed, which is why the journalist lacks documentation." },
+        { "distractor": "tacit", "closeness": 2, "reasoning": "'Tacit' suggests an unspoken understanding, which partially fits an arrangement not openly stated, though it implies mutual understanding rather than deliberate hiding." },
+        { "distractor": "informal", "closeness": 2, "reasoning": "'Informal' suggests an arrangement made outside official channels, which might explain why documentation is scarce, though it does not convey deliberate concealment." },
+        { "distractor": "illicit", "closeness": 2, "reasoning": "'Illicit' implies the arrangement is improper or illegal, which would explain why it is hidden, but it adds a moral judgment absent from 'covert.'" },
+        { "distractor": "disputed", "closeness": 2, "reasoning": "'Disputed' fits in the sense that the journalist cannot confirm the arrangement, but it implies disagreement over facts rather than intentional secrecy." },
+        { "distractor": "alleged", "closeness": 2, "reasoning": "'Alleged' fits the journalist's suspicion without proof, but it shifts emphasis to unverified accusation rather than active concealment." },
+        { "distractor": "financial", "closeness": 1, "reasoning": "'Financial' describes the type of arrangement rather than its hidden nature, making it unrelated to why the journalist cannot document it." },
+        { "distractor": "cooperative", "closeness": 1, "reasoning": "'Cooperative' describes the spirit of the arrangement but says nothing about secrecy, so it fails to capture why documentation is elusive." },
+        { "distractor": "mutual", "closeness": 1, "reasoning": "'Mutual' indicates the arrangement benefits both parties but does not address the concealment the journalist suspects." }
+      ]
+    },
+    {
+      "sentence": "She used covert glances to study her rival across the table without ever appearing to look directly.",
+      "answerChoices": [
+        { "distractor": "furtive", "closeness": 3, "reasoning": "'Furtive' describes sneaky, sly looks taken when one does not want to be caught—exactly what glances taken without appearing to look directly are." },
+        { "distractor": "sidelong", "closeness": 3, "reasoning": "'Sidelong' captures indirect, oblique glances used to observe without being noticed, fitting the description of studying someone without looking directly." },
+        { "distractor": "surreptitious", "closeness": 3, "reasoning": "'Surreptitious' describes actions done in a stealthy, concealed manner, which fits glances taken so that one never appears to look directly at the rival." },
+        { "distractor": "discreet", "closeness": 2, "reasoning": "'Discreet' glances suggest care not to attract attention, which partially fits, though 'discreet' is less stealthy than 'covert.'" },
+        { "distractor": "stolen", "closeness": 2, "reasoning": "'Stolen' glances implies quick, hidden looks, fitting the concealed observation of a rival, though 'stolen' is more colloquial than 'covert.'" },
+        { "distractor": "veiled", "closeness": 2, "reasoning": "'Veiled' suggests something partially hidden, which fits glances used to observe without being obviously seen, though it is more metaphorical." },
+        { "distractor": "peripheral", "closeness": 2, "reasoning": "'Peripheral' glances come from the edge of one's vision, consistent with studying someone without appearing to look directly, though it emphasizes angle over intent." },
+        { "distractor": "careful", "closeness": 2, "reasoning": "'Careful' glances suggest deliberate attention but do not capture the concealment involved in avoiding the appearance of looking directly." },
+        { "distractor": "admiring", "closeness": 1, "reasoning": "'Admiring' describes the emotional tone of the glances rather than their concealed nature, making it a poor fit for the strategic observation described." },
+        { "distractor": "frequent", "closeness": 1, "reasoning": "'Frequent' addresses how often the glances occurred rather than their hidden quality, failing to capture the covert intent." },
+        { "distractor": "curious", "closeness": 1, "reasoning": "'Curious' describes a motivation behind the glances rather than their secretive manner, making it an inadequate substitute for 'covert.'" }
+      ]
+    }
+  ]
+}

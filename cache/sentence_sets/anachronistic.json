@@ -4,181 +4,49 @@
     {
       "sentence": "His formal, flowery writing style seemed anachronistic in an era of brief digital communication.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "outdated", "closeness": 3, "reasoning": "The sentence contrasts a formal, flowery style with the era of digital communication, making 'outdated' tempting since both words suggest something past its time, but 'outdated' simply means no longer current rather than specifically belonging to an earlier historical era in a way that creates a temporal clash." },
+        { "distractor": "archaic", "closeness": 3, "reasoning": "A flowery formal style evokes archaic literary conventions, and 'archaic' fits the sense that the style belongs to a much earlier period, but 'archaic' describes something extremely old in itself, whereas 'anachronistic' specifically highlights the mismatch between the old style and the current era." },
+        { "distractor": "quaint", "closeness": 3, "reasoning": "A formal, flowery writing style in a digital age might be described as quaint—charmingly old-fashioned—but 'quaint' carries a mild affection rather than the jarring temporal mismatch that the sentence's 'seemed anachronistic' implies." },
+        { "distractor": "retrograde", "closeness": 3, "reasoning": "A style that appears to move backward to an earlier era could be called retrograde, but 'retrograde' implies a deliberate reversal or regression rather than simply being out of sync with the current historical moment." },
+        { "distractor": "pretentious", "closeness": 2, "reasoning": "A formal, flowery style could be seen as pretentious or affected, but 'pretentious' criticizes an attitude of self-importance, not the temporal mismatch between a style and its era." },
+        { "distractor": "verbose", "closeness": 2, "reasoning": "Flowery writing is often verbose, and the sentence's contrast with 'brief digital communication' makes this tempting, but 'verbose' means excessively wordy, not displaced in time, so it misses the historical mismatch the sentence foregrounds." },
+        { "distractor": "idiosyncratic", "closeness": 2, "reasoning": "An unusual personal style might be called idiosyncratic, but the sentence specifically contrasts the style with an era, pointing to temporal dislocation rather than mere personal eccentricity." },
+        { "distractor": "affected", "closeness": 2, "reasoning": "A flowery formal style can seem affected or artificial, but 'affected' criticizes the style's sincerity, not its relationship to historical time, so it does not fit the sentence's core contrast." },
+        { "distractor": "innovative", "closeness": 1, "reasoning": "The sentence describes a style that seems to belong to an earlier era, the opposite of innovative; substituting 'innovative' would reverse the sentence's meaning entirely." },
+        { "distractor": "lucid", "closeness": 1, "reasoning": "Lucid means clear and easy to understand; the sentence describes a style as temporally out of place, not as a clarity problem, making this clearly wrong." },
+        { "distractor": "spontaneous", "closeness": 1, "reasoning": "Spontaneous means arising naturally without premeditation; the sentence describes a deliberate formal literary style that clashes with its era, making this the wrong semantic field." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected anachronistic, which altered the course of the committee's deliberations.",
+      "sentence": "Historians criticized the film for its anachronistic dialogue, noting that medieval peasants would not have spoken in the clipped, ironic cadences of modern sitcoms.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "inauthentic", "closeness": 3, "reasoning": "Dialogue that medieval peasants would not have used is inauthentic to the period, and the sentence's criticism centers on historical fidelity, making 'inauthentic' a strong trap, but 'inauthentic' covers any failure of authenticity (tone, accuracy, sincerity) whereas the sentence specifies a temporal impossibility." },
+        { "distractor": "implausible", "closeness": 3, "reasoning": "Peasants speaking in modern sitcom cadences is implausible in a medieval setting, and the historians' criticism supports this reading, but 'implausible' means generally unbelievable rather than pointing to the specific problem of language from the wrong historical era." },
+        { "distractor": "incongruous", "closeness": 3, "reasoning": "Modern sitcom cadences in a medieval film are incongruous, and the sentence's contrast between medieval peasants and modern speech supports this, but 'incongruous' describes any jarring mismatch without specifying that the mismatch is temporal." },
+        { "distractor": "stilted", "closeness": 3, "reasoning": "Clipped, ironic cadences in a period film could be called stilted or unnatural, and 'stilted' fits grammatically in the sentence, but 'stilted' describes unnatural stiffness in speech rather than speech that belongs to the wrong historical period." },
+        { "distractor": "satirical", "closeness": 2, "reasoning": "Clipped, ironic modern dialogue in a medieval film could be intentionally satirical, but the sentence frames this as a historian's criticism rather than a deliberate artistic choice, so 'satirical' does not fit the negative critical framing." },
+        { "distractor": "colloquial", "closeness": 2, "reasoning": "The sitcom-like cadences are informal and colloquial, but 'colloquial' describes register (informal vs. formal) rather than the specific problem of language from the wrong time period appearing in the film." },
+        { "distractor": "overwrought", "closeness": 2, "reasoning": "Dialogue can be overwrought or melodramatic, but the sentence focuses on a temporal mismatch between the era depicted and the language used, not on emotional excess in the writing." },
+        { "distractor": "repetitive", "closeness": 2, "reasoning": "Dialogue could be criticized for being repetitive, but the sentence specifies that medieval peasants would not have spoken in modern cadences—a temporal argument, not one about repetition." },
+        { "distractor": "eloquent", "closeness": 1, "reasoning": "Eloquent means fluent and persuasive; the sentence criticizes the dialogue for being historically impossible, the opposite of praising its expressive quality." },
+        { "distractor": "monosyllabic", "closeness": 1, "reasoning": "Monosyllabic means using very short words or giving minimal responses; the sentence describes a style complaint about temporal impossibility, not about syllable count." },
+        { "distractor": "prophetic", "closeness": 1, "reasoning": "Prophetic means predicting future events; dialogue in a medieval film being described as temporally wrong has nothing to do with prophecy, making this clearly wrong." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the anachronistic to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "The tech company's mandatory dress code requiring suits and ties struck younger employees as anachronistic, a relic of an era when formality signaled competence.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "arbitrary", "closeness": 3, "reasoning": "A dress code requiring suits and ties with no apparent current rationale could seem arbitrary—imposed without reasonable justification—but the sentence specifies that the policy belongs to an earlier era 'when formality signaled competence,' pointing to temporal displacement rather than mere capriciousness." },
+        { "distractor": "antiquated", "closeness": 3, "reasoning": "A mandatory suit-and-tie policy seen as belonging to an earlier era fits 'antiquated,' and the sentence even uses 'relic' to reinforce this sense, making this a very strong trap; however, 'antiquated' focuses on something being old and discarded, while 'anachronistic' emphasizes the clash between old practice and current context." },
+        { "distractor": "conservative", "closeness": 3, "reasoning": "A formal dress code at a tech company looks conservative compared to casual industry norms, and younger employees finding it out of place supports this reading, but 'conservative' describes a preference for tradition rather than the specific idea that the policy belongs to a different historical era." },
+        { "distractor": "bureaucratic", "closeness": 3, "reasoning": "A mandatory policy imposed top-down without flexibility could be called bureaucratic, but the sentence explains the policy as belonging to a time when formality had a specific function, identifying a temporal mismatch rather than administrative overreach." },
+        { "distractor": "impractical", "closeness": 2, "reasoning": "Suits and ties at a tech company might be impractical, but the sentence's explanation—that the policy belonged to an era when formality signaled competence—frames the complaint as a temporal argument, not a practical one." },
+        { "distractor": "elitist", "closeness": 2, "reasoning": "A dress code requiring expensive formal wear could be seen as elitist, but the sentence frames the younger employees' criticism in terms of the policy belonging to an earlier era, not in terms of social class bias." },
+        { "distractor": "excessive", "closeness": 2, "reasoning": "Requiring suits and ties might seem excessive in a casual tech environment, but 'excessive' describes degree rather than the temporal mismatch between an old-fashioned standard and the current workplace." },
+        { "distractor": "absurd", "closeness": 2, "reasoning": "Younger employees might find the requirement absurd, but 'absurd' implies logical impossibility or ridiculous irrationality, whereas the sentence grounds the criticism specifically in the idea that the policy made sense in an earlier era but not now." },
+        { "distractor": "fashionable", "closeness": 1, "reasoning": "The sentence describes a dress code that employees find out of step with the times; 'fashionable' would mean the opposite—trendy and current—making this clearly wrong." },
+        { "distractor": "voluntary", "closeness": 1, "reasoning": "The sentence says the dress code was mandatory, so 'voluntary' directly contradicts an explicit detail in the sentence, making this obviously wrong." },
+        { "distractor": "progressive", "closeness": 1, "reasoning": "Progressive means forward-looking; the sentence describes a policy that younger employees see as belonging to the past, making 'progressive' the opposite of what the sentence requires." }
       ]
     }
   ]

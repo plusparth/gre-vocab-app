@@ -4,181 +4,49 @@
     {
       "sentence": "An independent panel was called to adjudicate the bitter dispute between the two companies.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "arbitrate", "closeness": 3, "reasoning": "Arbitrate is nearly identical in practice but implies a private, mutually agreed process, whereas adjudicate more often implies formal judicial or quasi-judicial authority." },
+        { "distractor": "mediate", "closeness": 3, "reasoning": "Mediate means helping two parties reach agreement without imposing a decision; adjudicate means rendering a binding decision, which is a more authoritative act." },
+        { "distractor": "resolve", "closeness": 3, "reasoning": "Resolve describes the outcome rather than the official process of rendering a judgment, which is what adjudicate specifically means." },
+        { "distractor": "referee", "closeness": 3, "reasoning": "Referee implies managing ongoing play or process by rules rather than issuing a formal judicial ruling on competing claims, as adjudicate does." },
+        { "distractor": "investigate", "closeness": 2, "reasoning": "Investigate means gathering information and facts but does not include the step of rendering an official binding decision, which adjudicate requires." },
+        { "distractor": "negotiate", "closeness": 2, "reasoning": "Negotiate means the parties themselves work toward agreement; adjudicate involves a third party imposing a decision, which is a different process." },
+        { "distractor": "review", "closeness": 2, "reasoning": "Review means to examine something but does not necessarily culminate in an official binding ruling the way adjudicate does." },
+        { "distractor": "oversee", "closeness": 2, "reasoning": "Oversee means to supervise a process without the specific judicial function of hearing evidence and rendering a formal decision that adjudicate implies." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Ignore means to deliberately disregard the dispute, which is the opposite of adjudicate's active process of hearing and deciding it." },
+        { "distractor": "inflame", "closeness": 1, "reasoning": "Inflame means to worsen a dispute, which is the opposite of adjudicate's purpose of resolving it through official judgment." },
+        { "distractor": "prolong", "closeness": 1, "reasoning": "Prolong means to extend a dispute without resolution, contrary to adjudicate's function of bringing it to an official close." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to adjudicate before the meeting adjourned.",
+      "sentence": "The World Trade Organization has the authority to adjudicate trade disputes between member nations.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "settle", "closeness": 3, "reasoning": "Settle describes the outcome of ending a dispute but lacks adjudicate's specific connotation of a formal, procedurally governed legal or quasi-legal process." },
+        { "distractor": "rule on", "closeness": 3, "reasoning": "Rule on is close but more informal and typically used in narrower judicial contexts; adjudicate implies a full procedural process leading to a decision." },
+        { "distractor": "judge", "closeness": 3, "reasoning": "Judge is a near synonym but is broader and does not always imply the structured legal or quasi-legal procedure that adjudicate denotes." },
+        { "distractor": "preside over", "closeness": 3, "reasoning": "Preside over describes managing a proceeding but not the act of issuing the final binding decision, which is adjudicate's core meaning." },
+        { "distractor": "monitor", "closeness": 2, "reasoning": "Monitor means to observe and track compliance, which is different from the decision-making authority that adjudicate implies." },
+        { "distractor": "enforce", "closeness": 2, "reasoning": "Enforce means to compel compliance with an existing rule or decision, not to determine the merits of a new dispute as adjudicate does." },
+        { "distractor": "litigate", "closeness": 2, "reasoning": "Litigate describes the act of bringing or contesting a legal case, typically done by parties rather than by the deciding body itself, as adjudicate implies." },
+        { "distractor": "convene", "closeness": 2, "reasoning": "Convene means to call parties together but does not describe the process of hearing and deciding, which adjudicate does." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Ignore means to disregard disputes, directly contrary to adjudicate's mandate of formally deciding them." },
+        { "distractor": "escalate", "closeness": 1, "reasoning": "Escalate means to intensify a dispute, the opposite of adjudicate's function of resolving it with a formal decision." },
+        { "distractor": "defer", "closeness": 1, "reasoning": "Defer means to postpone a decision or yield to another party, which is the opposite of the active rendering of judgment that adjudicate requires." }
       ]
     },
     {
-      "sentence": "The curator chose to adjudicate the fragile document only after consulting the conservator.",
+      "sentence": "She was appointed to adjudicate grant applications, ranking proposals on originality and feasibility.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "evaluate", "closeness": 3, "reasoning": "Evaluate describes assessing quality but does not imply the formal authority and binding decision that adjudicate carries, even in a non-legal context." },
+        { "distractor": "assess", "closeness": 3, "reasoning": "Assess means to measure or estimate something without necessarily implying an official, dispositive verdict the way adjudicate does." },
+        { "distractor": "score", "closeness": 3, "reasoning": "Score implies assigning a numerical value and is only part of the adjudicating process, which also includes formal authority and final judgment." },
+        { "distractor": "rank", "closeness": 3, "reasoning": "Rank describes ordering items by quality, which is a component of adjudicating applications but not the full process of official review and decision." },
+        { "distractor": "examine", "closeness": 2, "reasoning": "Examine means to scrutinize proposals but does not encompass the official verdict and formal authority that adjudicate implies." },
+        { "distractor": "approve", "closeness": 2, "reasoning": "Approve describes a possible outcome of the process but not the full process of adjudicating, which involves weighing and deciding among competing applications." },
+        { "distractor": "compile", "closeness": 2, "reasoning": "Compile means to gather together applications and has nothing to do with the evaluation and decision process that adjudicate describes." },
+        { "distractor": "distribute", "closeness": 2, "reasoning": "Distribute means to allocate resources after a decision has been made, not to make the evaluative judgment itself." },
+        { "distractor": "submit", "closeness": 1, "reasoning": "Submit means to put forward an application for consideration, which is the applicant's role — the opposite of adjudicate's role of judging it." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Ignore means to not consider the applications, directly contradicting adjudicate's process of thorough review and decision." },
+        { "distractor": "withdraw", "closeness": 1, "reasoning": "Withdraw means to remove a proposal from consideration, the opposite of adjudicate's function of formally evaluating and deciding on it." }
       ]
     }
   ]

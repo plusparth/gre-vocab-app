@@ -4,181 +4,49 @@
     {
       "sentence": "Costs ballooned far beyond the original estimate, ultimately tripling the projected budget.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "escalated", "closeness": 3, "reasoning": "Close — 'escalated' captures rapid increase, and tripling a budget fits that description, but 'escalated' implies a step-by-step rise, whereas 'ballooned' suggests an sudden, dramatic expansion beyond expectation." },
+        { "distractor": "surged", "closeness": 3, "reasoning": "Close — costs surging beyond estimate is very plausible, but 'surged' implies a powerful forward push, while 'ballooned' emphasizes outward swelling to an extreme size." },
+        { "distractor": "soared", "closeness": 3, "reasoning": "Close — 'soared' describes dramatic upward movement that fits tripling a budget, but 'soared' suggests a smooth upward trajectory, while 'ballooned' implies an ungainly, out-of-control inflation." },
+        { "distractor": "spiraled", "closeness": 3, "reasoning": "Close — 'spiraled' implies runaway, out-of-control growth that matches tripling an estimate, but 'spiraled' carries a sense of downward chaos, while 'ballooned' specifically evokes outward, excessive expansion." },
+        { "distractor": "increased", "closeness": 2, "reasoning": "Too mild — 'increased' is generic and doesn't capture the dramatic, unexpected extent of costs tripling; 'ballooned' implies something excessive and shocking." },
+        { "distractor": "doubled", "closeness": 2, "reasoning": "The sentence specifies tripling, so 'doubled' is factually insufficient; but even as a blank-filler it would describe a specific amount rather than the manner of expansion that 'ballooned' conveys." },
+        { "distractor": "accumulated", "closeness": 2, "reasoning": "'Accumulated' implies gradual build-up over time rather than the dramatic, disproportionate explosion implied by 'ballooned far beyond the original estimate.'" },
+        { "distractor": "fluctuated", "closeness": 2, "reasoning": "'Fluctuated' implies up-and-down variation, which contradicts the sentence's clear description of one-directional explosive growth." },
+        { "distractor": "shrank", "closeness": 1, "reasoning": "Opposite — the sentence describes costs expanding dramatically, not contracting." },
+        { "distractor": "stabilized", "closeness": 1, "reasoning": "Opposite — the costs were anything but stable, tripling far beyond the estimate." },
+        { "distractor": "disappeared", "closeness": 1, "reasoning": "Nonsensical — costs cannot disappear; the sentence is about dramatic growth, not elimination." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected balloon, which altered the course of the committee's deliberations.",
+      "sentence": "As the holiday shopping season approached, the company's order backlog ballooned to three times its usual size.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "expanded", "closeness": 3, "reasoning": "Close — an order backlog growing during peak season could be described as expanding, but 'expanded' is a measured, controlled growth word, while 'ballooned' implies rapid, almost unmanageable inflation." },
+        { "distractor": "swelled", "closeness": 3, "reasoning": "Very close — 'swelled' shares the physical imagery of outward growth and fits a backlog increasing to triple its size, but 'ballooned' carries the additional implication of going beyond expected or manageable limits." },
+        { "distractor": "multiplied", "closeness": 3, "reasoning": "Close — tripling is a form of multiplication, but 'multiplied' is mathematically precise and neutral, lacking the sense of runaway excess and unexpected inflation that 'ballooned' conveys." },
+        { "distractor": "accumulated", "closeness": 3, "reasoning": "Close — orders building up during the holiday rush could be described as accumulating, but 'accumulated' implies a slow, steady piling up rather than the rapid, dramatic swelling 'ballooned' implies." },
+        { "distractor": "increased", "closeness": 2, "reasoning": "'Increased' is too generic and understated for tripling to an unusual size; the sentence calls for a word that expresses dramatic, surprising growth." },
+        { "distractor": "reached", "closeness": 2, "reasoning": "'Reached' would simply state an endpoint without capturing the manner of growth or its surprising, disproportionate nature." },
+        { "distractor": "appeared", "closeness": 2, "reasoning": "'Appeared' describes something coming into existence or view rather than a quantity growing dramatically." },
+        { "distractor": "shrunk", "closeness": 2, "reasoning": "Contradicted by the season — approaching holiday shopping drives orders up, not down." },
+        { "distractor": "collapsed", "closeness": 1, "reasoning": "Opposite — the backlog grows dramatically rather than falling apart." },
+        { "distractor": "vanished", "closeness": 1, "reasoning": "Opposite — orders triple, the opposite of disappearing." },
+        { "distractor": "stagnated", "closeness": 1, "reasoning": "Opposite — the sentence describes dramatic growth, not a plateau." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the balloon to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "The politician's national profile ballooned after a single viral speech, turning a regional figure into a household name overnight.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "grew", "closeness": 3, "reasoning": "Close — a politician's profile growing after a viral speech is natural, but 'grew' implies gradual, incremental development, whereas 'ballooned' conveys sudden, disproportionate expansion." },
+        { "distractor": "emerged", "closeness": 3, "reasoning": "Close — 'emerged' implies coming into visibility, which fits going from regional to national, but it suggests a coming-out rather than the explosive expansion from something already existing that 'ballooned' describes." },
+        { "distractor": "skyrocketed", "closeness": 3, "reasoning": "Close — fame rising overnight from a single speech matches skyrocketing, but 'skyrocketed' emphasizes rapid upward movement, while 'ballooned' emphasizes outward, disproportionate swelling in all directions." },
+        { "distractor": "transformed", "closeness": 3, "reasoning": "Close — going from regional to household name involves transformation, but 'transformed' implies a change of nature or form, while 'ballooned' focuses specifically on dramatic growth in size or extent." },
+        { "distractor": "improved", "closeness": 2, "reasoning": "'Improved' suggests positive but modest enhancement, not the explosive overnight expansion described in the sentence." },
+        { "distractor": "changed", "closeness": 2, "reasoning": "Too vague — 'changed' says nothing about the direction or magnitude of the shift; the sentence describes dramatic increase, not neutral change." },
+        { "distractor": "declined", "closeness": 2, "reasoning": "Contradicted by the sentence — the politician becomes a household name, indicating growth rather than decline." },
+        { "distractor": "settled", "closeness": 2, "reasoning": "'Settled' implies stabilizing or coming to rest, which contradicts the explosive, sudden expansion in the sentence." },
+        { "distractor": "collapsed", "closeness": 1, "reasoning": "Opposite — the sentence describes a major rise, not a fall." },
+        { "distractor": "disappeared", "closeness": 1, "reasoning": "Opposite — becoming a household name is the opposite of disappearing from public view." },
+        { "distractor": "diminished", "closeness": 1, "reasoning": "Opposite — the politician's profile expands dramatically rather than shrinking." }
       ]
     }
   ]

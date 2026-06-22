@@ -1,0 +1,53 @@
+{
+  "word": "contraries",
+  "sentenceSets": [
+    {
+      "sentence": "The philosopher argued that apparent contraries—light and dark, silence and sound—define each other.",
+      "answerChoices": [
+        { "distractor": "opposites", "closeness": 3, "reasoning": "Very close synonym, but 'opposites' is a neutral descriptive term; 'contraries' carries a philosophical sense that two conditions are logically incompatible, not merely at different poles." },
+        { "distractor": "paradoxes", "closeness": 3, "reasoning": "Plausible in a philosophical sentence, but a paradox is a statement that contradicts itself; 'contraries' are simply incompatible conditions, not self-contradictory statements." },
+        { "distractor": "contradictions", "closeness": 3, "reasoning": "Close, but 'contradictions' in philosophy implies logical impossibility of both being true simultaneously; 'contraries' are things that cannot coexist, but the word is broader and less technical." },
+        { "distractor": "antitheses", "closeness": 3, "reasoning": "An antithesis is a rhetorical contrast; in philosophical usage the word leans toward stylistic opposition, whereas 'contraries' denotes genuine incompatibility of facts or conditions." },
+        { "distractor": "dichotomies", "closeness": 2, "reasoning": "A dichotomy is a division into two mutually exclusive groups; while related, it emphasizes classification rather than the mutual dependence and definition that the sentence highlights." },
+        { "distractor": "polarities", "closeness": 2, "reasoning": "Polarities suggests two poles of a spectrum, which fits the examples given, but the word does not carry the incompatibility required by the philosophical argument in the sentence." },
+        { "distractor": "dualities", "closeness": 2, "reasoning": "Duality implies two aspects of one whole; the sentence is making an argument about things that define each other through opposition, which is more specific than mere duality." },
+        { "distractor": "anomalies", "closeness": 2, "reasoning": "An anomaly is something that deviates from the norm; it cannot replace 'contraries' because the sentence requires a term for things that stand in opposition to each other." },
+        { "distractor": "enigmas", "closeness": 1, "reasoning": "An enigma is a mystery or puzzle; it has no sense of opposition or incompatibility and is clearly wrong in context." },
+        { "distractor": "similarities", "closeness": 1, "reasoning": "Opposite meaning—similarities would reverse the argument the philosopher is making." },
+        { "distractor": "supplements", "closeness": 1, "reasoning": "Supplements are additions that complement something; this is the opposite of incompatible conditions." }
+      ]
+    },
+    {
+      "sentence": "Medieval logicians devoted entire treatises to the behavior of contraries, mapping which pairs of propositions could not both be true at once.",
+      "answerChoices": [
+        { "distractor": "contradictions", "closeness": 3, "reasoning": "In Aristotelian logic, contradictions and contraries are distinct: contradictions cannot both be true or both false, while contraries cannot both be true but can both be false; a test-taker who does not know this distinction will find the sentence equally compatible with either." },
+        { "distractor": "negations", "closeness": 3, "reasoning": "A negation is the logical denial of a proposition; the sentence describes pairs of propositions in opposition, which could fit negation, but 'contraries' is the specific technical term for such pairs." },
+        { "distractor": "opposites", "closeness": 3, "reasoning": "While 'opposites' is close in everyday meaning, the sentence's formal logical context—propositions that cannot both be true—calls for the technical term 'contraries' rather than a colloquial synonym." },
+        { "distractor": "paradoxes", "closeness": 3, "reasoning": "Paradoxes self-contradict; the sentence describes pairs of propositions with a logical relationship, not self-contradictory statements, making paradox an attractive but incorrect trap." },
+        { "distractor": "dichotomies", "closeness": 2, "reasoning": "A dichotomy is a two-way division; it does not have the logical force of propositions that cannot both be true simultaneously, which the sentence requires." },
+        { "distractor": "arguments", "closeness": 2, "reasoning": "Arguments are sequences of reasoning, not pairs of propositions in opposition; the sentence specifically discusses the logical relationship between proposition pairs." },
+        { "distractor": "antinomies", "closeness": 2, "reasoning": "An antinomy is a contradiction between two principles; while in the same logical neighborhood, it usually refers to laws or principles, not simple propositions, so it does not fit precisely." },
+        { "distractor": "axioms", "closeness": 2, "reasoning": "Axioms are foundational assumptions; they are not pairs in opposition and cannot replace 'contraries' in a sentence about which propositions cannot both be true." },
+        { "distractor": "analogies", "closeness": 1, "reasoning": "Analogies draw comparisons rather than express opposition; completely wrong semantic field for a sentence about logical incompatibility." },
+        { "distractor": "doctrines", "closeness": 1, "reasoning": "Doctrines are established beliefs or teachings, not pairs of logically opposing propositions." },
+        { "distractor": "harmonies", "closeness": 1, "reasoning": "Harmonies implies agreement and concord, the opposite of incompatible conditions that cannot both be true." }
+      ]
+    },
+    {
+      "sentence": "The political theorist warned that treating democracy and authoritarianism as mere contraries misses the spectrum of hybrid regimes between them.",
+      "answerChoices": [
+        { "distractor": "opposites", "closeness": 3, "reasoning": "Commonly used in this sense, but the theorist's specific point is about logical incompatibility versus a continuous spectrum; 'contraries' in this context implies a binary that the theorist is questioning." },
+        { "distractor": "antitheses", "closeness": 3, "reasoning": "Antitheses suggests rhetorical contrast; the theorist is making a conceptual argument about classification, not a rhetorical one, so 'contraries' is more precise." },
+        { "distractor": "alternatives", "closeness": 3, "reasoning": "Alternatives implies choices without requiring incompatibility; the sentence's argument about hybrid regimes would apply, making this a close trap, but 'contraries' specifically implies mutual exclusion that the theorist disputes." },
+        { "distractor": "extremes", "closeness": 3, "reasoning": "Extremes fits the political example well since democracy and authoritarianism are at opposite ends, but 'extremes' lacks the logical sense of incompatibility that the theorist's warning hinges on." },
+        { "distractor": "binaries", "closeness": 2, "reasoning": "Binary fits the argument about treating two things as an either/or, but it is an adjective used as a noun colloquially; 'contraries' fits the grammatical slot more naturally." },
+        { "distractor": "rivals", "closeness": 2, "reasoning": "Rivals implies competition rather than logical incompatibility; the sentence is making an epistemological point, not a political one about competition between systems." },
+        { "distractor": "variants", "closeness": 2, "reasoning": "Variants implies differences within a category; the theorist is arguing against treating them as mutually exclusive, so 'variants' would actually support the theorist's view rather than express the binary view being critiqued." },
+        { "distractor": "concepts", "closeness": 2, "reasoning": "Too generic; 'concepts' does not capture the opposition or incompatibility that the sentence is explicitly arguing against." },
+        { "distractor": "partners", "closeness": 1, "reasoning": "Partners implies cooperation, which is clearly wrong when discussing democracy and authoritarianism in opposition." },
+        { "distractor": "precedents", "closeness": 1, "reasoning": "Precedents are prior cases used as guides; completely wrong semantic field for a sentence about logical categories." },
+        { "distractor": "complements", "closeness": 1, "reasoning": "Complements implies things that complete or enhance each other, the opposite of what the sentence means by contraries." }
+      ]
+    }
+  ]
+}

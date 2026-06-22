@@ -1,0 +1,53 @@
+{
+  "word": "finagle",
+  "sentenceSets": [
+    {
+      "sentence": "He finagled a seat at the table through a series of introductions and favors that would have taken others years to arrange.",
+      "answerChoices": [
+        { "distractor": "secured", "closeness": 3, "reasoning": "Secured means obtained or guaranteed and fits the context of getting a seat at the table, but it implies straightforward acquisition through legitimate means rather than the indirect, scheming route finagle describes." },
+        { "distractor": "maneuvered", "closeness": 3, "reasoning": "Maneuvered implies skillful or crafty navigation of a situation and shares finagle's sense of indirect means, but it does not specifically connote obtaining something through a chain of favors and introductions." },
+        { "distractor": "engineered", "closeness": 3, "reasoning": "Engineered suggests contriving a complex outcome through planning and fits the elaborate sequence of introductions and favors, but it implies technical precision rather than the wily social scheming finagle implies." },
+        { "distractor": "arranged", "closeness": 3, "reasoning": "Arranged could describe the outcome of the introductions and favors described, and even appears in the sentence itself, but it implies orderly planning rather than the cunning manipulation that finagle carries." },
+        { "distractor": "negotiated", "closeness": 2, "reasoning": "Negotiated implies working out terms with another party, which partially describes the favors exchanged, but it implies open bilateral exchange rather than the covert, indirect maneuvering finagle suggests." },
+        { "distractor": "wrangled", "closeness": 2, "reasoning": "Wrangled means obtained through persistent effort or argument, and shares some of finagle's informal scheming flavor, but it typically implies contentious struggle rather than quiet social manipulation through favors." },
+        { "distractor": "earned", "closeness": 2, "reasoning": "Earned suggests obtaining something through merit or effort, which partially fits the effort involved in arranging introductions and favors, but it entirely removes the implication of cunning or indirect means." },
+        { "distractor": "claimed", "closeness": 2, "reasoning": "Claimed means asserted a right to something or took possession of it, which fits the outcome of gaining a seat, but it implies assertion rather than the elaborate indirect process of manipulation finagle describes." },
+        { "distractor": "demanded", "closeness": 1, "reasoning": "Demanded implies direct, forceful assertion of entitlement, which is the opposite of finagle's indirect, subtle approach through behind-the-scenes introductions and favors." },
+        { "distractor": "inherited", "closeness": 1, "reasoning": "Inherited implies receiving something passed down rather than obtained through one's own scheming, which fundamentally changes the nature of the acquisition described in the sentence." },
+        { "distractor": "relinquished", "closeness": 1, "reasoning": "Relinquished means gave up or surrendered, which is the opposite of obtaining a seat at the table, making it entirely incompatible with the sentence's meaning." }
+      ]
+    },
+    {
+      "sentence": "The contractor managed to finagle a change order that tripled the project budget, using technicalities in the contract language to justify each increase.",
+      "answerChoices": [
+        { "distractor": "secure", "closeness": 3, "reasoning": "Secure fits the context of obtaining a favorable change order and implies successful acquisition, but it suggests straightforward contractual entitlement rather than the manipulation of technicalities finagle implies." },
+        { "distractor": "manipulate", "closeness": 3, "reasoning": "Manipulate shares finagle's sense of using indirect or tricky means and fits the exploitation of contract technicalities, but it is a transitive verb that typically takes a person rather than a document or outcome as its object." },
+        { "distractor": "engineer", "closeness": 3, "reasoning": "Engineer implies contriving a complex outcome through planning, and the exploitation of contract technicalities supports this reading, but it suggests deliberate technical scheming rather than the wily opportunism finagle conveys." },
+        { "distractor": "extract", "closeness": 3, "reasoning": "Extract means to obtain with effort and could describe pulling money from the project budget, but it suggests forceful or difficult removal rather than the clever, indirect manipulation implied by using technicalities." },
+        { "distractor": "negotiate", "closeness": 2, "reasoning": "Negotiate implies open bilateral discussion to reach an agreement, which partially describes a change order process, but it removes the sense of bad-faith exploitation of technicalities that finagle implies here." },
+        { "distractor": "obtain", "closeness": 2, "reasoning": "Obtain is a neutral term for getting something and accurately describes the outcome, but it entirely lacks the connotation of cunning or indirect maneuvering that makes finagle the precise word in this context." },
+        { "distractor": "circumvent", "closeness": 2, "reasoning": "Circumvent means to find a way around an obstacle, which partially describes exploiting contract language loopholes, but it typically describes avoiding something rather than obtaining a specific benefit from it." },
+        { "distractor": "draft", "closeness": 2, "reasoning": "Draft could describe producing a change order as a document, and the detail about contract language lends some plausibility, but drafting a change order is a normal act rather than the scheming acquisition finagle describes." },
+        { "distractor": "request", "closeness": 1, "reasoning": "Request implies a legitimate, transparent ask rather than manipulation through technicalities, and it entirely removes the implication of cunning or bad faith that the sentence builds around finagle." },
+        { "distractor": "challenge", "closeness": 1, "reasoning": "Challenge implies contesting something rather than obtaining it, which does not fit the context of the contractor gaining a favorable budget increase through the change order." },
+        { "distractor": "forfeit", "closeness": 1, "reasoning": "Forfeit means to lose or give up something, which is the opposite of obtaining a budget-tripling change order, making it wholly incompatible with the sentence's meaning." }
+      ]
+    },
+    {
+      "sentence": "She somehow managed to finagle invitations to three private dinners in the same evening, attending each just long enough to be noticed.",
+      "answerChoices": [
+        { "distractor": "procure", "closeness": 3, "reasoning": "Procure means to obtain something with care or effort, which fits the context of acquiring coveted private dinner invitations, but it implies diligent legitimate acquisition rather than the cunning social scheming finagle suggests." },
+        { "distractor": "wangle", "closeness": 3, "reasoning": "Wangle is nearly synonymous with finagle and describes obtaining something by artful or devious means, making it the closest substitute, though it is slightly more informal and colloquial in register." },
+        { "distractor": "secure", "closeness": 3, "reasoning": "Secure fits the context of obtaining coveted invitations and implies successful acquisition, but it suggests straightforward effort or entitlement rather than the indirect social maneuvering finagle implies." },
+        { "distractor": "solicit", "closeness": 3, "reasoning": "Solicit means to approach someone with a request, which describes a possible route to getting invitations, but it implies open, direct asking rather than the behind-the-scenes manipulation finagle connotes." },
+        { "distractor": "acquire", "closeness": 2, "reasoning": "Acquire means to come into possession of something and fits the context of gaining invitations, but it is entirely neutral and strips away all implication of cunning or indirect maneuvering from the sentence." },
+        { "distractor": "arrange", "closeness": 2, "reasoning": "Arrange implies organizing or planning the invitations, which partially captures the deliberate effort involved, but it suggests organizational skill rather than the scheming self-promotion that finagle implies." },
+        { "distractor": "accumulate", "closeness": 2, "reasoning": "Accumulate suggests gathering things over time, and three invitations in one evening does involve multiple acquisitions, but it implies passive or gradual collection rather than the active cunning manipulation finagle describes." },
+        { "distractor": "attend", "closeness": 2, "reasoning": "Attend describes what she does at the dinners rather than how she obtained invitations, and the sentence already uses attend later, so substituting it for finagled would shift the focus of the sentence entirely." },
+        { "distractor": "decline", "closeness": 1, "reasoning": "Decline means to refuse or turn down, which is the opposite of obtaining and attending invitations, making it entirely incompatible with the sentence's meaning." },
+        { "distractor": "deserve", "closeness": 1, "reasoning": "Deserve implies meriting something through one's qualities or actions, which contradicts the cunning-and-scheming implication of finagle and the detail about attending just long enough to be noticed." },
+        { "distractor": "forge", "closeness": 1, "reasoning": "Forge in the sense of fabricating documents implies outright fraud rather than the social scheming finagle describes, and it would change the nature of the action from clever maneuvering to criminal falsification." }
+      ]
+    }
+  ]
+}

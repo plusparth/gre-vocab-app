@@ -4,181 +4,49 @@
     {
       "sentence": "The modest acknowledgment she gave for her award was becoming—neither falsely humble nor self-congratulatory.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "appropriate", "closeness": 3, "reasoning": "Appropriate stresses conformity to rules or standards, while becoming also carries a sense of aesthetic or moral grace that mere appropriateness does not fully capture." },
+        { "distractor": "commendable", "closeness": 3, "reasoning": "Commendable means worthy of praise, which is too positive in valence; becoming implies suitability and tasteful restraint rather than outright admirable conduct." },
+        { "distractor": "dignified", "closeness": 3, "reasoning": "Dignified stresses the quality of gravitas, whereas becoming emphasizes the fit between behavior and circumstance, a subtler criterion than general dignity." },
+        { "distractor": "tasteful", "closeness": 3, "reasoning": "Tasteful focuses on aesthetic correctness, whereas becoming covers both aesthetic and moral suitability in a way tasteful alone does not." },
+        { "distractor": "expected", "closeness": 2, "reasoning": "Expected describes conformity to anticipation, not the positive quality of fitting grace that becoming implies in judging social conduct." },
+        { "distractor": "practiced", "closeness": 2, "reasoning": "Practiced implies deliberate rehearsal, suggesting calculation rather than the natural ease and suitability that becoming conveys." },
+        { "distractor": "calculated", "closeness": 2, "reasoning": "Calculated implies deliberate strategy, which contradicts the genuine, naturally fitting quality that becoming describes." },
+        { "distractor": "admirable", "closeness": 2, "reasoning": "Admirable is stronger praise than becoming; it lauds the action itself rather than judging it fitting to the occasion." },
+        { "distractor": "boastful", "closeness": 1, "reasoning": "Boastful means excessively proud, the opposite extreme of the modest, fitting behavior that becoming describes." },
+        { "distractor": "unbecoming", "closeness": 1, "reasoning": "Unbecoming is the direct antonym, describing conduct that is unsuitable or unseemly rather than fitting and graceful." },
+        { "distractor": "ostentatious", "closeness": 1, "reasoning": "Ostentatious means showy and designed to impress, directly opposed to the restrained suitability that becoming implies." }
       ]
     },
     {
-      "sentence": "Her becoming response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The junior diplomat's measured silence during the heated exchange was entirely becoming, signaling respect without conceding weakness.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "fitting", "closeness": 3, "reasoning": "Fitting is nearly synonymous but lacks becoming's moral and social elegance; it suggests mere suitability without the finer connotation of grace under pressure." },
+        { "distractor": "prudent", "closeness": 3, "reasoning": "Prudent emphasizes practical wisdom, whereas becoming stresses the quality of being properly suited to a role or occasion, which is a subtler criterion." },
+        { "distractor": "strategic", "closeness": 3, "reasoning": "Strategic implies deliberate calculation for advantage, while becoming suggests a naturally graceful and appropriate response without implying cunning." },
+        { "distractor": "admirable", "closeness": 3, "reasoning": "Admirable offers unqualified praise, whereas becoming makes a more specific judgment: that the behavior suits the person and situation." },
+        { "distractor": "conspicuous", "closeness": 2, "reasoning": "Conspicuous means noticeably prominent, unrelated to the quality of suitability and grace that becoming evaluates." },
+        { "distractor": "curious", "closeness": 2, "reasoning": "Curious implies an unusual or puzzling quality, which diverges from the positive social judgment becoming conveys about the diplomat's conduct." },
+        { "distractor": "passive", "closeness": 2, "reasoning": "Passive describes inaction without judgment, whereas becoming implies that the silence was actively and fittingly appropriate." },
+        { "distractor": "alarming", "closeness": 2, "reasoning": "Alarming suggests something to worry about, the opposite assessment of what becoming offers: that the behavior was ideally suited to the moment." },
+        { "distractor": "presumptuous", "closeness": 1, "reasoning": "Presumptuous means overstepping one's proper bounds, a near antonym of becoming, which describes behavior well within appropriate limits." },
+        { "distractor": "brazen", "closeness": 1, "reasoning": "Brazen means boldly disrespectful, directly opposed to the measured, fitting restraint that becoming praises." },
+        { "distractor": "obsequious", "closeness": 1, "reasoning": "Obsequious means excessively fawning, an extreme that would violate the balanced, fitting quality that becoming describes." }
       ]
     },
     {
-      "sentence": "The curator's becoming arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "Critics agreed that the blue ribbon tie was particularly becoming on the chancellor, its simplicity matching the gravity of the occasion.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "flattering", "closeness": 3, "reasoning": "Flattering implies making someone look better physically, whereas becoming in a sartorial sense emphasizes that the choice suits the wearer's role and the occasion's character." },
+        { "distractor": "attractive", "closeness": 3, "reasoning": "Attractive focuses purely on visual appeal, while becoming also incorporates the idea of suitability to rank, occasion, and character." },
+        { "distractor": "elegant", "closeness": 3, "reasoning": "Elegant stresses a quality of refined beauty, whereas becoming additionally implies a fit between the garment and the person's station and the event's mood." },
+        { "distractor": "appropriate", "closeness": 3, "reasoning": "Appropriate focuses on rule-correctness, while becoming adds an aesthetic and social grace that goes beyond mere compliance with dress codes." },
+        { "distractor": "vibrant", "closeness": 2, "reasoning": "Vibrant implies bold energy and color, unrelated to the quality of tasteful suitability that becoming conveys about the chancellor's choice." },
+        { "distractor": "conspicuous", "closeness": 2, "reasoning": "Conspicuous means catching the eye in a notable way, which can be either positive or negative, unlike becoming, which is an unambiguous compliment about suitability." },
+        { "distractor": "conservative", "closeness": 2, "reasoning": "Conservative describes stylistic restraint without commenting on whether the choice suits the wearer and occasion, as becoming does." },
+        { "distractor": "fashionable", "closeness": 2, "reasoning": "Fashionable emphasizes trendy currency, while becoming evaluates whether the choice is suitable to the person's character and the event's gravity." },
+        { "distractor": "garish", "closeness": 1, "reasoning": "Garish means tastelessly bright and showy, the opposite of the understated, suitable quality that becoming praises." },
+        { "distractor": "dowdy", "closeness": 1, "reasoning": "Dowdy means dull and unstylish, a negative judgment that directly opposes the positive assessment becoming provides." },
+        { "distractor": "absurd", "closeness": 1, "reasoning": "Absurd implies a laughably poor or illogical choice, the direct opposite of the suitable and graceful fit that becoming describes." }
       ]
     }
   ]

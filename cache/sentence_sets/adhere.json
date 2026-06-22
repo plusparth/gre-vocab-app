@@ -4,181 +4,49 @@
     {
       "sentence": "He adhered strictly to his principles even when doing so cost him professionally.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "clung", "closeness": 3, "reasoning": "Clung can serve the same meaning but often suggests emotional dependence rather than the deliberate, principled commitment that adhere conveys." },
+        { "distractor": "conformed", "closeness": 3, "reasoning": "Conformed implies adjusting behavior to match external expectations, whereas adhere suggests holding fast to an internally held standard." },
+        { "distractor": "submitted", "closeness": 3, "reasoning": "Submitted implies yielding to an external authority rather than the active, principled commitment to one's own values that adhere describes." },
+        { "distractor": "committed", "closeness": 3, "reasoning": "Committed is close but functions as an adjective or past tense verb describing a state, while adhere emphasizes the ongoing act of holding to something." },
+        { "distractor": "believed", "closeness": 2, "reasoning": "Believed describes an internal state of conviction but not the behavioral act of holding to principles in conduct, which adhere requires." },
+        { "distractor": "defended", "closeness": 2, "reasoning": "Defended implies actively arguing for something when challenged, while adhere is about steadfastly following or keeping to it in action." },
+        { "distractor": "maintained", "closeness": 2, "reasoning": "Maintained focuses on keeping something in a stable state and does not capture the 'sticking to' quality of adhere in relation to personal values." },
+        { "distractor": "enforced", "closeness": 2, "reasoning": "Enforced implies applying rules on others, not one's own personal commitment to a standard, which is what adhere describes." },
+        { "distractor": "abandoned", "closeness": 1, "reasoning": "Abandoned means giving something up entirely, the direct opposite of adhere's meaning of clinging to it." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Ignored means deliberately disregarding something, which is antithetical to adhere's sense of following it closely." },
+        { "distractor": "betrayed", "closeness": 1, "reasoning": "Betrayed means acting against one's principles or loyalty, which is the opposite of adhere." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to adhere before the meeting adjourned.",
+      "sentence": "The new employee was careful to adhere to the company's code of conduct during her probationary period.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "follow", "closeness": 3, "reasoning": "Follow is more casual and does not convey the deliberate, dutiful holding fast to standards that adhere implies, especially in a compliance context." },
+        { "distractor": "observe", "closeness": 3, "reasoning": "Observe is close but often implies watching or noting something; adhere emphasizes active compliance and sticking to a rule rather than merely noticing it." },
+        { "distractor": "respect", "closeness": 3, "reasoning": "Respect implies a general attitude of deference and does not denote the active, disciplined behavioral compliance that adhere specifies." },
+        { "distractor": "uphold", "closeness": 3, "reasoning": "Uphold suggests actively defending or supporting something, which is slightly stronger than adhere's sense of simply sticking to the established standard." },
+        { "distractor": "acknowledge", "closeness": 2, "reasoning": "Acknowledge means to recognize the existence of a rule but not to actively comply with it, which is what adhere demands." },
+        { "distractor": "memorize", "closeness": 2, "reasoning": "Memorize describes a cognitive act wholly unrelated to the behavioral compliance that adhere involves." },
+        { "distractor": "consult", "closeness": 2, "reasoning": "Consult means to reference the code for guidance, not to comply with it in behavior, which is what adhere specifically means." },
+        { "distractor": "endorse", "closeness": 2, "reasoning": "Endorse means to express approval of something, not to comply with it in practice, as adhere requires." },
+        { "distractor": "undermine", "closeness": 1, "reasoning": "Undermine means to weaken or violate something from within, which is the opposite of adhere's meaning of faithfully following it." },
+        { "distractor": "circumvent", "closeness": 1, "reasoning": "Circumvent means to find a way around a rule, directly contradicting adhere's sense of complying with it." },
+        { "distractor": "defy", "closeness": 1, "reasoning": "Defy means to openly resist a rule or standard, which is the antonym of adhere." }
       ]
     },
     {
-      "sentence": "The curator chose to adhere the fragile document only after consulting the conservator.",
+      "sentence": "The label refused to adhere to the glass after the surface had been cleaned with alcohol.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "stick", "closeness": 3, "reasoning": "Stick is the most common synonym in a physical context but is informal; adhere in physical use implies a more technical or firm bonding process." },
+        { "distractor": "bond", "closeness": 3, "reasoning": "Bond is close but typically implies a chemical or structural union, slightly more permanent than the surface-level adhesion that adhere describes here." },
+        { "distractor": "cling", "closeness": 3, "reasoning": "Cling suggests holding on by gripping rather than the flat-surface adhesion that adhere typically denotes in a labeling context." },
+        { "distractor": "attach", "closeness": 3, "reasoning": "Attach is slightly broader and can involve fastening by any means, while adhere specifically suggests sticking through adhesive or surface contact." },
+        { "distractor": "fasten", "closeness": 2, "reasoning": "Fasten implies a mechanical means of securing, such as a clip or clasp, rather than the adhesive bonding that adhere implies." },
+        { "distractor": "seal", "closeness": 2, "reasoning": "Seal implies closing off an opening rather than simply making surface contact, so it is a different process than the adhesion adhere describes." },
+        { "distractor": "grip", "closeness": 2, "reasoning": "Grip involves a mechanical holding force rather than the flat-surface adhesion that adhere in this context means." },
+        { "distractor": "secure", "closeness": 2, "reasoning": "Secure describes an outcome rather than the adhesive mechanism by which adhere achieves it, making it a less precise substitute." },
+        { "distractor": "detach", "closeness": 1, "reasoning": "Detach means to separate from a surface, which is the opposite of what adhere means." },
+        { "distractor": "peel", "closeness": 1, "reasoning": "Peel means to come away from a surface, directly contradicting adhere's meaning of sticking to it." },
+        { "distractor": "dissolve", "closeness": 1, "reasoning": "Dissolve describes a substance breaking down, unrelated to and opposite in effect to the surface bonding adhere describes." }
       ]
     }
   ]

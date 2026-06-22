@@ -4,181 +4,49 @@
     {
       "sentence": "Critics questioned whether the donation was truly altruistic or simply a tax strategy.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "selfless", "closeness": 3, "reasoning": "Selfless is nearly synonymous with altruistic but is more informal and lacks the philosophical precision of altruistic, which specifically names a principle of acting for others' benefit." },
+        { "distractor": "philanthropic", "closeness": 3, "reasoning": "Philanthropic describes large-scale charitable giving, which fits a donation context, but philanthropic does not preclude public recognition or tax strategy—altruistic specifically requires absence of self-interest." },
+        { "distractor": "benevolent", "closeness": 3, "reasoning": "Benevolent means well-meaning and kind, which could describe the motivation behind the donation, but benevolence allows for self-serving elements that altruistic by definition excludes." },
+        { "distractor": "magnanimous", "closeness": 3, "reasoning": "Magnanimous means nobly generous, but it carries a sense of largeness of spirit rather than pure self-denial; magnanimous giving can still serve the giver's self-image." },
+        { "distractor": "charitable", "closeness": 2, "reasoning": "Charitable means showing kindness and generosity, especially to those in need; it fits the donation context but does not demand the complete absence of personal motive that altruistic requires." },
+        { "distractor": "virtuous", "closeness": 2, "reasoning": "Virtuous means having high moral character broadly; it is too general—altruistic specifically names the other-directed principle the critics are questioning." },
+        { "distractor": "sincere", "closeness": 2, "reasoning": "Sincere means genuine and not deceptive; it addresses honesty rather than the philosophical question of whether the motive is truly for others rather than oneself." },
+        { "distractor": "noble", "closeness": 2, "reasoning": "Noble means having high moral qualities; it is a positive value judgment but does not specify that the action is directed purely toward others with no self-benefit." },
+        { "distractor": "calculated", "closeness": 1, "reasoning": "Calculated means done with deliberate planning for personal advantage—essentially what the critics suspect, the opposite of altruistic motivation." },
+        { "distractor": "self-serving", "closeness": 1, "reasoning": "Self-serving means acting for one's own benefit—the critics' hypothesis and the direct opposite of altruistic." },
+        { "distractor": "cynical", "closeness": 1, "reasoning": "Cynical means distrustful and expecting the worst—this describes the critics' attitude, not a property of the donation itself." }
       ]
     },
     {
-      "sentence": "Her altruistic response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "Her decision to forgo a corporate salary and work at the clinic in rural Appalachia was widely seen as altruistic.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "idealistic", "closeness": 3, "reasoning": "Idealistic means guided by high principles; it could describe her choice but focuses on belief in ideals rather than the specific orientation of acting for others' welfare at personal cost." },
+        { "distractor": "devoted", "closeness": 3, "reasoning": "Devoted means deeply committed; it captures her dedication but could describe commitment to a personal passion as easily as to others' benefit—altruistic specifies the other-directed purpose." },
+        { "distractor": "admirable", "closeness": 3, "reasoning": "Admirable means deserving praise; it is a judgment of the decision rather than a description of its motivational structure as being for others' benefit without self-interest." },
+        { "distractor": "noble", "closeness": 3, "reasoning": "Noble means morally elevated; it evaluates the act positively but does not specify that the agent sacrificed personal gain to benefit others." },
+        { "distractor": "humanitarian", "closeness": 2, "reasoning": "Humanitarian describes concern for human welfare broadly; her clinic work fits this, but humanitarian is more a social or professional identity than the motivational quality altruistic names." },
+        { "distractor": "compassionate", "closeness": 2, "reasoning": "Compassionate describes an emotional quality of caring for others' suffering; it can motivate altruistic behavior but is a feeling rather than a principle of action at personal cost." },
+        { "distractor": "principled", "closeness": 2, "reasoning": "Principled means acting according to moral rules; it is a broad virtue and does not specifically say that the principle involved is sacrifice of personal benefit for others." },
+        { "distractor": "earnest", "closeness": 2, "reasoning": "Earnest means sincere and serious in intention; it describes attitude rather than the structure of one's motivation being purely for others' benefit." },
+        { "distractor": "ambitious", "closeness": 1, "reasoning": "Ambitious means strongly desiring success for oneself—the opposite of foregoing salary for others' benefit." },
+        { "distractor": "reckless", "closeness": 1, "reasoning": "Reckless means acting without regard for consequences; it implies poor judgment, not moral orientation toward others' welfare." },
+        { "distractor": "mercenary", "closeness": 1, "reasoning": "Mercenary means motivated primarily by money—the direct opposite of someone who forgo a corporate salary to serve a rural community." }
       ]
     },
     {
-      "sentence": "The curator's altruistic arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "Evolutionary psychology challenges the notion that any behavior can be truly altruistic, arguing that even apparent generosity serves genetic propagation.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "unselfish", "closeness": 3, "reasoning": "Unselfish is very close in meaning but is informal and lacks the theoretical weight of altruistic in an evolutionary psychology argument about the nature of motivation." },
+        { "distractor": "cooperative", "closeness": 3, "reasoning": "Cooperative means working together toward a shared goal; it describes a social behavior but implies mutual benefit rather than the one-directional sacrifice that altruistic requires." },
+        { "distractor": "prosocial", "closeness": 3, "reasoning": "Prosocial means benefiting society or others; it is the technical term closest to altruistic in behavioral science, but prosocial behavior can be strategic and still serve self-interest, whereas altruistic cannot." },
+        { "distractor": "reciprocal", "closeness": 3, "reasoning": "Reciprocal means given and received mutually; in evolutionary theory reciprocal altruism is the competing explanation, so substituting reciprocal would change the argument's claim entirely." },
+        { "distractor": "voluntary", "closeness": 2, "reasoning": "Voluntary means done of one's own free will; it describes the structure of action without addressing whether the motivation is for others' benefit rather than one's own." },
+        { "distractor": "moral", "closeness": 2, "reasoning": "Moral means conforming to ethical principles; it is a broader category than altruistic and does not specifically name other-directed action as the defining feature." },
+        { "distractor": "compassionate", "closeness": 2, "reasoning": "Compassionate refers to an emotional state of caring; the evolutionary argument is about behavioral motives, not feelings, and compassionate does not capture the self-sacrifice aspect." },
+        { "distractor": "purposeful", "closeness": 2, "reasoning": "Purposeful means having a clear aim; it describes intentionality without specifying that the aim is others' benefit rather than one's own." },
+        { "distractor": "exploitative", "closeness": 1, "reasoning": "Exploitative means taking unfair advantage of others—the direct opposite of the self-sacrificing orientation the text questions." },
+        { "distractor": "instinctive", "closeness": 1, "reasoning": "Instinctive means driven by innate impulses; it describes a mechanism rather than a moral orientation, and evolutionary psychology would use it as an explanation against altruistic motivation." },
+        { "distractor": "irrational", "closeness": 1, "reasoning": "Irrational means not based on logic; the debate is about whether generosity is self-interested, not whether it is rational—substituting irrational changes the argument entirely." }
       ]
     }
   ]

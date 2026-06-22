@@ -1,0 +1,53 @@
+{
+  "word": "contrite",
+  "sentenceSets": [
+    {
+      "sentence": "She appeared genuinely contrite, acknowledging wrongdoing in terms specific enough to suggest real reflection.",
+      "answerChoices": [
+        { "distractor": "remorseful", "closeness": 3, "reasoning": "The sentence emphasizes that she acknowledged wrongdoing in specific terms suggesting deep reflection, not merely an emotional state; 'remorseful' captures the feeling but not the deliberate, outward-facing quality of moral acknowledgment the sentence highlights." },
+        { "distractor": "apologetic", "closeness": 3, "reasoning": "She went beyond social apology — the sentence specifies that her acknowledgment was detailed enough to 'suggest real reflection,' which points to inward accountability rather than a surface-level sorry." },
+        { "distractor": "penitent", "closeness": 3, "reasoning": "Very close in meaning, but 'penitent' carries a religious or ritualistic undertone of penance-seeking that the secular framing of her acknowledgment in the sentence does not imply." },
+        { "distractor": "chastened", "closeness": 3, "reasoning": "'Chastened' suggests she was subdued by external discipline or setback; the sentence focuses on her voluntarily acknowledging wrongdoing with specificity, which implies inner conviction rather than being corrected from outside." },
+        { "distractor": "embarrassed", "closeness": 2, "reasoning": "Embarrassment is about social awkwardness, not moral accountability; the sentence's 'specific enough to suggest real reflection' rules out mere social discomfort." },
+        { "distractor": "subdued", "closeness": 2, "reasoning": "'Subdued' describes a quiet or restrained mood, not moral accountability; it cannot explain why her acknowledgment contained the specific detail the sentence describes." },
+        { "distractor": "sincere", "closeness": 2, "reasoning": "The sentence already says 'genuinely,' making sincerity a quality that modifies contrite rather than replaces it; 'sincere' does not carry the moral self-reproach the sentence context demands." },
+        { "distractor": "humble", "closeness": 2, "reasoning": "'Humble' describes modesty or lack of arrogance, which is different from sorrow over a specific wrongdoing; the sentence's focus on acknowledging wrongdoing does not match simple humility." },
+        { "distractor": "defiant", "closeness": 1, "reasoning": "Directly contradicted by the sentence: she was acknowledging wrongdoing, the opposite of defiance." },
+        { "distractor": "indignant", "closeness": 1, "reasoning": "'Indignant' means feeling wrongly treated; the sentence shows her accepting blame rather than protesting injustice." },
+        { "distractor": "dismissive", "closeness": 1, "reasoning": "The sentence says her acknowledgment was specific and reflective; dismissiveness would preclude that kind of detailed accountability." }
+      ]
+    },
+    {
+      "sentence": "After backing out of the project at the last minute, Marcus wrote a contrite letter to his collaborators, listing every way his decision had inconvenienced them.",
+      "answerChoices": [
+        { "distractor": "apologetic", "closeness": 3, "reasoning": "An apology letter is close, but the sentence specifies that Marcus listed every inconvenience his decision caused — a level of self-accounting that goes beyond social apology into genuine moral self-examination." },
+        { "distractor": "conciliatory", "closeness": 3, "reasoning": "'Conciliatory' means aimed at reducing conflict, which could describe a letter to collaborators, but the sentence shows Marcus cataloguing his own failings rather than seeking a compromise or de-escalation." },
+        { "distractor": "self-reproachful", "closeness": 3, "reasoning": "Very close but too clinical; the sentence emphasizes the practical dimension — listing how others were inconvenienced — which is characteristic of outward contrition rather than inward self-reproach alone." },
+        { "distractor": "remorseful", "closeness": 3, "reasoning": "'Remorseful' fits the emotional register but the letter's detailed accounting of the inconveniences caused points to an action-oriented acknowledgment, which 'contrite' captures more precisely." },
+        { "distractor": "diplomatic", "closeness": 2, "reasoning": "A diplomatic letter manages relationships carefully, but the sentence shows him cataloguing his own faults rather than navigating a sensitive situation tactfully." },
+        { "distractor": "explanatory", "closeness": 2, "reasoning": "Marcus's letter lists inconveniences he caused, not reasons justifying his departure; an explanatory letter would defend the decision, not tally the damage." },
+        { "distractor": "formal", "closeness": 2, "reasoning": "'Formal' describes tone or register, not the emotional or moral content the sentence highlights." },
+        { "distractor": "deferential", "closeness": 2, "reasoning": "'Deferential' implies yielding to others' authority or judgment; the sentence shows self-initiated accountability, not deference prompted by someone else's seniority." },
+        { "distractor": "indifferent", "closeness": 1, "reasoning": "The sentence shows Marcus meticulously accounting for harm done, the opposite of indifference." },
+        { "distractor": "boastful", "closeness": 1, "reasoning": "Clearly wrong — listing ways his decision inconvenienced others is self-critical, not self-congratulatory." },
+        { "distractor": "accusatory", "closeness": 1, "reasoning": "The letter focuses on his own failings, not accusations directed at his collaborators." }
+      ]
+    },
+    {
+      "sentence": "The young athlete's contrite demeanor in the post-game interview stood in sharp contrast to her earlier trash-talking on the field.",
+      "answerChoices": [
+        { "distractor": "subdued", "closeness": 3, "reasoning": "The sentence sets up a contrast with earlier trash-talking, implying her changed attitude reflects moral acknowledgment of poor behavior, not merely a quieter mood; 'subdued' explains the tone without the moral dimension." },
+        { "distractor": "humble", "closeness": 3, "reasoning": "'Humble' could describe her quieter post-game manner, but the sharp contrast with trash-talking on the field signals that her change reflects recognition of wrong conduct, not just modesty." },
+        { "distractor": "sheepish", "closeness": 3, "reasoning": "'Sheepish' suggests mild embarrassment or awkwardness, but the sentence's explicit contrast with brazen field behavior points to a deeper moral acknowledgment than bashfulness." },
+        { "distractor": "chastened", "closeness": 3, "reasoning": "'Chastened' implies being corrected by an external force; the sentence does not indicate she lost or was reprimanded — only that her demeanor shifted, suggesting self-directed contrition." },
+        { "distractor": "reserved", "closeness": 2, "reasoning": "'Reserved' describes a personality trait, not an emotional response to prior misbehavior; the sentence's contrast with her earlier conduct requires a word that signals moral reaction." },
+        { "distractor": "nervous", "closeness": 2, "reasoning": "Nervousness is situational anxiety; it does not account for the specific contrast the sentence draws between her field behavior and post-game attitude." },
+        { "distractor": "exhausted", "closeness": 2, "reasoning": "Physical tiredness would explain a quieter interview but cannot account for the moral contrast the sentence explicitly invokes." },
+        { "distractor": "conciliatory", "closeness": 2, "reasoning": "'Conciliatory' implies she was trying to make peace with someone; the sentence describes her general demeanor, not a targeted reconciliation effort." },
+        { "distractor": "arrogant", "closeness": 1, "reasoning": "Directly contradicted by the sentence, which contrasts her changed demeanor with earlier arrogant trash-talking." },
+        { "distractor": "defiant", "closeness": 1, "reasoning": "Her demeanor in the interview was changed from her field behavior; defiance would be a continuation of, not a contrast to, the trash-talking." },
+        { "distractor": "elated", "closeness": 1, "reasoning": "Clearly incompatible with the sentence's framing of moral accountability following problematic behavior." }
+      ]
+    }
+  ]
+}

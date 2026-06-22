@@ -1,0 +1,53 @@
+{
+  "word": "impenetrable",
+  "sentenceSets": [
+    {
+      "sentence": "The prose was impenetrable to any reader who had not spent years in the specific technical tradition from which it came.",
+      "answerChoices": [
+        { "distractor": "unintelligible", "closeness": 3, "reasoning": "The sentence specifies that those who spent years in the technical tradition could understand the prose, so it fails to communicate meaning only to outsiders—not that it is universally unintelligible." },
+        { "distractor": "inaccessible", "closeness": 3, "reasoning": "The prose is not physically or logistically unavailable; the sentence says readers without specialized background cannot understand it, which is a barrier of comprehension, not access." },
+        { "distractor": "abstruse", "closeness": 3, "reasoning": "Abstruse implies inherent obscurity, but the sentence explains the difficulty is conditional on lacking a specific background, not that the ideas themselves are intrinsically obscure." },
+        { "distractor": "opaque", "closeness": 3, "reasoning": "While opaque conveys lack of transparency, the sentence explains the difficulty is specifically tied to the reader's background, not a general quality of the prose's clarity." },
+        { "distractor": "recondite", "closeness": 2, "reasoning": "Recondite means dealing with obscure subject matter, but the sentence does not say the topic itself is rare; it says understanding requires a specific technical tradition, which is about expertise, not rarity." },
+        { "distractor": "labyrinthine", "closeness": 2, "reasoning": "Labyrinthine suggests a complex, winding structure, but the sentence does not describe a tortuous reading experience; it says the prose cannot be understood by those outside the tradition." },
+        { "distractor": "inscrutable", "closeness": 2, "reasoning": "Inscrutable suggests something that cannot be interpreted at all, but the sentence establishes that the prose is understandable to those in the right tradition—so it is not beyond all interpretation." },
+        { "distractor": "dense", "closeness": 2, "reasoning": "Dense describes compactness of content, but the sentence frames the difficulty as a matter of background rather than how tightly packed information is." },
+        { "distractor": "tedious", "closeness": 1, "reasoning": "Tedious means dull and tiresome; the sentence says the prose cannot be understood without specialized training, which has nothing to do with being boring." },
+        { "distractor": "inelegant", "closeness": 1, "reasoning": "Inelegant concerns aesthetic quality; the sentence is about comprehensibility for outsiders, not stylistic grace." },
+        { "distractor": "verbose", "closeness": 1, "reasoning": "Verbose means using too many words; the sentence does not describe the prose as wordy but as impossible to penetrate without the right background." }
+      ]
+    },
+    {
+      "sentence": "The jungle's interior was impenetrable to the expedition team, who turned back after their machetes failed to cut through the dense undergrowth.",
+      "answerChoices": [
+        { "distractor": "impassable", "closeness": 3, "reasoning": "The sentence describes the undergrowth physically blocking entry, which is close to impassable, but the team's machetes failing to cut through indicates the barrier actively resists piercing—a more precise meaning than merely being a blocked passage." },
+        { "distractor": "forbidding", "closeness": 3, "reasoning": "Forbidding suggests a menacing or discouraging quality, but the sentence shows the jungle physically stopped entry through thick undergrowth, not merely that it seemed threatening." },
+        { "distractor": "impervious", "closeness": 3, "reasoning": "Impervious means not allowing passage through something, but the sentence describes the jungle's interior as blocking the team from entering it, not as a material that resists penetration of substances." },
+        { "distractor": "insurmountable", "closeness": 2, "reasoning": "Insurmountable suggests an obstacle that cannot be overcome, but the sentence is specifically about a physical barrier that could not be cut through, not a general challenge that cannot be surmounted." },
+        { "distractor": "treacherous", "closeness": 2, "reasoning": "Treacherous implies danger and unpredictability; the sentence shows the jungle blocks physical passage through thick undergrowth, not that it poses hidden dangers." },
+        { "distractor": "unwelcoming", "closeness": 2, "reasoning": "Unwelcoming suggests an inhospitable atmosphere; the sentence shows the team was physically unable to pass through the jungle, not simply that it felt hostile." },
+        { "distractor": "perilous", "closeness": 1, "reasoning": "Perilous means dangerous; the sentence explains the team was blocked by thick undergrowth they could not cut, not that they faced mortal danger." },
+        { "distractor": "arid", "closeness": 1, "reasoning": "Arid refers to dryness; the sentence describes a jungle with dense undergrowth, which is the opposite of an arid environment." },
+        { "distractor": "desolate", "closeness": 1, "reasoning": "Desolate means barren and empty; the sentence describes dense undergrowth that blocked entry, suggesting the opposite of emptiness." },
+        { "distractor": "unfamiliar", "closeness": 1, "reasoning": "Unfamiliar means unknown; the sentence explains the team could not physically cut through the jungle, not that they lacked knowledge of it." },
+        { "distractor": "boundless", "closeness": 1, "reasoning": "Boundless means without limits; the sentence is about physical resistance to entry, not the size or extent of the jungle." }
+      ]
+    },
+    {
+      "sentence": "Her logic was impenetrable once she had committed to a conclusion, no counter-argument finding any purchase in her thinking.",
+      "answerChoices": [
+        { "distractor": "ironclad", "closeness": 3, "reasoning": "Ironclad suggests airtight and unassailable, but the sentence emphasizes that counter-arguments find no purchase—meaning she is resistant to persuasion, not necessarily that her logic is actually sound." },
+        { "distractor": "inflexible", "closeness": 3, "reasoning": "Inflexible means unwilling to bend, but the sentence shows her thinking actively deflects counter-arguments rather than simply refusing to change—a more dynamic resistance than mere rigidity." },
+        { "distractor": "unassailable", "closeness": 3, "reasoning": "Unassailable means impossible to attack or challenge, but it implies genuine strength; the sentence shows counter-arguments fail to gain traction in her thinking regardless of their merit." },
+        { "distractor": "obstinate", "closeness": 2, "reasoning": "Obstinate describes stubbornness of will, but the sentence characterizes her logic itself as the barrier—the feature of her thinking that no argument can penetrate—not a personality trait." },
+        { "distractor": "unyielding", "closeness": 2, "reasoning": "Unyielding describes resistance to pressure, but the sentence is about the quality of her logic once a conclusion is fixed, not about emotional or physical resistance." },
+        { "distractor": "self-contained", "closeness": 2, "reasoning": "Self-contained suggests independence from external input; the sentence specifically describes counter-arguments failing to find purchase, which is about resistance to contrary evidence rather than independence." },
+        { "distractor": "circular", "closeness": 1, "reasoning": "Circular reasoning refers to an argument that assumes its conclusion; the sentence describes resistance to counter-arguments, not a logical fallacy in the structure of her reasoning." },
+        { "distractor": "shallow", "closeness": 1, "reasoning": "Shallow implies lack of depth; the sentence presents her logic as a wall that arguments cannot breach, the opposite of something shallow or easily dismissed." },
+        { "distractor": "erratic", "closeness": 1, "reasoning": "Erratic means unpredictable and inconsistent; the sentence says her logic could not be moved once she committed to a conclusion, which is consistent, not erratic." },
+        { "distractor": "persuasive", "closeness": 1, "reasoning": "Persuasive means capable of convincing others; the sentence describes her resistance to being persuaded, not her capacity to persuade." },
+        { "distractor": "tangential", "closeness": 1, "reasoning": "Tangential means digressing or peripheral; the sentence says her logic blocked all counter-arguments, which is about imperviousness, not digression." }
+      ]
+    }
+  ]
+}

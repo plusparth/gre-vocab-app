@@ -4,181 +4,49 @@
     {
       "sentence": "The two organizations, though nominally independent, were so closely affiliated as to be practically the same entity.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "intertwined", "closeness": 3, "reasoning": "The sentence emphasizes an institutional connection where they function as one entity, and 'intertwined' suggests mutual entanglement rather than the formal associative link the sentence describes." },
+        { "distractor": "aligned", "closeness": 3, "reasoning": "The sentence stresses that they function practically as one, but 'aligned' merely implies agreement on goals, not the structural interdependence that makes them indistinguishable." },
+        { "distractor": "integrated", "closeness": 3, "reasoning": "'Integrated' implies the two have merged into a single unit, yet the sentence specifically notes they are nominally independent, so the word must describe a state short of full merger." },
+        { "distractor": "amalgamated", "closeness": 3, "reasoning": "'Amalgamated' implies an actual formal union, but the sentence's phrase 'nominally independent' signals they retained separate identities, ruling out complete merger." },
+        { "distractor": "partnered", "closeness": 2, "reasoning": "'Partnered' implies a cooperative arrangement between equals, while the sentence's modifier 'closely' and the suggestion of practical identity point to something more subordinate and binding." },
+        { "distractor": "connected", "closeness": 2, "reasoning": "Too generic — the sentence emphasizes structural nearness to a single entity, while 'connected' describes a loose link that would not support the sentence's conclusion that they are 'practically the same.'" },
+        { "distractor": "coordinated", "closeness": 2, "reasoning": "'Coordinated' describes synchronized action, not an organizational tie; the sentence describes the nature of their relationship rather than how they act together." },
+        { "distractor": "entangled", "closeness": 2, "reasoning": "'Entangled' implies a problematic or unwanted connection, whereas the sentence presents the relationship neutrally as structural nearness." },
+        { "distractor": "opposed", "closeness": 1, "reasoning": "Directly contradicts the sentence, which describes the organizations as practically the same entity, not adversaries." },
+        { "distractor": "autonomous", "closeness": 1, "reasoning": "The sentence describes the organizations as lacking true independence, so 'autonomous' is the opposite of the relationship depicted." },
+        { "distractor": "estranged", "closeness": 1, "reasoning": "'Estranged' implies separation and alienation, opposite to the tight connection the sentence describes." }
       ]
     },
     {
-      "sentence": "Her affiliated response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The local chapter was affiliated with a national body that set standards and provided funding.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "registered", "closeness": 3, "reasoning": "The sentence describes a hierarchical organizational relationship involving standard-setting and funding, and while 'registered' implies official recognition, it does not capture the dependent, subordinate bond the sentence implies." },
+        { "distractor": "chartered", "closeness": 3, "reasoning": "'Chartered' suggests being officially authorized, but the sentence emphasizes an ongoing associative relationship rather than the moment of authorization." },
+        { "distractor": "networked", "closeness": 3, "reasoning": "'Networked' implies loose peer connections, but the sentence describes a vertical relationship where the national body holds authority over the chapter." },
+        { "distractor": "associated", "closeness": 3, "reasoning": "Very close in meaning, but 'associated' is more neutral and does not capture the structural subordination and resource dependency the sentence details." },
+        { "distractor": "accredited", "closeness": 2, "reasoning": "'Accredited' implies third-party certification of quality, but the sentence describes an ongoing membership relationship rather than a quality evaluation." },
+        { "distractor": "licensed", "closeness": 2, "reasoning": "'Licensed' refers to permission to operate, not a sustained organizational relationship involving funding and governance." },
+        { "distractor": "subordinated", "closeness": 2, "reasoning": "The sentence implies a dependent relationship, but 'subordinated' emphasizes hierarchy to the point of submission, whereas the chapter is a functioning unit, not merely subservient." },
+        { "distractor": "contracted", "closeness": 2, "reasoning": "'Contracted' implies a temporary agreement for specific services, whereas the sentence implies a stable organizational membership." },
+        { "distractor": "dissolved", "closeness": 1, "reasoning": "Opposite in implication — the sentence describes an active organizational connection, not one that has ended." },
+        { "distractor": "isolated", "closeness": 1, "reasoning": "The sentence describes being part of a larger structure, making 'isolated' directly contrary to the relationship depicted." },
+        { "distractor": "competing", "closeness": 1, "reasoning": "The sentence shows the local chapter receiving resources from the national body, not rivaling it." }
       ]
     },
     {
-      "sentence": "The curator's affiliated arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "Several affiliated research centers collaborated on the study, pooling data from three continents.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "cooperating", "closeness": 3, "reasoning": "The sentence describes both the collaborative action and the organizational relationship, but 'cooperating' addresses only how they acted together, not the institutional link that makes the collaboration possible." },
+        { "distractor": "partnering", "closeness": 3, "reasoning": "'Partnering' implies a newly formed joint venture, but the sentence uses 'affiliated' to describe a pre-existing structural bond among the centers." },
+        { "distractor": "participating", "closeness": 3, "reasoning": "'Participating' describes involvement in the study, but the sentence uses the word to describe the nature of the centers themselves, not just their role in this instance." },
+        { "distractor": "linked", "closeness": 3, "reasoning": "'Linked' is close in meaning but less formal; the sentence's context of pooling data across continents suggests a recognized institutional structure, not merely a casual connection." },
+        { "distractor": "neighboring", "closeness": 2, "reasoning": "The sentence mentions three continents, making proximity irrelevant; 'neighboring' contradicts the geographic scope." },
+        { "distractor": "competing", "closeness": 2, "reasoning": "The sentence describes the centers pooling data, which implies cooperation, making 'competing' incompatible with the described behavior." },
+        { "distractor": "distinguished", "closeness": 2, "reasoning": "'Distinguished' describes prestige, not an organizational relationship; it does not fit the role the word plays in modifying 'research centers' in a structural sense." },
+        { "distractor": "independent", "closeness": 2, "reasoning": "The collaborative pooling described in the sentence implies shared organizational ties, whereas 'independent' would suggest they have no such ties." },
+        { "distractor": "rival", "closeness": 1, "reasoning": "The centers are pooling resources together, directly contradicting the adversarial relationship 'rival' implies." },
+        { "distractor": "defunct", "closeness": 1, "reasoning": "The centers actively participated in the study, making 'defunct' — meaning no longer operating — clearly wrong." },
+        { "distractor": "amateur", "closeness": 1, "reasoning": "The sentence describes research centers conducting a large-scale multi-continental study, making 'amateur' implausible." }
       ]
     }
   ]

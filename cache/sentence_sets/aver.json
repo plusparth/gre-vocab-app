@@ -4,181 +4,49 @@
     {
       "sentence": "She averred that she had been present for the entire meeting, contradicting the official record.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "asserted", "closeness": 3, "reasoning": "Asserted is nearly synonymous but lacks the formal legal connotation of aver, which implies a confident, sworn declaration—important given the contrast with an official record." },
+        { "distractor": "declared", "closeness": 3, "reasoning": "Declared is close but typically applies to formal announcements rather than the direct, first-person positive affirmation that aver implies." },
+        { "distractor": "claimed", "closeness": 3, "reasoning": "Claimed implies a degree of doubt or unverified assertion, while averred carries conviction and positive affirmation, creating a subtly different stance toward the truth of the statement." },
+        { "distractor": "insisted", "closeness": 3, "reasoning": "Insisted suggests repetition under resistance more than simple positive declaration; aver is about the act of affirming, not about persistence under pressure." },
+        { "distractor": "suggested", "closeness": 2, "reasoning": "Suggested implies tentativeness or indirectness—the opposite of aver's positive, confident assertion; the contradiction of an official record calls for a stronger word." },
+        { "distractor": "implied", "closeness": 2, "reasoning": "Implied means to convey indirectly without stating outright, while averred means to state positively and directly—opposite in directness." },
+        { "distractor": "demonstrated", "closeness": 2, "reasoning": "Demonstrated implies showing through evidence or action, while averred means to state verbally with conviction—different modes of establishing a claim." },
+        { "distractor": "admitted", "closeness": 2, "reasoning": "Admitted implies conceding something one might prefer to hide; aver is about positive assertion, not reluctant concession." },
+        { "distractor": "denied", "closeness": 1, "reasoning": "Denied means to say something is not true—the opposite of averring, which means to state positively that something is true." },
+        { "distractor": "retracted", "closeness": 1, "reasoning": "Retracted means to withdraw a statement previously made—the opposite of making a positive assertion." },
+        { "distractor": "questioned", "closeness": 1, "reasoning": "Questioned means to express doubt or ask about something; aver means to affirm without doubt, making these direct opposites in epistemological stance." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to aver before the meeting adjourned.",
+      "sentence": "On the stand, the witness averred with quiet certainty that the defendant had not been near the building that evening.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "testified", "closeness": 3, "reasoning": "Testified is contextually appropriate in a courtroom but is broader, covering any statement made under oath; aver specifically means to declare positively, emphasizing conviction rather than procedure." },
+        { "distractor": "swore", "closeness": 3, "reasoning": "Swore emphasizes the oath-taking aspect of court testimony; aver focuses on the positive affirmation itself, not the formality of the oath." },
+        { "distractor": "maintained", "closeness": 3, "reasoning": "Maintained implies holding a position over time against challenge; aver is about the act of positive declaration rather than sustained defense of a claim." },
+        { "distractor": "confirmed", "closeness": 3, "reasoning": "Confirmed suggests corroborating something already suspected or established; aver is about making an original positive declaration rather than verifying an existing claim." },
+        { "distractor": "speculated", "closeness": 2, "reasoning": "Speculated implies uncertainty and guesswork—the opposite of aver's positive, certain declaration." },
+        { "distractor": "recalled", "closeness": 2, "reasoning": "Recalled describes the act of retrieving a memory, not making a positive assertion; it focuses on process rather than the conviction of the statement." },
+        { "distractor": "suggested", "closeness": 2, "reasoning": "Suggested implies tentativeness, conflicting with 'quiet certainty'—aver's positive declaration is exactly what makes the certainty explicit." },
+        { "distractor": "speculated", "closeness": 2, "reasoning": "Speculated implies doubt; aver implies positive certainty, making it the wrong word for the confident stance the sentence describes." },
+        { "distractor": "doubted", "closeness": 1, "reasoning": "Doubted means to be uncertain about something—the opposite of averring, which is to assert with positive conviction." },
+        { "distractor": "retracted", "closeness": 1, "reasoning": "Retracted means to take back a statement, not to make one; it contradicts the act of positive declaration." },
+        { "distractor": "contradicted", "closeness": 1, "reasoning": "Contradicted means to say the opposite of what someone else has said; the witness is making an independent positive statement, not responding to another's claim." }
       ]
     },
     {
-      "sentence": "The curator chose to aver the fragile document only after consulting the conservator.",
+      "sentence": "The scientist averred that the data had not been manipulated, even as peer reviewers scrutinized every step of the methodology.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "contended", "closeness": 3, "reasoning": "Contended implies arguing a contested point; aver is a stronger, more positive act of declaration that does not require the framing of a dispute." },
+        { "distractor": "asserted", "closeness": 3, "reasoning": "Asserted is nearly synonymous but slightly more aggressive in tone; aver is a more formal, positive declaration suited to scientific and legal registers." },
+        { "distractor": "acknowledged", "closeness": 3, "reasoning": "Acknowledged means admitting or recognizing something already known or implied; aver is about positive first-person declaration of something not yet accepted as fact." },
+        { "distractor": "proclaimed", "closeness": 3, "reasoning": "Proclaimed suggests public, often dramatic announcement; aver is quieter and more formal, used for direct personal affirmation in formal contexts." },
+        { "distractor": "conceded", "closeness": 2, "reasoning": "Conceded implies yielding or admitting something reluctantly; aver is a confident positive assertion, the opposite of concession." },
+        { "distractor": "implied", "closeness": 2, "reasoning": "Implied means to hint indirectly; aver means to state directly and positively—the opposite mode of communication." },
+        { "distractor": "suspected", "closeness": 2, "reasoning": "Suspected implies uncertainty and doubt about what is true; aver is a positive assertion of what one holds to be true." },
+        { "distractor": "predicted", "closeness": 2, "reasoning": "Predicted concerns future events; aver is about asserting the truth of a current or past state of affairs." },
+        { "distractor": "denied", "closeness": 1, "reasoning": "Denied means to say something did not happen; aver means to say something positively is or was true—similar surface effect but grammatically and semantically distinct." },
+        { "distractor": "admitted", "closeness": 1, "reasoning": "Admitted suggests reluctant concession, the opposite of the confident positive declaration that aver conveys." },
+        { "distractor": "refused", "closeness": 1, "reasoning": "Refused means declining to do or say something; aver is the act of making a positive statement, not declining one." }
       ]
     }
   ]

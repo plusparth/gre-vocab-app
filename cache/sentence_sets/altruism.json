@@ -4,181 +4,49 @@
     {
       "sentence": "Her altruism was genuine; she volunteered every weekend without expectation of recognition.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "benevolence", "closeness": 3, "reasoning": "Benevolence means goodwill and kindness, which overlaps with altruism, but benevolence can include generous gestures that still serve the giver's social reputation—altruism specifically excludes self-interest." },
+        { "distractor": "philanthropy", "closeness": 3, "reasoning": "Philanthropy is charitable giving, often on a large scale, but it typically involves money and public recognition—the opposite of what this sentence highlights as genuine." },
+        { "distractor": "selflessness", "closeness": 3, "reasoning": "Selflessness is nearly synonymous with altruism but is a more informal term; altruism in GRE contexts carries the specific philosophical meaning of action for others' benefit as a value." },
+        { "distractor": "generosity", "closeness": 3, "reasoning": "Generosity describes willingness to give freely but can coexist with desire for recognition or reciprocity, whereas altruism is defined by the absence of self-regarding motives." },
+        { "distractor": "compassion", "closeness": 2, "reasoning": "Compassion is the feeling of sympathy for others' suffering; it motivates altruism but is not itself the behavioral commitment to others' welfare without self-interest." },
+        { "distractor": "devotion", "closeness": 2, "reasoning": "Devotion implies loyalty and dedication, which fits volunteering, but devotion can be directed at a cause or person for personal fulfillment rather than purely for others' welfare." },
+        { "distractor": "virtue", "closeness": 2, "reasoning": "Virtue is a broad moral quality that includes altruism, but it is too general—it does not specify that one acts for others rather than for one's own moral satisfaction." },
+        { "distractor": "piety", "closeness": 2, "reasoning": "Piety refers to religious devotion and can motivate charitable acts, but it is oriented toward a religious relationship rather than purely toward others' welfare." },
+        { "distractor": "ambition", "closeness": 1, "reasoning": "Ambition means strong desire for achievement or success—it is self-directed, the opposite of acting without expectation of recognition." },
+        { "distractor": "vanity", "closeness": 1, "reasoning": "Vanity means excessive pride in appearance or achievement—directly contradicted by not expecting recognition." },
+        { "distractor": "avarice", "closeness": 1, "reasoning": "Avarice means greed for gain—the opposite of acting for others with no personal motive." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected altruism, which altered the course of the committee's deliberations.",
+      "sentence": "Evolutionary biologists debate whether true altruism exists in nature or whether apparent self-sacrifice always conceals a genetic advantage.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "cooperation", "closeness": 3, "reasoning": "Cooperation means working together for mutual benefit; it is related but involves reciprocal gain, whereas altruism is defined by its absence of benefit to the actor." },
+        { "distractor": "sacrifice", "closeness": 3, "reasoning": "Sacrifice is giving up something for a higher goal, which overlaps with altruism, but sacrifice can be for non-other-regarding goals like honor or religion, not purely for others' welfare." },
+        { "distractor": "mutualism", "closeness": 3, "reasoning": "Mutualism describes a relationship where both parties benefit—the opposite of the pure self-sacrifice that altruism requires and that the debate is about." },
+        { "distractor": "empathy", "closeness": 3, "reasoning": "Empathy means understanding and sharing another's feelings; it motivates altruistic behavior but is a mental state, not the behavioral principle of self-sacrificing action." },
+        { "distractor": "reciprocity", "closeness": 2, "reasoning": "Reciprocity involves mutual exchange; it is actually one mechanism biologists invoke to explain away apparent altruism—the opposite of genuine selfless action." },
+        { "distractor": "instinct", "closeness": 2, "reasoning": "Instinct refers to innate biological drives; the debate is about whether altruism is genuine or conceals an instinct, so instinct is a competing explanation, not a synonym." },
+        { "distractor": "solidarity", "closeness": 2, "reasoning": "Solidarity means unity and mutual support within a group; it involves group identity and can serve collective self-interest in ways true altruism does not." },
+        { "distractor": "morality", "closeness": 2, "reasoning": "Morality is the system of right and wrong conduct; altruism is one moral principle within this larger category, not a synonym for it." },
+        { "distractor": "predation", "closeness": 1, "reasoning": "Predation means hunting for food at another's expense—the direct opposite of self-sacrifice for others' benefit." },
+        { "distractor": "competition", "closeness": 1, "reasoning": "Competition means striving against others for resources—antithetical to the self-sacrificing orientation of altruism." },
+        { "distractor": "aggression", "closeness": 1, "reasoning": "Aggression means hostile or destructive behavior—clearly opposite to concern for others' welfare." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the altruism to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "The foundation's charter cited altruism as its founding principle, yet critics noted that its donors received enormous tax relief.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "humanitarianism", "closeness": 3, "reasoning": "Humanitarianism concerns concern for human welfare broadly; it is a policy orientation rather than the philosophical principle of acting for others without self-interest that the critics are challenging." },
+        { "distractor": "charity", "closeness": 3, "reasoning": "Charity means giving to those in need; it is close to altruism but is often institutionalized and does not rule out tax benefits, making it a trap—altruism requires absence of self-interested motive." },
+        { "distractor": "magnanimity", "closeness": 3, "reasoning": "Magnanimity means generosity of spirit toward others; it can coexist with public recognition and differs from altruism by allowing the giver some self-enhancing pride." },
+        { "distractor": "idealism", "closeness": 3, "reasoning": "Idealism means commitment to high principles, which could describe the founders' stated values, but idealism covers a wide range of non-self-interested commitments and is not specifically about others' welfare." },
+        { "distractor": "beneficence", "closeness": 2, "reasoning": "Beneficence means active doing of good; it describes the action without requiring the purity of motive that altruism demands and that the critics are questioning." },
+        { "distractor": "noblesse oblige", "closeness": 2, "reasoning": "Noblesse oblige is the duty of the privileged to act generously; it is close but actually concedes that giving is tied to social position, undermining the selflessness the word altruism claims." },
+        { "distractor": "virtue signaling", "closeness": 2, "reasoning": "Virtue signaling means performing moral behavior for public approval—the critics' implied accusation—but the charter would not name this as a founding principle." },
+        { "distractor": "paternalism", "closeness": 2, "reasoning": "Paternalism means acting for others' good without their consent; it is a form of self-interested control over others, making it a critique of false altruism rather than its synonym." },
+        { "distractor": "profiteering", "closeness": 1, "reasoning": "Profiteering means exploiting a situation for excessive gain—the opposite of a stated principle of selfless giving." },
+        { "distractor": "nepotism", "closeness": 1, "reasoning": "Nepotism means favoritism toward relatives—clearly wrong for a founding principle of concern for others generally." },
+        { "distractor": "cynicism", "closeness": 1, "reasoning": "Cynicism means distrust of human motives—it describes the critics' stance, not the principle the charter would espouse." }
       ]
     }
   ]

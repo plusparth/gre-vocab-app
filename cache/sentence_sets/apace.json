@@ -4,181 +4,49 @@
     {
       "sentence": "Deforestation proceeded apace, outpacing reforestation efforts by a ratio of ten to one.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "relentlessly", "closeness": 3, "reasoning": "The sentence shows deforestation moving so fast it outpaces reforestation ten to one, and 'relentlessly' similarly conveys unstoppable forward momentum." },
+        { "distractor": "swiftly", "closeness": 3, "reasoning": "The ten-to-one ratio illustrates how rapidly deforestation was advancing, making 'swiftly' a natural fit for this context of fast-moving destruction." },
+        { "distractor": "briskly", "closeness": 3, "reasoning": "The large disparity between deforestation and reforestation rates signals that the process was moving briskly, matching this adverb's sense of lively speed." },
+        { "distractor": "rapidly", "closeness": 3, "reasoning": "Outpacing reforestation at ten to one shows the process was advancing rapidly, a rate word that slots smoothly into the sentence." },
+        { "distractor": "steadily", "closeness": 2, "reasoning": "The ongoing, continuous nature of the deforestation outpacing reforestation suggests a steady progression, though without the emphasis on quickness." },
+        { "distractor": "unabated", "closeness": 2, "reasoning": "The sentence implies deforestation kept going without slowing down, so 'unabated' captures the unrelenting quality but not the explicit speed." },
+        { "distractor": "unchecked", "closeness": 2, "reasoning": "That deforestation was outpacing efforts to counter it implies it was proceeding unchecked, though this word stresses lack of restraint more than pace." },
+        { "distractor": "ceaselessly", "closeness": 2, "reasoning": "The continuous outpacing suggests nonstop activity, giving 'ceaselessly' a plausible fit, though it emphasizes continuity rather than speed." },
+        { "distractor": "gradually", "closeness": 1, "reasoning": "The ten-to-one ratio implies the opposite of a slow pace, so 'gradually' contradicts the urgency the sentence conveys." },
+        { "distractor": "intermittently", "closeness": 1, "reasoning": "The consistent outpacing ratio suggests an unbroken process, making 'intermittently' (on-and-off) a poor contextual fit." },
+        { "distractor": "reluctantly", "closeness": 1, "reasoning": "Deforestation is described as a factual process without resistance or hesitation, so 'reluctantly' is contextually mismatched." }
       ]
     },
     {
-      "sentence": "The archivist worked apace, preserving a record that the committee had nearly overlooked.",
+      "sentence": "Construction on the new bridge advanced apace, with workers completing a full span every two weeks.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "rapidly", "closeness": 3, "reasoning": "Finishing a full span every two weeks signals fast progress, and 'rapidly' fits naturally as an adverb describing that pace." },
+        { "distractor": "briskly", "closeness": 3, "reasoning": "The two-week completion cycle shows construction moving in a lively, energetic rhythm that 'briskly' captures well." },
+        { "distractor": "swiftly", "closeness": 3, "reasoning": "The regular two-week cadence of completing full spans indicates swift progress matching this adverb." },
+        { "distractor": "efficiently", "closeness": 3, "reasoning": "The consistent two-week span completion suggests a well-run, efficient operation, making this a strong contextual substitute." },
+        { "distractor": "steadily", "closeness": 2, "reasoning": "The regular completion schedule implies steady, consistent progress, though without the speed emphasis of the original." },
+        { "distractor": "tirelessly", "closeness": 2, "reasoning": "Workers completing spans on a fixed schedule suggests continuous effort, and 'tirelessly' fits the sense of unrelenting work." },
+        { "distractor": "diligently", "closeness": 2, "reasoning": "The regular two-week production rate implies careful, dedicated effort that 'diligently' reflects, though it stresses carefulness over speed." },
+        { "distractor": "methodically", "closeness": 2, "reasoning": "The fixed span-completion cadence hints at systematic organization, and 'methodically' conveys that structured approach." },
+        { "distractor": "sporadically", "closeness": 1, "reasoning": "A consistent two-week cycle contradicts irregular or sporadic activity, making this word contextually wrong." },
+        { "distractor": "haltingly", "closeness": 1, "reasoning": "Completing a full span every two weeks implies smooth progress, not the stuttering movement 'haltingly' describes." },
+        { "distractor": "reluctantly", "closeness": 1, "reasoning": "The sentence presents workers achieving regular milestones with no suggestion of hesitation or unwillingness." }
       ]
     },
     {
-      "sentence": "Even under pressure, the negotiator responded apace, changing the tone of the meeting.",
+      "sentence": "As the storm approached, the evacuation proceeded apace, with buses departing every ten minutes.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "swiftly", "closeness": 3, "reasoning": "Buses departing every ten minutes under an approaching storm signals urgent, swift movement that this adverb mirrors." },
+        { "distractor": "urgently", "closeness": 3, "reasoning": "The approaching storm creates urgency that matches the evacuation's pace, making 'urgently' a strong contextual substitute." },
+        { "distractor": "rapidly", "closeness": 3, "reasoning": "The ten-minute departure interval under storm threat shows the evacuation was moving rapidly, fitting this adverb directly." },
+        { "distractor": "efficiently", "closeness": 3, "reasoning": "Regular bus departures every ten minutes suggest a well-coordinated, efficient operation, making this a close contextual fit." },
+        { "distractor": "smoothly", "closeness": 2, "reasoning": "The regular ten-minute intervals suggest an orderly operation, and 'smoothly' captures that flow without emphasizing speed." },
+        { "distractor": "steadily", "closeness": 2, "reasoning": "Consistent bus departures imply a steady, uninterrupted pace of evacuation, fitting the regular cadence described." },
+        { "distractor": "continuously", "closeness": 2, "reasoning": "Buses departing every ten minutes implies an unbroken stream of departures, and 'continuously' captures that quality." },
+        { "distractor": "methodically", "closeness": 2, "reasoning": "The organized ten-minute schedule suggests a methodical approach, though without the urgency implied by the storm." },
+        { "distractor": "leisurely", "closeness": 1, "reasoning": "An approaching storm makes a leisurely evacuation contextually absurd and opposite in tone to the original sentence." },
+        { "distractor": "reluctantly", "closeness": 1, "reasoning": "The sentence describes active, organized departure with no hint of hesitation or unwillingness among those evacuating." },
+        { "distractor": "sporadically", "closeness": 1, "reasoning": "The regular ten-minute bus schedule directly contradicts any sporadic or irregular pattern of departure." }
       ]
     }
   ]

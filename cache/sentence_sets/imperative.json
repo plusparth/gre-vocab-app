@@ -1,0 +1,53 @@
+{
+  "word": "imperative",
+  "sentenceSets": [
+    {
+      "sentence": "It was imperative that the organization respond before the window closed, as delay would effectively constitute a decision.",
+      "answerChoices": [
+        { "distractor": "essential", "closeness": 3, "reasoning": "The sentence says delay would constitute a decision, implying an urgency with real consequences, not merely that response is important in a general sense—making it more than simply essential." },
+        { "distractor": "urgent", "closeness": 3, "reasoning": "Urgent emphasizes time pressure, but the sentence's logic—that inaction would count as a decision—frames responding as a necessity, not merely a time-sensitive matter." },
+        { "distractor": "critical", "closeness": 3, "reasoning": "Critical conveys high importance, but the sentence frames response as unavoidably necessary because omission carries consequences equal to action, which goes beyond something merely being critical." },
+        { "distractor": "advisable", "closeness": 2, "reasoning": "Advisable means recommended but optional; the sentence says delay would itself constitute a decision, making response obligatory rather than merely recommended." },
+        { "distractor": "prudent", "closeness": 2, "reasoning": "Prudent means wise or sensible; the sentence frames inaction as equivalent to a decision, making response a necessity rather than a matter of wisdom." },
+        { "distractor": "pressing", "closeness": 2, "reasoning": "Pressing emphasizes urgency, but the sentence's emphasis is on unavoidability—delay equals a decision—which is a matter of necessity, not just time pressure." },
+        { "distractor": "beneficial", "closeness": 1, "reasoning": "Beneficial means advantageous; the sentence frames response as unavoidable because inaction counts as a decision, not as something that would merely produce a good outcome." },
+        { "distractor": "desirable", "closeness": 1, "reasoning": "Desirable means something wanted; the sentence makes clear response is mandatory given that delay constitutes a choice—it is not merely preferable." },
+        { "distractor": "anticipated", "closeness": 1, "reasoning": "Anticipated means expected in advance; the sentence is about necessity and unavoidability, not about whether anyone foresaw the need to respond." },
+        { "distractor": "symbolic", "closeness": 1, "reasoning": "Symbolic means representing something else; the sentence presents a concrete obligation with real stakes, the opposite of something merely symbolic." },
+        { "distractor": "optional", "closeness": 1, "reasoning": "Optional means left to one's choice; the sentence explicitly shows that inaction itself constitutes a decision, making response the opposite of optional." }
+      ]
+    },
+    {
+      "sentence": "Clean drinking water is an imperative for any stable society, without which no other institutional function can be reliably sustained.",
+      "answerChoices": [
+        { "distractor": "prerequisite", "closeness": 3, "reasoning": "The sentence frames clean water as necessary for any other institutional function to work, which is close to prerequisite; however, the word is used here as a noun meaning an overriding necessity, not merely a prior condition." },
+        { "distractor": "cornerstone", "closeness": 3, "reasoning": "Cornerstone implies something foundational but structural; the sentence says no other function can be sustained without clean water, making it a survival necessity rather than a structural element." },
+        { "distractor": "necessity", "closeness": 3, "reasoning": "Necessity is close in meaning, but the sentence positions clean water as a commanding obligation society cannot set aside—an imperative carries the connotation of a mandate, not just a need." },
+        { "distractor": "priority", "closeness": 2, "reasoning": "Priority suggests something ranked first among choices; the sentence says no other function can be sustained without clean water, which is not about ranking but about absolute necessity." },
+        { "distractor": "advantage", "closeness": 2, "reasoning": "Advantage implies a benefit over alternatives; the sentence says clean water is required for any other function to be sustained, not that it is merely beneficial." },
+        { "distractor": "luxury", "closeness": 2, "reasoning": "Luxury implies something desirable but non-essential; the sentence says without clean water no other institutional function can be reliably sustained, making it the opposite of a luxury." },
+        { "distractor": "goal", "closeness": 1, "reasoning": "Goal implies something aimed for in the future; the sentence presents clean water as an ongoing necessity for sustaining institutional functions, not an aspiration." },
+        { "distractor": "innovation", "closeness": 1, "reasoning": "Innovation means something new and creative; the sentence describes clean water as a fundamental requirement with no such connotation of novelty." },
+        { "distractor": "supplement", "closeness": 1, "reasoning": "Supplement means an addition to something else; the sentence presents clean water as the foundational necessity without which nothing else can function." },
+        { "distractor": "obstacle", "closeness": 1, "reasoning": "Obstacle means something that impedes progress; the sentence treats clean water as something that enables other functions, the opposite of an obstacle." },
+        { "distractor": "incentive", "closeness": 1, "reasoning": "Incentive means something that motivates action; the sentence presents clean water as a non-negotiable necessity for institutional survival, not a motivating factor." }
+      ]
+    },
+    {
+      "sentence": "The general's tone was imperative rather than collaborative, issuing directives that left no room for subordinate input or deviation.",
+      "answerChoices": [
+        { "distractor": "commanding", "closeness": 3, "reasoning": "Commanding suggests authority, but the sentence specifies directives that left no room for input or deviation—the quality being described is the obligatory, non-negotiable nature of the orders, not merely their authoritative tone." },
+        { "distractor": "authoritative", "closeness": 3, "reasoning": "Authoritative means carrying authority; the sentence contrasts the general's manner with collaborative, emphasizing the absence of any room for input, which is about compulsion rather than just authority." },
+        { "distractor": "autocratic", "closeness": 3, "reasoning": "Autocratic implies absolute personal power, but the sentence describes a tone and style of issuing directives in context, not a description of overall governance." },
+        { "distractor": "decisive", "closeness": 2, "reasoning": "Decisive means acting clearly and firmly; the sentence specifically says the directives left no room for deviation or input, which is about compulsion, not the clarity or firmness of decisions." },
+        { "distractor": "stern", "closeness": 2, "reasoning": "Stern suggests a serious and unsmiling demeanor; the sentence contrasts imperative with collaborative, focusing on the compulsory nature of the directives rather than emotional severity." },
+        { "distractor": "dismissive", "closeness": 2, "reasoning": "Dismissive means treating something as unimportant; the sentence shows the general left no room for input, which is about imposing obligation, not about disregarding others." },
+        { "distractor": "eloquent", "closeness": 1, "reasoning": "Eloquent means fluent and persuasive in speech; the sentence describes directives that brook no deviation, which has nothing to do with verbal grace." },
+        { "distractor": "tentative", "closeness": 1, "reasoning": "Tentative means uncertain and hesitant; the sentence describes a manner that left no room for input or deviation, the opposite of tentative." },
+        { "distractor": "empathetic", "closeness": 1, "reasoning": "Empathetic means showing understanding of others' feelings; the sentence explicitly contrasts the general's tone with collaborative, indicating no room for others' input." },
+        { "distractor": "verbose", "closeness": 1, "reasoning": "Verbose means using too many words; the sentence focuses on the compulsory, non-collaborative nature of the directives, not their length or wordiness." },
+        { "distractor": "equivocal", "closeness": 1, "reasoning": "Equivocal means ambiguous and unclear; the sentence says the directives left no room for deviation, indicating clarity and obligation, the opposite of ambiguity." }
+      ]
+    }
+  ]
+}

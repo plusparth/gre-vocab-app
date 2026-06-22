@@ -4,181 +4,49 @@
     {
       "sentence": "His avarice led him to pursue profit at the expense of every relationship he had ever valued.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "greed", "closeness": 3, "reasoning": "Greed is nearly synonymous but lacks the formal, literary weight of avarice, which specifically emphasizes insatiable accumulation of wealth rather than general desire for more." },
+        { "distractor": "cupidity", "closeness": 3, "reasoning": "Cupidity is a near-synonym for avarice, but is rarely used in modern English and would be recognized as an unusual word choice rather than the natural term." },
+        { "distractor": "ambition", "closeness": 3, "reasoning": "Ambition can drive profit-seeking but implies admirable striving toward goals, while avarice specifically connotes a morally corrupt, excessive desire for wealth." },
+        { "distractor": "materialism", "closeness": 3, "reasoning": "Materialism describes a value system prioritizing possessions but lacks the active, driven quality of avarice, which implies relentless pursuit at any cost." },
+        { "distractor": "selfishness", "closeness": 2, "reasoning": "Selfishness encompasses many self-centered behaviors beyond financial accumulation—it is too broad to capture the specific money-focused meaning of avarice." },
+        { "distractor": "ruthlessness", "closeness": 2, "reasoning": "Ruthlessness describes willingness to harm others to reach goals, which is a behavioral consequence rather than the underlying desire that avarice names." },
+        { "distractor": "vanity", "closeness": 2, "reasoning": "Vanity concerns excessive self-admiration or pride, not the obsessive pursuit of wealth—a substitution would shift the sentence's moral diagnosis." },
+        { "distractor": "recklessness", "closeness": 2, "reasoning": "Recklessness describes disregard for risk or consequences, not an excessive desire for financial gain." },
+        { "distractor": "generosity", "closeness": 1, "reasoning": "Generosity means freely giving to others—the direct opposite of the hoarding, profit-obsessed behavior avarice describes." },
+        { "distractor": "altruism", "closeness": 1, "reasoning": "Altruism means selfless concern for others' wellbeing, which is the antithesis of sacrificing relationships for personal profit." },
+        { "distractor": "indifference", "closeness": 1, "reasoning": "Indifference implies not caring about profit or relationships, whereas avarice implies intense, destructive caring about profit above all else." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected avarice, which altered the course of the committee's deliberations.",
+      "sentence": "The colony's governor was dismissed when investigations revealed that avarice, not duty, had motivated every trade policy he enacted.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "greed", "closeness": 3, "reasoning": "Greed is semantically equivalent but less formal and literary; avarice carries the weight appropriate to a serious political indictment in a historical or formal register." },
+        { "distractor": "corruption", "closeness": 3, "reasoning": "Corruption describes the act of abusing power, while avarice names the underlying motive—the sentence specifically contrasts motives (avarice vs. duty), making the motive-word necessary." },
+        { "distractor": "ambition", "closeness": 3, "reasoning": "Ambition could plausibly motivate policy but suggests desire for power or achievement; avarice precisely names the desire for financial gain at the expense of duty." },
+        { "distractor": "self-interest", "closeness": 3, "reasoning": "Self-interest is broader than avarice and does not necessarily involve money; the context of trade policy requires the specifically monetary meaning avarice carries." },
+        { "distractor": "negligence", "closeness": 2, "reasoning": "Negligence means failure to perform duty through carelessness, not through deliberate profit-seeking—it would change the nature of the governor's wrongdoing." },
+        { "distractor": "incompetence", "closeness": 2, "reasoning": "Incompetence implies inability rather than deliberate exploitation—it would exonerate rather than condemn the governor." },
+        { "distractor": "ideology", "closeness": 2, "reasoning": "Ideology is a neutral term for a set of beliefs; substituting it would eliminate the moral condemnation essential to the sentence." },
+        { "distractor": "arrogance", "closeness": 2, "reasoning": "Arrogance concerns overconfidence and contempt for others, not financial motivation—wrong category for a sentence about trade policy motivated by desire for wealth." },
+        { "distractor": "altruism", "closeness": 1, "reasoning": "Altruism means selfless dedication to others' wellbeing, the opposite of what led to the governor's dismissal." },
+        { "distractor": "patriotism", "closeness": 1, "reasoning": "Patriotism would be a noble motive for trade policy, not the disgraceful one that led to his removal from office." },
+        { "distractor": "indifference", "closeness": 1, "reasoning": "Indifference implies passivity and lack of interest, while avarice implies active, driven pursuit—the governor's policies were deliberately motivated, not passively neglectful." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the avarice to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "Her avarice was subtle rather than ostentatious—she never flaunted wealth but quietly maneuvered to acquire more at every opportunity.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "greed", "closeness": 3, "reasoning": "Greed is an apt synonym but lacks the nuance that avarice brings—specifically the hoarding, accumulating dimension that makes the contrast with ostentatious display more pointed." },
+        { "distractor": "cunning", "closeness": 3, "reasoning": "Cunning describes a method (sly maneuvering) rather than the motivating desire; substituting it would name her strategy rather than the driving force the sentence identifies." },
+        { "distractor": "frugality", "closeness": 3, "reasoning": "Frugality means careful spending and thriftiness, which could superficially explain not flaunting wealth—making it a plausible but incorrect trap that misses the acquisitive dimension." },
+        { "distractor": "parsimony", "closeness": 3, "reasoning": "Parsimony means excessive thrift; while related, it emphasizes reluctance to spend rather than the insatiable drive to accumulate more that avarice denotes." },
+        { "distractor": "hypocrisy", "closeness": 2, "reasoning": "Hypocrisy means professing beliefs one does not hold; while she hides her true motivation, the sentence's core diagnosis is about desire for wealth, not false virtue." },
+        { "distractor": "ambition", "closeness": 2, "reasoning": "Ambition fits the maneuvering behavior but implies desire for status or achievement rather than the specifically financial accumulation avarice names." },
+        { "distractor": "secrecy", "closeness": 2, "reasoning": "Secrecy describes a behavior or trait, not a moral vice or motivating desire—it would describe how she acted rather than why." },
+        { "distractor": "deceit", "closeness": 2, "reasoning": "Deceit describes a method of manipulation but not the underlying desire for wealth that drives the behavior the sentence describes." },
+        { "distractor": "generosity", "closeness": 1, "reasoning": "Generosity means freely giving wealth away—the opposite of quietly maneuvering to acquire more at every opportunity." },
+        { "distractor": "contentment", "closeness": 1, "reasoning": "Contentment implies satisfaction with what one has, directly contradicting the relentless acquisition the sentence describes." },
+        { "distractor": "benevolence", "closeness": 1, "reasoning": "Benevolence means well-intentioned goodwill toward others, the antithesis of the self-serving wealth-seeking that avarice identifies." }
       ]
     }
   ]

@@ -4,181 +4,49 @@
     {
       "sentence": "He balked at signing the contract when he saw the exclusivity clause that had been quietly inserted.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "hesitated", "closeness": 3, "reasoning": "Close — discovering a hidden exclusivity clause would cause hesitation, but 'hesitated' implies a temporary pause while considering, whereas 'balked' implies an abrupt, firm refusal to proceed." },
+        { "distractor": "refused", "closeness": 3, "reasoning": "Close — 'balked' is essentially a refusal, but 'refused' is a flat, definitive rejection, while 'balk' carries the sense of stopping short abruptly with some emotional resistance rather than a categorical no." },
+        { "distractor": "recoiled", "closeness": 3, "reasoning": "Close — a hidden clause in a contract would provoke recoiling, but 'recoiled' emphasizes a physical or emotional shrinking-back reaction rather than the specific act of abruptly refusing to proceed." },
+        { "distractor": "objected", "closeness": 3, "reasoning": "Close — 'objected' is plausible when someone sees an unwanted clause, but 'objected' implies raising a formal protest or complaint rather than simply stopping and refusing to go forward." },
+        { "distractor": "paused", "closeness": 2, "reasoning": "'Paused' is too neutral — it suggests a brief stop without indicating refusal or resistance, whereas the discovered clause makes the act of balking something more definitive." },
+        { "distractor": "complained", "closeness": 2, "reasoning": "'Complained' implies verbal protest rather than the act of stopping at the point of signing; 'balked' is about the refusal to proceed, not about voicing grievances." },
+        { "distractor": "deliberated", "closeness": 2, "reasoning": "'Deliberated' implies thoughtful weighing of options, which is more measured than the abrupt refusal that 'balked' conveys upon discovering the inserted clause." },
+        { "distractor": "consented", "closeness": 2, "reasoning": "Opposite in outcome — the sentence is about refusing to sign, not agreeing to do so." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "Opposite — discovering a hidden, unwanted clause would not provoke celebration." },
+        { "distractor": "forgot", "closeness": 1, "reasoning": "Wrong semantic field — the sentence describes an active reaction to a discovered clause, not forgetting anything." },
+        { "distractor": "welcomed", "closeness": 1, "reasoning": "Opposite — the quietly inserted clause was clearly unwelcome; welcoming it contradicts the entire premise." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to balk before the meeting adjourned.",
+      "sentence": "The horse balked at the fence, planting its feet and refusing to jump no matter how firmly the rider urged it.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "stopped", "closeness": 3, "reasoning": "Close — the horse does stop, but 'stopped' is a neutral description of cessation and doesn't capture the stubborn, resistant refusal to proceed that 'balked' conveys." },
+        { "distractor": "shied", "closeness": 3, "reasoning": "Close — horses shy when startled, which would cause them to stop at a fence, but 'shied' implies a frightened swerving reaction rather than the planted-feet defiance that 'balked' describes." },
+        { "distractor": "stumbled", "closeness": 3, "reasoning": "Close — a horse might stop at a fence due to a stumble, but 'stumbled' implies loss of footing, an accidental trip, whereas 'balked' indicates a deliberate refusal." },
+        { "distractor": "reared", "closeness": 3, "reasoning": "Close — rearing and balking are both forms of equine resistance, but 'reared' specifically means rising on the hind legs, while 'balked' means planting the feet and refusing to go forward." },
+        { "distractor": "slowed", "closeness": 2, "reasoning": "'Slowed' implies only a decrease in speed rather than the complete, stubborn refusal to move that 'balked' describes." },
+        { "distractor": "fell", "closeness": 2, "reasoning": "'Fell' would be an accidental collapse rather than the deliberate resistance implied by planting its feet." },
+        { "distractor": "galloped", "closeness": 2, "reasoning": "Contradicted by the sentence — the horse plants its feet and refuses to move, which is the opposite of galloping." },
+        { "distractor": "circled", "closeness": 2, "reasoning": "A horse might circle to avoid a fence, but 'circled' implies movement in a different direction rather than the flat-footed refusal 'balked' describes." },
+        { "distractor": "soared", "closeness": 1, "reasoning": "Opposite — 'soared' would mean the horse jumped beautifully; the sentence describes the opposite." },
+        { "distractor": "obeyed", "closeness": 1, "reasoning": "Opposite — the horse ignores the rider's urging, which is the opposite of obedience." },
+        { "distractor": "vanished", "closeness": 1, "reasoning": "Wrong semantic field entirely — horses do not vanish; this is nonsensical in context." }
       ]
     },
     {
-      "sentence": "The curator chose to balk the fragile document only after consulting the conservator.",
+      "sentence": "Several board members balked at the proposed merger, arguing that the financial projections were unrealistically optimistic.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "dissented", "closeness": 3, "reasoning": "Close — the board members who oppose the merger are expressing dissent, but 'dissented' implies formally registering a different opinion, while 'balked' emphasizes a sharp, abrupt refusal to go along rather than a considered contrary view." },
+        { "distractor": "protested", "closeness": 3, "reasoning": "Close — objecting to a merger while citing specific financial concerns resembles protesting, but 'protested' implies active, vocal opposition as a campaign, whereas 'balked' describes the stopping-short reaction." },
+        { "distractor": "resisted", "closeness": 3, "reasoning": "Close — the board members are clearly resisting the proposed course, but 'resisted' implies an ongoing effort to oppose something, while 'balked' is more of a sudden, instinctive refusal." },
+        { "distractor": "withdrew", "closeness": 3, "reasoning": "Close — 'withdrew' implies pulling back from the merger proposal, which fits, but it suggests formally stepping aside rather than the in-the-room refusal that 'balked' conveys." },
+        { "distractor": "questioned", "closeness": 2, "reasoning": "'Questioned' is too mild — the board members don't merely ask about the projections; they use them as grounds for refusing to support the merger." },
+        { "distractor": "ignored", "closeness": 2, "reasoning": "'Ignored' would mean the board members paid no attention to the merger, but the sentence shows them actively engaging and arguing against it." },
+        { "distractor": "approved", "closeness": 2, "reasoning": "Contradicted by the sentence — the board members are arguing against the merger, not in favor of it." },
+        { "distractor": "postponed", "closeness": 2, "reasoning": "'Postponed' implies deferring a decision rather than refusing it outright; the board members are opposing the merger on substantive grounds, not requesting a delay." },
+        { "distractor": "championed", "closeness": 1, "reasoning": "Opposite — the board members oppose the merger; 'championed' would mean they advocated for it." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "Opposite — the merger draws resistance, not celebration." },
+        { "distractor": "authored", "closeness": 1, "reasoning": "Wrong semantic field — 'authored' means to write or create; it has no relevance to how board members respond to a proposal." }
       ]
     }
   ]

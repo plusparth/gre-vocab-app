@@ -4,181 +4,49 @@
     {
       "sentence": "The hall was adorned with garlands, transforming a utilitarian space into something festive.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "decorated", "closeness": 3, "reasoning": "Decorated is the closest everyday synonym, but adorned carries a slightly more elevated, intentional sense of beautification that matches the transformation described in the sentence." },
+        { "distractor": "festooned", "closeness": 3, "reasoning": "Festooned specifically suggests hanging decorations in loops or garlands, fitting the visual described, but it is more narrow than adorned and emphasizes the particular method rather than the beautifying result." },
+        { "distractor": "draped", "closeness": 3, "reasoning": "Draped fits the garland context well and describes hanging fabric or foliage over a surface, though it focuses on the physical arrangement rather than the enhancement of appearance that adorned implies." },
+        { "distractor": "embellished", "closeness": 3, "reasoning": "Embellished captures the enhancement of something's appearance but often implies adding detail to existing features rather than hanging separate decorations as garlands suggest." },
+        { "distractor": "trimmed", "closeness": 2, "reasoning": "Trimmed suggests adding edging or finishing touches and can describe holiday decoration, but it does not carry the transformative enhancement of appearance that adorned implies in the context of turning a utilitarian hall festive." },
+        { "distractor": "lined", "closeness": 2, "reasoning": "Lined describes things arranged along the sides and fits a hall with garlands, but it does not convey the beautifying intent that adorned expresses." },
+        { "distractor": "hung", "closeness": 2, "reasoning": "Hung describes the physical placement of the garlands but is purely mechanical and lacks the aesthetic-enhancement connotation that adorned provides." },
+        { "distractor": "covered", "closeness": 2, "reasoning": "Covered implies a more complete obscuring of the surface rather than the enhancing and beautifying function that adorned carries, especially in a festive transformation context." },
+        { "distractor": "emptied", "closeness": 1, "reasoning": "Emptied describes removal rather than addition, which is the opposite of adorned's meaning of adding decorative objects to enhance the space." },
+        { "distractor": "demolished", "closeness": 1, "reasoning": "Demolished means destroyed, which is entirely antithetical to the idea of beautifying and transforming the hall that adorned conveys." },
+        { "distractor": "vacated", "closeness": 1, "reasoning": "Vacated means cleared of people or contents, which contradicts the idea of filling the hall with garlands and festive enhancement implied by adorned." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to adorned before the meeting adjourned.",
+      "sentence": "The manuscript pages were adorned with intricate illuminations that took monks years to complete.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "illuminated", "closeness": 3, "reasoning": "Illuminated specifically refers to the artistic technique described, making it extremely close, but adorned emphasizes the enhancement of the pages' appearance while illuminated names the process itself." },
+        { "distractor": "ornamented", "closeness": 3, "reasoning": "Ornamented is nearly synonymous with adorned in this context, though it slightly emphasizes the addition of ornamental elements whereas adorned stresses the resulting beauty." },
+        { "distractor": "embellished", "closeness": 3, "reasoning": "Embellished captures the enhancement of the manuscripts with detailed additions and is close, but adorned implies the decorations are meant primarily to enhance beauty rather than to add detail for detail's sake." },
+        { "distractor": "inscribed", "closeness": 3, "reasoning": "Inscribed suggests text or symbols were written onto the pages, which overlaps with manuscript work, but it does not capture the visual, decorative enhancement that adorned implies." },
+        { "distractor": "painted", "closeness": 2, "reasoning": "Painted describes the artistic technique but implies covering the surface with color more broadly, rather than the selective beautification and decorative enhancement that adorned conveys." },
+        { "distractor": "filled", "closeness": 2, "reasoning": "Filled suggests the pages were occupied or covered but does not carry the aesthetic enhancement dimension of adorned, which implies purposeful beautification." },
+        { "distractor": "produced", "closeness": 2, "reasoning": "Produced refers to the making of the manuscripts, not the adding of decorations to them, which is what adorned describes in this sentence." },
+        { "distractor": "copied", "closeness": 2, "reasoning": "Copied describes reproducing text and does not address the decorative embellishment of the pages that adorned specifies." },
+        { "distractor": "damaged", "closeness": 1, "reasoning": "Damaged implies harm done to the manuscripts, which is the opposite of the beautifying and enhancing action that adorned describes." },
+        { "distractor": "erased", "closeness": 1, "reasoning": "Erased means content was removed from the pages, contradicting the idea of adding intricate illuminations to enhance them." },
+        { "distractor": "discarded", "closeness": 1, "reasoning": "Discarded means thrown away, which directly contradicts the careful, years-long beautification of the manuscripts that adorned implies." }
       ]
     },
     {
-      "sentence": "The curator chose to adorned the fragile document only after consulting the conservator.",
+      "sentence": "The athlete's wrists were adorned with several championship bracelets she wore at every press conference.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "decorated", "closeness": 3, "reasoning": "Decorated works here but is slightly more general; adorned suggests the bracelets enhance her appearance and carry a certain pride or significance beyond mere decoration." },
+        { "distractor": "encircled", "closeness": 3, "reasoning": "Encircled accurately describes bracelets going around the wrists, but it is a spatial description rather than one that implies the beautifying or commemorative significance that adorned conveys." },
+        { "distractor": "accessorized", "closeness": 3, "reasoning": "Accessorized captures the addition of jewelry to her appearance and is close in register, though it is more informal and fashion-focused than adorned, which also implies a degree of pride in the items worn." },
+        { "distractor": "graced", "closeness": 3, "reasoning": "Graced suggests the bracelets added elegance to her wrists, which is very close to adorned, but it implies the items themselves add grace rather than being added as enhancements." },
+        { "distractor": "fitted", "closeness": 2, "reasoning": "Fitted describes the bracelets being placed on her wrists without conveying the aesthetic enhancement or the sense that they beautified her that adorned implies." },
+        { "distractor": "loaded", "closeness": 2, "reasoning": "Loaded suggests a heavy accumulation and could fit several bracelets, but it lacks the aesthetic-enhancement and dignifying connotation that adorned carries." },
+        { "distractor": "wrapped", "closeness": 2, "reasoning": "Wrapped describes the physical placement around the wrist but does not capture the decorative and enhancing significance that adorned implies for championship jewelry." },
+        { "distractor": "burdened", "closeness": 2, "reasoning": "Burdened implies the bracelets were a weight or imposition, which contradicts the sense of pride and beautification that adorned suggests in the context of championship jewelry." },
+        { "distractor": "hidden", "closeness": 1, "reasoning": "Hidden implies the bracelets were concealed, contradicting the public display at press conferences that adorned implies in this sentence." },
+        { "distractor": "stripped", "closeness": 1, "reasoning": "Stripped means the bracelets were removed, which is the opposite of the adorning described in the sentence." },
+        { "distractor": "scarred", "closeness": 1, "reasoning": "Scarred implies the wrists were marked with wounds, which is entirely contrary to the beautifying, decorative sense of adorned." }
       ]
     }
   ]

@@ -4,181 +4,49 @@
     {
       "sentence": "The two rival firms agreed to amalgamate, combining their resources to compete in a tougher market.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "merge", "closeness": 3, "reasoning": "Merge is a very close synonym in business contexts but emphasizes one entity absorbing another; amalgamate implies a more thorough blending into a new unified entity." },
+        { "distractor": "consolidate", "closeness": 3, "reasoning": "Consolidate means to combine into a stronger whole, often through reduction; it is close but focuses on strengthening and streamlining rather than the fusion into a new combined entity." },
+        { "distractor": "integrate", "closeness": 3, "reasoning": "Integrate means to bring parts together into a whole; it is close but can describe incorporating one part into another rather than the mutual blending implied by amalgamate." },
+        { "distractor": "collaborate", "closeness": 3, "reasoning": "Collaborate means to work together; firms that collaborate remain separate entities, whereas amalgamate means they become one—an important structural distinction." },
+        { "distractor": "partner", "closeness": 2, "reasoning": "Partner means to form an alliance while remaining independent; it describes a relationship short of the full blending that amalgamate requires." },
+        { "distractor": "coordinate", "closeness": 2, "reasoning": "Coordinate means to organize joint action; it does not imply forming a single entity and lacks the sense of combining resources into one organization." },
+        { "distractor": "align", "closeness": 2, "reasoning": "Align means to bring into agreement or cooperation; it describes moving in the same direction while remaining distinct, not the creation of a unified entity." },
+        { "distractor": "compete", "closeness": 2, "reasoning": "Compete is the opposite of what the firms want to do with each other; they amalgamate precisely to compete more effectively against third parties." },
+        { "distractor": "dissolve", "closeness": 1, "reasoning": "Dissolve means to break up and cease to exist; it is the opposite of combining resources to build a stronger market presence." },
+        { "distractor": "fragment", "closeness": 1, "reasoning": "Fragment means to break into pieces—the opposite of bringing two firms together into a unified entity." },
+        { "distractor": "divest", "closeness": 1, "reasoning": "Divest means to sell off assets or subsidiaries—the opposite of combining resources through merger." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to amalgamate before the meeting adjourned.",
+      "sentence": "The historian described how the three warring clans eventually chose to amalgamate rather than continue a war of mutual destruction.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "unite", "closeness": 3, "reasoning": "Unite is very close in meaning but is broader and more neutral; amalgamate specifically implies the blending of previously distinct groups into something new rather than simply standing together." },
+        { "distractor": "federate", "closeness": 3, "reasoning": "Federate means to join in a federation while preserving some independence; amalgamate implies a more thorough merger where the distinct identities dissolve into one." },
+        { "distractor": "reconcile", "closeness": 3, "reasoning": "Reconcile means to restore friendly relations; it describes ending hostility without necessarily merging into a single entity." },
+        { "distractor": "coalesce", "closeness": 3, "reasoning": "Coalesce means to come together to form one mass; it is very close to amalgamate but tends to describe a more gradual, organic process, while amalgamate can be a deliberate formal act." },
+        { "distractor": "assimilate", "closeness": 2, "reasoning": "Assimilate means to absorb into a dominant culture or group; it implies one side dominating rather than the mutual blending that amalgamate suggests for equally matched clans." },
+        { "distractor": "negotiate", "closeness": 2, "reasoning": "Negotiate means to discuss and reach an agreement; the clans may have negotiated before amalgamating, but negotiate describes the process, not the outcome of combining." },
+        { "distractor": "subjugate", "closeness": 2, "reasoning": "Subjugate means to bring under control by force; it implies conquest rather than the voluntary mutual merging that amalgamate describes." },
+        { "distractor": "capitulate", "closeness": 2, "reasoning": "Capitulate means to surrender; it implies one side giving up rather than two sides voluntarily combining into one." },
+        { "distractor": "fracture", "closeness": 1, "reasoning": "Fracture means to break or split—the opposite of the clans coming together into a single entity." },
+        { "distractor": "exterminate", "closeness": 1, "reasoning": "Exterminate means to destroy entirely—the very outcome the clans were trying to avoid by amalgamating." },
+        { "distractor": "scatter", "closeness": 1, "reasoning": "Scatter means to spread widely in different directions—the opposite of converging into a unified group." }
       ]
     },
     {
-      "sentence": "The curator chose to amalgamate the fragile document only after consulting the conservator.",
+      "sentence": "The software engineer proposed a script to amalgamate data from three separate databases into a single, searchable repository.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "aggregate", "closeness": 3, "reasoning": "Aggregate means to collect into a mass or total; it is very close but emphasizes summing or counting rather than the thorough blending into a unified structure that amalgamate implies." },
+        { "distractor": "compile", "closeness": 3, "reasoning": "Compile means to collect and assemble from sources; it is close but suggests gathering without the thorough fusion into one coherent structure that amalgamate conveys." },
+        { "distractor": "synchronize", "closeness": 3, "reasoning": "Synchronize means to make systems consistent and coordinated; it preserves separate databases while keeping them aligned rather than merging them into one." },
+        { "distractor": "migrate", "closeness": 3, "reasoning": "Migrate means to move data from one system to another; it describes movement but not the fusion of multiple sources into one new repository." },
+        { "distractor": "extract", "closeness": 2, "reasoning": "Extract means to pull data out; it describes a step in the process but not the act of combining multiple sources into one." },
+        { "distractor": "normalize", "closeness": 2, "reasoning": "Normalize means to standardize data formats; it is a preparatory step for combining databases but does not itself mean to fuse them." },
+        { "distractor": "duplicate", "closeness": 2, "reasoning": "Duplicate means to copy exactly; it involves multiplication rather than the reduction of three sources to one combined repository." },
+        { "distractor": "index", "closeness": 2, "reasoning": "Index means to organize into a systematic list for searching; a repository might be indexed after amalgamating data, but indexing does not itself mean combining sources." },
+        { "distractor": "partition", "closeness": 1, "reasoning": "Partition means to divide into separate sections—the opposite of combining three databases into one." },
+        { "distractor": "corrupt", "closeness": 1, "reasoning": "Corrupt means to introduce errors or damage data—the opposite of building a clean, unified repository." },
+        { "distractor": "delete", "closeness": 1, "reasoning": "Delete means to remove data entirely—clearly the opposite of preserving and combining data from three sources." }
       ]
     }
   ]

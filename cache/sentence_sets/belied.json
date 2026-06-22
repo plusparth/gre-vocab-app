@@ -4,181 +4,49 @@
     {
       "sentence": "Her cheerful voice belied the exhaustion evident in her face.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "masked", "closeness": 3, "reasoning": "The exhaustion is visible in her face, so it is not successfully masked; the sentence establishes a contrast where one signal (voice) gives a false impression despite another signal (face) revealing the truth." },
+        { "distractor": "concealed", "closeness": 3, "reasoning": "The exhaustion is evident in her face, so it is not concealed; 'concealed' would mean the exhaustion was hidden, which contradicts the 'evident in her face' clause." },
+        { "distractor": "contradicted", "closeness": 3, "reasoning": "Close — 'contradicted' fits the oppositional relationship between voice and face, but the sentence's force is that the cheerful voice gives a false impression, not merely that two signals are at odds as equal assertions." },
+        { "distractor": "disguised", "closeness": 3, "reasoning": "The exhaustion shows clearly in her face, so it is not disguised; 'disguised' implies successful concealment that the visible facial exhaustion disproves." },
+        { "distractor": "amplified", "closeness": 2, "reasoning": "The cheerful voice does not amplify the exhaustion — it creates a false impression that the exhaustion is absent; 'amplified' would mean the voice made the exhaustion more apparent." },
+        { "distractor": "suppressed", "closeness": 2, "reasoning": "The exhaustion is openly evident in her face, so it is not suppressed; the contrast requires a word for false impressions, not for successfully withholding a feeling." },
+        { "distractor": "revealed", "closeness": 2, "reasoning": "The cheerful voice does not reveal exhaustion — the sentence's structure requires the voice to create the opposite impression from what the face shows." },
+        { "distractor": "conveyed", "closeness": 2, "reasoning": "A cheerful voice that belies exhaustion does not convey it; 'conveyed' would mean the voice communicated the exhaustion, which inverts the sentence's contrast." },
+        { "distractor": "expressed", "closeness": 1, "reasoning": "The cheerful voice expresses cheer, not exhaustion; using 'expressed' here would eliminate the contrast the sentence is built on." },
+        { "distractor": "confirmed", "closeness": 1, "reasoning": "The cheerful voice creates a false impression rather than confirming the exhaustion; 'confirmed' is semantically backwards." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "Entirely wrong semantic field — nothing in a sentence about voice and facial exhaustion involves celebration." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to belied before the meeting adjourned.",
+      "sentence": "The town's picturesque façade belied the poverty that persisted behind closed doors.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "masked", "closeness": 3, "reasoning": "Close — 'masked' fits the idea of an attractive surface hiding something, but it implies intentional concealment by an agent, whereas a façade belies poverty by passively giving a false visual impression." },
+        { "distractor": "obscured", "closeness": 3, "reasoning": "The picturesque façade does create a misleading picture, but 'obscured' implies making something harder to see rather than giving an actively false impression of its opposite." },
+        { "distractor": "concealed", "closeness": 3, "reasoning": "Close — 'concealed' fits the surface/hidden-reality structure, but the poverty is described as persisting behind closed doors, implying a contrast between public appearance and private reality, not successful hiding." },
+        { "distractor": "contradicted", "closeness": 3, "reasoning": "The façade and the poverty do stand in opposition, but 'contradicted' makes both appear to be equally visible claims in tension, whereas the sentence is about a pretty exterior that gives a false overall impression." },
+        { "distractor": "reflected", "closeness": 2, "reasoning": "If the façade reflected the poverty, there would be no tension between appearance and reality; 'reflected' would mean the pretty exterior expressed poverty, which is the opposite of the sentence's meaning." },
+        { "distractor": "highlighted", "closeness": 2, "reasoning": "The picturesque façade draws attention away from poverty rather than toward it; 'highlighted' would mean the façade made the poverty more visible." },
+        { "distractor": "documented", "closeness": 2, "reasoning": "A façade cannot document poverty; the sentence is about visual appearance creating a false impression, not about recording or evidencing facts." },
+        { "distractor": "eliminated", "closeness": 2, "reasoning": "The poverty persists, so the façade clearly did not eliminate it; 'eliminated' would mean the pretty exterior somehow removed the poverty." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "Nothing about a picturesque exterior in a sentence about persisting poverty involves celebration; entirely wrong semantic field." },
+        { "distractor": "confirmed", "closeness": 1, "reasoning": "The whole point of the sentence is that the façade does the opposite of confirming poverty — it creates the impression of prosperity." },
+        { "distractor": "worsened", "closeness": 1, "reasoning": "A visual façade cannot worsen poverty; entirely wrong causal relationship and semantic field." }
       ]
     },
     {
-      "sentence": "The curator chose to belied the fragile document only after consulting the conservator.",
+      "sentence": "His measured tone belied the fury with which he typed his resignation letter that evening.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "masked", "closeness": 3, "reasoning": "Close — 'masked' fits the surface-concealing-inner-reality structure, but the sentence reveals the fury through the evening's actions, suggesting it was not perfectly masked so much as misrepresented by his calm public tone." },
+        { "distractor": "disguised", "closeness": 3, "reasoning": "Close — 'disguised' implies deliberate camouflage; the sentence describes a measured tone that simply gave a false impression about his emotional state rather than a calculated performance." },
+        { "distractor": "concealed", "closeness": 3, "reasoning": "The fury reveals itself through the furious typing, so it is not successfully concealed; 'concealed' implies the emotions were hidden, but the sentence shows them erupting privately that evening." },
+        { "distractor": "suppressed", "closeness": 3, "reasoning": "Close — 'suppressed' implies restraining something from emerging, but the sentence shows the fury fully active in his private behavior; his tone created a false impression rather than suppressing the feeling." },
+        { "distractor": "amplified", "closeness": 2, "reasoning": "A measured tone does not amplify fury — it creates the opposite impression; 'amplified' would mean his tone made the anger more apparent to listeners." },
+        { "distractor": "revealed", "closeness": 2, "reasoning": "The measured tone does not reveal fury — the private typing reveals it; using 'revealed' here would invert the contrast the sentence depends on." },
+        { "distractor": "confirmed", "closeness": 2, "reasoning": "A measured tone does not confirm fury; the sentence presents the tone as creating a deceptive picture that is undone only by the private evening action." },
+        { "distractor": "conveyed", "closeness": 2, "reasoning": "The measured tone does not convey fury — that is precisely the contrast the sentence builds; 'conveyed' would mean his calm tone communicated the anger." },
+        { "distractor": "expressed", "closeness": 1, "reasoning": "The measured tone expresses calm, not fury; substituting 'expressed' would eliminate the contrast between his public manner and private actions." },
+        { "distractor": "forgave", "closeness": 1, "reasoning": "Entirely wrong semantic field — there is no forgiving agent or context involving pardon in this sentence." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "Nothing in a sentence about a resignation letter typed in fury involves celebration; entirely wrong semantic field." }
       ]
     }
   ]

@@ -4,181 +4,49 @@
     {
       "sentence": "The new director remained aloof, rarely engaging with staff outside of formal meetings.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "detached", "closeness": 3, "reasoning": "Detached means emotionally uninvolved, which is very close to aloof, but it more often describes a psychological state rather than a social stance of deliberate distance from others." },
+        { "distractor": "reserved", "closeness": 3, "reasoning": "Reserved describes someone who holds back in social settings, which is close, but reserved can stem from shyness rather than the deliberate, superior distance that aloof implies." },
+        { "distractor": "standoffish", "closeness": 3, "reasoning": "Standoffish is nearly synonymous with aloof in casual use, but it emphasizes unfriendliness more than the cool, dignified distance that aloof often connotes." },
+        { "distractor": "distant", "closeness": 3, "reasoning": "Distant is a very close synonym but is more general—it can describe physical or emotional separation—whereas aloof specifically suggests a chosen social and emotional remove." },
+        { "distractor": "formal", "closeness": 2, "reasoning": "Formal fits the context of 'formal meetings' but describes a style of interaction rather than a quality of emotional or social withdrawal." },
+        { "distractor": "imperious", "closeness": 2, "reasoning": "Imperious describes an overbearing, commanding manner; a director could be both imperious and aloof, but imperious implies active domination rather than withdrawal." },
+        { "distractor": "austere", "closeness": 2, "reasoning": "Austere describes a severe, plain manner or character, which can accompany aloofness but refers more to the absence of warmth in style than to social distance." },
+        { "distractor": "reticent", "closeness": 2, "reasoning": "Reticent means reluctant to speak; it targets one behavior (silence) rather than the full posture of maintained emotional and social distance." },
+        { "distractor": "amiable", "closeness": 1, "reasoning": "Amiable means friendly and pleasant—the direct opposite of rarely engaging with staff." },
+        { "distractor": "gregarious", "closeness": 1, "reasoning": "Gregarious means sociable and fond of company—clearly contradicted by the director's avoidance of engagement." },
+        { "distractor": "approachable", "closeness": 1, "reasoning": "Approachable means easy to talk to, directly contradicting the picture of a director who avoided informal contact with staff." }
       ]
     },
     {
-      "sentence": "Her aloof response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "Though surrounded by excited fans at the premiere, the actress stayed aloof, signing autographs with a smile that never reached her eyes.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "composed", "closeness": 3, "reasoning": "Composed means calm and self-controlled, which could explain her restrained smile, but composed does not imply the deliberate social and emotional distance that aloof does." },
+        { "distractor": "guarded", "closeness": 3, "reasoning": "Guarded means cautious about revealing feelings, which overlaps with aloof in a celebrity context, but guarded suggests defensiveness rather than the cool superiority of deliberate distance." },
+        { "distractor": "serene", "closeness": 3, "reasoning": "Serene means peacefully calm and could explain her controlled manner, but serenity is a positive inner state rather than a social posture of maintained distance from others." },
+        { "distractor": "indifferent", "closeness": 3, "reasoning": "Indifferent means showing no interest or concern, which fits her mechanical smile, but indifferent does not carry aloof's sense of consciously maintained elevation above the crowd." },
+        { "distractor": "poised", "closeness": 2, "reasoning": "Poised means graceful and self-assured; it could describe someone who handles fan attention well, but poised lacks the connotation of emotional withdrawal and distance." },
+        { "distractor": "stoic", "closeness": 2, "reasoning": "Stoic means enduring difficulty without complaint; it could explain a blank smile, but stoic implies philosophical acceptance rather than chosen social remove." },
+        { "distractor": "dignified", "closeness": 2, "reasoning": "Dignified means having stately bearing; a dignified person might stay aloof, but dignified is a positive quality of manner rather than a description of social distance." },
+        { "distractor": "inscrutable", "closeness": 2, "reasoning": "Inscrutable means impossible to read or understand; her unexpressive smile fits this, but inscrutable targets mystery of expression rather than emotional and social aloofness." },
+        { "distractor": "effusive", "closeness": 1, "reasoning": "Effusive means expressively enthusiastic—the opposite of a smile that never reached her eyes and a demeanor of maintained distance." },
+        { "distractor": "convivial", "closeness": 1, "reasoning": "Convivial means cheerful and sociable in company—directly opposite to someone who stays emotionally removed from an excited crowd." },
+        { "distractor": "exuberant", "closeness": 1, "reasoning": "Exuberant means lively and energetic enthusiasm—entirely wrong for someone maintaining cool, distant composure at a fan event." }
       ]
     },
     {
-      "sentence": "The curator's aloof arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "Scientists who remain aloof from public debate cede the interpretation of their findings to those with political agendas.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "absent", "closeness": 3, "reasoning": "Absent means physically or mentally not present; it is close in that it describes non-participation, but aloof implies a chosen stance of superiority or non-involvement rather than mere absence." },
+        { "distractor": "disengaged", "closeness": 3, "reasoning": "Disengaged means withdrawn from involvement, which closely matches the sense here, but disengaged is more neutral and does not carry the slightly haughty, self-distancing quality of aloof." },
+        { "distractor": "neutral", "closeness": 3, "reasoning": "Neutral means not taking sides, which could explain why scientists avoid debate, but neutral describes a position rather than an emotional and social distance from engagement." },
+        { "distractor": "uninvolved", "closeness": 3, "reasoning": "Uninvolved describes lack of participation but is bland and does not convey the deliberate, often superior remove implied by aloof." },
+        { "distractor": "reluctant", "closeness": 2, "reasoning": "Reluctant means unwilling; scientists might be reluctant to engage, but reluctant implies desire restrained by hesitation rather than deliberate distancing." },
+        { "distractor": "cautious", "closeness": 2, "reasoning": "Cautious means careful about risks; some scientists avoid debate for caution, but cautious does not describe a posture of emotional distance or superior remove." },
+        { "distractor": "passive", "closeness": 2, "reasoning": "Passive means accepting without resistance; it describes a lack of action but not the deliberate, distanced stance that aloof specifically conveys." },
+        { "distractor": "impartial", "closeness": 2, "reasoning": "Impartial means unbiased; a scientist might stay aloof to seem impartial, but impartial is a positive epistemic virtue, not a description of social distance." },
+        { "distractor": "vocal", "closeness": 1, "reasoning": "Vocal means outspoken and expressive—the opposite of staying out of public debate." },
+        { "distractor": "engaged", "closeness": 1, "reasoning": "Engaged means actively involved—directly contradicted by ceding interpretation to others." },
+        { "distractor": "partisan", "closeness": 1, "reasoning": "Partisan means strongly supporting one side—the opposite disposition from remaining apart from the debate entirely." }
       ]
     }
   ]

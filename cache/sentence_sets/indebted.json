@@ -1,0 +1,53 @@
+{
+  "word": "indebted",
+  "sentenceSets": [
+    {
+      "sentence": "She was deeply indebted to the mentor who had spent years making introductions she could never have made herself.",
+      "answerChoices": [
+        { "distractor": "grateful", "closeness": 3, "reasoning": "Grateful describes a feeling, but indebted implies an ongoing obligation—the sentence emphasizes years of effort the mentor invested, creating a debt that mere gratitude doesn't fully capture." },
+        { "distractor": "beholden", "closeness": 3, "reasoning": "Beholden is nearly synonymous, but it suggests more of a constrained obligation; the sentence frames the relationship as one of deep appreciation toward a benefactor, fitting indebted better." },
+        { "distractor": "obligated", "closeness": 3, "reasoning": "Obligated implies a formal duty; the sentence describes an emotional and relational debt arising from personal favor, not a contractual or rule-based compulsion." },
+        { "distractor": "devoted", "closeness": 2, "reasoning": "Devoted means loyal and dedicated, but the sentence specifies that the mentor gave something she could not have gotten herself—that is a debt owed, not devotion rendered." },
+        { "distractor": "loyal", "closeness": 2, "reasoning": "Loyal describes consistent allegiance, but the sentence centers on what the mentor provided over years, establishing a one-way benefit that creates indebtedness, not mutual loyalty." },
+        { "distractor": "attached", "closeness": 2, "reasoning": "Attached suggests an emotional bond, but the sentence stresses that the mentor made introductions she could never have made herself—a concrete benefit she received, not just an emotional connection." },
+        { "distractor": "impressed", "closeness": 2, "reasoning": "Impressed refers to admiration, but the sentence describes a relationship in which she received substantial help she could not have obtained alone, which creates obligation, not just admiration." },
+        { "distractor": "indifferent", "closeness": 1, "reasoning": "Indifferent means lacking concern, which contradicts the sentence's description of deep appreciation for years of personal assistance." },
+        { "distractor": "hostile", "closeness": 1, "reasoning": "Hostile means antagonistic; the sentence describes a positive, supportive mentorship relationship, the opposite of hostility." },
+        { "distractor": "dismissive", "closeness": 1, "reasoning": "Dismissive means treating something as unworthy of attention; the sentence describes someone who deeply values what the mentor gave her." },
+        { "distractor": "ambivalent", "closeness": 1, "reasoning": "Ambivalent means having mixed feelings; the sentence uses 'deeply,' indicating a strong, singular sense of obligation with no ambivalence." }
+      ]
+    },
+    {
+      "sentence": "The young scientist felt indebted to the laboratory that had funded her research during the years when no one else believed in her work.",
+      "answerChoices": [
+        { "distractor": "thankful", "closeness": 3, "reasoning": "Thankful expresses appreciation but not ongoing obligation; the sentence stresses a long period of exclusive support, which creates a debt beyond mere thanks." },
+        { "distractor": "beholden", "closeness": 3, "reasoning": "Beholden is nearly synonymous but carries a slightly more negative or constrained connotation; indebted better captures the positive relational sense the sentence implies." },
+        { "distractor": "indebted", "closeness": 3, "reasoning": "This is the target word itself." },
+        { "distractor": "bound", "closeness": 2, "reasoning": "Bound suggests compulsion by rule or circumstance; the sentence describes a freely felt sense of owing gratitude for support received, not an external constraint." },
+        { "distractor": "partial", "closeness": 2, "reasoning": "Partial means biased in favor of something; the sentence does not suggest bias but rather a sense of owing something back for specific, concrete support." },
+        { "distractor": "committed", "closeness": 2, "reasoning": "Committed means dedicated to a course of action; the sentence focuses on what she received from the lab, generating a debt, not a commitment she chose independently." },
+        { "distractor": "sympathetic", "closeness": 1, "reasoning": "Sympathetic means sharing another's feelings; the sentence is about what the laboratory gave her, creating a debt she owes, not feelings of sympathy toward anyone." },
+        { "distractor": "contemptuous", "closeness": 1, "reasoning": "Contemptuous means showing scorn; the sentence describes appreciation for sustained support, the opposite of contempt." },
+        { "distractor": "indignant", "closeness": 1, "reasoning": "Indignant means feeling anger at injustice; the sentence describes positive feelings toward a benefactor, not anger." },
+        { "distractor": "reluctant", "closeness": 1, "reasoning": "Reluctant means unwilling; the sentence describes a felt sense of gratitude and obligation, not any unwillingness." },
+        { "distractor": "envious", "closeness": 1, "reasoning": "Envious means desiring what another has; the sentence describes what she received, creating gratitude and obligation, not envy." }
+      ]
+    },
+    {
+      "sentence": "Having received scholarship funding, free housing, and daily mentorship, he felt profoundly indebted to the organization long after he had achieved financial independence.",
+      "answerChoices": [
+        { "distractor": "appreciative", "closeness": 3, "reasoning": "Appreciative captures gratitude but not the ongoing sense of obligation; the sentence lists concrete benefits received over time, establishing a debt that persists even after independence." },
+        { "distractor": "obliged", "closeness": 3, "reasoning": "Obliged can mean grateful but also means compelled; the sentence's emphasis on freely felt gratitude long after any compulsion ended fits indebted more precisely." },
+        { "distractor": "accountable", "closeness": 2, "reasoning": "Accountable means answerable for actions; the sentence describes receiving support from others, not an accountability relationship." },
+        { "distractor": "influenced", "closeness": 2, "reasoning": "Influenced means shaped by external forces; the sentence specifies scholarship, housing, and mentorship as tangible gifts received, creating a debt, not merely an influence." },
+        { "distractor": "connected", "closeness": 2, "reasoning": "Connected suggests a relational tie; the sentence emphasizes the specific material and personal support received that generates an obligation, not just a connection." },
+        { "distractor": "respectful", "closeness": 2, "reasoning": "Respectful means showing esteem; the sentence describes an ongoing debt felt even after financial independence, which goes beyond mere respect." },
+        { "distractor": "resentful", "closeness": 1, "reasoning": "Resentful means feeling bitter; the sentence describes positive feelings of obligation stemming from generous support, not bitterness." },
+        { "distractor": "indifferent", "closeness": 1, "reasoning": "Indifferent means without concern; the sentence says 'profoundly,' indicating intense feeling, the opposite of indifference." },
+        { "distractor": "alienated", "closeness": 1, "reasoning": "Alienated means estranged; the sentence describes a sustained, warm sense of owing something to the organization, not estrangement." },
+        { "distractor": "disillusioned", "closeness": 1, "reasoning": "Disillusioned means having lost ideals; the sentence describes a continued positive sense of gratitude and obligation, not disillusionment." },
+        { "distractor": "autonomous", "closeness": 1, "reasoning": "Autonomous means self-governing and independent; the sentence explicitly contrasts his financial independence with a persisting sense of debt, making autonomous the wrong direction." }
+      ]
+    }
+  ]
+}

@@ -4,181 +4,49 @@
     {
       "sentence": "The region had been granted autonomous status, managing its own affairs while remaining part of the larger state.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "sovereign", "closeness": 3, "reasoning": "Sovereign implies complete independence, while autonomous suggests self-governance within a larger structure—the sentence specifies 'remaining part of the larger state,' ruling out full sovereignty." },
+        { "distractor": "self-governing", "closeness": 3, "reasoning": "Self-governing is nearly synonymous but overly literal; autonomous carries a formal political and legal weight that 'self-governing' lacks in this institutional context." },
+        { "distractor": "independent", "closeness": 3, "reasoning": "Independent implies freedom from external control entirely, conflicting with 'remaining part of the larger state'—autonomous explicitly allows both self-rule and continued membership." },
+        { "distractor": "semi-independent", "closeness": 3, "reasoning": "Semi-independent suggests only partial self-rule and carries a diminishing connotation, whereas autonomous denotes a recognized, complete sphere of self-governance." },
+        { "distractor": "federated", "closeness": 2, "reasoning": "Federated describes a system of shared governance among equals, not a special status granted to a single region within a larger body." },
+        { "distractor": "exempt", "closeness": 2, "reasoning": "Exempt describes being freed from a specific obligation, not the broader political right to self-administration that autonomous implies." },
+        { "distractor": "decentralized", "closeness": 2, "reasoning": "Decentralized describes a structural feature of governments, not a status conferred on a region—the sentence requires a descriptor for the region's condition, not a systemic quality." },
+        { "distractor": "sovereign-adjacent", "closeness": 2, "reasoning": "This is not a standard political or legal term; autonomous is the precise, recognized term for the concept described in the sentence." },
+        { "distractor": "subjugated", "closeness": 1, "reasoning": "Subjugated means under forceful control of another—the opposite of managing one's own affairs, which is exactly what the sentence describes." },
+        { "distractor": "dependent", "closeness": 1, "reasoning": "Dependent means relying on another for control or support, directly contradicting the region managing its own affairs." },
+        { "distractor": "annexed", "closeness": 1, "reasoning": "Annexed means incorporated by force into another state with no retained self-governance—the antithesis of what the sentence describes." }
       ]
     },
     {
-      "sentence": "Her autonomous response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The AI system was designed to be autonomous, making real-time decisions about resource allocation without operator approval.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "self-directed", "closeness": 3, "reasoning": "Self-directed implies volition and intention, which fits human agents better than engineered systems; autonomous is the standard technical term for systems acting without human intervention." },
+        { "distractor": "automated", "closeness": 3, "reasoning": "Automated implies preset rules governing behavior, while autonomous implies genuine independent decision-making—the sentence's emphasis on 'real-time decisions' calls for autonomous." },
+        { "distractor": "independent", "closeness": 3, "reasoning": "Independent is plausible but generic; in the context of AI systems and without-operator decisions, autonomous is the precise technical descriptor." },
+        { "distractor": "intelligent", "closeness": 3, "reasoning": "Intelligent describes a cognitive capability, not the operational independence from human oversight that the sentence requires." },
+        { "distractor": "adaptive", "closeness": 2, "reasoning": "Adaptive describes the ability to adjust to new conditions, not the absence of operator approval or independent action." },
+        { "distractor": "proactive", "closeness": 2, "reasoning": "Proactive describes initiating action in anticipation of needs but does not convey freedom from oversight, which is the sentence's core meaning." },
+        { "distractor": "algorithmic", "closeness": 2, "reasoning": "Algorithmic describes the method by which a system operates, not its level of independence from human control." },
+        { "distractor": "efficient", "closeness": 2, "reasoning": "Efficient describes performance quality, not operational independence, and would change the sentence's meaning entirely." },
+        { "distractor": "supervised", "closeness": 1, "reasoning": "Supervised directly contradicts 'without operator approval'—the sentence explicitly describes unsupervised operation." },
+        { "distractor": "manual", "closeness": 1, "reasoning": "Manual implies human-controlled operation, the precise opposite of what the sentence describes." },
+        { "distractor": "defunct", "closeness": 1, "reasoning": "Defunct means no longer in use or functioning—completely irrelevant to the meaning conveyed by autonomous here." }
       ]
     },
     {
-      "sentence": "The curator's autonomous arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "Philosophers debated whether an autonomous moral agent could ever be truly held responsible for harm caused by a decision it alone reached.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "rational", "closeness": 3, "reasoning": "Rational describes the quality of reasoning, not the freedom from external direction that grounds moral responsibility—autonomous is the philosophical term linking self-governance to accountability." },
+        { "distractor": "free", "closeness": 3, "reasoning": "Free is close but philosophically vague; autonomous specifically denotes the self-legislating capacity that ethical theory requires for moral agency." },
+        { "distractor": "willful", "closeness": 3, "reasoning": "Willful suggests deliberate intent, possibly with negative connotation, whereas autonomous is the neutral philosophical term for independent agency without external determination." },
+        { "distractor": "conscious", "closeness": 3, "reasoning": "Conscious describes awareness but does not imply self-governance or independence from external influence, which is what moral accountability requires." },
+        { "distractor": "deliberate", "closeness": 2, "reasoning": "Deliberate describes an intentional act but not the structural independence from outside control that defines an autonomous agent in ethical philosophy." },
+        { "distractor": "sentient", "closeness": 2, "reasoning": "Sentient refers to the capacity for sensation and experience, which is a different philosophical concept from self-governance or independence in decision-making." },
+        { "distractor": "impartial", "closeness": 2, "reasoning": "Impartial describes the absence of bias, not the absence of external control over one's decisions—the wrong dimension for this context." },
+        { "distractor": "isolated", "closeness": 2, "reasoning": "Isolated describes separation from others, not the principled self-determination that autonomous carries in moral philosophy." },
+        { "distractor": "coerced", "closeness": 1, "reasoning": "Coerced means acting under external compulsion—the direct opposite of an agent making decisions independently." },
+        { "distractor": "obedient", "closeness": 1, "reasoning": "Obedient means following the direction of another, which contradicts the premise that 'it alone reached' the decision." },
+        { "distractor": "passive", "closeness": 1, "reasoning": "Passive implies inaction or submission to external forces, the antithesis of the independent decision-making that autonomous denotes." }
       ]
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "word": "facile",
+  "sentenceSets": [
+    {
+      "sentence": "The proposal was facile—it sounded persuasive but dissolved on contact with the actual complexity of the problem.",
+      "answerChoices": [
+        { "distractor": "superficial", "closeness": 3, "reasoning": "A superficial proposal lacks depth, which is close to facile, but facile specifically implies an ease achieved by glossing over difficulty rather than general shallowness." },
+        { "distractor": "glib", "closeness": 3, "reasoning": "A glib proposal is smooth and effortless-sounding but insincere, overlapping with facile though glib emphasizes insincerity more than unearned ease." },
+        { "distractor": "simplistic", "closeness": 3, "reasoning": "A simplistic proposal oversimplifies, which is close to facile, but simplistic implies naive reduction while facile implies slick but shallow fluency." },
+        { "distractor": "specious", "closeness": 3, "reasoning": "A specious proposal appears valid but is actually flawed, which overlaps with facile's sense of sounding persuasive while lacking substance." },
+        { "distractor": "nuanced", "closeness": 2, "reasoning": "A nuanced proposal engages carefully with complexity, the opposite of the shallow ease that facile describes in this sentence." },
+        { "distractor": "ambitious", "closeness": 2, "reasoning": "An ambitious proposal aims high and takes on difficulty, which contrasts with the glib effortlessness of a facile one." },
+        { "distractor": "cogent", "closeness": 2, "reasoning": "A cogent proposal is logically compelling and well-reasoned, unlike the facile proposal that collapses under scrutiny." },
+        { "distractor": "tendentious", "closeness": 2, "reasoning": "A tendentious proposal is biased toward a particular viewpoint, which is different from the unearned ease facile conveys." },
+        { "distractor": "inchoate", "closeness": 1, "reasoning": "An inchoate proposal is undeveloped and formless, but it lacks the specific quality of seeming persuasive before dissolving—what facile implies." },
+        { "distractor": "arcane", "closeness": 1, "reasoning": "An arcane proposal is obscure and known only to specialists, the opposite of the slick accessibility that facile suggests." },
+        { "distractor": "prescient", "closeness": 1, "reasoning": "A prescient proposal shows foresight about future events, a quality entirely unrelated to facile's sense of shallow ease." }
+      ]
+    },
+    {
+      "sentence": "His facile mastery of the subject impressed audiences who did not know enough to notice the many gaps in his understanding.",
+      "answerChoices": [
+        { "distractor": "apparent", "closeness": 3, "reasoning": "An apparent mastery is visible on the surface but may not be real, closely paralleling facile's sense of easy command that conceals deficiency." },
+        { "distractor": "spurious", "closeness": 3, "reasoning": "A spurious mastery is false and counterfeit, which is related to facile but implies deliberate deception rather than shallow fluency." },
+        { "distractor": "effortless", "closeness": 3, "reasoning": "An effortless mastery makes a skill look easy, which is the surface sense of facile, though effortless lacks the implication of shallowness." },
+        { "distractor": "virtuosic", "closeness": 3, "reasoning": "A virtuosic mastery implies genuine excellence, whereas facile mastery is impressive-seeming but lacks real depth." },
+        { "distractor": "comprehensive", "closeness": 2, "reasoning": "A comprehensive mastery covers all aspects thoroughly, the opposite of the incomplete, shallow competence that facile implies." },
+        { "distractor": "labored", "closeness": 2, "reasoning": "A labored mastery shows great effort and strain, which is the opposite of the easy, smooth quality facile describes." },
+        { "distractor": "pedantic", "closeness": 2, "reasoning": "A pedantic mastery shows obsessive focus on small details, a different failure mode from the breezy superficiality facile implies." },
+        { "distractor": "tenuous", "closeness": 2, "reasoning": "A tenuous mastery is weak and uncertain, overlapping slightly with facile but emphasizing fragility rather than slick ease." },
+        { "distractor": "meticulous", "closeness": 1, "reasoning": "A meticulous mastery shows painstaking care and thoroughness, the opposite of the shallow fluency facile describes." },
+        { "distractor": "latent", "closeness": 1, "reasoning": "A latent mastery is hidden and undeveloped, unlike facile mastery which is visible and impressively smooth on the surface." },
+        { "distractor": "esoteric", "closeness": 1, "reasoning": "An esoteric mastery is specialized and obscure, unrelated to the accessible but shallow fluency that facile implies." }
+      ]
+    },
+    {
+      "sentence": "The reviewer criticized the novel's facile resolution, arguing that the plot's tensions deserved a harder-won ending.",
+      "answerChoices": [
+        { "distractor": "contrived", "closeness": 3, "reasoning": "A contrived resolution is artificially engineered and forced, which overlaps with facile's sense of unearned ease, though contrived emphasizes artificiality more." },
+        { "distractor": "convenient", "closeness": 3, "reasoning": "A convenient resolution neatly solves problems without earning the solution, closely related to facile though lacking the implication of shallow fluency." },
+        { "distractor": "tidy", "closeness": 3, "reasoning": "A tidy resolution wraps things up neatly without mess, which is similar to facile's criticism of unearned ease in this narrative context." },
+        { "distractor": "banal", "closeness": 3, "reasoning": "A banal resolution is unoriginal and dull, which is related to facile but focuses on lack of originality rather than unearned ease." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "An ambiguous resolution leaves meaning uncertain, the opposite of the neatly resolved—even if too easily so—quality that facile implies." },
+        { "distractor": "harrowing", "closeness": 2, "reasoning": "A harrowing resolution is emotionally intense and difficult, unlike the breezy, easy closure that a facile ending provides." },
+        { "distractor": "digressive", "closeness": 2, "reasoning": "A digressive resolution wanders off topic before concluding, unrelated to facile's quality of being too easily or smoothly achieved." },
+        { "distractor": "overwrought", "closeness": 2, "reasoning": "An overwrought resolution is excessively dramatic, the opposite of the effortlessly smooth but shallow quality facile implies." },
+        { "distractor": "elliptical", "closeness": 1, "reasoning": "An elliptical resolution is indirect and omits key details, a different flaw from the too-easy neatness that facile describes." },
+        { "distractor": "subversive", "closeness": 1, "reasoning": "A subversive resolution challenges expectations, whereas a facile resolution comfortably confirms them without earning its comfort." },
+        { "distractor": "discordant", "closeness": 1, "reasoning": "A discordant resolution clashes with what came before it, a different failure from the unearned ease that facile describes." }
+      ]
+    }
+  ]
+}

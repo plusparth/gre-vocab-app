@@ -1,0 +1,53 @@
+{
+  "word": "epicure",
+  "sentenceSets": [
+    {
+      "sentence": "As an epicure of rare spirits, he could identify the distillery and vintage from the first sip.",
+      "answerChoices": [
+        { "distractor": "connoisseur", "closeness": 3, "reasoning": "Connoisseur means an expert judge with refined taste, nearly synonymous with epicure in this tasting context, but it is broader in application and lacks the epicure's specific association with the pleasures of eating and drinking." },
+        { "distractor": "aficionado", "closeness": 3, "reasoning": "Aficionado means an enthusiastic devotee with expertise, close to epicure for someone knowledgeable about rare spirits, but it emphasizes enthusiasm and deep interest rather than the discriminating sensory taste epicure implies." },
+        { "distractor": "sommelier", "closeness": 3, "reasoning": "Sommelier is a trained wine professional with expert tasting abilities, very close in the ability to identify spirits from a sip, but it is a professional title and typically refers to wine specifically, not the broader sensory refinement epicure implies." },
+        { "distractor": "enthusiast", "closeness": 3, "reasoning": "Enthusiast means someone with eager interest, plausible for a person who knows rare spirits well, but it lacks the discriminating, refined sensory judgment that makes an epicure—enthusiasm does not require discernment." },
+        { "distractor": "collector", "closeness": 2, "reasoning": "Collector means someone who gathers and accumulates items, relevant for rare spirits, but it emphasizes acquisition rather than the refined sensory taste and discernment that define an epicure." },
+        { "distractor": "expert", "closeness": 2, "reasoning": "Expert means someone with high skill or knowledge, fitting for someone who can identify distilleries and vintages, but it is too general and lacks the specifically sensory, taste-oriented refinement epicure denotes." },
+        { "distractor": "critic", "closeness": 2, "reasoning": "Critic means someone who evaluates and judges, plausible for someone assessing spirits, but it emphasizes the evaluative and expressive role rather than the refined personal sensory pleasure that defines an epicure." },
+        { "distractor": "devotee", "closeness": 2, "reasoning": "Devotee means an ardent follower or enthusiast, which could describe someone passionate about rare spirits, but it emphasizes dedication and loyalty rather than the cultivated sensory discernment epicure conveys." },
+        { "distractor": "hedonist", "closeness": 1, "reasoning": "Hedonist means someone who pursues pleasure as the highest good, related to the pleasure-seeking aspect of epicure but far broader—a hedonist is not necessarily discerning or focused on fine food and drink." },
+        { "distractor": "aesthete", "closeness": 1, "reasoning": "Aesthete means someone with a refined appreciation of beauty and art, related to epicure's sensory refinement but typically applied to visual and artistic pleasures rather than culinary or drink-related ones." },
+        { "distractor": "historian", "closeness": 1, "reasoning": "Historian means someone who studies and records the past, which might explain knowing distillery histories, but this describes scholarly knowledge rather than the sensory discernment epicure specifically conveys." }
+      ]
+    },
+    {
+      "sentence": "The restaurant hoped to attract epicures willing to spend lavishly on ingredients that demanded attention and knowledge to appreciate.",
+      "answerChoices": [
+        { "distractor": "gourmands", "closeness": 3, "reasoning": "Gourmands are people who enjoy eating in large quantities, related to epicure in the food context, but they seek quantity and indulgence rather than the discriminating, refined taste that defines epicures." },
+        { "distractor": "gourmets", "closeness": 3, "reasoning": "Gourmets are people with refined appreciation for fine food, very close to epicures in this restaurant context, but the terms are often used interchangeably while epicure more specifically implies cultivated sensory discernment." },
+        { "distractor": "connoisseurs", "closeness": 3, "reasoning": "Connoisseurs are expert judges with discerning taste, nearly synonymous with epicures for food requiring knowledge to appreciate, but the term is broader and not specifically focused on sensory pleasure." },
+        { "distractor": "diners", "closeness": 3, "reasoning": "Diners simply means people eating at a restaurant, which includes epicures, but the word carries none of the discriminating taste or willingness to pay for fine ingredients that epicures specifically imply." },
+        { "distractor": "critics", "closeness": 2, "reasoning": "Critics means professional evaluators, which could describe people attending to ingredients requiring knowledge, but critics have an evaluative professional function rather than the personal pleasure-oriented discernment of epicures." },
+        { "distractor": "collectors", "closeness": 2, "reasoning": "Collectors seek to acquire and accumulate, which might describe someone who visits restaurants with rare ingredients, but the word misses the sensory pleasure and discerning taste that define epicures." },
+        { "distractor": "investors", "closeness": 2, "reasoning": "Investors means people committing resources for return, not a sensory identity—someone might invest in a restaurant but this is a financial relationship, not the culinary discernment epicures bring." },
+        { "distractor": "patrons", "closeness": 2, "reasoning": "Patrons means regular customers or supporters, which could describe the restaurant's clientele, but it says nothing about refined taste or the discriminating sensory appreciation epicures possess." },
+        { "distractor": "tourists", "closeness": 1, "reasoning": "Tourists means travelers visiting an area, some of whom might dine at the restaurant, but the word implies geographic novelty-seeking rather than the cultivated culinary discernment epicures represent." },
+        { "distractor": "celebrities", "closeness": 1, "reasoning": "Celebrities means famous persons, some of whom might spend lavishly at restaurants, but the word identifies social status rather than the discriminating palate and culinary knowledge that define epicures." },
+        { "distractor": "socialites", "closeness": 1, "reasoning": "Socialites are people prominent in fashionable society, who might frequent expensive restaurants, but the word implies social display rather than the genuine culinary discernment and taste epicures are characterized by." }
+      ]
+    },
+    {
+      "sentence": "Though she had grown up eating simply, she became an epicure over decades of travel and deliberate culinary education.",
+      "answerChoices": [
+        { "distractor": "connoisseur", "closeness": 3, "reasoning": "Connoisseur fits someone who developed refined taste through travel and education, very close to epicure, but it applies broadly to art, wine, and other fields—epicure more specifically points to food and sensory pleasures." },
+        { "distractor": "gourmet", "closeness": 3, "reasoning": "Gourmet means one with refined food appreciation, close to epicure in the culinary education context, but it typically describes the quality of food rather than the identity of the person who cultivates discriminating taste." },
+        { "distractor": "expert", "closeness": 3, "reasoning": "Expert means someone with high knowledge, fitting for someone educated in culinary matters, but it emphasizes intellectual knowledge rather than the refined sensory pleasure-seeking discernment that defines an epicure." },
+        { "distractor": "traveler", "closeness": 3, "reasoning": "Traveler accurately describes part of how she developed her tastes, but the word identifies the mechanism rather than the identity she became—an epicure is what she became through travel, not a synonym for it." },
+        { "distractor": "sophisticate", "closeness": 2, "reasoning": "Sophisticate means a worldly and refined person, close in the implication of cultivated tastes through exposure, but it is broader than epicure and doesn't specifically focus on food and sensory pleasure." },
+        { "distractor": "aesthete", "closeness": 2, "reasoning": "Aesthete means someone with refined artistic sensitivity, related to the sensory cultivation that makes an epicure, but it is typically applied to visual art and broader beauty rather than culinary pleasures specifically." },
+        { "distractor": "critic", "closeness": 2, "reasoning": "Critic means a professional evaluator, plausible for someone with culinary education, but it implies a role of public judgment rather than the personal cultivation of refined sensory pleasure that defines an epicure." },
+        { "distractor": "scholar", "closeness": 2, "reasoning": "Scholar means someone with deep academic learning, fitting for culinary education, but it emphasizes intellectual study rather than the sensory, pleasure-oriented discernment that characterizes an epicure." },
+        { "distractor": "chef", "closeness": 1, "reasoning": "Chef means a professional cook, which might be associated with culinary education, but it describes a professional role of food preparation rather than the personal identity of a discriminating taster that epicure conveys." },
+        { "distractor": "hedonist", "closeness": 1, "reasoning": "Hedonist means a pursuer of pleasure broadly, related to epicure's enjoyment orientation but far less discriminating—a hedonist need not have cultivated taste, only a desire for pleasure." },
+        { "distractor": "nomad", "closeness": 1, "reasoning": "Nomad means a person with no fixed home who travels constantly, which describes a mode of living that might lead to culinary variety but says nothing about the refined discriminating taste that defines an epicure." }
+      ]
+    }
+  ]
+}

@@ -4,181 +4,49 @@
     {
       "sentence": "She proved adept at navigating the complex bureaucratic procedures that defeated most applicants.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "skilled", "closeness": 3, "reasoning": "Skilled is a near synonym but lacks the nuance of fluent ease under complexity that adept carries; adept implies mastery achieved through experience, not just training." },
+        { "distractor": "proficient", "closeness": 3, "reasoning": "Proficient suggests meeting a competency standard but not the high degree of nimble mastery that adept implies in a challenging situation." },
+        { "distractor": "expert", "closeness": 3, "reasoning": "Expert implies deep specialized knowledge, but adept focuses more on practical dexterity and situational capability, not domain authority." },
+        { "distractor": "accomplished", "closeness": 3, "reasoning": "Accomplished emphasizes a track record of achievement rather than the agile, in-the-moment competence that adept conveys." },
+        { "distractor": "competent", "closeness": 2, "reasoning": "Competent denotes adequate ability, falling short of the impressive fluency and dexterity that adept connotes." },
+        { "distractor": "experienced", "closeness": 2, "reasoning": "Experienced describes time spent doing something, not the quality of capability or ease that adept highlights." },
+        { "distractor": "capable", "closeness": 2, "reasoning": "Capable is a general term for having sufficient ability and does not convey the high-level practical mastery embedded in adept." },
+        { "distractor": "resourceful", "closeness": 2, "reasoning": "Resourceful highlights the ability to find creative solutions under constraint, a narrower quality than the broad, polished mastery of adept." },
+        { "distractor": "novice", "closeness": 1, "reasoning": "Novice means beginner, which is the opposite of the seasoned proficiency adept implies." },
+        { "distractor": "inept", "closeness": 1, "reasoning": "Inept is a direct antonym, denoting clumsy incompetence rather than the skillful ease of adept." },
+        { "distractor": "clumsy", "closeness": 1, "reasoning": "Clumsy describes physical or social awkwardness, the opposite of the smooth dexterity that adept conveys." }
       ]
     },
     {
-      "sentence": "Her adept response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "An adept chess player, he could visualize five moves ahead even under tournament time pressure.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "masterful", "closeness": 3, "reasoning": "Masterful implies commanding authority or dominance, while adept emphasizes practiced skill and dexterity without implying one commands or overpowers." },
+        { "distractor": "gifted", "closeness": 3, "reasoning": "Gifted attributes the ability to innate talent rather than to the learned, practiced proficiency that adept denotes." },
+        { "distractor": "nimble", "closeness": 3, "reasoning": "Nimble focuses on quickness and agility of movement or thought, which is only part of the comprehensive mastery that adept conveys." },
+        { "distractor": "seasoned", "closeness": 3, "reasoning": "Seasoned emphasizes experience and familiarity over time but does not directly speak to high skill level the way adept does." },
+        { "distractor": "shrewd", "closeness": 2, "reasoning": "Shrewd highlights clever judgment in self-interested matters and does not capture the technical skill dimension of adept." },
+        { "distractor": "astute", "closeness": 2, "reasoning": "Astute describes keen perception and good judgment but not hands-on procedural mastery, which is central to adept." },
+        { "distractor": "intelligent", "closeness": 2, "reasoning": "Intelligent refers to cognitive capacity broadly, whereas adept specifically describes applied ability in a domain or task." },
+        { "distractor": "quick", "closeness": 2, "reasoning": "Quick describes speed but says nothing about the depth of skill or mastery that adept implies." },
+        { "distractor": "amateurish", "closeness": 1, "reasoning": "Amateurish implies lack of professional polish, the opposite of the high competence that adept describes." },
+        { "distractor": "inexperienced", "closeness": 1, "reasoning": "Inexperienced means lacking the exposure and practice that adept implies one has thoroughly gained." },
+        { "distractor": "bumbling", "closeness": 1, "reasoning": "Bumbling suggests awkward incompetence, which is directly contrary to the smooth mastery adept conveys." }
       ]
     },
     {
-      "sentence": "The curator's adept arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "The surgeon's hands were adept, moving through the delicate procedure with a precision her residents could only study.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "dexterous", "closeness": 3, "reasoning": "Dexterous specifically emphasizes physical manual skill, which overlaps here but misses adept's broader sense of comprehensive mastery and practiced expertise." },
+        { "distractor": "practiced", "closeness": 3, "reasoning": "Practiced highlights repetition and habituation but does not itself connote the high level of fluency and excellence that adept implies." },
+        { "distractor": "precise", "closeness": 3, "reasoning": "Precise describes exactness as a quality of the action, not the skill level of the person performing it, which is what adept captures." },
+        { "distractor": "virtuosic", "closeness": 3, "reasoning": "Virtuosic implies extraordinary, dazzling talent often beyond ordinary mastery; adept describes a high but achievable and trained proficiency." },
+        { "distractor": "careful", "closeness": 2, "reasoning": "Careful describes attention to detail and caution, not the underlying competence and mastery that adept emphasizes." },
+        { "distractor": "meticulous", "closeness": 2, "reasoning": "Meticulous emphasizes thoroughness and attention to small details rather than the fluent, expert skill that adept conveys." },
+        { "distractor": "efficient", "closeness": 2, "reasoning": "Efficient describes achieving results with minimal waste but does not capture the technical mastery and dexterity inherent in adept." },
+        { "distractor": "steady", "closeness": 2, "reasoning": "Steady describes physical stability and composure but not the comprehensive mastery of technique that adept implies." },
+        { "distractor": "tentative", "closeness": 1, "reasoning": "Tentative implies hesitancy and uncertainty, the opposite of the confident, polished skill that adept conveys." },
+        { "distractor": "untrained", "closeness": 1, "reasoning": "Untrained means lacking instruction, directly contradicting adept's implication of thoroughly learned, high-level skill." },
+        { "distractor": "fumbling", "closeness": 1, "reasoning": "Fumbling describes clumsy, inept handling, which is the antonym of the dexterous mastery adept expresses." }
       ]
     }
   ]

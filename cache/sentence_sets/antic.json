@@ -4,181 +4,49 @@
     {
       "sentence": "The crowd's laughter at the performer's antics grew with each increasingly outrageous stunt.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "capers", "closeness": 3, "reasoning": "Capers are playful, escapade-like acts and nearly synonymous with antics, but they more often describe mischievous adventures than the show-stopping, audience-directed stunts a performer deploys." },
+        { "distractor": "shenanigans", "closeness": 3, "reasoning": "Shenanigans implies tricks and mischief but often carries a connotation of underhandedness or deceit, which is absent from the performer's purely playful context." },
+        { "distractor": "hijinks", "closeness": 3, "reasoning": "Hijinks are boisterous high-spirited pranks that fit the comic atmosphere, but the word is more informal and does not carry the same theatrical performance dimension as antics." },
+        { "distractor": "escapades", "closeness": 3, "reasoning": "Escapades suggest adventurous undertakings rather than scripted performative stunts, shifting the frame from stage comedy to real-life adventure." },
+        { "distractor": "stunts", "closeness": 2, "reasoning": "Stunts specifically appears in the sentence and names what the antics consist of, so substituting it for antics would create redundancy and change the sentence's meaning." },
+        { "distractor": "acrobatics", "closeness": 2, "reasoning": "Acrobatics refers to physical feats of agility rather than the broader playful, comedy-focused behavior that antics denotes." },
+        { "distractor": "performances", "closeness": 2, "reasoning": "Performances is too broad and neutral, missing the comedic, unpredictable, and sometimes inappropriate dimension that antics implies." },
+        { "distractor": "maneuvers", "closeness": 2, "reasoning": "Maneuvers implies purposeful tactical movement rather than wild, attention-seeking playful acts, making it too serious a substitute." },
+        { "distractor": "sermons", "closeness": 1, "reasoning": "Sermons are formal moral addresses, entirely incompatible with the comedic, physical, crowd-pleasing context of antics." },
+        { "distractor": "lamentations", "closeness": 1, "reasoning": "Lamentations are expressions of grief, the tonal opposite of the crowd-delighting playfulness antics describes." },
+        { "distractor": "lectures", "closeness": 1, "reasoning": "Lectures are formal instructional presentations and would produce the opposite of growing crowd laughter." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected antic, which altered the course of the committee's deliberations.",
+      "sentence": "His office antics — leaving fake spiders in desk drawers and replacing colleagues' photos with absurd prints — eventually crossed a line.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "pranks", "closeness": 3, "reasoning": "Pranks are specific planned tricks and nearly match antics in meaning here, but the plural antics conveys a broader pattern of repeated playful misbehavior rather than isolated incidents." },
+        { "distractor": "shenanigans", "closeness": 3, "reasoning": "Shenanigans fits the workplace mischief context but often implies deceptive or underhanded behavior, whereas antics emphasizes the comedic, attention-seeking quality." },
+        { "distractor": "stunts", "closeness": 3, "reasoning": "Stunts suggests dramatic, often dangerous acts rather than the low-stakes workplace pranks the sentence describes." },
+        { "distractor": "games", "closeness": 3, "reasoning": "Games could loosely refer to the playful behavior but often implies competition or strategy, missing the impulsive, disruptive spirit of antics." },
+        { "distractor": "habits", "closeness": 2, "reasoning": "Habits implies routine behavior without the comedic, mischievous intent essential to antics, making it too bland a substitute." },
+        { "distractor": "routines", "closeness": 2, "reasoning": "Routines suggests predictable, repeated procedures rather than the unpredictable, playfully subversive acts the sentence describes." },
+        { "distractor": "projects", "closeness": 2, "reasoning": "Projects implies purposeful work tasks, which is the opposite of the disruptive time-wasting behavior antics describes." },
+        { "distractor": "complaints", "closeness": 2, "reasoning": "Complaints are verbal expressions of dissatisfaction, not physical, comedic acts of workplace mischief." },
+        { "distractor": "achievements", "closeness": 1, "reasoning": "Achievements imply successful, admirable accomplishments, the opposite of behavior that eventually crosses a line." },
+        { "distractor": "virtues", "closeness": 1, "reasoning": "Virtues are morally praiseworthy qualities, wholly incompatible with the disruptive office behavior the sentence criticizes." },
+        { "distractor": "lectures", "closeness": 1, "reasoning": "Lectures are formal instructional talks, entirely unrelated to fake spiders and absurd photo replacements." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the antic to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "The toddler's antics at the dinner table — throwing peas, mimicking the dog, and blowing bubbles in her milk — reduced the family to helpless laughter.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "capers", "closeness": 3, "reasoning": "Capers can describe playful acts but feel slightly more adventurous and deliberate than the spontaneous, chaotic behavior of a toddler; antics better captures the unscripted physical comedy." },
+        { "distractor": "behavior", "closeness": 3, "reasoning": "Behavior is grammatically substitutable but far too neutral and clinical, losing the playful, exaggerated quality central to antics." },
+        { "distractor": "hijinks", "closeness": 3, "reasoning": "Hijinks fits the spirit of boisterous fun but usually implies a group of participants rather than a single toddler's solo performance." },
+        { "distractor": "tricks", "closeness": 3, "reasoning": "Tricks suggests deliberately learned skills rather than the spontaneous, unplanned silliness of a toddler entertaining a dinner table." },
+        { "distractor": "tantrums", "closeness": 2, "reasoning": "Tantrums imply distress and anger, not the playful, comedy-inducing behavior that reduced the family to laughter." },
+        { "distractor": "outbursts", "closeness": 2, "reasoning": "Outbursts suggests sudden emotional explosions rather than sustained, varied comedic behavior across multiple activities." },
+        { "distractor": "gestures", "closeness": 2, "reasoning": "Gestures are single communicative body movements, too narrow to encompass the range of throwing, mimicking, and blowing described." },
+        { "distractor": "demands", "closeness": 2, "reasoning": "Demands implies the toddler wants something rather than that she is performing for comedic effect." },
+        { "distractor": "grievances", "closeness": 1, "reasoning": "Grievances are formal complaints about injustice, entirely mismatched with a toddler's playful dinner-table comedy." },
+        { "distractor": "soliloquies", "closeness": 1, "reasoning": "Soliloquies are lengthy dramatic speeches — a form of verbal performance completely unlike the physical silliness antics describes." },
+        { "distractor": "meditations", "closeness": 1, "reasoning": "Meditations are quiet, contemplative reflections, the tonal opposite of the noisy, physical antics of a toddler." }
       ]
     }
   ]

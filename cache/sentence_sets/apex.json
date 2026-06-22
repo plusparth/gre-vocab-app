@@ -4,181 +4,49 @@
     {
       "sentence": "At the apex of her career, she was managing teams across three continents simultaneously.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "pinnacle", "closeness": 3, "reasoning": "Managing teams across three continents simultaneously marks the highest point of professional achievement, which 'pinnacle' captures directly." },
+        { "distractor": "peak", "closeness": 3, "reasoning": "The scope of responsibility described—three continents—signals the high point of her career, making 'peak' a natural substitute." },
+        { "distractor": "zenith", "closeness": 3, "reasoning": "Managing at global scale across three continents represents the zenith of professional reach and authority in her career." },
+        { "distractor": "summit", "closeness": 3, "reasoning": "The maximum extent of her career responsibilities fits 'summit' as a metaphor for the topmost point of achievement." },
+        { "distractor": "height", "closeness": 2, "reasoning": "The broad managerial scope described represents the height of her influence, though 'height' is less precise in conveying the single highest moment." },
+        { "distractor": "prime", "closeness": 2, "reasoning": "Managing teams across continents suggests she was at the prime of her powers, though 'prime' emphasizes vitality as much as position." },
+        { "distractor": "culmination", "closeness": 2, "reasoning": "Global team management as the capstone of her career fits 'culmination,' though it implies the end of a process rather than the top of a trajectory." },
+        { "distractor": "acme", "closeness": 2, "reasoning": "The highest point of professional achievement fits 'acme' well, though it is a less common synonym that changes the register slightly." },
+        { "distractor": "threshold", "closeness": 1, "reasoning": "A threshold marks the beginning of something, not the topmost point; the sentence describes her maximum achievement, not a transition." },
+        { "distractor": "outset", "closeness": 1, "reasoning": "Managing three continents simultaneously is presented as the pinnacle, not the beginning of her career, making 'outset' contextually opposite." },
+        { "distractor": "nadir", "closeness": 1, "reasoning": "'Nadir' means the lowest point, directly contradicting the context of broad managerial achievement across three continents." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected apex, which altered the course of the committee's deliberations.",
+      "sentence": "The triangle's apex pointed directly at the focal lens, allowing the beam to concentrate with precision.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "tip", "closeness": 3, "reasoning": "The geometric context of a triangle with a point aimed at a lens makes 'tip' a direct structural substitute for the pointed top of the shape." },
+        { "distractor": "vertex", "closeness": 3, "reasoning": "In geometry, 'vertex' names the exact same feature—the corner point of a polygon—making it the most technically precise substitute here." },
+        { "distractor": "point", "closeness": 3, "reasoning": "The physical object directing a beam toward a lens is described by its sharpest extremity, which 'point' captures naturally." },
+        { "distractor": "peak", "closeness": 3, "reasoning": "The topmost or sharpest part of the triangle directing the beam fits 'peak' as a spatial descriptor in this optics context." },
+        { "distractor": "edge", "closeness": 2, "reasoning": "The concentrating part of the triangle could be described as its edge, though this implies a line rather than a single point." },
+        { "distractor": "crest", "closeness": 2, "reasoning": "The highest or most forward part of the triangle fitting into the optical path aligns with 'crest' as a spatial top-point descriptor." },
+        { "distractor": "prong", "closeness": 2, "reasoning": "A pointed extension directing something toward a target fits 'prong' as a physical-shape descriptor in this mechanical context." },
+        { "distractor": "node", "closeness": 2, "reasoning": "In physics and geometry, a 'node' can refer to a key intersection point, fitting the role the triangle's point plays in focusing the beam." },
+        { "distractor": "base", "closeness": 1, "reasoning": "The base is the opposite end of the triangle from the pointed top; directing it at the lens describes the apex, not the base." },
+        { "distractor": "perimeter", "closeness": 1, "reasoning": "The perimeter is the full boundary of the triangle, not a single directional point; it cannot focus a beam the way the apex does." },
+        { "distractor": "center", "closeness": 1, "reasoning": "The interior center of the triangle is not what points at the lens; the sentence specifically describes a directional tip aiming at a target." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the apex to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "The falcon, as the apex predator of the canyon, had no natural enemies threatening its position.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "top", "closeness": 3, "reasoning": "A predator with no natural enemies sits at the top of the food chain, making 'top' a natural and direct substitute in this ecological context." },
+        { "distractor": "dominant", "closeness": 3, "reasoning": "Having no natural enemies threatening its position describes a creature that is dominant in its ecosystem, fitting the modifier role here." },
+        { "distractor": "supreme", "closeness": 3, "reasoning": "A predator unchallenged by any other in the canyon holds a supreme position in the local hierarchy, matching the sentence's claim." },
+        { "distractor": "paramount", "closeness": 3, "reasoning": "The falcon's uncontested position above all other canyon animals fits 'paramount' as a descriptor of highest rank or importance." },
+        { "distractor": "ultimate", "closeness": 2, "reasoning": "Being at the end of the food chain with no threats above describes the 'ultimate' predator in a general sense, though less precise than 'apex.'" },
+        { "distractor": "primary", "closeness": 2, "reasoning": "The falcon's unchallenged status in the canyon could be described as the primary predator, though this implies others follow rather than that it is singular." },
+        { "distractor": "formidable", "closeness": 2, "reasoning": "A predator with no natural enemies is by nature formidable, though the word describes capability rather than hierarchical position." },
+        { "distractor": "solitary", "closeness": 2, "reasoning": "Having no natural enemies in the canyon could imply the falcon operates alone in its ecological niche, though 'solitary' emphasizes isolation more than dominance." },
+        { "distractor": "vulnerable", "closeness": 1, "reasoning": "The sentence explicitly states the falcon has no threats to its position, making 'vulnerable' a direct contextual contradiction." },
+        { "distractor": "migratory", "closeness": 1, "reasoning": "Whether the falcon migrates is unrelated to its predatory status in the canyon; 'migratory' doesn't fit the ecological hierarchy context." },
+        { "distractor": "nocturnal", "closeness": 1, "reasoning": "The sentence addresses the falcon's ecological rank, not its active hours, so 'nocturnal' is irrelevant to the predator context described." }
       ]
     }
   ]

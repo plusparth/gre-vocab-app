@@ -4,181 +4,49 @@
     {
       "sentence": "The announcement triggered bedlam on the trading floor, with prices swinging wildly in both directions.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "chaos", "closeness": 3, "reasoning": "Chaos describes disorder abstractly, whereas bedlam specifically evokes a scene of noisy, frenzied human uproar with vivid sensory intensity." },
+        { "distractor": "pandemonium", "closeness": 3, "reasoning": "Pandemonium is a near synonym but originally refers to a gathering of demons; bedlam has its own historical resonance from Bethlem Royal Hospital and is the specific GRE target." },
+        { "distractor": "frenzy", "closeness": 3, "reasoning": "Frenzy describes a state of excited agitation but is more abstract and internal, while bedlam focuses on the noisy, chaotic scene being observed." },
+        { "distractor": "turmoil", "closeness": 3, "reasoning": "Turmoil can describe political or emotional unrest and does not capture bedlam's emphasis on loud, visible, frenzied confusion in a specific place." },
+        { "distractor": "volatility", "closeness": 2, "reasoning": "Volatility is a financial term for rapid price changes and lacks the human dimension of noisy uproar that bedlam conveys on the trading floor." },
+        { "distractor": "disruption", "closeness": 2, "reasoning": "Disruption implies interference with a process but is far more neutral and bureaucratic than the vivid, raucous commotion that bedlam describes." },
+        { "distractor": "controversy", "closeness": 2, "reasoning": "Controversy implies disagreement and debate rather than the physical, noisy chaos and confusion that bedlam evokes." },
+        { "distractor": "excitement", "closeness": 2, "reasoning": "Excitement is positive in connotation, while bedlam specifically evokes uncontrolled, noisy disorder that is neither pleasant nor organized." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence is the direct opposite of bedlam, which is defined by noise, uproar, and loud confusion." },
+        { "distractor": "calm", "closeness": 1, "reasoning": "Calm implies tranquility and order, the direct antonym of bedlam's frenzied, noisy disorder." },
+        { "distractor": "discipline", "closeness": 1, "reasoning": "Discipline implies orderly, controlled behavior, the antithesis of the uproar and confusion that bedlam describes." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected bedlam, which altered the course of the committee's deliberations.",
+      "sentence": "When the opposing team scored in the final second, the stadium erupted into absolute bedlam, drowning out the referee's whistle.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "uproar", "closeness": 3, "reasoning": "Uproar is nearly equivalent but lacks bedlam's specific evocation of a vivid, visually chaotic scene; bedlam adds a sense of wild disorder beyond mere noise." },
+        { "distractor": "frenzy", "closeness": 3, "reasoning": "Frenzy focuses on the internal excitement of individuals rather than the collective, observable scene of noisy disorder that bedlam describes." },
+        { "distractor": "celebration", "closeness": 3, "reasoning": "Celebration implies joyful, organized revelry, whereas bedlam emphasizes the uncontrolled, disordered nature of the commotion." },
+        { "distractor": "commotion", "closeness": 3, "reasoning": "Commotion describes disturbance or noise but is milder and lacks the intensity of utter disorder and confusion that bedlam conveys." },
+        { "distractor": "excitement", "closeness": 2, "reasoning": "Excitement is a feeling rather than a scene; bedlam describes the observable spectacle of mass, noisy confusion in a place." },
+        { "distractor": "tension", "closeness": 2, "reasoning": "Tension implies anxious anticipation, opposite in emotional quality to the explosive, uncontrolled confusion that bedlam describes after the goal." },
+        { "distractor": "applause", "closeness": 2, "reasoning": "Applause is an organized, recognizable form of approval, not the wild disorder and confusion that bedlam implies." },
+        { "distractor": "mayhem", "closeness": 2, "reasoning": "Mayhem implies violent disorder or injury, which is stronger in implication of danger than the noisy confusion bedlam emphasizes." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence is the antonym of bedlam; the stadium falling silent would be the opposite of erupting into noisy, chaotic disorder." },
+        { "distractor": "lethargy", "closeness": 1, "reasoning": "Lethargy implies sluggish inactivity, the direct opposite of the frenzied, noisy commotion that bedlam describes." },
+        { "distractor": "orderliness", "closeness": 1, "reasoning": "Orderliness implies controlled, predictable behavior, entirely opposed to the chaos and confusion that bedlam evokes." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the bedlam to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "The kindergarten classroom devolved into bedlam the moment the substitute teacher announced there would be no structured activities.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "anarchy", "closeness": 3, "reasoning": "Anarchy implies the absence of governing authority and has political connotations, whereas bedlam focuses on the noisy, observable disorder of a specific scene." },
+        { "distractor": "chaos", "closeness": 3, "reasoning": "Chaos is more abstract and cosmic in scope, while bedlam evokes a vivid, noisy human scene of uproar in a particular place." },
+        { "distractor": "rowdiness", "closeness": 3, "reasoning": "Rowdiness implies rough boisterousness but is milder and does not fully capture bedlam's sense of complete chaotic disorder overwhelming a space." },
+        { "distractor": "noise", "closeness": 3, "reasoning": "Noise is only the auditory component of bedlam, which also involves visible confusion, disorder, and loss of control beyond mere sound." },
+        { "distractor": "mischief", "closeness": 2, "reasoning": "Mischief implies playful or minor wrongdoing rather than the full-scale chaotic uproar that bedlam describes." },
+        { "distractor": "restlessness", "closeness": 2, "reasoning": "Restlessness implies fidgety unease rather than the explosive, noisy disorder that bedlam conveys in a classroom context." },
+        { "distractor": "disorder", "closeness": 2, "reasoning": "Disorder is more clinical and abstract; bedlam conveys a vivid, sensory scene of noisy, frenzied chaos rather than mere lack of order." },
+        { "distractor": "playfulness", "closeness": 2, "reasoning": "Playfulness implies lighthearted, controlled fun, which is far too benign for the uncontrolled uproar that bedlam describes." },
+        { "distractor": "order", "closeness": 1, "reasoning": "Order is the antonym of bedlam; the sentence describes a loss of organization and structure, not the creation of it." },
+        { "distractor": "tranquility", "closeness": 1, "reasoning": "Tranquility implies peaceful calm, the direct opposite of the noisy uproar and confusion that bedlam describes." },
+        { "distractor": "concentration", "closeness": 1, "reasoning": "Concentration implies focused attention and mental quiet, completely opposed to the frenzied disorder that bedlam evokes." }
       ]
     }
   ]

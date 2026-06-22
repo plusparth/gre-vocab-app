@@ -4,181 +4,49 @@
     {
       "sentence": "The negotiator was adroit at turning confrontations into conversations, defusing tension with a well-timed joke.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "skilled", "closeness": 3, "reasoning": "Skilled captures the proficiency dimension but is more general; adroit specifically implies cleverness and resourcefulness in navigating difficult interpersonal situations like confrontations." },
+        { "distractor": "deft", "closeness": 3, "reasoning": "Deft is nearly synonymous and conveys nimble, precise handling, though it often implies physical or technical skill whereas adroit here emphasizes social and psychological cleverness." },
+        { "distractor": "clever", "closeness": 3, "reasoning": "Clever captures the mental agility involved in turning confrontations around, but adroit additionally implies practiced skill in doing so repeatedly and reliably." },
+        { "distractor": "tactful", "closeness": 3, "reasoning": "Tactful describes the careful handling of sensitive situations and fits the negotiator's behavior, but it implies delicacy and consideration whereas adroit emphasizes resourceful skill and cleverness." },
+        { "distractor": "practiced", "closeness": 2, "reasoning": "Practiced describes someone who has repeated something enough to do it well but does not carry the connotation of cleverness and resourcefulness that adroit implies in the negotiation context." },
+        { "distractor": "effective", "closeness": 2, "reasoning": "Effective describes successful outcomes but does not capture the manner—the cleverness and lightness of touch—that adroit highlights in the negotiator's use of humor." },
+        { "distractor": "calm", "closeness": 2, "reasoning": "Calm describes the negotiator's emotional state, which may contribute to their success, but does not convey the active skill and resourcefulness that adroit emphasizes." },
+        { "distractor": "experienced", "closeness": 2, "reasoning": "Experienced denotes a track record but not the nimble, in-the-moment resourcefulness of turning confrontations into conversations that adroit conveys." },
+        { "distractor": "clumsy", "closeness": 1, "reasoning": "Clumsy implies awkward and ineffectual handling of situations, which is the opposite of the skillful, resourceful quality that adroit describes." },
+        { "distractor": "blunt", "closeness": 1, "reasoning": "Blunt describes directness without tact, which would likely escalate rather than defuse confrontations, contradicting what adroit implies in this sentence." },
+        { "distractor": "inexperienced", "closeness": 1, "reasoning": "Inexperienced suggests a lack of the practiced skill that adroit implies, making it nearly an antonym in the context of professional negotiation." }
       ]
     },
     {
-      "sentence": "Her adroit response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "She was adroit with languages, picking up conversational Mandarin during a single summer abroad.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "gifted", "closeness": 3, "reasoning": "Gifted implies natural talent, which fits the rapid acquisition, but adroit emphasizes the skillful and clever approach to learning rather than innate ability alone." },
+        { "distractor": "fluent", "closeness": 3, "reasoning": "Fluent describes the result of language mastery but does not capture the manner of quick, skillful acquisition that adroit implies in a single summer." },
+        { "distractor": "proficient", "closeness": 3, "reasoning": "Proficient denotes a competent level of ability and is close, but adroit adds the nuance of agile cleverness in learning rather than mere adequate competence." },
+        { "distractor": "talented", "closeness": 3, "reasoning": "Talented emphasizes natural endowment, whereas adroit suggests a combination of skill and resourcefulness that may go beyond innate talent." },
+        { "distractor": "quick", "closeness": 2, "reasoning": "Quick captures the speed of acquisition mentioned in the sentence but does not convey the cleverness and skill that adroit implies about her approach to languages." },
+        { "distractor": "interested", "closeness": 2, "reasoning": "Interested describes her motivation but says nothing about the level of skill and resourcefulness that adroit highlights in the language-learning context." },
+        { "distractor": "dedicated", "closeness": 2, "reasoning": "Dedicated implies commitment and hard work but does not capture the nimble, clever ease of language acquisition that adroit conveys." },
+        { "distractor": "comfortable", "closeness": 2, "reasoning": "Comfortable suggests at-ease familiarity rather than the active skill and cleverness involved in rapid language mastery that adroit implies." },
+        { "distractor": "reluctant", "closeness": 1, "reasoning": "Reluctant implies resistance to or discomfort with learning languages, which contradicts the eager and skillful acquisition that adroit describes." },
+        { "distractor": "inept", "closeness": 1, "reasoning": "Inept means lacking skill, which is the direct opposite of adroit's meaning of skilled and clever." },
+        { "distractor": "illiterate", "closeness": 1, "reasoning": "Illiterate implies an inability to read and write, contradicting the high-level language competency that adroit describes in the sentence." }
       ]
     },
     {
-      "sentence": "The curator's adroit arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "The surgeon's adroit hands moved through the procedure with an economy of motion that impressed even the residents.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "dexterous", "closeness": 3, "reasoning": "Dexterous is a near-synonym in physical skill contexts and fits surgical hands well, but adroit adds the dimension of clever, resourceful execution rather than purely nimble motor control." },
+        { "distractor": "precise", "closeness": 3, "reasoning": "Precise describes the exactness of the movements but does not capture the economy and resourcefulness—the doing of things with clever efficiency—that adroit implies." },
+        { "distractor": "nimble", "closeness": 3, "reasoning": "Nimble conveys quick, light movement that fits surgical hands, but adroit additionally implies the clever judgment behind those movements that enables economy of motion." },
+        { "distractor": "steady", "closeness": 3, "reasoning": "Steady describes the absence of trembling, which is important for surgery, but adroit implies active skill and clever technique rather than the passive quality of not shaking." },
+        { "distractor": "careful", "closeness": 2, "reasoning": "Careful describes attentiveness and caution but does not capture the high-level skill and clever economy of motion that adroit conveys in the surgical setting." },
+        { "distractor": "practiced", "closeness": 2, "reasoning": "Practiced suggests repetition has produced competence but does not fully convey the clever efficiency and resourcefulness in movement that adroit implies." },
+        { "distractor": "controlled", "closeness": 2, "reasoning": "Controlled describes the regulation of movement but lacks the connotation of skillful cleverness and economy that adroit implies as the source of the residents' admiration." },
+        { "distractor": "efficient", "closeness": 2, "reasoning": "Efficient describes the economy of motion mentioned in the sentence but does not capture the skilled and clever quality of the surgeon's hands that adroit emphasizes." },
+        { "distractor": "trembling", "closeness": 1, "reasoning": "Trembling describes shaking hands, which would be disqualifying in surgery and is the opposite of the skillful, steady control that adroit implies." },
+        { "distractor": "hesitant", "closeness": 1, "reasoning": "Hesitant implies uncertainty and pausing, which contrasts with the confident, smooth economy of motion that adroit conveys in the surgical context." },
+        { "distractor": "clumsy", "closeness": 1, "reasoning": "Clumsy describes awkward, unskillful movement, which is directly antonymous to the skillful precision implied by adroit." }
       ]
     }
   ]

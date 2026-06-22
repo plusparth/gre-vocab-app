@@ -4,181 +4,49 @@
     {
       "sentence": "The apathetic electorate barely turned out to vote, leaving the outcome to a small, energized minority.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "disengaged", "closeness": 3, "reasoning": "An electorate that barely turns out to vote is clearly disengaged from civic participation, making this a close contextual substitute." },
+        { "distractor": "indifferent", "closeness": 3, "reasoning": "Barely turning out to vote shows the electorate simply didn't care about the outcome, which 'indifferent' captures directly." },
+        { "distractor": "uninvested", "closeness": 3, "reasoning": "Leaving the outcome to others by staying home shows the electorate had no stake in the result, matching 'uninvested.'" },
+        { "distractor": "disenchanted", "closeness": 3, "reasoning": "Low turnout leaving outcomes to an energized minority is a hallmark of a disenchanted voter base that has lost faith." },
+        { "distractor": "passive", "closeness": 2, "reasoning": "An electorate that doesn't act to vote is behaving passively, though this word doesn't carry the emotional detachment the context implies." },
+        { "distractor": "complacent", "closeness": 2, "reasoning": "Not bothering to vote because the electorate assumes nothing will change is a classic form of complacency, fitting the general mood." },
+        { "distractor": "disillusioned", "closeness": 2, "reasoning": "Staying away from polls in large numbers suggests the electorate may have lost faith in the process, which 'disillusioned' reflects." },
+        { "distractor": "uninformed", "closeness": 2, "reasoning": "Low turnout could stem from a lack of information, though the sentence emphasizes absence of interest rather than knowledge." },
+        { "distractor": "hostile", "closeness": 1, "reasoning": "The sentence describes an electorate that barely shows up, which is passive rather than actively opposed—'hostile' contradicts the tone." },
+        { "distractor": "zealous", "closeness": 1, "reasoning": "'Zealous' directly contradicts the low-turnout context; the small energized minority is the zealous group, not the electorate described." },
+        { "distractor": "anxious", "closeness": 1, "reasoning": "Barely turning out to vote suggests lack of concern, not anxiety, making this an emotional mismatch for the sentence context." }
       ]
     },
     {
-      "sentence": "Her apathetic response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "Even repeated warnings about rising sea levels left many coastal residents apathetic, unwilling to relocate or retrofit their homes.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "indifferent", "closeness": 3, "reasoning": "Repeated warnings failing to prompt action shows residents simply didn't care enough to respond, which 'indifferent' captures directly." },
+        { "distractor": "unmoved", "closeness": 3, "reasoning": "Warnings that leave residents unwilling to act despite the threat shows they were emotionally unmoved, a close contextual fit." },
+        { "distractor": "disengaged", "closeness": 3, "reasoning": "Refusing to relocate or retrofit even after repeated warnings shows residents were disengaged from the issue entirely." },
+        { "distractor": "complacent", "closeness": 3, "reasoning": "Not acting despite repeated sea-level warnings is a classic form of complacency—believing the danger won't materialize." },
+        { "distractor": "passive", "closeness": 2, "reasoning": "Unwillingness to take any action (relocate or retrofit) reflects passive behavior, though without the emotional detachment emphasis." },
+        { "distractor": "skeptical", "closeness": 2, "reasoning": "Ignoring repeated warnings could reflect disbelief in the threat, and 'skeptical' fits the unwillingness to act in response." },
+        { "distractor": "unperturbed", "closeness": 2, "reasoning": "Remaining calm and inactive despite warnings of rising sea levels fits 'unperturbed,' though it leans more toward composure than indifference." },
+        { "distractor": "resigned", "closeness": 2, "reasoning": "Not acting despite warnings could reflect resignation to an inevitable outcome, shifting the cause of inaction but preserving the behavior." },
+        { "distractor": "panicked", "closeness": 1, "reasoning": "Refusing to take any action despite warnings is the opposite of panicking; 'panicked' contradicts the passive inaction described." },
+        { "distractor": "proactive", "closeness": 1, "reasoning": "The sentence describes a refusal to relocate or retrofit, which is the antithesis of proactive behavior." },
+        { "distractor": "enraged", "closeness": 1, "reasoning": "The residents show no emotional reaction to the warnings at all, making 'enraged' a clear mismatch in emotional register." }
       ]
     },
     {
-      "sentence": "The curator's apathetic arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "The students grew apathetic toward the curriculum after months of rote memorization with no creative outlet.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "disengaged", "closeness": 3, "reasoning": "Months of rote memorization with no creative outlet would predictably cause students to disengage from the curriculum." },
+        { "distractor": "indifferent", "closeness": 3, "reasoning": "Students who have lost interest after monotonous drills show indifference to the material, matching the growing detachment described." },
+        { "distractor": "bored", "closeness": 3, "reasoning": "Rote memorization with no creative outlet is a classic cause of student boredom, making this a direct contextual substitute." },
+        { "distractor": "disenchanted", "closeness": 3, "reasoning": "Students who started presumably engaged but grew detached after months of drill-based learning fit 'disenchanted' closely." },
+        { "distractor": "unmotivated", "closeness": 2, "reasoning": "Months of rote drills with no creative work would drain students' motivation, and this word captures that lost drive." },
+        { "distractor": "resentful", "closeness": 2, "reasoning": "Students subjected to prolonged rote memorization might grow resentful of the curriculum, though the sentence implies detachment more than anger." },
+        { "distractor": "passive", "closeness": 2, "reasoning": "Growing detached from a curriculum can manifest as passive participation, fitting the behavioral outcome the sentence describes." },
+        { "distractor": "exhausted", "closeness": 2, "reasoning": "Months of repetitive memorization could leave students exhausted, which might explain their detachment, though it shifts the cause." },
+        { "distractor": "rebellious", "closeness": 1, "reasoning": "The sentence describes students becoming detached and uninterested, not actively resisting or defying the curriculum." },
+        { "distractor": "enthusiastic", "closeness": 1, "reasoning": "'Enthusiastic' directly contradicts the growing detachment caused by months of monotonous rote memorization." },
+        { "distractor": "collaborative", "closeness": 1, "reasoning": "The sentence focuses on emotional disconnection from the curriculum, not on how students work together, making this word irrelevant." }
       ]
     }
   ]

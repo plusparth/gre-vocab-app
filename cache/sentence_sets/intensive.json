@@ -1,0 +1,53 @@
+{
+  "word": "intensive",
+  "sentenceSets": [
+    {
+      "sentence": "The program required two weeks of intensive preparation before candidates were permitted to take the qualifying examination.",
+      "answerChoices": [
+        { "distractor": "rigorous", "closeness": 3, "reasoning": "Rigorous describes demanding standards or thoroughness; the sentence emphasizes concentration of effort in a compressed period, not just the strictness of the requirements." },
+        { "distractor": "comprehensive", "closeness": 3, "reasoning": "Comprehensive means covering everything; the sentence stresses the concentrated, high-effort nature of the preparation, not whether it covered every possible topic." },
+        { "distractor": "strenuous", "closeness": 3, "reasoning": "Strenuous emphasizes physical or demanding exertion; the sentence focuses on the concentrated, high-effort quality of the preparation program as a whole." },
+        { "distractor": "preliminary", "closeness": 3, "reasoning": "Preliminary means coming before something else; while the preparation precedes the exam, the key descriptor in context is the high concentration of effort, not just its sequential position." },
+        { "distractor": "prolonged", "closeness": 2, "reasoning": "Prolonged means extended in time; the sentence specifies only two weeks, which is brief, so the emphasis is on concentration of effort, not duration." },
+        { "distractor": "mandatory", "closeness": 2, "reasoning": "Mandatory means required; while the preparation is required, the sentence's modifier describes the nature and quality of that preparation, not its obligatory status." },
+        { "distractor": "specialized", "closeness": 2, "reasoning": "Specialized means focused on a narrow subject area; the sentence describes the degree of effort and concentration rather than the domain specificity of the preparation." },
+        { "distractor": "expedient", "closeness": 1, "reasoning": "Expedient means convenient or practical for a purpose; it says nothing about the degree of effort or concentration that characterizes the preparation in the sentence." },
+        { "distractor": "cursory", "closeness": 1, "reasoning": "Cursory means hasty and superficial, directly contradicting the high-effort, concentrated nature of preparation the sentence describes." },
+        { "distractor": "remedial", "closeness": 1, "reasoning": "Remedial suggests catching up on deficiencies; the sentence describes preparation for a qualifying exam without any indication that the candidates have gaps to fill." },
+        { "distractor": "nominal", "closeness": 1, "reasoning": "Nominal means existing in name only or minimal; the sentence describes two weeks of high-effort preparation, the opposite of a nominal or token effort." }
+      ]
+    },
+    {
+      "sentence": "Farmers who shifted to intensive cultivation of smaller plots achieved higher yields per acre than those who farmed large tracts with conventional methods.",
+      "answerChoices": [
+        { "distractor": "meticulous", "closeness": 3, "reasoning": "Meticulous means extremely careful and precise; the sentence contrasts intensive with conventional methods in terms of input concentration, not carefulness or attention to detail." },
+        { "distractor": "concentrated", "closeness": 3, "reasoning": "Concentrated captures much of the meaning but refers to a gathered focus; in the agricultural context the sentence invokes maximum resource and labor input per unit area, not merely a focused application." },
+        { "distractor": "systematic", "closeness": 3, "reasoning": "Systematic means organized according to a plan; the sentence focuses on the maximized resource input of the cultivation method, not its organizational structure." },
+        { "distractor": "efficient", "closeness": 2, "reasoning": "Efficient means achieving results with minimal waste; the sentence describes a method that maximizes inputs per unit rather than minimizing them, which is distinct from efficiency." },
+        { "distractor": "selective", "closeness": 2, "reasoning": "Selective means choosing carefully among options; the sentence describes how farmers apply maximum resources to cultivation, not how they choose which crops or methods to use." },
+        { "distractor": "experimental", "closeness": 2, "reasoning": "Experimental implies testing new approaches; the sentence presents intensive cultivation as an established method being adopted for yield advantages, not a trial." },
+        { "distractor": "sustainable", "closeness": 1, "reasoning": "Sustainable means able to continue without depleting resources; intensive cultivation often contrasts with sustainable practices, and the sentence focuses on yields, not environmental continuity." },
+        { "distractor": "rudimentary", "closeness": 1, "reasoning": "Rudimentary means basic or undeveloped; the sentence presents intensive cultivation as a more productive advanced approach compared to conventional methods." },
+        { "distractor": "intermittent", "closeness": 1, "reasoning": "Intermittent means stopping and starting at intervals; the sentence describes a continuously applied cultivation method, the opposite of intermittent." },
+        { "distractor": "passive", "closeness": 1, "reasoning": "Passive means not actively engaged; intensive cultivation by definition involves maximum active input, directly contradicting any sense of passivity." },
+        { "distractor": "sporadic", "closeness": 1, "reasoning": "Sporadic means occurring at irregular intervals; intensive cultivation requires sustained maximum effort, directly opposing sporadic application." }
+      ]
+    },
+    {
+      "sentence": "After the accident, she spent three months in intensive rehabilitation, working with therapists for six hours a day to regain full use of her hand.",
+      "answerChoices": [
+        { "distractor": "extensive", "closeness": 3, "reasoning": "Extensive means large in scope or range; the sentence specifies six hours daily over three months, emphasizing the concentrated density of effort, not breadth of coverage." },
+        { "distractor": "demanding", "closeness": 3, "reasoning": "Demanding means requiring great effort; the sentence's emphasis is on the concentrated, high-frequency nature of the therapy (six hours a day), not just its difficulty." },
+        { "distractor": "ongoing", "closeness": 3, "reasoning": "Ongoing means continuing; while the rehabilitation does continue for three months, the key characteristic is the concentration and high frequency of effort, not mere continuity." },
+        { "distractor": "supervised", "closeness": 2, "reasoning": "Supervised means overseen by someone; while therapists are mentioned, the modifier describes the degree of concentrated effort in rehabilitation, not whether it is monitored." },
+        { "distractor": "restorative", "closeness": 2, "reasoning": "Restorative describes something that restores; the sentence uses the modifier to describe the kind of rehabilitation, not its purpose, which is clearly restoration." },
+        { "distractor": "incremental", "closeness": 2, "reasoning": "Incremental means proceeding in small steps; the sentence emphasizes maximum effort (six hours daily), which is characteristic of intensive, not gradual step-by-step approaches." },
+        { "distractor": "voluntary", "closeness": 1, "reasoning": "Voluntary means done by choice; the sentence says nothing about whether the rehabilitation was chosen or required, and the modifier describes concentration of effort, not volition." },
+        { "distractor": "abbreviated", "closeness": 1, "reasoning": "Abbreviated means shortened; three months of six-hours-a-day therapy is the opposite of abbreviated in both duration and daily effort." },
+        { "distractor": "palliative", "closeness": 1, "reasoning": "Palliative means relieving symptoms without curing; the sentence describes rehabilitation aimed at fully regaining use of her hand, which is curative, not merely palliative." },
+        { "distractor": "preventive", "closeness": 1, "reasoning": "Preventive means designed to stop something before it happens; the sentence describes therapy after an accident to regain lost function, which is rehabilitative, not preventive." },
+        { "distractor": "cosmetic", "closeness": 1, "reasoning": "Cosmetic means relating to appearance; the sentence describes functional rehabilitation to regain use of a hand, which has nothing to do with appearance." }
+      ]
+    }
+  ]
+}

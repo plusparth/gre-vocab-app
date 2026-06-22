@@ -4,181 +4,49 @@
     {
       "sentence": "The avaricious landlord raised rents annually regardless of his tenants' circumstances.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "greedy", "closeness": 3, "reasoning": "Greedy is broadly synonymous but informal; avaricious specifically connotes an insatiable, systematic desire to accumulate wealth, lending the sentence a more formal condemnation." },
+        { "distractor": "mercenary", "closeness": 3, "reasoning": "Mercenary implies working only for financial reward but typically describes someone hired; avaricious more precisely describes the landlord's motivating character trait." },
+        { "distractor": "unscrupulous", "closeness": 3, "reasoning": "Unscrupulous describes willingness to act dishonestly but does not name the specific vice of excessive wealth-hunger that avaricious denotes." },
+        { "distractor": "calculating", "closeness": 3, "reasoning": "Calculating describes deliberate, scheming behavior but does not name financial desire as the motive—it focuses on method rather than character." },
+        { "distractor": "ruthless", "closeness": 2, "reasoning": "Ruthless describes a willingness to harm others without remorse but lacks the specific focus on wealth accumulation that avaricious requires." },
+        { "distractor": "indifferent", "closeness": 2, "reasoning": "Indifferent implies not caring about tenants' circumstances but doesn't name active greed as the driver of rent increases." },
+        { "distractor": "ambitious", "closeness": 2, "reasoning": "Ambitious implies striving for goals generally; avaricious is more specific and more condemnatory, pointing to wealth-hunger specifically." },
+        { "distractor": "affluent", "closeness": 2, "reasoning": "Affluent means wealthy, describing a condition rather than a character flaw—it would describe the landlord's state, not his motivation." },
+        { "distractor": "generous", "closeness": 1, "reasoning": "Generous means freely giving to others—the opposite of raising rents regardless of tenants' hardship." },
+        { "distractor": "benevolent", "closeness": 1, "reasoning": "Benevolent means well-meaning and kind, a quality directly contradicted by the landlord's callous behavior toward struggling tenants." },
+        { "distractor": "charitable", "closeness": 1, "reasoning": "Charitable implies concern for others' welfare and willingness to give; the landlord's annual rent increases reflect the opposite disposition." }
       ]
     },
     {
-      "sentence": "Her avaricious response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The avaricious hedge fund manager ignored mounting evidence of fraud as long as the returns kept flowing.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "rapacious", "closeness": 3, "reasoning": "Rapacious is nearly synonymous but emphasizes predatory seizing, while avaricious emphasizes the internal character of insatiable desire—both fit but avaricious is the more precise descriptor." },
+        { "distractor": "greedy", "closeness": 3, "reasoning": "Greedy captures the core meaning but is less precise than avaricious, which specifically implies an excessive, almost pathological drive to hoard and accumulate wealth." },
+        { "distractor": "unethical", "closeness": 3, "reasoning": "Unethical describes behavior that violates moral standards but does not name the specific virtue-deficiency—love of wealth—that avaricious identifies as the cause." },
+        { "distractor": "shortsighted", "closeness": 3, "reasoning": "Shortsighted implies poor judgment about long-term consequences, which is plausible given his choice, but misses the morally condemning element of avaricious." },
+        { "distractor": "reckless", "closeness": 2, "reasoning": "Reckless means ignoring risks or consequences, which fits part of the behavior but attributes it to carelessness rather than the greed for returns that avaricious names." },
+        { "distractor": "cynical", "closeness": 2, "reasoning": "Cynical implies distrustful disregard for moral values but doesn't specifically name wealth-obsession as the driving force." },
+        { "distractor": "powerful", "closeness": 2, "reasoning": "Powerful describes position or influence, not a moral character flaw—it would neutralize rather than condemn the manager's behavior." },
+        { "distractor": "corrupt", "closeness": 2, "reasoning": "Corrupt describes the outcome of moral degradation but is not a character trait in the same way avaricious is—it describes state rather than disposition." },
+        { "distractor": "scrupulous", "closeness": 1, "reasoning": "Scrupulous means careful to do what is right—the opposite of ignoring fraud for financial gain." },
+        { "distractor": "philanthropic", "closeness": 1, "reasoning": "Philanthropic means motivated by generous concern for others—the direct opposite of the self-serving wealth-obsession avaricious denotes." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "Transparent implies open and honest conduct, directly contradicting the willful blindness to fraud the sentence describes." }
       ]
     },
     {
-      "sentence": "The curator's avaricious arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "In the novel, the avaricious merchant hoarded grain during the famine, selling it only when desperate families had nothing left to offer.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "miserly", "closeness": 3, "reasoning": "Miserly emphasizes reluctance to spend one's own money, while avaricious focuses on the drive to acquire and accumulate—the hoarding and price-gouging in the sentence aligns better with avaricious." },
+        { "distractor": "villainous", "closeness": 3, "reasoning": "Villainous is a general moral condemnation; avaricious is more precise, specifying the exact vice—greed for wealth—that drives his exploitation of the starving." },
+        { "distractor": "cruel", "closeness": 3, "reasoning": "Cruel describes enjoyment of others' suffering; avaricious names financial greed as the motive—the merchant likely hoards not out of sadism but out of desire for maximum profit." },
+        { "distractor": "cunning", "closeness": 3, "reasoning": "Cunning describes a method of intelligent scheming, not the moral vice of wealth-obsession that motivates the merchant's behavior in the sentence." },
+        { "distractor": "callous", "closeness": 2, "reasoning": "Callous means unfeeling toward others' suffering, which describes the effect of his behavior but not the underlying motive that avaricious identifies." },
+        { "distractor": "scheming", "closeness": 2, "reasoning": "Scheming describes the process of plotting, not the motivating desire—substituting it would describe how the merchant acts rather than why." },
+        { "distractor": "powerful", "closeness": 2, "reasoning": "Powerful describes market position but does not name the moral failing that makes him a condemnable figure in the narrative." },
+        { "distractor": "cautious", "closeness": 2, "reasoning": "Cautious might explain hoarding as risk management, not greed—it would recast a moral failing as a prudent business strategy." },
+        { "distractor": "generous", "closeness": 1, "reasoning": "Generous means giving freely, the direct opposite of hoarding grain and selling only when families are most desperate." },
+        { "distractor": "altruistic", "closeness": 1, "reasoning": "Altruistic means selflessly concerned with others' welfare—the antithesis of profiteering from famine." },
+        { "distractor": "charitable", "closeness": 1, "reasoning": "Charitable implies goodwill and giving to those in need—the merchant does the exact opposite, extracting maximum payment from the destitute." }
       ]
     }
   ]

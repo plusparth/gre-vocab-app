@@ -1,0 +1,53 @@
+{
+  "word": "contravene",
+  "sentenceSets": [
+    {
+      "sentence": "The action contravened both the spirit and the letter of the agreement, prompting immediate legal action.",
+      "answerChoices": [
+        { "distractor": "violated", "closeness": 3, "reasoning": "Very close synonym in legal contexts, but 'violated' is more general and colloquial; 'contravene' specifically implies going against an established rule, law, or agreement in a formal sense." },
+        { "distractor": "breached", "closeness": 3, "reasoning": "In contract law, 'breached' is the standard technical term; however, 'contravene' emphasizes acting contrary to a rule, not just failing to fulfill an obligation, making this a subtle but important distinction." },
+        { "distractor": "circumvented", "closeness": 3, "reasoning": "Circumvention means finding a way around a rule without technically breaking it; the sentence says both spirit and letter were violated, so circumvention—which respects the letter—does not fit." },
+        { "distractor": "undermined", "closeness": 3, "reasoning": "Undermining weakens something indirectly; 'contravene' implies direct contradiction or violation of a rule, which the sentence's reference to legal action supports." },
+        { "distractor": "overrode", "closeness": 2, "reasoning": "Override suggests using higher authority to supersede something; the sentence does not suggest authority was invoked, only that the action was contrary to the agreement." },
+        { "distractor": "negated", "closeness": 2, "reasoning": "Negate means to nullify or make ineffective; the action was contrary to the agreement but did not make it null—legal action was the response, not dissolution of the agreement." },
+        { "distractor": "contested", "closeness": 2, "reasoning": "Contest means to challenge or dispute, which is a different act from going contrary to an agreement; legal action follows from contravention, not necessarily from contestation." },
+        { "distractor": "amended", "closeness": 2, "reasoning": "Amend means to change or modify; an amendment would be sanctioned and agreed upon, the opposite of an unauthorized contravention." },
+        { "distractor": "endorsed", "closeness": 1, "reasoning": "Endorse means to approve or support; clearly the opposite meaning in a sentence about violating an agreement." },
+        { "distractor": "ratified", "closeness": 1, "reasoning": "Ratify means to formally approve; completely wrong in a sentence about going against an agreement." },
+        { "distractor": "strengthened", "closeness": 1, "reasoning": "Strengthen is the opposite of what contravene implies; the action undermined the agreement, not reinforced it." }
+      ]
+    },
+    {
+      "sentence": "The mayor's executive order was struck down after a court ruled it contravened the city charter's explicit limits on unilateral spending.",
+      "answerChoices": [
+        { "distractor": "exceeded", "closeness": 3, "reasoning": "Exceeded the limits is very natural in this sentence, but 'contravene' implies acting contrary to a rule, not merely going beyond a quantity; the charter sets limits that the order went against, not just over." },
+        { "distractor": "violated", "closeness": 3, "reasoning": "Violated is nearly synonymous here, but lacks the specific sense of acting contrary to an established rule that 'contravene' carries in legal discourse." },
+        { "distractor": "overstepped", "closeness": 3, "reasoning": "Overstepped implies going beyond one's authority, which fits the context well, but it focuses on the boundary of power rather than the conflict with a specific legal document." },
+        { "distractor": "ignored", "closeness": 3, "reasoning": "Ignored suggests disregarding without necessarily acting against; 'contravene' implies the action was in direct conflict with the charter's limits, not merely that they were overlooked." },
+        { "distractor": "revised", "closeness": 2, "reasoning": "Revise means to change; the mayor did not change the charter—the order simply acted against it, so 'revised' does not fit." },
+        { "distractor": "suspended", "closeness": 2, "reasoning": "Suspend means to temporarily halt; the sentence is about the order conflicting with the charter's limits, not suspending them." },
+        { "distractor": "reinterpreted", "closeness": 2, "reasoning": "Reinterpret implies a different reading of the text; the court's ruling was that the order went against the charter, not that an interpretation was at issue." },
+        { "distractor": "supplanted", "closeness": 2, "reasoning": "Supplant means to replace; the executive order did not replace the charter but acted in conflict with it." },
+        { "distractor": "upheld", "closeness": 1, "reasoning": "Upheld means to support or confirm; the opposite of going against a rule." },
+        { "distractor": "codified", "closeness": 1, "reasoning": "Codify means to organize into law; wrong semantic field for a sentence about legal conflict." },
+        { "distractor": "enacted", "closeness": 1, "reasoning": "Enact means to make into law; this is the opposite of what happened—the order was struck down for contravening existing law." }
+      ]
+    },
+    {
+      "sentence": "Scientists argued that the data contravened the prevailing theory, but the journal refused to publish findings that challenged its editorial consensus.",
+      "answerChoices": [
+        { "distractor": "contradicted", "closeness": 3, "reasoning": "Contradicted is extremely close here and would be grammatically perfect, but 'contravene' suggests the data went against the theory in a way that demands its revision, carrying more force than mere contradiction." },
+        { "distractor": "undermined", "closeness": 3, "reasoning": "Undermine implies gradual weakening; the sentence suggests the data directly and actively opposed the theory, which 'contravene' captures better." },
+        { "distractor": "refuted", "closeness": 3, "reasoning": "Refute means to disprove conclusively; the sentence does not say the theory was conclusively disproven—the data went against it, making 'refuted' a stronger claim than the sentence warrants." },
+        { "distractor": "questioned", "closeness": 3, "reasoning": "Question implies doubt without direct contradiction; the sentence implies the data actively opposed the theory rather than merely raising doubts." },
+        { "distractor": "supplemented", "closeness": 2, "reasoning": "Supplement means to add to; this is the wrong direction—the data challenged rather than added to the theory." },
+        { "distractor": "informed", "closeness": 2, "reasoning": "Inform means to shape or influence; the scientists' argument is that the data directly opposed the theory, not merely informed its development." },
+        { "distractor": "replicated", "closeness": 2, "reasoning": "Replicate means to reproduce; this would mean the data confirmed the theory, the opposite of what the sentence states." },
+        { "distractor": "obscured", "closeness": 2, "reasoning": "Obscure means to make unclear; the data did not obscure the theory—it went against it, which is a different kind of challenge." },
+        { "distractor": "advanced", "closeness": 1, "reasoning": "Advance means to further or promote; clearly opposite to data that challenges a theory." },
+        { "distractor": "adopted", "closeness": 1, "reasoning": "Adopt means to accept or take up; wrong semantic field entirely." },
+        { "distractor": "validated", "closeness": 1, "reasoning": "Validate means to confirm as correct; the direct opposite of what the data did in the sentence." }
+      ]
+    }
+  ]
+}

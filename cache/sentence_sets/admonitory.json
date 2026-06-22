@@ -4,181 +4,49 @@
     {
       "sentence": "Her admonitory tone made it clear she expected the mistake would not be repeated.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "cautionary", "closeness": 3, "reasoning": "Cautionary also conveys warning, but it focuses on alerting to danger rather than the corrective, slightly scolding quality that admonitory implies about the speaker's tone." },
+        { "distractor": "warning", "closeness": 3, "reasoning": "Warning captures the alerting function but is more neutral, whereas admonitory adds a moral or disciplinary edge that matches the expectation of changed behavior." },
+        { "distractor": "reproving", "closeness": 3, "reasoning": "Reproving emphasizes expressing disapproval, which is close, but admonitory focuses more on the forward-looking warning not to repeat than on the criticism of the past act." },
+        { "distractor": "stern", "closeness": 3, "reasoning": "Stern describes a severe and unsmiling manner that fits the sentence, though it does not specifically imply the warning-and-expectation quality that admonitory carries." },
+        { "distractor": "disapproving", "closeness": 2, "reasoning": "Disapproving describes the speaker's attitude toward the mistake but does not capture the forward-looking warning embedded in the sentence's mention of expecting the mistake not to be repeated." },
+        { "distractor": "chiding", "closeness": 2, "reasoning": "Chiding suggests mild scolding after the fact and does not fully capture the warning dimension that admonitory adds about future behavior." },
+        { "distractor": "sharp", "closeness": 2, "reasoning": "Sharp describes the quality of the tone in terms of harshness, but it does not carry the specific sense of issuing a warning about future conduct." },
+        { "distractor": "firm", "closeness": 2, "reasoning": "Firm describes a tone of resolve and authority but lacks the specific warning and corrective function implied by admonitory." },
+        { "distractor": "encouraging", "closeness": 1, "reasoning": "Encouraging conveys support and positive reinforcement, which is nearly the opposite of the corrective warning a admonitory tone delivers." },
+        { "distractor": "celebratory", "closeness": 1, "reasoning": "Celebratory suggests a tone of praise and festivity, directly contradicting the corrective and warning quality of admonitory." },
+        { "distractor": "conciliatory", "closeness": 1, "reasoning": "Conciliatory implies a tone aimed at easing tension and reaching agreement, which conflicts with the expectation of changed behavior that admonitory conveys." }
       ]
     },
     {
-      "sentence": "Her admonitory response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The coach's admonitory glance silenced the players who had been joking on the sideline.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "withering", "closeness": 3, "reasoning": "Withering describes a glance of crushing disapproval that could equally silence a room, but it emphasizes scorn rather than the warning about future conduct implied by admonitory." },
+        { "distractor": "rebuking", "closeness": 3, "reasoning": "Rebuking involves expressing sharp criticism, which is close, but admonitory glance suggests more of a pointed warning than an outright verbal or gestural rebuke." },
+        { "distractor": "corrective", "closeness": 3, "reasoning": "Corrective captures the intent to change behavior, but as a descriptor of a glance it is less natural; admonitory works smoothly in the sentence while conveying the same intent." },
+        { "distractor": "forbidding", "closeness": 3, "reasoning": "Forbidding describes an intimidating appearance that would also silence the players, but it emphasizes a fearsome quality rather than the specific warning function of admonitory." },
+        { "distractor": "disapproving", "closeness": 2, "reasoning": "Disapproving names the coach's attitude but does not indicate the silencing warning power that admonitory implies in this context of restoring discipline." },
+        { "distractor": "irritated", "closeness": 2, "reasoning": "Irritated describes the coach's emotional state rather than the warning quality of the look directed at the players' behavior." },
+        { "distractor": "pointed", "closeness": 2, "reasoning": "Pointed suggests the glance was directed meaningfully but lacks the specific corrective-warning connotation that admonitory carries." },
+        { "distractor": "cold", "closeness": 2, "reasoning": "Cold describes the emotional temperature of the glance but not its specific function of warning the players to stop their joking." },
+        { "distractor": "welcoming", "closeness": 1, "reasoning": "Welcoming conveys warmth and openness, which is incompatible with the silencing and corrective function of an admonitory glance." },
+        { "distractor": "amused", "closeness": 1, "reasoning": "Amused suggests the coach found the joking entertaining, which is the opposite of what an admonitory glance signals." },
+        { "distractor": "admiring", "closeness": 1, "reasoning": "Admiring implies approval of what the players are doing, directly contradicting the corrective warning delivered by an admonitory glance." }
       ]
     },
     {
-      "sentence": "The curator's admonitory arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "The judge issued an admonitory statement before sentencing, making plain that repeat offenders would face harsher consequences.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "cautionary", "closeness": 3, "reasoning": "Cautionary fits the context of alerting to consequences, but admonitory adds a moral authority dimension fitting the judge's role in warning against future offenses." },
+        { "distractor": "prescriptive", "closeness": 3, "reasoning": "Prescriptive suggests laying out rules, which partially matches, but admonitory is more specifically directed at warning the offenders rather than simply outlining procedure." },
+        { "distractor": "deterrent", "closeness": 3, "reasoning": "Deterrent captures the intent to discourage future offenses, but used as an adjective for the statement, it focuses on effect rather than the warning tone that admonitory conveys." },
+        { "distractor": "condemnatory", "closeness": 3, "reasoning": "Condemnatory describes harsh moral judgment, which fits the judicial setting, but admonitory specifically includes a forward-looking warning about consequences rather than just condemning past acts." },
+        { "distractor": "critical", "closeness": 2, "reasoning": "Critical describes negative evaluation of the offenders but does not capture the forward-looking warning about harsher consequences that admonitory emphasizes in the sentence." },
+        { "distractor": "severe", "closeness": 2, "reasoning": "Severe describes harshness of the statement but not the specific function of warning against future behavior that admonitory implies." },
+        { "distractor": "declaratory", "closeness": 2, "reasoning": "Declaratory means making a formal statement, which describes the form but not the warning content and purpose that admonitory signals." },
+        { "distractor": "formal", "closeness": 2, "reasoning": "Formal describes the register of the statement but not the corrective, warning intent that admonitory carries in this legal context." },
+        { "distractor": "congratulatory", "closeness": 1, "reasoning": "Congratulatory implies praise and approval, which is the opposite of the warning directed at offenders in the sentence." },
+        { "distractor": "lenient", "closeness": 1, "reasoning": "Lenient suggests softness toward offenders, directly contradicting the warning about harsher consequences that an admonitory statement delivers." },
+        { "distractor": "exculpatory", "closeness": 1, "reasoning": "Exculpatory means clearing someone of blame, which directly opposes the warning and corrective purpose of an admonitory judicial statement." }
       ]
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "word": "cow",
+  "sentenceSets": [
+    {
+      "sentence": "The inspector's icy stare cowed the contractor into admitting violations he had intended to conceal.",
+      "answerChoices": [
+        { "distractor": "intimidated", "closeness": 3, "reasoning": "'Intimidated' fits: an icy stare that compels an admission through fear parallels how intimidation forces a confession of concealed violations." },
+        { "distractor": "browbeat", "closeness": 3, "reasoning": "'Browbeat' captures the relentless pressure of the inspector's icy stare that forced an admission the contractor had intended to hide." },
+        { "distractor": "coerced", "closeness": 3, "reasoning": "'Coerced' fits the inspector using authority and a stern gaze to compel the contractor to admit what he had planned to conceal." },
+        { "distractor": "pressured", "closeness": 2, "reasoning": "'Pressured' fits the inspector compelling an admission, though it is less vivid in capturing the fear and submission implied by 'cowed.'" },
+        { "distractor": "unnerved", "closeness": 2, "reasoning": "'Unnerved' fits the contractor's psychological state under the icy stare, but it describes the effect rather than the act of forcing an admission." },
+        { "distractor": "manipulated", "closeness": 2, "reasoning": "'Manipulated' fits someone being led to an admission through indirect means, though 'cowed' implies fear rather than subtle manipulation." },
+        { "distractor": "shamed", "closeness": 2, "reasoning": "'Shamed' could explain why the contractor admitted violations, but the icy stare more directly suggests fear than embarrassment." },
+        { "distractor": "silenced", "closeness": 2, "reasoning": "'Silenced' is almost the opposite effect: the contractor admitted violations rather than staying quiet, though 'cowed' and 'silenced' share the idea of suppression." },
+        { "distractor": "impressed", "closeness": 1, "reasoning": "'Impressed' suggests admiration, not the fearful submission under a threatening stare that led to the admission." },
+        { "distractor": "invited", "closeness": 1, "reasoning": "'Invited' implies a welcoming prompt rather than fear-induced compliance, contradicting the icy, threatening context." },
+        { "distractor": "assisted", "closeness": 1, "reasoning": "'Assisted' suggests helpful support, entirely opposite to the coercive dynamic of the inspector's icy stare forcing an admission." }
+      ]
+    },
+    {
+      "sentence": "Rather than cowering, the dissident spoke louder in the face of threats, refusing to be cowed by the regime's warnings.",
+      "answerChoices": [
+        { "distractor": "intimidated", "closeness": 3, "reasoning": "'Intimidated' fits: the dissident refuses to be silenced through fear by the regime's warnings, the same dynamic as refusing to be cowed." },
+        { "distractor": "silenced", "closeness": 3, "reasoning": "'Silenced' fits: the dissident speaks louder, making clear the refusal to be suppressed by the regime's threatening warnings." },
+        { "distractor": "subdued", "closeness": 3, "reasoning": "'Subdued' fits the regime's attempt to suppress the dissident through warnings, which the dissident resists by speaking louder." },
+        { "distractor": "frightened", "closeness": 2, "reasoning": "'Frightened' fits the emotional state the regime hoped to induce, though 'cowed' implies submission beyond fear alone." },
+        { "distractor": "deterred", "closeness": 2, "reasoning": "'Deterred' fits: the dissident refuses to be stopped by the warnings, though 'deterred' lacks the fearful submission implied by 'cowed.'" },
+        { "distractor": "pressured", "closeness": 2, "reasoning": "'Pressured' fits the regime's use of warnings to compel compliance, which the dissident resists—though it is less intense than 'cowed.'" },
+        { "distractor": "broken", "closeness": 2, "reasoning": "'Broken' captures the total defeat the regime seeks through its warnings, which the dissident refuses to allow by speaking louder." },
+        { "distractor": "controlled", "closeness": 2, "reasoning": "'Controlled' fits a regime trying to manage the dissident's behavior through warnings, which the dissident refuses to allow." },
+        { "distractor": "persuaded", "closeness": 1, "reasoning": "'Persuaded' implies rational argument rather than threats and fear—the regime uses warnings, not reasoning, in this context." },
+        { "distractor": "challenged", "closeness": 1, "reasoning": "'Challenged' reverses the dynamic: the dissident does the challenging, and cannot be 'challenged' by the regime's warnings in this grammatical slot." },
+        { "distractor": "rewarded", "closeness": 1, "reasoning": "'Rewarded' is entirely contrary to the threatening dynamic of regime warnings intended to suppress dissent." }
+      ]
+    },
+    {
+      "sentence": "The new policy was intended to cow critics into silence before any formal opposition could be organized.",
+      "answerChoices": [
+        { "distractor": "bully", "closeness": 3, "reasoning": "'Bully' fits: using force or threats to silence critics before they can organize formal opposition is the core action here." },
+        { "distractor": "intimidate", "closeness": 3, "reasoning": "'Intimidate' captures the policy's aim of using fear to suppress critics before formal opposition could emerge." },
+        { "distractor": "suppress", "closeness": 3, "reasoning": "'Suppress' fits: the policy aims to push critics into silence before organized opposition can form, which is the effect of cowing them." },
+        { "distractor": "silence", "closeness": 2, "reasoning": "'Silence' actually appears in the sentence as the object ('into silence'), making it too closely tied to the sentence's own phrasing." },
+        { "distractor": "deter", "closeness": 2, "reasoning": "'Deter' fits discouraging critics from acting before opposition is organized, though it lacks the fearful submission 'cow' implies." },
+        { "distractor": "discourage", "closeness": 2, "reasoning": "'Discourage' fits reducing critics' willingness to act, though it is milder than the coercive, fear-based meaning of 'cow.'" },
+        { "distractor": "provoke", "closeness": 2, "reasoning": "'Provoke' would mean the policy was designed to anger critics rather than silence them—a plausible alternative reading if critics respond with greater opposition." },
+        { "distractor": "monitor", "closeness": 2, "reasoning": "'Monitor' fits a policy that watches critics, which might prevent organized opposition through surveillance, though it lacks the active coercion of 'cow.'" },
+        { "distractor": "educate", "closeness": 1, "reasoning": "'Educate' implies informing critics rather than intimidating them into silence, making it wholly inconsistent with the coercive intent." },
+        { "distractor": "unite", "closeness": 1, "reasoning": "'Unite' would mean the policy brings critics together—the opposite of fragmenting and silencing them before they can organize." },
+        { "distractor": "reward", "closeness": 1, "reasoning": "'Reward' suggests positive reinforcement rather than fear-based coercion, completely contradicting the policy's intent to silence critics." }
+      ]
+    }
+  ]
+}

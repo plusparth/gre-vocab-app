@@ -4,181 +4,49 @@
     {
       "sentence": "The opening scene adumbrated the tragedy to come, setting an ominous tone the audience never shook.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "foreshadowed", "closeness": 3, "reasoning": "Foreshadowed is the closest common synonym and also describes the literary technique of hinting at future events, but adumbrate adds a slightly more vague and suggestive quality of outlining in shadow rather than giving clear signals." },
+        { "distractor": "portended", "closeness": 3, "reasoning": "Portended implies signs that predict a (usually bad) future event, which fits the tragedy context, but portend focuses on the ominous signs themselves while adumbrate focuses on the act of vaguely sketching out what is to come." },
+        { "distractor": "prefigured", "closeness": 3, "reasoning": "Prefigured describes representing something in advance through an earlier image or form and is close to adumbrate, though prefigure implies a more complete representative image whereas adumbrate implies only vague suggestion." },
+        { "distractor": "hinted", "closeness": 3, "reasoning": "Hinted captures the indirect, suggestive quality of adumbrate and fits an opening scene that sets tone without spelling out the tragedy, though hinted is more casual and less formal." },
+        { "distractor": "suggested", "closeness": 2, "reasoning": "Suggested describes the indirect communication of ideas or possibilities but lacks the literary-structural dimension of adumbrate, which implies the opening scene was architecturally designed to outline the tragedy to come." },
+        { "distractor": "announced", "closeness": 2, "reasoning": "Announced implies explicit, clear communication rather than the vague, shadowy intimation that adumbrate conveys; an opening scene that adumbrates does not announce but hints." },
+        { "distractor": "established", "closeness": 2, "reasoning": "Established describes the creation of a tone or atmosphere but does not convey the forward-looking, prophetic dimension of adumbrate in predicting the tragedy's outline." },
+        { "distractor": "opened", "closeness": 2, "reasoning": "Opened simply describes the scene beginning the film but says nothing about the ominous prefiguring of future events that adumbrate implies." },
+        { "distractor": "resolved", "closeness": 1, "reasoning": "Resolved implies bringing something to a conclusion, which is the opposite of adumbrate's function of suggesting what is yet to come in the opening of a work." },
+        { "distractor": "concealed", "closeness": 1, "reasoning": "Concealed implies hiding information from the audience, whereas adumbrate means vaguely suggesting what is ahead; the two are distinct and partially opposite in intent." },
+        { "distractor": "reversed", "closeness": 1, "reasoning": "Reversed implies an about-turn in direction or meaning, which is entirely unrelated to the forward-looking foreshadowing function of adumbrate." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to adumbrate before the meeting adjourned.",
+      "sentence": "The policy paper adumbrated several reforms without committing to the specific timelines or costs.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "outlined", "closeness": 3, "reasoning": "Outlined is a near-synonym and describes presenting the shape of reforms without filling in details, but adumbrate implies an even vaguer, more suggestive sketch than a formal outline." },
+        { "distractor": "sketched", "closeness": 3, "reasoning": "Sketched captures the incomplete, rough-draft quality of adumbrate's meaning—giving a general shape without specifics—and fits the policy context well." },
+        { "distractor": "proposed", "closeness": 3, "reasoning": "Proposed describes putting forward ideas for consideration, which fits a policy paper, but it implies a more definite, committed suggestion than adumbrate's vague intimation." },
+        { "distractor": "intimated", "closeness": 3, "reasoning": "Intimated is close in meaning—suggesting indirectly—and captures the non-committal quality of a paper that adumbrates reforms, though intimated often implies personal hinting rather than formal policy-level suggestion." },
+        { "distractor": "described", "closeness": 2, "reasoning": "Described implies a more complete account than adumbrate; the sentence's point is precisely that the paper did not fully describe the reforms, only vaguely suggested their shape." },
+        { "distractor": "endorsed", "closeness": 2, "reasoning": "Endorsed implies actively supporting the reforms, which goes beyond the tentative, non-committal vagueness that adumbrate conveys for the policy paper." },
+        { "distractor": "rejected", "closeness": 2, "reasoning": "Rejected implies the paper dismissed the reforms, which is the opposite of introducing and vaguely suggesting them, as adumbrate implies." },
+        { "distractor": "implemented", "closeness": 2, "reasoning": "Implemented implies the reforms were already put into practice, which contradicts the vague and uncommitted nature of adumbrating them in a policy paper." },
+        { "distractor": "finalized", "closeness": 1, "reasoning": "Finalized implies the reforms were completely worked out and committed to, which is the opposite of the vague and provisional nature of what adumbrate describes." },
+        { "distractor": "cancelled", "closeness": 1, "reasoning": "Cancelled implies the reforms were called off, which directly contradicts the forward-looking introduction of reform ideas that adumbrate conveys." },
+        { "distractor": "mandated", "closeness": 1, "reasoning": "Mandated implies the reforms were required by authority, which is far more definitive and binding than the vague suggestion and intimation that adumbrate describes." }
       ]
     },
     {
-      "sentence": "The curator chose to adumbrate the fragile document only after consulting the conservator.",
+      "sentence": "The scientist's early experiments adumbrated a theory that would not be fully articulated for another decade.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "anticipated", "closeness": 3, "reasoning": "Anticipated describes being aware of or preparing for something in advance, which is close, but adumbrate implies that the experiments themselves contained the shadowy outline of the theory rather than that the scientist expected it." },
+        { "distractor": "previewed", "closeness": 3, "reasoning": "Previewed describes showing an early glimpse of something to come and fits the experimental origin of a theory, but it is more concrete and deliberate than the vague, indirect sketching that adumbrate implies." },
+        { "distractor": "implied", "closeness": 3, "reasoning": "Implied captures the indirect, suggestive dimension of adumbrate and fits experiments that contained hints of a later theory without stating it explicitly." },
+        { "distractor": "prefigured", "closeness": 3, "reasoning": "Prefigured is very close and describes an earlier form containing or representing a later development, though it implies a more complete representative form than adumbrate's shadowy outline." },
+        { "distractor": "established", "closeness": 2, "reasoning": "Established implies the experiments definitively founded the theory, which contradicts the vagueness and incompleteness of adumbrate and the sentence's point that full articulation came a decade later." },
+        { "distractor": "disproved", "closeness": 2, "reasoning": "Disproved implies the experiments contradicted the theory, which is the opposite of adumbrate's meaning of vaguely sketching it out as something yet to come." },
+        { "distractor": "complicated", "closeness": 2, "reasoning": "Complicated suggests the experiments made the theoretical picture more complex rather than vaguely outlining a future theory, as adumbrate conveys." },
+        { "distractor": "inspired", "closeness": 2, "reasoning": "Inspired implies the experiments motivated or gave rise to the theory through creative influence, whereas adumbrate implies the theory was already latently contained in the experiments' results, waiting to be articulated." },
+        { "distractor": "confirmed", "closeness": 1, "reasoning": "Confirmed implies the experiments proved the theory, which contradicts the sentence's point that the theory was not fully articulated until a decade later; adumbrate implies only vague preliminary suggestion." },
+        { "distractor": "replaced", "closeness": 1, "reasoning": "Replaced implies the experiments substituted one theory for another, which is entirely contrary to adumbrate's meaning of vaguely sketching out the contours of a future theory." },
+        { "distractor": "abandoned", "closeness": 1, "reasoning": "Abandoned implies the scientist gave up on the theory, which directly contradicts the forward-looking, preliminary nature of the experiments that adumbrate describes." }
       ]
     }
   ]

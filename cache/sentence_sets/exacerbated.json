@@ -1,0 +1,53 @@
+{
+  "word": "exacerbated",
+  "sentenceSets": [
+    {
+      "sentence": "The delay exacerbated the damage, allowing a manageable problem to become a serious one.",
+      "answerChoices": [
+        { "distractor": "compounded", "closeness": 3, "reasoning": "Compounding damage similarly intensifies an existing problem, but it emphasizes layering rather than making something bad worse." },
+        { "distractor": "deepened", "closeness": 3, "reasoning": "Deepened suggests increasing severity of damage but lacks the sense of actively worsening something already problematic." },
+        { "distractor": "aggravated", "closeness": 3, "reasoning": "Aggravated is near-synonymous but often implies deliberate provocation rather than passive deterioration through delay." },
+        { "distractor": "amplified", "closeness": 3, "reasoning": "Amplified means intensified but is more neutral and does not carry the connotation of worsening something already harmful." },
+        { "distractor": "prolonged", "closeness": 2, "reasoning": "Prolonged fits grammatically and relates to delay, but it means extended in time rather than made worse in severity." },
+        { "distractor": "revealed", "closeness": 2, "reasoning": "Revealed would suggest the delay uncovered the damage rather than causing it to worsen." },
+        { "distractor": "triggered", "closeness": 2, "reasoning": "Triggered implies initiating the damage, not worsening something already underway." },
+        { "distractor": "obscured", "closeness": 2, "reasoning": "Obscured would mean the delay hid the damage rather than intensifying it—opposite of the intended effect." },
+        { "distractor": "reflected", "closeness": 1, "reasoning": "Reflected implies the delay merely mirrored the damage rather than actively worsening it." },
+        { "distractor": "predicted", "closeness": 1, "reasoning": "Predicted is unrelated in meaning and would suggest foresight rather than causative worsening." },
+        { "distractor": "categorized", "closeness": 1, "reasoning": "Categorized makes no contextual sense here and bears no semantic relationship to worsening damage." }
+      ]
+    },
+    {
+      "sentence": "Poor communication between departments exacerbated the budget shortfall, turning a temporary gap into a structural crisis.",
+      "answerChoices": [
+        { "distractor": "worsened", "closeness": 3, "reasoning": "Worsened is nearly synonymous but is more colloquial and doesn't specifically imply an already-bad condition being pushed further." },
+        { "distractor": "intensified", "closeness": 3, "reasoning": "Intensified captures the sense of increasing severity but doesn't emphasize the pre-existing problematic state." },
+        { "distractor": "inflated", "closeness": 3, "reasoning": "Inflated fits the financial context and suggests enlarging the problem, but implies distortion rather than genuine deterioration." },
+        { "distractor": "perpetuated", "closeness": 3, "reasoning": "Perpetuated suggests sustaining the shortfall over time rather than making it worse in severity." },
+        { "distractor": "exposed", "closeness": 2, "reasoning": "Exposed would imply poor communication revealed the shortfall rather than causing it to grow worse." },
+        { "distractor": "caused", "closeness": 2, "reasoning": "Caused overstates the role of poor communication—it worsened an existing gap, not created it." },
+        { "distractor": "overshadowed", "closeness": 2, "reasoning": "Overshadowed would mean the communication issues eclipsed the shortfall, not increased its severity." },
+        { "distractor": "highlighted", "closeness": 2, "reasoning": "Highlighted implies the poor communication drew attention to the gap rather than expanding it." },
+        { "distractor": "eliminated", "closeness": 1, "reasoning": "Eliminated contradicts the sentence's meaning entirely by implying the shortfall was removed." },
+        { "distractor": "calculated", "closeness": 1, "reasoning": "Calculated is unrelated to the causal relationship between poor communication and a worsening crisis." },
+        { "distractor": "disputed", "closeness": 1, "reasoning": "Disputed implies a conflict over the shortfall's existence rather than its being made worse." }
+      ]
+    },
+    {
+      "sentence": "The new regulation, intended as a remedy, only exacerbated tensions between the two factions.",
+      "answerChoices": [
+        { "distractor": "inflamed", "closeness": 3, "reasoning": "Inflamed is contextually apt for tensions but implies provoking anger rather than specifically making a bad situation worse." },
+        { "distractor": "heightened", "closeness": 3, "reasoning": "Heightened captures increased intensity but is more neutral and lacks the implication of worsening something already bad." },
+        { "distractor": "entrenched", "closeness": 3, "reasoning": "Entrenched implies tensions became more fixed rather than more severe, a related but distinct change." },
+        { "distractor": "provoked", "closeness": 3, "reasoning": "Provoked implies deliberately stirring tensions, whereas the regulation's worsening effect is described as an unintended consequence." },
+        { "distractor": "reflected", "closeness": 2, "reasoning": "Reflected would mean the regulation merely mirrored existing tensions rather than making them worse." },
+        { "distractor": "justified", "closeness": 2, "reasoning": "Justified would mean the regulation gave reason for the tensions, not that it made them more severe." },
+        { "distractor": "mediated", "closeness": 2, "reasoning": "Mediated implies negotiating between factions, the opposite of increasing tensions." },
+        { "distractor": "masked", "closeness": 2, "reasoning": "Masked suggests the regulation hid the tensions rather than intensifying them." },
+        { "distractor": "resolved", "closeness": 1, "reasoning": "Resolved directly contradicts the sentence, implying the tensions were settled rather than worsened." },
+        { "distractor": "catalogued", "closeness": 1, "reasoning": "Catalogued has no meaningful relationship to the increase or decrease of tensions between factions." },
+        { "distractor": "preceded", "closeness": 1, "reasoning": "Preceded would describe a temporal relationship rather than a causal worsening one." }
+      ]
+    }
+  ]
+}

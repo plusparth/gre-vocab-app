@@ -4,181 +4,48 @@
     {
       "sentence": "Historians still debate whether to ascribe the empire's collapse to internal decay or external pressure.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "attribute", "closeness": 3, "reasoning": "The sentence asks whether the collapse should be linked to one cause or another, and 'attribute' is nearly interchangeable with 'ascribe' in this context, but 'attribute' often implies a confirmed connection, whereas 'ascribe' is used here precisely because the cause remains debated." },
+        { "distractor": "credit", "closeness": 3, "reasoning": "'Credit' can mean to assign a cause to, but it typically carries a positive connotation (crediting someone for success), making it awkward when the cause is collapse from decay or pressure." },
+        { "distractor": "assign", "closeness": 3, "reasoning": "The sentence is about connecting a cause to an outcome, which 'assign' can mean in formal contexts, but 'assign' implies an authoritative act of designation rather than the interpretive act of identifying a historical cause that 'ascribe' conveys." },
+        { "distractor": "link", "closeness": 2, "reasoning": "Historians might 'link' the collapse to causes, but 'link' suggests establishing a connection between two things rather than the act of identifying the source or cause, which 'ascribe' specifically implies." },
+        { "distractor": "blame", "closeness": 2, "reasoning": "The sentence considers both internal decay and external pressure as possible causes, and 'blame' could work semantically, but it implies fault or moral responsibility rather than neutral causal attribution in an academic debate." },
+        { "distractor": "connect", "closeness": 2, "reasoning": "'Connect' is too vague; it describes establishing any relationship between two things and lacks the directional, causal sense that 'ascribe' specifically conveys — namely, that the collapse originates from a particular cause." },
+        { "distractor": "reduce", "closeness": 2, "reasoning": "A historian might 'reduce' a complex collapse to a single cause, but 'reduce' implies oversimplification rather than identifying the actual source of the event, which is what the debate is about." },
+        { "distractor": "explain", "closeness": 2, "reasoning": "'Explain' is too broad; the sentence is specifically about identifying what caused the collapse, not about providing a general account or description of it." },
+        { "distractor": "dispute", "closeness": 1, "reasoning": "Historians debate whether to 'ascribe' the cause — they are not disputing the cause itself in this sentence's blank; 'dispute' names what they are doing, not what they are considering doing to the cause." },
+        { "distractor": "deny", "closeness": 1, "reasoning": "The sentence frames the question as choosing between two possible causes, not rejecting them, making 'deny' plainly wrong in this context." },
+        { "distractor": "celebrate", "closeness": 1, "reasoning": "The subject is a historical empire's collapse; 'celebrate' is both the wrong semantic field and the wrong tone for the sentence." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to ascribe before the meeting adjourned.",
+      "sentence": "The coach was reluctant to ascribe the team's losing streak to bad luck when the film sessions revealed clear tactical errors.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "attribute", "closeness": 3, "reasoning": "Like the target, 'attribute' means to identify a cause, and would be nearly interchangeable here — yet 'ascribe' specifically suggests a somewhat interpretive or even dubious assignment of cause, which fits the coach's reluctance to deflect blame onto luck." },
+        { "distractor": "chalk up", "closeness": 3, "reasoning": "'Chalk up to' is a common idiomatic equivalent of 'ascribe to' in casual contexts, and would fit grammatically, but it is too informal for the analytical, evidence-driven context the sentence establishes through film sessions and tactical errors." },
+        { "distractor": "pin", "closeness": 3, "reasoning": "'Pin on' means to assign blame, which fits the sentence's context of identifying a cause for the streak, but 'pin' carries a colloquial and accusatory tone that differs from the analytical framing of the coach reviewing film." },
+        { "distractor": "reduce", "closeness": 2, "reasoning": "The coach avoids oversimplifying a tactical problem as mere luck, and 'reduce' could describe that move, but 'reduce' means to simplify rather than specifically to assign a causal explanation." },
+        { "distractor": "dismiss", "closeness": 2, "reasoning": "The coach is reluctant to dismiss the team's real errors by blaming luck, but 'dismiss' would mean to reject or set aside entirely — not to assign a cause to something." },
+        { "distractor": "excuse", "closeness": 2, "reasoning": "Attributing losses to bad luck would be a way of excusing them, but 'excuse' is not a causal-attribution verb; it describes mitigating judgment rather than identifying an origin." },
+        { "distractor": "concede", "closeness": 2, "reasoning": "'Concede' implies admitting something reluctantly, and the coach is indeed reluctant, but 'concede' describes accepting a point rather than assigning a cause to the losing streak." },
+        { "distractor": "overlook", "closeness": 2, "reasoning": "Attributing the streak to bad luck would effectively overlook the tactical errors, but 'overlook' describes failing to notice rather than actively assigning a causal explanation." },
+        { "distractor": "celebrate", "closeness": 1, "reasoning": "The sentence is about analyzing a losing streak; 'celebrate' has no semantic connection to the causal reasoning the sentence describes." },
+        { "distractor": "deny", "closeness": 1, "reasoning": "The coach's reluctance concerns what cause to name for the streak; 'deny' would mean to reject the streak's existence, which contradicts the sentence." },
+        { "distractor": "predict", "closeness": 1, "reasoning": "The sentence looks back at a losing streak that already occurred; 'predict' points forward in time and belongs to a completely different semantic role." }
       ]
     },
     {
-      "sentence": "The curator chose to ascribe the fragile document only after consulting the conservator.",
+      "sentence": "Several reviewers ascribed a quiet melancholy to the paintings, though the artist insisted she had intended only to depict ordinary afternoon light.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "detect", "closeness": 3, "reasoning": "The reviewers see melancholy in the paintings, but 'detect' implies discovering something actually present, whereas 'ascribe' signals that they are projecting an interpretation the artist herself denied." },
+        { "distractor": "project", "closeness": 3, "reasoning": "'Project' suggests reading one's own emotions into something, which fits the contrast between reviewer interpretation and artist intent, but 'project' foregrounds the viewer's psychology rather than the act of assigning a quality to the work itself." },
+        { "distractor": "attribute", "closeness": 3, "reasoning": "'Attribute' functions nearly identically to 'ascribe' in this interpretive context, but 'attribute' typically implies a firmer connection to evidence, whereas the sentence's contrast with the artist's denial suggests the attribution is debatable." },
+        { "distractor": "find", "closeness": 2, "reasoning": "Critics might 'find' melancholy in the work, but 'find' implies discovery of something already there and does not capture the interpretive, potentially subjective act of assigning a quality that 'ascribe' conveys." },
+        { "distractor": "impose", "closeness": 2, "reasoning": "The contrast between reviewer interpretation and artist intent could suggest imposing a reading, but 'impose' has a strong coercive sense that the sentence's neutral framing does not support." },
+        { "distractor": "read", "closeness": 2, "reasoning": "Critics 'reading' melancholy into the paintings is a plausible construction, but 'read' is too informal and typically requires the preposition 'into,' making substitution grammatically imperfect." },
+        { "distractor": "praise", "closeness": 2, "reasoning": "Reviewers mention melancholy, which might be a form of praise for emotional depth, but the sentence is specifically about assigning a quality or meaning, not about evaluating the work's merits." },
+        { "distractor": "deny", "closeness": 1, "reasoning": "The reviewers do the opposite of denying — they are applying the quality of melancholy to the paintings; 'deny' directly contradicts this." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "The reviewers explicitly engage with the emotional quality of the paintings; 'ignore' is the opposite of what the sentence describes." },
+        { "distractor": "document", "closeness": 1, "reasoning": "'Document' implies recording factual information, which is entirely the wrong semantic field for an interpretive act of reading emotional meaning into artwork." }
       ]
     }
   ]

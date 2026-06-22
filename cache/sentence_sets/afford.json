@@ -4,181 +4,49 @@
     {
       "sentence": "She could not afford to make another error if she hoped to keep her position.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "risk", "closeness": 3, "reasoning": "'Risk' implies a willingness to chance an outcome, but the sentence describes an absolute inability to bear the cost of another error given her precarious position, which is stronger than merely risking it." },
+        { "distractor": "permit", "closeness": 3, "reasoning": "'Permit' implies a deliberate granting of permission, whereas the sentence describes a condition — her position — that rules out the error, not an act of allowing or forbidding." },
+        { "distractor": "tolerate", "closeness": 3, "reasoning": "'Tolerate' implies enduring something unpleasant, but the sentence frames the error as a threat to her position rather than something to be endured; the word needed signals capacity, not patience." },
+        { "distractor": "allow", "closeness": 3, "reasoning": "Close but the sentence is about the external consequences of her situation, not an act of self-authorization; 'allow' puts the focus on volition rather than on the constraints her situation imposes." },
+        { "distractor": "commit", "closeness": 2, "reasoning": "'Commit' would mean 'make' an error, not describe her capacity to bear making one; substituting it changes the sentence's meaning in a way that no longer relates to stakes." },
+        { "distractor": "accept", "closeness": 2, "reasoning": "'Accept' implies receiving or acquiescing to something already given, while the sentence is about whether she can absorb the consequences of a future potential error." },
+        { "distractor": "withstand", "closeness": 2, "reasoning": "'Withstand' implies resisting external force, but the sentence's logic is about consequences of her own action, not external pressure being pushed against her." },
+        { "distractor": "survive", "closeness": 2, "reasoning": "'Survive' is dramatic in a way the sentence is not; the sentence describes losing a position, not a life-threatening situation, and 'afford' is the precise transactional word for bearing a cost." },
+        { "distractor": "celebrate", "closeness": 1, "reasoning": "Opposite in implication — the sentence warns against an error, making 'celebrate' a senseless substitution." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "'Ignore' implies she would look away from the error, not that she lacks the capacity to bear its consequences; semantically incompatible." },
+        { "distractor": "require", "closeness": 1, "reasoning": "Reversing the logic entirely — the sentence says she cannot bear another error, not that she needs one." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to afford before the meeting adjourned.",
+      "sentence": "The general could not afford to lose another regiment; the front line was already stretched dangerously thin.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "risk", "closeness": 3, "reasoning": "The sentence's second clause explains there are no available reserves, establishing a hard limit rather than a gamble; 'risk' implies a chance being taken, whereas the sentence describes a situation where the cost cannot be absorbed at all." },
+        { "distractor": "sacrifice", "closeness": 3, "reasoning": "'Sacrifice' implies a deliberate trade-off for a greater goal, but the sentence treats loss of a regiment as a potential catastrophe, not a strategic choice." },
+        { "distractor": "sustain", "closeness": 3, "reasoning": "'Sustain' can mean to undergo or bear, which is close; but the sentence is about the general's capacity in the context of strategic resources, and 'afford' specifically captures the idea of having enough left to absorb the loss." },
+        { "distractor": "tolerate", "closeness": 3, "reasoning": "'Tolerate' implies enduring something present, but the sentence is about whether the general can absorb a potential future loss given the already-strained front." },
+        { "distractor": "spare", "closeness": 2, "reasoning": "'Spare' implies having extra resources to give up, which partially fits, but it suggests a voluntary release rather than the cost-bearing logic of 'afford.'" },
+        { "distractor": "survive", "closeness": 2, "reasoning": "The sentence focuses on strategic capacity, not physical survival; 'survive' is imprecise for a military resourcing scenario." },
+        { "distractor": "command", "closeness": 2, "reasoning": "'Command' relates to the general's role, not to the logic of absorbing a loss; it changes the sentence's meaning entirely." },
+        { "distractor": "anticipate", "closeness": 2, "reasoning": "The sentence describes the consequences of a potential loss, not the general's foresight about one; 'anticipate' does not fit the cost-bearing logic." },
+        { "distractor": "celebrate", "closeness": 1, "reasoning": "The sentence is about military strain and potential catastrophe; 'celebrate' is completely incompatible." },
+        { "distractor": "acquire", "closeness": 1, "reasoning": "The sentence is about losing forces, not gaining them; 'acquire' inverts the direction of the action." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "'Ignore' implies looking past something, not bearing a consequential cost; it does not fit the strategic stakes described." }
       ]
     },
     {
-      "sentence": "The curator chose to afford the fragile document only after consulting the conservator.",
+      "sentence": "The narrow trail afforded hikers a breathtaking view of the valley below.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "offered", "closeness": 3, "reasoning": "Very close in this context, but 'offered' implies a deliberate act of giving, whereas the sentence uses 'afforded' to describe what the trail incidentally provided by virtue of its position — a feature of the terrain, not a choice." },
+        { "distractor": "provided", "closeness": 3, "reasoning": "'Provided' is nearly synonymous here but carries a connotation of intentional supply, while 'afforded' better captures the passive, structural provision that a physical trail gives." },
+        { "distractor": "granted", "closeness": 3, "reasoning": "'Granted' implies a deliberate bestowal, usually from an authority, while the sentence describes a natural consequence of the trail's geography." },
+        { "distractor": "revealed", "closeness": 3, "reasoning": "'Revealed' implies uncovering something hidden; the sentence emphasizes what the trail made available to see, not the discovery of something concealed." },
+        { "distractor": "promised", "closeness": 2, "reasoning": "'Promised' implies a future commitment, not an immediate provision; the hiker already has the view in this sentence." },
+        { "distractor": "restricted", "closeness": 2, "reasoning": "The sentence attributes a positive provision to the trail; 'restricted' implies limiting something, the opposite function." },
+        { "distractor": "demanded", "closeness": 2, "reasoning": "'Demanded' implies requirement or exaction, not something being given to the hikers." },
+        { "distractor": "obscured", "closeness": 2, "reasoning": "The sentence says the view was breathtaking and available; 'obscured' implies blocking it, the opposite." },
+        { "distractor": "denied", "closeness": 1, "reasoning": "The sentence describes a view being made available, not withheld; 'denied' is directly opposite." },
+        { "distractor": "destroyed", "closeness": 1, "reasoning": "No part of the sentence implies damage; this is clearly wrong." },
+        { "distractor": "avoided", "closeness": 1, "reasoning": "The trail provides the view; 'avoided' implies staying away from it, which contradicts the sentence." }
       ]
     }
   ]

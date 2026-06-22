@@ -1,0 +1,53 @@
+{
+  "word": "buttress",
+  "sentenceSets": [
+    {
+      "sentence": "The lawyers introduced fresh testimony to buttress the case they had built in the opening statement.",
+      "answerChoices": [
+        { "distractor": "strengthen", "closeness": 3, "reasoning": "The act of introducing fresh testimony clearly supports and strengthens the case, but 'buttress' specifically suggests structural reinforcement from the outside — propping up something that might otherwise lean — which 'strengthen' lacks." },
+        { "distractor": "bolster", "closeness": 3, "reasoning": "'Bolster' is very close and commonly used for arguments and cases; the distinction is subtle, but 'buttress' implies adding external structural support to an edifice already standing, whereas 'bolster' implies adding material to lift or prop from underneath." },
+        { "distractor": "reinforce", "closeness": 3, "reasoning": "'Reinforce' is near-synonymous in legal contexts; the distinction is that 'buttress' often implies the original structure needs outside support, while 'reinforce' can mean making it internally stronger." },
+        { "distractor": "supplement", "closeness": 3, "reasoning": "Introducing fresh testimony adds to what was built in the opening — 'supplement' captures addition but suggests merely adding volume rather than actively shoring up a potentially vulnerable argument." },
+        { "distractor": "corroborate", "closeness": 2, "reasoning": "'Corroborate' means to confirm with supporting evidence, which testimony can do, but its subject would be the testimony corroborating claims, not the lawyers using it to buttress a case." },
+        { "distractor": "advance", "closeness": 2, "reasoning": "'Advance' implies pushing forward or progressing; the sentence's emphasis is on reinforcing what was already built, not on moving it forward to new ground." },
+        { "distractor": "recapitulate", "closeness": 2, "reasoning": "The lawyers introduced fresh testimony, not a summary of existing evidence; 'recapitulate' means to repeat or summarize, which contradicts the word 'fresh' in the sentence." },
+        { "distractor": "challenge", "closeness": 2, "reasoning": "'Challenge' implies attacking or questioning the case, the opposite of what the lawyers are doing by introducing supportive testimony." },
+        { "distractor": "undermine", "closeness": 1, "reasoning": "Directly opposite — 'undermine' means to weaken from below; the lawyers are clearly trying to make their case stronger, not weaker." },
+        { "distractor": "abandon", "closeness": 1, "reasoning": "'Abandon' means to give up; lawyers introducing fresh testimony are demonstrably doing the opposite of abandoning their case." },
+        { "distractor": "fabricate", "closeness": 1, "reasoning": "'Fabricate' means to invent or fake; entirely wrong — the sentence describes legitimate legal procedure, not fraud." }
+      ]
+    },
+    {
+      "sentence": "The cathedral's aging south wall required new stone buttresses to prevent it from bowing outward under the weight of the nave roof.",
+      "answerChoices": [
+        { "distractor": "arches", "closeness": 3, "reasoning": "Both arches and buttresses are stone structural elements in cathedral architecture, but arches span openings horizontally while buttresses project outward to counter lateral thrust — the bowing wall specifically needs the outward-bracing function." },
+        { "distractor": "columns", "closeness": 3, "reasoning": "Columns are vertical structural supports found inside a building; the sentence describes an exterior wall bowing under lateral pressure, which requires an external bracing element rather than an internal vertical support." },
+        { "distractor": "abutments", "closeness": 3, "reasoning": "Abutments are supporting structures that resist lateral forces, very similar in function to buttresses; however, 'abutment' typically refers to the structure at the end of a bridge or arch, not a wall-bracing projection." },
+        { "distractor": "piers", "closeness": 3, "reasoning": "Piers are massive vertical supports used in large structures; they can be related to buttresses, but a pier supports from below while a buttress projects outward to resist lateral thrust from a bowing wall." },
+        { "distractor": "braces", "closeness": 2, "reasoning": "'Braces' is a general term for any supporting element; the sentence is describing a specific architectural feature of a cathedral, where the precise technical term 'buttress' matters, and 'braces' suggests temporary or generic framing rather than the permanent stone construction described." },
+        { "distractor": "facades", "closeness": 2, "reasoning": "'Facades' are exterior faces of buildings; adding facades would not address the structural problem of a wall bowing outward under roof weight." },
+        { "distractor": "pylons", "closeness": 2, "reasoning": "Pylons are tower-like structures or gateway supports; they do not solve the problem of a wall bowing laterally outward, so placing them here makes structural sense only loosely." },
+        { "distractor": "beams", "closeness": 2, "reasoning": "'Beams' are horizontal load-bearing members; while they can redistribute weight, the specific problem of a wall bowing outward is not addressed by horizontal beams but by external lateral bracing." },
+        { "distractor": "decorations", "closeness": 1, "reasoning": "The sentence is about preventing structural failure; decorations serve no load-bearing function and are wholly wrong in this engineering context." },
+        { "distractor": "windows", "closeness": 1, "reasoning": "Adding windows to a wall already bowing under weight would reduce, not increase, structural integrity — clearly wrong." },
+        { "distractor": "paintings", "closeness": 1, "reasoning": "Paintings have no structural function; entirely wrong semantic field for a sentence about preventing a cathedral wall from collapsing." }
+      ]
+    },
+    {
+      "sentence": "Facing skeptical colleagues, the researcher cited three independent studies to buttress her unconventional theory about cognitive load.",
+      "answerChoices": [
+        { "distractor": "defend", "closeness": 3, "reasoning": "Facing skeptical colleagues, citing studies does involve defense; but 'defend' suggests warding off attack, while 'buttress' suggests proactively adding structural support to a theory that might otherwise not hold up — the tone is constructive, not merely defensive." },
+        { "distractor": "validate", "closeness": 3, "reasoning": "'Validate' implies confirming correctness through testing or endorsement; 'buttress' is about adding supporting weight to something already proposed, not proving it definitively correct — the skepticism remains." },
+        { "distractor": "support", "closeness": 3, "reasoning": "'Support' is a natural near-synonym here; 'buttress' differs in implying that the theory is like a structure needing external props, while 'support' is more generic and does not carry that image of structural bracing." },
+        { "distractor": "illustrate", "closeness": 3, "reasoning": "Citing studies to illustrate a theory means showing it with examples, but the context of skeptical colleagues suggests the goal is to add weight behind the theory, not merely to demonstrate it." },
+        { "distractor": "popularize", "closeness": 2, "reasoning": "'Popularize' means to make widely known or appealing; the researcher's goal when facing skeptical colleagues is to shore up her theory's credibility, not to increase its popularity." },
+        { "distractor": "introduce", "closeness": 2, "reasoning": "The sentence implies the theory has already been proposed to these colleagues; 'introduce' would mean presenting it for the first time, which contradicts the context of defending an existing 'unconventional theory.'" },
+        { "distractor": "complicate", "closeness": 2, "reasoning": "'Complicate' would mean making the theory more complex, but the researcher is trying to make it more credible in the face of skepticism, not harder to understand." },
+        { "distractor": "dismiss", "closeness": 2, "reasoning": "'Dismiss' means to reject or set aside; the researcher is doing the opposite — she is adding evidence for, not against, her theory." },
+        { "distractor": "abandon", "closeness": 1, "reasoning": "Opposite of what is happening — the researcher is actively citing evidence to support her theory, not giving it up." },
+        { "distractor": "ridicule", "closeness": 1, "reasoning": "'Ridicule' means to mock; the researcher's own theory is what is at stake, and she is hardly going to mock it when facing skeptics." },
+        { "distractor": "plagiarize", "closeness": 1, "reasoning": "Citing three independent studies is legitimate scholarly practice; 'plagiarize' is entirely wrong in both meaning and ethical implication." }
+      ]
+    }
+  ]
+}

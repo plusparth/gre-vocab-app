@@ -1,0 +1,53 @@
+{
+  "word": "genial",
+  "sentenceSets": [
+    {
+      "sentence": "His genial manner put nervous candidates at ease, which made him an exceptionally effective interviewer.",
+      "answerChoices": [
+        { "distractor": "brusque", "closeness": 3, "reasoning": "A brusque manner is curt and abrupt, and while it contrasts with genial, someone brusque could still be effective in interviews—just not by putting candidates at ease." },
+        { "distractor": "affable", "closeness": 3, "reasoning": "Affable means friendly and approachable, nearly synonymous with genial, making it the closest wrong answer since both describe warmth that could calm nervous candidates." },
+        { "distractor": "cordial", "closeness": 3, "reasoning": "Cordial implies polite warmth, very close to genial in meaning, and would similarly put candidates at ease, making it hard to distinguish without knowing the precise nuance." },
+        { "distractor": "amiable", "closeness": 3, "reasoning": "Amiable means friendly and pleasant, nearly interchangeable with genial in most contexts, making it a strong near-synonym that fits the sentence almost as well." },
+        { "distractor": "aloof", "closeness": 2, "reasoning": "An aloof manner keeps others at a distance, which would increase anxiety in candidates rather than easing it, making the interviewer less effective." },
+        { "distractor": "stern", "closeness": 2, "reasoning": "A stern manner signals severity and judgment, which would heighten the nervousness of candidates rather than putting them at ease." },
+        { "distractor": "perfunctory", "closeness": 2, "reasoning": "A perfunctory manner suggests going through motions without genuine interest, which could leave nervous candidates feeling unimportant rather than at ease." },
+        { "distractor": "brisk", "closeness": 2, "reasoning": "A brisk manner moves quickly and without much warmth, which might unsettle rather than calm nervous candidates, reducing effectiveness." },
+        { "distractor": "imperious", "closeness": 1, "reasoning": "An imperious manner conveys domineering authority, which would intimidate nervous candidates rather than calm them, making it antithetical to the sentence's meaning." },
+        { "distractor": "mercurial", "closeness": 1, "reasoning": "A mercurial manner is unpredictable and volatile, which would increase anxiety in candidates who cannot gauge what reaction to expect." },
+        { "distractor": "sardonic", "closeness": 1, "reasoning": "A sardonic manner is grimly mocking, the opposite of reassuring warmth, and would make even confident candidates uncomfortable during an interview." }
+      ]
+    },
+    {
+      "sentence": "The new department head was so genial that even employees who had dreaded the transition found themselves at ease within a week.",
+      "answerChoices": [
+        { "distractor": "affable", "closeness": 3, "reasoning": "Affable describes the same warm, approachable friendliness that would logically ease the transition fears of new employees." },
+        { "distractor": "amiable", "closeness": 3, "reasoning": "Amiable means pleasantly friendly, virtually synonymous here, and would similarly dissolve employee apprehensions about the new leadership." },
+        { "distractor": "congenial", "closeness": 3, "reasoning": "Congenial suggests pleasant agreeableness, very close to genial, and employees would respond the same way to a congenial department head." },
+        { "distractor": "gregarious", "closeness": 2, "reasoning": "Gregarious means sociable and outgoing, which could put people at ease but focuses on enjoying company rather than warmth of character specifically." },
+        { "distractor": "lenient", "closeness": 2, "reasoning": "Lenient means not strict, which might ease employee fears about discipline but does not capture the warmth of character that genial implies." },
+        { "distractor": "approachable", "closeness": 3, "reasoning": "Approachable means easy to deal with and talk to, very close to what a genial leader would be; the distinction is that approachable describes accessibility while genial adds warmth and genuine friendliness of character." },
+        { "distractor": "unassuming", "closeness": 2, "reasoning": "Unassuming implies modesty rather than warmth, and while a modest leader might reduce tension, it captures a different quality than the ease-inducing friendliness of genial." },
+        { "distractor": "erratic", "closeness": 1, "reasoning": "An erratic department head would amplify employee anxiety during a transition rather than calming it, the opposite of what the sentence describes." },
+        { "distractor": "tyrannical", "closeness": 1, "reasoning": "A tyrannical department head would confirm employees' worst fears about the transition rather than dissolving them within a week." },
+        { "distractor": "pedantic", "closeness": 1, "reasoning": "A pedantic department head obsesses over minor details, which would create irritation and stress rather than putting transitioning employees at ease." },
+        { "distractor": "inscrutable", "closeness": 2, "reasoning": "An inscrutable department head whose feelings are hard to read would keep employees on edge, but it is a personality quality unlike the others — a test-taker with some vocabulary might momentarily wonder whether hard-to-read could produce ease, before rejecting it." }
+      ]
+    },
+    {
+      "sentence": "Her genial response to criticism disarmed the panel, which had prepared itself for conflict.",
+      "answerChoices": [
+        { "distractor": "gracious", "closeness": 3, "reasoning": "Gracious means pleasantly kind, nearly synonymous with genial in this context, and would equally disarm a panel braced for antagonism." },
+        { "distractor": "cordial", "closeness": 3, "reasoning": "Cordial implies warm civility, very close to genial, and a cordial response to criticism would similarly neutralize the panel's defensive posture." },
+        { "distractor": "measured", "closeness": 3, "reasoning": "A measured response suggests careful restraint, which could also disarm a panel expecting conflict, though it lacks the warm friendliness genial conveys." },
+        { "distractor": "diplomatic", "closeness": 3, "reasoning": "Diplomatic means tactfully managing a situation to avoid conflict — very close to genial in this context since both can disarm a hostile audience; the distinction is that diplomatic emphasizes strategic tact while genial conveys warm, genuine friendliness." },
+        { "distractor": "placid", "closeness": 2, "reasoning": "Placid means calm and untroubled, which could also surprise a panel expecting anger, but it suggests passivity rather than active warmth." },
+        { "distractor": "noncommittal", "closeness": 2, "reasoning": "A noncommittal response avoids commitment, which might defuse tension differently, but would likely frustrate a panel rather than disarm it through warmth." },
+        { "distractor": "evasive", "closeness": 2, "reasoning": "An evasive response sidesteps criticism rather than addressing it warmly, which might disarm the panel for the wrong reason but misrepresents the quality described." },
+        { "distractor": "combative", "closeness": 1, "reasoning": "A combative response would confirm the panel's expectation of conflict rather than disarming them, directly contradicting the sentence's outcome." },
+        { "distractor": "dismissive", "closeness": 2, "reasoning": "A dismissive response to criticism concerns how criticism is handled — the same domain as genial — but dismissiveness antagonizes rather than disarms, making it wrong on reflection." },
+        { "distractor": "belligerent", "closeness": 1, "reasoning": "A belligerent response would escalate rather than dissolve the anticipated conflict, making the panel's defensive preparation justified." },
+        { "distractor": "contemptuous", "closeness": 1, "reasoning": "A contemptuous response would alienate the panel and likely intensify the conflict they had prepared for rather than surprising them with warmth." }
+      ]
+    }
+  ]
+}

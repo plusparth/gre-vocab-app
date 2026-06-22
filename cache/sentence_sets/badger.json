@@ -4,181 +4,49 @@
     {
       "sentence": "The journalist badgered the spokesperson with the same question in six different forms until she got an answer.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "pestered", "closeness": 3, "reasoning": "Close — the sentence shows persistent repetition of the same question in multiple forms, which 'pestered' covers, but 'badgered' implies a more aggressive, relentless pressure than mere annoyance; the six-form escalation points to something beyond pestering." },
+        { "distractor": "pressed", "closeness": 3, "reasoning": "Close — the journalist's tactic of rephrasing the same question repeatedly is consistent with pressing someone for an answer, but 'pressed' lacks the bullying, combative connotation that 'badgered' carries given the six reformulations." },
+        { "distractor": "hounded", "closeness": 3, "reasoning": "Close — 'hounded' captures sustained pursuit, and the repeated questioning in the sentence supports it, but 'hounded' typically implies following someone over time or place, whereas here the badgering is a single concentrated exchange." },
+        { "distractor": "interrogated", "closeness": 3, "reasoning": "Close — the sentence describes a back-and-forth where the journalist asks the same question repeatedly, which resembles interrogation, but 'interrogated' implies formal or authoritative questioning, not the pestering persistence that 'badgered' conveys." },
+        { "distractor": "accosted", "closeness": 2, "reasoning": "Plausible because the journalist is aggressive, but 'accosted' implies a confrontational approach or ambush rather than sustained question repetition." },
+        { "distractor": "prodded", "closeness": 2, "reasoning": "The sentence shows the journalist applying repetitive pressure, which resembles prodding, but 'prodded' is too gentle and suggests mild encouragement rather than the forceful persistence depicted." },
+        { "distractor": "challenged", "closeness": 2, "reasoning": "'Challenged' suggests disputing the spokesperson's position, but the sentence shows the journalist asking the same question rather than contesting an answer." },
+        { "distractor": "confronted", "closeness": 2, "reasoning": "'Confronted' fits the adversarial tone, but it implies a face-off over a dispute rather than the relentless repetition of a single question shown in the sentence." },
+        { "distractor": "complimented", "closeness": 1, "reasoning": "Opposite in tone — the sentence is about aggressive questioning, not praise." },
+        { "distractor": "assisted", "closeness": 1, "reasoning": "Completely wrong — the journalist was extracting information under pressure, not helping the spokesperson." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Opposite — the journalist was intensely focused on the spokesperson, not ignoring her." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected badger, which altered the course of the committee's deliberations.",
+      "sentence": "The vendor had been badgering shopkeepers on the block for weeks, pressuring each to carry his line of goods exclusively.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "coercing", "closeness": 3, "reasoning": "Close — the vendor is clearly applying pressure, and 'coercing' fits the exclusivity demand, but 'coercing' implies a threat or force that compels compliance, whereas 'badgering' emphasizes harassment through persistent nagging rather than explicit compulsion." },
+        { "distractor": "pestering", "closeness": 3, "reasoning": "Close — weeks of repeated pressure on multiple shopkeepers is consistent with pestering, but 'pestering' downplays the pushy commercial aggression; 'badgering' implies a more bullying, confrontational insistence." },
+        { "distractor": "soliciting", "closeness": 3, "reasoning": "Close — the vendor is approaching shopkeepers to carry his goods, which resembles solicitation, but 'soliciting' is neutral and doesn't capture the harassment quality of weeks of persistent unwanted pressure." },
+        { "distractor": "lobbying", "closeness": 3, "reasoning": "Plausible because the vendor is repeatedly pushing shopkeepers toward a commercial decision, but 'lobbying' suggests a more strategic, persuasive campaign rather than the harassing repetition implied by 'badgering.'" },
+        { "distractor": "cajoling", "closeness": 2, "reasoning": "'Cajoling' involves flattery and gentle persuasion, but the exclusivity demand and weeks-long pressure indicate something more aggressive than sweet-talking." },
+        { "distractor": "intimidating", "closeness": 2, "reasoning": "The context of demanding exclusivity has a threatening undertone, but 'intimidating' suggests instilling fear rather than the nagging, relentless repetition that characterizes 'badgering.'" },
+        { "distractor": "haranguing", "closeness": 2, "reasoning": "'Haranguing' fits an aggressive speech at someone, but it typically describes a single prolonged rant rather than a campaign of repeated visits over weeks." },
+        { "distractor": "approaching", "closeness": 2, "reasoning": "Too neutral — the sentence describes a sustained pattern of unwanted pressure, and 'approaching' captures only the first contact." },
+        { "distractor": "praising", "closeness": 1, "reasoning": "Opposite in intent — praising shopkeepers is the opposite of pressuring them for exclusive contracts." },
+        { "distractor": "avoiding", "closeness": 1, "reasoning": "Contradicted by the sentence, which describes the vendor actively seeking out shopkeepers over weeks." },
+        { "distractor": "compensating", "closeness": 1, "reasoning": "Wrong semantic field — 'compensating' relates to payment or offset, not to aggressive repeated pressure." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the badger to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "Her little brother would badger her every morning to drive him to school even though the bus stopped directly in front of the house.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "beg", "closeness": 3, "reasoning": "Close — asking for a ride every morning resembles begging, but 'beg' implies pleading helplessness, whereas 'badger' conveys persistent, annoying nagging that wears someone down through repetition." },
+        { "distractor": "nag", "closeness": 3, "reasoning": "Very close — repeated daily requests are almost the definition of nagging, but 'badger' implies a more active, relentless assault than 'nag,' which suggests a slower drip of irritation." },
+        { "distractor": "implore", "closeness": 3, "reasoning": "Close — 'implore' involves earnest, repeated requests, which the sentence supports, but it carries an emotional urgency or desperation that the brother's daily routine pestering does not." },
+        { "distractor": "pester", "closeness": 3, "reasoning": "Very close — persistent daily requests despite a convenient alternative matches 'pester,' but 'pester' is slightly lighter than 'badger'; the daily recurrence and the availability of the bus emphasize that the nagging is more aggressive than simple pestering." },
+        { "distractor": "remind", "closeness": 2, "reasoning": "'Remind' implies prompting someone of something forgotten, but the sister clearly knows the option exists; the brother's behavior is about pressure, not memory." },
+        { "distractor": "persuade", "closeness": 2, "reasoning": "'Persuade' implies giving reasons that change someone's mind; here the brother's tactic is repetition, not argumentation." },
+        { "distractor": "force", "closeness": 2, "reasoning": "The brother cannot actually compel his sister, so 'force' overstates his power; 'badger' describes a softer but persistent form of pressure." },
+        { "distractor": "ask", "closeness": 2, "reasoning": "Too mild — the sentence emphasizes the daily recurrence and the existence of a bus, implying more than a simple ask; 'badger' captures the annoying persistence." },
+        { "distractor": "forbid", "closeness": 1, "reasoning": "Opposite direction — the brother is seeking something from his sister, not prohibiting her from doing anything." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Contradicted by the sentence — the brother engages his sister every morning rather than ignoring her." },
+        { "distractor": "lecture", "closeness": 1, "reasoning": "Wrong semantic field — 'lecture' implies giving a moral lesson, not repeatedly requesting a ride." }
       ]
     }
   ]

@@ -4,181 +4,49 @@
     {
       "sentence": "The movement attracted adherents from across the political spectrum, united only by distrust of institutions.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "followers", "closeness": 3, "reasoning": "Followers is close but more passive, suggesting people who merely go along; adherents implies a committed, principled alignment with the movement's beliefs." },
+        { "distractor": "supporters", "closeness": 3, "reasoning": "Supporters can be instrumental or tactical, while adherents specifically implies personal ideological commitment and identification with the cause." },
+        { "distractor": "advocates", "closeness": 3, "reasoning": "Advocates implies actively arguing for a cause in public, a more vocal role than adherent, which merely denotes belief and membership." },
+        { "distractor": "devotees", "closeness": 3, "reasoning": "Devotees implies intense personal enthusiasm or even religious fervor, which is slightly stronger than the principled commitment adherent denotes." },
+        { "distractor": "allies", "closeness": 2, "reasoning": "Allies describes a strategic alignment between parties but does not imply shared beliefs or personal commitment to a cause's values, as adherent does." },
+        { "distractor": "participants", "closeness": 2, "reasoning": "Participants describes involvement in activities rather than subscription to the movement's ideology, which is what adherent captures." },
+        { "distractor": "observers", "closeness": 2, "reasoning": "Observers watch from the outside without commitment, which is the opposite of the active subscription that adherent implies." },
+        { "distractor": "recruits", "closeness": 2, "reasoning": "Recruits are newly enlisted members and does not speak to the established, committed belief that adherent requires." },
+        { "distractor": "detractors", "closeness": 1, "reasoning": "Detractors criticize and oppose a cause, making this a near antonym of adherent." },
+        { "distractor": "critics", "closeness": 1, "reasoning": "Critics are actively opposed, the direct opposite of the supportive subscription implied by adherent." },
+        { "distractor": "deserters", "closeness": 1, "reasoning": "Deserters have abandoned a cause, which is the opposite of the committed loyalty that adherent describes." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected adherent, which altered the course of the committee's deliberations.",
+      "sentence": "An adherent of classical economics, she resisted every proposal to expand government intervention in the market.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "proponent", "closeness": 3, "reasoning": "Proponent implies actively proposing or championing a position, which is more outwardly active than adherent, which can describe a private, principled belief." },
+        { "distractor": "practitioner", "closeness": 3, "reasoning": "Practitioner describes one who applies a discipline in practice; adherent stresses ideological commitment rather than professional application." },
+        { "distractor": "champion", "closeness": 3, "reasoning": "Champion implies vigorous public defense of a cause, going beyond adherent's sense of personal subscription to a doctrine." },
+        { "distractor": "disciple", "closeness": 3, "reasoning": "Disciple implies a personal teacher-student relationship and deep deference to a specific thinker, while adherent describes commitment to a system of ideas more broadly." },
+        { "distractor": "student", "closeness": 2, "reasoning": "Student describes someone learning a discipline, not necessarily someone who has adopted it as a personal ideology, which adherent requires." },
+        { "distractor": "enthusiast", "closeness": 2, "reasoning": "Enthusiast implies passion and excitement but not the principled ideological commitment or membership that adherent denotes." },
+        { "distractor": "skeptic", "closeness": 2, "reasoning": "Skeptic implies doubt and questioning, almost the opposite of the committed belief that adherent conveys." },
+        { "distractor": "theorist", "closeness": 2, "reasoning": "Theorist builds or analyzes theories; adherent adopts and follows an existing doctrine without necessarily contributing to its development." },
+        { "distractor": "opponent", "closeness": 1, "reasoning": "Opponent actively resists the ideas in question, which is the antonym of adherent's subscription to them." },
+        { "distractor": "reformer", "closeness": 1, "reasoning": "Reformer seeks to change or challenge a doctrine, whereas an adherent preserves and follows it." },
+        { "distractor": "agnostic", "closeness": 1, "reasoning": "Agnostic in this context would mean having no commitment to the ideology, which is the opposite of what adherent means." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the adherent to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "The sect's adherents wore plain clothing as a visible mark of their rejection of material vanity.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "members", "closeness": 3, "reasoning": "Members describes formal belonging to a group but lacks the emphasis on ideological commitment and personal belief that adherent carries." },
+        { "distractor": "believers", "closeness": 3, "reasoning": "Believers is very close but tends to describe religious conviction specifically; adherent applies to any doctrine, philosophical or political." },
+        { "distractor": "converts", "closeness": 3, "reasoning": "Converts emphasizes the change from one belief to another and implies recent adoption, while adherent describes ongoing, stable commitment." },
+        { "distractor": "worshippers", "closeness": 3, "reasoning": "Worshippers implies ritualistic veneration appropriate to religion and is more emotionally intense than the ideological commitment that adherent denotes." },
+        { "distractor": "initiates", "closeness": 2, "reasoning": "Initiates are newly admitted members undergoing induction, which is more specific and preliminary than the established commitment of an adherent." },
+        { "distractor": "volunteers", "closeness": 2, "reasoning": "Volunteers describes people giving time or effort to a cause but does not imply subscription to its beliefs, which is central to adherent." },
+        { "distractor": "residents", "closeness": 2, "reasoning": "Residents describes physical location rather than ideological commitment, making it a poor substitute for adherent." },
+        { "distractor": "sympathizers", "closeness": 2, "reasoning": "Sympathizers feel general goodwill toward a cause without necessarily committing to it as adherents do." },
+        { "distractor": "apostates", "closeness": 1, "reasoning": "Apostates have abandoned their former faith or doctrine, making this a near antonym of adherent." },
+        { "distractor": "critics", "closeness": 1, "reasoning": "Critics oppose the ideas in question, the direct opposite of an adherent who commits to them." },
+        { "distractor": "outsiders", "closeness": 1, "reasoning": "Outsiders have no membership in or commitment to the group, which is the opposite of what adherent denotes." }
       ]
     }
   ]

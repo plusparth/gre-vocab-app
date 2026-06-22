@@ -4,181 +4,49 @@
     {
       "sentence": "The coach admonished the team for its lack of discipline during the first half.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "reprimanded", "closeness": 3, "reasoning": "Reprimand implies a more formal official rebuke, often as part of an institutional disciplinary process, while admonish can be a firm but still corrective-spirited warning." },
+        { "distractor": "rebuked", "closeness": 3, "reasoning": "Rebuke suggests a sharper, more emotionally charged condemnation than admonish, which retains an element of guidance toward better behavior." },
+        { "distractor": "chided", "closeness": 3, "reasoning": "Chided is very close but tends to be milder and more personal; admonish carries greater gravity and often implies a clear statement of expected conduct." },
+        { "distractor": "warned", "closeness": 3, "reasoning": "Warned emphasizes alerting someone to a future danger, while admonish combines correction of past behavior with guidance for the future." },
+        { "distractor": "criticized", "closeness": 2, "reasoning": "Criticized focuses on negative judgment without the corrective intent and element of moral guidance that admonish contains." },
+        { "distractor": "lectured", "closeness": 2, "reasoning": "Lectured implies a long-winded monologue and can be informal or dismissive; admonish implies a purposeful, authoritative statement of duty or correction." },
+        { "distractor": "punished", "closeness": 2, "reasoning": "Punished describes a penalty imposed for wrongdoing, whereas admonish is verbal and corrective without necessarily involving a formal sanction." },
+        { "distractor": "encouraged", "closeness": 2, "reasoning": "Encouraged is almost the opposite in tone: it motivates positively, while admonish corrects and warns against continuing a behavior." },
+        { "distractor": "applauded", "closeness": 1, "reasoning": "Applauded means to express approval and praise, the direct opposite of admonish's corrective purpose." },
+        { "distractor": "excused", "closeness": 1, "reasoning": "Excused means to forgive or overlook the behavior, which is contrary to admonish's act of pointing it out and directing change." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "Celebrated means to honor the team's actions, which is the antonym of admonishing them for poor conduct." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to admonish before the meeting adjourned.",
+      "sentence": "The professor paused to admonish a student who had been whispering during the lecture, then resumed without missing a beat.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "scold", "closeness": 3, "reasoning": "Scold suggests an emotional, possibly petulant rebuke; admonish implies a calm, authoritative reminder of proper conduct and expected standards." },
+        { "distractor": "remind", "closeness": 3, "reasoning": "Remind suggests a neutral prompt about something overlooked, whereas admonish carries a corrective and slightly reproving tone that remind lacks." },
+        { "distractor": "address", "closeness": 3, "reasoning": "Address simply means to speak to someone and carries no corrective implication, making it a weak substitute for admonish in this context." },
+        { "distractor": "instruct", "closeness": 3, "reasoning": "Instruct focuses on imparting knowledge or skill, while admonish is specifically about correcting behavior and indicating a duty to comply." },
+        { "distractor": "interrupt", "closeness": 2, "reasoning": "Interrupt describes breaking the flow of an activity but says nothing about the corrective or admonishing content of what was said." },
+        { "distractor": "silence", "closeness": 2, "reasoning": "Silence describes the act of stopping the noise but not the verbal corrective message that admonish specifically delivers." },
+        { "distractor": "humiliate", "closeness": 2, "reasoning": "Humiliate implies deliberately causing shame beyond correction, which is more severe and punitive than admonish's guidance-oriented correction." },
+        { "distractor": "ignore", "closeness": 2, "reasoning": "Ignore means to do nothing about the behavior, which is the opposite of the deliberate corrective action that admonish involves." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Praise means to commend the student positively, which is the antonym of the corrective intent of admonish." },
+        { "distractor": "dismiss", "closeness": 1, "reasoning": "Dismiss means to send someone away or disregard the issue, not to correct behavior as admonish does." },
+        { "distractor": "reward", "closeness": 1, "reasoning": "Reward means to give something good in response to behavior, the opposite of admonish's corrective response to misbehavior." }
       ]
     },
     {
-      "sentence": "The curator chose to admonish the fragile document only after consulting the conservator.",
+      "sentence": "Parents are often advised to admonish children for dangerous behavior firmly but without resorting to anger.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "correct", "closeness": 3, "reasoning": "Correct is close in meaning but more neutral; admonish specifically implies a verbal, authoritative communication of duty or expected standard, not just pointing out an error." },
+        { "distractor": "caution", "closeness": 3, "reasoning": "Caution focuses on alerting to risk ahead of time, while admonish responds to behavior already observed and points toward what should be done instead." },
+        { "distractor": "discipline", "closeness": 3, "reasoning": "Discipline can include physical or structural consequences, while admonish is specifically a verbal act of correction and guidance." },
+        { "distractor": "counsel", "closeness": 3, "reasoning": "Counsel implies neutral advice-giving rather than the corrective, mildly reproving tone that admonish carries." },
+        { "distractor": "confront", "closeness": 2, "reasoning": "Confront implies a direct, possibly hostile face-to-face challenge rather than the measured, corrective reminder that admonish describes." },
+        { "distractor": "threaten", "closeness": 2, "reasoning": "Threaten involves stating a consequence to compel compliance, which is more coercive and less guidance-oriented than admonish." },
+        { "distractor": "negotiate", "closeness": 2, "reasoning": "Negotiate implies mutual give-and-take, whereas admonish involves an authority figure unilaterally communicating expected behavior." },
+        { "distractor": "shame", "closeness": 2, "reasoning": "Shame deliberately causes a feeling of embarrassment or unworthiness, which is more damaging in intent than the corrective act of admonishing." },
+        { "distractor": "coddle", "closeness": 1, "reasoning": "Coddle means to protect or indulge excessively, the opposite of admonish's firm correction of harmful behavior." },
+        { "distractor": "permit", "closeness": 1, "reasoning": "Permit means to allow the behavior to continue, the opposite of admonish's function of discouraging it." },
+        { "distractor": "applaud", "closeness": 1, "reasoning": "Applaud means to express approval of the behavior, which is the antonym of admonish." }
       ]
     }
   ]

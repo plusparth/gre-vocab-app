@@ -4,181 +4,49 @@
     {
       "sentence": "His antediluvian attitudes toward gender roles astonished colleagues half his age.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "archaic", "closeness": 3, "reasoning": "Archaic describes language or practices from an earlier period, but lacks the specific connotation of ideas so old they belong before recorded civilization — antediluvian emphasizes the shocking, almost prehistoric quality of his attitudes." },
+        { "distractor": "retrograde", "closeness": 3, "reasoning": "Retrograde implies a reversal or regression, which fits a backward-moving mindset, but it suggests movement in the wrong direction rather than simply being fossilized in time." },
+        { "distractor": "antiquated", "closeness": 3, "reasoning": "Antiquated correctly conveys being outdated and obsolete, but it applies more neutrally to objects and systems; antediluvian carries extra rhetorical force when describing a person's mindset." },
+        { "distractor": "anachronistic", "closeness": 3, "reasoning": "Anachronistic means out of its proper time and fits the context well, but it is more descriptive of placement in time rather than the deeply primitive, prehistoric quality antediluvian implies." },
+        { "distractor": "conservative", "closeness": 2, "reasoning": "Conservative describes a preference for tradition but does not suggest that the attitudes belong to a vanished era; it is too politically neutral for this context." },
+        { "distractor": "outmoded", "closeness": 2, "reasoning": "Outmoded captures being no longer in fashion, but it is a weaker, less evocative term that misses the hyperbolic ancient-world flavor of antediluvian." },
+        { "distractor": "stodgy", "closeness": 2, "reasoning": "Stodgy suggests dull resistance to change rather than extreme chronological displacement, making it too mild for the astonishing reaction the sentence describes." },
+        { "distractor": "traditional", "closeness": 2, "reasoning": "Traditional implies respect for inherited practices without any negative connotation, so it fails to capture the disapproval implicit in astonishing colleagues." },
+        { "distractor": "progressive", "closeness": 1, "reasoning": "Progressive is the near-opposite of antediluvian; it would mean his attitudes were forward-looking, contradicting the astonishment of younger colleagues." },
+        { "distractor": "enlightened", "closeness": 1, "reasoning": "Enlightened implies broad-minded, modern thinking, which is the exact opposite of what the sentence describes." },
+        { "distractor": "contemporary", "closeness": 1, "reasoning": "Contemporary means belonging to the present, directly contradicting the sense that his attitudes are from a prehistoric past." }
       ]
     },
     {
-      "sentence": "Her antediluvian response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The antediluvian plumbing system required complete replacement before the building could pass a modern safety inspection.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "decrepit", "closeness": 3, "reasoning": "Decrepit captures age-related deterioration of the plumbing, but it focuses on physical ruin rather than the temporal sense of belonging to an ancient, pre-modern era." },
+        { "distractor": "obsolete", "closeness": 3, "reasoning": "Obsolete correctly means no longer usable, but antediluvian adds a vivid prehistoric quality that goes beyond mere obsolescence." },
+        { "distractor": "antiquated", "closeness": 3, "reasoning": "Antiquated fits well here as a near-synonym meaning outdated and discarded, but antediluvian is more hyperbolic and emphatic about the extreme age implied." },
+        { "distractor": "dilapidated", "closeness": 3, "reasoning": "Dilapidated focuses on fallen-apart physical condition, which applies to the plumbing, but misses the temporal dimension — antediluvian is about age, not just disrepair." },
+        { "distractor": "outdated", "closeness": 2, "reasoning": "Outdated is correct in general meaning but far too bland and casual for the level of emphasis antediluvian lends to a sentence about a safety inspection failure." },
+        { "distractor": "worn", "closeness": 2, "reasoning": "Worn describes surface deterioration through use and does not convey the sense of extreme historical age that antediluvian implies." },
+        { "distractor": "aging", "closeness": 2, "reasoning": "Aging implies a process still underway, whereas antediluvian suggests the system has already surpassed any reasonable lifespan and belongs to a forgotten era." },
+        { "distractor": "faulty", "closeness": 2, "reasoning": "Faulty refers to defectiveness without implying age, missing the core meaning of antediluvian entirely." },
+        { "distractor": "modern", "closeness": 1, "reasoning": "Modern directly contradicts antediluvian; if the plumbing were modern, it would not need replacement to meet current standards." },
+        { "distractor": "innovative", "closeness": 1, "reasoning": "Innovative implies cutting-edge design, the opposite of an ancient, failing system." },
+        { "distractor": "functional", "closeness": 1, "reasoning": "Functional means working properly, which is incompatible with a system requiring complete replacement." }
       ]
     },
     {
-      "sentence": "The curator's antediluvian arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "Critics dismissed the senator's antediluvian economic policies as relics of a pre-industrial worldview.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "regressive", "closeness": 3, "reasoning": "Regressive suggests moving backward and fits the critical framing, but antediluvian implies the policies are so old they predate modern civilization entirely, which is stronger." },
+        { "distractor": "fossilized", "closeness": 3, "reasoning": "Fossilized metaphorically conveys ideas hardened and preserved from a distant past, making it a close competitor, but it is more informal and less standard on the GRE." },
+        { "distractor": "archaic", "closeness": 3, "reasoning": "Archaic means from an earlier period and nearly fits, but antediluvian is more extreme and carries a satirical, hyperbolic tone well-suited to political criticism." },
+        { "distractor": "orthodox", "closeness": 3, "reasoning": "Orthodox means conforming to established doctrine, which could describe conservative economic views, but it lacks the temporal and extreme-age dimension of antediluvian." },
+        { "distractor": "stale", "closeness": 2, "reasoning": "Stale suggests ideas that have lost freshness but does not convey the sense that they belong to a civilization long since buried." },
+        { "distractor": "reactionary", "closeness": 2, "reasoning": "Reactionary describes opposition to progress but focuses on political stance, not the extreme antiquity that antediluvian emphasizes." },
+        { "distractor": "conventional", "closeness": 2, "reasoning": "Conventional implies mainstream rather than radical or ancient, diluting the critics' forceful dismissal." },
+        { "distractor": "misguided", "closeness": 2, "reasoning": "Misguided focuses on being wrong in direction rather than outdated in era, missing the temporal critique central to the sentence." },
+        { "distractor": "visionary", "closeness": 1, "reasoning": "Visionary means ahead of the times, directly contradicting the critics' claim that the policies are from a pre-industrial era." },
+        { "distractor": "pragmatic", "closeness": 1, "reasoning": "Pragmatic means practically effective, which is at odds with policies described as relics." },
+        { "distractor": "forward-thinking", "closeness": 1, "reasoning": "Forward-thinking is the antonym of antediluvian in this context, implying the policies look to the future rather than a forgotten past." }
       ]
     }
   ]

@@ -4,181 +4,49 @@
     {
       "sentence": "Few politicians are as articulate as she is on technical subjects; her explanations make complexity accessible.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "eloquent", "closeness": 3, "reasoning": "Eloquent emphasizes beauty and persuasion in speech, not necessarily clarity on technical content; this sentence rewards clarity over rhetorical flourish." },
+        { "distractor": "fluent", "closeness": 3, "reasoning": "Fluent describes smoothness or ease of speech, not the clear organization of ideas that makes complexity accessible." },
+        { "distractor": "expressive", "closeness": 3, "reasoning": "Expressive conveys emotion or personality rather than the precise, structured clarity that technical explanation requires." },
+        { "distractor": "lucid", "closeness": 3, "reasoning": "Lucid fits the idea of clarity but is an adjective typically applied to the content itself rather than to the person communicating." },
+        { "distractor": "verbose", "closeness": 2, "reasoning": "Verbose relates to speaking at length, which can be a feature of technical explanation, but it carries a negative connotation of excess rather than effectiveness." },
+        { "distractor": "persuasive", "closeness": 2, "reasoning": "Persuasive focuses on winning agreement, while the sentence highlights the ability to clarify rather than to convince." },
+        { "distractor": "informed", "closeness": 2, "reasoning": "Informed describes having knowledge, but the sentence praises how that knowledge is communicated, not merely its possession." },
+        { "distractor": "confident", "closeness": 2, "reasoning": "Confidence in delivery is not the same as the organized, clear expression the sentence prizes." },
+        { "distractor": "reticent", "closeness": 1, "reasoning": "Reticent means reluctant to speak, which contradicts the sense of someone who communicates well on technical subjects." },
+        { "distractor": "inarticulate", "closeness": 1, "reasoning": "Inarticulate is the direct antonym, making this a clearly wrong choice." },
+        { "distractor": "vague", "closeness": 1, "reasoning": "Vague contradicts the sentence's emphasis on making complexity accessible through clear expression." }
       ]
     },
     {
-      "sentence": "Her articulate response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The defense attorney was so articulate in her closing argument that the jury leaned forward in their seats.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "eloquent", "closeness": 3, "reasoning": "Eloquent fits a courtroom setting but emphasizes rhetorical beauty rather than the precise, organized expression that defines articulate." },
+        { "distractor": "commanding", "closeness": 3, "reasoning": "Commanding conveys authority and presence but does not capture the precise verbal expression the sentence emphasizes." },
+        { "distractor": "persuasive", "closeness": 3, "reasoning": "Persuasive addresses intent to convince, but the jury's physical lean forward suggests they were captivated by clarity of expression, not merely argument." },
+        { "distractor": "compelling", "closeness": 3, "reasoning": "Compelling describes an effect similar to articulate in this context but is broader and does not specifically target verbal precision." },
+        { "distractor": "impassioned", "closeness": 2, "reasoning": "Impassioned suggests emotional delivery, which may draw in a jury but is distinct from the structured verbal clarity articulate implies." },
+        { "distractor": "assertive", "closeness": 2, "reasoning": "Assertive focuses on confidence and directness rather than clear verbal expression of ideas." },
+        { "distractor": "formidable", "closeness": 2, "reasoning": "Formidable describes overall impressiveness or strength, not specifically the quality of verbal expression." },
+        { "distractor": "measured", "closeness": 2, "reasoning": "Measured implies careful pacing but does not encompass the full range of clear, effective verbal expression." },
+        { "distractor": "hesitant", "closeness": 1, "reasoning": "Hesitant implies uncertainty in speech, the opposite of the captivating clarity described." },
+        { "distractor": "monotonous", "closeness": 1, "reasoning": "Monotonous suggests dull, flat delivery, which would not cause jurors to lean forward attentively." },
+        { "distractor": "rambling", "closeness": 1, "reasoning": "Rambling implies disorganized speech, directly contradicting what articulate means." }
       ]
     },
     {
-      "sentence": "The curator's articulate arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "Even as a child, he was remarkably articulate, raising questions at dinner that left adults groping for answers.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "precocious", "closeness": 3, "reasoning": "Precocious describes being unusually advanced for one's age broadly, while articulate specifically highlights clear verbal expression of ideas." },
+        { "distractor": "eloquent", "closeness": 3, "reasoning": "Eloquent skews toward polished adult rhetoric rather than the clear, organized questioning of a child." },
+        { "distractor": "inquisitive", "closeness": 3, "reasoning": "Inquisitive captures the questioning behavior but not the verbal clarity with which those questions were expressed." },
+        { "distractor": "insightful", "closeness": 3, "reasoning": "Insightful describes the depth of perception, not the skill of verbal expression that the sentence attributes to him." },
+        { "distractor": "perceptive", "closeness": 2, "reasoning": "Perceptive relates to noticing and understanding things rather than to expressing oneself clearly and effectively." },
+        { "distractor": "clever", "closeness": 2, "reasoning": "Clever suggests general mental sharpness but does not specifically capture verbal facility." },
+        { "distractor": "thoughtful", "closeness": 2, "reasoning": "Thoughtful implies careful consideration rather than the skilled verbal delivery the sentence highlights." },
+        { "distractor": "earnest", "closeness": 2, "reasoning": "Earnest describes sincerity of intent, not the quality of verbal expression." },
+        { "distractor": "timid", "closeness": 1, "reasoning": "Timid implies reluctance to speak, contradicting the image of a child confidently raising complex questions." },
+        { "distractor": "taciturn", "closeness": 1, "reasoning": "Taciturn means habitually silent, directly opposing the verbal confidence described." },
+        { "distractor": "naive", "closeness": 1, "reasoning": "Naive suggests lack of sophistication, contrary to the impressive verbal ability described in the sentence." }
       ]
     }
   ]

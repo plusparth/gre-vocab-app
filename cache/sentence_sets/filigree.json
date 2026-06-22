@@ -1,0 +1,53 @@
+{
+  "word": "filigree",
+  "sentenceSets": [
+    {
+      "sentence": "The silverwork was extraordinary, its filigree so fine that magnification revealed patterns invisible to the naked eye.",
+      "answerChoices": [
+        { "distractor": "engraving", "closeness": 3, "reasoning": "Engraving is also a decorative technique applied to metal surfaces, and like filigree it creates intricate patterns, but it carves into the material rather than building up wire designs on top of it." },
+        { "distractor": "tracery", "closeness": 3, "reasoning": "Tracery refers to delicate interlaced patterns, especially in stonework or openwork, and shares the sense of fine decorative detail, but it is not specifically wire applied to metal surfaces." },
+        { "distractor": "inlay", "closeness": 3, "reasoning": "Inlay is an ornamental technique in which material is set into a surface, which shares the decorative metalwork context, but the method of application differs fundamentally from the wire construction of filigree." },
+        { "distractor": "embossing", "closeness": 3, "reasoning": "Embossing creates raised patterns on metal by pressing from below, which produces fine surface texture similar in visual delicacy, but it does not involve applied wire and is a different process entirely." },
+        { "distractor": "scrollwork", "closeness": 2, "reasoning": "Scrollwork denotes ornamental patterns of spiral curves and is often associated with metalwork and woodwork, but it describes the overall design motif rather than a specific wire-application technique." },
+        { "distractor": "lattice", "closeness": 2, "reasoning": "Lattice refers to an openwork framework of crossed strips, which shares the sense of intricate intersecting structure, but it is a structural rather than ornamental term and does not specifically describe fine metalwork." },
+        { "distractor": "patina", "closeness": 2, "reasoning": "Patina refers to the surface finish or coloration of aged metal, which fits the silverwork context, but it describes a surface quality rather than ornamental work applied to a surface." },
+        { "distractor": "ornamentation", "closeness": 2, "reasoning": "Ornamentation is a broad category term for decorative elements, which overlaps in meaning but is far too general to convey the specific technique and material of fine wire decorative work." },
+        { "distractor": "texture", "closeness": 1, "reasoning": "Texture describes the tactile quality of a surface rather than any specific ornamental technique, making it too vague and non-technical for this context describing extraordinary decorative craft." },
+        { "distractor": "craftsmanship", "closeness": 1, "reasoning": "Craftsmanship refers to skill in making things and could describe the silverwork as a whole, but it is an abstract quality rather than a concrete decorative element visible under magnification." },
+        { "distractor": "gilding", "closeness": 1, "reasoning": "Gilding means applying a thin gold layer to a surface, which is a different metalworking process entirely and implies a different material and purpose than the delicate wire patterning of filigree." }
+      ]
+    },
+    {
+      "sentence": "The antique brooch was a masterpiece of filigree, its gold wire twisted into vines and blossoms no thicker than a human hair.",
+      "answerChoices": [
+        { "distractor": "inlay", "closeness": 3, "reasoning": "Inlay similarly describes a decorative technique applied to jewelry and precious objects, and both produce elaborate surface detail, but inlay involves embedding material into a surface rather than constructing wire structures above it." },
+        { "distractor": "tracery", "closeness": 3, "reasoning": "Tracery evokes fine interlaced ornamental patterning that could describe the vine-and-blossom design, but it typically refers to stonework in Gothic architecture rather than wire jewelry construction." },
+        { "distractor": "cloisonné", "closeness": 3, "reasoning": "Cloisonné is also an ornamental metalworking technique involving metal wire partitions filled with enamel, making it close in craft and materials to filigree, but the process and appearance differ significantly." },
+        { "distractor": "chasing", "closeness": 3, "reasoning": "Chasing is a metalworking technique that creates surface patterns by indenting rather than adding wire, and is used in fine jewelry, making it contextually plausible but technically distinct." },
+        { "distractor": "etching", "closeness": 2, "reasoning": "Etching creates fine decorative patterns on metal through acid, which could produce similarly delicate results visible in a brooch, but it removes material rather than building wire forms atop a surface." },
+        { "distractor": "weaving", "closeness": 2, "reasoning": "Weaving shares the concept of interlacing thin strands into complex patterns and even applies to some textile-like metalwork, but it is not a standard jewelry-making technique and suggests textile rather than goldsmithing." },
+        { "distractor": "lacework", "closeness": 2, "reasoning": "Lacework describes intricate openwork patterning like that of actual lace, and the vine-and-blossom imagery strongly echoes lace designs, but it refers to textile craft and not wire metalwork." },
+        { "distractor": "embroidery", "closeness": 2, "reasoning": "Embroidery involves fine thread worked into intricate patterns, and the hairlike thinness of the wire could evoke thread, but it is a textile technique applied to fabric rather than metal." },
+        { "distractor": "hammering", "closeness": 1, "reasoning": "Hammering is a basic metalworking process used to shape metal and bears no resemblance to the delicate decorative wire art described; it suggests roughness rather than fine ornamental detail." },
+        { "distractor": "soldering", "closeness": 1, "reasoning": "Soldering is a joining technique used in metalwork including filigree production, but it describes a construction method rather than a decorative style and would not describe the finished brooch itself." },
+        { "distractor": "polishing", "closeness": 1, "reasoning": "Polishing is a surface-finishing step that follows metalworking and could apply to any brooch, but it describes a surface treatment rather than an intricate ornamental structure made of wire." }
+      ]
+    },
+    {
+      "sentence": "Critics praised the novelist's prose as filigree—ornate and delicate, yes, but also precise in the way that only painstaking craft produces.",
+      "answerChoices": [
+        { "distractor": "lacework", "closeness": 3, "reasoning": "Lacework similarly suggests delicate, intricate, handcrafted patterning and is often applied metaphorically to writing, making it a close competitor in this figurative usage, but it lacks the specific wire-and-metal connotation filigree carries." },
+        { "distractor": "tracery", "closeness": 3, "reasoning": "Tracery suggests fine interlaced ornamental lines and can be applied figuratively to writing with similar effect, but it more specifically evokes architectural stonework rather than the precious metalwork precision implied here." },
+        { "distractor": "arabesque", "closeness": 3, "reasoning": "Arabesque denotes intricate interlaced patterns of plants and geometric forms and is commonly used to describe ornate literary or musical style, making it a plausible metaphor in this critical praise." },
+        { "distractor": "embellishment", "closeness": 3, "reasoning": "Embellishment suggests ornamental additions to writing, and the sentence acknowledges ornate delicacy, but it tends to imply excess or superficiality rather than the precision and craft the sentence emphasizes." },
+        { "distractor": "tapestry", "closeness": 2, "reasoning": "Tapestry is commonly used metaphorically to describe richly interwoven literary narrative, but it suggests broad, multi-threaded complexity rather than the delicate precision and fine scale associated with filigree." },
+        { "distractor": "mosaic", "closeness": 2, "reasoning": "Mosaic is a common metaphor for writing assembled from many precise pieces, but it implies assembly of distinct fragments rather than the continuous, hairlike delicacy of wire ornament." },
+        { "distractor": "flourish", "closeness": 2, "reasoning": "Flourish can describe an ornate stylistic gesture in writing, which fits the ornate-and-delicate description, but it typically denotes a single showy gesture rather than overall precision of craft." },
+        { "distractor": "ornamentation", "closeness": 2, "reasoning": "Ornamentation captures the ornate side of the description but is too general and abstract to carry the metaphor's meaning of precise, fine, painstaking craft construction." },
+        { "distractor": "verbosity", "closeness": 1, "reasoning": "Verbosity means excessive wordiness and is entirely negative, whereas the sentence frames the prose as crafted and precise, making this an implausible fit for the critical praise described." },
+        { "distractor": "clarity", "closeness": 1, "reasoning": "Clarity is nearly the opposite of ornate and elaborate, and while the sentence mentions precision, describing the prose as clarity would contradict the ornate-and-delicate characterization the metaphor is meant to convey." },
+        { "distractor": "simplicity", "closeness": 1, "reasoning": "Simplicity directly contradicts the ornate, delicate quality the sentence praises, and no context in the sentence supports choosing a word that implies spareness or minimalism." }
+      ]
+    }
+  ]
+}

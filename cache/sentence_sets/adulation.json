@@ -4,181 +4,49 @@
     {
       "sentence": "The crowd's adulation clearly overwhelmed the young athlete, who burst into tears on the podium.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "veneration", "closeness": 3, "reasoning": "Veneration implies deep reverence and respect, which is close to adulation, but a crowd's response at a podium is more likely excessive enthusiasm than the solemn reverence veneration conveys." },
+        { "distractor": "adoration", "closeness": 3, "reasoning": "Adoration is nearly synonymous and captures the intense, loving admiration of a crowd, though it does not quite emphasize the potentially overwhelming or excessive quality that adulation implies." },
+        { "distractor": "acclaim", "closeness": 3, "reasoning": "Acclaim fits the public-recognition context and describes enthusiastic praise from a crowd, but adulation adds an edge of excess or even sycophancy not present in the more neutral acclaim." },
+        { "distractor": "praise", "closeness": 3, "reasoning": "Praise describes favorable words from the crowd but lacks the intensity and overwhelmingness that adulation conveys in causing the athlete to burst into tears." },
+        { "distractor": "applause", "closeness": 2, "reasoning": "Applause describes the physical act of clapping and represents only one form of crowd appreciation; adulation encompasses the entire overwhelming wave of admiration the athlete experienced." },
+        { "distractor": "recognition", "closeness": 2, "reasoning": "Recognition describes acknowledgment of achievement but is too mild and cognitive to explain the emotional overwhelm that adulation describes in this sentence." },
+        { "distractor": "support", "closeness": 2, "reasoning": "Support implies backing and encouragement but lacks the intensity and emotional force of adulation that could cause a person to break down on the podium." },
+        { "distractor": "attention", "closeness": 2, "reasoning": "Attention is too neutral to capture the overwhelmingly positive and intense admiration that adulation conveys as the cause of the athlete's emotional response." },
+        { "distractor": "criticism", "closeness": 1, "reasoning": "Criticism implies negative evaluation, which is the opposite of the excessive admiration and flattery that adulation describes." },
+        { "distractor": "indifference", "closeness": 1, "reasoning": "Indifference implies a lack of emotional response from the crowd, directly contradicting the overwhelming outpouring of feeling that adulation implies." },
+        { "distractor": "hostility", "closeness": 1, "reasoning": "Hostility implies antagonism from the crowd, which is antithetical to the admiration and warmth that adulation conveys." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected adulation, which altered the course of the committee's deliberations.",
+      "sentence": "He grew uncomfortable with the adulation his memoir received, feeling he had not earned such effusive praise.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "flattery", "closeness": 3, "reasoning": "Flattery captures the excessive, possibly insincere praise dimension of adulation but implies a more interpersonal, manipulative act rather than genuine audience enthusiasm for a memoir." },
+        { "distractor": "reverence", "closeness": 3, "reasoning": "Reverence describes deep respect close to adulation, but the author's discomfort stems from the over-the-top nature of the praise, which adulation captures and reverence does not." },
+        { "distractor": "glorification", "closeness": 3, "reasoning": "Glorification implies elevating someone to an exalted status, which aligns with adulation's sense of excess, though glorification focuses more on the act of elevating than on the expression of admiration." },
+        { "distractor": "celebration", "closeness": 3, "reasoning": "Celebration fits public appreciation of a memoir, but adulation implies the praise felt excessive to the author, a quality of excessiveness that celebration alone does not capture." },
+        { "distractor": "popularity", "closeness": 2, "reasoning": "Popularity describes wide appeal but lacks the overwhelming, excessive admiration that makes adulation feel unearned to the author in this sentence." },
+        { "distractor": "approval", "closeness": 2, "reasoning": "Approval is too mild and transactional to explain the discomfort felt; adulation implies praise so intense it goes beyond what the author believes the work merits." },
+        { "distractor": "interest", "closeness": 2, "reasoning": "Interest describes audience engagement but does not convey the excessive praise and admiration that adulation implies as the source of the author's discomfort." },
+        { "distractor": "commentary", "closeness": 2, "reasoning": "Commentary describes critical or analytical writing about the memoir and does not capture the overwhelmingly positive, effusive nature of adulation." },
+        { "distractor": "skepticism", "closeness": 1, "reasoning": "Skepticism implies doubt about the memoir's value, which is the opposite of the excessive praise and admiration that adulation describes." },
+        { "distractor": "ridicule", "closeness": 1, "reasoning": "Ridicule involves mocking the author, which is antithetical to the effusive admiration that adulation conveys as the source of his discomfort." },
+        { "distractor": "dismissal", "closeness": 1, "reasoning": "Dismissal implies the memoir was ignored or rejected, directly contradicting the excessive positive response that adulation describes." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the adulation to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "The dictator surrounded himself with sycophants whose adulation obscured the reality of his failing policies.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "fawning", "closeness": 3, "reasoning": "Fawning describes the cringing, obsequious behavior of the sycophants and is extremely close to adulation in this political context, though fawning describes the manner while adulation names the excessive praise itself." },
+        { "distractor": "deference", "closeness": 3, "reasoning": "Deference implies yielding respectfully to someone's authority, which fits the sycophants' behavior, but adulation specifically involves excessive praise rather than mere deference to rank." },
+        { "distractor": "loyalty", "closeness": 3, "reasoning": "Loyalty describes commitment to the dictator, which fits the sycophantic context, but adulation focuses on the excessive admiration and flattery that distorted his perception of reality." },
+        { "distractor": "obsequiousness", "closeness": 3, "reasoning": "Obsequiousness is nearly synonymous with the sycophantic behavior described, but as a noun it describes the manner of excessive compliance rather than the specific content of excessive praise that adulation names." },
+        { "distractor": "agreement", "closeness": 2, "reasoning": "Agreement describes consensus but does not capture the excessive, flattering quality of praise that adulation implies as the thing obscuring political reality." },
+        { "distractor": "support", "closeness": 2, "reasoning": "Support implies backing the dictator's policies but lacks the excessive, truth-distorting flattery that adulation conveys as the mechanism concealing his failures." },
+        { "distractor": "rhetoric", "closeness": 2, "reasoning": "Rhetoric describes persuasive language but does not specifically name the personal praise and admiration directed at the dictator that adulation implies." },
+        { "distractor": "propaganda", "closeness": 2, "reasoning": "Propaganda describes deliberate manipulation of public opinion and overlaps with adulation's distorting function, but propaganda is broader and not necessarily directed at praising a specific leader." },
+        { "distractor": "opposition", "closeness": 1, "reasoning": "Opposition implies resistance to the dictator's rule, which is the opposite of the excessive admiration and flattery that adulation describes." },
+        { "distractor": "criticism", "closeness": 1, "reasoning": "Criticism implies negative judgment of the dictator, which is antithetical to the sycophantic admiration that adulation conveys." },
+        { "distractor": "rebellion", "closeness": 1, "reasoning": "Rebellion implies active resistance against the dictator, directly contradicting the excessive praise and flattery that adulation describes among his inner circle." }
       ]
     }
   ]

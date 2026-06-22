@@ -4,181 +4,49 @@
     {
       "sentence": "The anthology gathered poems from fifty countries, offering a rare cross-cultural view of grief.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "compilation", "closeness": 3, "reasoning": "Compilation correctly means a gathered collection but lacks the editorial selectivity implied by anthology, where works are chosen for literary quality rather than mere aggregation." },
+        { "distractor": "compendium", "closeness": 3, "reasoning": "Compendium suggests a comprehensive summary rather than a curated selection of complete works, which is what anthology specifically denotes." },
+        { "distractor": "collection", "closeness": 3, "reasoning": "Collection is the broadest near-synonym and grammatically fits, but anthology carries the specific implication of selected literary or artistic pieces, making it more precise." },
+        { "distractor": "corpus", "closeness": 3, "reasoning": "Corpus refers to all works by an author or in a field rather than a curated subset from many contributors, so it does not fit the 'fifty countries' diversity implied." },
+        { "distractor": "catalogue", "closeness": 2, "reasoning": "Catalogue implies a systematic list rather than a literary gathering intended to be read as a cohesive volume, missing the aesthetic purpose of an anthology." },
+        { "distractor": "archive", "closeness": 2, "reasoning": "Archive emphasizes preservation and storage, not the curated, reader-facing selection that an anthology represents." },
+        { "distractor": "survey", "closeness": 2, "reasoning": "Survey implies a broad overview or study rather than a collection of complete, standalone literary pieces meant to be savored." },
+        { "distractor": "digest", "closeness": 2, "reasoning": "Digest suggests condensed or summarized content rather than complete, individually selected works, which is the hallmark of an anthology." },
+        { "distractor": "manuscript", "closeness": 1, "reasoning": "Manuscript refers to a single handwritten or unpublished document, not a collection from multiple contributors across many countries." },
+        { "distractor": "monograph", "closeness": 1, "reasoning": "Monograph is a detailed scholarly study of a single subject by usually one author, the opposite structural form of a many-contributor anthology." },
+        { "distractor": "biography", "closeness": 1, "reasoning": "Biography narrates a person's life, having nothing to do with the multi-author, multi-national literary selection described in the sentence." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected anthology, which altered the course of the committee's deliberations.",
+      "sentence": "Her professor assigned a hefty anthology of modernist short fiction to acquaint students with the movement's range.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "compendium", "closeness": 3, "reasoning": "Compendium implies a condensed summary of knowledge; an anthology of short fiction presents complete stories, not summaries, so the distinction matters pedagogically." },
+        { "distractor": "reader", "closeness": 3, "reasoning": "Reader is a common academic synonym for anthology, and grammatically fits, but it is an informal instructional term rather than the standard literary term used in the sentence." },
+        { "distractor": "compilation", "closeness": 3, "reasoning": "Compilation is close but suggests mechanical assembly rather than the editorial judgment that distinguishes a literary anthology." },
+        { "distractor": "omnibus", "closeness": 3, "reasoning": "Omnibus refers to a single-volume collection, often of one author's works, so it implies less editorial curation across multiple authors than anthology does." },
+        { "distractor": "textbook", "closeness": 2, "reasoning": "Textbook suggests instructional prose and exercises rather than curated literary works; the sentence focuses on fiction, not pedagogical explanation." },
+        { "distractor": "syllabus", "closeness": 2, "reasoning": "Syllabus is a course outline listing assignments, not a physical book of literary selections that can be described as hefty." },
+        { "distractor": "manual", "closeness": 2, "reasoning": "Manual implies procedural instruction rather than a literary selection designed to expose students to artistic range." },
+        { "distractor": "journal", "closeness": 2, "reasoning": "Journal refers to a periodical publication, not a bound collection of curated works assigned as a single reading unit." },
+        { "distractor": "pamphlet", "closeness": 1, "reasoning": "Pamphlet is a short, thin document, incompatible with the word hefty and with the breadth implied by a movement's range." },
+        { "distractor": "treatise", "closeness": 1, "reasoning": "Treatise is a formal, systematic essay on a single topic, not a multi-author literary collection." },
+        { "distractor": "glossary", "closeness": 1, "reasoning": "Glossary is a list of term definitions, wholly unrelated to curated short fiction." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the anthology to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "The editor spent three years selecting pieces for the anthology, ultimately rejecting twice as many as she included.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "collection", "closeness": 3, "reasoning": "Collection fits structurally but understates the rigorous editorial curation the sentence explicitly describes through the rejection ratio." },
+        { "distractor": "compendium", "closeness": 3, "reasoning": "Compendium implies exhaustive coverage of a subject rather than a selection shaped by aesthetic judgment, which is central to this sentence." },
+        { "distractor": "compilation", "closeness": 3, "reasoning": "Compilation suggests gathering rather than the selective, evaluative process the sentence foregrounds with the detail of pieces rejected." },
+        { "distractor": "portfolio", "closeness": 3, "reasoning": "Portfolio typically refers to a single person's own work, whereas an anthology draws curated pieces from multiple authors." },
+        { "distractor": "archive", "closeness": 2, "reasoning": "Archive implies preserving everything rather than discriminating between included and rejected works; the opposite of the selective process described." },
+        { "distractor": "catalogue", "closeness": 2, "reasoning": "Catalogue lists items systematically without the literary curation implied by spending three years selecting and rejecting pieces." },
+        { "distractor": "index", "closeness": 2, "reasoning": "Index is a reference tool listing locations of topics, not a curated literary volume built through editorial choice." },
+        { "distractor": "report", "closeness": 2, "reasoning": "Report implies informational or factual content, unrelated to the literary selection process described." },
+        { "distractor": "dictionary", "closeness": 1, "reasoning": "Dictionary defines words alphabetically and has no connection to selecting literary pieces." },
+        { "distractor": "novel", "closeness": 1, "reasoning": "Novel is a single sustained narrative, incompatible with selecting and rejecting individual pieces from multiple sources." },
+        { "distractor": "transcript", "closeness": 1, "reasoning": "Transcript is a verbatim record of spoken or written material, not a curated literary publication assembled over years of editorial work." }
       ]
     }
   ]

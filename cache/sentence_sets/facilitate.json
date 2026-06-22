@@ -1,0 +1,53 @@
+{
+  "word": "facilitate",
+  "sentenceSets": [
+    {
+      "sentence": "The mediator's role was to facilitate agreement, not to impose a solution of her own.",
+      "answerChoices": [
+        { "distractor": "broker", "closeness": 3, "reasoning": "To broker agreement also means to help bring it about, but brokering implies active deal-making rather than the neutral enabling process that facilitate suggests." },
+        { "distractor": "enable", "closeness": 3, "reasoning": "To enable agreement is very close to facilitate, but enable implies simply making something possible rather than actively making the process easier." },
+        { "distractor": "foster", "closeness": 3, "reasoning": "To foster agreement implies nurturing it over time, whereas facilitate focuses on removing obstacles and smoothing the process in the moment." },
+        { "distractor": "expedite", "closeness": 3, "reasoning": "To expedite agreement means to speed it up, which overlaps with facilitate but emphasizes acceleration rather than the overall easing of the process." },
+        { "distractor": "dictate", "closeness": 2, "reasoning": "To dictate agreement would be the very thing the sentence says the mediator was not doing—imposing rather than facilitating." },
+        { "distractor": "negotiate", "closeness": 2, "reasoning": "To negotiate agreement involves direct bargaining on one's own behalf, unlike the neutral facilitative role described in the sentence." },
+        { "distractor": "enforce", "closeness": 2, "reasoning": "To enforce agreement implies compulsion and authority, which contrasts with the non-imposing facilitative role the mediator holds." },
+        { "distractor": "undermine", "closeness": 2, "reasoning": "To undermine agreement would sabotage rather than smooth the process, the opposite of what facilitate means." },
+        { "distractor": "arbitrate", "closeness": 1, "reasoning": "To arbitrate agreement implies issuing a binding decision, which directly contradicts the mediator's non-imposing role described alongside facilitate." },
+        { "distractor": "supplant", "closeness": 1, "reasoning": "To supplant agreement would mean replacing it with something else, bearing no meaningful resemblance to facilitate's sense of making it easier to reach." },
+        { "distractor": "obscure", "closeness": 1, "reasoning": "To obscure agreement would make it harder to achieve, the opposite of what facilitate means in this mediating context." }
+      ]
+    },
+    {
+      "sentence": "New infrastructure was needed to facilitate the movement of goods between the inland factories and the coastal ports.",
+      "answerChoices": [
+        { "distractor": "streamline", "closeness": 3, "reasoning": "To streamline the movement means to make it more efficient, which is close to facilitate but implies eliminating redundancy specifically rather than generally making it easier." },
+        { "distractor": "support", "closeness": 3, "reasoning": "To support the movement is broader and vaguer than facilitate, which specifically implies making a process easier through active enablement." },
+        { "distractor": "accelerate", "closeness": 3, "reasoning": "To accelerate the movement focuses on speed, whereas facilitate focuses on removing obstacles to make the whole process easier, not just faster." },
+        { "distractor": "coordinate", "closeness": 3, "reasoning": "To coordinate the movement implies organizing its various elements together, which overlaps with facilitate but emphasizes synchronization over ease." },
+        { "distractor": "obstruct", "closeness": 2, "reasoning": "To obstruct the movement would block or impede it, the opposite of what facilitate means in this logistical context." },
+        { "distractor": "replace", "closeness": 2, "reasoning": "To replace the movement would substitute it with something else entirely, unrelated to facilitate's sense of making it easier." },
+        { "distractor": "monitor", "closeness": 2, "reasoning": "To monitor the movement means to watch and track it without necessarily making it easier, unlike what facilitate implies." },
+        { "distractor": "restrict", "closeness": 2, "reasoning": "To restrict the movement would limit it, the opposite of the ease and enablement that facilitate conveys." },
+        { "distractor": "quantify", "closeness": 1, "reasoning": "To quantify the movement means to measure it numerically, a function entirely different from facilitate's role in making processes easier." },
+        { "distractor": "commemorate", "closeness": 1, "reasoning": "To commemorate the movement would honor it as a historical event, having nothing to do with facilitate's practical, enabling sense." },
+        { "distractor": "legislate", "closeness": 1, "reasoning": "To legislate the movement would create laws around it, a much more specific and formal action than what facilitate implies." }
+      ]
+    },
+    {
+      "sentence": "The software update was designed to facilitate collaboration among team members working across different time zones.",
+      "answerChoices": [
+        { "distractor": "enhance", "closeness": 3, "reasoning": "To enhance collaboration means to improve it, which is related to facilitate but implies making something already working better, not simply making it easier to occur." },
+        { "distractor": "encourage", "closeness": 3, "reasoning": "To encourage collaboration motivates people toward it, whereas facilitate focuses on removing practical barriers rather than providing incentive." },
+        { "distractor": "systematize", "closeness": 3, "reasoning": "To systematize collaboration introduces a structured method, which overlaps with facilitate but emphasizes organization over the general easing of the process." },
+        { "distractor": "promote", "closeness": 3, "reasoning": "To promote collaboration means to advocate for or publicize it, which is different from facilitate's sense of making it practically easier to achieve." },
+        { "distractor": "simulate", "closeness": 2, "reasoning": "To simulate collaboration would create an artificial version of it rather than making the real thing easier, unlike what facilitate implies." },
+        { "distractor": "mandate", "closeness": 2, "reasoning": "To mandate collaboration would require it by rule, which is a very different mechanism from the enabling function that facilitate describes." },
+        { "distractor": "evaluate", "closeness": 2, "reasoning": "To evaluate collaboration means to assess its quality, not to make it easier—a purpose unrelated to what facilitate conveys in this technical context." },
+        { "distractor": "document", "closeness": 2, "reasoning": "To document collaboration means to record it rather than to make it easier, a function distinct from what facilitate implies." },
+        { "distractor": "supplant", "closeness": 1, "reasoning": "To supplant collaboration would replace it with something else, bearing no resemblance to the enabling meaning of facilitate." },
+        { "distractor": "lament", "closeness": 1, "reasoning": "To lament collaboration would express grief about it, an emotional response wholly unrelated to the practical enabling sense of facilitate." },
+        { "distractor": "litigate", "closeness": 1, "reasoning": "To litigate collaboration would pursue it through legal action, having no meaningful connection to facilitate's sense of making something easier." }
+      ]
+    }
+  ]
+}

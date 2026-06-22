@@ -4,181 +4,49 @@
     {
       "sentence": "He emerged from the meeting completely befuddled, unable to explain what had just been decided.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "confused", "closeness": 3, "reasoning": "Confused is a close synonym but lacks befuddled's emphasis on deep, stupefying perplexity that leaves someone wholly at a loss." },
+        { "distractor": "bewildered", "closeness": 3, "reasoning": "Bewildered implies being lost or disoriented, but befuddled more strongly suggests the mental cloudiness of someone whose thinking has been muddled." },
+        { "distractor": "perplexed", "closeness": 3, "reasoning": "Perplexed implies puzzlement that may eventually resolve, whereas befuddled implies a more complete mental muddle that impairs coherent thought." },
+        { "distractor": "disoriented", "closeness": 3, "reasoning": "Disoriented refers to losing one's sense of direction or context, while befuddled stresses cognitive clouding that prevents clear understanding." },
+        { "distractor": "distracted", "closeness": 2, "reasoning": "Distracted implies attention drawn elsewhere, not the utter perplexity and mental clouding that befuddled describes." },
+        { "distractor": "exhausted", "closeness": 2, "reasoning": "Exhausted implies physical or mental fatigue rather than the specific state of deep puzzlement and confusion that befuddled conveys." },
+        { "distractor": "alarmed", "closeness": 2, "reasoning": "Alarmed implies fear or urgency, whereas befuddled describes a cognitive state of muddled confusion without emotional alarm." },
+        { "distractor": "frustrated", "closeness": 2, "reasoning": "Frustrated implies blocked from a goal, while befuddled focuses on the cognitive impairment of deep confusion rather than emotional exasperation." },
+        { "distractor": "informed", "closeness": 1, "reasoning": "Informed implies clarity and knowledge, the direct opposite of the ignorant confusion that befuddled describes." },
+        { "distractor": "decisive", "closeness": 1, "reasoning": "Decisive implies clear-headed certainty, the antithesis of the muddled state of perplexity that befuddled conveys." },
+        { "distractor": "enlightened", "closeness": 1, "reasoning": "Enlightened implies gaining clear understanding, directly opposed to the stupefied confusion that befuddled describes." }
       ]
     },
     {
-      "sentence": "Her befuddled response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The ancient legal text left even experienced scholars befuddled, its archaic terminology defying any straightforward interpretation.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "stumped", "closeness": 3, "reasoning": "Stumped implies encountering a problem that resists solution, but befuddled more fully captures the cognitive cloudiness and deep perplexity produced by the text." },
+        { "distractor": "puzzled", "closeness": 3, "reasoning": "Puzzled implies mild uncertainty rather than the deep, stupefying confusion that befuddled suggests in this context." },
+        { "distractor": "frustrated", "closeness": 3, "reasoning": "Frustrated implies emotional exasperation at being blocked, whereas befuddled focuses on cognitive muddling that makes clear thinking impossible." },
+        { "distractor": "intrigued", "closeness": 3, "reasoning": "Intrigued implies curious interest, a positive response entirely different from the negative cognitive muddle that befuddled describes." },
+        { "distractor": "bored", "closeness": 2, "reasoning": "Bored implies indifference and lack of engagement, not the active, stupefying confusion that befuddled describes." },
+        { "distractor": "enlightened", "closeness": 2, "reasoning": "Enlightened implies gaining insight and understanding, the direct opposite of the muddled perplexity that befuddled conveys." },
+        { "distractor": "impressed", "closeness": 2, "reasoning": "Impressed implies admiration or respect, an entirely different response from the befuddled confusion the archaic text produces." },
+        { "distractor": "dismayed", "closeness": 2, "reasoning": "Dismayed implies distress or disappointment, an emotional response rather than the cognitive cloudiness that befuddled specifically describes." },
+        { "distractor": "enlightened", "closeness": 1, "reasoning": "Enlightened implies clear comprehension, the direct antonym of the deep confusion and mental cloudiness that befuddled describes." },
+        { "distractor": "informed", "closeness": 1, "reasoning": "Informed implies possessing clear knowledge, the opposite state from the muddled perplexity that befuddled conveys." },
+        { "distractor": "decisive", "closeness": 1, "reasoning": "Decisive implies clear-headed resolution, incompatible with the stupefied, muddled state that befuddled describes." }
       ]
     },
     {
-      "sentence": "The curator's befuddled arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "After three rounds of contradictory instructions, the assembly crew stood befuddled beside the unfinished furniture, unsure which direction to proceed.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "frustrated", "closeness": 3, "reasoning": "Frustrated emphasizes emotional vexation at obstacles, while befuddled focuses on cognitive muddling that leaves one genuinely unable to understand how to proceed." },
+        { "distractor": "immobilized", "closeness": 3, "reasoning": "Immobilized describes the inability to act but not the specific mental cloudiness and deep perplexity that causes it in this case." },
+        { "distractor": "suspicious", "closeness": 3, "reasoning": "Suspicious implies distrust of the instructions rather than the cognitive confusion about what they actually require, which is what befuddled conveys." },
+        { "distractor": "hesitant", "closeness": 3, "reasoning": "Hesitant implies reluctance or caution rather than the complete cognitive muddling that befuddled describes after contradictory information." },
+        { "distractor": "bored", "closeness": 2, "reasoning": "Bored implies indifference to the task, not the active puzzlement and confusion that befuddled conveys in this assembly context." },
+        { "distractor": "annoyed", "closeness": 2, "reasoning": "Annoyed is an emotional state, whereas befuddled specifically describes a cognitive state of profound confusion about how to proceed." },
+        { "distractor": "motivated", "closeness": 2, "reasoning": "Motivated implies energized purpose, the opposite of the helpless, muddled state that befuddled describes after contradictory instructions." },
+        { "distractor": "alarmed", "closeness": 2, "reasoning": "Alarmed implies fear of danger, whereas befuddled describes cognitive perplexity about an unclear task rather than alarm at any threat." },
+        { "distractor": "confident", "closeness": 1, "reasoning": "Confident implies clear certainty about how to proceed, directly opposed to the stupefied confusion that befuddled describes." },
+        { "distractor": "energized", "closeness": 1, "reasoning": "Energized implies vigorous purposefulness, the antithesis of the muddled standstill that befuddled describes." },
+        { "distractor": "focused", "closeness": 1, "reasoning": "Focused implies clear-headed concentration, the direct opposite of the cognitive cloudiness and confusion that befuddled conveys." }
       ]
     }
   ]

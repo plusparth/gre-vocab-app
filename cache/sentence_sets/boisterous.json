@@ -4,181 +4,49 @@
     {
       "sentence": "The boisterous crowd made it impossible to hold a conversation anywhere near the stage.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "raucous", "closeness": 3, "reasoning": "Very close — 'raucous' also means disagreeably loud and noisy, but it emphasizes harsh, grating sound quality, while 'boisterous' emphasizes the turbulent, rowdy energy of the crowd's behavior as a whole." },
+        { "distractor": "rowdy", "closeness": 3, "reasoning": "Close — 'rowdy' shares the sense of disorderly loudness, but it emphasizes rough, disruptive behavior more than the spirited, energetic noise quality that 'boisterous' conveys." },
+        { "distractor": "tumultuous", "closeness": 3, "reasoning": "Close — 'tumultuous' implies a state of confusion and uproar, but it can refer to chaotic events broadly, whereas 'boisterous' specifically describes noisy, energetic human activity." },
+        { "distractor": "clamorous", "closeness": 3, "reasoning": "Close — 'clamorous' means loudly insistent or noisy, which would prevent conversation, but it emphasizes persistent demanding noise rather than the turbulent, high-spirited energy of 'boisterous.'" },
+        { "distractor": "unruly", "closeness": 2, "reasoning": "'Unruly' emphasizes lack of discipline and refusal to follow rules, not necessarily volume; a crowd can be unruly through silent non-compliance, making it imprecise here." },
+        { "distractor": "frenzied", "closeness": 2, "reasoning": "'Frenzied' implies near-hysterical excitement; the sentence suggests persistent loud energy near the stage, not necessarily the wild, frantic quality that 'frenzied' implies." },
+        { "distractor": "enthusiastic", "closeness": 2, "reasoning": "'Enthusiastic' is positive and controlled; the sentence implies the noise level was disruptive to conversation, which enthusiasm alone would not explain." },
+        { "distractor": "animated", "closeness": 2, "reasoning": "'Animated' means lively and expressive but does not necessarily imply disruptive noise; the sentence requires the crowd's noise to prevent conversation." },
+        { "distractor": "serene", "closeness": 1, "reasoning": "'Serene' means calm and peaceful; the complete opposite of what would make conversation impossible near a stage." },
+        { "distractor": "sparse", "closeness": 1, "reasoning": "'Sparse' describes low density or number; a thin crowd would likely enable conversation rather than prevent it." },
+        { "distractor": "passive", "closeness": 1, "reasoning": "'Passive' means inactive or accepting; a passive crowd would pose no barrier to conversation and directly contradicts the sentence's scenario." }
       ]
     },
     {
-      "sentence": "Her boisterous response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The boisterous children raced through the museum halls, prompting stern looks from a docent who expected hushed reverence.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "exuberant", "closeness": 3, "reasoning": "Close — 'exuberant' children who race through halls would draw similar reproach, but 'exuberant' emphasizes overflowing enthusiasm, while 'boisterous' stresses the noise and physical turbulence that clashes with the museum's expected quiet." },
+        { "distractor": "rambunctious", "closeness": 3, "reasoning": "Close — 'rambunctious' means uncontrollably exuberant and boisterous, essentially a near-synonym; the two words are nearly interchangeable in this childhood-activity context." },
+        { "distractor": "disruptive", "closeness": 3, "reasoning": "Close — 'disruptive' captures the effect on the museum environment, but it is evaluative rather than descriptive; 'boisterous' characterizes the quality of the children's energy rather than just its impact." },
+        { "distractor": "mischievous", "closeness": 3, "reasoning": "Close — mischievous children could also cause a docent's stern look, but 'mischievous' implies sly or naughty intent rather than simply loud, physical high spirits." },
+        { "distractor": "energetic", "closeness": 2, "reasoning": "'Energetic' is a neutral, positive descriptor; it would not necessarily draw stern looks without the noisy, rowdy dimension that 'boisterous' adds." },
+        { "distractor": "curious", "closeness": 2, "reasoning": "Curious children might explore a museum but quietly; the docent's stern reaction is specifically prompted by noise and disorder, not mere curiosity." },
+        { "distractor": "defiant", "closeness": 2, "reasoning": "'Defiant' implies deliberate refusal to comply with authority; 'boisterous' children are energetically oblivious to decorum rather than intentionally resistant." },
+        { "distractor": "imaginative", "closeness": 2, "reasoning": "'Imaginative' relates to creativity and fantasy; no amount of imagination explains running through halls or provoking a docent's disapproval." },
+        { "distractor": "timid", "closeness": 1, "reasoning": "'Timid' means shy and fearful; timid children would be unlikely to race through halls and would not provoke a docent's concern." },
+        { "distractor": "solemn", "closeness": 1, "reasoning": "'Solemn' means grave and dignified; solemn children would fit perfectly with the docent's expectation of hushed reverence, the opposite of what provoked the stern look." },
+        { "distractor": "studious", "closeness": 1, "reasoning": "'Studious' means diligently attentive to learning; studious children touring a museum would please rather than irritate the docent." }
       ]
     },
     {
-      "sentence": "The curator's boisterous arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "What had started as a quiet faculty meeting turned boisterous when the dean announced that three departments would be merged.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "contentious", "closeness": 3, "reasoning": "Close — a merger announcement could easily produce contentious argument, but 'contentious' describes a state of disagreement, whereas 'boisterous' specifies the noisy, turbulent energy through which that disagreement was expressed." },
+        { "distractor": "heated", "closeness": 3, "reasoning": "Close — 'heated' describes intense, passionate debate, which the merger news would likely produce; but 'boisterous' adds the dimension of loud, turbulent noise that 'heated' does not necessarily imply." },
+        { "distractor": "chaotic", "closeness": 3, "reasoning": "Close — chaos implies disorder without clear structure, which could result from simultaneous reactions to the merger news; 'boisterous' is more specifically about noise and rowdy energy than about organizational breakdown." },
+        { "distractor": "volatile", "closeness": 3, "reasoning": "Close — 'volatile' describes something liable to sudden, explosive change in mood, which fits the transformation from quiet to uproar; 'boisterous' describes the actual noisy state that resulted, not the unpredictability of the transition." },
+        { "distractor": "tense", "closeness": 2, "reasoning": "'Tense' implies anxiety and suppressed emotion; the sentence describes the meeting actually erupting into noise, not remaining tightly wound and silent." },
+        { "distractor": "productive", "closeness": 2, "reasoning": "'Productive' means achieving useful results; the shift from quiet to loud disorder following a contentious announcement does not suggest productivity." },
+        { "distractor": "formal", "closeness": 2, "reasoning": "'Formal' means adhering to protocol and decorum; the sentence describes a departure from the quiet decorum with which the meeting began, the opposite direction." },
+        { "distractor": "fractious", "closeness": 2, "reasoning": "'Fractious' means irritable and prone to quarreling; it is possible but emphasizes internal divisions rather than the outwardly loud, turbulent quality of 'boisterous.'" },
+        { "distractor": "placid", "closeness": 1, "reasoning": "'Placid' means calm and undisturbed; the sentence explicitly contrasts the meeting's original quiet with what it became after the announcement, making 'placid' the opposite of the intended meaning." },
+        { "distractor": "conclusive", "closeness": 1, "reasoning": "'Conclusive' means settling the matter definitively; a meeting erupting in noise after a controversial announcement is far from conclusive." },
+        { "distractor": "perfunctory", "closeness": 1, "reasoning": "'Perfunctory' means going through the motions without care; an explosive reaction to a merger announcement is the opposite of a routine, perfunctory response." }
       ]
     }
   ]

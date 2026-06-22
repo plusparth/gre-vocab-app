@@ -1,0 +1,53 @@
+{
+  "word": "germane",
+  "sentenceSets": [
+    {
+      "sentence": "The anecdote was entertaining but not germane, and the chair gently redirected the speaker.",
+      "answerChoices": [
+        { "distractor": "pertinent", "closeness": 3, "reasoning": "Pertinent means directly relevant, a near-synonym of germane, and would equally explain why the chair had to redirect the speaker who strayed from topic." },
+        { "distractor": "relevant", "closeness": 3, "reasoning": "Relevant describes direct applicability to the subject at hand, virtually interchangeable with germane in this context, making the chair's redirection equally logical." },
+        { "distractor": "apposite", "closeness": 3, "reasoning": "Apposite means strikingly appropriate to the occasion, a close synonym of germane, and the absence of it would similarly justify the chair's intervention." },
+        { "distractor": "coherent", "closeness": 2, "reasoning": "Coherent means logically connected and clear, which overlaps with germane but addresses logical structure rather than topical relevance; a coherent anecdote could still be off-topic." },
+        { "distractor": "substantive", "closeness": 3, "reasoning": "Substantive means having real depth or importance — close to germane in that both describe a quality a chair would want in an anecdote; the distinction is that substantive addresses depth and significance, while germane specifically means topically relevant to the discussion at hand." },
+        { "distractor": "concise", "closeness": 2, "reasoning": "Concise means brief and to the point in expression, which the chair might also have wanted, but an anecdote can be concise yet irrelevant, missing the on-topic meaning of germane." },
+        { "distractor": "accurate", "closeness": 2, "reasoning": "Accurate means factually correct, which could matter in a meeting, but an accurate anecdote can still be off-topic, failing to capture the relevance that germane implies." },
+        { "distractor": "eloquent", "closeness": 1, "reasoning": "Eloquent describes impressive verbal expression, entirely unrelated to topical relevance; an eloquent anecdote can be just as off-topic as an inarticulate one." },
+        { "distractor": "humorous", "closeness": 2, "reasoning": "Humorous describes comedic quality, which the sentence already acknowledges with 'entertaining,' but the chair's reason for redirecting was topical relevance, not humor." },
+        { "distractor": "memorable", "closeness": 1, "reasoning": "Memorable describes an anecdote's staying power, which has no bearing on whether it relates to the subject being discussed." },
+        { "distractor": "authentic", "closeness": 1, "reasoning": "Authentic means genuine or real, which is irrelevant to whether an anecdote belongs in a given discussion, and its absence would not typically prompt a chair to redirect." }
+      ]
+    },
+    {
+      "sentence": "The judge dismissed evidence that, however dramatic, was not germane to the charges before the court.",
+      "answerChoices": [
+        { "distractor": "admissible", "closeness": 3, "reasoning": "Admissible is a legal near-synonym for relevant evidence that may be introduced, and its absence would equally explain the judge's dismissal of the dramatic but inapplicable evidence." },
+        { "distractor": "pertinent", "closeness": 3, "reasoning": "Pertinent means directly applicable, nearly identical to germane, and evidence that was not pertinent to the charges would be dismissed for the same reason." },
+        { "distractor": "applicable", "closeness": 3, "reasoning": "Applicable means relevant to the case at hand, very close to germane in legal contexts, and non-applicable evidence would warrant dismissal regardless of its drama." },
+        { "distractor": "conclusive", "closeness": 2, "reasoning": "Conclusive means definitively proving something, which matters in law, but even conclusive evidence can be dismissed if it addresses charges not before the court." },
+        { "distractor": "credible", "closeness": 2, "reasoning": "Credible means believable and trustworthy, which affects how evidence is weighed, but credibility is distinct from relevance—incredible evidence can still be germane." },
+        { "distractor": "corroborating", "closeness": 2, "reasoning": "Corroborating means supporting other evidence, which has evidentiary value, but corroborating evidence can still be excluded if it concerns matters outside the current charges." },
+        { "distractor": "compelling", "closeness": 3, "reasoning": "Compelling describes persuasive force — a quality that might seem like what makes evidence worth admitting, close to the relevance that germane requires; the distinction is that compelling addresses persuasiveness, while germane addresses whether evidence applies to the specific charges." },
+        { "distractor": "inflammatory", "closeness": 2, "reasoning": "Inflammatory describes evidence that provokes prejudice, which is a basis for exclusion a test-taker might confuse with germane — both concern whether evidence should be admitted — but inflammatory addresses prejudicial impact, not topical relevance." },
+        { "distractor": "authentic", "closeness": 1, "reasoning": "Authentic means genuinely what it purports to be, addressing provenance rather than relevance, and authentic evidence can still be dismissed for being off-topic." },
+        { "distractor": "documented", "closeness": 1, "reasoning": "Documented means supported by written records, which concerns the format of evidence rather than its relevance to the charges being adjudicated." },
+        { "distractor": "recent", "closeness": 1, "reasoning": "Recent describes timing of evidence, which is occasionally relevant to weight but has nothing to do with whether the evidence applies to the specific charges before the court." }
+      ]
+    },
+    {
+      "sentence": "Only questions germane to the merger would be entertained; the CEO declined to address anything beyond the transaction itself.",
+      "answerChoices": [
+        { "distractor": "related", "closeness": 3, "reasoning": "Related means connected to the topic, nearly synonymous with germane here, and the same boundary would apply to only related questions being entertained." },
+        { "distractor": "pertaining", "closeness": 3, "reasoning": "Pertaining to the merger describes questions directly concerning it, virtually interchangeable with germane in this context." },
+        { "distractor": "relevant", "closeness": 3, "reasoning": "Relevant means applicable to the matter at hand, a near-synonym of germane, and would impose an identical restriction on the scope of questions." },
+        { "distractor": "technical", "closeness": 2, "reasoning": "Technical questions concern specific mechanics, which might overlap with merger-related questions, but technical questions about unrelated matters would be allowed under this narrower framing." },
+        { "distractor": "substantive", "closeness": 3, "reasoning": "Substantive questions have real depth and importance — very close to the standard a CEO might set, since both germane and substantive filter out trivial or off-topic questions; the distinction is that substantive addresses depth and significance, while germane specifically means pertaining to the merger." },
+        { "distractor": "prepared", "closeness": 2, "reasoning": "Prepared suggests questions the CEO had anticipated, which might limit scope differently, but the distinction here is topical relevance rather than advance preparation." },
+        { "distractor": "favorable", "closeness": 2, "reasoning": "Favorable questions would benefit the CEO's position, suggesting a different—self-serving—criterion for admissibility rather than topical relevance to the merger." },
+        { "distractor": "philosophical", "closeness": 1, "reasoning": "Philosophical questions about general principles are entirely outside the scope of what germane means here and would obviously fall into the category the CEO declined to address." },
+        { "distractor": "hypothetical", "closeness": 1, "reasoning": "Hypothetical questions speculate about imaginary scenarios, which the CEO might also decline, but for reasons of speculation rather than relevance to the merger." },
+        { "distractor": "hostile", "closeness": 2, "reasoning": "Hostile questions would also likely be declined, and a test-taker might conflate the CEO's refusal to engage with off-topic questions with a refusal to engage with hostile ones — but germane is about subject-matter, not tone." },
+        { "distractor": "brief", "closeness": 1, "reasoning": "Brief describes length rather than topical relevance, and the CEO's stated criterion was subject-matter pertinence, not how quickly a question could be asked." }
+      ]
+    }
+  ]
+}

@@ -4,181 +4,49 @@
     {
       "sentence": "The drug produced analgesia powerful enough to allow surgery without general anesthesia.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "numbness", "closeness": 3, "reasoning": "The sentence describes a state powerful enough to permit surgery without general anesthesia, and numbness overlaps with the absence of sensation, but numbness implies total loss of all sensation including touch and pressure, whereas the sentence implies the patient remains conscious without pain specifically." },
+        { "distractor": "sedation", "closeness": 3, "reasoning": "The sentence contrasts the drug's effect with general anesthesia and implies the patient is awake during surgery, making sedation a strong trap since sedation reduces consciousness, but the sentence's contrast with anesthesia suggests the drug works without making the patient unconscious." },
+        { "distractor": "relief", "closeness": 3, "reasoning": "The sentence describes a drug powerful enough to permit surgery, which is a form of pain relief, but 'relief' is too general and could apply to any reduction of discomfort, whereas the sentence requires a specific pharmacological state of abolished pain sensation while conscious." },
+        { "distractor": "tolerance", "closeness": 3, "reasoning": "A drug that allows surgery without general anesthesia might suggest the patient has developed high tolerance to pain or the drug, but tolerance is a diminished response through repeated exposure, not a state actively induced by a drug for a procedure." },
+        { "distractor": "paralysis", "closeness": 2, "reasoning": "Paralysis stops movement and can be used in surgery, but the sentence's contrast with general anesthesia focuses on pain elimination while conscious, not on immobilizing the patient." },
+        { "distractor": "euphoria", "closeness": 2, "reasoning": "Drugs that block pain can also cause euphoria, but the sentence focuses on the capability to perform surgery, which requires pain abolition rather than a pleasant altered mood state." },
+        { "distractor": "suppression", "closeness": 2, "reasoning": "The drug suppresses pain, so 'suppression' partially fits, but suppression is a broad term for reducing any response, whereas the sentence describes a specific physiological state produced by the drug that makes surgery possible." },
+        { "distractor": "immunity", "closeness": 2, "reasoning": "Immunity means protection from a disease or substance, not a pharmacologically induced absence of pain sensation, making this a poor match for the drug-induced surgical context." },
+        { "distractor": "hallucination", "closeness": 1, "reasoning": "Hallucination is a false sensory perception; the sentence describes eliminating pain sensation, the opposite direction of adding false sensations, making this clearly wrong." },
+        { "distractor": "convulsion", "closeness": 1, "reasoning": "A convulsion is an involuntary muscular contraction; the sentence describes a state that makes pain-free surgery possible, which is the opposite of a violent physical reaction." },
+        { "distractor": "inflammation", "closeness": 1, "reasoning": "Inflammation is a biological response to injury or infection; the sentence describes a drug-induced state of abolished pain that enables surgery, not the body's defensive reaction to tissue damage." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected analgesia, which altered the course of the committee's deliberations.",
+      "sentence": "Soldiers returning from the front sometimes reported a strange analgesia immediately after injury, feeling no pain until hours later when the adrenaline wore off.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "numbness", "closeness": 3, "reasoning": "The sentence describes soldiers feeling no pain immediately after injury, which resembles numbness, but the sentence specifies that normal pain returns hours later as adrenaline fades, implying a temporary physiological suppression of pain perception rather than local loss of all sensation." },
+        { "distractor": "shock", "closeness": 3, "reasoning": "Soldiers feeling no pain right after a traumatic injury and then pain returning later fits the profile of physical or psychological shock, making this a strong trap, but shock is a medical emergency state involving circulatory failure rather than a specific absence of pain sensation." },
+        { "distractor": "disorientation", "closeness": 3, "reasoning": "Soldiers in combat after being injured might be disoriented, and the delayed realization of pain could suggest confusion, but the sentence specifically says they 'felt no pain,' pointing to an absence of pain sensation rather than spatial or cognitive confusion." },
+        { "distractor": "resilience", "closeness": 3, "reasoning": "Enduring injury without immediately feeling pain could be framed as remarkable resilience, but the sentence attributes the phenomenon to adrenaline wearing off, describing a physiological mechanism rather than a personal capacity to withstand hardship." },
+        { "distractor": "adrenaline", "closeness": 2, "reasoning": "The sentence names adrenaline as the explanation for the pain-free state, but adrenaline is the cause of the phenomenon, not the phenomenon itself; substituting it for the target word would make the sentence say the soldiers reported a strange 'adrenaline,' which does not make syntactic sense as described." },
+        { "distractor": "paralysis", "closeness": 2, "reasoning": "Soldiers unable to feel pain might also be partially paralyzed in some combat injury scenarios, but the sentence focuses on pain sensation specifically and implies the soldiers were mobile enough to report the experience." },
+        { "distractor": "delirium", "closeness": 2, "reasoning": "A soldier injured in battle might become delirious, but the sentence describes a specific absence of pain sensation rather than confusion or mental disturbance." },
+        { "distractor": "fatigue", "closeness": 2, "reasoning": "Fatigue can mask pain in extreme physical circumstances, but the sentence attributes the effect to adrenaline and describes it as a disappearance of pain sensation rather than exhaustion." },
+        { "distractor": "ecstasy", "closeness": 1, "reasoning": "Ecstasy is a feeling of intense joy or pleasure; the sentence describes an absence of pain after injury in combat, not a positive emotional state, making this clearly wrong." },
+        { "distractor": "infection", "closeness": 1, "reasoning": "Infection is a biological invasion of pathogens; the sentence describes an immediately post-injury physiological state related to adrenaline, not a pathological process." },
+        { "distractor": "amnesia", "closeness": 1, "reasoning": "Amnesia is loss of memory; the sentence describes soldiers who remember the event clearly enough to report it but experienced no pain at the time—an absence of pain, not of memory." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the analgesia to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "Researchers studying acupuncture were surprised to find that needle placement in specific meridian points produced measurable analgesia in subjects undergoing dental procedures.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "relaxation", "closeness": 3, "reasoning": "Acupuncture is widely associated with relaxation, and subjects in a dental procedure might feel calmer, but the sentence says the effect was 'measurable' and occurred specifically during a procedure that causes pain, pointing to quantifiable pain reduction rather than a general calming state." },
+        { "distractor": "sedation", "closeness": 3, "reasoning": "A measurable effect produced by needles during a dental procedure could be mistaken for sedation, but the sentence does not say subjects lost consciousness or alertness; it describes a pain-specific outcome that dental procedures make distinctly relevant." },
+        { "distractor": "placebo effect", "closeness": 3, "reasoning": "Researchers studying acupuncture often contend with placebo confounds, and 'placebo effect' is the expected skeptical explanation, but the sentence says the effect was 'measurable,' implying it was quantified objectively rather than attributed to expectation alone." },
+        { "distractor": "numbness", "closeness": 3, "reasoning": "Needle placement reducing pain during dental procedures could produce localized numbness, and 'numbness' fits grammatically, but numbness implies total absence of sensation at a site rather than the broader physiological suppression of pain while other sensations may remain." },
+        { "distractor": "distraction", "closeness": 2, "reasoning": "Acupuncture could work by distracting subjects from dental pain, but the sentence says the effect was 'measurable,' implying physiological measurement rather than a cognitive redirection of attention." },
+        { "distractor": "inflammation", "closeness": 2, "reasoning": "Acupuncture is sometimes studied for reducing inflammation, but the sentence specifically concerns a dental procedure and the measured outcome is a pain-related state, not an inflammatory response." },
+        { "distractor": "healing", "closeness": 2, "reasoning": "Acupuncture is used in healing contexts, but the sentence focuses on what happened during the dental procedure rather than afterward, describing an immediate sensory state rather than a repair process." },
+        { "distractor": "fatigue", "closeness": 2, "reasoning": "Subjects might feel fatigue during a dental procedure but the sentence describes a beneficial measurable effect produced by needle placement, not a draining or exhausting outcome." },
+        { "distractor": "euphoria", "closeness": 1, "reasoning": "Euphoria is a feeling of intense happiness or well-being; the sentence focuses on what happens to pain during a dental procedure, not on a mood-elevating effect, making this the wrong category." },
+        { "distractor": "immunity", "closeness": 1, "reasoning": "Immunity is resistance to disease or substance effects; the sentence describes a temporary pain-reducing state produced by needles during a procedure, not a long-term biological resistance." },
+        { "distractor": "hemorrhage", "closeness": 1, "reasoning": "A hemorrhage is internal or external bleeding; the sentence is about pain measurement in a dental context, not about a bleeding event, making this clearly wrong." }
       ]
     }
   ]

@@ -4,181 +4,49 @@
     {
       "sentence": "The theatrical artifice was visible to those who looked closely, but most audiences were thoroughly deceived.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "illusion", "closeness": 3, "reasoning": "Illusion describes what the audience experienced, not the clever technique that produced it; artifice names the craft, not the effect." },
+        { "distractor": "trickery", "closeness": 3, "reasoning": "Trickery suggests deception for malicious purposes and lacks the admirable ingenuity that artifice can imply in theatrical contexts." },
+        { "distractor": "deception", "closeness": 3, "reasoning": "Deception focuses solely on misleading the audience, whereas artifice emphasizes the skillful construction that makes the deception possible." },
+        { "distractor": "cunning", "closeness": 3, "reasoning": "Cunning is an adjective turned noun describing craftiness, but it loses artifice's sense of a specific technique or constructed device." },
+        { "distractor": "stagecraft", "closeness": 2, "reasoning": "Stagecraft is the technical skill of theatrical production, which overlaps with but is more neutral and specific than artifice, which implies intentional clever misdirection." },
+        { "distractor": "pretense", "closeness": 2, "reasoning": "Pretense implies false claiming or false appearances without the emphasis on the ingenuity of the technique employed." },
+        { "distractor": "spectacle", "closeness": 2, "reasoning": "Spectacle refers to an impressive visual display, not the skilled contrivance behind it." },
+        { "distractor": "façade", "closeness": 2, "reasoning": "Façade describes a false outward appearance but does not capture the cleverness of execution that artifice denotes." },
+        { "distractor": "sincerity", "closeness": 1, "reasoning": "Sincerity is the opposite of artifice, implying genuine, uncontrived expression." },
+        { "distractor": "candor", "closeness": 1, "reasoning": "Candor means open, honest communication, directly opposed to the clever deception artifice describes." },
+        { "distractor": "ineptitude", "closeness": 1, "reasoning": "Ineptitude means a lack of skill, which contradicts artifice's core meaning of clever, skillful technique." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected artifice, which altered the course of the committee's deliberations.",
+      "sentence": "She navigated the diplomatic dinner through pure artifice, deploying charm and strategic half-truths to avoid every conflict.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "guile", "closeness": 3, "reasoning": "Guile captures the crafty deception but implies a more instinctive cunning rather than the deliberate, skillfully crafted strategy artifice suggests." },
+        { "distractor": "tact", "closeness": 3, "reasoning": "Tact suggests genuine social sensitivity; the sentence explicitly frames her behavior as strategic half-truths, making tact too positive a substitute." },
+        { "distractor": "finesse", "closeness": 3, "reasoning": "Finesse implies elegant skill but lacks the element of deliberate concealment and calculated deception that artifice carries here." },
+        { "distractor": "diplomacy", "closeness": 3, "reasoning": "Diplomacy implies legitimate negotiation skills, missing the deceptive and manufactured quality the sentence assigns to her behavior." },
+        { "distractor": "manipulation", "closeness": 2, "reasoning": "Manipulation focuses on controlling others and is more overtly sinister; artifice emphasizes the ingenuity of the method rather than the intent to control." },
+        { "distractor": "calculation", "closeness": 2, "reasoning": "Calculation describes strategic thinking but does not carry the specific sense of clever, concealed technique that artifice implies." },
+        { "distractor": "charisma", "closeness": 2, "reasoning": "Charisma suggests a natural magnetic quality, the opposite of the constructed, performed quality that artifice denotes." },
+        { "distractor": "shrewdness", "closeness": 2, "reasoning": "Shrewdness describes general astuteness in judgment rather than a specific technique of clever deception." },
+        { "distractor": "bluntness", "closeness": 1, "reasoning": "Bluntness means direct, unfiltered speech, the antithesis of the strategic concealment artifice describes." },
+        { "distractor": "naivety", "closeness": 1, "reasoning": "Naivety implies a lack of worldly sophistication, directly contradicting the calculated cleverness artifice requires." },
+        { "distractor": "ignorance", "closeness": 1, "reasoning": "Ignorance describes a lack of knowledge, not a strategic technique for managing social situations." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the artifice to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "The novelist's greatest artifice was making each chapter feel spontaneous when in fact every word had been calibrated with precision.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "achievement", "closeness": 3, "reasoning": "Achievement describes an accomplished result, but artifice points specifically to the concealed skilled technique that produces the impression, not just the end product." },
+        { "distractor": "technique", "closeness": 3, "reasoning": "Technique is close but lacks the implication of concealment and the making of something appear natural that artifice carries in literary contexts." },
+        { "distractor": "ingenuity", "closeness": 3, "reasoning": "Ingenuity highlights creative cleverness but not the specifically deceptive dimension of making calculated prose look spontaneous." },
+        { "distractor": "craft", "closeness": 3, "reasoning": "Craft captures skill and precision but is neutral and lacks the sense of deliberate concealment of effort that defines artifice here." },
+        { "distractor": "contrivance", "closeness": 2, "reasoning": "Contrivance implies something overly mechanical and often carries a pejorative sense of obvious manipulation, whereas artifice in literary praise suggests admirable concealed skill." },
+        { "distractor": "style", "closeness": 2, "reasoning": "Style refers to a writer's distinctive manner and does not carry the specific sense of deliberate hidden engineering." },
+        { "distractor": "conceit", "closeness": 2, "reasoning": "Conceit in a literary sense means a clever extended metaphor, which is too specific and different from the broad technique artifice names here." },
+        { "distractor": "voice", "closeness": 2, "reasoning": "Voice describes a writer's personal tone and is natural rather than constructed, making it the wrong substitute here." },
+        { "distractor": "accident", "closeness": 1, "reasoning": "Accident implies an unintended outcome, which contradicts the meticulously calibrated precision the sentence describes." },
+        { "distractor": "flaw", "closeness": 1, "reasoning": "Flaw implies something gone wrong, while the sentence praises the novelist's skill." },
+        { "distractor": "verbosity", "closeness": 1, "reasoning": "Verbosity means excessive wordiness and implies poor craft, the opposite of the precise technique described." }
       ]
     }
   ]

@@ -4,181 +4,46 @@
     {
       "sentence": "The operating room was kept strictly aseptic, with every instrument sterilized before use.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "sterile", "closeness": 3, "reasoning": "The sentence mentions sterilizing instruments, and 'sterile' is closely related, but 'sterile' describes the condition of individual objects being free of life, whereas 'aseptic' specifically describes a protocol or environment engineered to prevent the introduction of microorganisms." },
+        { "distractor": "sanitary", "closeness": 3, "reasoning": "Maintaining a clean medical environment is what 'sanitary' describes, but 'sanitary' refers to general cleanliness for health purposes, while the sentence's context of surgery with sterilized instruments points to the more precise, infection-preventing quality of 'aseptic.'" },
+        { "distractor": "hygienic", "closeness": 3, "reasoning": "An operating room is certainly hygienic, but 'hygienic' is a broad term covering general health-preserving cleanliness rather than the specific technique of excluding infectious agents that 'aseptic' denotes." },
+        { "distractor": "immaculate", "closeness": 2, "reasoning": "An operating room might be immaculate in appearance, but 'immaculate' refers to visual cleanliness and spotlessness without the specific medical meaning of preventing microbial contamination." },
+        { "distractor": "decontaminated", "closeness": 2, "reasoning": "Decontamination is part of what makes a space aseptic, but 'decontaminated' is a past-tense process description rather than an adjective describing the maintained state of the operating environment." },
+        { "distractor": "clinical", "closeness": 2, "reasoning": "An operating room is by definition clinical, but 'clinical' refers to the medical context and setting rather than to the specific infection-prevention property the sentence highlights." },
+        { "distractor": "pristine", "closeness": 2, "reasoning": "The room is kept in excellent condition, but 'pristine' implies original, unspoiled condition rather than the actively maintained exclusion of contaminants that 'aseptic' describes." },
+        { "distractor": "ventilated", "closeness": 1, "reasoning": "Operating rooms may be ventilated, but the sentence specifies that the space is kept free from infection through instrument sterilization — air circulation is a different property entirely." },
+        { "distractor": "cramped", "closeness": 1, "reasoning": "The sentence describes the infection-prevention quality of the environment, not its size or spatial configuration; 'cramped' is clearly wrong." },
+        { "distractor": "noisy", "closeness": 1, "reasoning": "The sentence concerns the microbial cleanliness of the space, not its sound environment; 'noisy' belongs to an entirely different domain." },
+        { "distractor": "illuminated", "closeness": 1, "reasoning": "Lighting quality is unrelated to the infection-prevention property the sentence attributes to the room; 'illuminated' is in the wrong semantic field." }
       ]
     },
     {
-      "sentence": "Her aseptic response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "Food manufacturers use aseptic packaging to seal products at high temperatures, eliminating the need for refrigeration during transport.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "sterile", "closeness": 3, "reasoning": "Aseptic packaging and sterile packaging are closely related, but 'sterile' describes the state of the contents, whereas the sentence focuses on the packaging technique itself — the process of preventing contamination — which is precisely what 'aseptic' denotes." },
+        { "distractor": "airtight", "closeness": 3, "reasoning": "Sealing products so they don't need refrigeration sounds like it requires airtight containers, but 'airtight' describes the seal's physical impermeability rather than the infection-preventing process of heat-treating and filling under contamination-free conditions." },
+        { "distractor": "hermetic", "closeness": 3, "reasoning": "'Hermetic' means completely airtight and is used in industrial contexts, which fits the sentence superficially, but it emphasizes the seal's physical quality rather than the microbiological goal of preventing contamination that 'aseptic' specifically conveys." },
+        { "distractor": "vacuum", "closeness": 2, "reasoning": "Vacuum sealing is one method used in food preservation, and it shares some overlap with aseptic packaging, but 'vacuum' describes the absence of air rather than the biologically clean conditions required for aseptic processing." },
+        { "distractor": "thermal", "closeness": 2, "reasoning": "The sentence mentions high temperatures, making 'thermal' seem plausible, but 'thermal' describes the role of heat in general rather than the contamination-preventing purpose that heat serves in aseptic packaging." },
+        { "distractor": "protective", "closeness": 2, "reasoning": "Packaging that eliminates refrigeration needs is protective, but 'protective' is too vague to capture the specific microbial-exclusion function that the sentence attributes to the packaging process." },
+        { "distractor": "biodegradable", "closeness": 1, "reasoning": "The sentence describes how packaging preserves food without refrigeration; environmental decomposability is unrelated to this function." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "The sentence concerns the food-safety properties of the packaging, not its visual characteristics; 'transparent' belongs to a different domain." },
+        { "distractor": "recyclable", "closeness": 1, "reasoning": "Recyclability is an environmental property with no connection to the contamination-prevention function the sentence describes." }
       ]
     },
     {
-      "sentence": "The curator's aseptic arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "The wound care nurse praised the patient for maintaining an aseptic dressing technique, noting that the site showed no signs of infection after two weeks.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "sterile", "closeness": 3, "reasoning": "Using 'sterile' to describe the technique is close, but 'sterile' would describe the condition of the materials themselves rather than the technique of handling them in a way that prevents introducing bacteria to the wound." },
+        { "distractor": "sanitary", "closeness": 3, "reasoning": "'Sanitary' implies general cleanliness for health purposes, but 'aseptic' specifically describes a clinical technique designed to exclude all microorganisms, which is confirmed by the absence of infection after two weeks." },
+        { "distractor": "careful", "closeness": 2, "reasoning": "The patient's technique prevented infection over two weeks, which suggests care, but 'careful' is generic and does not capture the specifically microbiological goal of excluding pathogens that 'aseptic' conveys." },
+        { "distractor": "proper", "closeness": 2, "reasoning": "The nurse praises the technique as correct, which 'proper' might describe, but 'proper' refers to correctness by convention rather than to the specific contamination-exclusion quality that the outcome — no infection — demonstrates." },
+        { "distractor": "consistent", "closeness": 2, "reasoning": "The technique worked over two weeks, implying consistency, but 'consistent' describes regularity of application rather than the specific quality of preventing microbial contamination." },
+        { "distractor": "cautious", "closeness": 2, "reasoning": "Wound care requires caution, but 'cautious' describes the patient's attitude rather than the specific, technically defined contamination-preventing nature of the dressing method." },
+        { "distractor": "gentle", "closeness": 2, "reasoning": "Wound care often requires gentleness, but the nurse's praise is specifically about preventing infection, not about how gently the patient handled the wound." },
+        { "distractor": "reckless", "closeness": 1, "reasoning": "The absence of infection after two weeks confirms that the technique was effective and careful — 'reckless' directly contradicts the evidence the sentence provides." },
+        { "distractor": "decorative", "closeness": 1, "reasoning": "The sentence is about medical wound care and infection prevention; 'decorative' has no relevance to this context." },
+        { "distractor": "elaborate", "closeness": 1, "reasoning": "The sentence focuses on the infection-preventing quality of the technique, not on its complexity or intricacy; 'elaborate' would describe a different, irrelevant attribute." }
       ]
     }
   ]

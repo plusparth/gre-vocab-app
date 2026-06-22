@@ -1,0 +1,53 @@
+{
+  "word": "comely",
+  "sentenceSets": [
+    {
+      "sentence": "The portrait depicted a comely young aristocrat whose looks, contemporaries noted, were matched by her intelligence.",
+      "answerChoices": [
+        { "distractor": "handsome", "closeness": 3, "reasoning": "Handsome describes attractive appearance and fits 'young aristocrat' naturally, but it carries a more masculine or stately connotation and lacks the graceful, proportionate sense of comely." },
+        { "distractor": "striking", "closeness": 3, "reasoning": "Striking suggests a dramatic, attention-grabbing appearance and fits the portrait context, but it implies forcefulness rather than the pleasing, gentle beauty comely conveys." },
+        { "distractor": "elegant", "closeness": 3, "reasoning": "Elegant fits an aristocrat portrait naturally and involves aesthetics, but it emphasizes refined manner and style rather than the physical attractiveness comely denotes." },
+        { "distractor": "radiant", "closeness": 3, "reasoning": "Radiant suggests glowing beauty and is plausible for a portrait subject, but it implies an outward glow or vitality rather than the proportionate pleasingness of comely." },
+        { "distractor": "distinguished", "closeness": 2, "reasoning": "Distinguished fits an aristocrat but refers to notable status or bearing rather than physical attractiveness, making it a weaker semantic match for what contemporaries observed about her looks." },
+        { "distractor": "accomplished", "closeness": 2, "reasoning": "Accomplished could describe an aristocrat but refers to skill and achievement rather than appearance, misaligning with the sentence's focus on the subject's looks." },
+        { "distractor": "refined", "closeness": 2, "reasoning": "Refined suggests polished manners befitting an aristocrat but does not directly describe physical appearance the way comely does." },
+        { "distractor": "dignified", "closeness": 2, "reasoning": "Dignified fits an aristocrat portrait but describes bearing and manner rather than physical attractiveness, which is what contemporaries were noting about her looks." },
+        { "distractor": "virtuous", "closeness": 1, "reasoning": "Virtuous describes moral character, not appearance, making it a poor fit for a sentence contrasting looks with intelligence." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "Celebrated means famous or honored and does not describe physical appearance, so it fails to substitute meaningfully for comely in this context." },
+        { "distractor": "youthful", "closeness": 1, "reasoning": "Youthful overlaps redundantly with 'young' already in the sentence and describes age rather than attractiveness, making it an unlikely distractor for comely." }
+      ]
+    },
+    {
+      "sentence": "The casting director passed over several experienced actors in favor of a comely newcomer whose screen presence seemed undeniable.",
+      "answerChoices": [
+        { "distractor": "attractive", "closeness": 3, "reasoning": "Attractive is nearly synonymous with comely in a casting context and would fit grammatically, but it is more generic and lacks comely's suggestion of wholesome, proportionate appeal." },
+        { "distractor": "photogenic", "closeness": 3, "reasoning": "Photogenic fits a screen-casting context very naturally and relates to appearance, but it specifically means looking good on camera rather than the general pleasing attractiveness comely implies." },
+        { "distractor": "charismatic", "closeness": 3, "reasoning": "Charismatic fits a casting decision and relates to screen presence, but it describes magnetism of personality rather than physical appearance, which comely specifically denotes." },
+        { "distractor": "captivating", "closeness": 3, "reasoning": "Captivating fits screen presence and a casting context well, but it emphasizes the power to hold attention rather than the pleasing physical appearance comely describes." },
+        { "distractor": "talented", "closeness": 2, "reasoning": "Talented fits a casting decision but refers to skill, and the sentence already contrasts the newcomer with experienced actors, making talent the implicit contrast rather than what comely adds." },
+        { "distractor": "vivacious", "closeness": 2, "reasoning": "Vivacious suggests energetic liveliness and could fit a casting context, but it emphasizes temperament rather than the pleasing physical appearance comely denotes." },
+        { "distractor": "promising", "closeness": 2, "reasoning": "Promising fits a newcomer in any field but refers to future potential rather than current physical attractiveness, misaligning with what comely contributes to this sentence." },
+        { "distractor": "glamorous", "closeness": 2, "reasoning": "Glamorous fits a film context and describes appearance but implies an artificial, high-fashion allure rather than the naturally pleasing proportions comely suggests." },
+        { "distractor": "inexperienced", "closeness": 1, "reasoning": "Inexperienced overlaps with 'newcomer' already in the sentence and describes lack of experience rather than appearance, making it a redundant and inaccurate substitution." },
+        { "distractor": "ambitious", "closeness": 1, "reasoning": "Ambitious describes motivation rather than appearance and would not explain why a casting director would prioritize this actor based on how they look or present on screen." },
+        { "distractor": "versatile", "closeness": 1, "reasoning": "Versatile describes range of acting ability rather than physical appearance, making it an unlikely substitute for comely in a sentence emphasizing looks and screen presence." }
+      ]
+    },
+    {
+      "sentence": "Victorian novels frequently rewarded their comely heroines with wealthy suitors, reinforcing the era's conflation of beauty with moral worth.",
+      "answerChoices": [
+        { "distractor": "virtuous", "closeness": 3, "reasoning": "Virtuous fits Victorian heroines perfectly and connects to moral worth mentioned in the sentence, making it a strong trap — but comely refers to physical beauty, not moral character, even though the era conflated them." },
+        { "distractor": "winsome", "closeness": 3, "reasoning": "Winsome is nearly synonymous with comely, describing sweet, pleasing attractiveness, and fits a Victorian heroine, making it the closest distractor — but winsome emphasizes charm while comely emphasizes physical proportion." },
+        { "distractor": "demure", "closeness": 3, "reasoning": "Demure describes the modest, reserved behavior expected of Victorian heroines and fits the era's ideals, but it describes manner rather than physical appearance, which comely specifies." },
+        { "distractor": "genteel", "closeness": 3, "reasoning": "Genteel fits Victorian heroines and implies refined breeding, making it a plausible trap in this era-specific context, but it describes social refinement rather than physical attractiveness." },
+        { "distractor": "marriageable", "closeness": 2, "reasoning": "Marriageable fits the context of wealthy suitors and Victorian plots but describes social eligibility rather than physical beauty, which is what comely contributes to the sentence." },
+        { "distractor": "well-bred", "closeness": 2, "reasoning": "Well-bred fits Victorian heroines and the context of suitors, but it refers to upbringing and social class rather than the physical attractiveness comely denotes." },
+        { "distractor": "spirited", "closeness": 2, "reasoning": "Spirited describes personality and energy, not physical appearance, and while it fits some Victorian heroines it does not explain why they attract wealthy suitors in the same way comely does." },
+        { "distractor": "chaste", "closeness": 2, "reasoning": "Chaste fits Victorian moral expectations and the conflation of beauty with worth mentioned in the sentence, but it describes sexual purity rather than physical appearance." },
+        { "distractor": "ambitious", "closeness": 1, "reasoning": "Ambitious does not fit the passive role Victorian heroines played in being rewarded by suitors, nor does it relate to the physical beauty comely describes." },
+        { "distractor": "educated", "closeness": 1, "reasoning": "Educated describes intellectual attainment rather than appearance and does not account for why wealthy suitors would be attracted in a novel that conflates beauty with moral worth." },
+        { "distractor": "wealthy", "closeness": 1, "reasoning": "Wealthy would create a redundant circularity with wealthy suitors and does not describe the heroines' physical attractiveness, making it an unlikely substitute for comely." }
+      ]
+    }
+  ]
+}

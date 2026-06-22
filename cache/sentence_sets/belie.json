@@ -4,181 +4,49 @@
     {
       "sentence": "His calm demeanor belied the anxiety visible in the way he kept checking the clock.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "masked", "closeness": 3, "reasoning": "The sentence contrasts calm outward appearance with revealed inner anxiety — 'masked' fits this surface/concealment reading, but the anxiety is actually visible in his clock-checking behavior, so the contrast is not one of hiding but of giving a false impression." },
+        { "distractor": "concealed", "closeness": 3, "reasoning": "The anxiety is visible in his clock-checking, so it is not concealed; the sentence is about one signal (demeanor) contradicting another (clock-checking), not about the anxiety being hidden." },
+        { "distractor": "contradicted", "closeness": 3, "reasoning": "Close — 'contradicted' captures the oppositional relationship between demeanor and clock-checking, but it treats both signals as equally assertive claims rather than capturing the false impression created by the calm surface." },
+        { "distractor": "disguised", "closeness": 3, "reasoning": "The clock-checking makes the anxiety visible, not disguised; 'disguised' suggests successful concealment, whereas the sentence shows the anxiety breaking through." },
+        { "distractor": "suppressed", "closeness": 2, "reasoning": "The anxiety is not suppressed — it shows clearly in his clock-checking; the sentence is about the mismatch between demeanor and the observable sign of anxiety." },
+        { "distractor": "revealed", "closeness": 2, "reasoning": "The sentence's logic requires the calm demeanor to give a false impression about the anxiety, not to reveal it; 'revealed' inverts the direction of the contrast." },
+        { "distractor": "conveyed", "closeness": 2, "reasoning": "The calm demeanor does not convey the anxiety — it does the opposite; 'conveyed' would mean the demeanor communicated the feeling rather than creating a false picture." },
+        { "distractor": "emphasized", "closeness": 2, "reasoning": "The calm demeanor does not emphasize the anxiety; the sentence sets the two signals against each other as contrasting evidence." },
+        { "distractor": "confirmed", "closeness": 1, "reasoning": "The calm demeanor did not confirm the anxiety; it created the opposite impression, making 'confirmed' semantically backwards in this sentence." },
+        { "distractor": "expressed", "closeness": 1, "reasoning": "The demeanor is calm specifically because it does not express the anxiety; 'expressed' contradicts the contrast the sentence establishes." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "Entirely wrong semantic field — nothing in a sentence about demeanor and anxiety involves celebration." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to belie before the meeting adjourned.",
+      "sentence": "The pristine balance sheet of the new subsidiary belied the mounting debt that auditors would later uncover.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "overstated", "closeness": 3, "reasoning": "The balance sheet is described as pristine, suggesting it under-reported or misrepresented the debt, not exaggerated it; 'overstated' would mean the sheet made debt look larger than it was." },
+        { "distractor": "obscured", "closeness": 3, "reasoning": "Close — the balance sheet does create a misleading picture of the debt, but 'obscured' implies deliberate hiding; the sentence points to an appearance that gives a false impression without necessarily implying intent." },
+        { "distractor": "misrepresented", "closeness": 3, "reasoning": "Very close — 'misrepresented' fits the false impression created by the balance sheet, but it implies intentional deception by a speaker or agent, whereas 'belie' can apply to a passive appearance that simply contradicts underlying reality." },
+        { "distractor": "understated", "closeness": 3, "reasoning": "Close — the balance sheet does make the debt seem smaller than it is, but 'understated' is a narrower term about minimizing magnitude, not about giving a false overall impression of financial health." },
+        { "distractor": "highlighted", "closeness": 2, "reasoning": "The pristine balance sheet draws attention away from the debt, not toward it; 'highlighted' would indicate the sheet featured the debt prominently, which is the opposite of what the sentence says." },
+        { "distractor": "documented", "closeness": 2, "reasoning": "The auditors had to uncover the debt precisely because the balance sheet did not document it properly; 'documented' contradicts what the subsequent audit reveals." },
+        { "distractor": "reflected", "closeness": 2, "reasoning": "If the balance sheet reflected the debt, auditors would have had nothing to uncover; the sentence requires a term indicating the balance sheet gave a false rather than accurate picture." },
+        { "distractor": "inflated", "closeness": 2, "reasoning": "The balance sheet is pristine and the debt is mounting but hidden — the sheet deflates rather than inflates; 'inflated' suggests the opposite direction of distortion." },
+        { "distractor": "confirmed", "closeness": 1, "reasoning": "The debt was uncovered as a surprise, so the balance sheet clearly did not confirm it; 'confirmed' is factually backwards in this sentence." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "Nothing in a financial context about concealed debt involves celebration; entirely wrong semantic field." },
+        { "distractor": "eliminated", "closeness": 1, "reasoning": "The debt still existed and was later uncovered, so the balance sheet did not eliminate it; wrong semantic field." }
       ]
     },
     {
-      "sentence": "The curator chose to belie the fragile document only after consulting the conservator.",
+      "sentence": "The actor's youthful appearance on screen belies the decades of craft he has accumulated behind the camera.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "betrays", "closeness": 3, "reasoning": "Close — 'betrays' can mean to reveal inadvertently, which could apply to an appearance that leaks information, but the sentence is specifically about a false impression created by youth that makes decades of craft invisible rather than inadvertently exposed." },
+        { "distractor": "understates", "closeness": 3, "reasoning": "The youthful appearance does make the decades of craft seem less than they are, but 'understates' is narrower (minimizing a quantity), whereas the sentence is about a holistic false impression that hides accumulated experience." },
+        { "distractor": "hides", "closeness": 3, "reasoning": "Close in meaning, but 'hides' implies an active agent deliberately concealing something; the sentence uses a passive appearance as the subject creating a false impression without intentional agency." },
+        { "distractor": "minimizes", "closeness": 3, "reasoning": "The youthful appearance does reduce the perceived weight of his experience, but 'minimizes' focuses on diminishing scale rather than on the false visual impression that gives no hint of decades behind the camera." },
+        { "distractor": "reflects", "closeness": 2, "reasoning": "If his appearance reflected his decades of experience, there would be no contrast to observe; the sentence requires a term indicating the appearance gives a false rather than accurate picture." },
+        { "distractor": "illustrates", "closeness": 2, "reasoning": "The youthful appearance does not illustrate his accumulated craft — it creates the opposite impression; 'illustrates' would mean the appearance made the experience visible." },
+        { "distractor": "confirms", "closeness": 2, "reasoning": "The appearance does not confirm that he has decades of experience; the sentence implies his apparent youth would lead observers to underestimate his experience." },
+        { "distractor": "embodies", "closeness": 2, "reasoning": "An appearance that belies craft cannot simultaneously embody it; 'embodies' would mean the appearance represents and expresses his experience, contradicting the sentence's contrast." },
+        { "distractor": "erases", "closeness": 1, "reasoning": "The decades of craft still exist and are real; the appearance gives a false impression of them but does not erase them; wrong semantic field." },
+        { "distractor": "celebrates", "closeness": 1, "reasoning": "Nothing about a youthful on-screen look celebrating behind-the-camera experience makes sense in this sentence; entirely wrong semantic field." },
+        { "distractor": "replaces", "closeness": 1, "reasoning": "The youthful appearance does not replace the decades of craft; it merely creates a deceptive visual impression that contradicts them." }
       ]
     }
   ]

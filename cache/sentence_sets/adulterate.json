@@ -4,181 +4,49 @@
     {
       "sentence": "Inspectors found that the olive oil had been adulterated with cheaper vegetable oil.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "diluted", "closeness": 3, "reasoning": "Diluted describes weakening by adding another substance, which fits mixing olive oil with vegetable oil, but adulterated implies a deceptive degradation of quality that diluted does not inherently carry." },
+        { "distractor": "contaminated", "closeness": 3, "reasoning": "Contaminated implies an unwanted substance has been introduced and is close, but contamination can be accidental while adulterate specifically implies deliberate addition to debase or profit." },
+        { "distractor": "mixed", "closeness": 3, "reasoning": "Mixed accurately describes the combining of the two oils but is entirely neutral, lacking the connotation of deliberate corruption and deception that adulterated conveys." },
+        { "distractor": "tainted", "closeness": 3, "reasoning": "Tainted implies the product has been corrupted or spoiled, which aligns with the inspectors' negative finding, but it often suggests pollution rather than the specific act of adding an inferior substitute." },
+        { "distractor": "blended", "closeness": 2, "reasoning": "Blended describes intentional mixing for a purpose and carries positive connotations in food contexts, which is the opposite of the deceptive debasement that adulterated implies." },
+        { "distractor": "substituted", "closeness": 2, "reasoning": "Substituted describes replacing one thing with another but does not capture the dimension of mixing in an inferior substance while presenting the product as pure that adulterate implies." },
+        { "distractor": "altered", "closeness": 2, "reasoning": "Altered describes change without specifying whether it was degrading or deliberate; adulterated specifically implies an inferior foreign substance was added to deceive buyers." },
+        { "distractor": "processed", "closeness": 2, "reasoning": "Processed describes industrial treatment of food and does not convey the deceptive debasement with a cheaper substitute that adulterated means in this inspection context." },
+        { "distractor": "purified", "closeness": 1, "reasoning": "Purified implies removing impurities, which is the opposite of adulterated's meaning of introducing foreign or inferior substances." },
+        { "distractor": "distilled", "closeness": 1, "reasoning": "Distilled implies a refinement process that concentrates a substance, which is the opposite of the debasement through addition of a cheaper ingredient that adulterated describes." },
+        { "distractor": "certified", "closeness": 1, "reasoning": "Certified implies the product has been verified as genuine and pure, which directly contradicts the fraudulent contamination that adulterated describes." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to adulterate before the meeting adjourned.",
+      "sentence": "Critics argued that the film's theatrical release had been adulterated by the studio's demand to cut twenty minutes.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "compromised", "closeness": 3, "reasoning": "Compromised describes the integrity of the work being weakened by outside pressures, which is very close, but adulterated specifically implies that something inferior was substituted or added to debase an originally pure product." },
+        { "distractor": "corrupted", "closeness": 3, "reasoning": "Corrupted captures the debasement of the film by an outside force, though corruption often implies moral degradation; adulterated here emphasizes the mixing of a lesser version into the artistic product." },
+        { "distractor": "undermined", "closeness": 3, "reasoning": "Undermined suggests the studio weakened the film's integrity, which aligns with the critics' argument, but adulterated more specifically implies the addition or substitution of something that debased the original." },
+        { "distractor": "distorted", "closeness": 3, "reasoning": "Distorted captures the alteration of the director's vision, but it suggests a twisting rather than the specific debasement through addition of inferior elements that adulterated implies." },
+        { "distractor": "shortened", "closeness": 2, "reasoning": "Shortened accurately describes the studio's action of cutting twenty minutes but is merely factual and does not carry the judgment of debasement and corruption that adulterated conveys." },
+        { "distractor": "altered", "closeness": 2, "reasoning": "Altered describes the change made to the film but is neutral, lacking the negative judgment of debasement and the implication of trading quality for expediency that adulterated carries." },
+        { "distractor": "edited", "closeness": 2, "reasoning": "Edited describes the cutting process but is a neutral technical term; adulterated implies the editing compromised an originally pure artistic product in a corrupting way." },
+        { "distractor": "approved", "closeness": 2, "reasoning": "Approved implies the studio endorsed the film as is, which contradicts the forced changes the critics describe; it does not fit the sentence's meaning at all." },
+        { "distractor": "enhanced", "closeness": 1, "reasoning": "Enhanced implies the studio improved the film, which is the opposite of the critics' complaint that the cuts debased it, contradicting adulterated." },
+        { "distractor": "restored", "closeness": 1, "reasoning": "Restored implies returning the film to its original, pure form, which is the opposite of adulterated's meaning of corrupting or debasing through unwanted addition or removal." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "Celebrated implies the studio honored and praised the film, which directly contradicts the critics' accusation of debasement conveyed by adulterated." }
       ]
     },
     {
-      "sentence": "The curator chose to adulterate the fragile document only after consulting the conservator.",
+      "sentence": "The ancient laws were designed to prevent merchants from adulterating grain with sawdust and selling it as pure.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "contaminating", "closeness": 3, "reasoning": "Contaminating describes introducing foreign matter into the grain, which is exactly what sawdust does, but adulterating more specifically implies deliberate fraud for profit, which fits the legal context better." },
+        { "distractor": "corrupting", "closeness": 3, "reasoning": "Corrupting captures the debasement of the grain's purity, though it often implies moral corruption; adulterating specifically refers to the physical act of mixing in an inferior substance." },
+        { "distractor": "diluting", "closeness": 3, "reasoning": "Diluting describes reducing the concentration of the grain by adding a foreign substance, which accurately describes the sawdust scenario; adulterate adds the fraudulent commercial intent." },
+        { "distractor": "substituting", "closeness": 3, "reasoning": "Substituting describes replacing grain with something else, but adulterating implies mixing in an inferior substance while presenting the whole as pure, which is more specific to the deception described." },
+        { "distractor": "mixing", "closeness": 2, "reasoning": "Mixing describes the physical act but is entirely neutral, lacking the fraudulent intent and debasement of quality that adulterating conveys in this legal and commercial context." },
+        { "distractor": "trading", "closeness": 2, "reasoning": "Trading describes the commercial exchange but says nothing about the deception of debasing the product's purity, which is the specific concern that adulterating addresses." },
+        { "distractor": "distributing", "closeness": 2, "reasoning": "Distributing describes getting the grain to market but does not address the deceptive debasement of the product that the laws were specifically designed to prevent." },
+        { "distractor": "grinding", "closeness": 2, "reasoning": "Grinding describes a legitimate step in processing grain and does not convey the deceptive addition of an inferior substance that adulterating implies." },
+        { "distractor": "purifying", "closeness": 1, "reasoning": "Purifying means removing foreign matter, which is the opposite of adulterating, which means adding foreign matter to debase the product." },
+        { "distractor": "inspecting", "closeness": 1, "reasoning": "Inspecting describes examining the grain for problems rather than causing the problem; it is the opposite role in the scenario from what adulterating describes." },
+        { "distractor": "certifying", "closeness": 1, "reasoning": "Certifying implies verifying the grain's purity, which is antithetical to adulterating, which means deliberately introducing impurities." }
       ]
     }
   ]

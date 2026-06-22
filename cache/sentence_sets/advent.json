@@ -4,181 +4,49 @@
     {
       "sentence": "The advent of digital photography rendered film processing nearly obsolete within a decade.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        {"distractor":"arrival","closeness":3,"reasoning":"An arrival may be a single event, but the decade-long displacement described calls for the emergence of a new development."},
+        {"distractor":"introduction","closeness":3,"reasoning":"An introduction can be deliberate, whereas the sentence stresses the broad historical change that followed."},
+        {"distractor":"emergence","closeness":3,"reasoning":"Emergence is plausible, but it does not as directly mark the beginning of the technological era that made film obsolete."},
+        {"distractor":"onset","closeness":3,"reasoning":"Onset usually emphasizes the start of a condition; the sentence instead traces the arrival of a new technology."},
+        {"distractor":"adoption","closeness":2,"reasoning":"Widespread adoption helped cause the change, but the sentence identifies the technology's coming rather than users' decision to embrace it."},
+        {"distractor":"invention","closeness":2,"reasoning":"The technology may have been invented earlier, while the sentence concerns its appearance as a consequential force."},
+        {"distractor":"transition","closeness":2,"reasoning":"The rendering of film obsolete describes a transition, not the event that initiated it."},
+        {"distractor":"replacement","closeness":2,"reasoning":"Replacement names the resulting displacement of film rather than the new technology's arrival."},
+        {"distractor":"decline","closeness":1,"reasoning":"Film processing, not digital photography, is what declined in the sentence."},
+        {"distractor":"preservation","closeness":1,"reasoning":"Preservation conflicts with the statement that film processing became nearly obsolete."},
+        {"distractor":"retreat","closeness":1,"reasoning":"The passage describes a new technology appearing and expanding, not withdrawing."}
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected advent, which altered the course of the committee's deliberations.",
+      "sentence": "For the village choir, Advent began with unlit candles and a quieter rehearsal schedule; by Christmas Eve, both the chapel and the singers were ready for the vigil.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        {"distractor":"Lent","closeness":3,"reasoning":"Lent also involves religious preparation, but the candles culminate at Christmas Eve rather than Easter."},
+        {"distractor":"Christmas","closeness":3,"reasoning":"Christmas is the destination marked by Christmas Eve, whereas the sentence describes the preparatory period before it."},
+        {"distractor":"vigil","closeness":3,"reasoning":"The vigil occurs only at the end of the described weeks, not when the candles and schedule begin."},
+        {"distractor":"observance","closeness":3,"reasoning":"An observance is any religious practice; the details point to the particular season preceding Christmas."},
+        {"distractor":"pilgrimage","closeness":2,"reasoning":"No journey is described: the choir remains in its chapel for rehearsals."},
+        {"distractor":"festival","closeness":2,"reasoning":"The restrained rehearsals and unlit candles signal preparation, not a festive celebration already underway."},
+        {"distractor":"ceremony","closeness":2,"reasoning":"A ceremony would be a discrete event, while the sentence follows a season from its beginning to Christmas Eve."},
+        {"distractor":"fast","closeness":2,"reasoning":"A fast can occur during the season, but the choir's candles and rehearsals cannot themselves be a fast."},
+        {"distractor":"carnival","closeness":1,"reasoning":"The quiet schedule and unlit candles are incompatible with a carnival."},
+        {"distractor":"vacation","closeness":1,"reasoning":"The singers are rehearsing for a religious vigil, not taking time away from obligations."},
+        {"distractor":"funeral","closeness":1,"reasoning":"The stated destination is Christmas Eve worship, not a burial service."}
       ]
     },
     {
-      "sentence": "At the museum, the curator used the advent to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "The arrival of the first fully autonomous ferry was treated as the advent of a different kind of harbor, one in which dispatchers supervised fleets from shore rather than steering each vessel themselves.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        {"distractor":"inauguration","closeness":3,"reasoning":"An inauguration would be a ceremonial opening, but the sentence emphasizes the beginning of a changed operating model."},
+        {"distractor":"breakthrough","closeness":3,"reasoning":"The ferry may represent a breakthrough, yet the described consequence is the arrival of a new era of harbor work."},
+        {"distractor":"debut","closeness":3,"reasoning":"A debut is a first public appearance, while the phrase governs the broader transformation of the harbor."},
+        {"distractor":"dawn","closeness":3,"reasoning":"Dawn can figuratively introduce an era, but it does not fit the formal technological framing as precisely."},
+        {"distractor":"deployment","closeness":2,"reasoning":"A single ferry could be deployed, but the sentence calls it the start of a different kind of harbor."},
+        {"distractor":"automation","closeness":2,"reasoning":"Automation is the feature of the ferry, not the temporal beginning described by the phrase."},
+        {"distractor":"conversion","closeness":2,"reasoning":"Conversion would name the later process of changing harbor operations, not its initial arrival."},
+        {"distractor":"expansion","closeness":2,"reasoning":"Nothing indicates that the harbor is growing in size; control is simply moving ashore."},
+        {"distractor":"relic","closeness":1,"reasoning":"The autonomous ferry is presented as new and forward-looking, not as an old remnant."},
+        {"distractor":"collapse","closeness":1,"reasoning":"The harbor continues operating with shore-based supervision rather than ceasing to function."},
+        {"distractor":"delay","closeness":1,"reasoning":"The first ferry's arrival initiates change; it does not postpone it."}
       ]
     }
   ]

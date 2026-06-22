@@ -1,0 +1,53 @@
+{
+  "word": "enumerate",
+  "sentenceSets": [
+    {
+      "sentence": "She enumerated the conditions of the agreement slowly, pausing after each one to ensure mutual understanding.",
+      "answerChoices": [
+        { "distractor": "listed", "closeness": 3, "reasoning": "Listed conveys presenting items in sequence, very close to enumerate in this context, but it lacks the sense of deliberate counting and careful itemization that enumerating conditions one by one implies." },
+        { "distractor": "stated", "closeness": 3, "reasoning": "Stated means expressed in words, plausible for presenting conditions, but it does not carry the sequential, itemized quality of enumerate—she might state all conditions at once." },
+        { "distractor": "outlined", "closeness": 3, "reasoning": "Outlined means presented in summary form, fitting for conveying the conditions of an agreement, but it implies a sketch of main points rather than the complete itemized recitation enumerate describes." },
+        { "distractor": "recited", "closeness": 3, "reasoning": "Recited means repeated from memory in order, close to enumerate when used for list items, but it emphasizes memorized repetition rather than the deliberate counting and identification enumerate implies." },
+        { "distractor": "detailed", "closeness": 2, "reasoning": "Detailed means described with specifics, which fits conditions presented carefully with pauses, but it emphasizes depth of description rather than the sequential, itemized listing enumerate captures." },
+        { "distractor": "specified", "closeness": 2, "reasoning": "Specified means identified precisely, relevant for stating conditions of an agreement, but it focuses on exactness rather than the act of going through items one by one as enumerate implies." },
+        { "distractor": "articulated", "closeness": 2, "reasoning": "Articulated means expressed clearly and coherently, fitting the careful communication of conditions, but it emphasizes clarity of expression rather than the sequential itemization that enumerate denotes." },
+        { "distractor": "presented", "closeness": 2, "reasoning": "Presented means put forward for consideration, plausible for offering agreement conditions, but it is too general to capture the deliberate one-by-one counting quality enumerate carries." },
+        { "distractor": "negotiated", "closeness": 1, "reasoning": "Negotiated means reached by discussion and compromise, which describes a different activity from enumerating—she would be deciding conditions, not simply listing them one by one." },
+        { "distractor": "imposed", "closeness": 1, "reasoning": "Imposed means forced on another party, which suggests the conditions have authority behind them, but this is a different claim from the sequential verbal listing enumerate describes." },
+        { "distractor": "debated", "closeness": 1, "reasoning": "Debated means discussed with opposing views, a different activity entirely from the one-directional, sequential itemization of conditions that enumerate describes." }
+      ]
+    },
+    {
+      "sentence": "The inspector enumerated each safety violation in turn, building a case whose cumulative weight was impossible to dismiss.",
+      "answerChoices": [
+        { "distractor": "catalogued", "closeness": 3, "reasoning": "Catalogued means recorded systematically in a list, very close to enumerate for safety violations being itemized, but it suggests a written or formal record rather than the spoken sequential listing enumerate implies here." },
+        { "distractor": "documented", "closeness": 3, "reasoning": "Documented means recorded with evidence, fitting for an inspector building a case, but it emphasizes evidential recording rather than the act of going through items one by one that enumerate describes." },
+        { "distractor": "identified", "closeness": 3, "reasoning": "Identified means recognized and named, plausible for noting safety violations, but it does not capture the systematic, sequential itemization through a counted list that enumerate conveys." },
+        { "distractor": "cited", "closeness": 3, "reasoning": "Cited means referred to specifically, close to enumerate when each violation is called out in turn, but it implies reference to authority or evidence rather than the complete sequential listing enumerate denotes." },
+        { "distractor": "inventoried", "closeness": 2, "reasoning": "Inventoried means recorded as part of a comprehensive list, relevant for violations being itemized, but it implies a formal stocktaking record rather than the oral, sequential in-turn listing enumerate suggests." },
+        { "distractor": "tallied", "closeness": 2, "reasoning": "Tallied means counted or recorded in a running total, close to enumerate's counting aspect, but it emphasizes accumulation of a total rather than the individual itemization in sequence enumerate implies." },
+        { "distractor": "described", "closeness": 2, "reasoning": "Described means characterized in detail, fitting for an inspector communicating violations, but it emphasizes the quality of depiction rather than the sequential one-by-one listing enumerate describes." },
+        { "distractor": "addressed", "closeness": 2, "reasoning": "Addressed means dealt with or raised in speech, plausible for an inspector covering violations, but it is too general to carry the sequential counting through items that enumerate specifically implies." },
+        { "distractor": "condemned", "closeness": 1, "reasoning": "Condemned means expressed strong disapproval, which might follow enumerating violations but is a separate evaluative act rather than the neutral sequential listing enumerate describes." },
+        { "distractor": "discovered", "closeness": 1, "reasoning": "Discovered means found for the first time, describing the prior investigative phase rather than the act of going through items in sequence that enumerate describes here." },
+        { "distractor": "remedied", "closeness": 1, "reasoning": "Remedied means corrected or fixed, describing what would happen after enumeration rather than the sequential itemizing act itself that enumerate denotes." }
+      ]
+    },
+    {
+      "sentence": "The report enumerated the program's failures without once acknowledging the constraints under which it had operated.",
+      "answerChoices": [
+        { "distractor": "catalogued", "closeness": 3, "reasoning": "Catalogued suggests systematic recording of failures, close to enumerate in this reporting context, but it emphasizes formal record-keeping rather than the numbered sequential listing that enumerate implies." },
+        { "distractor": "highlighted", "closeness": 3, "reasoning": "Highlighted means drew attention to particular items, close in effect for a report pointing to failures, but it implies selective emphasis on notable points rather than the comprehensive itemized listing enumerate conveys." },
+        { "distractor": "chronicled", "closeness": 3, "reasoning": "Chronicled means recorded in a chronological account, plausible for reporting failures, but it organizes by time rather than the counted, sequential itemization enumerate specifically denotes." },
+        { "distractor": "itemized", "closeness": 3, "reasoning": "Itemized is nearly synonymous with enumerate, both meaning to list in individual items, but itemize focuses on the format of separate entries rather than the act of counting through them that enumerate carries." },
+        { "distractor": "criticized", "closeness": 2, "reasoning": "Criticized means found fault with, relevant since the report notes failures, but it describes an evaluative stance rather than the neutral sequential listing act enumerate describes." },
+        { "distractor": "analyzed", "closeness": 2, "reasoning": "Analyzed means examined in detail to understand, fitting for a report discussing failures, but it implies interpretive investigation rather than the simple itemized listing enumerate denotes." },
+        { "distractor": "detailed", "closeness": 2, "reasoning": "Detailed means described with specificity, relevant for a report on failures, but it emphasizes depth of description at each point rather than the systematic counting through a complete list enumerate implies." },
+        { "distractor": "disclosed", "closeness": 2, "reasoning": "Disclosed means made known information previously unknown, appropriate for a report revealing failures, but it implies an act of revelation rather than the methodical itemization enumerate describes." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Ignored means paid no attention to, which is the opposite of what the report does with the failures—enumerate describes actively listing them." },
+        { "distractor": "excused", "closeness": 1, "reasoning": "Excused means offered justification for failures, which would be the opposite approach of acknowledging constraints—enumerate here describes listing without justification." },
+        { "distractor": "predicted", "closeness": 1, "reasoning": "Predicted means foretold future events, a temporal orientation entirely different from enumerate's retrospective itemization of failures that have already occurred." }
+      ]
+    }
+  ]
+}

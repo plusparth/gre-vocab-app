@@ -1,0 +1,53 @@
+{
+  "word": "cogent",
+  "sentenceSets": [
+    {
+      "sentence": "Her cogent argument dismantled the opposition's position point by point, leaving little room for rebuttal.",
+      "answerChoices": [
+        { "distractor": "compelling", "closeness": 3, "reasoning": "The sentence describes an argument that systematically dismantled every opposing point, making 'compelling' a near-synonym trap — both words describe persuasive force — but 'cogent' specifically emphasizes logical rigor, while 'compelling' can describe emotional or visceral persuasion." },
+        { "distractor": "persuasive", "closeness": 3, "reasoning": "An argument that leaves little room for rebuttal is obviously persuasive, making this a strong trap, but 'persuasive' can apply to rhetoric, charm, or emotion, whereas 'cogent' specifies force deriving from tight logical structure." },
+        { "distractor": "incisive", "closeness": 3, "reasoning": "Dismantling an argument 'point by point' shows analytical cutting-through, which 'incisive' captures, but 'incisive' highlights sharpness of insight more than the overall logical coherence that 'cogent' stresses." },
+        { "distractor": "lucid", "closeness": 3, "reasoning": "A well-structured argument might also be lucid, but 'lucid' means clear and easy to understand, while the sentence's emphasis on dismantling the opposition stresses persuasive logical force, not just clarity." },
+        { "distractor": "aggressive", "closeness": 2, "reasoning": "Point-by-point dismantling might seem aggressive in tone, but the sentence frames it as intellectual deconstruction rather than combative rhetoric." },
+        { "distractor": "lengthy", "closeness": 2, "reasoning": "Addressing an opposition's position point by point might produce a long argument, but 'cogent' refers to logical force, not length." },
+        { "distractor": "emotional", "closeness": 2, "reasoning": "'Emotional' appeals contrast with reasoned analysis; the point-by-point structure in the sentence signals intellectual rather than emotional argumentation." },
+        { "distractor": "innovative", "closeness": 2, "reasoning": "'Innovative' implies novelty; the sentence focuses on the argument's persuasive power, not on whether its approach was original." },
+        { "distractor": "flawed", "closeness": 1, "reasoning": "'Flawed' means defective; an argument that left little room for rebuttal cannot be described as flawed." },
+        { "distractor": "irrelevant", "closeness": 1, "reasoning": "'Irrelevant' means off-topic or inapplicable; an argument that successfully dismantled the opposition is clearly relevant." },
+        { "distractor": "tedious", "closeness": 1, "reasoning": "'Tedious' means tiresome; it is the opposite of the kind of argument that holds attention and dismantles opposition effectively." }
+      ]
+    },
+    {
+      "sentence": "The policy brief was notable for its cogent use of epidemiological data to justify the proposed health mandate.",
+      "answerChoices": [
+        { "distractor": "rigorous", "closeness": 3, "reasoning": "Using epidemiological data rigorously is very close to using it cogently, but 'rigorous' emphasizes methodological strictness, while 'cogent' emphasizes that the data was applied in a way that made the case logically convincing." },
+        { "distractor": "compelling", "closeness": 3, "reasoning": "Data that justifies a mandate might be described as compelling, but 'compelling' can operate through emphasis or volume of evidence, whereas 'cogent' implies the evidence is specifically arranged to be logically irrefutable." },
+        { "distractor": "selective", "closeness": 3, "reasoning": "Using data to justify a predetermined conclusion can look selective, making it a plausible distractor, but 'selective' implies bias or cherry-picking, while 'cogent' implies the opposite — sound, complete logical reasoning." },
+        { "distractor": "empirical", "closeness": 3, "reasoning": "Epidemiological data is inherently empirical, making 'empirical' tempting, but 'empirical' describes the data's nature, not the quality of its application to the argument." },
+        { "distractor": "extensive", "closeness": 2, "reasoning": "A policy brief might use extensive data, but 'extensive' refers to quantity, not to the quality of logical force described by 'cogent.'" },
+        { "distractor": "alarming", "closeness": 2, "reasoning": "Health data used to mandate policy might be alarming, but 'alarming' describes an emotional reaction, not the logical persuasiveness of the brief's reasoning." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "'Ambiguous' means unclear or open to interpretation; an argument notable for its persuasive use of evidence cannot be described as ambiguous." },
+        { "distractor": "redundant", "closeness": 2, "reasoning": "'Redundant' means unnecessarily repetitive; a brief notable for its quality of data use is not being described as repetitive." },
+        { "distractor": "flimsy", "closeness": 1, "reasoning": "'Flimsy' means lacking substance or logic; it directly contradicts the sentence's framing of the brief as notable for its strong reasoning." },
+        { "distractor": "anecdotal", "closeness": 1, "reasoning": "'Anecdotal' describes informal, non-systematic evidence; the sentence specifically mentions epidemiological data, which is systematic and statistical." },
+        { "distractor": "fictitious", "closeness": 1, "reasoning": "'Fictitious' means invented; using fictitious data to justify a health mandate would be fraudulent, clearly incompatible with the sentence's approving tone." }
+      ]
+    },
+    {
+      "sentence": "The judge found the attorney's summation cogent and cited its clear chain of inference when explaining the verdict.",
+      "answerChoices": [
+        { "distractor": "persuasive", "closeness": 3, "reasoning": "A summation that influences a verdict is naturally persuasive, but the judge's specific reference to a 'clear chain of inference' points to logical structure, which 'cogent' captures more precisely than 'persuasive.'" },
+        { "distractor": "eloquent", "closeness": 3, "reasoning": "Legal summations are often praised for eloquence, but 'eloquent' highlights expressive language quality, while the judge's citation of 'chain of inference' shows that reasoning logic, not stylistic grace, drove the assessment." },
+        { "distractor": "concise", "closeness": 3, "reasoning": "'Concise' means brief and clear, which legal brevity might suggest, but the sentence stresses the logical flow of inference rather than economy of language." },
+        { "distractor": "authoritative", "closeness": 3, "reasoning": "A summation that shapes a verdict might seem authoritative, but 'authoritative' implies credibility from expertise or status, while 'cogent' means convincing through logic." },
+        { "distractor": "inflammatory", "closeness": 2, "reasoning": "Legal summations can be inflammatory, but 'inflammatory' describes emotional provocation, which contradicts the judge's focus on inference chains." },
+        { "distractor": "speculative", "closeness": 2, "reasoning": "'Speculative' means based on conjecture; a summation praised for its clear reasoning chain is the opposite of speculative." },
+        { "distractor": "repetitive", "closeness": 2, "reasoning": "'Repetitive' would not earn a judge's citation of clarity; the sentence's praise rules out this quality." },
+        { "distractor": "tangential", "closeness": 2, "reasoning": "'Tangential' means going off on side points; an argument praised for a 'clear chain of inference' is the opposite of tangential." },
+        { "distractor": "irrelevant", "closeness": 1, "reasoning": "A summation that shaped the verdict cannot be irrelevant; 'irrelevant' directly contradicts the judge's favorable citation of it." },
+        { "distractor": "prejudicial", "closeness": 1, "reasoning": "'Prejudicial' in a legal context means unfairly biasing the jury; a judge praising a summation and citing it in a verdict would not describe it as prejudicial." },
+        { "distractor": "vague", "closeness": 1, "reasoning": "The judge specifically praised the 'clear chain of inference,' which is the opposite of vague; this distractor is directly contradicted by the sentence." }
+      ]
+    }
+  ]
+}

@@ -4,181 +4,49 @@
     {
       "sentence": "He lived an ascetic life, rejecting comfort and pleasure in pursuit of what he considered higher truths.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "spartan", "closeness": 3, "reasoning": "The sentence describes rejecting comfort and pleasure for higher truths, and 'spartan' implies severe simplicity, but 'spartan' emphasizes practical austerity (as in military readiness) rather than the spiritual or disciplinary motivation the sentence highlights." },
+        { "distractor": "austere", "closeness": 3, "reasoning": "The life described — rejecting pleasure in pursuit of higher truths — is certainly austere, but 'austere' describes the outward appearance of severity rather than the internally motivated, discipline-based renunciation the sentence foregrounds." },
+        { "distractor": "abstemious", "closeness": 3, "reasoning": "Like 'ascetic,' 'abstemious' refers to restraint from pleasures, particularly food and drink, but it lacks the element of deliberate spiritual or moral discipline that the sentence emphasizes through the phrase 'higher truths.'" },
+        { "distractor": "monastic", "closeness": 3, "reasoning": "The sentence's theme of rejecting worldly comfort for higher truths resembles monastic life, but 'monastic' specifically implies institutional religious community life rather than the personal, individual practice of self-denial the sentence describes." },
+        { "distractor": "frugal", "closeness": 2, "reasoning": "The sentence involves rejecting comfort, which overlaps with frugality, but 'frugal' is about conserving resources for practical reasons, not about spiritual or philosophical self-denial." },
+        { "distractor": "reclusive", "closeness": 2, "reasoning": "Someone living this way might be reclusive, but the sentence focuses on the rejection of comfort and pleasure, not on withdrawal from social contact specifically." },
+        { "distractor": "pious", "closeness": 2, "reasoning": "The pursuit of higher truths sounds religious, and 'pious' might seem to fit, but 'pious' denotes devotion and reverence, not the specific practice of self-denial in the sentence." },
+        { "distractor": "solemn", "closeness": 2, "reasoning": "Rejecting pleasure might evoke gravity or seriousness, but 'solemn' describes a mood or demeanor rather than a deliberate lifestyle of self-denial." },
+        { "distractor": "hedonistic", "closeness": 1, "reasoning": "The sentence says he rejected comfort and pleasure, making a word that means devoted to pleasure a direct antonym." },
+        { "distractor": "indulgent", "closeness": 1, "reasoning": "The sentence explicitly states the person rejected comfort and pleasure, which is the opposite of indulgence." },
+        { "distractor": "luxurious", "closeness": 1, "reasoning": "Rejecting comfort and pleasure is the opposite of a luxurious life, making this clearly wrong." }
       ]
     },
     {
-      "sentence": "Her ascetic response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The monk's cell contained nothing but a straw mat and a candle — an ascetic environment that visitors found both impressive and unsettling.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "sparse", "closeness": 3, "reasoning": "A room with only a mat and candle is objectively sparse, but 'sparse' merely denotes scarcity without implying the deliberate, disciplined self-denial that makes the environment impressive and unsettling to visitors." },
+        { "distractor": "stark", "closeness": 3, "reasoning": "The room's extreme bareness makes it stark, but 'stark' emphasizes the jarring visual quality of emptiness rather than the principled renunciation of comfort that the sentence conveys through the monk's choice." },
+        { "distractor": "minimalist", "closeness": 3, "reasoning": "The cell contains only two objects, which might be called minimalist, but 'minimalist' refers to an aesthetic design philosophy rather than a morally and spiritually motivated rejection of comfort." },
+        { "distractor": "bleak", "closeness": 2, "reasoning": "The bare cell might strike visitors as bleak, but 'bleak' connotes desolation or hopelessness, whereas the sentence says visitors found it impressive — implying deliberate and admirable self-denial rather than mere grimness." },
+        { "distractor": "humble", "closeness": 2, "reasoning": "A straw mat and candle suggest humility, but 'humble' describes modesty of attitude or social station rather than the strict physical self-denial that characterizes this environment." },
+        { "distractor": "plain", "closeness": 2, "reasoning": "The room is certainly plain, but 'plain' is far too neutral to capture the disciplined, spiritually motivated quality that makes the environment both impressive and unsettling to onlookers." },
+        { "distractor": "grim", "closeness": 2, "reasoning": "Visitors find the space unsettling, which might suggest grimness, but the sentence also notes they find it impressive, pointing to a principled austerity rather than something merely harsh or forbidding." },
+        { "distractor": "barren", "closeness": 2, "reasoning": "A room with only a mat and candle is literally barren, but 'barren' implies an absence due to lack rather than a purposeful, discipline-driven rejection of possessions." },
+        { "distractor": "opulent", "closeness": 1, "reasoning": "The room contains almost nothing; 'opulent' — meaning richly furnished or lavish — is the direct opposite of what the sentence describes." },
+        { "distractor": "chaotic", "closeness": 1, "reasoning": "The cell has two items carefully noted; there is no disorder described, making 'chaotic' plainly wrong." },
+        { "distractor": "cluttered", "closeness": 1, "reasoning": "The room is described as containing almost nothing, directly contradicting a word that implies being filled with too many things." }
       ]
     },
     {
-      "sentence": "The curator's ascetic arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "After years of ascetic training, she had learned to silence hunger, cold, and distraction as though they were mere suggestions.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "rigorous", "closeness": 3, "reasoning": "The training described — overcoming hunger, cold, and distraction — is certainly rigorous, but 'rigorous' emphasizes strict methodological demands rather than the internally motivated, self-denying discipline that the sentence attributes to the training." },
+        { "distractor": "disciplined", "closeness": 3, "reasoning": "The training clearly involves discipline, but using 'disciplined' as the modifier would merely describe the outcome rather than the specific quality of self-denial and bodily renunciation the sentence shows through hunger, cold, and distraction." },
+        { "distractor": "grueling", "closeness": 3, "reasoning": "Years of enduring hunger and cold sounds grueling, but 'grueling' foregrounds physical hardship imposed from outside, whereas the sentence emphasizes a chosen, internally motivated practice of self-denial." },
+        { "distractor": "monastic", "closeness": 2, "reasoning": "The training has a religious, retreatlike quality, but 'monastic' specifically implies communal institutional religious life rather than the personal regimen of bodily renunciation the sentence describes." },
+        { "distractor": "intense", "closeness": 2, "reasoning": "Silencing hunger and cold over years implies intensity, but 'intense' is too generic and fails to capture the deliberate self-denial at the core of what the sentence describes." },
+        { "distractor": "meditative", "closeness": 2, "reasoning": "Silencing distraction sounds meditative, but the sentence also involves silencing hunger and cold, pointing to physical self-denial rather than purely contemplative practice." },
+        { "distractor": "spiritual", "closeness": 2, "reasoning": "The training might be spiritually motivated, but 'spiritual' describes its orientation rather than the specific quality — bodily self-denial — that the sentence highlights through hunger, cold, and distraction." },
+        { "distractor": "punishing", "closeness": 2, "reasoning": "The training is harsh by any standard, but 'punishing' implies suffering imposed as penalty rather than the freely chosen, goal-directed self-denial the sentence describes." },
+        { "distractor": "recreational", "closeness": 1, "reasoning": "The training involves years of enduring hunger and cold; framing it as recreational directly contradicts the hardship the sentence describes." },
+        { "distractor": "indulgent", "closeness": 1, "reasoning": "The entire point of the training is to overcome physical desires like hunger — indulgence is the opposite of what the sentence describes." },
+        { "distractor": "haphazard", "closeness": 1, "reasoning": "Years of training that produces measurable mastery over bodily discomfort implies sustained, structured effort, not random or careless activity." }
       ]
     }
   ]

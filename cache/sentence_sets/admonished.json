@@ -4,181 +4,49 @@
     {
       "sentence": "The judge admonished the witness to answer only what was asked, not to volunteer information.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "instructed", "closeness": 3, "reasoning": "Instructed conveys neutral directive without the implied correction or warning that admonished adds, especially when a figure of authority is managing improper conduct." },
+        { "distractor": "warned", "closeness": 3, "reasoning": "Warned focuses on alerting someone to a consequence but lacks admonished's element of correcting behavior and stating a duty." },
+        { "distractor": "directed", "closeness": 3, "reasoning": "Directed simply means to give orders and misses the reproving, corrective tone that admonished carries in a judicial context." },
+        { "distractor": "reminded", "closeness": 3, "reasoning": "Reminded implies the person had forgotten something, while admonished implies a formal, authoritative correction of ongoing behavior in real time." },
+        { "distractor": "commanded", "closeness": 2, "reasoning": "Commanded implies issuing a strict order with the full force of authority, which is more forceful and less corrective-in-tone than admonished." },
+        { "distractor": "implored", "closeness": 2, "reasoning": "Implored means to beg earnestly, implying the authority figure is pleading rather than acting from a position of power as admonished requires." },
+        { "distractor": "requested", "closeness": 2, "reasoning": "Requested is too soft and lacks the authority and corrective weight that admonished carries in a judicial or formal context." },
+        { "distractor": "scolded", "closeness": 2, "reasoning": "Scolded implies emotional displeasure and is more informal; admonished in legal and formal contexts is controlled and authoritative, not emotionally reactive." },
+        { "distractor": "praised", "closeness": 1, "reasoning": "Praised means the judge commended the witness's behavior, which is the direct opposite of admonished's corrective intent." },
+        { "distractor": "dismissed", "closeness": 1, "reasoning": "Dismissed means the judge sent the witness away or disregarded the issue, not corrected behavior as admonished describes." },
+        { "distractor": "excused", "closeness": 1, "reasoning": "Excused means to pardon the behavior rather than correct it, which is contrary to what admonished means." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to admonished before the meeting adjourned.",
+      "sentence": "The senior partner admonished the associate for filing the brief without a final proofreading pass.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "rebuked", "closeness": 3, "reasoning": "Rebuked implies a sharper, more disapproving condemnation; admonished retains a guidance element suggesting the associate should do better next time." },
+        { "distractor": "reprimanded", "closeness": 3, "reasoning": "Reprimanded implies a more formal, documented disciplinary action, while admonished is more of a direct verbal correction in the moment." },
+        { "distractor": "chastised", "closeness": 3, "reasoning": "Chastised implies a somewhat more severe or punitive rebuke; admonished is closer to a firm reminder of expected professional standards." },
+        { "distractor": "criticized", "closeness": 3, "reasoning": "Criticized focuses on finding fault without the corrective component or authority-exercising dimension that admonished carries." },
+        { "distractor": "berated", "closeness": 2, "reasoning": "Berated implies an extended, angry verbal assault, which is far more emotionally intense than the measured correction that admonished describes." },
+        { "distractor": "fired", "closeness": 2, "reasoning": "Fired implies terminating employment, which is a structural consequence far beyond the verbal correction that admonished describes." },
+        { "distractor": "guided", "closeness": 2, "reasoning": "Guided emphasizes mentorship and positive direction rather than the corrective and slightly reproving quality of admonished." },
+        { "distractor": "notified", "closeness": 2, "reasoning": "Notified means to inform someone of something and carries no corrective or reproving tone, making it too neutral for admonished." },
+        { "distractor": "complimented", "closeness": 1, "reasoning": "Complimented means to praise the associate's work, the direct opposite of admonished's corrective response to an error." },
+        { "distractor": "promoted", "closeness": 1, "reasoning": "Promoted means to elevate the associate's standing as a reward, which is the antonym of admonishing for poor performance." },
+        { "distractor": "absolved", "closeness": 1, "reasoning": "Absolved means to clear someone of blame, directly contradicting admonished's act of holding them accountable." }
       ]
     },
     {
-      "sentence": "The curator chose to admonished the fragile document only after consulting the conservator.",
+      "sentence": "Students were admonished at the start of every exam season to manage their time and avoid all-nighters.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "cautioned", "closeness": 3, "reasoning": "Cautioned focuses on alerting to potential risk rather than the reminder of duties and correct behavior that admonished implies." },
+        { "distractor": "urged", "closeness": 3, "reasoning": "Urged implies encouraging or pressing for action without the mild reproving quality that admonished adds in this educational authority context." },
+        { "distractor": "advised", "closeness": 3, "reasoning": "Advised is neutral guidance and lacks the authoritative corrective tone of admonished, which implies a position of moral or institutional oversight." },
+        { "distractor": "lectured", "closeness": 3, "reasoning": "Lectured implies extended, possibly tedious instruction and can be dismissive in tone, whereas admonished is purposeful and focused on correct behavior." },
+        { "distractor": "mandated", "closeness": 2, "reasoning": "Mandated means required by official rule, which is more coercive than admonished's verbal correction and guidance." },
+        { "distractor": "encouraged", "closeness": 2, "reasoning": "Encouraged is positive in tone and lacks admonished's corrective edge, which implies the students needed to be steered away from bad habits." },
+        { "distractor": "told", "closeness": 2, "reasoning": "Told is far too neutral and describes any act of communication, losing the authoritative, corrective significance of admonished." },
+        { "distractor": "threatened", "closeness": 2, "reasoning": "Threatened implies a stated negative consequence used to compel behavior, which is more coercive and less guidance-oriented than admonished." },
+        { "distractor": "applauded", "closeness": 1, "reasoning": "Applauded means to praise students for their behavior, the antonym of admonished's corrective function." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Ignored means administrators took no notice of students' habits, the opposite of the deliberate corrective action of admonishing." },
+        { "distractor": "dismissed", "closeness": 1, "reasoning": "Dismissed means to send away or disregard concern about the issue, contrary to admonished's proactive corrective message." }
       ]
     }
   ]

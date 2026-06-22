@@ -4,181 +4,49 @@
     {
       "sentence": "The affluent neighborhood contrasted sharply with the poverty visible just a few blocks away.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "prosperous", "closeness": 3, "reasoning": "'Prosperous' often applies to a community's general success and can include non-material thriving; the contrast with poverty a few blocks away specifically signals material wealth as the distinguishing factor, which 'affluent' pinpoints more precisely." },
+        { "distractor": "upscale", "closeness": 3, "reasoning": "'Upscale' describes a neighborhood's commercial or lifestyle character, but the sharp contrast with nearby poverty points to economic wealth as the key quality, not style or market positioning." },
+        { "distractor": "privileged", "closeness": 3, "reasoning": "'Privileged' implies social advantage that may include but extends beyond money, whereas the immediate contrast with material poverty in the sentence singles out economic wealth." },
+        { "distractor": "elite", "closeness": 3, "reasoning": "'Elite' implies social exclusivity or high status that may derive from many sources beyond money, while the poverty contrast locates the difference specifically in material wealth." },
+        { "distractor": "suburban", "closeness": 2, "reasoning": "The sentence focuses on economic contrast, not geographic position relative to a city center; 'suburban' describes location, not wealth." },
+        { "distractor": "comfortable", "closeness": 2, "reasoning": "'Comfortable' implies moderate well-being rather than the sharp disparity with nearby poverty that the sentence describes; the contrast requires a stronger word." },
+        { "distractor": "exclusive", "closeness": 2, "reasoning": "'Exclusive' implies restricted membership or access, but the sentence makes an economic comparison rather than describing access to the neighborhood." },
+        { "distractor": "gentrified", "closeness": 2, "reasoning": "'Gentrified' implies a process of change over time, whereas the sentence describes the neighborhood's current state contrasted with an adjacent one." },
+        { "distractor": "impoverished", "closeness": 1, "reasoning": "The sentence contrasts this neighborhood with nearby poverty; 'impoverished' would make it the impoverished one, the opposite of what is described." },
+        { "distractor": "dilapidated", "closeness": 1, "reasoning": "The sentence positions this neighborhood as the wealthy side of the contrast; 'dilapidated' suggests decay, which belongs to the other side." },
+        { "distractor": "rural", "closeness": 1, "reasoning": "The sentence describes an urban economic contrast; 'rural' is a geographic description with no bearing on the wealth distinction being made." }
       ]
     },
     {
-      "sentence": "Her affluent response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The school drew students from both affluent families and those receiving subsidized lunches, a rare socioeconomic mix.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "wealthy", "closeness": 3, "reasoning": "Very close in meaning, but the sentence pairs 'affluent' with the specific context of a formal socioeconomic categorization alongside subsidized-lunch recipients, and 'wealthy' is less commonly used as a formal demographic modifier in such contexts." },
+        { "distractor": "high-income", "closeness": 3, "reasoning": "This closely parallels the meaning in this context, but 'affluent' carries a connotation of established material comfort rather than just a current income level." },
+        { "distractor": "middle-class", "closeness": 3, "reasoning": "If the word were 'middle-class,' the contrast with subsidized-lunch recipients would be less sharp; the sentence describes a notably wide socioeconomic range, implying considerable wealth on one end." },
+        { "distractor": "educated", "closeness": 3, "reasoning": "The sentence is about economic background, not educational attainment; but 'educated' families are commonly associated with enrollment choices in school-context sentences, making this a plausible trap." },
+        { "distractor": "professional", "closeness": 2, "reasoning": "'Professional' describes occupation rather than financial status and would not form a clear economic contrast with families requiring lunch subsidies." },
+        { "distractor": "established", "closeness": 2, "reasoning": "'Established' suggests long-standing status or reputation but does not specify economic wealth, making the contrast with low-income families less precise." },
+        { "distractor": "fortunate", "closeness": 2, "reasoning": "'Fortunate' implies luck rather than a measurable economic category, weakening the sociological precision the sentence implies." },
+        { "distractor": "prominent", "closeness": 2, "reasoning": "'Prominent' implies social visibility or influence rather than specifically material wealth, and the sentence's economic comparison requires the latter." },
+        { "distractor": "impoverished", "closeness": 1, "reasoning": "The sentence explicitly places 'affluent families' opposite those receiving subsidized lunches; 'impoverished' would collapse the contrast the sentence is built on." },
+        { "distractor": "anonymous", "closeness": 1, "reasoning": "Completely wrong semantic field — 'anonymous' describes lack of identity, not economic status." },
+        { "distractor": "foreign", "closeness": 1, "reasoning": "The sentence is about domestic economic categories, not national origin." }
       ]
     },
     {
-      "sentence": "The curator's affluent arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "Even in an affluent society, access to quality healthcare is not equally distributed.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "advanced", "closeness": 3, "reasoning": "'Advanced' implies technological or developmental sophistication, which partially overlaps with a wealthy society but does not establish the economic wealth that makes unequal access to healthcare a particularly pointed observation." },
+        { "distractor": "industrialized", "closeness": 3, "reasoning": "An industrialized society might be wealthy but the word emphasizes manufacturing development; the sentence's argument about healthcare distribution rests on economic abundance, not industrial structure." },
+        { "distractor": "developed", "closeness": 3, "reasoning": "'Developed' is a standard term for high-GDP nations and could fit, but it emphasizes a composite measure of development rather than the specifically material wealth that makes the inequality ironic." },
+        { "distractor": "modern", "closeness": 3, "reasoning": "'Modern' describes temporal and technological characteristics rather than economic wealth, so it does not establish the financial abundance that gives the inequality its rhetorical force." },
+        { "distractor": "stable", "closeness": 2, "reasoning": "'Stable' describes political or social equilibrium, not economic wealth; it does not make the distributional failure as striking." },
+        { "distractor": "democratic", "closeness": 2, "reasoning": "The sentence's argument hinges on economic resources being abundant yet unequally shared; 'democratic' is a political category that does not create that irony." },
+        { "distractor": "competitive", "closeness": 2, "reasoning": "'Competitive' describes a market or cultural orientation, not the level of material wealth that makes healthcare inequality notable." },
+        { "distractor": "globalized", "closeness": 2, "reasoning": "'Globalized' describes economic integration with the world market, not the internal wealth level that sets up the healthcare contrast." },
+        { "distractor": "impoverished", "closeness": 1, "reasoning": "The sentence's rhetorical point depends on the society being wealthy; 'impoverished' would make unequal healthcare access unsurprising rather than ironic." },
+        { "distractor": "isolated", "closeness": 1, "reasoning": "'Isolated' has no bearing on the economic abundance the sentence invokes." },
+        { "distractor": "ancient", "closeness": 1, "reasoning": "The sentence is about contemporary economic conditions; 'ancient' is temporally incompatible." }
       ]
     }
   ]

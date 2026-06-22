@@ -4,181 +4,49 @@
     {
       "sentence": "She felt an immediate affinity with the other researchers, recognizing in them the same relentless curiosity.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "kinship", "closeness": 3, "reasoning": "The sentence grounds the connection in shared intellectual trait rather than family or communal origin; 'kinship' carries a blood or tribal bond that the shared curiosity alone does not establish." },
+        { "distractor": "rapport", "closeness": 3, "reasoning": "'Rapport' describes a smooth, harmonious interaction, but the sentence emphasizes a felt recognition of similarity rather than a quality of their actual exchange." },
+        { "distractor": "camaraderie", "closeness": 3, "reasoning": "'Camaraderie' implies warm mutual support built over shared experience, whereas the sentence stresses immediacy — the feeling arose before any such shared experience could develop." },
+        { "distractor": "empathy", "closeness": 3, "reasoning": "'Empathy' means understanding another's feelings, but the sentence describes identifying oneself in others based on a shared trait, which is recognition, not emotional understanding." },
+        { "distractor": "admiration", "closeness": 2, "reasoning": "The sentence describes identification with the other researchers rather than esteem for them; she sees herself in them, which is different from looking up to them." },
+        { "distractor": "fellowship", "closeness": 2, "reasoning": "'Fellowship' implies membership in a group and the bonds that follow, whereas the sentence describes an internal feeling arising from observed similarity before any group membership is established." },
+        { "distractor": "sympathy", "closeness": 2, "reasoning": "'Sympathy' implies feeling sorry for someone or sharing another's sorrow, whereas the sentence describes a positive feeling of identification based on shared intellectual drive." },
+        { "distractor": "loyalty", "closeness": 2, "reasoning": "The feeling in the sentence is instantaneous and based on recognition; 'loyalty' implies a committed obligation that typically develops over time." },
+        { "distractor": "hostility", "closeness": 1, "reasoning": "Directly contradicts the warm, connecting feeling the sentence describes." },
+        { "distractor": "indifference", "closeness": 1, "reasoning": "The sentence describes an immediate and positive felt connection, the opposite of indifference." },
+        { "distractor": "rivalry", "closeness": 1, "reasoning": "The sentence describes mutual recognition among researchers, not competition — 'rivalry' is clearly incompatible." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected affinity, which altered the course of the committee's deliberations.",
+      "sentence": "His affinity for numbers was evident from childhood, when he would spend hours working through puzzles that stumped his older siblings.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "aptitude", "closeness": 3, "reasoning": "'Aptitude' emphasizes measurable ability, but the sentence stresses his enjoyment and voluntary engagement with numbers — hours spent willingly — more than the skill itself." },
+        { "distractor": "talent", "closeness": 3, "reasoning": "The sentence emphasizes voluntary dedication and sustained interest, whereas 'talent' foregrounds innate ability; the stumping of older siblings hints at skill, but the hours spent suggest a felt pull beyond mere talent." },
+        { "distractor": "inclination", "closeness": 3, "reasoning": "Very close, but 'inclination' describes a general leaning that may be casual, while the sentence shows sustained, voluntary effort from childhood suggesting something deeper and more natural." },
+        { "distractor": "enthusiasm", "closeness": 3, "reasoning": "'Enthusiasm' describes excitable energy, but 'affinity' implies a natural draw that goes beyond transient excitement, as evidenced by the quiet, persistent solo work." },
+        { "distractor": "proficiency", "closeness": 2, "reasoning": "'Proficiency' focuses on a high level of achieved skill, while the sentence is about a natural, instinctive attraction to numbers rather than a demonstrated competence level." },
+        { "distractor": "obsession", "closeness": 2, "reasoning": "The sentence describes a natural, positive engagement, and 'obsession' carries a compulsive, negative connotation that the childhood scene does not support." },
+        { "distractor": "familiarity", "closeness": 2, "reasoning": "'Familiarity' describes knowledge through exposure rather than a natural attraction; one can be familiar with something one dislikes." },
+        { "distractor": "dedication", "closeness": 2, "reasoning": "'Dedication' implies disciplined commitment, often effortful, whereas the sentence presents the hours spent as arising naturally from a felt pull toward numbers." },
+        { "distractor": "aversion", "closeness": 1, "reasoning": "Directly opposite — the sentence describes a positive draw toward numbers, not a desire to avoid them." },
+        { "distractor": "ignorance", "closeness": 1, "reasoning": "The sentence shows expertise enough to stump older siblings, making 'ignorance' clearly wrong." },
+        { "distractor": "apathy", "closeness": 1, "reasoning": "The voluntary hours spent on puzzles demonstrate strong engagement, the opposite of apathy." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the affinity to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "The enzyme's affinity for that particular substrate allows the reaction to proceed even at very low concentrations.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "selectivity", "closeness": 3, "reasoning": "'Selectivity' implies choosing among options, but the sentence describes the enzyme's pull toward the substrate regardless of concentration, which is about attraction strength, not choice between alternatives." },
+        { "distractor": "sensitivity", "closeness": 3, "reasoning": "'Sensitivity' implies a response to stimuli, which partially fits the low-concentration detail, but 'affinity' specifically describes the binding pull between two molecular entities, not a sensory response." },
+        { "distractor": "attraction", "closeness": 3, "reasoning": "Very close in casual language, but in a biochemical sentence about substrates and reactions, 'affinity' is the precise technical term for binding tendency, while 'attraction' is too informal and nonspecific." },
+        { "distractor": "compatibility", "closeness": 3, "reasoning": "'Compatibility' implies mutual suitability, but the sentence emphasizes the enzyme's capacity to act even at minimal substrate presence, which is about binding strength rather than fit alone." },
+        { "distractor": "tolerance", "closeness": 2, "reasoning": "The sentence shows the reaction proceeds efficiently at low concentrations, but 'tolerance' implies enduring adverse conditions rather than being drawn toward a target." },
+        { "distractor": "reactivity", "closeness": 2, "reasoning": "'Reactivity' describes how readily a molecule undergoes chemical change, while the sentence describes the binding relationship between enzyme and substrate before reaction." },
+        { "distractor": "specificity", "closeness": 2, "reasoning": "'Specificity' describes how narrowly a molecule targets one substrate over others, whereas the sentence is about the strength of the bond that enables low-concentration function." },
+        { "distractor": "efficiency", "closeness": 2, "reasoning": "The sentence implies efficient action, but 'efficiency' describes the outcome rather than the molecular pull between enzyme and substrate that enables it." },
+        { "distractor": "repulsion", "closeness": 1, "reasoning": "Opposite of the binding pull the sentence describes — repulsion would prevent the reaction from proceeding at all." },
+        { "distractor": "toxicity", "closeness": 1, "reasoning": "Completely wrong semantic field; the sentence is about enzyme-substrate binding, not harmful effects." },
+        { "distractor": "instability", "closeness": 1, "reasoning": "The sentence describes a reliable reaction at low concentration, implying stability; 'instability' contradicts the scenario." }
       ]
     }
   ]

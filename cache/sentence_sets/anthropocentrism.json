@@ -4,181 +4,49 @@
     {
       "sentence": "The philosopher criticized anthropocentrism as the root cause of humanity's disregard for other species.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "speciesism", "closeness": 3, "reasoning": "Speciesism refers to the assumption of human superiority used to justify mistreatment of other species, which overlaps with anthropocentrism but is a more specific ethical charge rather than a broad cosmological worldview." },
+        { "distractor": "humanism", "closeness": 3, "reasoning": "Humanism values human dignity and flourishing but does not necessarily subordinate or disregard other species, so attributing disregard for nature to humanism would be a category error." },
+        { "distractor": "ethnocentrism", "closeness": 3, "reasoning": "Ethnocentrism is the belief that one's own ethnic group is superior to others; it concerns human intra-group bias rather than humanity's relationship to other species." },
+        { "distractor": "narcissism", "closeness": 3, "reasoning": "Narcissism is a psychological trait of self-absorption; applying it to a species-level philosophical worldview conflates individual psychology with cosmological assumption." },
+        { "distractor": "individualism", "closeness": 2, "reasoning": "Individualism prioritizes personal autonomy over collective interests, but it has no inherent implication about humanity's stance toward other species." },
+        { "distractor": "materialism", "closeness": 2, "reasoning": "Materialism concerns the primacy of physical matter or wealth and does not specifically position humans above other species in the universe." },
+        { "distractor": "utilitarianism", "closeness": 2, "reasoning": "Utilitarianism calculates the greatest good and can actually extend moral concern to animals, so using it would reverse the philosopher's critical point." },
+        { "distractor": "nationalism", "closeness": 2, "reasoning": "Nationalism concerns loyalty to a nation-state and has no direct conceptual link to humanity's hierarchical relationship with other species." },
+        { "distractor": "altruism", "closeness": 1, "reasoning": "Altruism means selfless concern for others, which is the opposite of the self-centered worldview the philosopher is critiquing." },
+        { "distractor": "environmentalism", "closeness": 1, "reasoning": "Environmentalism is a movement advocating protection of the natural world, the philosophical opposite of what the philosopher is attacking." },
+        { "distractor": "biocentrism", "closeness": 1, "reasoning": "Biocentrism holds that all living things have equal intrinsic value, directly contradicting the human-centered hierarchy that anthropocentrism asserts." }
       ]
     },
     {
-      "sentence": "Her anthropocentrism response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "Deep ecology emerged partly as a challenge to anthropocentrism, insisting that rivers and forests hold value independent of human benefit.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "humanism", "closeness": 3, "reasoning": "Humanism celebrates human potential but does not inherently deny intrinsic value to nature; using it would soften the philosophical target deep ecology is opposing." },
+        { "distractor": "speciesism", "closeness": 3, "reasoning": "Speciesism focuses specifically on moral discrimination among animal species and is a narrower ethical concept than the cosmological claim anthropocentrism makes about human centrality." },
+        { "distractor": "instrumentalism", "closeness": 3, "reasoning": "Instrumentalism is the view that things have value only as instruments toward human ends, which overlaps strongly with anthropocentrism but is a more specific philosophical doctrine rather than a worldview label." },
+        { "distractor": "dualism", "closeness": 3, "reasoning": "Dualism refers to the separation of mind and body or nature and culture, and while it is sometimes linked to environmental problems, it does not specifically place humans at the center of moral significance." },
+        { "distractor": "capitalism", "closeness": 2, "reasoning": "Capitalism is an economic system; while it can lead to resource extraction, it is not the philosophical worldview deep ecology specifically arose to challenge." },
+        { "distractor": "rationalism", "closeness": 2, "reasoning": "Rationalism prioritizes reason as the source of knowledge, without specifically denying intrinsic value to nature." },
+        { "distractor": "positivism", "closeness": 2, "reasoning": "Positivism holds that knowledge comes from empirical evidence, not a human-centric value system, so it is a misfit for this sentence." },
+        { "distractor": "pragmatism", "closeness": 2, "reasoning": "Pragmatism evaluates ideas by their practical consequences and does not specifically place humans at the center of all value." },
+        { "distractor": "egalitarianism", "closeness": 1, "reasoning": "Egalitarianism promotes equal rights, which is closer to deep ecology's position than to the view deep ecology is challenging." },
+        { "distractor": "pantheism", "closeness": 1, "reasoning": "Pantheism identifies the universe with divinity, granting nature high spiritual value, making it more aligned with deep ecology than opposed to it." },
+        { "distractor": "nihilism", "closeness": 1, "reasoning": "Nihilism denies all value, which would undermine both sides of the ecological debate rather than serving as the human-centered target deep ecology attacks." }
       ]
     },
     {
-      "sentence": "The curator's anthropocentrism arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "The climate activist argued that anthropocentrism prevents societies from making the sacrifices necessary to protect ecosystems.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "shortsightedness", "closeness": 3, "reasoning": "Shortsightedness suggests a failure of temporal vision but does not capture the specific philosophical assumption that humans are the measure of all value, which is the activist's precise target." },
+        { "distractor": "self-interest", "closeness": 3, "reasoning": "Self-interest describes motivation at the individual level, whereas anthropocentrism is a species-level worldview that the activist critiques as a systematic obstacle." },
+        { "distractor": "ethnocentrism", "closeness": 3, "reasoning": "Ethnocentrism is bias among human groups, not the assumption of human superiority over all other species that prevents ecosystem protection." },
+        { "distractor": "consumerism", "closeness": 3, "reasoning": "Consumerism is a cultural and economic pattern of excessive consumption; the activist's philosophical critique targets the underlying worldview, not just a behavioral pattern." },
+        { "distractor": "complacency", "closeness": 2, "reasoning": "Complacency is a psychological state of unconcerned satisfaction, not a philosophical worldview that structurally places human benefit above ecosystem health." },
+        { "distractor": "greed", "closeness": 2, "reasoning": "Greed is a moral vice, not a worldview, and does not explain the structural philosophical obstacle the activist is pointing to." },
+        { "distractor": "indifference", "closeness": 2, "reasoning": "Indifference is an attitudinal state, not the philosophical framework that the activist argues causes the indifference in the first place." },
+        { "distractor": "ignorance", "closeness": 2, "reasoning": "Ignorance implies lack of knowledge, whereas the activist's critique is about a value system, not an information deficit." },
+        { "distractor": "collectivism", "closeness": 1, "reasoning": "Collectivism prioritizes group welfare over individual interests, which if applied at the species level could actually motivate ecosystem protection rather than prevent it." },
+        { "distractor": "altruism", "closeness": 1, "reasoning": "Altruism is selfless concern for others — if directed toward other species, it would be precisely what the activist says anthropocentrism blocks." },
+        { "distractor": "biocentrism", "closeness": 1, "reasoning": "Biocentrism holds all life equally valuable; it is the worldview the activist implicitly advocates, not the obstacle she identifies." }
       ]
     }
   ]

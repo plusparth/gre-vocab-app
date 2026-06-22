@@ -4,181 +4,49 @@
     {
       "sentence": "The play's use of cell phones was an anachronism, jarring in a story set in the nineteenth century.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "inconsistency", "closeness": 3, "reasoning": "Cell phones in a nineteenth-century play are inconsistent with the setting, making 'inconsistency' plausible, but the sentence's 'jarring in a story set in the nineteenth century' specifies a time-period mismatch rather than a logical contradiction within a single era." },
+        { "distractor": "incongruity", "closeness": 3, "reasoning": "The jarring quality of cell phones in a historical setting fits 'incongruity,' but incongruity can refer to any mismatch of style, tone, or context, whereas the sentence locates the problem specifically in a collision of historical time periods." },
+        { "distractor": "blunder", "closeness": 3, "reasoning": "Cell phones in a nineteenth-century play represent a mistake by the playwright or director, so 'blunder' is tempting, but a blunder is any careless error, whereas the sentence's emphasis on a dated-object appearing in the wrong historical period points to a time-specific error." },
+        { "distractor": "anomaly", "closeness": 3, "reasoning": "Something jarring and out of place in the story's context fits 'anomaly,' but an anomaly is simply an irregularity without the specific temporal dimension that the sentence highlights by specifying the nineteenth-century setting." },
+        { "distractor": "absurdity", "closeness": 2, "reasoning": "Cell phones in a historical play might seem absurd, but 'absurdity' implies logical impossibility or ridiculous illogic rather than the specific problem of a modern object placed in the wrong century." },
+        { "distractor": "distraction", "closeness": 2, "reasoning": "The sentence says the cell phones were jarring, which could make them distracting, but 'distraction' is a perceptual effect rather than a category of error about temporal misplacement." },
+        { "distractor": "parody", "closeness": 2, "reasoning": "A modern object inserted into a historical play might be a deliberate comic technique, but the sentence's 'jarring' tone suggests unintended error rather than intentional satirical effect." },
+        { "distractor": "cliché", "closeness": 2, "reasoning": "A cliché is an overused convention, not an object from the wrong historical era; the sentence's complaint is about temporal dislocation, not creative staleness." },
+        { "distractor": "revelation", "closeness": 1, "reasoning": "A revelation is the disclosure of something previously hidden; it has nothing to do with a modern object appearing in a historical setting, making this clearly wrong." },
+        { "distractor": "epiphany", "closeness": 1, "reasoning": "An epiphany is a sudden insight or moment of clarity, not a jarring temporal mismatch in a theatrical production." },
+        { "distractor": "homage", "closeness": 1, "reasoning": "A homage is a respectful tribute; the sentence describes something jarring and out of place, the opposite of an intentional tribute, making this clearly wrong." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected anachronism, which altered the course of the committee's deliberations.",
+      "sentence": "When the Renaissance-era portrait was digitally enhanced, historians were startled to find a wristwatch on the nobleman's wrist—an anachronism no one had noticed in four centuries of viewing.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "forgery", "closeness": 3, "reasoning": "A wristwatch appearing in a Renaissance portrait could suggest the painting is a forgery, and the sentence's 'startled historians' supports suspicion, but a forgery is a deliberate deception about authenticity, whereas an anachronism is specifically an object belonging to the wrong time period." },
+        { "distractor": "anomaly", "closeness": 3, "reasoning": "Something unnoticed for centuries that suddenly appears startling fits 'anomaly,' but the sentence specifies that a wristwatch—which belongs to a later era—appears in a Renaissance painting, pointing specifically to a temporal rather than merely a statistical irregularity." },
+        { "distractor": "artifact", "closeness": 3, "reasoning": "A wristwatch in a painting could be loosely called an artifact, but 'artifact' refers to any human-made object and does not capture the idea of temporal misplacement that the sentence highlights by contrasting the Renaissance era with the object." },
+        { "distractor": "distortion", "closeness": 3, "reasoning": "Digital enhancement of the image might introduce distortions, making this plausible, but the sentence says historians were startled by what was revealed, suggesting the wristwatch is depicted in the original painting rather than introduced through digital manipulation." },
+        { "distractor": "flaw", "closeness": 2, "reasoning": "A wristwatch in a Renaissance portrait is a flaw only in the sense that it contradicts historical accuracy, but 'flaw' is generic and does not capture the specific problem of a modern object appearing in an earlier era." },
+        { "distractor": "mystery", "closeness": 2, "reasoning": "The overlooked wristwatch creates a mystery for historians, but 'mystery' describes the state of puzzlement, not the kind of error the wristwatch itself represents." },
+        { "distractor": "illusion", "closeness": 2, "reasoning": "Historians being startled by what they see could suggest an illusion, but the sentence implies they genuinely see a wristwatch in the portrait, not a trick of perception." },
+        { "distractor": "scandal", "closeness": 2, "reasoning": "Discovering a wristwatch in an old portrait might create a scholarly scandal, but 'scandal' refers to public outrage, not the technical category of error the wristwatch represents." },
+        { "distractor": "prophecy", "closeness": 1, "reasoning": "A prophecy is a prediction of the future; a wristwatch in a Renaissance portrait is not a message about the future but an object from the wrong time period, making this clearly wrong." },
+        { "distractor": "masterpiece", "closeness": 1, "reasoning": "A masterpiece is an outstanding work of art; the sentence describes something wrong with the portrait rather than praising its quality, making this clearly wrong." },
+        { "distractor": "tribute", "closeness": 1, "reasoning": "A tribute is an expression of admiration; the sentence describes a startling error in a historical portrait, which is the opposite of an intentional tribute." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the anachronism to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "The novelist deliberately included anachronisms—electric streetlights in a medieval village—to signal that her story should be read as fable rather than history.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "embellishments", "closeness": 3, "reasoning": "Adding electric streetlights to a medieval setting involves embellishing the fictional world with details it would not historically have, but 'embellishments' implies ornamental additions for richness, not objects that signal temporal impossibility to direct the reader's interpretation." },
+        { "distractor": "inconsistencies", "closeness": 3, "reasoning": "Electric streetlights in a medieval village are inconsistent with the setting, and the sentence even uses them as deliberate signals, making 'inconsistencies' plausible, but the specific function is to highlight time-period impossibility rather than mere logical contradiction." },
+        { "distractor": "allegories", "closeness": 3, "reasoning": "The sentence says these elements signal that the story is a fable, and allegories are symbolic devices that guide interpretation, making this a trap, but an allegory is a narrative form rather than a specific object from the wrong historical period placed in a story." },
+        { "distractor": "provocations", "closeness": 3, "reasoning": "Deliberately placed impossible historical elements could be called provocations designed to jolt the reader's assumptions, but 'provocations' is too vague and does not capture the specific time-period-mismatch mechanism the sentence describes." },
+        { "distractor": "symbols", "closeness": 2, "reasoning": "The electric streetlights serve as signals in the story, which is a symbolic function, but 'symbols' does not convey that the objects are wrong for the historical period, which is what makes them effective signals in the sentence." },
+        { "distractor": "digressions", "closeness": 2, "reasoning": "A digression is a departure from the main subject of a narrative, not an object from the wrong time period used to signal genre, making this a poor fit for the sentence's meaning." },
+        { "distractor": "inventions", "closeness": 2, "reasoning": "Electric streetlights are inventions, but 'inventions' in this context would mean creative fictional devices generally rather than objects misplaced across historical eras." },
+        { "distractor": "clichés", "closeness": 2, "reasoning": "A cliché is a worn-out convention; medieval villages and electric lights are not conventionally overused together, and the sentence's focus is on temporal impossibility rather than stale creativity." },
+        { "distractor": "omissions", "closeness": 1, "reasoning": "An omission is something left out; the sentence describes something added to the story (electric streetlights), making this the opposite of what is described." },
+        { "distractor": "translations", "closeness": 1, "reasoning": "A translation is a rendering of text into another language; the sentence is about deliberate narrative design choices, not language conversion, making this clearly wrong." },
+        { "distractor": "dedications", "closeness": 1, "reasoning": "A dedication is a note of tribute, not a deliberate historical impossibility inserted into a story to signal its genre, making this clearly wrong." }
       ]
     }
   ]

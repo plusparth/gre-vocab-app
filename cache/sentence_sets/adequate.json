@@ -4,181 +4,49 @@
     {
       "sentence": "The evidence, though adequate to secure a conviction, left some jurors uncertain.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "sufficient", "closeness": 3, "reasoning": "Sufficient is nearly interchangeable but implies exactly meeting a requirement without the slight undercurrent of 'just barely' that adequate often carries." },
+        { "distractor": "satisfactory", "closeness": 3, "reasoning": "Satisfactory implies meeting expectations and even producing a positive response, while adequate often signals meeting the minimum bar without exceeding it." },
+        { "distractor": "enough", "closeness": 3, "reasoning": "Enough is colloquially close but does not carry the formal, evaluative tone of adequate in a legal or analytical context." },
+        { "distractor": "convincing", "closeness": 3, "reasoning": "Convincing implies the evidence actually persuades rather than merely meeting a technical legal threshold, which is what adequate captures here." },
+        { "distractor": "acceptable", "closeness": 2, "reasoning": "Acceptable has a broader social and evaluative meaning and does not specifically imply meeting a defined functional threshold the way adequate does." },
+        { "distractor": "marginal", "closeness": 2, "reasoning": "Marginal implies barely getting by, which is close in spirit but emphasizes insufficiency more than the 'meets the bar' meaning of adequate." },
+        { "distractor": "substantial", "closeness": 2, "reasoning": "Substantial implies a strong, considerable quantity, which overstates what adequate conveys — adequate can describe bare sufficiency." },
+        { "distractor": "appropriate", "closeness": 2, "reasoning": "Appropriate emphasizes suitability to circumstances rather than sufficiency of quantity or strength, which adequate specifically addresses." },
+        { "distractor": "overwhelming", "closeness": 1, "reasoning": "Overwhelming suggests an abundance far exceeding what is needed, the opposite of adequate's sense of bare sufficiency." },
+        { "distractor": "insufficient", "closeness": 1, "reasoning": "Insufficient is a direct antonym, meaning the threshold has not been met, whereas adequate means it has." },
+        { "distractor": "negligible", "closeness": 1, "reasoning": "Negligible means too small to matter, which directly contradicts adequate's meaning of meeting the necessary requirement." }
       ]
     },
     {
-      "sentence": "Her adequate response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The funding proved adequate for the first phase but would run short once construction began.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "ample", "closeness": 3, "reasoning": "Ample implies a comfortable surplus beyond what is needed, whereas adequate suggests the amount is just enough and no more." },
+        { "distractor": "sufficient", "closeness": 3, "reasoning": "Sufficient is nearly synonymous but often implies a clean meeting of requirements without the implicit warning of limited margin that adequate carries in context." },
+        { "distractor": "available", "closeness": 3, "reasoning": "Available describes existence of resources but says nothing about whether they are enough, which is the core judgment that adequate expresses." },
+        { "distractor": "suitable", "closeness": 3, "reasoning": "Suitable emphasizes fit for purpose without addressing the quantity dimension that adequate highlights in financial contexts." },
+        { "distractor": "plentiful", "closeness": 2, "reasoning": "Plentiful implies abundance, overstating what adequate conveys and missing the note of just-barely-sufficient." },
+        { "distractor": "earmarked", "closeness": 2, "reasoning": "Earmarked describes the allocation of funds rather than the sufficiency of their amount, which is what adequate evaluates." },
+        { "distractor": "secured", "closeness": 2, "reasoning": "Secured means the funding has been obtained, which is a separate question from whether the amount is adequate." },
+        { "distractor": "modest", "closeness": 2, "reasoning": "Modest describes the scale of an amount qualitatively but does not make the sufficiency judgment that adequate does." },
+        { "distractor": "excessive", "closeness": 1, "reasoning": "Excessive means far more than needed, the opposite of adequate's implication of just meeting the requirement." },
+        { "distractor": "depleted", "closeness": 1, "reasoning": "Depleted means exhausted or used up, which contradicts adequate's assertion that the resource meets the current need." },
+        { "distractor": "meager", "closeness": 1, "reasoning": "Meager means deficiently small, directly contradicting adequate's meaning of meeting the necessary standard." }
       ]
     },
     {
-      "sentence": "The curator's adequate arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "His preparation was adequate for the preliminary round but would not carry him through the semifinals.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "passable", "closeness": 3, "reasoning": "Passable is close in meaning but more colloquial and may imply slightly lower quality than adequate, which can be a neutral judgment in a technical context." },
+        { "distractor": "solid", "closeness": 3, "reasoning": "Solid implies dependable strength beyond the minimum threshold, overstating what adequate — especially in contrast to what comes next — conveys." },
+        { "distractor": "thorough", "closeness": 3, "reasoning": "Thorough implies completeness and depth, which goes beyond adequate's sense of just meeting the immediate need." },
+        { "distractor": "decent", "closeness": 3, "reasoning": "Decent is close colloquially but adds a mild approval that adequate in this critical context deliberately withholds." },
+        { "distractor": "impressive", "closeness": 2, "reasoning": "Impressive suggests surpassing expectations, which is the opposite of the 'just barely enough' tone adequate takes here." },
+        { "distractor": "rigorous", "closeness": 2, "reasoning": "Rigorous implies demanding high standards and thoroughness, far more than adequate's minimum-sufficiency meaning." },
+        { "distractor": "extensive", "closeness": 2, "reasoning": "Extensive describes breadth of preparation, not whether it meets the threshold for a particular level of competition." },
+        { "distractor": "targeted", "closeness": 2, "reasoning": "Targeted describes a strategic quality of preparation, not whether that preparation was sufficient for the challenge at hand." },
+        { "distractor": "exemplary", "closeness": 1, "reasoning": "Exemplary means outstandingly good, the opposite of adequate's implication of barely meeting requirements." },
+        { "distractor": "nonexistent", "closeness": 1, "reasoning": "Nonexistent means there was no preparation at all, which is the opposite of adequate." },
+        { "distractor": "haphazard", "closeness": 1, "reasoning": "Haphazard implies disorganized carelessness, which undermines the idea of meeting any standard, contrary to adequate." }
       ]
     }
   ]

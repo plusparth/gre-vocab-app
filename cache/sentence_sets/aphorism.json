@@ -4,181 +4,49 @@
     {
       "sentence": "Her favorite aphorism—'measure twice, cut once'—guided her approach to every decision.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "maxim", "closeness": 3, "reasoning": "A short, quotable phrase used to guide decision-making is precisely what a maxim is, making this the closest contextual substitute." },
+        { "distractor": "adage", "closeness": 3, "reasoning": "A memorable saying that shapes someone's behavior and gets quoted verbatim fits 'adage' as a short traditional expression of practical wisdom." },
+        { "distractor": "motto", "closeness": 3, "reasoning": "A favorite saying that guides every decision functions exactly like a personal motto—a guiding principle expressed in a phrase." },
+        { "distractor": "mantra", "closeness": 3, "reasoning": "A phrase repeated as a guiding principle for all decisions fits 'mantra' in its modern usage as a personal guiding statement." },
+        { "distractor": "proverb", "closeness": 2, "reasoning": "A short, memorable phrase offering practical guidance fits 'proverb,' though that word typically implies folk wisdom passed down over generations." },
+        { "distractor": "truism", "closeness": 2, "reasoning": "A phrase accepted as self-evidently true and used to guide behavior fits 'truism,' though it stresses the obvious-truth quality more than practical guidance." },
+        { "distractor": "dictum", "closeness": 2, "reasoning": "A stated principle guiding one's decisions fits 'dictum,' though it carries a more authoritative, formal tone than a personal favorite saying." },
+        { "distractor": "platitude", "closeness": 2, "reasoning": "A familiar, well-worn phrase that someone repeats as wisdom fits 'platitude,' though it implies the phrase is overused rather than genuinely guiding." },
+        { "distractor": "anecdote", "closeness": 1, "reasoning": "An anecdote is a brief story or narrative, not a pithy phrase quoted as a principle; it doesn't fit the single-sentence quotation format." },
+        { "distractor": "metaphor", "closeness": 1, "reasoning": "A metaphor is a figure of speech drawing comparison; while 'measure twice, cut once' has metaphorical resonance, the sentence treats it as a guiding phrase, not a literary device." },
+        { "distractor": "hypothesis", "closeness": 1, "reasoning": "A hypothesis is a testable proposition, not a guiding personal saying; the context of a favorite phrase governing decisions makes this a poor fit." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected aphorism, which altered the course of the committee's deliberations.",
+      "sentence": "The coach ended every practice with an aphorism meant to motivate players through the long season.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "motto", "closeness": 3, "reasoning": "A short phrase delivered regularly to inspire a team fits 'motto' as a unifying statement of purpose or encouragement." },
+        { "distractor": "maxim", "closeness": 3, "reasoning": "A brief, pointed saying used to motivate athletes at the end of practice fits 'maxim' as a concise principle of conduct or wisdom." },
+        { "distractor": "mantra", "closeness": 3, "reasoning": "A phrase repeated regularly to keep players motivated through a long season is exactly how 'mantra' functions in a sports motivational context." },
+        { "distractor": "adage", "closeness": 3, "reasoning": "A pithy, memorable saying the coach uses to send players off with inspiration fits 'adage' as a wise, succinct expression." },
+        { "distractor": "quip", "closeness": 2, "reasoning": "A short, clever remark that ends practice could function like a quip, though this word implies humor rather than motivational wisdom." },
+        { "distractor": "proverb", "closeness": 2, "reasoning": "A traditional, short piece of wisdom used to motivate could be called a proverb, though that word implies inherited folk wisdom rather than a personally chosen phrase." },
+        { "distractor": "benediction", "closeness": 2, "reasoning": "Ending every practice with a phrase meant to send players off well fits 'benediction' as a closing expression of good wishes or blessing." },
+        { "distractor": "lecture", "closeness": 1, "reasoning": "A lecture implies an extended talk or instruction, not a brief closing phrase; the sentence emphasizes brevity and ritual, not length." },
+        { "distractor": "anecdote", "closeness": 1, "reasoning": "An anecdote is a brief story, not a pithy motivational phrase; the coach's closing ritual is described as a saying, not a narrative." },
+        { "distractor": "critique", "closeness": 1, "reasoning": "A critique focuses on identifying flaws or weaknesses, the opposite of a motivating phrase meant to inspire players." },
+        { "distractor": "disclaimer", "closeness": 1, "reasoning": "A disclaimer limits or qualifies a claim, while the coach's closing phrase is meant to build motivation—these are opposite in function and tone." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the aphorism to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "Benjamin Franklin's aphorism 'early to bed and early to rise' has been debated and tested by sleep researchers for decades.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "adage", "closeness": 3, "reasoning": "A well-known brief saying attributed to a historical figure and still discussed centuries later fits 'adage' as an enduring expression of folk wisdom." },
+        { "distractor": "maxim", "closeness": 3, "reasoning": "A concise principle attributed to a named thinker and subjected to empirical scrutiny fits 'maxim' as a stated rule of conduct or wisdom." },
+        { "distractor": "dictum", "closeness": 3, "reasoning": "A formal, quoted statement from a known authority that researchers test for validity fits 'dictum' as an authoritative pronouncement." },
+        { "distractor": "proverb", "closeness": 3, "reasoning": "A short, widely repeated piece of advice attributed to a cultural figure and tested over time fits 'proverb' closely in this historical context." },
+        { "distractor": "axiom", "closeness": 2, "reasoning": "Researchers debating and testing a statement suggests it was treated as an assumed truth, which 'axiom' captures, though that word implies unquestioned self-evidence." },
+        { "distractor": "platitude", "closeness": 2, "reasoning": "A well-worn saying repeated so often it's been subjected to scientific scrutiny fits 'platitude' as an overused expression of conventional wisdom." },
+        { "distractor": "hypothesis", "closeness": 2, "reasoning": "Sleep researchers testing the claim treat it as a hypothesis—a proposition to be verified—which fits the empirical scrutiny context." },
+        { "distractor": "slogan", "closeness": 2, "reasoning": "A memorable, repeated phrase associated with a particular thinker or movement fits 'slogan,' though it implies marketing rather than wisdom." },
+        { "distractor": "fable", "closeness": 1, "reasoning": "A fable is a narrative story with a moral lesson, not a single concise quoted phrase; the form of Franklin's saying doesn't match." },
+        { "distractor": "biography", "closeness": 1, "reasoning": "A biography is a life account of a person, not a short saying; attributing a phrase to Franklin doesn't make the phrase a biography." },
+        { "distractor": "theorem", "closeness": 1, "reasoning": "A theorem is a formally proved mathematical proposition; while sleep researchers test the saying, a folk phrase is not a theorem in form or function." }
       ]
     }
   ]

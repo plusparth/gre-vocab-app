@@ -4,181 +4,49 @@
     {
       "sentence": "He considered the seating arrangement an affront, placing him far from the head table.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "insult", "closeness": 3, "reasoning": "'Insult' is close but typically involves explicit verbal or behavioral disrespect; the sentence describes a physical arrangement that he interprets as a status slight, which 'affront' captures as a perceived offense against his dignity." },
+        { "distractor": "slight", "closeness": 3, "reasoning": "'Slight' implies a subtle or indirect show of disrespect, which fits the seating context, but 'affront' carries a stronger implication of a direct offense to his sense of importance." },
+        { "distractor": "snub", "closeness": 3, "reasoning": "A 'snub' involves deliberate ignoring or exclusion, and placing him far from the head table could be read as such; however, 'affront' implies a perceived public offense to dignity, not merely being overlooked." },
+        { "distractor": "humiliation", "closeness": 3, "reasoning": "'Humiliation' is close but emphasizes the emotional state of shame, whereas the sentence focuses on the act of seating as an offense to his status, not his emotional response to shame." },
+        { "distractor": "oversight", "closeness": 2, "reasoning": "'Oversight' implies an accidental error, but the sentence's word 'considered' suggests he interpreted it as intentional, ruling out an accidental reading." },
+        { "distractor": "inconvenience", "closeness": 2, "reasoning": "The sentence frames the situation as an attack on dignity rather than a practical problem; 'inconvenience' trivializes what he treats as a serious offense." },
+        { "distractor": "complaint", "closeness": 2, "reasoning": "'Complaint' describes a verbal grievance, not a perceived act of disrespect; it does not fit what the seating arrangement 'was.'" },
+        { "distractor": "punishment", "closeness": 2, "reasoning": "'Punishment' implies a deliberate penalty for wrongdoing, which introduces a justificatory frame absent from the sentence." },
+        { "distractor": "honor", "closeness": 1, "reasoning": "The sentence describes a perceived slight; 'honor' is the opposite of the offense he perceived." },
+        { "distractor": "welcome", "closeness": 1, "reasoning": "The word needed denotes something negative; 'welcome' implies a positive reception, contradicting the sentence." },
+        { "distractor": "privilege", "closeness": 1, "reasoning": "The sentence describes a status slight, not a benefit; 'privilege' inverts the meaning entirely." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to affront before the meeting adjourned.",
+      "sentence": "The ambassador's remarks were seen as an affront to the nation's sovereignty, sparking an immediate diplomatic protest.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "challenge", "closeness": 3, "reasoning": "'Challenge' implies a contest or provocation inviting response, but the sentence describes the remarks as offensive to national dignity; the diplomatic protest indicates a response to an insult, not to a competitive dare." },
+        { "distractor": "threat", "closeness": 3, "reasoning": "'Threat' implies a warning of future harm, while the sentence describes remarks already made that offended national dignity; the protest was in response to disrespect, not danger." },
+        { "distractor": "violation", "closeness": 3, "reasoning": "'Violation' implies a breach of law or treaty, but the sentence uses 'seen as' to frame an interpretation of offense, not a formal legal breach." },
+        { "distractor": "provocation", "closeness": 3, "reasoning": "'Provocation' implies deliberately inciting a reaction; the sentence does indicate a response was triggered, but 'affront' focuses on the dignitary offense rather than the strategic incitement." },
+        { "distractor": "criticism", "closeness": 2, "reasoning": "The sentence describes remarks that were taken as an offense to sovereignty, not merely unfavorable commentary; 'criticism' is too mild and evaluative for this context." },
+        { "distractor": "declaration", "closeness": 2, "reasoning": "'Declaration' is a neutral term for an official statement; it does not capture the offensive nature of what was said." },
+        { "distractor": "concession", "closeness": 2, "reasoning": "A 'concession' implies giving something up, the opposite implication of remarks that provoked a protest." },
+        { "distractor": "warning", "closeness": 2, "reasoning": "The sentence describes an act that offended, not one that cautioned; 'warning' misreads the nature of the ambassador's remarks." },
+        { "distractor": "compliment", "closeness": 1, "reasoning": "The sentence describes remarks that provoked a diplomatic protest; 'compliment' is clearly the opposite." },
+        { "distractor": "apology", "closeness": 1, "reasoning": "The remarks caused a protest, not a reconciliation; 'apology' contradicts the outcome described." },
+        { "distractor": "invitation", "closeness": 1, "reasoning": "'Invitation' has no connection to diplomatic offense or protest; it is entirely wrong." }
       ]
     },
     {
-      "sentence": "The curator chose to affront the fragile document only after consulting the conservator.",
+      "sentence": "She did not intend to affront her colleague, but her offhand remark about his research drew a sharp look.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "offend", "closeness": 3, "reasoning": "'Offend' is near-synonymous, but 'affront' specifically implies offending someone directly to their face in a way that injures dignity; the colleague's sharp look confirms the personal, direct nature of the offense, which 'affront' captures more precisely." },
+        { "distractor": "belittle", "closeness": 3, "reasoning": "'Belittle' implies a deliberate attempt to diminish, but the sentence explicitly says she did not intend it; 'affront' can describe an unintended offense, while 'belittle' carries intentional undertones." },
+        { "distractor": "embarrass", "closeness": 3, "reasoning": "Close — embarrassment could result from an offhand remark, but 'affront' specifically involves perceived disrespect to dignity rather than the awkwardness 'embarrass' implies." },
+        { "distractor": "alienate", "closeness": 3, "reasoning": "'Alienate' implies a lasting estrangement, but the sentence describes a single remark and an immediate reaction, not a process of gradually pushing someone away." },
+        { "distractor": "discourage", "closeness": 2, "reasoning": "The sentence describes a social offense, not a dampening of motivation; 'discourage' misidentifies the nature of the effect on the colleague." },
+        { "distractor": "contradict", "closeness": 2, "reasoning": "The sentence does not indicate a disagreement with the colleague's ideas but rather a remark about his research that offended; 'contradict' implies disputation, not offense." },
+        { "distractor": "ignore", "closeness": 2, "reasoning": "The sentence specifies that she made a remark about his research, which is engagement rather than ignoring; 'ignore' does not fit." },
+        { "distractor": "challenge", "closeness": 2, "reasoning": "'Challenge' implies a direct dispute or competition rather than a casual remark causing offense; the sentence describes an unintended slight." },
+        { "distractor": "flatter", "closeness": 1, "reasoning": "The sentence describes an accidental offense, not praise; 'flatter' contradicts the colleague's sharp look." },
+        { "distractor": "reassure", "closeness": 1, "reasoning": "The outcome was a sharp look of displeasure, not comfort; 'reassure' is the opposite effect." },
+        { "distractor": "support", "closeness": 1, "reasoning": "The remark about his research caused displeasure, not backing; 'support' inverts the meaning." }
       ]
     }
   ]

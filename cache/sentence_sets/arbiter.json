@@ -4,181 +4,49 @@
     {
       "sentence": "She had long served as the arbiter of taste in the small literary community.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "critic", "closeness": 3, "reasoning": "Someone who shapes taste in a literary community could be called a critic, but 'critic' implies a person who writes reviews and evaluates individual works, whereas the sentence describes someone who holds the general power to decide what is considered good taste — a broader, more authoritative role." },
+        { "distractor": "judge", "closeness": 3, "reasoning": "'Judge' captures the decision-making power the sentence implies, and 'judge of taste' is a plausible phrase, but it carries a connotation of formal adjudication rather than the longstanding, community-recognized cultural authority the sentence describes." },
+        { "distractor": "guardian", "closeness": 3, "reasoning": "Someone who presides over a literary community's standards might be called a 'guardian of taste,' but 'guardian' emphasizes protection and preservation rather than the power to settle and decide what counts as good taste." },
+        { "distractor": "champion", "closeness": 3, "reasoning": "'Champion of taste' suggests advocacy on behalf of certain standards rather than the neutral, decisive authority the sentence attributes to her position." },
+        { "distractor": "patron", "closeness": 2, "reasoning": "A powerful figure in a literary community might be a patron who funds writers, but 'patron' describes financial support rather than the role of deciding and setting standards of taste." },
+        { "distractor": "mentor", "closeness": 2, "reasoning": "A long-serving influential figure could be a mentor, but 'mentor' implies guidance and teaching of individuals rather than holding communal authority over matters of taste." },
+        { "distractor": "spokesperson", "closeness": 2, "reasoning": "'Spokesperson' implies representing and communicating others' views, whereas the sentence indicates she exercised independent authority over what the community considered good taste." },
+        { "distractor": "founder", "closeness": 2, "reasoning": "A foundational figure in a literary community might be called its founder, but 'founder of taste' is not a natural phrase and the sentence focuses on an ongoing authoritative role rather than an originating act." },
+        { "distractor": "opponent", "closeness": 1, "reasoning": "'Opponent' implies adversarial opposition to the community's standards rather than the authority to shape them, the opposite of what the sentence establishes." },
+        { "distractor": "newcomer", "closeness": 1, "reasoning": "The sentence says she 'had long served' in this role, making 'newcomer' directly contradictory." },
+        { "distractor": "scapegoat", "closeness": 1, "reasoning": "'Scapegoat' means someone blamed for others' problems; it has no connection to holding cultural authority in a community." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected arbiter, which altered the course of the committee's deliberations.",
+      "sentence": "When the two departments could not agree on budget priorities, the CFO was called in as arbiter.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "mediator", "closeness": 3, "reasoning": "Both an arbiter and a mediator are brought in to resolve disputes between parties, but a mediator facilitates negotiation and helps the parties reach their own agreement, whereas an arbiter is empowered to make a binding decision, which is what the CFO's role implies here." },
+        { "distractor": "negotiator", "closeness": 3, "reasoning": "The CFO's involvement in a budget dispute could be cast as negotiation, but 'negotiator' implies working toward a compromise between parties rather than being called in to exercise decision-making authority over them." },
+        { "distractor": "supervisor", "closeness": 3, "reasoning": "A CFO outranks the disagreeing departments, making 'supervisor' plausible, but 'supervisor' describes an ongoing hierarchical relationship, not the specific role of being called in to resolve a dispute and deliver a decision." },
+        { "distractor": "consultant", "closeness": 3, "reasoning": "'Consultant' implies someone brought in to offer expert advice that parties may or may not follow; the sentence implies the CFO was brought in with authority to settle the disagreement, not merely to advise." },
+        { "distractor": "observer", "closeness": 2, "reasoning": "An observer watches without participating in decisions; the sentence describes the CFO being brought in specifically to resolve the disagreement, not to watch it." },
+        { "distractor": "auditor", "closeness": 2, "reasoning": "A CFO might call in an auditor to review financial records, but the sentence identifies a dispute-resolution role, not a financial examination role." },
+        { "distractor": "liaison", "closeness": 2, "reasoning": "A liaison facilitates communication between groups, but the sentence describes an authority figure called in to decide a dispute that the departments themselves could not resolve." },
+        { "distractor": "advocate", "closeness": 2, "reasoning": "An advocate argues on behalf of a particular position or party, whereas the sentence places the CFO in a neutral decision-making role above the disagreeing departments." },
+        { "distractor": "subordinate", "closeness": 1, "reasoning": "'Subordinate' implies a lower-ranking person, whereas the sentence establishes the CFO as having authority over the two disagreeing departments." },
+        { "distractor": "instigator", "closeness": 1, "reasoning": "'Instigator' implies someone who provokes a dispute, the opposite of someone called in to resolve one." },
+        { "distractor": "bystander", "closeness": 1, "reasoning": "'Bystander' means someone present but uninvolved, directly contradicting the CFO's active, authoritative role in the sentence." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the arbiter to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "Fashion houses compete fiercely for the approval of a handful of editors who serve as arbiters of what will be considered elegant each season.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "tastemakers", "closeness": 3, "reasoning": "'Tastemakers' is a contemporary synonym for those who shape aesthetic preferences, and the sentence is about just that, but 'tastemakers' lacks the connotation of adjudicatory authority — of deciding between competing claims — that 'arbiters' carries, and fashion houses are described as competing for approval, implying the editors hold decision power, not just influence." },
+        { "distractor": "gatekeepers", "closeness": 3, "reasoning": "'Gatekeepers' captures the editors' power to control what passes into the category of 'elegant,' and the competitive approval-seeking by fashion houses supports this, but 'gatekeepers' emphasizes control of access rather than the judging and deciding role 'arbiters' conveys." },
+        { "distractor": "influencers", "closeness": 3, "reasoning": "'Influencers' is plausible since editors shape public perception, but it implies shaping opinion through example and persuasion rather than exercising the kind of authoritative decision-making power that fashion houses 'compete fiercely' to receive recognition from." },
+        { "distractor": "curators", "closeness": 3, "reasoning": "'Curators' fits the editorial role of selecting and organizing what counts as significant, but curation implies selection from a body of existing material rather than the active adjudication of competing claims for the label of 'elegant.'" },
+        { "distractor": "consumers", "closeness": 2, "reasoning": "Fashion houses care about consumer response, but 'consumers' as 'arbiters of elegance' would mean the buying public decides what is elegant — a different dynamic entirely from the small group of editors the sentence describes." },
+        { "distractor": "advertisers", "closeness": 2, "reasoning": "Fashion media involves advertising relationships, but advertisers buy space and do not serve as judges of what counts as elegant in a given season." },
+        { "distractor": "designers", "closeness": 2, "reasoning": "The sentence says fashion houses compete for the editors' approval, implying the editors are distinct from the designers; making designers the 'arbiters' would collapse that distinction." },
+        { "distractor": "celebrities", "closeness": 2, "reasoning": "Celebrities wearing fashion can influence trends, but the sentence specifies a handful of editors in a formal evaluative role — a different social position from celebrity endorsement." },
+        { "distractor": "opponents", "closeness": 1, "reasoning": "'Opponents' implies adversarial rivalry, whereas the editors are described as a shared reference point that fashion houses seek to satisfy." },
+        { "distractor": "manufacturers", "closeness": 1, "reasoning": "'Manufacturers' refers to production, not the evaluative authority the sentence describes; fashion houses are already the manufacturers competing for approval." },
+        { "distractor": "apprentices", "closeness": 1, "reasoning": "'Apprentices' suggests beginners learning under a master, the opposite of the seasoned authority the sentence attributes to these editors." }
       ]
     }
   ]

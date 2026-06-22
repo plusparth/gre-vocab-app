@@ -4,181 +4,49 @@
     {
       "sentence": "Her artless honesty was refreshing in an industry known for careful spin.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "naive", "closeness": 3, "reasoning": "Naive suggests a lack of worldly experience that may lead to being deceived; artless in this context emphasizes unaffected sincerity rather than gullibility." },
+        { "distractor": "candid", "closeness": 3, "reasoning": "Candid means forthright and frank but implies some awareness and choice to be direct, whereas artless implies the honesty flows naturally without guile." },
+        { "distractor": "guileless", "closeness": 3, "reasoning": "Guileless is very close but more narrowly means absence of cunning; artless carries additional nuances of lack of artificiality and sometimes lack of polish." },
+        { "distractor": "genuine", "closeness": 3, "reasoning": "Genuine means authentic and sincere, but it does not carry the implication of an unpolished, uncontrived quality that artless adds." },
+        { "distractor": "blunt", "closeness": 2, "reasoning": "Blunt describes directness that can be rude; artless honesty here is refreshing and warm, not harsh or unthinking." },
+        { "distractor": "transparent", "closeness": 2, "reasoning": "Transparent describes being easy to see through emotionally or intellectually, not the natural, unaffected quality artless implies." },
+        { "distractor": "unsophisticated", "closeness": 2, "reasoning": "Unsophisticated captures the lack of worldly polish but lacks the warm, unaffected sincerity the sentence praises." },
+        { "distractor": "earnest", "closeness": 2, "reasoning": "Earnest describes sincere seriousness of purpose but does not convey the natural, unschooled quality that artless implies." },
+        { "distractor": "calculated", "closeness": 1, "reasoning": "Calculated implies deliberate strategic intent, the opposite of the natural, unschooled honesty artless describes." },
+        { "distractor": "deceptive", "closeness": 1, "reasoning": "Deceptive is the direct opposite of artless honesty." },
+        { "distractor": "polished", "closeness": 1, "reasoning": "Polished implies refined, cultivated behavior, exactly what artless lacks and what the spin-conscious industry values." }
       ]
     },
     {
-      "sentence": "Her artless response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The village storyteller's artless manner drew listeners in precisely because he seemed unaware of his own gift.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "unassuming", "closeness": 3, "reasoning": "Unassuming describes a modest, unpretentious manner but does not capture the lack of calculation or artistic contrivance that artless implies." },
+        { "distractor": "natural", "closeness": 3, "reasoning": "Natural overlaps closely in this context but is a generic word that misses artless's specific meaning of lacking guile or artistic self-awareness." },
+        { "distractor": "folksy", "closeness": 3, "reasoning": "Folksy captures the village context and informal appeal but is a stylistic description rather than conveying the genuine absence of artifice artless implies." },
+        { "distractor": "unpretentious", "closeness": 3, "reasoning": "Unpretentious is about not claiming more than one deserves and captures modesty, but artless adds the sense of unschooled, uncontrived expression." },
+        { "distractor": "humble", "closeness": 2, "reasoning": "Humble describes a low opinion of one's own importance, not specifically the absence of calculated technique." },
+        { "distractor": "charming", "closeness": 2, "reasoning": "Charming describes a pleasing effect on the audience, not the quality in the storyteller that produces it." },
+        { "distractor": "sincere", "closeness": 2, "reasoning": "Sincere captures honesty of intention but does not include the element of lacking artistic sophistication that artless carries." },
+        { "distractor": "engaging", "closeness": 2, "reasoning": "Engaging describes the effect of holding attention, not the quality of unaffected, uncontrived manner." },
+        { "distractor": "theatrical", "closeness": 1, "reasoning": "Theatrical implies deliberate performance and self-awareness, which is exactly what artless negates." },
+        { "distractor": "affected", "closeness": 1, "reasoning": "Affected means displaying pretension or contrivance, the direct opposite of artless." },
+        { "distractor": "sophisticated", "closeness": 1, "reasoning": "Sophisticated describes refined cultivation, the precise opposite quality to artless." }
       ]
     },
     {
-      "sentence": "The curator's artless arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "Critics found the sculptor's early work artless, dismissing its rough edges as the product of poor training rather than intentional primitivism.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "crude", "closeness": 3, "reasoning": "Crude describes rough, unrefined execution and overlaps here, but artless specifically means lacking art or skill rather than just being coarse in finish." },
+        { "distractor": "amateurish", "closeness": 3, "reasoning": "Amateurish implies lacking professional skill, which is close, but artless goes further to suggest the complete absence of cultivated artistic sensibility." },
+        { "distractor": "unskilled", "closeness": 3, "reasoning": "Unskilled directly targets ability, whereas artless has the broader implication of lacking cultivation in addition to technique." },
+        { "distractor": "primitive", "closeness": 3, "reasoning": "Primitive can describe rough early art, but the sentence distinguishes artless from intentional primitivism, making this substitution ironic and inaccurate." },
+        { "distractor": "unpolished", "closeness": 2, "reasoning": "Unpolished describes lack of finish but implies the underlying skill exists; artless suggests the skill itself is absent." },
+        { "distractor": "clumsy", "closeness": 2, "reasoning": "Clumsy describes physical awkwardness of execution rather than the absence of artistic knowledge or sensibility." },
+        { "distractor": "pedestrian", "closeness": 2, "reasoning": "Pedestrian means dull and uninspired rather than lacking artistic training or skill." },
+        { "distractor": "derivative", "closeness": 2, "reasoning": "Derivative suggests copying without originality, a different criticism than lack of skill or cultivation." },
+        { "distractor": "masterful", "closeness": 1, "reasoning": "Masterful implies exceptional skill, the opposite of what critics were condemning." },
+        { "distractor": "sophisticated", "closeness": 1, "reasoning": "Sophisticated implies refined cultivation, the opposite of what critics dismissed as lacking." },
+        { "distractor": "deliberate", "closeness": 1, "reasoning": "Deliberate implies intentional execution, which the critics were denying; they saw it as accidental deficiency, not conscious choice." }
       ]
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "word": "herald",
+  "sentenceSets": [
+    {
+      "sentence": "The appointment heralded a new phase in the organization's development, one that its founders had anticipated but not lived to see.",
+      "answerChoices": [
+        { "distractor": "announced", "closeness": 3, "reasoning": "The sentence says the founders had 'anticipated but not lived to see' this phase, implying the appointment signaled its arrival, not merely declared it." },
+        { "distractor": "preceded", "closeness": 3, "reasoning": "'Preceded' simply means came before, but the sentence implies the appointment actively signaled or ushered in the new phase the founders had long awaited." },
+        { "distractor": "foreshadowed", "closeness": 3, "reasoning": "'Foreshadowed' suggests an indirect hint; the sentence frames the appointment as a definitive marker that something new had actually begun." },
+        { "distractor": "celebrated", "closeness": 3, "reasoning": "The sentence does not say the appointment was a celebration; it describes the appointment as marking the arrival of a new phase." },
+        { "distractor": "explained", "closeness": 2, "reasoning": "The sentence is about marking the beginning of a new phase, not about providing an explanation for anything." },
+        { "distractor": "delayed", "closeness": 2, "reasoning": "The sentence says the appointment marked the arrival of a new phase; delaying would be the opposite of heralding." },
+        { "distractor": "concluded", "closeness": 2, "reasoning": "The sentence describes a new phase beginning, not something ending; concluding is the opposite of what 'heralded' means in context." },
+        { "distractor": "complicated", "closeness": 2, "reasoning": "The sentence does not suggest the appointment made things more difficult; it describes it as marking the start of an anticipated new phase." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "The sentence describes the appointment as actively marking a new phase; ignoring would mean paying no attention to it at all." },
+        { "distractor": "undermined", "closeness": 1, "reasoning": "The sentence frames the appointment positively as marking a new phase the founders had anticipated; undermining would suggest sabotage." },
+        { "distractor": "reversed", "closeness": 1, "reasoning": "The sentence says the appointment signaled a new phase the founders anticipated, not that it reversed the organization's direction." }
+      ]
+    },
+    {
+      "sentence": "The publication of her first novel heralded what critics would later call a golden era for the genre.",
+      "answerChoices": [
+        { "distractor": "introduced", "closeness": 3, "reasoning": "'Introduced' suggests simply bringing something to attention; the sentence implies the novel was the opening signal of an era, carrying the weight of an announcement." },
+        { "distractor": "initiated", "closeness": 3, "reasoning": "'Initiated' means started, but 'heralded' implies the novel served as a formal signal or announcement that the golden era was arriving, not just that it was the first event." },
+        { "distractor": "inspired", "closeness": 3, "reasoning": "The sentence frames the novel as a marker of the era's beginning, not as the cause that motivated others to create; 'inspired' would shift the causal logic." },
+        { "distractor": "concluded", "closeness": 3, "reasoning": "The sentence places the novel at the beginning of a golden era; 'concluded' would mean it ended something rather than announced something new." },
+        { "distractor": "documented", "closeness": 2, "reasoning": "The sentence describes the novel as announcing the start of an era, not as a record or documentation of it." },
+        { "distractor": "disrupted", "closeness": 2, "reasoning": "The sentence describes something positive—a golden era—beginning with the novel; disruption would imply breaking something apart." },
+        { "distractor": "summarized", "closeness": 2, "reasoning": "The sentence places the publication at the start of an era, not as a retrospective summary of it." },
+        { "distractor": "obscured", "closeness": 2, "reasoning": "The sentence says critics recognized the novel as marking a golden era; obscuring would have hidden rather than announced that era." },
+        { "distractor": "plagiarized", "closeness": 1, "reasoning": "The sentence is about the novel's role in signaling a new era for the genre, not about questions of originality or copying." },
+        { "distractor": "shortened", "closeness": 1, "reasoning": "The sentence describes the novel as marking the beginning of a golden era; shortened implies reducing duration, which is unrelated." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "The sentence says critics later recognized the novel as marking the start of a golden era; it was clearly noticed, not ignored." }
+      ]
+    },
+    {
+      "sentence": "The tremors heralded the volcanic eruption that geologists had been predicting for years.",
+      "answerChoices": [
+        { "distractor": "caused", "closeness": 3, "reasoning": "The sentence frames the tremors as a signal that the eruption was coming, not necessarily the direct cause of the eruption itself." },
+        { "distractor": "predicted", "closeness": 3, "reasoning": "The sentence says geologists had been predicting the eruption; the tremors themselves served as a signal of its arrival, not as a prediction." },
+        { "distractor": "accompanied", "closeness": 3, "reasoning": "'Accompanied' suggests simultaneous occurrence; the sentence implies the tremors preceded and announced the eruption." },
+        { "distractor": "followed", "closeness": 3, "reasoning": "The sentence implies the tremors came before the eruption and announced it; 'followed' would reverse the temporal sequence." },
+        { "distractor": "prevented", "closeness": 2, "reasoning": "The sentence describes the tremors as announcing an eruption that occurred; preventing would mean the eruption did not happen." },
+        { "distractor": "recorded", "closeness": 2, "reasoning": "The sentence describes the tremors as a forward-looking signal, not as a record or documentation of the eruption." },
+        { "distractor": "measured", "closeness": 2, "reasoning": "The sentence does not discuss measuring the tremors; it frames them as a signal announcing the coming eruption." },
+        { "distractor": "explained", "closeness": 2, "reasoning": "The sentence is about the tremors signaling the eruption's arrival, not about explaining why the eruption occurred." },
+        { "distractor": "confused", "closeness": 1, "reasoning": "The sentence implies the tremors were a clear signal of the coming eruption; confusion would undermine their role as an announcement." },
+        { "distractor": "reversed", "closeness": 1, "reasoning": "The sentence describes the tremors as signaling a volcanic eruption; reversing implies stopping or undoing something." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "The sentence describes the tremors as a geological signal of an incoming eruption, not as a commemoration of anything." }
+      ]
+    }
+  ]
+}

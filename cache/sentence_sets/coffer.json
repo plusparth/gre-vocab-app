@@ -1,0 +1,53 @@
+{
+  "word": "coffer",
+  "sentenceSets": [
+    {
+      "sentence": "The city's coffers were depleted by years of mismanagement and the unexpected costs of the flood.",
+      "answerChoices": [
+        { "distractor": "reserves", "closeness": 3, "reasoning": "The sentence describes financial depletion from mismanagement and disaster costs, making 'reserves' a natural trap — it also refers to stored funds — but 'coffers' specifically implies a formal treasury or strongbox, emphasizing institutional stewardship." },
+        { "distractor": "funds", "closeness": 3, "reasoning": "'Funds' fits the financial context of the sentence perfectly and could be substituted, but it is a generic term for money, whereas 'coffers' implies a specific storage repository of wealth." },
+        { "distractor": "budget", "closeness": 3, "reasoning": "A city's budget being depleted by mismanagement is a standard narrative, making 'budget' plausible, but a budget is a plan for spending, not a store of accumulated wealth." },
+        { "distractor": "treasury", "closeness": 3, "reasoning": "'Treasury' nearly synonymous with 'coffers' in the context of civic finance, but 'treasury' refers to the governmental body or department, while 'coffers' specifically images the chests holding accumulated wealth." },
+        { "distractor": "ledgers", "closeness": 2, "reasoning": "Ledgers are accounting records, not financial stores; depleting a city's ledgers makes no literal sense." },
+        { "distractor": "assets", "closeness": 2, "reasoning": "Assets encompass all property and resources, not just liquid wealth; 'coffers' specifically implies liquid funds held in reserve, a more narrow concept." },
+        { "distractor": "debts", "closeness": 2, "reasoning": "One cannot deplete debts — debts increase; 'depleted' contradicts the semantics of 'debts' within the sentence." },
+        { "distractor": "morale", "closeness": 2, "reasoning": "Mismanagement and flood costs might deplete morale, but the sentence's financial framing makes a non-monetary noun implausible." },
+        { "distractor": "archives", "closeness": 1, "reasoning": "'Archives' are collections of documents, not money; the sentence's financial context entirely rules this out." },
+        { "distractor": "borders", "closeness": 1, "reasoning": "'Borders' has no semantic connection to financial stores; it cannot be depleted in the way the sentence describes." },
+        { "distractor": "monuments", "closeness": 1, "reasoning": "'Monuments' are physical structures; the sentence is about financial depletion, making this clearly wrong." }
+      ]
+    },
+    {
+      "sentence": "After the successful fundraising campaign, donations poured into the organization's coffers at an unprecedented rate.",
+      "answerChoices": [
+        { "distractor": "accounts", "closeness": 3, "reasoning": "Donations flowing into bank accounts is a completely natural expression, making 'accounts' a close trap, but 'coffers' carries a sense of institutional treasury and accumulated wealth beyond a mere bank account." },
+        { "distractor": "reserves", "closeness": 3, "reasoning": "A fundraising campaign building up reserves is plausible, but 'reserves' implies funds set aside for future use, while 'coffers' refers to the treasury as a whole." },
+        { "distractor": "pockets", "closeness": 3, "reasoning": "Informally, money 'pouring into pockets' is an idiom, but 'pockets' implies personal gain rather than institutional treasury, which the organizational context contradicts." },
+        { "distractor": "vaults", "closeness": 3, "reasoning": "'Vaults' shares the sense of a secure physical repository of wealth, making it a strong trap, but vaults imply a bank or physical strongroom rather than the general financial treasury that 'coffers' denotes." },
+        { "distractor": "ledgers", "closeness": 2, "reasoning": "Donations cannot literally 'pour into' ledgers — ledgers record transactions but are not receptacles for funds." },
+        { "distractor": "portfolios", "closeness": 2, "reasoning": "'Portfolios' refer to investment holdings, not the general collection of incoming donations during a campaign." },
+        { "distractor": "initiatives", "closeness": 2, "reasoning": "'Initiatives' are programs or plans; money pours into coffers, not into initiatives in a literal sense." },
+        { "distractor": "channels", "closeness": 2, "reasoning": "'Channels' are pathways through which money flows, not destinations; donations pour through channels into coffers, not into channels themselves." },
+        { "distractor": "headlines", "closeness": 1, "reasoning": "'Headlines' are press coverage; money cannot pour into headlines, making this clearly wrong." },
+        { "distractor": "corridors", "closeness": 1, "reasoning": "'Corridors' are physical passageways; they have no semantic relationship to financial repositories." },
+        { "distractor": "ambitions", "closeness": 1, "reasoning": "'Ambitions' are aspirations; they cannot serve as receptacles into which donations pour." }
+      ]
+    },
+    {
+      "sentence": "The monarchy replenished its coffers by selling trading licenses to merchants eager to cross the newly claimed sea routes.",
+      "answerChoices": [
+        { "distractor": "treasury", "closeness": 3, "reasoning": "The monarchical financial context makes 'treasury' an extremely close substitute, but 'treasury' refers to the governmental institution managing finances, while 'coffers' pictures the actual chests of accumulated coin." },
+        { "distractor": "revenues", "closeness": 3, "reasoning": "License sales generating revenue for a monarchy is perfectly natural, making 'revenues' a strong trap, but revenues are income streams, not a repository of stored wealth." },
+        { "distractor": "reserves", "closeness": 3, "reasoning": "Replenishing financial reserves through license sales fits the sentence's logic, but 'reserves' implies funds deliberately set aside rather than the general royal treasury." },
+        { "distractor": "stores", "closeness": 3, "reasoning": "'Stores' can refer to accumulated supplies of wealth, making it a close synonym, but it is more commonly applied to physical goods than to monetary wealth held by a monarchy." },
+        { "distractor": "monopolies", "closeness": 2, "reasoning": "Selling trading licenses is related to establishing monopolies, but a monarchy replenishes stored wealth, not monopolies, through such transactions." },
+        { "distractor": "alliances", "closeness": 2, "reasoning": "Trade negotiations might involve alliances, but the sentence describes a financial transaction aimed at replenishing monetary stores, not political relationships." },
+        { "distractor": "navies", "closeness": 2, "reasoning": "Sea routes and merchant shipping suggest naval power, but the sentence's object is the monarchy's financial resource, not its military fleet." },
+        { "distractor": "archives", "closeness": 2, "reasoning": "'Archives' store documents and records; license sales would replenish money, not documentary collections." },
+        { "distractor": "enemies", "closeness": 1, "reasoning": "One does not replenish enemies by selling licenses; the sentence's economic logic excludes this entirely." },
+        { "distractor": "borders", "closeness": 1, "reasoning": "'Borders' are territorial boundaries; selling trading licenses replenishes wealth, not geographic extent." },
+        { "distractor": "customs", "closeness": 1, "reasoning": "'Customs' refers to traditions or to a tariff office; while trade involves customs duties, a monarchy does not replenish customs in the way described." }
+      ]
+    }
+  ]
+}

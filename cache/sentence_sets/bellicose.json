@@ -4,181 +4,49 @@
     {
       "sentence": "His bellicose rhetoric alarmed neighboring governments that had hoped for a more conciliatory tone.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "aggressive", "closeness": 3, "reasoning": "Close — 'aggressive' rhetoric could alarm neighbors, but 'bellicose' specifically signals a disposition toward conflict and war, which is what the neighboring governments were alarmed by; 'aggressive' is broader and does not carry the same war-preparedness connotation." },
+        { "distractor": "hawkish", "closeness": 3, "reasoning": "Close — 'hawkish' rhetoric is a strong contextual fit for alarming neighboring governments seeking conciliation, but 'hawkish' is an informal political term, whereas 'bellicose' is the precise formal term for a quarrel-or-war-inclined disposition." },
+        { "distractor": "inflammatory", "closeness": 3, "reasoning": "Close — inflammatory rhetoric alarms governments and is the opposite of conciliatory, making this a strong trap, but 'inflammatory' means inciting strong reactions, not specifically inclined toward war or conflict as 'bellicose' does." },
+        { "distractor": "confrontational", "closeness": 3, "reasoning": "Close — confrontational rhetoric alarming neighbors is plausible, but 'confrontational' describes a general face-to-face challenging stance, whereas 'bellicose' implies readiness to initiate armed quarrel or war at a larger scale." },
+        { "distractor": "provocative", "closeness": 2, "reasoning": "Provocative rhetoric could alarm neighbors, but 'provocative' means designed to stimulate a reaction rather than reflecting the speaker's own war-prone disposition; it places the intent outward rather than inward." },
+        { "distractor": "divisive", "closeness": 2, "reasoning": "Divisive rhetoric might alarm neighbors, but 'divisive' refers to splitting factions within a polity, not to the cross-border threat of armed conflict that makes 'bellicose' the appropriate word." },
+        { "distractor": "nationalistic", "closeness": 2, "reasoning": "Nationalistic rhetoric can alarm neighbors, but 'nationalistic' describes an ideological orientation toward one's own nation, which may or may not indicate war-readiness; 'bellicose' is specifically about the combative, conflict-seeking character." },
+        { "distractor": "domineering", "closeness": 2, "reasoning": "Domineering rhetoric signals desire for control, which might concern neighbors, but it lacks the specifically conflict-and-war-seeking connotation that caused alarm in this sentence." },
+        { "distractor": "measured", "closeness": 1, "reasoning": "The sentence contrasts the actual rhetoric with a hoped-for 'conciliatory tone'; 'measured' is equally peaceful and would not alarm anyone — it is essentially the opposite of what is described." },
+        { "distractor": "diplomatic", "closeness": 1, "reasoning": "Diplomatic rhetoric is exactly the 'conciliatory tone' the neighbors hoped for; using 'diplomatic' would mean the neighbors were alarmed by something they wanted, which contradicts the sentence." },
+        { "distractor": "subdued", "closeness": 1, "reasoning": "Subdued rhetoric would not alarm neighboring governments seeking conciliation; it is too close in meaning to the conciliatory tone they hoped for to fit the sentence's contrast." }
       ]
     },
     {
-      "sentence": "Her bellicose response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The general's bellicose posture at the press conference unnerved diplomats who had been working to prevent a military escalation.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "combative", "closeness": 3, "reasoning": "Close — a combative general at a press conference would unnerve diplomats preventing escalation, but 'combative' describes a ready-to-fight disposition in a general interpersonal sense, while 'bellicose' specifically connotes inclination toward military conflict and war." },
+        { "distractor": "defiant", "closeness": 3, "reasoning": "Close — defiance at a press conference would unsettle diplomats, but 'defiant' means resisting authority or opposition, whereas 'bellicose' means favoring the initiation of conflict, which is precisely what diplomats trying to prevent escalation fear." },
+        { "distractor": "antagonistic", "closeness": 3, "reasoning": "Close — an antagonistic general unnerves diplomats, but 'antagonistic' describes a general stance of opposition rather than the specifically war-prone, conflict-seeking disposition that 'bellicose' conveys in a military context." },
+        { "distractor": "imperious", "closeness": 3, "reasoning": "An imperious general at a press conference could unnerve diplomats, but 'imperious' means domineering and commanding in manner, not specifically inclined toward armed conflict or war as 'bellicose' requires." },
+        { "distractor": "resolute", "closeness": 2, "reasoning": "A resolute general could unnerve some diplomats, but 'resolute' means firmly determined rather than favoring quarrel or war; it lacks the combative military-conflict connotation that alarmed the diplomats in this sentence." },
+        { "distractor": "boisterous", "closeness": 2, "reasoning": "'Boisterous' describes noisy, high-spirited behavior and does not indicate a disposition toward military conflict; it fits no aspect of what would alarm diplomats preventing escalation." },
+        { "distractor": "alarmist", "closeness": 2, "reasoning": "An alarmist general could unnerve diplomats, but 'alarmist' means someone who exaggerates threats rather than someone who is themselves inclined toward conflict; the dynamic is different from 'bellicose'." },
+        { "distractor": "arrogant", "closeness": 2, "reasoning": "An arrogant general might unnerve diplomats, but 'arrogant' describes an attitude of superiority rather than a disposition toward military hostilities, which is what 'bellicose' captures." },
+        { "distractor": "conciliatory", "closeness": 1, "reasoning": "A conciliatory posture is exactly what the diplomats wanted to see; it would not unnerve them — it is the opposite of 'bellicose'." },
+        { "distractor": "timid", "closeness": 1, "reasoning": "A timid general would reassure diplomats trying to prevent escalation rather than unnerve them; it is opposite in effect to what the sentence describes." },
+        { "distractor": "jovial", "closeness": 1, "reasoning": "A jovial posture at a press conference would not unnerve diplomats working against military escalation; entirely wrong semantic field." }
       ]
     },
     {
-      "sentence": "The curator's bellicose arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "Years of bellicose rivalry between the two firms finally gave way to a merger agreement neither had anticipated.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "fierce", "closeness": 3, "reasoning": "Close — 'fierce' rivalry that eventually yields to a merger is plausible, but 'fierce' describes the intensity of competition, while 'bellicose' emphasizes a quarrelsome, conflict-seeking character that makes the peace of a merger especially surprising." },
+        { "distractor": "acrimonious", "closeness": 3, "reasoning": "Close — acrimonious rivalry fits the business context and the surprise of the merger, but 'acrimonious' stresses bitterness and resentment, whereas 'bellicose' stresses the active inclination to start or sustain conflict." },
+        { "distractor": "contentious", "closeness": 3, "reasoning": "Close — contentious rivalry gives way to merger fits well, but 'contentious' means causing or likely to cause argument, which is slightly broader and milder than the war-prone disposition 'bellicose' implies." },
+        { "distractor": "cutthroat", "closeness": 3, "reasoning": "Close — 'cutthroat' rivalry in business is a strong trap, but 'cutthroat' refers to ruthless competition focused on eliminating rivals economically, while 'bellicose' carries a specifically conflict-and-quarrel-seeking connotation even in a business metaphorical sense." },
+        { "distractor": "prolonged", "closeness": 2, "reasoning": "The rivalry did last long enough to give way to a merger, but 'prolonged' describes duration rather than the combative, conflict-prone character of the rivalry that makes the merger unexpected." },
+        { "distractor": "public", "closeness": 2, "reasoning": "'Public' rivalry describes visibility, not the combative disposition of the firms; it does not explain why a merger was unanticipated." },
+        { "distractor": "competitive", "closeness": 2, "reasoning": "Any business rivalry is competitive; 'competitive' is too generic and doesn't convey the specific war-prone, quarrel-seeking nature that makes 'bellicose' the precise choice." },
+        { "distractor": "ideological", "closeness": 2, "reasoning": "Ideological rivalry between firms is unusual and does not capture the sense of active conflict-seeking behavior that 'bellicose' conveys in this business metaphor." },
+        { "distractor": "cordial", "closeness": 1, "reasoning": "A cordial rivalry would not make a merger unexpected; 'cordial' describes friendliness that is the opposite of the conflict-prone disposition the sentence requires." },
+        { "distractor": "fleeting", "closeness": 1, "reasoning": "A fleeting rivalry ending in merger would not be surprising in the same way; 'fleeting' describes duration and contradicts the 'finally gave way' phrasing that suggests a long, entrenched conflict." },
+        { "distractor": "imaginary", "closeness": 1, "reasoning": "Entirely wrong semantic field — an imaginary rivalry could not produce a real merger agreement; clearly wrong in this context." }
       ]
     }
   ]

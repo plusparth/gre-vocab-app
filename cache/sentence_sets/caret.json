@@ -1,0 +1,53 @@
+{
+  "word": "caret",
+  "sentenceSets": [
+    {
+      "sentence": "The editor inserted a caret to show where the missing clause should be restored.",
+      "answerChoices": [
+        { "distractor": "mark", "closeness": 3, "reasoning": "A caret is indeed a type of mark, but 'mark' is too general and does not specify the wedge-shaped insertion symbol; the sentence's mention of restoring a missing clause calls for the precise term for the insertion symbol." },
+        { "distractor": "symbol", "closeness": 3, "reasoning": "'Symbol' is a generic word for any written sign; the sentence describes a specific editorial act of indicating an insertion point, which a 'caret' denotes as a distinct, conventional mark." },
+        { "distractor": "annotation", "closeness": 3, "reasoning": "An annotation is a written note added to a text; the sentence specifies indicating where something should be inserted rather than adding explanatory commentary, making 'caret' the precise term." },
+        { "distractor": "bracket", "closeness": 3, "reasoning": "Brackets are used editorially to enclose additions or mark optional text, and could plausibly appear in editing contexts; however, the sentence describes a pointed insertion marker indicating where missing text belongs, which is precisely what a caret does." },
+        { "distractor": "asterisk", "closeness": 2, "reasoning": "An asterisk is another editorial symbol used for footnotes or emphasis, not for showing insertion points; the sentence specifically describes indicating where something is to be inserted, a role the asterisk does not serve." },
+        { "distractor": "correction", "closeness": 2, "reasoning": "The editor is making a correction, but 'correction' is a process or result, not the physical mark inserted to show where text belongs; the sentence specifies the editor inserted something, pointing to a physical symbol." },
+        { "distractor": "dash", "closeness": 2, "reasoning": "A dash is a punctuation mark used to set off parenthetical material or indicate interruption; the sentence's context of marking an insertion point for a missing clause does not align with how dashes are used." },
+        { "distractor": "footnote", "closeness": 2, "reasoning": "A footnote adds information below the text; the sentence is about indicating where within the text a missing clause should be placed, which is not the function of a footnote." },
+        { "distractor": "paragraph", "closeness": 1, "reasoning": "A paragraph is a block of text, not a mark one inserts to show an insertion point; this is clearly the wrong semantic category." },
+        { "distractor": "comma", "closeness": 1, "reasoning": "A comma is a punctuation mark indicating a brief pause; it has no function as an insertion indicator in editorial work, making it clearly wrong." },
+        { "distractor": "sketch", "closeness": 1, "reasoning": "'Sketch' means a rough drawing or outline, which is entirely outside the domain of editorial textual marks." }
+      ]
+    },
+    {
+      "sentence": "Students were taught that a caret placed beneath the line signals an omission the writer intends to fill in later.",
+      "answerChoices": [
+        { "distractor": "symbol", "closeness": 3, "reasoning": "A caret is a symbol, but 'symbol' is too broad; the sentence specifies a mark 'placed beneath the line' to signal an omission, which is the precise function of a caret as a wedge-shaped insertion mark." },
+        { "distractor": "tag", "closeness": 3, "reasoning": "'Tag' can refer to a label or marker in writing and editing; however, it does not denote the specific wedge-shaped proofreading mark placed below the line to indicate where text should be inserted." },
+        { "distractor": "pointer", "closeness": 3, "reasoning": "A pointer indicates a direction or position, which has surface overlap with a caret's function of showing where something belongs; but 'pointer' is not the conventional editorial term for this specific mark." },
+        { "distractor": "indicator", "closeness": 3, "reasoning": "'Indicator' is generic and could describe any mark signaling information; the sentence's specific detail of placement 'beneath the line' to signal omission matches the technical use of a caret." },
+        { "distractor": "line", "closeness": 2, "reasoning": "The sentence mentions placement 'beneath the line,' which might make 'line' seem relevant; but 'line' refers to the text line itself rather than the mark students are being taught to use." },
+        { "distractor": "underscore", "closeness": 2, "reasoning": "An underscore is placed beneath letters or words but serves to highlight or format text, not to signal where an omission should be filled in; the sentence's editorial context points to a caret." },
+        { "distractor": "slash", "closeness": 2, "reasoning": "A slash is used in editing to delete characters or separate alternatives; the sentence describes marking a point for insertion of omitted text, which is not a slash's function." },
+        { "distractor": "ellipsis", "closeness": 2, "reasoning": "An ellipsis indicates omitted text in quotations or a trailing off in speech; but the sentence describes a mark placed to show where the writer intends to add something, not to show something has been left out of a quotation." },
+        { "distractor": "heading", "closeness": 1, "reasoning": "A heading labels a section of text; it has no role as a mark placed within a line to signal an omission, making it clearly wrong." },
+        { "distractor": "caption", "closeness": 1, "reasoning": "A caption accompanies a figure or image; it is entirely unrelated to the in-line insertion marks the sentence describes." },
+        { "distractor": "outline", "closeness": 1, "reasoning": "An outline is a structural plan or border; it does not describe a mark placed beneath a line of text to indicate an intended insertion." }
+      ]
+    },
+    {
+      "sentence": "After reviewing the manuscript, the copy editor added a caret at the point where a transitional phrase was needed to connect the two ideas.",
+      "answerChoices": [
+        { "distractor": "note", "closeness": 3, "reasoning": "A copy editor might add a marginal note to flag a problem, but the sentence specifies adding something 'at the point' of the needed transition — an in-text mark of insertion rather than a separate comment." },
+        { "distractor": "flag", "closeness": 3, "reasoning": "'Flag' is used loosely to mean marking something for attention; however, the sentence specifies the mark is placed at the exact point of insertion, which is the function of a caret, not a general flag." },
+        { "distractor": "gloss", "closeness": 3, "reasoning": "A gloss is an explanatory annotation added to a text, often in the margin; the sentence describes marking the precise location where text should be inserted, which is distinct from adding explanatory commentary." },
+        { "distractor": "marker", "closeness": 3, "reasoning": "'Marker' is plausible as a generic word for an inserted indication; however, the editorial context of signaling exactly where a transitional phrase belongs calls for the specific term 'caret.'" },
+        { "distractor": "comment", "closeness": 2, "reasoning": "A copy editor might add a comment in the margin, but the sentence specifies something added 'at the point' within the text to show where a phrase should go — a function served by a caret, not a comment." },
+        { "distractor": "underline", "closeness": 2, "reasoning": "An underline is used to emphasize existing text; the sentence describes marking where absent text should be inserted, which underlines cannot indicate." },
+        { "distractor": "arrow", "closeness": 2, "reasoning": "An arrow could indicate direction or point to a spot, but it is not the conventional editorial mark used to signal an insertion point; the sentence's manuscript context points to the standard proofreading symbol, the caret." },
+        { "distractor": "period", "closeness": 2, "reasoning": "A period ends a sentence; it has no function as an insertion mark indicating where a transitional phrase belongs." },
+        { "distractor": "chapter", "closeness": 1, "reasoning": "A chapter is a major division of a book; it has nothing to do with a mark added at a specific insertion point in a manuscript." },
+        { "distractor": "index", "closeness": 1, "reasoning": "An index lists terms and page numbers; it is entirely outside the context of an in-text insertion mark." },
+        { "distractor": "title", "closeness": 1, "reasoning": "A title names a work or section; it cannot be added 'at the point' within text where a phrase should be inserted." }
+      ]
+    }
+  ]
+}

@@ -4,181 +4,49 @@
     {
       "sentence": "She refused to belittle her predecessor's work, even though correcting his errors had consumed months.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "disparage", "closeness": 3, "reasoning": "Close — 'disparage' is nearly synonymous with 'belittle,' but the sentence emphasizes her choosing not to make the predecessor seem small despite having concrete cause (months of corrections), whereas 'disparage' stresses verbal attack more than the diminishing of perceived importance." },
+        { "distractor": "criticize", "closeness": 3, "reasoning": "Close — months of error correction would give her ample material to criticize, and her refusal to criticize is plausible, but the sentence's force is about not diminishing the overall value of his work, which is what 'belittle' captures and 'criticize' does not." },
+        { "distractor": "undermine", "closeness": 3, "reasoning": "Close — refusing to undermine his work fits the professional context, but 'undermine' implies sabotaging ongoing work or authority rather than making someone's past work seem unimportant, which is what the sentence is about." },
+        { "distractor": "dismiss", "closeness": 3, "reasoning": "Close — refusing to dismiss the work fits the sentence's logic, but 'dismiss' means to wave away entirely, while 'belittle' specifically means to make seem small or trivial rather than simply to discard." },
+        { "distractor": "denounce", "closeness": 2, "reasoning": "She could have publicly condemned her predecessor given the months of corrections, but 'denounce' implies formal public condemnation rather than the diminishing of someone's perceived worth that 'belittle' captures." },
+        { "distractor": "challenge", "closeness": 2, "reasoning": "Months of corrections might prompt someone to challenge a predecessor's methods, but 'challenge' implies contesting claims or authority, not making someone's contributions seem small in importance." },
+        { "distractor": "blame", "closeness": 2, "reasoning": "She might have assigned blame for the errors, but 'blame' focuses on attributing fault, not on making someone's work seem trivial or unimportant as a whole." },
+        { "distractor": "revise", "closeness": 2, "reasoning": "She was already revising his errors, so refusing to 'revise' his work makes little sense in context; 'revise' is also the wrong semantic field for judging someone's legacy." },
+        { "distractor": "honor", "closeness": 1, "reasoning": "Refusing to honor his work is the opposite of the restraint the sentence describes; she refuses to diminish it, not refuses to honor it." },
+        { "distractor": "exaggerate", "closeness": 1, "reasoning": "Wrong direction — the sentence is about making the work seem smaller, not larger; 'exaggerate' would mean inflating its significance." },
+        { "distractor": "replicate", "closeness": 1, "reasoning": "Entirely wrong semantic field — refusing to replicate work has nothing to do with judging or diminishing a predecessor's legacy." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to belittle before the meeting adjourned.",
+      "sentence": "The veteran journalist refused to belittle the intern's first published piece, offering encouragement alongside measured feedback.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "mock", "closeness": 3, "reasoning": "Close — in the context of a first publication by someone junior, 'mock' is a plausible trap, but it implies ridicule, whereas 'belittle' specifically means to make the work or person seem unimportant; the sentence focuses on the journalist's restraint in minimizing significance, not in ridiculing." },
+        { "distractor": "patronize", "closeness": 3, "reasoning": "Close — offering encouragement to an intern risks being patronizing, making this a contextual trap, but 'patronize' means to condescend or treat as inferior in tone, not to diminish the perceived value of someone's work." },
+        { "distractor": "dismiss", "closeness": 3, "reasoning": "Refusing to dismiss the intern's work fits the mentorship context, but 'dismiss' means to discard entirely rather than to make seem small; the sentence shows the journalist engaging with measured feedback rather than ignoring the piece." },
+        { "distractor": "discourage", "closeness": 3, "reasoning": "The journalist offers encouragement specifically to avoid discouraging the intern, making this a natural trap, but 'discourage' means to dampen motivation, not to diminish the perceived importance of the work itself." },
+        { "distractor": "criticize", "closeness": 2, "reasoning": "The journalist does offer 'measured feedback,' which is a form of criticism; refusing to criticize at all would contradict the sentence, so 'criticize' cannot be the blank." },
+        { "distractor": "overshadow", "closeness": 2, "reasoning": "A veteran might overshadow an intern's work with their own reputation, but the sentence is about the journalist's verbal behavior toward the piece, and 'overshadow' refers to eclipsing rather than making seem trivial through words." },
+        { "distractor": "penalize", "closeness": 2, "reasoning": "A journalist providing feedback could penalize an intern for errors, but 'penalize' involves imposing a consequence, not diminishing someone's work through language or attitude." },
+        { "distractor": "revise", "closeness": 2, "reasoning": "The journalist is giving feedback, not revising the piece; 'revise' is the wrong semantic field for the act of judging or diminishing published work." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Refusing to praise the work contradicts the 'offering encouragement' detail in the same sentence; 'praise' is the wrong direction entirely." },
+        { "distractor": "publish", "closeness": 1, "reasoning": "The piece is already published; refusing to publish it is incompatible with the sentence's premise." },
+        { "distractor": "proofread", "closeness": 1, "reasoning": "Entirely wrong semantic field — proofreading is a technical task unrelated to making someone's work seem unimportant." }
       ]
     },
     {
-      "sentence": "The curator chose to belittle the fragile document only after consulting the conservator.",
+      "sentence": "The department chair warned her faculty not to belittle graduate students' research questions, however elementary they might appear.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "dismiss", "closeness": 3, "reasoning": "Close — 'dismiss' fits the instruction not to brush off students' questions, but 'dismiss' means to discard or refuse to engage, while 'belittle' means to make seem trivial or unworthy of serious attention, a subtler form of devaluing." },
+        { "distractor": "discourage", "closeness": 3, "reasoning": "Close — a chair warning faculty not to discourage graduate students is highly plausible, but 'discourage' means to dampen enthusiasm or confidence, whereas 'belittle' specifically means to make the questions themselves seem small or unimportant." },
+        { "distractor": "condescend to", "closeness": 3, "reasoning": "Close — condescending to graduate students fits this pedagogical context, but 'condescend to' describes an overall attitude of superiority rather than the specific act of making someone's questions seem trivially small." },
+        { "distractor": "ridicule", "closeness": 3, "reasoning": "Close — ridiculing elementary-seeming questions is a plausible faculty behavior to warn against, but 'ridicule' implies open mockery or laughter, while 'belittle' encompasses a broader range of dismissive minimization." },
+        { "distractor": "answer", "closeness": 2, "reasoning": "Warning faculty not to answer questions makes no sense in an instructional context; 'answer' is the wrong semantic field entirely." },
+        { "distractor": "ignore", "closeness": 2, "reasoning": "'Ignore' means to take no notice; while ignoring a question could be dismissive, it lacks the element of making the question seem small or unworthy that 'belittle' carries." },
+        { "distractor": "oversimplify", "closeness": 2, "reasoning": "The concern is not that faculty will oversimplify the questions but that they will make students feel those questions are beneath serious consideration; 'oversimplify' is the wrong direction." },
+        { "distractor": "plagiarize", "closeness": 2, "reasoning": "Academic dishonesty is a real concern in graduate contexts, but 'plagiarize' has nothing to do with diminishing the perceived importance of students' questions." },
+        { "distractor": "endorse", "closeness": 1, "reasoning": "Warning faculty not to endorse students' questions contradicts the protective, encouraging spirit of the instruction; 'endorse' is the opposite direction." },
+        { "distractor": "memorize", "closeness": 1, "reasoning": "Entirely wrong semantic field — memorizing questions has nothing to do with how faculty treat graduate students' intellectual contributions." },
+        { "distractor": "publish", "closeness": 1, "reasoning": "Entirely wrong semantic field — refusing to publish graduate students' questions is unrelated to the act of making those questions seem trivially small." }
       ]
     }
   ]

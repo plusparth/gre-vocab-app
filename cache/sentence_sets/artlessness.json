@@ -4,181 +4,49 @@
     {
       "sentence": "His artlessness made him easy prey for manipulative colleagues who mistook sincerity for naivety.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "naivety", "closeness": 3, "reasoning": "Naivety implies inexperience that leads to being deceived; artlessness specifically means lacking guile or artifice, an innocence of intention rather than inexperience of the world." },
+        { "distractor": "guilelessness", "closeness": 3, "reasoning": "Guilelessness is very close but emphasizes only absence of cunning; artlessness also implies unpolished naturalness beyond just the absence of deception." },
+        { "distractor": "candor", "closeness": 3, "reasoning": "Candor is a noun form of frankness but implies deliberate choice to be open, whereas artlessness suggests a natural, unconscious absence of guile." },
+        { "distractor": "sincerity", "closeness": 3, "reasoning": "Sincerity describes genuine feeling and intention but is a positive trait without artlessness's implication of vulnerability or unguarded simplicity." },
+        { "distractor": "openness", "closeness": 2, "reasoning": "Openness describes willingness to share but does not capture the unaffected, natural quality of artlessness that makes someone vulnerable." },
+        { "distractor": "simplicity", "closeness": 2, "reasoning": "Simplicity can describe uncomplicated character but is broader and does not specifically indicate absence of social cunning." },
+        { "distractor": "vulnerability", "closeness": 2, "reasoning": "Vulnerability describes the outcome of artlessness in this sentence rather than the quality itself." },
+        { "distractor": "humility", "closeness": 2, "reasoning": "Humility describes a low self-assessment, not the absence of guile or strategic social calculation." },
+        { "distractor": "duplicity", "closeness": 1, "reasoning": "Duplicity means deliberate deception, the opposite of artlessness." },
+        { "distractor": "cunning", "closeness": 1, "reasoning": "Cunning means clever deception or scheming, which is exactly what artlessness lacks." },
+        { "distractor": "sophistication", "closeness": 1, "reasoning": "Sophistication implies refined social awareness and cultivation, the opposite of artlessness." }
       ]
     },
     {
-      "sentence": "Her artlessness response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The diplomat was charmed by the ambassador's artlessness, finding his unguarded responses a welcome break from the usual posturing.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "spontaneity", "closeness": 3, "reasoning": "Spontaneity captures the unpremeditated quality of the responses but does not convey the absence of guile and social artifice that artlessness implies." },
+        { "distractor": "authenticity", "closeness": 3, "reasoning": "Authenticity emphasizes being genuine and real but lacks artlessness's implication of unpolished, naturally uncalculated behavior." },
+        { "distractor": "straightforwardness", "closeness": 3, "reasoning": "Straightforwardness describes directness in communication but implies a certain self-awareness and choice, unlike artlessness which suggests natural, unschooled absence of guile." },
+        { "distractor": "transparency", "closeness": 3, "reasoning": "Transparency implies being easy to read or open in process but does not carry the warm, natural simplicity that artlessness suggests." },
+        { "distractor": "bluntness", "closeness": 2, "reasoning": "Bluntness implies a potentially rude directness, whereas artlessness is charming and warm in this context." },
+        { "distractor": "directness", "closeness": 2, "reasoning": "Directness describes the mode of communication rather than the underlying character quality of lacking guile or artifice." },
+        { "distractor": "informality", "closeness": 2, "reasoning": "Informality describes a casual tone but does not capture the genuine absence of strategic contrivance that artlessness means." },
+        { "distractor": "charm", "closeness": 2, "reasoning": "Charm names the effect the artlessness had on the diplomat rather than the quality the ambassador possesses." },
+        { "distractor": "evasiveness", "closeness": 1, "reasoning": "Evasiveness describes avoiding direct answers, the opposite of the open, unguarded quality of artlessness." },
+        { "distractor": "pretension", "closeness": 1, "reasoning": "Pretension implies affected superiority, directly opposed to the natural simplicity of artlessness." },
+        { "distractor": "calculation", "closeness": 1, "reasoning": "Calculation implies deliberate strategic planning, the exact opposite of artlessness." }
       ]
     },
     {
-      "sentence": "The curator's artlessness arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "A certain artlessness in the young poet's work gave it an appealing rawness, though seasoned readers could sense an absence of craft.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "roughness", "closeness": 3, "reasoning": "Roughness describes unrefined texture and overlaps with this context, but artlessness specifically names the quality of lacking cultivated artistic technique, not merely surface finish." },
+        { "distractor": "inexperience", "closeness": 3, "reasoning": "Inexperience relates to time and exposure, whereas artlessness points to the innate quality of lacking artistic cultivation rather than just being new to the craft." },
+        { "distractor": "freshness", "closeness": 3, "reasoning": "Freshness is a positive quality describing novelty and vitality but misses the sense of lacking artistic skill that seasoned readers detect." },
+        { "distractor": "innocence", "closeness": 3, "reasoning": "Innocence describes freedom from corruption or knowledge of evil and overlaps with artlessness but does not capture the specifically aesthetic lack of cultivated technique." },
+        { "distractor": "spontaneity", "closeness": 2, "reasoning": "Spontaneity describes unpremeditated expression but implies an attractive freedom rather than an absence of craft." },
+        { "distractor": "naivety", "closeness": 2, "reasoning": "Naivety in art suggests inexperience of a broader kind and can be a sought-after aesthetic quality, but it does not specifically name the absence of artistic knowledge or skill." },
+        { "distractor": "immaturity", "closeness": 2, "reasoning": "Immaturity describes a developmental stage rather than the specifically aesthetic quality of lacking cultivated artistry." },
+        { "distractor": "simplicity", "closeness": 2, "reasoning": "Simplicity can be an aesthetic virtue, not merely a deficiency, and does not carry the specific meaning of lacking art knowledge or skill." },
+        { "distractor": "mastery", "closeness": 1, "reasoning": "Mastery describes complete command of a craft, the opposite of what artlessness names." },
+        { "distractor": "sophistication", "closeness": 1, "reasoning": "Sophistication implies refined, cultivated technique, which artlessness by definition lacks." },
+        { "distractor": "virtuosity", "closeness": 1, "reasoning": "Virtuosity describes exceptional technical skill, directly opposite to artlessness." }
       ]
     }
   ]

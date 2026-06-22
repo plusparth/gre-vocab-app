@@ -1,0 +1,53 @@
+{
+  "word": "cardinal",
+  "sentenceSets": [
+    {
+      "sentence": "Honesty was the cardinal virtue he expected of every member of his team, without exception.",
+      "answerChoices": [
+        { "distractor": "paramount", "closeness": 3, "reasoning": "Both 'cardinal' and 'paramount' convey supreme importance, but 'cardinal' implies a foundational or defining status among virtues — a central pillar — while 'paramount' simply means most important in degree; the phrase 'without exception' reinforces the absolute, structural significance that 'cardinal' carries." },
+        { "distractor": "foremost", "closeness": 3, "reasoning": "'Foremost' means first in importance or rank, which fits the sentence's emphasis on priority, but it does not carry 'cardinal's' sense of being a foundational or defining principle among a set of core virtues." },
+        { "distractor": "principal", "closeness": 3, "reasoning": "'Principal' means first in importance or rank, closely overlapping with 'cardinal,' but it lacks the connotation of something being a fundamental pillar that the word 'cardinal' carries in the context of virtues." },
+        { "distractor": "essential", "closeness": 3, "reasoning": "While 'essential' captures the indispensability that 'cardinal' implies, it is a weaker word that does not convey the sense of a supreme, defining virtue as 'cardinal' does in traditional moral discourse." },
+        { "distractor": "core", "closeness": 2, "reasoning": "'Core' is informal and adjectival in a generic way; it can describe something central, but it lacks the formal, hierarchical connotation that makes 'cardinal' appropriate in the context of moral virtues expected across the board." },
+        { "distractor": "fundamental", "closeness": 2, "reasoning": "'Fundamental' means basic and necessary, which overlaps with 'cardinal,' but it emphasizes foundational underpinning rather than supreme rank or precedence among virtues." },
+        { "distractor": "revered", "closeness": 2, "reasoning": "'Revered' means deeply respected, which is a different dimension — it describes the attitude toward something rather than its rank or importance, making it insufficient to replace 'cardinal.'" },
+        { "distractor": "singular", "closeness": 2, "reasoning": "'Singular' means exceptional or unique, which could describe a virtue set apart from others; however, it does not convey the supreme, defining importance that 'cardinal' signals." },
+        { "distractor": "secondary", "closeness": 1, "reasoning": "'Secondary' means lesser in importance, the direct opposite of what 'cardinal' conveys in the sentence." },
+        { "distractor": "trivial", "closeness": 1, "reasoning": "'Trivial' means of little importance, making it antonymous with 'cardinal' as used here — a virtue demanded without exception." },
+        { "distractor": "optional", "closeness": 1, "reasoning": "The phrase 'without exception' makes the virtue mandatory, which directly contradicts 'optional.'" }
+      ]
+    },
+    {
+      "sentence": "The review board identified procedural transparency as the cardinal rule governing all future investigations.",
+      "answerChoices": [
+        { "distractor": "overriding", "closeness": 3, "reasoning": "'Overriding' means taking precedence over everything else, which fits the sentence's context of a rule governing all future investigations, but it emphasizes superseding other rules rather than being the central, foundational one that 'cardinal' implies." },
+        { "distractor": "supreme", "closeness": 3, "reasoning": "'Supreme' conveys the highest authority, which is close; however, the sentence emphasizes the rule as definitionally central to governance — a structural pillar — rather than simply having greater authority than others." },
+        { "distractor": "preeminent", "closeness": 3, "reasoning": "'Preeminent' means surpassing all others, which approximates 'cardinal' in force, but it stresses standing above in quality rather than occupying a foundational, defining position in a governing framework." },
+        { "distractor": "binding", "closeness": 3, "reasoning": "A rule governing all future investigations is clearly binding, but 'binding' describes legal enforceability rather than the rank or foundational status that makes the rule 'cardinal.'" },
+        { "distractor": "critical", "closeness": 2, "reasoning": "'Critical' means vital or decisive, which is a plausible substitute, but it describes urgency or high stakes rather than the supreme, definitionally central standing 'cardinal' gives to the rule." },
+        { "distractor": "established", "closeness": 2, "reasoning": "'Established' means formally adopted or accepted; while the rule may be established, this word describes its status as agreed upon rather than its rank as the most important one." },
+        { "distractor": "contentious", "closeness": 2, "reasoning": "'Contentious' means causing disagreement; nothing in the sentence suggests the transparency rule is disputed, making this a poor fit despite being a plausible adjective for rules in general." },
+        { "distractor": "explicit", "closeness": 2, "reasoning": "'Explicit' means clearly stated, which describes how the rule is expressed, not its importance or rank — a different dimension from 'cardinal.'" },
+        { "distractor": "minor", "closeness": 1, "reasoning": "The sentence frames the rule as governing all future investigations, clearly marking it as major — the opposite of 'minor.'" },
+        { "distractor": "obsolete", "closeness": 1, "reasoning": "The rule governs future investigations, making 'obsolete' — meaning no longer in use — wholly implausible." },
+        { "distractor": "arbitrary", "closeness": 1, "reasoning": "A board identifying a rule to govern all future investigations implies deliberate reasoning; 'arbitrary' means random or without reason, making it clearly wrong." }
+      ]
+    },
+    {
+      "sentence": "Respect for patient autonomy is the cardinal principle in biomedical ethics, shaping every other norm in the field.",
+      "answerChoices": [
+        { "distractor": "foundational", "closeness": 3, "reasoning": "'Foundational' is very close in meaning and the phrase 'shaping every other norm' supports it, but 'cardinal' in ethical discourse carries an established, formal sense of supreme rank among principles — a more precise term than the broadly applicable 'foundational.'" },
+        { "distractor": "guiding", "closeness": 3, "reasoning": "'Guiding' describes something that directs or leads, which is plausible given that the principle shapes other norms; however, it understates the supreme importance 'cardinal' conveys, suggesting influence rather than definitional primacy." },
+        { "distractor": "central", "closeness": 3, "reasoning": "'Central' captures the idea of something occupying a pivotal place among other principles, and the sentence supports this reading; 'cardinal' is more specific, though, implying a ranked, formal elevation above all other principles." },
+        { "distractor": "normative", "closeness": 3, "reasoning": "Because the sentence is explicitly about ethics and norms, 'normative' is contextually plausible; however, 'normative' describes something that prescribes standards rather than designating one as the most important." },
+        { "distractor": "contested", "closeness": 2, "reasoning": "The sentence presents the principle as settled and shaping all other norms, not as disputed; 'contested' is plausible for ethical principles in general but is ruled out by the authoritative tone of the sentence." },
+        { "distractor": "supplementary", "closeness": 2, "reasoning": "'Supplementary' means additional or secondary, which is at odds with a principle that shapes every other norm; it is plausible for ethics-related words but clearly subordinate in meaning." },
+        { "distractor": "pragmatic", "closeness": 2, "reasoning": "'Pragmatic' describes an approach focused on practical outcomes; while ethics involves practicality, the sentence is about rank and definitional importance, not about a practical orientation." },
+        { "distractor": "universal", "closeness": 2, "reasoning": "'Universal' means applying to all cases, which the sentence's 'every other norm' might suggest; but the sentence is about the principle's supreme rank, not its scope of application." },
+        { "distractor": "peripheral", "closeness": 1, "reasoning": "'Peripheral' means marginal or tangential, the opposite of a principle that shapes all other norms in its field." },
+        { "distractor": "redundant", "closeness": 1, "reasoning": "'Redundant' means unnecessary or duplicative, which directly contradicts the principle's role as the foundation shaping every other norm." },
+        { "distractor": "tangential", "closeness": 1, "reasoning": "'Tangential' means only slightly connected to the main subject, which is incompatible with a principle described as shaping every other norm in the field." }
+      ]
+    }
+  ]
+}

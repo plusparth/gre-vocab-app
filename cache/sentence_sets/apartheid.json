@@ -4,181 +4,49 @@
     {
       "sentence": "The international community imposed sanctions against the regime that enforced apartheid.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "segregation", "closeness": 3, "reasoning": "Sanctions imposed by the international community against a regime suggests a systemic, institutionalized form of separation, which 'segregation' captures closely." },
+        { "distractor": "discrimination", "closeness": 3, "reasoning": "The regime being sanctioned by the international community implies the practice was a recognized injustice, and 'discrimination' fits as a systematic policy enforced by the state." },
+        { "distractor": "oppression", "closeness": 3, "reasoning": "A regime enforcing a policy that draws international sanctions suggests a system of harsh control, which 'oppression' reflects well." },
+        { "distractor": "disenfranchisement", "closeness": 3, "reasoning": "A sanctioned regime enforcing a policy against its own people strongly implies stripping certain groups of rights, matching 'disenfranchisement.'" },
+        { "distractor": "exclusion", "closeness": 2, "reasoning": "The sentence implies the regime was keeping groups separated or barred, and 'exclusion' captures that aspect, though less systematically than the original." },
+        { "distractor": "subjugation", "closeness": 2, "reasoning": "International sanctions against the regime suggest a policy of dominating a population, and 'subjugation' reflects that power relationship." },
+        { "distractor": "repression", "closeness": 2, "reasoning": "A regime drawing sanctions for enforcing a controversial policy points to repressive governance, and 'repression' fits that framing." },
+        { "distractor": "tyranny", "closeness": 2, "reasoning": "The regime context and international response imply abusive governmental power, and 'tyranny' captures that dimension though it is broader." },
+        { "distractor": "censorship", "closeness": 1, "reasoning": "The sentence focuses on a regime enforcing a policy against groups of people, not restricting information, making 'censorship' a poor contextual match." },
+        { "distractor": "propaganda", "closeness": 1, "reasoning": "Sanctions against a regime enforcing a social policy don't suggest a media manipulation context, so 'propaganda' doesn't fit here." },
+        { "distractor": "taxation", "closeness": 1, "reasoning": "The sanctions and enforcement context points to a human-rights policy, not a fiscal one, making 'taxation' entirely inappropriate." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected apartheid, which altered the course of the committee's deliberations.",
+      "sentence": "Scholars debate whether economic apartheid persists in societies where wealth is concentrated among a single demographic.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "stratification", "closeness": 3, "reasoning": "Wealth concentrated among a single demographic suggests layered economic divisions that 'stratification' captures closely in this scholarly debate context." },
+        { "distractor": "inequality", "closeness": 3, "reasoning": "The concentration of wealth in one demographic is a direct marker of inequality, making this a near-perfect substitute in the sentence." },
+        { "distractor": "segregation", "closeness": 3, "reasoning": "The sentence discusses separation of economic outcomes by demographic group, which 'segregation' addresses directly." },
+        { "distractor": "exclusion", "closeness": 3, "reasoning": "Scholars debating whether certain groups are locked out of wealth fits 'exclusion' as an economic concept in this context." },
+        { "distractor": "disparity", "closeness": 2, "reasoning": "The unequal distribution of wealth across demographics implies significant disparity, though the word doesn't carry the systemic enforcement connotation." },
+        { "distractor": "discrimination", "closeness": 2, "reasoning": "Wealth concentrating in one demographic implies discriminatory outcomes, and 'discrimination' works here though it is less structural in tone." },
+        { "distractor": "marginalization", "closeness": 2, "reasoning": "Groups excluded from concentrated wealth are implicitly marginalized, fitting the critical scholarly framing of the sentence." },
+        { "distractor": "exploitation", "closeness": 2, "reasoning": "Wealth concentration at the expense of other demographics could be framed as exploitation, though it shifts emphasis from policy to process." },
+        { "distractor": "stagnation", "closeness": 1, "reasoning": "The sentence focuses on who holds wealth, not on whether economies are growing or stuck, making 'stagnation' contextually off." },
+        { "distractor": "inflation", "closeness": 1, "reasoning": "The debate concerns demographic wealth concentration, not monetary price levels, so 'inflation' is contextually irrelevant." },
+        { "distractor": "corruption", "closeness": 1, "reasoning": "The sentence addresses structural wealth distribution by group, not dishonest practices by officials, so 'corruption' doesn't fit." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the apartheid to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "After apartheid ended, the new government faced the immense challenge of dismantling decades of institutionalized inequality.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "segregation", "closeness": 3, "reasoning": "Dismantling institutionalized inequality left by a prior regime fits 'segregation' closely, as the systemic separation created the inequalities referenced." },
+        { "distractor": "oppression", "closeness": 3, "reasoning": "A system creating decades of institutionalized inequality that a new government must undo strongly suggests a prior regime of oppression." },
+        { "distractor": "discrimination", "closeness": 3, "reasoning": "The challenge of undoing institutionalized inequality left by the old system implies discrimination was built into that system, making this a close contextual fit." },
+        { "distractor": "subjugation", "closeness": 3, "reasoning": "Decades of institutionalized inequality dismantled by a new government implies a prior system that held people down, which 'subjugation' reflects." },
+        { "distractor": "colonialism", "closeness": 2, "reasoning": "Institutionalized inequality left by an old regime that a new government must undo aligns with patterns of colonialism, though the word is broader in scope." },
+        { "distractor": "repression", "closeness": 2, "reasoning": "A system creating lasting institutionalized inequality implies active suppression of people, and 'repression' captures that dynamic." },
+        { "distractor": "exploitation", "closeness": 2, "reasoning": "Decades of institutionalized inequality left behind suggests systematic exploitation, though the word emphasizes extraction rather than separation." },
+        { "distractor": "authoritarianism", "closeness": 2, "reasoning": "A prior system that a new government must dismantle after it ends implies an authoritarian structure, though the word is broader than the specific policy described." },
+        { "distractor": "bureaucracy", "closeness": 1, "reasoning": "The sentence focuses on dismantling a system of inequality, not administrative complexity, making 'bureaucracy' a weak contextual fit." },
+        { "distractor": "nationalism", "closeness": 1, "reasoning": "The challenge of undoing institutionalized inequality points to a social-justice context, not specifically a nationalist ideology." },
+        { "distractor": "militarism", "closeness": 1, "reasoning": "The sentence concerns social inequality left by an old regime, not military dominance or warfare, making 'militarism' a poor fit." }
       ]
     }
   ]

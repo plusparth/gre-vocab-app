@@ -4,181 +4,49 @@
     {
       "sentence": "The robot operated autonomously, adjusting its path in real time without human input.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "independently", "closeness": 3, "reasoning": "Independently is close but generic; autonomously specifically connotes engineered or principled self-governance, not merely acting without others present." },
+        { "distractor": "automatically", "closeness": 3, "reasoning": "Automatically implies preset mechanical responses, while autonomously implies real-time adaptive decision-making—the sentence's emphasis on adjusting in real time signals autonomous rather than automatic behavior." },
+        { "distractor": "unaided", "closeness": 3, "reasoning": "Unaided describes the absence of help, not the systematic independence from human oversight that autonomously implies in a robotic context." },
+        { "distractor": "remotely", "closeness": 3, "reasoning": "Remotely implies human control from a distance, which directly contradicts 'without human input' in the sentence." },
+        { "distractor": "seamlessly", "closeness": 2, "reasoning": "Seamlessly describes smoothness of operation, not the degree of independence from human control, and would change the sentence's meaning." },
+        { "distractor": "efficiently", "closeness": 2, "reasoning": "Efficiently describes how well a task is performed, not whether it is performed without human oversight." },
+        { "distractor": "continuously", "closeness": 2, "reasoning": "Continuously describes an unbroken duration of operation, not the self-governing nature of that operation." },
+        { "distractor": "responsively", "closeness": 2, "reasoning": "Responsively suggests reacting to inputs, which could imply human direction—the opposite of the independence the sentence describes." },
+        { "distractor": "manually", "closeness": 1, "reasoning": "Manually means operated by hand or human control, directly contradicting 'without human input.'" },
+        { "distractor": "erratically", "closeness": 1, "reasoning": "Erratically implies unpredictable, uncontrolled behavior—the opposite of a purposeful system adjusting its path in real time." },
+        { "distractor": "passively", "closeness": 1, "reasoning": "Passively implies not taking independent action, the direct opposite of operating without human input while making adjustments." }
       ]
     },
     {
-      "sentence": "Her autonomously response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The probe navigated autonomously through the asteroid field, processing sensor data and correcting its trajectory without ground control.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "independently", "closeness": 3, "reasoning": "Independently overlaps but lacks the technical precision of autonomously, which implies systematic self-governance rather than simply the absence of others' involvement." },
+        { "distractor": "intelligently", "closeness": 3, "reasoning": "Intelligently describes the quality of the reasoning process, not the degree of freedom from human oversight that the sentence explicitly states with 'without ground control.'" },
+        { "distractor": "self-sufficiently", "closeness": 3, "reasoning": "Self-sufficiently emphasizes resource independence rather than the decision-making independence that autonomously captures in engineering and aerospace contexts." },
+        { "distractor": "automatically", "closeness": 3, "reasoning": "Automatically implies pre-programmed fixed responses rather than the real-time adaptive processing the sentence describes, making autonomously the more accurate choice." },
+        { "distractor": "precisely", "closeness": 2, "reasoning": "Precisely describes accuracy of execution, not independence from human control—it does not capture the core meaning of navigating without ground control." },
+        { "distractor": "continuously", "closeness": 2, "reasoning": "Continuously describes duration of operation, not the self-governing nature that autonomously conveys in this context." },
+        { "distractor": "remotely", "closeness": 2, "reasoning": "Remotely suggests humans guiding the probe from a distance, which contradicts the phrase 'without ground control.'" },
+        { "distractor": "flawlessly", "closeness": 2, "reasoning": "Flawlessly describes quality of performance, not independence from human oversight—a substitution would change the sentence's key claim." },
+        { "distractor": "haphazardly", "closeness": 1, "reasoning": "Haphazardly implies disorganized, random movement—incompatible with processing sensor data and making trajectory corrections." },
+        { "distractor": "manually", "closeness": 1, "reasoning": "Manually directly contradicts 'without ground control'—the sentence is precisely about the absence of human intervention." },
+        { "distractor": "obediently", "closeness": 1, "reasoning": "Obediently implies following instructions from an authority, the opposite of operating independently without human input." }
       ]
     },
     {
-      "sentence": "The curator's autonomously arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "Children who learn to work autonomously develop stronger problem-solving skills than those who always wait for teacher direction.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "independently", "closeness": 3, "reasoning": "Independently is very close but lacks the emphasis on self-governance and principled self-direction that autonomously carries in developmental and educational contexts." },
+        { "distractor": "self-reliantly", "closeness": 3, "reasoning": "Self-reliantly stresses personal resourcefulness more than the systematic independence from external direction that autonomously implies." },
+        { "distractor": "diligently", "closeness": 3, "reasoning": "Diligently describes effort and persistence, not independence from teacher direction—it would change the meaning to focus on work ethic rather than self-governance." },
+        { "distractor": "creatively", "closeness": 3, "reasoning": "Creatively describes an approach to tasks but says nothing about independence from external direction, which is the contrast the sentence draws." },
+        { "distractor": "collaboratively", "closeness": 2, "reasoning": "Collaboratively implies working with others, the near opposite of the self-directed work autonomously describes." },
+        { "distractor": "methodically", "closeness": 2, "reasoning": "Methodically describes procedural orderliness, not freedom from teacher instruction—wrong dimension for the sentence." },
+        { "distractor": "patiently", "closeness": 2, "reasoning": "Patiently describes a temperamental quality unrelated to whether children work under direction or on their own initiative." },
+        { "distractor": "eagerly", "closeness": 2, "reasoning": "Eagerly describes enthusiasm, not independence, and would not preserve the contrast with 'wait for teacher direction.'" },
+        { "distractor": "dependently", "closeness": 1, "reasoning": "Dependently means relying on others for direction—the direct opposite of what the sentence claims improves problem-solving skills." },
+        { "distractor": "passively", "closeness": 1, "reasoning": "Passively means without initiative, which directly contradicts the self-direction that autonomously conveys." },
+        { "distractor": "obediently", "closeness": 1, "reasoning": "Obediently means following instructions from teachers, the exact behavior the sentence contrasts with autonomous work." }
       ]
     }
   ]

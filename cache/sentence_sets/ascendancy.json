@@ -4,181 +4,49 @@
     {
       "sentence": "After the election, the reformist faction established clear ascendancy within the party.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "dominance", "closeness": 3, "reasoning": "Dominance suggests superiority through force or power and is close in meaning, but ascendancy implies a controlling influence that is ongoing and somewhat contested, gained through process." },
+        { "distractor": "supremacy", "closeness": 3, "reasoning": "Supremacy implies absolute, unchallenged top position, whereas ascendancy conveys controlling influence that may still face opposition." },
+        { "distractor": "control", "closeness": 3, "reasoning": "Control describes authority over actions but lacks ascendancy's specific sense of a rising, governing influence within a social or political group." },
+        { "distractor": "authority", "closeness": 3, "reasoning": "Authority means legitimate power to command, but ascendancy more specifically means the dominant influence one entity has gained over others." },
+        { "distractor": "prominence", "closeness": 2, "reasoning": "Prominence refers to being widely noticed or recognized, not the controlling influence over others that ascendancy denotes." },
+        { "distractor": "leadership", "closeness": 2, "reasoning": "Leadership describes the role of guiding others and does not specifically capture the conquering or rising influence implied by ascendancy." },
+        { "distractor": "majority", "closeness": 2, "reasoning": "Majority is a numerical concept, whereas ascendancy describes governing influence that may not require holding a majority." },
+        { "distractor": "advantage", "closeness": 2, "reasoning": "Advantage describes a favorable position in competition but not the sustained controlling influence over a group that ascendancy implies." },
+        { "distractor": "submission", "closeness": 1, "reasoning": "Submission means yielding to another's authority, which is what those under ascendancy might do, not the quality the reformists achieved." },
+        { "distractor": "decline", "closeness": 1, "reasoning": "Decline describes a loss of power or influence, the opposite of establishing ascendancy." },
+        { "distractor": "obscurity", "closeness": 1, "reasoning": "Obscurity means being unknown or unimportant, the opposite of exerting governing influence within a party." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected ascendancy, which altered the course of the committee's deliberations.",
+      "sentence": "By the third century, Christianity had gained ascendancy over the other mystery religions of the Roman Empire.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "prevalence", "closeness": 3, "reasoning": "Prevalence describes being widespread and common but does not capture the governing, controlling influence over rivals that ascendancy implies." },
+        { "distractor": "primacy", "closeness": 3, "reasoning": "Primacy means being first in rank or importance, which is close but static; ascendancy emphasizes the rise to and exertion of controlling influence." },
+        { "distractor": "hegemony", "closeness": 3, "reasoning": "Hegemony implies leadership or dominance of one group over others, very close to ascendancy, but more explicitly political and often implying coercion." },
+        { "distractor": "popularity", "closeness": 3, "reasoning": "Popularity describes being widely liked but not the controlling, governing influence over competing traditions that ascendancy implies." },
+        { "distractor": "influence", "closeness": 2, "reasoning": "Influence describes the capacity to have an effect but not the full governing dominance over rival groups that ascendancy conveys." },
+        { "distractor": "prestige", "closeness": 2, "reasoning": "Prestige describes high esteem or reputation and does not capture the controlling influence over other groups." },
+        { "distractor": "expansion", "closeness": 2, "reasoning": "Expansion describes growing larger in size or reach but not the gaining of controlling influence over rivals." },
+        { "distractor": "acceptance", "closeness": 2, "reasoning": "Acceptance implies being received or tolerated, a much weaker form of success than the governing influence ascendancy implies." },
+        { "distractor": "marginalization", "closeness": 1, "reasoning": "Marginalization means being pushed to the edges of power and relevance, the opposite of gaining ascendancy." },
+        { "distractor": "persecution", "closeness": 1, "reasoning": "Persecution means suffering hostility, which is what early Christianity endured before gaining ascendancy." },
+        { "distractor": "subordination", "closeness": 1, "reasoning": "Subordination means being placed in a lower rank, the opposite of the controlling influence ascendancy describes." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the ascendancy to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "The senior partner's ascendancy over the firm's culture meant that every associate adopted his approach without question.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "grip", "closeness": 3, "reasoning": "Grip implies a forceful hold rather than the naturally governing influence through credibility and authority that ascendancy conveys." },
+        { "distractor": "sway", "closeness": 3, "reasoning": "Sway is close in meaning and works idiomatically here, but ascendancy is more formal and implies a more complete, established governing dominance." },
+        { "distractor": "shadow", "closeness": 3, "reasoning": "In the phrase 'in someone's shadow,' this conveys influence, but shadow is metaphorical and less precise than ascendancy as a noun of controlling influence." },
+        { "distractor": "imprint", "closeness": 3, "reasoning": "Imprint describes lasting influence on something, but it does not capture the ongoing governing control ascendancy implies." },
+        { "distractor": "reputation", "closeness": 2, "reasoning": "Reputation describes how others perceive someone but not the controlling influence that causes associates to adopt behaviors without question." },
+        { "distractor": "ego", "closeness": 2, "reasoning": "Ego describes self-regard and does not explain the governing power the partner exercised over institutional culture." },
+        { "distractor": "tenure", "closeness": 2, "reasoning": "Tenure describes the length or security of one's position, not the nature of the influence wielded from that position." },
+        { "distractor": "personality", "closeness": 2, "reasoning": "Personality describes individual traits and does not specifically convey governing, controlling influence over others." },
+        { "distractor": "absence", "closeness": 1, "reasoning": "Absence means not being present, the opposite of exerting governing influence over a firm's culture." },
+        { "distractor": "indifference", "closeness": 1, "reasoning": "Indifference means lack of concern, which would produce no influence at all, the opposite of ascendancy." },
+        { "distractor": "weakness", "closeness": 1, "reasoning": "Weakness is the antonym of ascendancy, implying diminished rather than governing influence." }
       ]
     }
   ]

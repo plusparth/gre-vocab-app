@@ -4,181 +4,49 @@
     {
       "sentence": "He tried to bludgeon his opponents into submission with statistics, not realizing data alone rarely changes minds.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "browbeat", "closeness": 3, "reasoning": "Close — 'browbeat' means to intimidate with harsh criticism or words, but the sentence specifies the tool of force is statistics, implying blunt, overwhelming pressure rather than verbal bullying or scolding." },
+        { "distractor": "coerce", "closeness": 3, "reasoning": "Close — 'coerce' means to compel through force or threats, but the sentence describes repeatedly hammering opponents with data rather than threatening consequences, which is the force-of-repetition implication of 'bludgeon.'" },
+        { "distractor": "batter", "closeness": 3, "reasoning": "Close — 'batter' captures repeated forceful attack, but 'bludgeon' specifically implies heavy, blunt-instrument force; more importantly, 'batter' lacks the connotation of using sheer weight of argument to overpower." },
+        { "distractor": "hammer", "closeness": 3, "reasoning": "Close — 'hammer' shares the sense of repeated forceful blows, but the sentence's 'not realizing data alone rarely changes minds' highlights the futility of the blunt-force approach, a nuance 'hammer' carries less distinctly." },
+        { "distractor": "pressure", "closeness": 2, "reasoning": "Plausible as a general term for applying force, but 'pressure' lacks the image of violent, blunt-instrument assault that 'bludgeon' brings, which the statistical-club context implies." },
+        { "distractor": "overwhelm", "closeness": 2, "reasoning": "Fits the idea of swamping opponents with data, but 'overwhelm' describes a result rather than an aggressive act, missing the combative, weapon-like quality of 'bludgeon.'" },
+        { "distractor": "persuade", "closeness": 2, "reasoning": "The sentence explicitly says data alone rarely changes minds, which implies the effort was more forceful than persuasion — 'persuade' reads as too gentle and collaborative." },
+        { "distractor": "silence", "closeness": 2, "reasoning": "'Silence' implies stopping opponents from speaking, but the sentence focuses on forcing submission rather than muting; the distinction matters because submission is about capitulation, not simply going quiet." },
+        { "distractor": "enlighten", "closeness": 1, "reasoning": "The sentence undercuts any informative purpose by noting data rarely changes minds; 'enlighten' implies success in educating, the opposite of what the sentence describes." },
+        { "distractor": "cajole", "closeness": 1, "reasoning": "'Cajole' means to persuade through flattery or gentle urging — the opposite of the blunt, forceful approach with statistics described in the sentence." },
+        { "distractor": "ingratiate", "closeness": 1, "reasoning": "'Ingratiate' means to win favor through pleasing behavior; entirely wrong — the sentence describes aggressive force, not charm." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected bludgeon, which altered the course of the committee's deliberations.",
+      "sentence": "The senator's aide used leaked financial records to bludgeon the rival campaign into withdrawing its candidate before the primary.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "blackmail", "closeness": 3, "reasoning": "Close — using damaging information to force withdrawal suggests coercive leverage, but 'blackmail' implies a criminal demand for payment or benefit, while 'bludgeon' here describes brute-force political pressure without that specific extortion element." },
+        { "distractor": "intimidate", "closeness": 3, "reasoning": "Close — leaking damaging records is certainly intimidating, but 'intimidate' describes an emotional effect on the target whereas 'bludgeon' describes the act of wielding the records as a blunt weapon to force a specific outcome." },
+        { "distractor": "force", "closeness": 3, "reasoning": "Close — 'force' captures compulsion, but 'bludgeon' conveys the additional sense of doing so crudely and with overwhelming pressure, which fits the aggressive use of leaked records." },
+        { "distractor": "compel", "closeness": 3, "reasoning": "Close — 'compel' means to oblige someone to act, which fits the outcome (withdrawal), but it is neutral about method; 'bludgeon' signals the crude, battering nature of the tactic." },
+        { "distractor": "pressure", "closeness": 2, "reasoning": "Fits the general dynamic of applying force to produce a result, but 'pressure' is too mild and neutral a word for the aggressive deployment of leaked documents as a weapon." },
+        { "distractor": "manipulate", "closeness": 2, "reasoning": "'Manipulate' implies subtle, indirect influence; the sentence describes an overt, heavy-handed attack using leaked records, which is the opposite of subtle manipulation." },
+        { "distractor": "threaten", "closeness": 2, "reasoning": "'Threaten' is plausible given leaked records, but 'bludgeon into withdrawing' implies the act was carried through to completion, not merely signaled as a warning." },
+        { "distractor": "provoke", "closeness": 2, "reasoning": "'Provoke' suggests stimulating a reaction, often through irritation; the sentence describes achieving a specific coerced outcome, not simply triggering an angry response." },
+        { "distractor": "encourage", "closeness": 1, "reasoning": "'Encourage' implies positive support; completely at odds with the aggressive, coercive action described in the sentence." },
+        { "distractor": "dissuade", "closeness": 1, "reasoning": "'Dissuade' means to talk someone out of an action through reasoning; the sentence describes blunt-force tactics rather than gentle argument." },
+        { "distractor": "inspire", "closeness": 1, "reasoning": "'Inspire' denotes motivating someone positively; entirely contradicts the hostile nature of weaponizing leaked financial records." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the bludgeon to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "Rather than negotiating in good faith, the larger firm attempted to bludgeon the startup into accepting unfavorable terms through a barrage of legal motions.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "bully", "closeness": 3, "reasoning": "Close — 'bully' implies repeated intimidation or domination, but the sentence's 'barrage of legal motions' suggests an overwhelming blunt-instrument assault rather than the ongoing harassment that 'bully' typically connotes." },
+        { "distractor": "dragoon", "closeness": 3, "reasoning": "Close — 'dragoon' means to coerce by persistent pressure, which fits the legal-barrage context, but it is rarer and less precise about the blunt, heavy-force quality of 'bludgeon.'" },
+        { "distractor": "coerce", "closeness": 3, "reasoning": "Close — 'coerce' captures the idea of forcing acceptance of unfavorable terms, but it is neutral about method; 'bludgeon' specifies crude, overwhelming force — here the legal barrage — as the instrument." },
+        { "distractor": "steamroll", "closeness": 3, "reasoning": "Close — 'steamroll' conveys crushing opposition with overwhelming power, which fits the large-firm-versus-startup dynamic, but it often implies ignoring rather than actively attacking, while 'bludgeon' implies targeted blows." },
+        { "distractor": "overwhelm", "closeness": 2, "reasoning": "'Overwhelm' describes a result but not the deliberate aggressive intent implied by 'bludgeon'; the sentence emphasizes calculated, weapon-like use of legal motions." },
+        { "distractor": "corner", "closeness": 2, "reasoning": "'Corner' means to trap someone with no escape, which fits the startup's limited options, but 'bludgeon' stresses the repeated battering rather than the encirclement." },
+        { "distractor": "sue", "closeness": 2, "reasoning": "'Sue' denotes filing a lawsuit, which partially overlaps with the legal motions mentioned, but 'bludgeon' describes the strategic battering purpose of those motions rather than the act of litigation itself." },
+        { "distractor": "outmaneuver", "closeness": 2, "reasoning": "'Outmaneuver' implies strategic cleverness, the opposite of the blunt, heavy-handed approach that 'bludgeon' and the 'barrage of legal motions' together suggest." },
+        { "distractor": "negotiate", "closeness": 1, "reasoning": "The sentence explicitly contrasts the firm's behavior with 'negotiating in good faith,' making 'negotiate' the opposite of what actually happened." },
+        { "distractor": "solicit", "closeness": 1, "reasoning": "'Solicit' means to request or appeal; entirely wrong given that the firm was applying aggressive force rather than asking." },
+        { "distractor": "flatter", "closeness": 1, "reasoning": "'Flatter' means to compliment in order to please; the opposite of the adversarial legal assault described in the sentence." }
       ]
     }
   ]

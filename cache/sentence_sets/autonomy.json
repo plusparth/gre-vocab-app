@@ -4,181 +4,49 @@
     {
       "sentence": "The school valued student autonomy, encouraging independent research rather than passive instruction.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "independence", "closeness": 3, "reasoning": "Independence is broadly synonymous but generic; autonomy specifically implies a principled, recognized right to self-direction, carrying institutional weight that independence does not." },
+        { "distractor": "initiative", "closeness": 3, "reasoning": "Initiative describes the act of taking the first step, not the ongoing structural freedom to govern one's own learning that autonomy implies." },
+        { "distractor": "agency", "closeness": 3, "reasoning": "Agency refers to capacity for action but does not carry the sense of a recognized right to self-governance that autonomy specifically denotes in educational contexts." },
+        { "distractor": "freedom", "closeness": 3, "reasoning": "Freedom is broader and less precise than autonomy, which carries a specific sense of legitimate self-rule rather than mere absence of constraint." },
+        { "distractor": "curiosity", "closeness": 2, "reasoning": "Curiosity is an intellectual trait, not a structural right or condition that an institution can value and grant to students." },
+        { "distractor": "discipline", "closeness": 2, "reasoning": "Discipline implies external or self-imposed structure and rules, almost the opposite of the self-direction autonomy describes." },
+        { "distractor": "creativity", "closeness": 2, "reasoning": "Creativity describes a mode of thought, not a condition of self-governance—substituting it would shift the sentence to a different kind of value." },
+        { "distractor": "competence", "closeness": 2, "reasoning": "Competence refers to skill level, not the freedom from directive instruction that autonomy means in this context." },
+        { "distractor": "obedience", "closeness": 1, "reasoning": "Obedience means compliance with external rules or instruction—the direct opposite of the self-direction and independence the sentence describes." },
+        { "distractor": "conformity", "closeness": 1, "reasoning": "Conformity means matching external norms or expectations, contrasting sharply with the independent research the school's value of autonomy is said to encourage." },
+        { "distractor": "submission", "closeness": 1, "reasoning": "Submission implies yielding to an authority, the antithesis of the self-governing, independent work autonomy enables." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected autonomy, which altered the course of the committee's deliberations.",
+      "sentence": "The surgeon insisted on clinical autonomy, arguing that insurance companies should not override her medical judgment.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "authority", "closeness": 3, "reasoning": "Authority implies power over others, while autonomy implies freedom from the interference of others—the surgeon is resisting outside control, not asserting control over others." },
+        { "distractor": "discretion", "closeness": 3, "reasoning": "Discretion refers to the freedom to decide in individual cases; autonomy is broader, implying a recognized structural right to self-governance that no outside body can override." },
+        { "distractor": "expertise", "closeness": 3, "reasoning": "Expertise describes knowledge or skill, not the right to act without external interference—the sentence is about professional independence, not competence." },
+        { "distractor": "independence", "closeness": 3, "reasoning": "Independence is close but less technically precise; in professional and legal contexts, autonomy is the standard term for an individual's right to make decisions free from external override." },
+        { "distractor": "sovereignty", "closeness": 2, "reasoning": "Sovereignty typically applies to states or governing bodies, not individual professionals, making it an ill-fitting substitute in a clinical context." },
+        { "distractor": "privilege", "closeness": 2, "reasoning": "Privilege implies a granted advantage rather than an inherent right, and carries connotations that would misrepresent the surgeon's argument." },
+        { "distractor": "reputation", "closeness": 2, "reasoning": "Reputation has nothing to do with decision-making freedom—substituting it would make the sentence incoherent." },
+        { "distractor": "prerogative", "closeness": 2, "reasoning": "Prerogative comes close but implies an exclusive right often held by virtue of rank, while autonomy emphasizes self-governance as a professional principle." },
+        { "distractor": "compliance", "closeness": 1, "reasoning": "Compliance means following external rules—the surgeon is arguing against exactly that kind of external override." },
+        { "distractor": "subordination", "closeness": 1, "reasoning": "Subordination means deference to a superior authority, the opposite of what the surgeon is insisting upon." },
+        { "distractor": "accountability", "closeness": 1, "reasoning": "Accountability means being answerable to others for one's decisions, which conflicts with the surgeon's argument for freedom from external override." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the autonomy to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "Granting regional autonomy to the northern provinces reduced tensions that had threatened to fracture the nation.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "sovereignty", "closeness": 3, "reasoning": "Sovereignty implies full independence from the national government; autonomy allows self-rule while remaining within the state—a critical distinction given the nation-fracturing stakes in the sentence." },
+        { "distractor": "self-rule", "closeness": 3, "reasoning": "Self-rule is semantically close but informal and lacks the precise political-legal meaning of autonomy, which implies a formally conferred and recognized status." },
+        { "distractor": "independence", "closeness": 3, "reasoning": "Independence implies separation from the nation, while autonomy is specifically the kind of self-governance that keeps the provinces within the nation—substituting it would contradict the sentence's resolution." },
+        { "distractor": "representation", "closeness": 3, "reasoning": "Representation means having a voice in a central government, which is a different mechanism from the direct self-governing power that autonomy denotes." },
+        { "distractor": "subsidy", "closeness": 2, "reasoning": "Subsidy refers to financial support, not decision-making freedom—completely the wrong category to reduce political tensions." },
+        { "distractor": "recognition", "closeness": 2, "reasoning": "Recognition implies acknowledgment of identity or legitimacy but not the transfer of governing power that autonomy specifically entails." },
+        { "distractor": "immunity", "closeness": 2, "reasoning": "Immunity means protection from legal obligation, not the broad self-governing capacity the sentence requires." },
+        { "distractor": "federalism", "closeness": 2, "reasoning": "Federalism is a system of government, not a status that can be granted to specific provinces—it would not fit grammatically or logically in this sentence." },
+        { "distractor": "neglect", "closeness": 1, "reasoning": "Neglect implies failure to attend to the provinces' needs, which would likely worsen rather than reduce tensions." },
+        { "distractor": "subjugation", "closeness": 1, "reasoning": "Subjugation means forcible control, the opposite of granting self-governance and the kind of action that would cause, not reduce, fracture." },
+        { "distractor": "annexation", "closeness": 1, "reasoning": "Annexation means absorbing territories into a central state by force, which would inflame tensions rather than resolve them." }
       ]
     }
   ]

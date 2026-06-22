@@ -4,181 +4,49 @@
     {
       "sentence": "Her antipathy toward bureaucracy was well known; she avoided all paperwork until legally compelled.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "aversion", "closeness": 3, "reasoning": "Aversion implies a strong desire to avoid something but can stem from discomfort or anxiety rather than deep-seated dislike; antipathy denotes a more active, feeling-based antagonism." },
+        { "distractor": "hostility", "closeness": 3, "reasoning": "Hostility suggests aggressive opposition, which is stronger and more confrontational than antipathy, which can simmer quietly without overt aggression." },
+        { "distractor": "animus", "closeness": 3, "reasoning": "Animus is a near-synonym meaning active ill will, but it often implies a directed, personalized grudge rather than the generalized dislike toward an institution that antipathy captures." },
+        { "distractor": "disdain", "closeness": 3, "reasoning": "Disdain adds a note of contemptuous condescension that antipathy does not necessarily carry; one can have antipathy without considering the object inferior." },
+        { "distractor": "indifference", "closeness": 2, "reasoning": "Indifference implies lack of any feeling, whereas antipathy is defined by a strong negative feeling — substituting it reverses the sentence's meaning." },
+        { "distractor": "disinterest", "closeness": 2, "reasoning": "Disinterest means impartiality or lack of personal stake, not a feeling of dislike, making it too neutral for the active avoidance the sentence describes." },
+        { "distractor": "skepticism", "closeness": 2, "reasoning": "Skepticism is an intellectual stance of doubt, not an emotional feeling of dislike directed at bureaucracy." },
+        { "distractor": "frustration", "closeness": 2, "reasoning": "Frustration is a temporary reactive emotion rather than the deep, consistent feeling of dislike that antipathy and 'well known' together imply." },
+        { "distractor": "admiration", "closeness": 1, "reasoning": "Admiration is positive regard, the opposite of antipathy, and would make avoiding paperwork inexplicable." },
+        { "distractor": "affection", "closeness": 1, "reasoning": "Affection is warm fondness, directly contradicting the negative sentiment the sentence attributes to her toward bureaucracy." },
+        { "distractor": "enthusiasm", "closeness": 1, "reasoning": "Enthusiasm toward bureaucracy would have her eagerly filling out paperwork, the exact opposite of the behavior the sentence describes." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected antipathy, which altered the course of the committee's deliberations.",
+      "sentence": "The two neighboring departments developed a mutual antipathy that made every cross-team project tense and unproductive.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "rivalry", "closeness": 3, "reasoning": "Rivalry implies competitive opposition that can be healthy or energizing, whereas antipathy is purely negative and emotional, better explaining why projects became unproductive rather than merely contested." },
+        { "distractor": "animosity", "closeness": 3, "reasoning": "Animosity is a close synonym meaning strong hostility, but it emphasizes active bitterness more than the deep-seated feeling-based dislike that antipathy specifically denotes." },
+        { "distractor": "friction", "closeness": 3, "reasoning": "Friction describes the experience of conflict between parties but is more mechanical and situational, lacking the affective depth of antipathy as a sustained emotional state." },
+        { "distractor": "resentment", "closeness": 3, "reasoning": "Resentment implies a sense of grievance over past wrongs, whereas antipathy can exist without a specific cause or injury; the departments may simply dislike each other without a clear grievance." },
+        { "distractor": "competition", "closeness": 2, "reasoning": "Competition implies a structured contest for shared goals, which can be positive; it does not capture the emotional negativity that makes every project tense." },
+        { "distractor": "misunderstanding", "closeness": 2, "reasoning": "Misunderstanding implies a solvable communication failure, whereas antipathy suggests a durable emotional state unlikely to be resolved by clarification alone." },
+        { "distractor": "distrust", "closeness": 2, "reasoning": "Distrust focuses on a specific cognitive assessment of unreliability rather than the broader emotional dislike that antipathy encompasses." },
+        { "distractor": "disagreement", "closeness": 2, "reasoning": "Disagreement is episodic and issue-specific, whereas antipathy is a persistent emotional attitude that pervades every interaction." },
+        { "distractor": "camaraderie", "closeness": 1, "reasoning": "Camaraderie is mutual friendliness and solidarity, the opposite of what makes projects tense and unproductive." },
+        { "distractor": "rapport", "closeness": 1, "reasoning": "Rapport is harmonious, mutually understanding communication — if this existed, the projects would not be tense." },
+        { "distractor": "admiration", "closeness": 1, "reasoning": "Mutual admiration between departments would facilitate collaboration, contradicting the sentence's negative outcome." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the antipathy to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "His antipathy toward the new mayor was rooted less in policy disagreement than in a personal slight he had never forgiven.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "opposition", "closeness": 3, "reasoning": "Opposition suggests a stance taken on principles or policies, but the sentence explicitly distinguishes antipathy from policy disagreement, making opposition a poor fit for what is described as a personal, emotional dislike." },
+        { "distractor": "contempt", "closeness": 3, "reasoning": "Contempt implies regarding someone as worthless or beneath consideration, which is stronger and more socially aggressive than the personal dislike and wounded pride that antipathy involves here." },
+        { "distractor": "grudge", "closeness": 3, "reasoning": "Grudge is very close to the meaning here since the dislike stems from an unforgiven slight, but grudge is a more colloquial and specific term for a retained grievance, whereas antipathy describes the broader emotional state it produces." },
+        { "distractor": "indignation", "closeness": 3, "reasoning": "Indignation is righteous anger at perceived injustice and is more reactive and temporary than antipathy, which is presented as a settled, enduring feeling." },
+        { "distractor": "concern", "closeness": 2, "reasoning": "Concern implies worry or care rather than dislike; it would suggest he cared about the mayor's performance rather than harboring negative feeling." },
+        { "distractor": "skepticism", "closeness": 2, "reasoning": "Skepticism is intellectual doubt rather than a feeling of dislike rooted in personal injury." },
+        { "distractor": "disappointment", "closeness": 2, "reasoning": "Disappointment suggests unmet expectations rather than a persistent negative feeling born from an unforgiven slight." },
+        { "distractor": "ambivalence", "closeness": 2, "reasoning": "Ambivalence implies mixed feelings — both positive and negative — whereas antipathy is purely and strongly negative." },
+        { "distractor": "endorsement", "closeness": 1, "reasoning": "Endorsement is active support, the direct opposite of a dislike rooted in an old personal wrong." },
+        { "distractor": "enthusiasm", "closeness": 1, "reasoning": "Enthusiasm toward the mayor would mean he actively wanted her to succeed, contradicting the unforgiven personal slight the sentence describes." },
+        { "distractor": "deference", "closeness": 1, "reasoning": "Deference implies respectful submission to the mayor's authority, which is incompatible with harboring strong personal dislike." }
       ]
     }
   ]

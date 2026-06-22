@@ -4,181 +4,49 @@
     {
       "sentence": "Investigators worked to ascertain the precise cause of the explosion before releasing any statement.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "determine", "closeness": 3, "reasoning": "Determine overlaps heavily but implies reaching a decision or conclusion through reasoning, whereas ascertain emphasizes finding out something with certainty through investigation." },
+        { "distractor": "establish", "closeness": 3, "reasoning": "Establish means to make something accepted or settled, but ascertain focuses on the act of finding out rather than officially setting a conclusion." },
+        { "distractor": "confirm", "closeness": 3, "reasoning": "Confirm suggests verifying something already believed, while ascertain means finding it out in the first place." },
+        { "distractor": "identify", "closeness": 3, "reasoning": "Identify focuses on naming or recognizing something, while ascertain focuses on the process of learning or verifying with certainty." },
+        { "distractor": "investigate", "closeness": 2, "reasoning": "Investigate describes the process of looking into something, while ascertain refers to the act of finding out the answer, not the process." },
+        { "distractor": "speculate", "closeness": 2, "reasoning": "Speculate means forming theories without certainty, the opposite of ascertain's emphasis on learning something definitively." },
+        { "distractor": "infer", "closeness": 2, "reasoning": "Infer means drawing conclusions from evidence rather than directly discovering a fact with certainty." },
+        { "distractor": "assume", "closeness": 2, "reasoning": "Assume means accepting without proof, whereas ascertain requires active discovery and certainty." },
+        { "distractor": "obscure", "closeness": 1, "reasoning": "Obscure means to make unclear or hidden, the opposite of the goal to find out and make known." },
+        { "distractor": "conceal", "closeness": 1, "reasoning": "Conceal means hiding information, directly opposite to the investigators' purpose of finding it out." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Ignore means to pay no attention to, whereas investigators were actively working to find the cause." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to ascertain before the meeting adjourned.",
+      "sentence": "Before signing the lease, she took care to ascertain whether the building had a history of flooding.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "discover", "closeness": 3, "reasoning": "Discover suggests finding something unexpected, but ascertain implies deliberate inquiry to learn something with certainty before acting on it." },
+        { "distractor": "verify", "closeness": 3, "reasoning": "Verify implies checking something already claimed or believed, while ascertain means finding out the answer where one is uncertain." },
+        { "distractor": "inquire", "closeness": 3, "reasoning": "Inquire describes the act of asking, which is part of ascertaining but does not include arriving at certain knowledge, only initiating the search." },
+        { "distractor": "check", "closeness": 3, "reasoning": "Check is informal and means quickly reviewing, lacking ascertain's emphasis on arriving at definite knowledge through deliberate investigation." },
+        { "distractor": "wonder", "closeness": 2, "reasoning": "Wonder describes a state of curiosity but implies no action toward finding out, unlike ascertain." },
+        { "distractor": "consider", "closeness": 2, "reasoning": "Consider means thinking about a question but does not involve the active discovery of certain information that ascertain requires." },
+        { "distractor": "hope", "closeness": 2, "reasoning": "Hope describes a desire for an outcome but not the active process of finding out the truth." },
+        { "distractor": "guess", "closeness": 2, "reasoning": "Guess implies estimating without certainty, the opposite of ascertain's meaning of finding out definitively." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Ignore is the opposite of taking care to find something out." },
+        { "distractor": "overlook", "closeness": 1, "reasoning": "Overlook means failing to notice or consider, directly opposed to the deliberate inquiry ascertain implies." },
+        { "distractor": "deny", "closeness": 1, "reasoning": "Deny means refusing to acknowledge something, which is the opposite of seeking to find out the truth." }
       ]
     },
     {
-      "sentence": "The curator chose to ascertain the fragile document only after consulting the conservator.",
+      "sentence": "The physician needed to ascertain the patient's full medication history before prescribing anything new.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "obtain", "closeness": 3, "reasoning": "Obtain means to acquire something, usually a physical item or document, whereas ascertain means to find out with certainty, which may or may not involve obtaining a document." },
+        { "distractor": "review", "closeness": 3, "reasoning": "Review implies examining what is already present, while ascertain implies gathering information that may not yet be known." },
+        { "distractor": "document", "closeness": 3, "reasoning": "Document means to record formally, not to find out; the physician must first ascertain and then might document." },
+        { "distractor": "recall", "closeness": 3, "reasoning": "Recall means to bring to mind from memory, which the patient does; ascertain is what the physician does with the information gathered." },
+        { "distractor": "compile", "closeness": 2, "reasoning": "Compile means assembling information from multiple sources, which is more about organization than the discovery of certain facts that ascertain implies." },
+        { "distractor": "memorize", "closeness": 2, "reasoning": "Memorize means committing facts to memory, a different cognitive act from finding out unknown information." },
+        { "distractor": "estimate", "closeness": 2, "reasoning": "Estimate means approximating without full information, which is contrary to ascertain's emphasis on learning with certainty." },
+        { "distractor": "disclose", "closeness": 2, "reasoning": "Disclose means to reveal information, which the patient might do; the physician's goal is to ascertain, not to disclose." },
+        { "distractor": "withhold", "closeness": 1, "reasoning": "Withhold means keeping information back, opposite to the physician's goal of finding out the full history." },
+        { "distractor": "fabricate", "closeness": 1, "reasoning": "Fabricate means inventing false information, completely contrary to ascertain's emphasis on finding true information." },
+        { "distractor": "dismiss", "closeness": 1, "reasoning": "Dismiss means rejecting or disregarding information, the opposite of the physician's careful effort to gather it." }
       ]
     }
   ]

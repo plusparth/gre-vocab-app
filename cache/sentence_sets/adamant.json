@@ -4,181 +4,49 @@
     {
       "sentence": "She was adamant that the experiment be repeated before any results were published.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "insistent", "closeness": 3, "reasoning": "Insistent captures the idea of pressing a point but lacks the connotation of being totally unmovable; adamant implies no amount of argument will change the position." },
+        { "distractor": "resolute", "closeness": 3, "reasoning": "Resolute suggests determined follow-through on a decision, but not necessarily the stubborn refusal to be persuaded that adamant conveys." },
+        { "distractor": "steadfast", "closeness": 3, "reasoning": "Steadfast emphasizes loyal constancy over time rather than the unyielding refusal to accept a counterargument in the moment." },
+        { "distractor": "uncompromising", "closeness": 3, "reasoning": "Uncompromising is close but tends to describe a general character trait or policy stance rather than the immediate, emphatic insistence adamant captures." },
+        { "distractor": "convinced", "closeness": 2, "reasoning": "Convinced describes an internal belief state and does not imply that the person is actively refusing to budge or be argued out of it." },
+        { "distractor": "certain", "closeness": 2, "reasoning": "Certain expresses confidence in a belief without implying the resistance to external pressure that adamant requires." },
+        { "distractor": "determined", "closeness": 2, "reasoning": "Determined often points toward achieving a future goal rather than refusing to change a current stance, which is adamant's core meaning here." },
+        { "distractor": "persistent", "closeness": 2, "reasoning": "Persistent describes repeated action over time and does not capture the immovable quality of adamant in a single moment of insistence." },
+        { "distractor": "reluctant", "closeness": 1, "reasoning": "Reluctant implies unwillingness to act, which is the opposite of the emphatic insistence expressed by adamant." },
+        { "distractor": "ambivalent", "closeness": 1, "reasoning": "Ambivalent means holding contradictory feelings, which directly contradicts the one-sided certainty that adamant conveys." },
+        { "distractor": "indifferent", "closeness": 1, "reasoning": "Indifferent signals a lack of concern, the opposite of the strong personal investment embedded in adamant." }
       ]
     },
     {
-      "sentence": "Her adamant response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "Despite hours of negotiation, the union remained adamant: no wage cuts, no exceptions.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "inflexible", "closeness": 3, "reasoning": "Inflexible describes rigidity but is more neutral and structural; adamant adds the sense of actively and emphatically holding a position against opposition." },
+        { "distractor": "unyielding", "closeness": 3, "reasoning": "Unyielding is very close but slightly more physical and less personal; adamant in negotiation contexts implies deliberate refusal to be moved by any argument." },
+        { "distractor": "unrelenting", "closeness": 3, "reasoning": "Unrelenting focuses on the continuity of pressure applied outward rather than the internal refusal to shift one's own stance." },
+        { "distractor": "firm", "closeness": 3, "reasoning": "Firm implies a stable position but not to the degree of absolute refusal that adamant signals; one can be firm yet still amenable to a reasonable offer." },
+        { "distractor": "defiant", "closeness": 2, "reasoning": "Defiant emphasizes boldly resisting authority or expectations, which goes beyond adamant's sense of simply refusing to change one's mind." },
+        { "distractor": "stubborn", "closeness": 2, "reasoning": "Stubborn is informal and implies irrationality or pigheadedness, while adamant can describe a principled and fully reasoned refusal to yield." },
+        { "distractor": "rigid", "closeness": 2, "reasoning": "Rigid typically describes an inability to adapt in general rather than a deliberate, willed insistence on a specific point." },
+        { "distractor": "committed", "closeness": 2, "reasoning": "Committed suggests dedication to a cause but does not carry the confrontational sense of refusing to be moved by another party's arguments." },
+        { "distractor": "passive", "closeness": 1, "reasoning": "Passive describes lack of action or resistance, the opposite of the active, emphatic refusal embedded in adamant." },
+        { "distractor": "yielding", "closeness": 1, "reasoning": "Yielding means giving way, which is the antonym of adamant." },
+        { "distractor": "flexible", "closeness": 1, "reasoning": "Flexible signals openness to change, directly contradicting the immovable quality of adamant." }
       ]
     },
     {
-      "sentence": "The curator's adamant arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "The general was adamant about maintaining the supply lines, overruling every officer who suggested a shortcut.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "emphatic", "closeness": 3, "reasoning": "Emphatic describes forceful expression of a point but does not necessarily imply that no argument could change the speaker's mind, which adamant does." },
+        { "distractor": "unwavering", "closeness": 3, "reasoning": "Unwavering is very close and often interchangeable, but adamant stresses the refusal to be persuaded whereas unwavering emphasizes constancy of purpose." },
+        { "distractor": "insistent", "closeness": 3, "reasoning": "Insistent can suggest the person might eventually be argued out of a position; adamant implies the decision is already final and not subject to debate." },
+        { "distractor": "tenacious", "closeness": 3, "reasoning": "Tenacious implies persistent effort toward a goal rather than a categorical refusal to accept any alternative viewpoint." },
+        { "distractor": "authoritative", "closeness": 2, "reasoning": "Authoritative describes the manner of speech or the basis of power, not the quality of refusing to be moved by opposing arguments." },
+        { "distractor": "strict", "closeness": 2, "reasoning": "Strict describes rule-following behavior in general and does not capture the personal, volitional quality of adamant insistence." },
+        { "distractor": "decisive", "closeness": 2, "reasoning": "Decisive describes the ability to make clear choices quickly; adamant adds the dimension of absolutely refusing to reconsider once the choice is made." },
+        { "distractor": "protective", "closeness": 2, "reasoning": "Protective describes a motivation rather than the quality of refusing to be argued out of a position." },
+        { "distractor": "hesitant", "closeness": 1, "reasoning": "Hesitant implies uncertainty and wavering, the opposite of the certainty and immovability conveyed by adamant." },
+        { "distractor": "compliant", "closeness": 1, "reasoning": "Compliant means willing to follow others' wishes, which is essentially the opposite of being adamant." },
+        { "distractor": "indecisive", "closeness": 1, "reasoning": "Indecisive describes difficulty making up one's mind, a direct antonym of the firm resolution implied by adamant." }
       ]
     }
   ]

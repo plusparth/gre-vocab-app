@@ -4,181 +4,49 @@
     {
       "sentence": "The certificate was bogus, printed at home with a stolen institutional seal.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "counterfeit", "closeness": 3, "reasoning": "Close — 'counterfeit' specifically refers to a fraudulent imitation made to look like the genuine article, which fits the forged seal; 'bogus' is slightly broader, also covering things that are simply fake or invalid, but the two are nearly interchangeable here." },
+        { "distractor": "fraudulent", "closeness": 3, "reasoning": "Close — 'fraudulent' implies deliberate deception for gain, which fits the scenario perfectly; the distinction is that 'bogus' is a colloquial term for outright fakeness, while 'fraudulent' is more specifically legal in register." },
+        { "distractor": "forged", "closeness": 3, "reasoning": "Close — 'forged' refers specifically to a document falsified by copying or imitating; the stolen seal and home printing align precisely with forgery, making this a strong contextual trap." },
+        { "distractor": "spurious", "closeness": 3, "reasoning": "Close — 'spurious' means not genuine or authentic, overlapping heavily with 'bogus'; the difference is that 'spurious' often applies to claims or reasoning as well, while 'bogus' more plainly signals outright fakeness." },
+        { "distractor": "stolen", "closeness": 2, "reasoning": "The seal was stolen, but the certificate itself was fabricated rather than taken; 'stolen' misidentifies what was fake versus what was appropriated." },
+        { "distractor": "pirated", "closeness": 2, "reasoning": "'Pirated' normally refers to unauthorized copying of copyrighted material; the certificate was not a copy of a legitimate one but a fabrication, so 'pirated' fits imprecisely." },
+        { "distractor": "invalid", "closeness": 2, "reasoning": "'Invalid' means legally or officially not acceptable, which is true of the certificate, but the sentence emphasizes active fakery rather than mere technical invalidity." },
+        { "distractor": "altered", "closeness": 2, "reasoning": "'Altered' implies a genuine original was tampered with; the sentence describes a certificate printed from scratch rather than modified." },
+        { "distractor": "misplaced", "closeness": 1, "reasoning": "'Misplaced' means put in the wrong location; wholly unrelated to the deliberate fabrication described in the sentence." },
+        { "distractor": "outdated", "closeness": 1, "reasoning": "'Outdated' means no longer current; the problem with the certificate is that it never was genuine, not that it has expired." },
+        { "distractor": "redundant", "closeness": 1, "reasoning": "'Redundant' means unnecessarily repetitive or superfluous; completely wrong semantic field for a deliberately faked document." }
       ]
     },
     {
-      "sentence": "Her bogus response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The scientist dismissed the online study as bogus, citing its unverified data, anonymous authorship, and lack of peer review.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "flawed", "closeness": 3, "reasoning": "Close — 'flawed' acknowledges imperfections in methodology, but the scientist's list of problems (unverified data, anonymous authorship, no peer review) points to outright illegitimacy rather than mere errors, which 'bogus' captures more forcefully." },
+        { "distractor": "unreliable", "closeness": 3, "reasoning": "Close — 'unreliable' implies results cannot be trusted, which is true, but 'bogus' goes further to suggest the study may be a sham, not simply a poorly conducted legitimate inquiry." },
+        { "distractor": "dubious", "closeness": 3, "reasoning": "Close — 'dubious' means questionable or suspect, which fits the scientist's skepticism; 'bogus' is a stronger claim of outright fakeness, supported by the evidence of anonymity and lack of peer review." },
+        { "distractor": "unsubstantiated", "closeness": 3, "reasoning": "Close — 'unsubstantiated' means lacking proof, which the unverified data confirms, but 'bogus' asserts the study is a fraud rather than simply underdone." },
+        { "distractor": "preliminary", "closeness": 2, "reasoning": "A preliminary study might lack peer review but would still be a sincere effort; the anonymous authorship and unverified data suggest something more deceptive than a work in progress." },
+        { "distractor": "biased", "closeness": 2, "reasoning": "'Biased' suggests skewed perspective in a legitimate study; the combination of anonymity, unverified data, and no peer review points to fabrication rather than mere bias." },
+        { "distractor": "speculative", "closeness": 2, "reasoning": "'Speculative' implies hypothesis without sufficient evidence, a normal part of science; 'bogus' implies the study was never a genuine scientific effort at all." },
+        { "distractor": "obscure", "closeness": 2, "reasoning": "'Obscure' means little-known; that would not explain the scientist's strong dismissal — the issue is authenticity, not fame." },
+        { "distractor": "innovative", "closeness": 1, "reasoning": "'Innovative' is a positive term implying novelty and creativity; entirely at odds with the scientist's criticism of fakery." },
+        { "distractor": "conclusive", "closeness": 1, "reasoning": "'Conclusive' means definitive; the sentence is about rejecting the study's credibility, the opposite of endorsing it as conclusive." },
+        { "distractor": "canonical", "closeness": 1, "reasoning": "'Canonical' means authoritative and widely accepted; the study lacks even basic credentialing, making this the opposite of what the sentence describes." }
       ]
     },
     {
-      "sentence": "The curator's bogus arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "Voters grew suspicious when the campaign began circulating bogus polling numbers that no credible organization had ever published.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "fabricated", "closeness": 3, "reasoning": "Close — 'fabricated' means invented or made up, which precisely fits numbers no credible organization published; the distinction from 'bogus' is minimal and contextually undetectable." },
+        { "distractor": "misleading", "closeness": 3, "reasoning": "Close — 'misleading' implies distorted but not necessarily invented data; the phrase 'no credible organization had ever published' implies these numbers were made up entirely, going beyond mere distortion." },
+        { "distractor": "inflated", "closeness": 3, "reasoning": "Close — poll numbers can be inflated by selective sampling, and this would give voters reason to be suspicious; but 'bogus' claims the numbers were outright fake, not just exaggerated." },
+        { "distractor": "disputed", "closeness": 3, "reasoning": "Close — 'disputed' implies contested by other parties, which aligns with voter suspicion; but 'no credible organization published them' implies they were never real, not merely contested." },
+        { "distractor": "selective", "closeness": 2, "reasoning": "'Selective' implies cherry-picking real data; the sentence implies the numbers were invented wholesale rather than selectively drawn from real polls." },
+        { "distractor": "partisan", "closeness": 2, "reasoning": "'Partisan' means biased toward one party, which is plausible for campaign polls; but voters grew suspicious specifically because no credible organization recognized them, suggesting outright fakery." },
+        { "distractor": "outdated", "closeness": 2, "reasoning": "'Outdated' means old polling numbers that no longer reflect current opinion; the problem here is that the numbers were never legitimate, not that they were stale." },
+        { "distractor": "internal", "closeness": 2, "reasoning": "'Internal' polling is not necessarily credible to outside observers, but it exists; the sentence says no credible organization published them, implying a lack of any real source." },
+        { "distractor": "favorable", "closeness": 1, "reasoning": "'Favorable' simply means positive for the campaign; that alone would not make voters suspicious or explain the lack of any credible publisher." },
+        { "distractor": "comprehensive", "closeness": 1, "reasoning": "'Comprehensive' means thorough and complete; entirely positive, the opposite of what suspicious voters would be reacting to." },
+        { "distractor": "historical", "closeness": 1, "reasoning": "'Historical' means pertaining to past events; irrelevant to polling numbers being fake, and would not prompt suspicion on its own." }
       ]
     }
   ]

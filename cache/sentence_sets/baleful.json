@@ -4,181 +4,49 @@
     {
       "sentence": "The dictator cast a baleful influence over every institution in the country, corrupting them one by one.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "malevolent", "closeness": 3, "reasoning": "Close — 'malevolent' suggests active ill will, which fits the corrupting dictator, but the sentence emphasizes the spread of corruption through influence rather than direct malice; 'baleful' stresses the pernicious effect rather than the intent." },
+        { "distractor": "pernicious", "closeness": 3, "reasoning": "Very close — 'pernicious' captures gradual institutional corruption perfectly, but it is closer to a definition of 'baleful' than a trap; 'baleful' carries a stronger sense of foreboding and sinister power than 'pernicious' alone." },
+        { "distractor": "sinister", "closeness": 3, "reasoning": "Close — the image of a dictator corrupting institutions one by one is sinister, but 'sinister' focuses on a threatening, ominous quality rather than on the actual harmful outcome that 'baleful' implies." },
+        { "distractor": "oppressive", "closeness": 3, "reasoning": "Close — a dictator's influence over every institution could be called oppressive, but 'oppressive' suggests crushing weight or authoritarian control rather than the specific sense of pernicious, corrupting harm in 'baleful.'" },
+        { "distractor": "corrupting", "closeness": 2, "reasoning": "The sentence explicitly states the dictator's influence was 'corrupting,' making this a restatement of a word already in the sentence rather than the target word's meaning." },
+        { "distractor": "pervasive", "closeness": 2, "reasoning": "'Pervasive' fits 'every institution,' but it describes spread, not harm; 'baleful' requires the quality of causing ruin." },
+        { "distractor": "authoritarian", "closeness": 2, "reasoning": "The dictator context makes 'authoritarian' plausible, but it describes a style of rule, not the harmful quality of an influence." },
+        { "distractor": "insidious", "closeness": 2, "reasoning": "'Insidious' implies harm creeping in unnoticed, which partly fits the institution-by-institution corruption, but 'baleful' implies the harm is more overtly threatening and deadly, not hidden." },
+        { "distractor": "benevolent", "closeness": 1, "reasoning": "Opposite — 'benevolent' means well-meaning and kind; the sentence describes an influence that corrupts, not one that benefits." },
+        { "distractor": "negligible", "closeness": 1, "reasoning": "Contradicted by the sentence — the influence is described as reaching every institution, making it far from negligible." },
+        { "distractor": "celebratory", "closeness": 1, "reasoning": "Completely wrong — the sentence depicts systemic corruption, not any kind of festivity or praise." }
       ]
     },
     {
-      "sentence": "Her baleful response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The physician warned that the chemical compound had a baleful effect on the liver, often causing irreversible damage within weeks.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "toxic", "closeness": 3, "reasoning": "Close — the sentence describes a chemical causing irreversible liver damage, which is precisely what 'toxic' means, but 'baleful' adds a sense of ominous, foreboding harm rather than pure biochemical poisoning." },
+        { "distractor": "deleterious", "closeness": 3, "reasoning": "Very close — 'deleterious' means harmful, especially to health, and the liver damage context matches perfectly; the distinction is that 'baleful' implies a darker, more sinister quality of harm than the neutral term 'deleterious.'" },
+        { "distractor": "noxious", "closeness": 3, "reasoning": "Close — 'noxious' applies to harmful substances, fitting the chemical compound context, but it typically describes direct sensory or physical harm rather than the pernicious long-term influence 'baleful' stresses." },
+        { "distractor": "lethal", "closeness": 3, "reasoning": "Close — 'irreversible damage within weeks' suggests the harm could be fatal, making 'lethal' plausible, but 'lethal' specifically means causing death, whereas 'baleful' encompasses a broader range of serious harm." },
+        { "distractor": "adverse", "closeness": 2, "reasoning": "'Adverse' is too mild a word for irreversible damage within weeks; it suggests a moderate side effect rather than the severe, threatening harm that 'baleful' implies." },
+        { "distractor": "severe", "closeness": 2, "reasoning": "'Severe' is a general intensifier that could apply to the damage, but it says nothing about the quality of the harm being pernicious or deadly." },
+        { "distractor": "corrosive", "closeness": 2, "reasoning": "Plausible in a medical context as a metaphor for damage, but 'corrosive' typically describes physical or chemical eating away rather than the broad sinister harmfulness of 'baleful.'" },
+        { "distractor": "negligent", "closeness": 2, "reasoning": "'Negligent' describes a failure of care rather than a quality of the compound itself; the sentence focuses on the substance's inherent effect, not someone's carelessness." },
+        { "distractor": "beneficial", "closeness": 1, "reasoning": "Opposite — the sentence describes irreversible damage, not any positive therapeutic effect." },
+        { "distractor": "inert", "closeness": 1, "reasoning": "Contradicted by the sentence — the compound actively causes damage rather than having no effect." },
+        { "distractor": "restorative", "closeness": 1, "reasoning": "Opposite — 'restorative' implies healing; the sentence describes the opposite of restoration." }
       ]
     },
     {
-      "sentence": "The curator's baleful arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "She cast a baleful glare at the colleague who had taken credit for her project during the meeting.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "withering", "closeness": 3, "reasoning": "Close — a withering look at someone who wronged you fits the emotional context, but 'withering' implies a look meant to shrivel or shame, while 'baleful' conveys dark, threatening menace as much as anger." },
+        { "distractor": "furious", "closeness": 3, "reasoning": "Close — stealing credit would provoke fury, but 'furious' describes an emotional state and 'baleful' describes the sinister, threatening quality of the gaze itself." },
+        { "distractor": "scornful", "closeness": 3, "reasoning": "Close — contempt is natural when a colleague takes credit unfairly, but 'scornful' implies looking down on someone with disdain rather than the ominous, dangerous intensity that 'baleful' adds." },
+        { "distractor": "menacing", "closeness": 3, "reasoning": "Close — a baleful glare is menacing, but 'menacing' emphasizes active threat or danger, while 'baleful' can convey deeply resentful hostility without an explicit threat." },
+        { "distractor": "resentful", "closeness": 2, "reasoning": "The situation clearly provokes resentment, but 'resentful' describes an emotional attitude rather than the threatening, harmful character of the look itself." },
+        { "distractor": "incredulous", "closeness": 2, "reasoning": "One might look incredulously at such brazen theft of credit, but incredulity implies disbelief rather than the hostile menace of a baleful glare." },
+        { "distractor": "accusatory", "closeness": 2, "reasoning": "Pointing a look at someone who stole credit could be accusatory, but 'accusatory' focuses on blame assignment rather than the ominous dark quality of 'baleful.'" },
+        { "distractor": "sideways", "closeness": 2, "reasoning": "'Sideways' could describe a type of glare but is directional rather than qualitative; it says nothing about the emotional or threatening content of the look." },
+        { "distractor": "approving", "closeness": 1, "reasoning": "Opposite — the sentence describes hostility toward someone who wronged her, not approval." },
+        { "distractor": "blank", "closeness": 1, "reasoning": "Contradicted by the sentence — a baleful glare is emotionally charged, not expressionless." },
+        { "distractor": "cheerful", "closeness": 1, "reasoning": "Opposite — having credit stolen prompts hostility, not cheer." }
       ]
     }
   ]

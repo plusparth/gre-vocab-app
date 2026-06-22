@@ -4,181 +4,49 @@
     {
       "sentence": "Apropos of nothing, he suddenly announced he would be leaving the company at the end of the month.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "pertinent", "closeness": 3, "reasoning": "The phrase 'of nothing' signals the remark had no connection to any prior topic, but 'pertinent' is an adjective that cannot grammatically complete the phrase 'pertinent of nothing' the way 'apropos of nothing' does as a set phrase." },
+        { "distractor": "regardless", "closeness": 3, "reasoning": "The sentence shows a spontaneous announcement disconnected from context, and 'regardless of nothing' sounds similar in structure, but 'regardless' signals indifference to obstacles rather than lack of contextual relevance." },
+        { "distractor": "heedless", "closeness": 3, "reasoning": "The abrupt, unexpected nature of the announcement could suggest inattentiveness, making 'heedless' tempting, but 'heedless of nothing' is not an idiomatic phrase and the sentence shows no sign of careless disregard for others." },
+        { "distractor": "irrespective", "closeness": 3, "reasoning": "'Irrespective of nothing' mimics the structure superficially, but 'irrespective' means without regard to conditions, not without connection to what was being discussed." },
+        { "distractor": "suddenly", "closeness": 2, "reasoning": "The word 'suddenly' already appears in the sentence as a separate adverb, so substituting it for 'apropos' would be redundant and alter the grammatical role being filled at the start of the sentence." },
+        { "distractor": "incidentally", "closeness": 2, "reasoning": "'Incidentally of nothing' is not grammatical; 'incidentally' introduces a tangential remark but not one that is pointedly disconnected from all prior context." },
+        { "distractor": "coincidentally", "closeness": 2, "reasoning": "'Coincidentally of nothing' is not idiomatic and 'coincidentally' implies a chance connection to something, whereas the sentence explicitly marks the announcement as having no connection at all." },
+        { "distractor": "inexplicably", "closeness": 2, "reasoning": "The announcement does seem unexplained, but 'inexplicably of nothing' is not grammatical, and 'inexplicably' addresses the absence of a reason rather than the absence of conversational context." },
+        { "distractor": "consequently", "closeness": 1, "reasoning": "'Consequently' signals a result following from prior events, the opposite of what the sentence conveys — an announcement arising from nothing prior." },
+        { "distractor": "deliberately", "closeness": 1, "reasoning": "'Deliberately of nothing' is not grammatical, and the word signals intentionality rather than irrelevance to context." },
+        { "distractor": "tersely", "closeness": 1, "reasoning": "'Tersely' describes manner of speaking, not the relationship of an utterance to its conversational context, and cannot grammatically precede 'of nothing'." }
       ]
     },
     {
-      "sentence": "Her apropos response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The professor's digression into nineteenth-century postal routes seemed anything but apropos during a lecture on modern logistics software.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "timely", "closeness": 3, "reasoning": "The sentence contrasts historical trivia with the stated lecture topic, but 'timely' targets the wrong dimension — it questions whether something arrived at the right moment rather than whether it relates to the subject at hand." },
+        { "distractor": "germane", "closeness": 3, "reasoning": "'Germane' is nearly synonymous in the sense of relevance to a topic, and substituting it keeps the sentence grammatical and meaningful, yet the sentence's contrast between Victorian postal history and modern software would rule out 'germane' on the same grounds as 'apropos'." },
+        { "distractor": "relevant", "closeness": 3, "reasoning": "The sentence's contrast between historical postal routes and modern software directly concerns relevance, making 'relevant' a strong trap, but the broader contextual fitness — not just topical match — that 'apropos' conveys is missing from 'relevant'." },
+        { "distractor": "opportune", "closeness": 3, "reasoning": "'Opportune' captures the timeliness dimension of appropriateness, but the sentence critiques the digression for its irrelevance to the subject, not for occurring at an inconvenient moment." },
+        { "distractor": "coherent", "closeness": 2, "reasoning": "A digression into postal routes might seem incoherent, but 'coherent' addresses internal logical consistency, not whether a topic fits the context of a particular lecture." },
+        { "distractor": "illuminating", "closeness": 2, "reasoning": "The sentence suggests the digression lacked usefulness in context, and 'illuminating' addresses whether something sheds light on the topic, but the complaint is about connection to subject matter, not explanatory value." },
+        { "distractor": "systematic", "closeness": 2, "reasoning": "A rambling digression might be called unsystematic, but 'systematic' addresses method and order, not the fit between a topic and its occasion." },
+        { "distractor": "engaging", "closeness": 2, "reasoning": "The sentence focuses on relevance rather than audience interest, so 'engaging' addresses a different quality entirely." },
+        { "distractor": "profound", "closeness": 1, "reasoning": "'Profound' evaluates depth of insight and would make 'anything but profound' a different kind of critique — about intellectual substance, not contextual fit." },
+        { "distractor": "verbose", "closeness": 1, "reasoning": "'Verbose' describes excessive length of speech, not the relationship between a topic and its context." },
+        { "distractor": "contentious", "closeness": 1, "reasoning": "'Contentious' implies dispute or controversy, which has no bearing on whether a digression fits the subject of the lecture." }
       ]
     },
     {
-      "sentence": "The curator's apropos arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "Her choice to open the eulogy with a joke struck the mourners as oddly apropos — he had, after all, spent his life insisting that laughter was the only honest response to grief.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "fitting", "closeness": 3, "reasoning": "'Fitting' is a close synonym in the sense of appropriateness, but the second clause specifically grounds the choice in the deceased's lifelong philosophy, a nuance of both relevance and occasion that 'apropos' captures more precisely than the generic 'fitting'." },
+        { "distractor": "apt", "closeness": 3, "reasoning": "'Apt' shares the sense of being well-suited to circumstances and is grammatically substitutable, but the sentence's contrast of an unexpected choice with a context that ultimately justifies it calls for a word that implies both relevance and timeliness, which 'apropos' carries more fully." },
+        { "distractor": "poignant", "closeness": 3, "reasoning": "A joke at a eulogy about grief could easily feel emotionally moving, and 'poignant' is plausible, but the mourners' reaction is described as noticing contextual appropriateness — not emotional resonance — so 'poignant' misreads what the sentence says they found 'oddly' true." },
+        { "distractor": "audacious", "closeness": 3, "reasoning": "Opening a eulogy with a joke is bold, making 'audacious' tempting, but the second clause explains that the gesture was justified by the man's philosophy, so the mourners recognized suitability rather than daring." },
+        { "distractor": "incongruous", "closeness": 2, "reasoning": "'Incongruous' means out of place, which is roughly the opposite of what the mourners recognized; 'oddly apropos' means surprisingly suitable, not surprisingly out of place." },
+        { "distractor": "irreverent", "closeness": 2, "reasoning": "A joke at a eulogy could be called irreverent, but the sentence explains that the gesture was ultimately validated by the man's own values, making the mourners' reaction one of recognition rather than disapproval." },
+        { "distractor": "sincere", "closeness": 2, "reasoning": "'Sincere' addresses authenticity of feeling, not whether the choice was suited to the occasion and the man's character as the sentence establishes." },
+        { "distractor": "deliberate", "closeness": 2, "reasoning": "'Deliberate' would describe the choice as intentional, but the sentence is concerned with whether the choice was contextually appropriate — a different quality." },
+        { "distractor": "morbid", "closeness": 1, "reasoning": "'Morbid' implies an unhealthy fixation on death or gloom, the opposite tone of what the sentence describes — a life-affirming choice validated by the man's philosophy of laughter." },
+        { "distractor": "perfunctory", "closeness": 1, "reasoning": "'Perfunctory' means carried out with minimal effort or care, suggesting indifference, whereas the sentence describes a choice that was recognized as deeply suited to the man and the occasion." },
+        { "distractor": "obtuse", "closeness": 1, "reasoning": "'Obtuse' means slow to understand or needlessly complicated, and has no bearing on whether a rhetorical choice fits its occasion." }
       ]
     }
   ]

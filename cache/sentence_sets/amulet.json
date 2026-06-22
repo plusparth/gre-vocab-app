@@ -4,181 +4,49 @@
     {
       "sentence": "The traveler wore the carved stone amulet around her neck, trusting it would protect her from harm.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "talisman", "closeness": 3, "reasoning": "The sentence describes a carved stone object worn around the neck for protection, which fits both words; 'talisman' is nearly synonymous and worn for luck or protection, making it a strong trap in this physical-charm context." },
+        { "distractor": "pendant", "closeness": 3, "reasoning": "The sentence says the object is carved stone and worn around the neck, so 'pendant' is grammatically and visually plausible, but a pendant is purely decorative and carries no implication of protective power, which the sentence's 'trusting it would protect her' demands." },
+        { "distractor": "charm", "closeness": 3, "reasoning": "The sentence emphasizes a protective object worn on the body, and 'charm' overlaps heavily in everyday use, but 'charm' is broader and can refer to appealing qualities or lucky objects without the warding-off-evil specificity the sentence implies." },
+        { "distractor": "relic", "closeness": 3, "reasoning": "A carved stone object trusted to offer protection could be mistaken for a sacred relic, and the sentence's reverent framing supports this trap, but a relic is valued for historical or religious association rather than active protective power." },
+        { "distractor": "trinket", "closeness": 2, "reasoning": "The sentence describes a carved stone worn with sincere trust in its protective power, which clashes with 'trinket,' a word that implies something cheap and inconsequential rather than protective." },
+        { "distractor": "emblem", "closeness": 2, "reasoning": "The sentence's carved stone object is personal and worn on the body, but 'emblem' denotes a symbol representing a group or idea, not an object carried for individual spiritual protection." },
+        { "distractor": "keepsake", "closeness": 2, "reasoning": "The sentence says the traveler trusted the object to protect her from harm, implying active power, whereas a keepsake is a memento preserved for sentimental memory rather than protection." },
+        { "distractor": "token", "closeness": 2, "reasoning": "The sentence's 'trusting it would protect her from harm' requires an object with believed warding power, while a token is typically a sign or pledge rather than a protective device." },
+        { "distractor": "weapon", "closeness": 1, "reasoning": "The sentence describes something worn around the neck, not wielded; a weapon is an instrument of offense or defense through physical use, which contradicts the passive, symbolic protection described." },
+        { "distractor": "manuscript", "closeness": 1, "reasoning": "A manuscript is a written document, not a wearable carved stone object, making this clearly wrong in a sentence about something worn around the neck for protection." },
+        { "distractor": "lantern", "closeness": 1, "reasoning": "A lantern is a light-bearing device, not something worn around the neck, so it is entirely implausible in the physical description the sentence provides." }
       ]
     },
     {
-      "sentence": "The dispute turned on an unexpected amulet, which altered the course of the committee's deliberations.",
+      "sentence": "The archaeologist discovered a bronze amulet buried with the chieftain, engraved with signs that scholars believe warded off enemies in battle.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "talisman", "closeness": 3, "reasoning": "The sentence describes a buried object engraved with protective signs, fitting 'talisman' closely; the trap is strong because talismans are also engraved objects meant to guard the bearer, making the distinction hard to observe from context alone." },
+        { "distractor": "sigil", "closeness": 3, "reasoning": "The sentence mentions signs engraved on a small bronze object, and 'sigil' refers to an inscribed symbol with magical intent, but 'sigil' is typically the mark itself rather than the physical object bearing it." },
+        { "distractor": "effigy", "closeness": 3, "reasoning": "A small carved or cast bronze figure buried with a warrior leader could plausibly be called an effigy, but an effigy represents a person or deity rather than serving as a wearable protective charm." },
+        { "distractor": "relic", "closeness": 3, "reasoning": "The sentence places a sacred-seeming object in a chieftain's burial context, which strongly evokes relics, but a relic is an artifact of religious or historical veneration rather than an object engraved specifically to ward off enemies." },
+        { "distractor": "medallion", "closeness": 2, "reasoning": "The sentence describes a small engraved bronze object, and a medallion fits the shape and material, but a medallion is an ornamental or commemorative disc with no implied warding function." },
+        { "distractor": "idol", "closeness": 2, "reasoning": "An idol is a figurine worshipped as a deity, not a personal protective object worn or buried to guard one in battle, so the sentence's warding-off function does not match." },
+        { "distractor": "inscription", "closeness": 2, "reasoning": "The sentence says the bronze object was 'engraved with signs,' and while an inscription is the writing itself, it is not a physical object that can be discovered buried with a chieftain." },
+        { "distractor": "artifact", "closeness": 2, "reasoning": "An artifact is a broad term for any human-made object found archaeologically, so it is too generic and lacks the protective or symbolic function the sentence specifies." },
+        { "distractor": "scepter", "closeness": 1, "reasoning": "A scepter is a ceremonial staff associated with royal authority, not a small engraved object buried for protection in battle; the form factor alone rules this out." },
+        { "distractor": "chronicle", "closeness": 1, "reasoning": "A chronicle is a written historical record, not a physical object that can be engraved with symbols and buried with a chieftain, making this clearly wrong." },
+        { "distractor": "fortress", "closeness": 1, "reasoning": "A fortress is a large defensive structure, not a small bronze object one can bury, making this entirely implausible in the sentence's archaeological context." }
       ]
     },
     {
-      "sentence": "At the museum, the curator used the amulet to draw visitors toward a previously overlooked exhibit.",
+      "sentence": "Her grandmother pressed the small silver amulet into her palm before the journey, whispering that it had kept their family safe for generations.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "heirloom", "closeness": 3, "reasoning": "The sentence emphasizes the object being passed down through generations and pressed into the palm before departure, strongly evoking a family heirloom, but an heirloom is valued for lineage and sentiment rather than believed protective power." },
+        { "distractor": "charm", "closeness": 3, "reasoning": "The sentence describes a small silver object pressed into the hand for protection, and 'charm' is widely used to mean a lucky protective object, making it a strong trap, but 'charm' lacks the specific engraved-inscription connotation of an amulet and is more casually applied." },
+        { "distractor": "keepsake", "closeness": 3, "reasoning": "The grandmother's gesture of pressing a family object into the traveler's palm fits the idea of a keepsake, but the sentence specifies it 'had kept their family safe for generations,' implying active protective belief rather than sentimental memory." },
+        { "distractor": "locket", "closeness": 3, "reasoning": "A small silver object pressed into the palm before a journey is consistent with a locket, but a locket is a hinged case for a photograph or memento, not an object inscribed for protection against harm." },
+        { "distractor": "token", "closeness": 2, "reasoning": "A token can mark affection or symbolic connection, but the sentence's claim that the object kept the family safe attributes active protective power rather than symbolic meaning." },
+        { "distractor": "offering", "closeness": 2, "reasoning": "The pressing of the object into the palm before a journey has a ritual quality, but an offering is something given to a deity or authority, not a protective object retained by the recipient." },
+        { "distractor": "memento", "closeness": 2, "reasoning": "The sentence's intergenerational context could suggest a memento, but the grandmother explicitly credits the object with keeping the family safe, implying functional protective belief rather than commemorative sentiment." },
+        { "distractor": "brooch", "closeness": 2, "reasoning": "A small silver object could be a brooch, but a brooch is a decorative fastener with no implied protective or magical function, clashing with the sentence's 'kept their family safe.'" },
+        { "distractor": "contract", "closeness": 1, "reasoning": "A contract is a legal document, not a small silver object that can be pressed into a palm and passed down through generations as a protective charm." },
+        { "distractor": "compass", "closeness": 1, "reasoning": "A compass is a navigational instrument; while it could be pressed into someone's palm before a journey, the sentence ties the object to supernatural family protection rather than finding direction." },
+        { "distractor": "portrait", "closeness": 1, "reasoning": "A portrait is a painted or drawn image, not a small silver wearable object pressed into the palm, making this clearly wrong in the sentence's physical context." }
       ]
     }
   ]

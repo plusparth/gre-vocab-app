@@ -4,181 +4,49 @@
     {
       "sentence": "The float was bedizened with sequins and streamers, a riot of color in the gray winter parade.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "decorated", "closeness": 3, "reasoning": "Decorated is neutral about quality, whereas bedizen specifically implies gaudy, tasteless over-adornment that goes well beyond simple decoration." },
+        { "distractor": "adorned", "closeness": 3, "reasoning": "Adorned suggests elegant enhancement, while bedizen implies excessive and tawdry ornamentation that lacks restraint or taste." },
+        { "distractor": "festooned", "closeness": 3, "reasoning": "Festooned describes hanging garlands or decorations and can be neutral or festive, whereas bedizen specifically implies flashy, overdone vulgarity." },
+        { "distractor": "embellished", "closeness": 3, "reasoning": "Embellished suggests adding detail to improve appearance, whereas bedizen implies dressing up in an overly showy, tasteless manner." },
+        { "distractor": "draped", "closeness": 2, "reasoning": "Draped describes fabric hanging over something and carries no negative connotation of garishness, unlike bedizen." },
+        { "distractor": "painted", "closeness": 2, "reasoning": "Painted describes applying color with a brush, a specific technique rather than the general gaudy over-decoration that bedizen implies." },
+        { "distractor": "constructed", "closeness": 2, "reasoning": "Constructed refers to building or assembling, not the decorative excess and gaudy adornment that bedizen describes." },
+        { "distractor": "illuminated", "closeness": 2, "reasoning": "Illuminated suggests lighting up with light or color but does not carry bedizen's connotation of tasteless, excessive ornamentation." },
+        { "distractor": "stripped", "closeness": 1, "reasoning": "Stripped means removing adornment entirely, the direct opposite of the gaudy over-decoration that bedizen describes." },
+        { "distractor": "demolished", "closeness": 1, "reasoning": "Demolished means destroyed, wholly irrelevant to the act of gaudily adorning or decorating something." },
+        { "distractor": "minimized", "closeness": 1, "reasoning": "Minimized implies reducing to essentials, the antithesis of the excessive ornamentation that characterizes bedizen." }
       ]
     },
     {
-      "sentence": "When the dispute intensified, the chair asked the members to bedizen before the meeting adjourned.",
+      "sentence": "She had bedizened herself in mismatched jewelry and a feathered hat, somehow confident the effect was glamorous rather than garish.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "adorned", "closeness": 3, "reasoning": "Adorned suggests tasteful enhancement and lacks the negative implication of excessive, tacky ornamentation that bedizen carries." },
+        { "distractor": "decked", "closeness": 3, "reasoning": "Decked out can imply colorful dressing but remains more neutral than bedizen, which always implies over-the-top and garish adornment." },
+        { "distractor": "draped", "closeness": 3, "reasoning": "Draped implies wrapping fabric elegantly, carrying none of bedizen's connotation of tasteless, clashing excess in self-decoration." },
+        { "distractor": "attired", "closeness": 3, "reasoning": "Attired simply means dressed and is neutral in tone, missing bedizen's specific sense of gaudy, ostentatious over-adornment." },
+        { "distractor": "costumed", "closeness": 2, "reasoning": "Costumed implies theatrical dress-up but does not necessarily carry bedizen's judgment that the decoration is tasteless and excessive." },
+        { "distractor": "groomed", "closeness": 2, "reasoning": "Groomed implies careful, tidy preparation rather than the flashy, disorganized excess that bedizen describes." },
+        { "distractor": "dressed", "closeness": 2, "reasoning": "Dressed is entirely neutral about aesthetic quality, whereas bedizen specifically implies a garish and overdone result." },
+        { "distractor": "simplified", "closeness": 2, "reasoning": "Simplified implies reducing complexity, the opposite of the excessive layering of gaudy adornment that bedizen conveys." },
+        { "distractor": "undressed", "closeness": 1, "reasoning": "Undressed means removed clothing or adornment, diametrically opposed to the act of gaudily dressing up that bedizen describes." },
+        { "distractor": "mourned", "closeness": 1, "reasoning": "Mourned implies grief rather than any form of self-decoration, making it wholly irrelevant to bedizen." },
+        { "distractor": "neglected", "closeness": 1, "reasoning": "Neglected implies ignoring one's appearance rather than the flamboyant, excessive self-adornment that bedizen describes." }
       ]
     },
     {
-      "sentence": "The curator chose to bedizen the fragile document only after consulting the conservator.",
+      "sentence": "The new owners had bedizened the Victorian facade with neon signage and plastic awnings, destroying the building's original character.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "vandalized", "closeness": 3, "reasoning": "Vandalized implies deliberate illegal destruction, whereas bedizen describes excessive tacky adornment that the owners considered an improvement, however misguidedly." },
+        { "distractor": "renovated", "closeness": 3, "reasoning": "Renovated suggests purposeful improvement, the opposite of the tasteless, gaudy alteration that bedizen implies." },
+        { "distractor": "plastered", "closeness": 3, "reasoning": "Plastered could describe covering a surface but typically implies a building material rather than the gaudy over-decoration bedizen conveys." },
+        { "distractor": "cluttered", "closeness": 3, "reasoning": "Cluttered implies disorganized accumulation, but bedizen specifically means gaudy ornamentation, not mere messiness." },
+        { "distractor": "modernized", "closeness": 2, "reasoning": "Modernized implies updating to contemporary standards, a neutral or positive goal unlike the tasteless excess that bedizen implies." },
+        { "distractor": "altered", "closeness": 2, "reasoning": "Altered is a neutral description of change, missing bedizen's specific negative judgment about flashy, tawdry over-decoration." },
+        { "distractor": "restored", "closeness": 2, "reasoning": "Restored implies returning something to its original state, the opposite action of bedizen's gaudy layering of new ornamentation." },
+        { "distractor": "highlighted", "closeness": 2, "reasoning": "Highlighted implies drawing attention to positive features, whereas bedizen implies indiscriminate, tasteless layering that obscures rather than reveals." },
+        { "distractor": "demolished", "closeness": 1, "reasoning": "Demolished means completely destroyed, far more drastic than the gaudy but surface-level over-decoration that bedizen describes." },
+        { "distractor": "purified", "closeness": 1, "reasoning": "Purified implies removing impurities to improve quality, the opposite of adding gaudy excess that bedizen describes." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Ignored implies leaving the building untouched, the antithesis of the active gaudy transformation that bedizen describes." }
       ]
     }
   ]

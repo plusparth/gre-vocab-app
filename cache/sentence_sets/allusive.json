@@ -4,181 +4,49 @@
     {
       "sentence": "His allusive prose rewarded readers familiar with history but frustrated those who were not.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "erudite", "closeness": 3, "reasoning": "Erudite prose is scholarly and learned, but it does not necessarily work through implied references—the sentence describes a style that hints at things rather than states them directly." },
+        { "distractor": "elliptical", "closeness": 3, "reasoning": "Elliptical writing omits expected words or ideas, creating compression, but it does not specifically rely on implied cultural or historical references the way allusive does." },
+        { "distractor": "arcane", "closeness": 3, "reasoning": "Arcane means mysterious or obscure knowledge, which is a plausible trap, but arcane prose is hard because it is esoteric—not because it hints at external texts or events." },
+        { "distractor": "cryptic", "closeness": 3, "reasoning": "Cryptic suggests deliberately puzzling or hidden meaning, but it does not carry the specific sense of pointing indirectly to outside works or historical events." },
+        { "distractor": "alluring", "closeness": 2, "reasoning": "Alluring sounds similar to allusive but means attractive or tempting—it describes an emotional pull rather than a style of indirect reference." },
+        { "distractor": "figurative", "closeness": 2, "reasoning": "Figurative language uses metaphor and imagery but need not reference external history or texts; it is a broader category that lacks allusive's specific mechanism." },
+        { "distractor": "recondite", "closeness": 2, "reasoning": "Recondite describes knowledge that is little known or obscure, which can overlap with allusive prose, but the reason readers struggle is obscurity of topic, not the technique of implied reference." },
+        { "distractor": "verbose", "closeness": 2, "reasoning": "Verbose means excessively wordy, the opposite stylistic vice from allusive prose, which tends toward compression and suggestion rather than excess." },
+        { "distractor": "lucid", "closeness": 1, "reasoning": "Lucid means clear and easy to understand—the antithesis of prose that rewards insiders and frustrates outsiders." },
+        { "distractor": "didactic", "closeness": 1, "reasoning": "Didactic prose explicitly teaches and moralizes; it is the opposite approach from allusive writing, which conceals rather than explains." },
+        { "distractor": "pedestrian", "closeness": 1, "reasoning": "Pedestrian means dull and unimaginative—clearly wrong for a style praised as rewarding, and it has nothing to do with implied references." }
       ]
     },
     {
-      "sentence": "Her allusive response, delivered after hours of deliberation, unsettled the rest of the committee.",
+      "sentence": "The poet's allusive lines wove together fragments of Greek myth and Renaissance painting, creating a palimpsest only a well-read eye could fully decode.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "intertextual", "closeness": 3, "reasoning": "Intertextual specifically names the relationship between texts, but it is a technical academic term rather than the adjective that describes a stylistic quality of the lines themselves." },
+        { "distractor": "symbolic", "closeness": 3, "reasoning": "Symbolic lines use objects or figures to represent ideas, but they need not depend on the reader's recognition of specific external cultural references—a key feature of allusive writing." },
+        { "distractor": "metaphorical", "closeness": 3, "reasoning": "Metaphorical language draws comparisons, but it does not require familiarity with particular myths or artworks the way allusive references do." },
+        { "distractor": "oblique", "closeness": 3, "reasoning": "Oblique means indirect or evasive, which resembles allusive, but oblique lacks the specific literary technique of pointing toward recognizable external sources." },
+        { "distractor": "eclectic", "closeness": 2, "reasoning": "Eclectic describes drawing from diverse sources, which fits the sentence's blend of myth and painting, but it describes range of influence rather than a technique of indirect reference." },
+        { "distractor": "evocative", "closeness": 2, "reasoning": "Evocative conjures a mood or feeling but does not require the reader to recognize specific borrowed material, as allusive lines do." },
+        { "distractor": "ornate", "closeness": 2, "reasoning": "Ornate describes elaborate, decorative style—a surface quality—not the technique of building meaning through implied external references." },
+        { "distractor": "lyrical", "closeness": 2, "reasoning": "Lyrical describes musical, expressive quality but has no implication of borrowed references or dependence on reader recognition." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "Transparent means obvious and easy to see through—the opposite of lines requiring a well-read eye to decode." },
+        { "distractor": "prosaic", "closeness": 1, "reasoning": "Prosaic means dull and commonplace—entirely inappropriate for elaborate poetry drawing on myth and Renaissance painting." },
+        { "distractor": "redundant", "closeness": 1, "reasoning": "Redundant means needlessly repetitive—clearly wrong in both meaning and register for describing a poetic technique of layered reference." }
       ]
     },
     {
-      "sentence": "The curator's allusive arrangement made visitors reconsider an object they had passed without notice.",
+      "sentence": "Her speech was so allusive that journalists struggled to report it accurately, unsure whether her references to 'unfinished business' were historical or personal.",
       "answerChoices": [
-        {
-          "distractor": "qualify",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it suggests a limitation or adjustment rather than the role required by this context."
-        },
-        {
-          "distractor": "temper",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it implies moderation, which changes the force of the situation described."
-        },
-        {
-          "distractor": "circumvent",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: it concerns avoiding an obstacle rather than responding in the way the sentence requires."
-        },
-        {
-          "distractor": "endorse",
-          "closeness": 3,
-          "reasoning": "Close but incorrect: approval alone does not account for the action or quality indicated here."
-        },
-        {
-          "distractor": "postpone",
-          "closeness": 2,
-          "reasoning": "Incorrect: delay could affect the discussion but does not fit the immediate situation."
-        },
-        {
-          "distractor": "observe",
-          "closeness": 2,
-          "reasoning": "Incorrect: merely noticing the matter would not produce the result described."
-        },
-        {
-          "distractor": "contrast",
-          "closeness": 2,
-          "reasoning": "Incorrect: comparison is possible in this setting but misses the sentence's central point."
-        },
-        {
-          "distractor": "concede",
-          "closeness": 2,
-          "reasoning": "Incorrect: yielding a point would be a different response to the circumstances."
-        },
-        {
-          "distractor": "ornament",
-          "closeness": 1,
-          "reasoning": "Incorrect: decoration belongs to a different semantic field."
-        },
-        {
-          "distractor": "slumber",
-          "closeness": 1,
-          "reasoning": "Incorrect: sleeping does not fit the deliberative context."
-        },
-        {
-          "distractor": "celebrate",
-          "closeness": 1,
-          "reasoning": "Incorrect: celebration is plainly at odds with the sentence's situation."
-        }
+        { "distractor": "ambiguous", "closeness": 3, "reasoning": "Ambiguous means capable of two interpretations, which is close to the confusion journalists felt, but it does not capture the technique of hinting at outside references rather than simply being unclear." },
+        { "distractor": "evasive", "closeness": 3, "reasoning": "Evasive implies deliberate avoidance of directness, which fits her unclear references, but evasive suggests intent to dodge rather than a style of speaking through allusion." },
+        { "distractor": "circumspect", "closeness": 3, "reasoning": "Circumspect means cautious and heedful of consequences, which could explain guarded speech, but it does not describe a technique of speaking in implied references." },
+        { "distractor": "euphemistic", "closeness": 3, "reasoning": "Euphemistic substitutes mild language for harsh terms; it could explain unclear phrasing, but it is not the same as building meaning through historical or cultural hints." },
+        { "distractor": "vague", "closeness": 2, "reasoning": "Vague describes general lack of clarity, but allusive speech is unclear for a specific reason—its meaning depends on recognizing references, not simply on imprecise language." },
+        { "distractor": "reticent", "closeness": 2, "reasoning": "Reticent means unwilling to speak freely; it describes a quantity of speech rather than a style of speaking through implied references." },
+        { "distractor": "nuanced", "closeness": 2, "reasoning": "Nuanced means subtle and carefully calibrated; while nuanced speech can be hard to report, it does not specifically rely on indirect references to outside events or texts." },
+        { "distractor": "opaque", "closeness": 2, "reasoning": "Opaque means hard to understand, which fits the journalists' difficulty, but it does not explain that the difficulty arose from a technique of implied reference." },
+        { "distractor": "forthright", "closeness": 1, "reasoning": "Forthright means direct and outspoken—the opposite of the speech that confused journalists." },
+        { "distractor": "verbose", "closeness": 1, "reasoning": "Verbose means excessively wordy; a long speech might be clear or unclear but the problem here is indirect reference, not quantity of words." },
+        { "distractor": "banal", "closeness": 1, "reasoning": "Banal means lacking originality—entirely wrong for a speech that puzzled journalists with its layered references." }
       ]
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "word": "exact",
+  "sentenceSets": [
+    {
+      "sentence": "She exacted a steep price for her cooperation, one her partners later felt they had paid too readily.",
+      "answerChoices": [
+        { "distractor": "extracted", "closeness": 3, "reasoning": "Extracted implies drawing out something by force, which is close but focuses on removal rather than demanding and receiving." },
+        { "distractor": "commanded", "closeness": 3, "reasoning": "Commanded fits the sense of forcibly requiring payment but implies authority rather than leverage over cooperation." },
+        { "distractor": "demanded", "closeness": 3, "reasoning": "Demanded conveys insistence but lacks the nuance of forcibly calling for and obtaining something." },
+        { "distractor": "negotiated", "closeness": 3, "reasoning": "Negotiated implies mutual agreement rather than a unilateral forced extraction of a price." },
+        { "distractor": "offered", "closeness": 2, "reasoning": "Offered reverses the power dynamic—she would be giving rather than taking a price from her partners." },
+        { "distractor": "accepted", "closeness": 2, "reasoning": "Accepted implies she received something willingly without the force of calling for and obtaining it." },
+        { "distractor": "waived", "closeness": 2, "reasoning": "Waived is the opposite—she would be foregoing the price rather than obtaining it." },
+        { "distractor": "concealed", "closeness": 2, "reasoning": "Concealed implies hiding the price rather than obtaining it from her partners." },
+        { "distractor": "inherited", "closeness": 1, "reasoning": "Inherited is unrelated—it implies receiving through succession, not forcing payment through leverage." },
+        { "distractor": "predicted", "closeness": 1, "reasoning": "Predicted makes no contextual sense for setting terms of cooperation and obtaining a price." },
+        { "distractor": "described", "closeness": 1, "reasoning": "Described merely characterizes rather than enacts the act of forcibly obtaining something." }
+      ]
+    },
+    {
+      "sentence": "The arbitrator exacted compliance from both parties, refusing to proceed until every term was explicitly acknowledged.",
+      "answerChoices": [
+        { "distractor": "enforced", "closeness": 3, "reasoning": "Enforced is close but stresses applying rules rather than forcibly calling for and obtaining an outcome." },
+        { "distractor": "compelled", "closeness": 3, "reasoning": "Compelled suggests overcoming resistance but doesn't carry the sense of calling for and obtaining payment or concession." },
+        { "distractor": "secured", "closeness": 3, "reasoning": "Secured implies making compliance certain but not through the particular force of demanding it." },
+        { "distractor": "requested", "closeness": 3, "reasoning": "Requested implies polite asking rather than the forcible urgency of exacting something." },
+        { "distractor": "reported", "closeness": 2, "reasoning": "Reported would mean the arbitrator documented compliance rather than forcing its occurrence." },
+        { "distractor": "rewarded", "closeness": 2, "reasoning": "Rewarded implies a positive incentive rather than a forced demand placed on both parties." },
+        { "distractor": "deferred", "closeness": 2, "reasoning": "Deferred implies the arbitrator postponed the requirement rather than pressing for and obtaining it." },
+        { "distractor": "rejected", "closeness": 2, "reasoning": "Rejected implies refusal rather than demanding and obtaining compliance." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "Celebrated is contextually absurd—an arbitrator marking compliance with celebration rather than extracting it." },
+        { "distractor": "published", "closeness": 1, "reasoning": "Published has no meaningful relationship to forcing parties into acknowledging terms." },
+        { "distractor": "recalled", "closeness": 1, "reasoning": "Recalled implies remembering past compliance rather than actively obtaining present compliance." }
+      ]
+    },
+    {
+      "sentence": "The crisis exacted a terrible toll on the community, leaving lasting effects that planners had not anticipated.",
+      "answerChoices": [
+        { "distractor": "imposed", "closeness": 3, "reasoning": "Imposed is close in meaning—placing a burden by force—but implies an agent's deliberate action rather than a crisis exerting its cost." },
+        { "distractor": "inflicted", "closeness": 3, "reasoning": "Inflicted fits but stresses causing harm directly, whereas exact emphasizes the cost being urgently and forcibly drawn out." },
+        { "distractor": "claimed", "closeness": 3, "reasoning": "Claimed fits in the idiom of a crisis claiming a toll, but lacks the sense of obtaining something forcibly." },
+        { "distractor": "sustained", "closeness": 3, "reasoning": "Sustained would flip the subject—the community sustained the toll rather than the crisis exacting it." },
+        { "distractor": "anticipated", "closeness": 2, "reasoning": "Anticipated would mean planners foresaw the toll, contradicting the sentence's statement that they did not." },
+        { "distractor": "measured", "closeness": 2, "reasoning": "Measured implies assessing the toll rather than the crisis forcibly drawing it out of the community." },
+        { "distractor": "reduced", "closeness": 2, "reasoning": "Reduced implies the crisis lessened the toll rather than extracting it in full severity." },
+        { "distractor": "ignored", "closeness": 2, "reasoning": "Ignored implies the crisis bypassed the community rather than extracting a cost from it." },
+        { "distractor": "replicated", "closeness": 1, "reasoning": "Replicated implies reproducing the toll rather than forcibly drawing it from the community." },
+        { "distractor": "archived", "closeness": 1, "reasoning": "Archived implies documenting the toll rather than it being forcibly extracted by the crisis." },
+        { "distractor": "questioned", "closeness": 1, "reasoning": "Questioned has no meaningful role in a sentence about a crisis imposing lasting costs on a community." }
+      ]
+    }
+  ]
+}

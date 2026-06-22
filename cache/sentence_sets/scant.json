@@ -1,0 +1,53 @@
+{
+  "word": "scant",
+  "sentenceSets": [
+    {
+      "sentence": "The scant attention paid to implementation planning produced exactly the kind of confusion the plan had been designed to avoid.",
+      "answerChoices": [
+        { "distractor": "minimal", "closeness": 3, "reasoning": "The sentence frames the attention as producing serious confusion, signaling that the attention was not just small but dangerously inadequate; 'minimal' describes quantity without the connotation of stingy insufficiency." },
+        { "distractor": "cursory", "closeness": 3, "reasoning": "The sentence centers on attention to planning, making 'cursory' plausible because it describes superficial attention, but 'cursory' emphasizes speed and carelessness rather than sheer insufficiency of amount." },
+        { "distractor": "negligent", "closeness": 3, "reasoning": "The outcome—confusion the plan was meant to avoid—suggests fault in the attention given, making 'negligent' appealing; however, 'negligent' describes a failure of care while the sentence calls for a modifier about quantity." },
+        { "distractor": "perfunctory", "closeness": 3, "reasoning": "Like 'cursory,' 'perfunctory' captures doing something without genuine effort, which fits the planning failure, but it describes manner rather than the stingy smallness of amount that 'scant' denotes." },
+        { "distractor": "insufficient", "closeness": 2, "reasoning": "While the sentence implies inadequacy, 'insufficient' is a neutral adjective that simply means 'not enough' and lacks the connotation of deliberate frugality or stinginess carried by 'scant.'" },
+        { "distractor": "halfhearted", "closeness": 2, "reasoning": "The confusion that resulted could suggest halfhearted effort, but 'halfhearted' modifies motivation and enthusiasm, not quantity of attention, so it doesn't fit the grammatical slot as naturally." },
+        { "distractor": "misguided", "closeness": 2, "reasoning": "The outcome of confusion could imply misguided planning, but 'misguided' means poorly directed rather than barely present, shifting the meaning away from a quantity descriptor." },
+        { "distractor": "sporadic", "closeness": 2, "reasoning": "'Sporadic' describes irregular occurrence over time, which doesn't match the sentence's implication of a generally deficient level of attention throughout planning." },
+        { "distractor": "abundant", "closeness": 1, "reasoning": "The sentence shows the outcome was confusion and failure, directly contradicting any notion of plentiful attention; this is an antonym in context." },
+        { "distractor": "meticulous", "closeness": 1, "reasoning": "The planning failure and resulting confusion make 'meticulous'—meaning extremely careful and precise—clearly impossible in this slot." },
+        { "distractor": "exhaustive", "closeness": 1, "reasoning": "'Exhaustive' implies thorough and complete coverage, which is the opposite of what the sentence describes about the planning process." }
+      ]
+    },
+    {
+      "sentence": "With scant resources and a fast-approaching deadline, the team had to abandon the most ambitious components of the original proposal.",
+      "answerChoices": [
+        { "distractor": "scarce", "closeness": 3, "reasoning": "The sentence establishes a forced abandonment of plans, making 'scarce' tempting since it describes shortage, but 'scarce' typically implies rarity in availability while 'scant' emphasizes deliberate frugality or extreme smallness in degree." },
+        { "distractor": "limited", "closeness": 3, "reasoning": "'Limited' fits naturally before 'resources' and explains the team's constraint, but it is a milder and more neutral word that lacks the emphatic insufficiency implied by 'scant.'" },
+        { "distractor": "dwindling", "closeness": 3, "reasoning": "The deadline pressure and forced cuts suggest resources may have been depleting, making 'dwindling' plausible; however, 'dwindling' describes a process of decrease rather than a static condition of extreme scarcity." },
+        { "distractor": "meager", "closeness": 3, "reasoning": "'Meager' is a near-synonym that also describes quantity falling far below what is needed, but it tends to emphasize poor quality or pitiful amounts rather than the stingily frugal insufficiency of 'scant.'" },
+        { "distractor": "inadequate", "closeness": 2, "reasoning": "The team's abandonment of plans confirms the resources were not enough, but 'inadequate' is a plain descriptor of insufficiency and does not function as a strong attributive modifier with the same texture as 'scant.'" },
+        { "distractor": "finite", "closeness": 2, "reasoning": "All resources are finite, so the word does not explain why the team had to make cuts; it misses the essential meaning of extreme smallness or stinginess that the context requires." },
+        { "distractor": "misallocated", "closeness": 2, "reasoning": "One might infer poor allocation from the team's difficulty, but the sentence does not suggest the resources were poorly distributed—only that they were extremely few." },
+        { "distractor": "borrowed", "closeness": 2, "reasoning": "'Borrowed' describes the origin of resources rather than their quantity, making it grammatically plausible but semantically wrong for the sentence's meaning." },
+        { "distractor": "ample", "closeness": 1, "reasoning": "The team's forced cutbacks directly contradict the idea of plentiful resources; 'ample' is the opposite of what the sentence requires." },
+        { "distractor": "surplus", "closeness": 1, "reasoning": "'Surplus' means an excess beyond what is needed, directly contradicting the scarcity the sentence describes." },
+        { "distractor": "sophisticated", "closeness": 1, "reasoning": "'Sophisticated' describes quality or complexity rather than quantity, making it clearly wrong in a slot that must describe the amount of resources available." }
+      ]
+    },
+    {
+      "sentence": "Critics noted that the report paid scant regard to the communities most directly affected by the policy change.",
+      "answerChoices": [
+        { "distractor": "little", "closeness": 3, "reasoning": "'Little regard' is a common English phrase that would fit here, but 'little' is a general quantifier while 'scant' carries the stronger implication of deliberate or negligent insufficiency, making the criticism sharper." },
+        { "distractor": "grudging", "closeness": 3, "reasoning": "The critics' objection implies the regard given was less than warranted; 'grudging' describes reluctant or unwilling attention, which is plausible but shifts the meaning toward motivation rather than mere insufficiency of amount." },
+        { "distractor": "superficial", "closeness": 3, "reasoning": "A report ignoring affected communities could be superficial in its treatment, but 'superficial' modifies depth of engagement rather than quantity of regard, changing the nature of the criticism." },
+        { "distractor": "hollow", "closeness": 3, "reasoning": "'Hollow regard' captures the idea of insincere attention, which fits critics' complaints; however, 'hollow' implies performative insincerity while the sentence calls for a word about the sheer smallness of the regard given." },
+        { "distractor": "disproportionate", "closeness": 2, "reasoning": "'Disproportionate regard' would mean the attention was unbalanced rather than insufficient, and the sentence is specifically about a lack of attention, not imbalanced attention." },
+        { "distractor": "selective", "closeness": 2, "reasoning": "'Selective' implies choosing among groups to attend to, which partially fits a criticism about who was included, but it describes discriminating attention rather than sheer scarcity of it." },
+        { "distractor": "uncritical", "closeness": 2, "reasoning": "'Uncritical regard' describes the quality of attention as unquestioning, not the quantity, making it a wrong fit for the critics' complaint about communities being ignored." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "'Ambiguous regard' would mean the attention was unclear in intent, which is unrelated to the quantity issue the critics raise about affected communities being overlooked." },
+        { "distractor": "due", "closeness": 1, "reasoning": "'Due regard' means appropriate attention, which is exactly what the critics are saying was absent; it is the opposite of what 'scant' expresses in this sentence." },
+        { "distractor": "generous", "closeness": 1, "reasoning": "'Generous regard' implies ample, giving attention, directly contradicting the criticism that affected communities were inadequately considered." },
+        { "distractor": "equal", "closeness": 1, "reasoning": "'Equal regard' implies proportional treatment for all groups, the opposite of the report's failure to consider affected communities that the critics identify." }
+      ]
+    }
+  ]
+}
