@@ -98,6 +98,8 @@ gre-vocab-app/
 
 **Target sentences per word:** 3. The first is the existing Claude-generated sentence (`cache/sentences/`); two additional sentences are generated alongside their answer choices.
 
+**Sentence diversity requirement:** The 3 sentences for a word must use meaningfully different contexts — different subject domains, different syntactic roles, different connotations of the word. The goal is that a distractor that is a strong trap in one sentence's context (e.g., "demote" for a workplace sentence about "abase") should be a weaker or implausible distractor in another sentence's context (e.g., a sentence about self-abasement in a religious setting). This ensures distractors are generated per-sentence rather than reused across sentences, and that the full set of 3 sentences tests the word's meaning broadly rather than from one angle.
+
 **Closeness scale:**
 - `3` — near-synonym or easily confused (trap answer)
 - `2` — plausible in context but wrong
@@ -121,11 +123,12 @@ Merges `cache/{word}.json` + `cache/sentence_sets/{word}.json` + `output/populat
 
 The canonical prompt used in Claude Code sessions to generate `cache/sentence_sets/{word}.json`. Contains:
 - Instructions to generate 3 sentences per word (incorporating the existing sentence from `cache/sentences/` as the first)
+- Sentence diversity requirement: each sentence must use a different domain/context/syntactic role so that strong distractors for one sentence are not strong distractors for the others
 - Closeness scale definition (1–3)
 - Target distribution per sentence (4/4/3 = 11 distractors)
 - Output JSON schema
 - GRE style guidance (near-synonyms as traps, plausible-in-context midrange, opposites as easy eliminations)
-- Worked example input/output
+- Worked example input/output showing 3 diverse sentences with context-specific distractor sets
 
 Generation is a one-time Claude Code session task, not a runtime API call. Already-cached words are skipped on re-run.
 
