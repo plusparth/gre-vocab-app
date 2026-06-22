@@ -1,0 +1,53 @@
+{
+  "word": "agglutination",
+  "sentenceSets": [
+    {
+      "sentence": "The linguist studied agglutination in Turkish, where suffixes stack onto a root in a predictable order.",
+      "answerChoices": [
+        { "distractor": "conjugation", "closeness": 3, "reasoning": "Conjugation is modification of verbs for tense and person, similar to adding suffixes, but doesn't capture the stacking or clustering aspect of agglutination." },
+        { "distractor": "inflection", "closeness": 3, "reasoning": "Inflection is modification of word form, close to agglutination, but is broader and doesn't emphasize the stacking of multiple affixes." },
+        { "distractor": "accretion", "closeness": 3, "reasoning": "Accretion is gradual accumulation, fitting the stacking, but doesn't specifically denote the linguistic process of adding suffixes." },
+        { "distractor": "synthesis", "closeness": 3, "reasoning": "Synthesis is combining parts into a whole, fitting the stacking, but is broader than the linguistic process of agglutination." },
+        { "distractor": "morphology", "closeness": 2, "reasoning": "Morphology is the study of word structure, which includes agglutination, but is broader than agglutination itself." },
+        { "distractor": "suffix", "closeness": 2, "reasoning": "Suffix is an affix added to a word, a component of agglutination, but not the process itself." },
+        { "distractor": "affixation", "closeness": 2, "reasoning": "Affixation is adding affixes, very close to agglutination, but is a broader process that includes other attachment methods." },
+        { "distractor": "clustering", "closeness": 2, "reasoning": "Clustering is grouping things together, fitting the stacking sense, but doesn't denote the specific linguistic process." },
+        { "distractor": "erosion", "closeness": 1, "reasoning": "Erosion is wearing away; agglutination is building up affixes—opposite processes." },
+        { "distractor": "simplification", "closeness": 1, "reasoning": "Simplification is making simpler; agglutination creates complex word forms through stacking—opposite effects." },
+        { "distractor": "isolation", "closeness": 1, "reasoning": "Isolation is separation; agglutination is joining elements together—opposite processes." }
+      ]
+    },
+    {
+      "sentence": "The disease caused agglutination of red blood cells, reducing oxygen transport through the bloodstream.",
+      "answerChoices": [
+        { "distractor": "coagulation", "closeness": 3, "reasoning": "Coagulation is clotting, similar to cells clustering, but refers to a different biological process and mechanism." },
+        { "distractor": "clumping", "closeness": 3, "reasoning": "Clumping means sticking together in clumps, very close to agglutination, but is less formal and technical." },
+        { "distractor": "aggregation", "closeness": 3, "reasoning": "Aggregation is clustering together, close to agglutination, but doesn't specifically denote the immune-mediated cell clustering." },
+        { "distractor": "precipitation", "closeness": 3, "reasoning": "Precipitation is particles forming solids in solution, similar outcome of clustering, but refers to different biological mechanism." },
+        { "distractor": "adhesion", "closeness": 2, "reasoning": "Adhesion is sticking together, fitting the clustering, but doesn't specifically denote the antibody-mediated process." },
+        { "distractor": "fusion", "closeness": 2, "reasoning": "Fusion is combining into one, similar to cells clustering, but denotes a different process than antibody-mediated agglutination." },
+        { "distractor": "binding", "closeness": 2, "reasoning": "Binding is attaching, involved in agglutination, but doesn't denote the full process or its effect on oxygen transport." },
+        { "distractor": "thickening", "closeness": 2, "reasoning": "Thickening could describe the blood becoming thicker, but doesn't denote the specific mechanism of cell agglutination." },
+        { "distractor": "dispersion", "closeness": 1, "reasoning": "Dispersion is scattering apart; agglutination is clustering cells together—opposite processes." },
+        { "distractor": "liquefaction", "closeness": 1, "reasoning": "Liquefaction is turning to liquid; agglutination causes cells to cluster and thicken—opposite effects." },
+        { "distractor": "separation", "closeness": 1, "reasoning": "Separation is dividing cells apart; agglutination is clumping them together—opposite processes." }
+      ]
+    },
+    {
+      "sentence": "The polymer's agglutination properties made it useful as a binder in construction materials.",
+      "answerChoices": [
+        { "distractor": "adhesive", "closeness": 3, "reasoning": "Adhesive denotes sticking properties, similar to agglutination's binding function, but doesn't capture the clustering aspect." },
+        { "distractor": "cohesive", "closeness": 3, "reasoning": "Cohesive denotes holding together, fitting the binding role, but doesn't emphasize the specific agglutinating mechanism." },
+        { "distractor": "binding", "closeness": 3, "reasoning": "Binding describes the connecting function, similar to agglutination, but is broader and less specific about the mechanism." },
+        { "distractor": "cementing", "closeness": 3, "reasoning": "Cementing denotes bonding materials together, very similar to agglutination's role, but is more descriptive of outcome." },
+        { "distractor": "solidifying", "closeness": 2, "reasoning": "Solidifying describes creating solids, which agglutination helps achieve, but doesn't denote the clustering mechanism." },
+        { "distractor": "fusing", "closeness": 2, "reasoning": "Fusing means joining, fitting the binder role, but doesn't denote the specific agglutinating process." },
+        { "distractor": "bonding", "closeness": 2, "reasoning": "Bonding denotes connecting materials, which agglutination achieves, but is a broader term." },
+        { "distractor": "compacting", "closeness": 2, "reasoning": "Compacting is compressing tightly, which might result from agglutination, but doesn't denote the process itself." },
+        { "distractor": "separating", "closeness": 1, "reasoning": "Separating means dividing; agglutination bonds materials together—opposite functions." },
+        { "distractor": "weakening", "closeness": 1, "reasoning": "Weakening would reduce structural strength; agglutination strengthens materials—opposite effects." },
+        { "distractor": "dissolving", "closeness": 1, "reasoning": "Dissolving breaks down structure; agglutination creates structure—opposite effects." }
+      ]
+    }
+  ]
+}

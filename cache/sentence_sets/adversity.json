@@ -1,0 +1,53 @@
+{
+  "word": "adversity",
+  "sentenceSets": [
+    {
+      "sentence": "Having faced adversity early in life, she was better prepared than most to handle failure.",
+      "answerChoices": [
+        { "distractor": "hardship", "closeness": 3, "reasoning": "Hardship means difficult circumstances, fitting the context, but lacks the sense of active challenge or struggle that adversity emphasizes." },
+        { "distractor": "tragedy", "closeness": 3, "reasoning": "Tragedy is a grave misfortune, but suggests a single catastrophic event, whereas adversity implies ongoing or cumulative difficulty." },
+        { "distractor": "suffering", "closeness": 3, "reasoning": "Suffering captures pain from difficulties, but is more about the emotional experience than the condition of facing opposing circumstances itself." },
+        { "distractor": "hardest times", "closeness": 3, "reasoning": "Hardest times conveys difficulty, but is less formal and precise than adversity, which denotes a state of actively opposed circumstances." },
+        { "distractor": "challenge", "closeness": 2, "reasoning": "Challenge fits the sense of something to overcome, but is lighter in tone and doesn't suggest the severity that prepared her for failure." },
+        { "distractor": "struggle", "closeness": 2, "reasoning": "Struggle captures difficulty and effort, but emphasizes the act of fighting rather than the condition of facing contrary circumstances." },
+        { "distractor": "crisis", "closeness": 2, "reasoning": "Crisis implies urgency and threat, but suggests a point in time rather than a state or condition that builds resilience over time." },
+        { "distractor": "misfortune", "closeness": 2, "reasoning": "Misfortune fits as bad luck, but is less about a state of active opposition and more about random bad events." },
+        { "distractor": "prosperity", "closeness": 1, "reasoning": "Prosperity means success and wealth, directly opposite to the hardship that builds resilience through adversity." },
+        { "distractor": "comfort", "closeness": 1, "reasoning": "Comfort contradicts the difficulty implied; facing comfort wouldn't prepare one to handle failure." },
+        { "distractor": "routine", "closeness": 1, "reasoning": "Routine is ordinary experience; adversity suggests extraordinary difficulty that builds resilience, so these are unrelated." }
+      ]
+    },
+    {
+      "sentence": "The startup overcame early adversity by securing investor backing and pivoting its business model.",
+      "answerChoices": [
+        { "distractor": "competition", "closeness": 3, "reasoning": "Competition is a challenge to overcome, fitting the context of obstacles, but doesn't capture the internal difficulties (funding, product-market fit) that required pivoting." },
+        { "distractor": "obstacles", "closeness": 3, "reasoning": "Obstacles are things blocking progress, matching the sense of overcoming difficulty, but is too generic—doesn't convey the severity or nature of the startup's situation." },
+        { "distractor": "resistance", "closeness": 3, "reasoning": "Resistance suggests pushback from external forces, but the sentence points to internal struggles (investor backing needed, model required change) rather than opposition." },
+        { "distractor": "setback", "closeness": 3, "reasoning": "Setback is a check to progress, close to adversity's meaning, but suggests a temporary reversal rather than a state of difficulty demanding fundamental change." },
+        { "distractor": "difficulty", "closeness": 2, "reasoning": "Difficulty is general; while adversity implies difficulty, difficulty doesn't carry the full weight of opposed circumstances that forced the pivot." },
+        { "distractor": "tension", "closeness": 2, "reasoning": "Tension suggests stress or conflict, but doesn't clearly denote the material challenges the startup faced." },
+        { "distractor": "failure", "closeness": 2, "reasoning": "Failure means not succeeding; but the startup didn't fail—it overcame by adapting, so failure contradicts the narrative of resilience." },
+        { "distractor": "demand", "closeness": 2, "reasoning": "Demand could describe market pressure, but it's less about difficulty and more about external appetite—the startup faced internal struggles." },
+        { "distractor": "success", "closeness": 1, "reasoning": "Success is the opposite of adversity; overcoming adversity and experiencing success are different states." },
+        { "distractor": "opportunity", "closeness": 1, "reasoning": "Opportunity is something enabling progress; adversity is something hindering it—they're opposed." },
+        { "distractor": "stability", "closeness": 1, "reasoning": "Stability would mean the startup faced no threats; the need for pivoting contradicts stability." }
+      ]
+    },
+    {
+      "sentence": "After years of adversity in the foster care system, the young man found stability through mentorship.",
+      "answerChoices": [
+        { "distractor": "displacement", "closeness": 3, "reasoning": "Displacement describes moving from place to place, which many foster children experience, but doesn't capture the broader emotional and psychological difficulty denoted by adversity." },
+        { "distractor": "uncertainty", "closeness": 3, "reasoning": "Uncertainty fits the instability of foster care, but is more about not knowing the future than enduring contrary circumstances." },
+        { "distractor": "neglect", "closeness": 3, "reasoning": "Neglect is a type of mistreatment in care systems, but doesn't encompass the full range of difficulties—educational, emotional, social—that constitute adversity." },
+        { "distractor": "deprivation", "closeness": 3, "reasoning": "Deprivation means lacking necessities, which foster youth often experience, but is narrower than adversity's broader sense of difficult circumstances." },
+        { "distractor": "loneliness", "closeness": 2, "reasoning": "Loneliness fits the emotional toll, but is one aspect of foster care difficulty rather than the overall state of facing opposing circumstances." },
+        { "distractor": "poverty", "closeness": 2, "reasoning": "Poverty is a material hardship, but doesn't capture the relational and systemic difficulties of foster care beyond economic lack." },
+        { "distractor": "trauma", "closeness": 2, "reasoning": "Trauma is a deep psychological wound, but is an effect of adversity rather than a synonym for the condition of facing continued difficulty." },
+        { "distractor": "stigma", "closeness": 2, "reasoning": "Stigma is social judgment; while foster youth face it, it's one element rather than the full weight of systemic and personal adversity." },
+        { "distractor": "privilege", "closeness": 1, "reasoning": "Privilege means advantage; years of privilege would lead to instability loss differently than years of adversity." },
+        { "distractor": "comfort", "closeness": 1, "reasoning": "Comfort is physical and emotional ease; the opposite of the difficulties that foster youth endure." },
+        { "distractor": "support", "closeness": 1, "reasoning": "Support is help given; adversity is the condition of needing help—they're complementary, not synonymous." }
+      ]
+    }
+  ]
+}

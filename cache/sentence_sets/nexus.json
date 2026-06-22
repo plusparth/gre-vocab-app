@@ -1,0 +1,53 @@
+{
+  "word": "nexus",
+  "sentenceSets": [
+    {
+      "sentence": "The city served as the nexus of a network that reached into every major market in the region.",
+      "answerChoices": [
+        { "distractor": "boundary", "closeness": 3, "reasoning": "A 'boundary' is a line that marks the edge of something, but the sentence shows the city at the center where a network connects outward, not at an edge or border." },
+        { "distractor": "satellite", "closeness": 3, "reasoning": "A 'satellite' is a secondary or dependent entity orbiting a center, the opposite of nexus, which implies the central point from which connections extend." },
+        { "distractor": "outpost", "closeness": 3, "reasoning": "An 'outpost' is a remote or distant location, but the sentence describes the city as central to a wide network, not peripheral or remote." },
+        { "distractor": "terminus", "closeness": 3, "reasoning": "'Terminus' is an end point or final destination, but the sentence shows the city as a connecting point, not an ending point where the network stops." },
+        { "distractor": "zone", "closeness": 2, "reasoning": "'Zone' describes a defined area or region, but doesn't capture the sense of a central connecting point that serves as the hub of a network." },
+        { "distractor": "sector", "closeness": 2, "reasoning": "'Sector' refers to a division or part of something larger, but the sentence shows one city as the central point serving multiple sectors, not as a part itself." },
+        { "distractor": "province", "closeness": 2, "reasoning": "'Province' is a region or territory, but doesn't express the connecting function that makes the city central to a network." },
+        { "distractor": "arena", "closeness": 2, "reasoning": "'Arena' suggests a field or area where activity happens, but lacks the sense of being a central point through which connections are made." },
+        { "distractor": "periphery", "closeness": 1, "reasoning": "'Periphery' means the edge or outer area, opposite to a central nexus that connects a network." },
+        { "distractor": "isolation", "closeness": 1, "reasoning": "'Isolation' means separation and disconnection, contrary to the role of a nexus as a connecting point for a network." },
+        { "distractor": "fragmentation", "closeness": 1, "reasoning": "'Fragmentation' means breaking into separate pieces, opposite to the unifying function of a nexus that brings network elements together." }
+      ]
+    },
+    {
+      "sentence": "The university became a nexus of intellectual exchange, drawing scholars from distant institutions to collaborate on shared research problems.",
+      "answerChoices": [
+        { "distractor": "repository", "closeness": 3, "reasoning": "A 'repository' is a place where things are stored or kept, but the sentence emphasizes the exchange and collaboration of scholars, not the storage of knowledge." },
+        { "distractor": "institution", "closeness": 3, "reasoning": "'Institution' is simply a formal organization, but the sentence shows the university as a special point of convergence, not merely an organization among others." },
+        { "distractor": "destination", "closeness": 3, "reasoning": "A 'destination' is where something is sent or where someone goes, but the sentence emphasizes the university as a meeting point, not merely where scholars go." },
+        { "distractor": "venue", "closeness": 3, "reasoning": "A 'venue' is a place where an event occurs, but doesn't capture the sense of being a central point where diverse elements connect and interact." },
+        { "distractor": "sanctuary", "closeness": 2, "reasoning": "'Sanctuary' suggests a safe place of refuge, but the sentence emphasizes collaborative intellectual work rather than providing shelter." },
+        { "distractor": "academy", "closeness": 2, "reasoning": "'Academy' is a place of learning, but doesn't capture the specific role of being a connecting point for scholars from different institutions." },
+        { "distractor": "facility", "closeness": 2, "reasoning": "'Facility' is a place or building for a specific purpose, but doesn't express the connecting or convergence function that defines a nexus." },
+        { "distractor": "establishment", "closeness": 2, "reasoning": "'Establishment' means a formally organized entity, but the sentence emphasizes the university's role as a meeting and exchange point, not just its existence." },
+        { "distractor": "barrier", "closeness": 1, "reasoning": "'Barrier' is something that obstructs or separates, opposite to a nexus that brings diverse elements together." },
+        { "distractor": "division", "closeness": 1, "reasoning": "'Division' means separation into parts or groups, contrary to the unifying and convergent role of a nexus." },
+        { "distractor": "monopoly", "closeness": 1, "reasoning": "'Monopoly' suggests exclusive control, whereas a nexus serves as an open meeting point where multiple parties connect and interact." }
+      ]
+    },
+    {
+      "sentence": "The intersection of art, science, and philosophy formed the nexus around which the entire interdisciplinary program was organized.",
+      "answerChoices": [
+        { "distractor": "periphery", "closeness": 3, "reasoning": "'Periphery' means the outer edge or marginal area, but the sentence shows the intersection as the central organizing principle, not at the margins." },
+        { "distractor": "foundation", "closeness": 3, "reasoning": "'Foundation' is a base or underlying structure, but the sentence emphasizes a point of connection and organization, not something beneath that supports." },
+        { "distractor": "framework", "closeness": 3, "reasoning": "'Framework' is a structure that organizes or supports, but the sentence specifically identifies a nexus—a point of intersection—as the organizing principle." },
+        { "distractor": "precedent", "closeness": 3, "reasoning": "'Precedent' is an earlier example that guides later ones, but the sentence shows the intersection as the present organizing point, not a historical example." },
+        { "distractor": "model", "closeness": 2, "reasoning": "'Model' is a pattern to be followed, but the sentence emphasizes the intersection as the actual organizing center, not an abstract pattern." },
+        { "distractor": "principle", "closeness": 2, "reasoning": "'Principle' is a fundamental rule or belief, but the sentence identifies a nexus—a point of connection—as what the program is organized around." },
+        { "distractor": "criterion", "closeness": 2, "reasoning": "'Criterion' is a standard for judgment, but the sentence shows the intersection as a meeting point, not a standard for evaluation." },
+        { "distractor": "convention", "closeness": 2, "reasoning": "'Convention' is an established custom or agreement, but the sentence emphasizes an actual point of intellectual convergence, not a rule or tradition." },
+        { "distractor": "dispersal", "closeness": 1, "reasoning": "'Dispersal' means spreading out or scattering, opposite to the convergence implied by a nexus at the center of the program." },
+        { "distractor": "isolation", "closeness": 1, "reasoning": "'Isolation' means separation, contrary to the connecting and converging function of a nexus." },
+        { "distractor": "rejection", "closeness": 1, "reasoning": "'Rejection' means refusing or pushing away, opposite to the inclusive convergence of disciplines at a nexus." }
+      ]
+    }
+  ]
+}

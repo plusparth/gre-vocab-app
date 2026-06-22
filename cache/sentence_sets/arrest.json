@@ -1,0 +1,53 @@
+{
+  "word": "arrest",
+  "sentenceSets": [
+    {
+      "sentence": "The image arrested her attention immediately; she stood before it for nearly an hour.",
+      "answerChoices": [
+        { "distractor": "capture", "closeness": 3, "reasoning": "Capture can mean to seize attention, fitting the sentence, but 'capture' is more general and can be applied to any engagement, whereas 'arrest' specifically emphasizes sudden, forceful holding of attention." },
+        { "distractor": "hold", "closeness": 3, "reasoning": "'Hold' attention means to maintain focus, and the hour-long standing supports this, but 'hold' lacks the sudden, forceful seizure that 'arrest' conveys at the start of attention." },
+        { "distractor": "engage", "closeness": 3, "reasoning": "'Engage' attention suggests active involvement, fitting the response, but it doesn't capture the immediate, forceful quality of being stopped in one's tracks." },
+        { "distractor": "fascinate", "closeness": 3, "reasoning": "Fascination explains why she stayed long, but 'fascinate' builds gradually, whereas 'arrest' describes the immediate stopping power of the image." },
+        { "distractor": "compel", "closeness": 2, "reasoning": "'Compel' suggests forcing or driving, which partially fits the immediate stopping, but 'compel' often implies external pressure rather than the power of the image itself." },
+        { "distractor": "mesmerize", "closeness": 2, "reasoning": "'Mesmerize' describes hypnotic fascination, but it's more passive than 'arrest,' which suggests an active seizing." },
+        { "distractor": "rivet", "closeness": 2, "reasoning": "'Rivet' means to fix attention firmly, similar to 'arrest,' but it emphasizes sustained fixing rather than the initial seizure." },
+        { "distractor": "distract", "closeness": 2, "reasoning": "'Distract' means to turn attention away from something else, but the sentence suggests the image seized her attention, not distracted from prior focus." },
+        { "distractor": "repel", "closeness": 1, "reasoning": "Opposite—'repel' means to drive away or cause aversion, opposite to being stopped and held in rapt attention for an hour." },
+        { "distractor": "release", "closeness": 1, "reasoning": "Opposite—'release' means to let go, the opposite of seizing and holding her attention." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Opposite—'ignore' means to disregard, the opposite of being stopped and held attention by the image." }
+      ]
+    },
+    {
+      "sentence": "The sudden noise arrested the conversation; everyone fell silent to listen.",
+      "answerChoices": [
+        { "distractor": "halt", "closeness": 3, "reasoning": "'Halt' means to stop, and the silence indicates the conversation stopped, but 'halt' is neutral about the cause, whereas 'arrest' emphasizes the sudden, forceful interruption." },
+        { "distractor": "suspend", "closeness": 3, "reasoning": "'Suspend' means to pause temporarily, fitting the stopped conversation, but it suggests a deliberate pause rather than the abrupt stopping that a sudden noise causes." },
+        { "distractor": "interrupt", "closeness": 3, "reasoning": "'Interrupt' stops ongoing speech, but it often implies intentional interjection, whereas 'arrest' captures the involuntary stopping caused by an external force." },
+        { "distractor": "silence", "closeness": 3, "reasoning": "The result was silence, but 'silence' describes the state, not the action of stopping the conversation; 'arrest' names the action itself." },
+        { "distractor": "stun", "closeness": 2, "reasoning": "'Stun' means to shock or daze, which the noise does, but it emphasizes the emotional effect rather than the stopping of speech." },
+        { "distractor": "startle", "closeness": 2, "reasoning": "'Startle' means to surprise suddenly, fitting the sudden noise, but it emphasizes the emotional reaction rather than the cessation of conversation." },
+        { "distractor": "rupture", "closeness": 2, "reasoning": "'Rupture' suggests breaking apart violently, but it's too dramatic and doesn't specifically mean stopping speech." },
+        { "distractor": "dampen", "closeness": 2, "reasoning": "'Dampen' means to reduce enthusiasm or intensity, but the sentence shows complete stopping, not merely reduced conversation." },
+        { "distractor": "encourage", "closeness": 1, "reasoning": "Opposite—'encourage' means to promote or prompt more speech, opposite to the silence caused by the arrested conversation." },
+        { "distractor": "sustain", "closeness": 1, "reasoning": "Opposite—'sustain' means to keep going, opposite to the stopping of conversation." },
+        { "distractor": "accelerate", "closeness": 1, "reasoning": "Opposite—'accelerate' would speed up conversation, opposite to the arrested, stopped interaction." }
+      ]
+    },
+    {
+      "sentence": "The ship was arrested by debris and ice, unable to proceed until the obstruction was cleared.",
+      "answerChoices": [
+        { "distractor": "blocked", "closeness": 3, "reasoning": "'Blocked' means obstructed, matching the prevented progress, but 'blocked' is a passive state, whereas 'arrest' emphasizes the active seizing or stopping force." },
+        { "distractor": "grounded", "closeness": 3, "reasoning": "'Grounded' can mean stuck or unable to move, fitting the immobility, but 'grounded' specifically suggests touching bottom, whereas the sentence indicates obstruction by debris." },
+        { "distractor": "detained", "closeness": 3, "reasoning": "'Detained' means held back or kept from proceeding, fitting the situation, but it suggests temporary holding by authority, not mechanical obstruction." },
+        { "distractor": "stuck", "closeness": 3, "reasoning": "'Stuck' means unable to move, clearly fitting the debris and ice situation, but it's colloquial and lacks the formal, forceful quality of 'arrest'." },
+        { "distractor": "stalled", "closeness": 2, "reasoning": "'Stalled' means to stop making progress, but it often implies engine failure rather than external obstruction preventing movement." },
+        { "distractor": "encumbered", "closeness": 2, "reasoning": "'Encumbered' means burdened or hindered, but it doesn't specifically convey the stopping power of the obstruction." },
+        { "distractor": "impeded", "closeness": 2, "reasoning": "'Impeded' means hindered or obstructed, but it suggests slowing rather than complete inability to proceed." },
+        { "distractor": "anchored", "closeness": 2, "reasoning": "'Anchored' means deliberately secured, but the sentence indicates involuntary stopping by debris, not intentional anchoring." },
+        { "distractor": "launched", "closeness": 1, "reasoning": "Opposite—'launched' means to set in motion, opposite to being stopped by obstruction." },
+        { "distractor": "liberated", "closeness": 1, "reasoning": "Opposite—'liberated' means freed or released, the opposite of being seized and held by debris and ice." },
+        { "distractor": "accelerated", "closeness": 1, "reasoning": "Opposite—'accelerated' means to speed up, opposite to the arrested, immobilized ship." }
+      ]
+    }
+  ]
+}

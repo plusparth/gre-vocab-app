@@ -1,0 +1,53 @@
+{
+  "word": "apostate",
+  "sentenceSets": [
+    {
+      "sentence": "Once a devoted monk, he became an apostate when he renounced his vows and publicly denounced the monastery's teachings.",
+      "answerChoices": [
+        { "distractor": "rebel", "closeness": 3, "reasoning": "Close -- 'rebel' means to resist authority; he did resist by renouncing vows, but apostate specifically denotes abandonment of a faith or ideology previously embraced." },
+        { "distractor": "dissident", "closeness": 3, "reasoning": "Close -- 'dissident' opposes a dominant group's views; while he opposed the monastery's teachings, apostate emphasizes the abandonment of his own previous commitment." },
+        { "distractor": "deserter", "closeness": 3, "reasoning": "Close -- 'deserter' abandons a commitment; he did abandon his monastic life, but apostate specifically indicates spiritual or ideological betrayal of a belief system." },
+        { "distractor": "heretic", "closeness": 3, "reasoning": "Close -- 'heretic' holds unorthodox beliefs; while he may be considered heretical, apostate emphasizes his specific act of renouncing and publicly denouncing previous teachings." },
+        { "distractor": "outsider", "closeness": 2, "reasoning": "Incorrect -- 'outsider' refers to someone external to a group; he had been an insider (monk) before renouncing his commitment." },
+        { "distractor": "traitor", "closeness": 2, "reasoning": "Incorrect -- 'traitor' betrays for external gain or allegiance; while he betrayed his vows, apostate emphasizes the rejection of belief rather than betrayal for gain." },
+        { "distractor": "criminal", "closeness": 2, "reasoning": "Incorrect -- 'criminal' violates laws; renouncing vows may violate religious law, but the focus is ideological abandonment, not criminality." },
+        { "distractor": "skeptic", "closeness": 2, "reasoning": "Incorrect -- 'skeptic' doubts claims; while he doubted the monastery's teachings, apostate indicates full abandonment and public denunciation." },
+        { "distractor": "believer", "closeness": 1, "reasoning": "Opposite -- 'believer' has faith; an apostate renounces and abandons the faith they previously held." },
+        { "distractor": "faithful", "closeness": 1, "reasoning": "Opposite -- 'faithful' means loyal to beliefs; an apostate publicly renounces the beliefs they were previously faithful to." },
+        { "distractor": "devotee", "closeness": 1, "reasoning": "Incorrect -- 'devotee' is deeply committed to something; he was initially a devotee (monk) but became an apostate through renunciation." }
+      ]
+    },
+    {
+      "sentence": "The political apostate shocked his party when he switched sides and began campaigning for policies he had previously opposed.",
+      "answerChoices": [
+        { "distractor": "turncoat", "closeness": 3, "reasoning": "Close -- 'turncoat' switches allegiance; he did switch political allegiance, but apostate emphasizes the ideological reversal and abandonment of previous beliefs." },
+        { "distractor": "defector", "closeness": 3, "reasoning": "Close -- 'defector' abandons an organization; he abandoned his party, but apostate specifically emphasizes the ideological shift rather than organizational departure." },
+        { "distractor": "convert", "closeness": 3, "reasoning": "Close -- 'convert' adopts a new belief; he adopted new policies, but apostate emphasizes that he renounced what he previously believed, not merely converting." },
+        { "distractor": "opportunist", "closeness": 3, "reasoning": "Close -- 'opportunist' shifts for personal advantage; he may have been opportunistic, but apostate refers to the ideological shift and abandonment of previous commitments." },
+        { "distractor": "competitor", "closeness": 2, "reasoning": "Incorrect -- 'competitor' rivals in elections; while he competed against his former party, apostate describes ideological betrayal." },
+        { "distractor": "reformer", "closeness": 2, "reasoning": "Incorrect -- 'reformer' seeks to change an organization from within; he abandoned his party rather than reforming it." },
+        { "distractor": "moderate", "closeness": 2, "reasoning": "Incorrect -- 'moderate' seeks balance; while he may have become more moderate, apostate emphasizes the betrayal of previous beliefs." },
+        { "distractor": "activist", "closeness": 2, "reasoning": "Incorrect -- 'activist' campaigns for change; while he was active in campaigning, the focus is on ideological reversal." },
+        { "distractor": "loyalist", "closeness": 1, "reasoning": "Opposite -- 'loyalist' maintains allegiance; an apostate abandons and opposes previous allegiances." },
+        { "distractor": "adherent", "closeness": 1, "reasoning": "Opposite -- 'adherent' supports a cause or belief; an apostate publicly renounces support for previous beliefs." },
+        { "distractor": "partisan", "closeness": 1, "reasoning": "Incorrect -- 'partisan' strongly supports a party; he abandoned his party, making him the opposite of partisan." }
+      ]
+    },
+    {
+      "sentence": "The philosopher became an apostate to her earlier materialism when new research led her to embrace metaphysical questions she had long dismissed.",
+      "answerChoices": [
+        { "distractor": "convert", "closeness": 3, "reasoning": "Close -- 'convert' adopts a new belief; she did embrace new ideas, but apostate emphasizes her renunciation of materialist beliefs rather than mere adoption of new ones." },
+        { "distractor": "revisionist", "closeness": 3, "reasoning": "Close -- 'revisionist' rethinks previous positions; she reconsidered her position, but apostate suggests a deeper rejection of her former ideology." },
+        { "distractor": "doubter", "closeness": 3, "reasoning": "Close -- 'doubter' questions beliefs; she questioned materialism, but apostate indicates full abandonment and public renunciation of previous beliefs." },
+        { "distractor": "skeptic", "closeness": 3, "reasoning": "Close -- 'skeptic' expresses doubt; while she became skeptical of materialism, apostate emphasizes the active renunciation of a comprehensive belief system." },
+        { "distractor": "student", "closeness": 2, "reasoning": "Incorrect -- 'student' learns from teachers; while she was influenced by research, apostate describes ideological abandonment, not learning." },
+        { "distractor": "pragmatist", "closeness": 2, "reasoning": "Incorrect -- 'pragmatist' focuses on practical results; her shift involved embracing theoretical concerns, not pragmatism." },
+        { "distractor": "relativist", "closeness": 2, "reasoning": "Incorrect -- 'relativist' believes all views are equally valid; she made a definitive shift from materialism to metaphysics." },
+        { "distractor": "agnostic", "closeness": 2, "reasoning": "Incorrect -- 'agnostic' claims uncertainty about unknowable matters; she actively embraced metaphysical questions." },
+        { "distractor": "materialist", "closeness": 1, "reasoning": "Opposite -- 'materialist' adheres to materialism; she became an apostate to materialism, rejecting it." },
+        { "distractor": "dogmatist", "closeness": 1, "reasoning": "Opposite -- 'dogmatist' rigidly maintains beliefs; she abandoned her rigid materialist position as an apostate." },
+        { "distractor": "empiricist", "closeness": 1, "reasoning": "Incorrect -- 'empiricist' relies on sensory evidence; she shifted toward metaphysics, which goes beyond empiricism." }
+      ]
+    }
+  ]
+}

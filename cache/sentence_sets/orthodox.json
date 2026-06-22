@@ -1,0 +1,53 @@
+{
+  "word": "orthodox",
+  "sentenceSets": [
+    {
+      "sentence": "Her orthodox approach to the question produced defensible answers but missed the complications that made the question interesting.",
+      "answerChoices": [
+        { "distractor": "conventional", "closeness": 3, "reasoning": "Conventional describes adherence to standard practice, but doesn't capture the sense of following established doctrine or missing deeper complications." },
+        { "distractor": "dogmatic", "closeness": 3, "reasoning": "Dogmatic describes adherence to fixed principles without question, which relates to orthodox but emphasizes rigid belief rather than following established doctrine." },
+        { "distractor": "traditional", "closeness": 3, "reasoning": "Traditional describes following established customs, but emphasizes continuity rather than the specific sense of missing the deeper complications." },
+        { "distractor": "formulaic", "closeness": 3, "reasoning": "Formulaic describes following a set pattern mechanically, but suggests lack of thought rather than following established doctrine properly." },
+        { "distractor": "conservative", "closeness": 2, "reasoning": "Conservative describes resistance to change, but doesn't specifically capture the sense of following established doctrine or producing defensible answers." },
+        { "distractor": "pedantic", "closeness": 2, "reasoning": "Pedantic describes obsessive attention to rules or details, but suggests excess precision rather than defensibility based on established doctrine." },
+        { "distractor": "canonical", "closeness": 2, "reasoning": "Canonical describes following established standards, but typically applies to texts or principles rather than approaches to questions." },
+        { "distractor": "textbook", "closeness": 2, "reasoning": "Textbook describes standard, exemplary procedure, but doesn't specifically suggest adherence to established doctrine or missing complications." },
+        { "distractor": "radical", "closeness": 1, "reasoning": "Radical describes fundamental or extreme departure from tradition, the opposite of orthodox conformity to established doctrine." },
+        { "distractor": "innovative", "closeness": 1, "reasoning": "Innovative describes creating new approaches or ideas, contradicting the established doctrine that orthodox approaches follow." },
+        { "distractor": "heretical", "closeness": 1, "reasoning": "Heretical describes departing from orthodox doctrine, the opposite of an approach that conforms to established doctrine." }
+      ]
+    },
+    {
+      "sentence": "The museum's orthodox restoration of the painting followed art historical convention, stripping away centuries of varnish to reveal the artist's original colors, which turned out to be far less vibrant than later conservators had assumed.",
+      "answerChoices": [
+        { "distractor": "conservative", "closeness": 3, "reasoning": "Conservative describes cautious, resistance to change, but doesn't specifically mean adherence to established doctrine or conventional restoration methods." },
+        { "distractor": "traditional", "closeness": 3, "reasoning": "Traditional describes following established customs, but doesn't capture the sense of adherence to official art historical doctrine." },
+        { "distractor": "canonical", "closeness": 3, "reasoning": "Canonical describes following established standards, but typically refers to texts or authoritative lists rather than restoration methods." },
+        { "distractor": "methodical", "closeness": 3, "reasoning": "Methodical describes systematic, careful procedure, but doesn't suggest adherence to established doctrine of art historical practice." },
+        { "distractor": "systematic", "closeness": 2, "reasoning": "Systematic describes organized, following a fixed procedure, but doesn't specifically imply adherence to established art historical doctrine." },
+        { "distractor": "procedural", "closeness": 2, "reasoning": "Procedural describes following set procedures, but doesn't capture the sense of following established doctrine or convention." },
+        { "distractor": "standardized", "closeness": 2, "reasoning": "Standardized describes following uniform practices, but doesn't specifically suggest adherence to established doctrinal approach." },
+        { "distractor": "meticulous", "closeness": 2, "reasoning": "Meticulous describes careful, detailed work, but doesn't suggest adherence to established doctrine or convention." },
+        { "distractor": "iconoclastic", "closeness": 1, "reasoning": "Iconoclastic describes attacking established beliefs or traditions, the opposite of orthodox adherence to convention." },
+        { "distractor": "experimental", "closeness": 1, "reasoning": "Experimental describes trying new approaches, which contradicts orthodox adherence to established art historical doctrine." },
+        { "distractor": "revisionist", "closeness": 1, "reasoning": "Revisionist describes fundamentally reinterpreting established doctrine, the opposite of orthodox adherence to convention." }
+      ]
+    },
+    {
+      "sentence": "His orthodox interpretation of religious texts was intellectually honest but doctrinally narrow, leaving no room for metaphorical readings that other scholars found spiritually meaningful.",
+      "answerChoices": [
+        { "distractor": "literal", "closeness": 3, "reasoning": "Literal describes reading text for exact meaning without metaphor, but doesn't specifically suggest adherence to established religious doctrine." },
+        { "distractor": "fundamentalist", "closeness": 3, "reasoning": "Fundamentalist describes strict adherence to basic principles of faith, but emphasizes core beliefs rather than the established doctrine framework." },
+        { "distractor": "dogmatic", "closeness": 3, "reasoning": "Dogmatic describes rigid adherence to fixed principles without question, but emphasizes inflexible belief rather than following established doctrine specifically." },
+        { "distractor": "conservative", "closeness": 3, "reasoning": "Conservative describes resistance to change or innovation, but doesn't specifically indicate adherence to established religious doctrine." },
+        { "distractor": "puritanical", "closeness": 2, "reasoning": "Puritanical describes strict moral or religious standards, but emphasizes severity rather than adherence to established interpretive doctrine." },
+        { "distractor": "austere", "closeness": 2, "reasoning": "Austere describes strict, severe, or simple approach, but doesn't specifically suggest adherence to established religious doctrine." },
+        { "distractor": "rigid", "closeness": 2, "reasoning": "Rigid describes inflexible and unyielding, but doesn't capture the sense of following established doctrine." },
+        { "distractor": "prescriptive", "closeness": 2, "reasoning": "Prescriptive describes dictating rules or standards, but doesn't specifically indicate adherence to established doctrine rather than imposing new rules." },
+        { "distractor": "heretical", "closeness": 1, "reasoning": "Heretical describes departure from accepted doctrine, the opposite of orthodox adherence to established beliefs." },
+        { "distractor": "unorthodox", "closeness": 1, "reasoning": "Unorthodox describes departing from established practices or beliefs, directly contradicting orthodox conformity to doctrine." },
+        { "distractor": "liberal", "closeness": 1, "reasoning": "Liberal describes free from rigid adherence to doctrine, the opposite of orthodox conformity to established beliefs." }
+      ]
+    }
+  ]
+}

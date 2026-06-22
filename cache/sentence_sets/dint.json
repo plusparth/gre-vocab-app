@@ -1,0 +1,53 @@
+{
+  "word": "dint",
+  "sentenceSets": [
+    {
+      "sentence": "By dint of sheer persistence, he achieved results that talent alone had not delivered.",
+      "answerChoices": [
+        { "distractor": "luck", "closeness": 3, "reasoning": "Luck is chance or fortune, and while it might produce results, the sentence attributes the achievement to 'sheer persistence,' explicitly rejecting the notion that results came without effort." },
+        { "distractor": "coincidence", "closeness": 3, "reasoning": "Coincidence is chance occurrence, contradicting the sentence's emphasis on 'sheer persistence' as the causal agent driving results." },
+        { "distractor": "negligence", "closeness": 3, "reasoning": "Negligence is careless inattention, the opposite of 'sheer persistence,' making it semantically incompatible with the sentence's cause-and-effect structure." },
+        { "distractor": "whim", "closeness": 3, "reasoning": "A whim is a sudden, impulsive desire, but the sentence emphasizes sustained 'persistence' over time, not momentary or capricious action." },
+        { "distractor": "fortune", "closeness": 2, "reasoning": "Fortune can mean luck or chance, contradicting the sentence's clear attribution of results to a deliberate, sustained effort." },
+        { "distractor": "grace", "closeness": 2, "reasoning": "Grace often refers to divine favor or elegance, but the sentence describes a human achievement through effort, not a gifted quality." },
+        { "distractor": "cunning", "closeness": 2, "reasoning": "Cunning is clever deception or craftiness, but the sentence emphasizes straightforward 'persistence,' not strategic scheming." },
+        { "distractor": "laziness", "closeness": 1, "reasoning": "Laziness is the opposite of persistence; the sentence proves the cause was active effort, not indolence." },
+        { "distractor": "cowardice", "closeness": 1, "reasoning": "Cowardice refers to lack of courage, unrelated to the mechanism of achieving results through persistent effort." },
+        { "distractor": "mediocrity", "closeness": 1, "reasoning": "Mediocrity is ordinariness or lack of excellence, but the sentence describes exceptional achievement, proving the cause wasn't mediocre." },
+        { "distractor": "apathy", "closeness": 1, "reasoning": "Apathy is indifference or lack of emotion, the opposite of the engaged, sustained 'sheer persistence' described." }
+      ]
+    },
+    {
+      "sentence": "The fortress fell by dint of the besieging army's relentless assault over three months, not by treaty or negotiation.",
+      "answerChoices": [
+        { "distractor": "treachery", "closeness": 3, "reasoning": "Treachery is betrayal by an insider, but the sentence explicitly contrasts the outcome with 'treaty or negotiation' — it wasn't internal betrayal but sustained external military action." },
+        { "distractor": "surrender", "closeness": 3, "reasoning": "Surrender is voluntary yielding, but the sentence shows the fortress fell through 'relentless assault,' implying it was forced, not a choice by the defenders." },
+        { "distractor": "drought", "closeness": 3, "reasoning": "Drought (water scarcity) could starve a garrison, but the sentence specifies 'relentless assault,' attributing the fall to active military force, not environmental circumstance." },
+        { "distractor": "disease", "closeness": 3, "reasoning": "Disease could weaken defenders and cause a fortress to fall, but the sentence specifically credits 'relentless assault,' not internal sickness or plague." },
+        { "distractor": "diplomacy", "closeness": 2, "reasoning": "Diplomacy is negotiation and peaceful agreement, contradicting the sentence's contrast with 'treaty or negotiation' as the actual cause of the fall." },
+        { "distractor": "sabotage", "closeness": 2, "reasoning": "Sabotage is covert damage by insiders, but the sentence emphasizes an external military force's 'relentless assault' over months, not hidden acts." },
+        { "distractor": "alliance", "closeness": 2, "reasoning": "An alliance would be a political arrangement, but the sentence attributes the fall to military assault, not political arrangement or coalition." },
+        { "distractor": "cowardice", "closeness": 1, "reasoning": "Cowardice describes individual lack of courage, but the sentence describes a military siege — a strategic operation, not personal fear." },
+        { "distractor": "prosperity", "closeness": 1, "reasoning": "Prosperity means wealth and well-being, the opposite of a fortress falling to military assault." },
+        { "distractor": "peace", "closeness": 1, "reasoning": "Peace is absence of conflict, the opposite of 'relentless assault'; the sentence proves peace did not cause the fortress to fall." },
+        { "distractor": "blessing", "closeness": 1, "reasoning": "Blessing is a divine favor or good wish, semantically unrelated to military siege tactics and fortress conquest." }
+      ]
+    },
+    {
+      "sentence": "Through dint of painstaking research and analysis, the scholar uncovered evidence that rewrote the historical record.",
+      "answerChoices": [
+        { "distractor": "imagination", "closeness": 3, "reasoning": "Imagination is creative invention, but the sentence emphasizes 'painstaking research' and 'evidence,' which are grounded in verification, not creative hypothesis." },
+        { "distractor": "speculation", "closeness": 3, "reasoning": "Speculation is conjecture without evidence, contradicting the sentence's emphasis on 'evidence' that rewrote the record — proof requires facts, not guesses." },
+        { "distractor": "intuition", "closeness": 3, "reasoning": "Intuition is instinctive knowing without analysis, but the sentence stresses 'analysis' as the method through which the scholar worked." },
+        { "distractor": "rumor", "closeness": 3, "reasoning": "Rumor is unverified talk, but the sentence shows the scholar uncovered 'evidence,' establishing facts rather than repeating hearsay." },
+        { "distractor": "guesswork", "closeness": 2, "reasoning": "Guesswork is unverified trial-and-error, but the sentence specifies 'painstaking research,' suggesting methodical investigation rather than random attempts." },
+        { "distractor": "tradition", "closeness": 2, "reasoning": "Tradition is established custom or belief, and while scholars might challenge tradition, the sentence emphasizes uncovering new evidence, not relying on inherited beliefs." },
+        { "distractor": "hearsay", "closeness": 2, "reasoning": "Hearsay is secondhand accounts, but the sentence describes primary evidence uncovered through direct research." },
+        { "distractor": "negligence", "closeness": 1, "reasoning": "Negligence is careless inattention, the opposite of 'painstaking research' that rewrote an entire historical record." },
+        { "distractor": "fraud", "closeness": 1, "reasoning": "Fraud is deliberate deception, but the sentence describes honest scholarly investigation uncovering truth, not fabrication." },
+        { "distractor": "ignorance", "closeness": 1, "reasoning": "Ignorance is lack of knowledge, the opposite of research that produces evidence; the sentence proves knowledge, not ignorance." },
+        { "distractor": "apathy", "closeness": 1, "reasoning": "Apathy is indifference or lack of concern, contradicting the 'painstaking' effort the scholar invested in research." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "algorithm",
+  "sentenceSets": [
+    {
+      "sentence": "The algorithm sorted through millions of records in seconds, identifying patterns invisible to the human eye.",
+      "answerChoices": [
+        { "distractor": "program", "closeness": 3, "reasoning": "Program denotes software, which implements an algorithm, but is broader and doesn't specify the step-by-step procedure." },
+        { "distractor": "procedure", "closeness": 3, "reasoning": "Procedure denotes a series of steps, similar to algorithm, but is broader and doesn't emphasize the computational nature." },
+        { "distractor": "method", "closeness": 3, "reasoning": "Method denotes a way of doing something, but doesn't specify the computational or step-by-step nature of algorithm." },
+        { "distractor": "system", "closeness": 3, "reasoning": "System denotes an organized set of parts, but doesn't emphasize the procedural steps or computational aspect." },
+        { "distractor": "formula", "closeness": 2, "reasoning": "Formula denotes a mathematical relationship, but doesn't convey the step-by-step procedure that algorithm requires." },
+        { "distractor": "rule", "closeness": 2, "reasoning": "Rule denotes a governing principle, but doesn't convey the sequence of steps that makes an algorithm." },
+        { "distractor": "process", "closeness": 2, "reasoning": "Process denotes a series of actions, but is less specific than algorithm about being computational and deterministic." },
+        { "distractor": "protocol", "closeness": 2, "reasoning": "Protocol denotes a set of rules, but doesn't emphasize the computational or problem-solving aspect." },
+        { "distractor": "randomness", "closeness": 1, "reasoning": "Randomness is unpredictable; an algorithm follows deterministic steps—opposite properties." },
+        { "distractor": "intuition", "closeness": 1, "reasoning": "Intuition is guesswork; an algorithm is a defined, step-by-step procedure—opposite approaches." },
+        { "distractor": "chaos", "closeness": 1, "reasoning": "Chaos is disorder; an algorithm is an ordered set of steps—opposite characteristics." }
+      ]
+    },
+    {
+      "sentence": "The social media algorithm curates content based on user behavior, creating personalized feeds.",
+      "answerChoices": [
+        { "distractor": "system", "closeness": 3, "reasoning": "System denotes an organized set of parts, but doesn't specify the procedural or computational nature of algorithm." },
+        { "distractor": "program", "closeness": 3, "reasoning": "Program denotes software, which implements an algorithm, but is broader and doesn't specify the procedure." },
+        { "distractor": "method", "closeness": 3, "reasoning": "Method denotes a way of doing something, but doesn't specify the computational nature of algorithm." },
+        { "distractor": "process", "closeness": 3, "reasoning": "Process denotes a series of actions, but is less specific than algorithm about being computational." },
+        { "distractor": "mechanism", "closeness": 2, "reasoning": "Mechanism denotes how something works, but doesn't specify the computational or step-by-step nature." },
+        { "distractor": "framework", "closeness": 2, "reasoning": "Framework denotes a supporting structure, but doesn't emphasize the computational or procedural aspect." },
+        { "distractor": "rule", "closeness": 2, "reasoning": "Rule denotes a governing principle, but doesn't convey the sequence of computational steps." },
+        { "distractor": "filter", "closeness": 2, "reasoning": "Filter describes the function of selecting content, but doesn't denote the computational procedure itself." },
+        { "distractor": "randomness", "closeness": 1, "reasoning": "Randomness is unpredictable; an algorithm follows determined computational steps—opposite properties." },
+        { "distractor": "chance", "closeness": 1, "reasoning": "Chance is unpredictable; an algorithm is a deterministic computational procedure—opposite approaches." },
+        { "distractor": "luck", "closeness": 1, "reasoning": "Luck is uncontrollable; an algorithm is a controlled, computational process—opposite qualities." }
+      ]
+    },
+    {
+      "sentence": "Machine learning algorithms improve their performance without being explicitly programmed for every scenario.",
+      "answerChoices": [
+        { "distractor": "program", "closeness": 3, "reasoning": "Program denotes software code, which implements an algorithm, but is broader and less specific about procedures." },
+        { "distractor": "method", "closeness": 3, "reasoning": "Method denotes a way of doing something, but doesn't specify the computational learning aspect." },
+        { "distractor": "procedure", "closeness": 3, "reasoning": "Procedure denotes steps, but doesn't convey the adaptive, learning-based nature of the algorithm." },
+        { "distractor": "system", "closeness": 3, "reasoning": "System denotes an organized set, but doesn't specify the computational or adaptive nature." },
+        { "distractor": "model", "closeness": 2, "reasoning": "Model denotes a representation, which an algorithm creates, but doesn't denote the procedural steps themselves." },
+        { "distractor": "approach", "closeness": 2, "reasoning": "Approach denotes a way of tackling something, but is less specific than algorithm about being computational." },
+        { "distractor": "technique", "closeness": 2, "reasoning": "Technique denotes a method, but doesn't emphasize the computational or adaptive aspect." },
+        { "distractor": "formula", "closeness": 2, "reasoning": "Formula denotes a mathematical relationship, but doesn't convey the adaptive, learning aspect." },
+        { "distractor": "instinct", "closeness": 1, "reasoning": "Instinct is innate; algorithms learn from data—opposite sources of performance." },
+        { "distractor": "intuition", "closeness": 1, "reasoning": "Intuition is guesswork; algorithms follow computational procedures and learn systematically—opposite approaches." },
+        { "distractor": "randomness", "closeness": 1, "reasoning": "Randomness is unpredictable; algorithms improve through systematic, data-driven learning—opposite processes." }
+      ]
+    }
+  ]
+}

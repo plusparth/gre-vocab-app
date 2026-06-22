@@ -1,0 +1,53 @@
+{
+  "word": "illicit",
+  "sentenceSets": [
+    {
+      "sentence": "The investigation uncovered an illicit arrangement that had persisted for years because everyone with knowledge had something to lose.",
+      "answerChoices": [
+        { "distractor": "informal", "closeness": 3, "reasoning": "Both describe unauthorized activity, but 'informal' means not following official procedures, whereas the sentence emphasizes that the arrangement is unlawful and corrupt." },
+        { "distractor": "dubious", "closeness": 3, "reasoning": "Both suggest questionable activity, but 'dubious' means uncertain or suspect, whereas the sentence specifies that the arrangement is explicitly unlawful." },
+        { "distractor": "covert", "closeness": 3, "reasoning": "Both describe hidden activity, but 'covert' simply means secret, whereas the sentence emphasizes that the arrangement is unlawful, not just hidden." },
+        { "distractor": "shady", "closeness": 3, "reasoning": "Both suggest suspicious activity, but 'shady' is colloquial for questionable, whereas the sentence specifies an unlawful arrangement." },
+        { "distractor": "clandestine", "closeness": 2, "reasoning": "Both describe secretive activity, but 'clandestine' emphasizes concealment, whereas the sentence stresses that the arrangement is explicitly unlawful." },
+        { "distractor": "underhand", "closeness": 2, "reasoning": "Both describe dishonest behavior, but 'underhand' emphasizes deceptive methods, whereas the sentence focuses on the unlawful nature." },
+        { "distractor": "improper", "closeness": 2, "reasoning": "Both describe rule-breaking behavior, but 'improper' suggests violation of etiquette or standards, whereas the sentence emphasizes actual unlawfulness." },
+        { "distractor": "lawful", "closeness": 1, "reasoning": "The sentence describes an unlawful arrangement requiring concealment; 'lawful' means legal and permitted, the direct opposite." },
+        { "distractor": "legitimate", "closeness": 1, "reasoning": "The sentence describes an unlawful arrangement; 'legitimate' means legal and valid, opposite to illicit." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "The sentence describes a hidden arrangement persisting through mutual complicity; 'transparent' means open and honest, opposite to illicit secrecy." },
+        { "distractor": "sanctioned", "closeness": 1, "reasoning": "The sentence describes an unlawful arrangement; 'sanctioned' means officially approved, the opposite of illicit activity." }
+      ]
+    },
+    {
+      "sentence": "Though the marriage was legally dissolved, rumors of an illicit affair had preceded the separation for months, poisoning their social standing in the small community.",
+      "answerChoices": [
+        { "distractor": "extramarital", "closeness": 3, "reasoning": "Both describe infidelity, but 'extramarital' simply means outside marriage, whereas the sentence emphasizes that it is unlawful or socially forbidden." },
+        { "distractor": "indiscreet", "closeness": 3, "reasoning": "Both describe inappropriate behavior, but 'indiscreet' emphasizes lack of caution or judgment, whereas the sentence stresses that the affair is forbidden or unlawful." },
+        { "distractor": "scandalous", "closeness": 3, "reasoning": "Both describe socially damaging behavior, but 'scandalous' emphasizes notoriety, whereas the sentence focuses on the forbidden or unlawful nature." },
+        { "distractor": "unseemly", "closeness": 3, "reasoning": "Both describe inappropriate conduct, but 'unseemly' emphasizes violation of propriety, whereas the sentence stresses forbidden or unlawful activity." },
+        { "distractor": "adulterous", "closeness": 2, "reasoning": "Both describe infidelity, but 'adulterous' describes the act of adultery itself, not necessarily the unlawful nature the sentence emphasizes." },
+        { "distractor": "immoral", "closeness": 2, "reasoning": "Both describe ethically wrong behavior, but 'immoral' is about morality, whereas the sentence emphasizes the unlawful or forbidden nature." },
+        { "distractor": "unsavory", "closeness": 2, "reasoning": "Both describe socially offensive conduct, but 'unsavory' emphasizes unpleasantness, whereas the sentence stresses unlawfulness." },
+        { "distractor": "sanctioned", "closeness": 1, "reasoning": "The sentence describes a forbidden affair; 'sanctioned' means officially approved, the opposite of illicit relationships." },
+        { "distractor": "honorable", "closeness": 1, "reasoning": "The sentence describes forbidden conduct damaging reputation; 'honorable' means worthy of respect, opposite to illicit behavior." },
+        { "distractor": "virtuous", "closeness": 1, "reasoning": "The sentence describes an unlawful, forbidden affair; 'virtuous' means morally excellent, opposite to illicit conduct." },
+        { "distractor": "proper", "closeness": 1, "reasoning": "The sentence describes forbidden relationship conduct; 'proper' means correct and acceptable, opposite to illicit behavior." }
+      ]
+    },
+    {
+      "sentence": "Border guards discovered an illicit cargo hidden in false compartments of the truck—a haul of endangered animal parts destined for black market buyers.",
+      "answerChoices": [
+        { "distractor": "contraband", "closeness": 3, "reasoning": "Both describe smuggled goods, but 'contraband' is goods prohibited by law, whereas the sentence emphasizes the smuggling activity as unlawful." },
+        { "distractor": "stolen", "closeness": 3, "reasoning": "Both describe illegally obtained goods, but 'stolen' focuses on theft, whereas the sentence emphasizes goods forbidden by law." },
+        { "distractor": "undeclared", "closeness": 3, "reasoning": "Both describe goods not reported to authorities, but 'undeclared' means simply not reported, whereas the sentence specifies unlawful goods." },
+        { "distractor": "unregistered", "closeness": 3, "reasoning": "Both describe goods without official documentation, but 'unregistered' emphasizes lack of paperwork, whereas the sentence stresses the goods are unlawfully prohibited." },
+        { "distractor": "smuggled", "closeness": 2, "reasoning": "Both describe illegal transport of goods, but 'smuggled' focuses on the method of transport, whereas the sentence emphasizes the forbidden nature of the goods themselves." },
+        { "distractor": "dangerous", "closeness": 2, "reasoning": "Both describe problematic cargo, but 'dangerous' emphasizes risk and harm, whereas the sentence focuses on unlawful status." },
+        { "distractor": "prohibited", "closeness": 2, "reasoning": "Both describe forbidden goods, but 'prohibited' is neutral about legality, whereas the sentence emphasizes unlawfulness." },
+        { "distractor": "permitted", "closeness": 1, "reasoning": "The sentence describes unlawful cargo forbidden by law; 'permitted' means allowed, the direct opposite of illicit." },
+        { "distractor": "legitimate", "closeness": 1, "reasoning": "The sentence describes illegal animal parts; 'legitimate' means legal and lawful, opposite to illicit cargo." },
+        { "distractor": "authentic", "closeness": 1, "reasoning": "The sentence describes contraband; 'authentic' means genuine and real, which is unrelated to the unlawful nature described." },
+        { "distractor": "licensed", "closeness": 1, "reasoning": "The sentence describes unlawfully prohibited animal parts; 'licensed' means authorized by law, opposite to illicit goods." }
+      ]
+    }
+  ]
+}

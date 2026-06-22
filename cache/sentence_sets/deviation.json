@@ -1,0 +1,53 @@
+{
+  "word": "deviation",
+  "sentenceSets": [
+    {
+      "sentence": "Any deviation from the protocol required written approval before the work could continue.",
+      "answerChoices": [
+        { "distractor": "departure", "closeness": 3, "reasoning": "Departure implies leaving a starting point; however, the sentence's emphasis on required written approval before proceeding suggests it is not merely about leaving something but about any specific alteration to the established rules." },
+        { "distractor": "variance", "closeness": 3, "reasoning": "Variance is statistically neutral and describes a range of acceptable differences; the sentence's requirement for written approval implies that no variation is acceptable without explicit permission." },
+        { "distractor": "digression", "closeness": 3, "reasoning": "Digression suggests a brief or temporary wandering from a main point; the protocol context indicates the sentence is about systematic procedural changes, not momentary tangents." },
+        { "distractor": "divergence", "closeness": 3, "reasoning": "Divergence emphasizes the act of splitting into multiple paths; the sentence describes a singular alteration to one protocol, not a branching into alternatives." },
+        { "distractor": "aberration", "closeness": 2, "reasoning": "Aberration implies something rare or anomalous; the sentence's blanket requirement for approval suggests it applies to any change, whether common or unusual." },
+        { "distractor": "anomaly", "closeness": 2, "reasoning": "Anomaly emphasizes irregularity or something that does not fit the pattern; the sentence frames the change as requiring approval, not as something inherently strange or unusual." },
+        { "distractor": "irregularity", "closeness": 2, "reasoning": "Irregularity focuses on lack of uniformity; the sentence emphasizes procedural control and approval rather than simply noting something is not regular." },
+        { "distractor": "deflection", "closeness": 2, "reasoning": "Deflection suggests pushing something away or changing its course; the protocol context is administrative rather than about physical or avoidant action." },
+        { "distractor": "compliance", "closeness": 1, "reasoning": "Compliance means following rules, which is the opposite of what the sentence describes as requiring special approval." },
+        { "distractor": "adherence", "closeness": 1, "reasoning": "Adherence means staying true to a standard, directly opposite to the meaning of the blank." },
+        { "distractor": "uniformity", "closeness": 1, "reasoning": "Uniformity describes consistency with a pattern; the sentence is about moves away from the established protocol." }
+      ]
+    },
+    {
+      "sentence": "The coach noticed a sudden deviation in the athlete's training regimen and questioned whether personal problems were affecting performance.",
+      "answerChoices": [
+        { "distractor": "variance", "closeness": 3, "reasoning": "Variance is neutral and suggests expected, acceptable differences; the sentence's emphasis on the coach questioning whether problems are involved indicates something unexpected and concerning, not routine variation." },
+        { "distractor": "alteration", "closeness": 3, "reasoning": "Alteration is a broad term for change; the sentence's context of the coach suspecting personal problems suggests a specific kind of unwanted change, not just any modification." },
+        { "distractor": "fluctuation", "closeness": 3, "reasoning": "Fluctuation implies temporary, cyclical changes; the word sudden in the sentence combined with the coach's suspicion suggests a deliberate shift or break from normal habit." },
+        { "distractor": "digression", "closeness": 3, "reasoning": "Digression refers to straying from a topic or plan; while it implies a change, the sentence's focus on the coach noticing a change in training intensity or method, not a mental or conversational tangent, makes this less precise." },
+        { "distractor": "anomaly", "closeness": 2, "reasoning": "Anomaly emphasizes something strange or unusual; the sentence frames it as a change the coach notices, suggesting something more specific than mere strangeness." },
+        { "distractor": "shift", "closeness": 2, "reasoning": "Shift is a general term for movement or change; the sentence's specific context of training regimen and suspected personal problems calls for a term that emphasizes the degree or nature of the change more distinctly." },
+        { "distractor": "modification", "closeness": 2, "reasoning": "Modification suggests a deliberate, controlled change made to improve something; the sentence's connection to personal problems suggests an unplanned, reactive change rather than an intentional adjustment." },
+        { "distractor": "departure", "closeness": 2, "reasoning": "Departure emphasizes moving away from something; while applicable, the sentence is specifically about a change observed in training habits, not a general or abstract leaving behind." },
+        { "distractor": "consistency", "closeness": 1, "reasoning": "Consistency means maintaining sameness; the sentence describes a sudden change, the opposite of consistency." },
+        { "distractor": "regularity", "closeness": 1, "reasoning": "Regularity means following a predictable pattern; the sentence explicitly states the change was sudden and noticed by the coach, contradicting regularity." },
+        { "distractor": "routine", "closeness": 1, "reasoning": "Routine refers to standard, habitual practice; the sentence describes breaking from that established pattern." }
+      ]
+    },
+    {
+      "sentence": "The data showed a significant deviation from the predicted curve, suggesting the model needed revision.",
+      "answerChoices": [
+        { "distractor": "variance", "closeness": 3, "reasoning": "Variance in statistics can describe spread or difference, but it carries a connotation of expected, measurable distribution; the sentence's word significant and the conclusion that the model needs revision imply a gap larger or more meaningful than expected variance." },
+        { "distractor": "discrepancy", "closeness": 3, "reasoning": "Discrepancy means a difference or conflict; it is close but tends to emphasize the existence of a gap without the quantitative or measurable dimension that deviation carries in mathematical/scientific contexts." },
+        { "distractor": "divergence", "closeness": 3, "reasoning": "Divergence implies paths or values growing apart over time; the sentence treats the gap as a fixed observation between data and prediction, not as a process of growing apart." },
+        { "distractor": "irregularity", "closeness": 3, "reasoning": "Irregularity focuses on lack of uniformity; the sentence's emphasis on a comparison to a predicted curve implies a specific, measured difference rather than general non-uniformity." },
+        { "distractor": "gap", "closeness": 2, "reasoning": "Gap is a general term for any space or difference; the sentence's scientific context and phrase predicted curve call for a term that emphasizes measurement or quantifiable difference." },
+        { "distractor": "anomaly", "closeness": 2, "reasoning": "Anomaly emphasizes something unusual or irregular; while the data is not matching prediction, the sentence frames it as a measurable difference, not just an oddity." },
+        { "distractor": "error", "closeness": 2, "reasoning": "Error suggests a mistake in measurement or calculation; the sentence describes a difference between data and prediction, not necessarily an error in data collection." },
+        { "distractor": "distortion", "closeness": 2, "reasoning": "Distortion implies something has been twisted or misshapen; the sentence describes a difference between actual and predicted values, not necessarily a warping or twisting." },
+        { "distractor": "accuracy", "closeness": 1, "reasoning": "Accuracy means correctness; the sentence describes a gap from what was expected, the opposite of accuracy." },
+        { "distractor": "alignment", "closeness": 1, "reasoning": "Alignment means matching up; the sentence shows data that does not match the predicted curve, opposite to alignment." },
+        { "distractor": "conformity", "closeness": 1, "reasoning": "Conformity means matching a standard or expectation; the sentence explicitly shows a significant gap from what was predicted." }
+      ]
+    }
+  ]
+}

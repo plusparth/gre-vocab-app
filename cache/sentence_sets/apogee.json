@@ -1,0 +1,53 @@
+{
+  "word": "apogee",
+  "sentenceSets": [
+    {
+      "sentence": "The company reached the apogee of its influence in the late nineties, before a series of scandals diminished its standing.",
+      "answerChoices": [
+        { "distractor": "peak", "closeness": 3, "reasoning": "Close -- 'peak' means the highest point, which apogee conveys, but apogee specifically refers to the farthest orbital point or, metaphorically, the zenith of power and influence." },
+        { "distractor": "summit", "closeness": 3, "reasoning": "Close -- 'summit' also means the highest point; however, apogee carries a sense of orbital or circular motion reaching maximum height, while summit emphasizes just reaching the top." },
+        { "distractor": "zenith", "closeness": 3, "reasoning": "Close -- 'zenith' means the highest point in the sky or figuratively the peak; while nearly identical, apogee has a more technical, astronomical connotation." },
+        { "distractor": "climax", "closeness": 3, "reasoning": "Close -- 'climax' indicates the most intense moment; while the company's influence reached its highest point, the sentence emphasizes sustained influence rather than a moment of crisis or intensity." },
+        { "distractor": "beginning", "closeness": 2, "reasoning": "Incorrect -- 'beginning' refers to the start; the sentence indicates the late nineties was when influence was at its greatest, not when it began." },
+        { "distractor": "foundation", "closeness": 2, "reasoning": "Incorrect -- 'foundation' means the base or underlying support; the sentence refers to the company's point of greatest influence, not its base." },
+        { "distractor": "expansion", "closeness": 2, "reasoning": "Incorrect -- 'expansion' means growth or increase; while expansion may lead to apogee, the sentence specifically denotes the maximum point, not the process of growing." },
+        { "distractor": "transition", "closeness": 2, "reasoning": "Incorrect -- 'transition' means a change from one state to another; the sentence describes a stable period of maximum influence, then a decline." },
+        { "distractor": "decline", "closeness": 1, "reasoning": "Opposite -- 'decline' means to fall or decrease; the sentence shows influence declined after reaching the apogee." },
+        { "distractor": "nadir", "closeness": 1, "reasoning": "Opposite -- 'nadir' means the lowest point, the direct opposite of apogee (the highest point)." },
+        { "distractor": "obscurity", "closeness": 1, "reasoning": "Incorrect -- 'obscurity' means being unknown or unimportant; the sentence describes the company's position of greatest prominence, not obscurity." }
+      ]
+    },
+    {
+      "sentence": "The violinist's apogee came during her late forties, when her technical mastery and emotional depth reached their most perfect union.",
+      "answerChoices": [
+        { "distractor": "triumph", "closeness": 3, "reasoning": "Close -- 'triumph' indicates victory or success; while the description suggests triumph, apogee specifically refers to the highest point of development or achievement, not the moment of victory itself." },
+        { "distractor": "achievement", "closeness": 3, "reasoning": "Close -- 'achievement' means an accomplishment; while reaching one's apogee is an achievement, apogee emphasizes the pinnacle of development over time, not a single accomplishment." },
+        { "distractor": "maturity", "closeness": 3, "reasoning": "Close -- 'maturity' suggests full development; while the sentence shows the violinist's full potential, apogee emphasizes the highest point rather than the state of being mature." },
+        { "distractor": "moment", "closeness": 3, "reasoning": "Close -- 'moment' refers to a point in time when something occurs; while apogee occurs at a time, it denotes the culminating point of a trajectory, not merely a moment." },
+        { "distractor": "training", "closeness": 2, "reasoning": "Incorrect -- 'training' refers to instruction and practice; while training led to the apogee, the sentence describes the culmination, not the training process." },
+        { "distractor": "performance", "closeness": 2, "reasoning": "Incorrect -- 'performance' is the act of playing; the sentence refers to when technical and emotional elements were at their finest, not to a specific performance." },
+        { "distractor": "recognition", "closeness": 2, "reasoning": "Incorrect -- 'recognition' means acknowledgment of excellence; while apogee may bring recognition, the sentence focuses on the artist's internal development." },
+        { "distractor": "competition", "closeness": 2, "reasoning": "Incorrect -- 'competition' involves rivalry; the sentence addresses the violinist's personal development and mastery, not competition." },
+        { "distractor": "decline", "closeness": 1, "reasoning": "Opposite -- 'decline' means falling away or deterioration; apogee is the point of greatest achievement, before any decline." },
+        { "distractor": "beginning", "closeness": 1, "reasoning": "Opposite -- 'beginning' refers to the start; the apogee is the culminating point of a lifetime of development." },
+        { "distractor": "struggle", "closeness": 1, "reasoning": "Incorrect -- 'struggle' means to have difficulty; while struggle may precede apogee, the sentence describes the point of harmonious mastery, not struggle." }
+      ]
+    },
+    {
+      "sentence": "Historians argue that the Roman Empire's territorial apogee—when it controlled land from Britain to Mesopotamia—lasted only decades before contraction began.",
+      "answerChoices": [
+        { "distractor": "expansion", "closeness": 3, "reasoning": "Close -- 'expansion' means increasing territory; while the empire was expanding toward its apogee, the sentence marks the specific point of maximum extent, not the process of expanding." },
+        { "distractor": "dominance", "closeness": 3, "reasoning": "Close -- 'dominance' means superiority or control; apogee emphasizes the geographic peak of territorial extent rather than the degree or nature of control." },
+        { "distractor": "empire", "closeness": 3, "reasoning": "Close -- 'empire' is the political entity itself; apogee describes the point of maximum territorial extent, not the empire as a whole." },
+        { "distractor": "boundary", "closeness": 3, "reasoning": "Close -- 'boundary' refers to borders; while the apogee involves territory with specific boundaries, apogee emphasizes the maximum extent reached, not the boundaries themselves." },
+        { "distractor": "capital", "closeness": 2, "reasoning": "Incorrect -- 'capital' refers to the central city; the sentence discusses territorial extent, not the location of political power." },
+        { "distractor": "conflict", "closeness": 2, "reasoning": "Incorrect -- 'conflict' means warfare or struggle; the sentence addresses the empire's maximum territorial reach, not military conflict." },
+        { "distractor": "legacy", "closeness": 2, "reasoning": "Incorrect -- 'legacy' means what is left behind; the sentence concerns the empire's territorial extent at a specific moment, not its lasting impact." },
+        { "distractor": "alliance", "closeness": 2, "reasoning": "Incorrect -- 'alliance' refers to partnerships; the sentence addresses territorial control, not political alliances." },
+        { "distractor": "decline", "closeness": 1, "reasoning": "Opposite -- 'decline' means reduction or falling away; the sentence shows contraction began after the apogee, indicating the opposite state." },
+        { "distractor": "fragmentation", "closeness": 1, "reasoning": "Opposite -- 'fragmentation' means breaking into pieces; apogee represents maximum unity of territory, the opposite of fragmentation." },
+        { "distractor": "poverty", "closeness": 1, "reasoning": "Incorrect -- 'poverty' refers to lack of wealth; the sentence concerns territorial and political extent, not economic conditions." }
+      ]
+    }
+  ]
+}

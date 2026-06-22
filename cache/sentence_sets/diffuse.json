@@ -1,0 +1,53 @@
+{
+  "word": "diffuse",
+  "sentenceSets": [
+    {
+      "sentence": "His argument was so diffuse that even sympathetic readers had difficulty identifying its central claim.",
+      "answerChoices": [
+        { "distractor": "unclear", "closeness": 3, "reasoning": "Unclear describes difficulty understanding; while his argument is unclear, diffuse more specifically means spread over a wide area without focus rather than just being difficult to understand." },
+        { "distractor": "vague", "closeness": 3, "reasoning": "Vague describes lacking clear definition; while his argument is vague, diffuse more specifically means scattered and spread out rather than just imprecise." },
+        { "distractor": "confusing", "closeness": 3, "reasoning": "Confusing describes causing confusion; while his argument confuses, diffuse more specifically means spread thin and lacking concentration." },
+        { "distractor": "rambling", "closeness": 3, "reasoning": "Rambling describes wandering from topic to topic; while his argument rambles, diffuse more technically means spread thinly rather than the wandering quality." },
+        { "distractor": "incoherent", "closeness": 2, "reasoning": "Incoherent describes not making sense as a whole; while his argument may be incoherent, diffuse specifically means spread thinly without focus." },
+        { "distractor": "muddled", "closeness": 2, "reasoning": "Muddled describes confused mixing; while his argument is muddled, diffuse more specifically means scattered and spread thinly." },
+        { "distractor": "disorganized", "closeness": 2, "reasoning": "Disorganized describes lacking order; while his argument is disorganized, diffuse more specifically means spread thinly over a wide area." },
+        { "distractor": "lengthy", "closeness": 2, "reasoning": "Lengthy describes being long; while his argument may be lengthy, diffuse more specifically means spread thinly rather than just long." },
+        { "distractor": "focused", "closeness": 1, "reasoning": "Focused means concentrated on a main point; the sentence describes difficulty identifying a central claim." },
+        { "distractor": "concentrated", "closeness": 1, "reasoning": "Concentrated means gathered closely together; the sentence shows the argument spread thin." },
+        { "distractor": "concise", "closeness": 1, "reasoning": "Concise means brief and clear; the sentence describes difficulty identifying the main claim." }
+      ]
+    },
+    {
+      "sentence": "The diffuse light filtering through the trees created a soft, dappled effect across the forest floor.",
+      "answerChoices": [
+        { "distractor": "dim", "closeness": 3, "reasoning": "Dim describes not bright; while the light is dim, diffuse more specifically means spread out and scattered rather than just dim." },
+        { "distractor": "scattered", "closeness": 3, "reasoning": "Scattered describes spread out in different places; while the light is scattered, diffuse more technically describes the specific quality of spreading thinly." },
+        { "distractor": "soft", "closeness": 3, "reasoning": "Soft describes gentle and not harsh; while the light is soft, diffuse more specifically emphasizes the spreading and dispersing quality." },
+        { "distractor": "muted", "closeness": 3, "reasoning": "Muted describes subdued or toned down; while the light is muted, diffuse more specifically means spread out and dispersed." },
+        { "distractor": "filtered", "closeness": 2, "reasoning": "Filtered describes passing through a filter; while the light is filtered, diffuse more specifically emphasizes the spreading and dispersing of light." },
+        { "distractor": "weak", "closeness": 2, "reasoning": "Weak describes lack of strength; while the light is weak, diffuse more specifically means spread thinly rather than just weak." },
+        { "distractor": "subdued", "closeness": 2, "reasoning": "Subdued describes toned down or restrained; while the light is subdued, diffuse more technically means spread out." },
+        { "distractor": "translucent", "closeness": 2, "reasoning": "Translucent describes allowing some light through; while the light appears translucent, diffuse more specifically means spread and dispersed." },
+        { "distractor": "bright", "closeness": 1, "reasoning": "Bright describes strong and clear light; the sentence describes soft, scattered light." },
+        { "distractor": "concentrated", "closeness": 1, "reasoning": "Concentrated means gathered closely together; the sentence describes light spread thinly and scattered." },
+        { "distractor": "direct", "closeness": 1, "reasoning": "Direct means straight and unobstructed; the sentence describes light spread and scattered through trees." }
+      ]
+    },
+    {
+      "sentence": "The organization's diffuse structure, with decision-making power spread across multiple departments, often led to conflicting policies.",
+      "answerChoices": [
+        { "distractor": "decentralized", "closeness": 3, "reasoning": "Decentralized describes power distributed away from a single center; while the organization is decentralized, diffuse more specifically means spread thinly without clear concentration." },
+        { "distractor": "fragmented", "closeness": 3, "reasoning": "Fragmented describes broken into fragments; while the structure is fragmented, diffuse more specifically means spread thinly rather than broken." },
+        { "distractor": "distributed", "closeness": 3, "reasoning": "Distributed means spread across many parts; while the power is distributed, diffuse more specifically implies spread thinly without clear focus." },
+        { "distractor": "dispersed", "closeness": 3, "reasoning": "Dispersed means scattered in different directions; while the structure is dispersed, diffuse more specifically emphasizes the lack of clear concentration." },
+        { "distractor": "loose", "closeness": 2, "reasoning": "Loose describes not tightly connected; while the structure is loose, diffuse more specifically means spread thinly and without concentration." },
+        { "distractor": "chaotic", "closeness": 2, "reasoning": "Chaotic describes disordered and confused; while the structure may be chaotic, diffuse more specifically means spread thinly." },
+        { "distractor": "disorganized", "closeness": 2, "reasoning": "Disorganized describes lacking order; while the structure is disorganized, diffuse more specifically means spread thinly." },
+        { "distractor": "complicated", "closeness": 2, "reasoning": "Complicated describes being complex; while the structure is complicated, diffuse more specifically means spread without clear focus." },
+        { "distractor": "centralized", "closeness": 1, "reasoning": "Centralized means gathering power in a center; the sentence describes power spread across multiple departments." },
+        { "distractor": "unified", "closeness": 1, "reasoning": "Unified means joined into one whole; the sentence describes conflicting policies from dispersed power." },
+        { "distractor": "streamlined", "closeness": 1, "reasoning": "Streamlined means designed for efficiency; the sentence shows a structure leading to conflicting policies." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "discourse",
+  "sentenceSets": [
+    {
+      "sentence": "The philosopher's discourse on justice drew a larger audience than his colleagues had thought the subject could attract.",
+      "answerChoices": [
+        { "distractor": "silence", "closeness": 3, "reasoning": "Silence is absence of speech; discourse is the opposite — verbal discussion and exchange of ideas." },
+        { "distractor": "monologue", "closeness": 3, "reasoning": "A monologue is a single speaker's extended speech; discourse implies interchange of ideas between parties." },
+        { "distractor": "performance", "closeness": 3, "reasoning": "A performance is an entertainment; the sentence emphasizes intellectual discussion, not theatrical presentation." },
+        { "distractor": "lecture", "closeness": 3, "reasoning": "A lecture is one-way instruction; discourse implies back-and-forth interchange of ideas, not unilateral teaching." },
+        { "distractor": "presentation", "closeness": 2, "reasoning": "A presentation is a formal talk to an audience; while a philosopher's discourse might take presentation form, discourse emphasizes dialogue rather than display." },
+        { "distractor": "speech", "closeness": 2, "reasoning": "A speech is formalized talk; discourse emphasizes the interchange of ideas, not just organized speaking." },
+        { "distractor": "address", "closeness": 2, "reasoning": "An address is formal speech to an assembly; while the philosopher may have given an address, discourse emphasizes the intellectual discussion." },
+        { "distractor": "noise", "closeness": 1, "reasoning": "Noise is random, unorganized sound; discourse is organized, meaningful verbal exchange." },
+        { "distractor": "chatter", "closeness": 1, "reasoning": "Chatter is idle, unimportant talk; the sentence indicates substantive philosophical discussion, not superficial chatter." },
+        { "distractor": "babble", "closeness": 1, "reasoning": "Babble is confused or meaningless speech; philosophical discourse on justice is organized and meaningful." },
+        { "distractor": "fiction", "closeness": 1, "reasoning": "Fiction is invented narrative; the sentence shows the philosopher engaging in intellectual discussion, not storytelling." }
+      ]
+    },
+    {
+      "sentence": "Her doctoral dissertation opened up a new discourse on climate adaptation strategies, sparking debate across multiple disciplines.",
+      "answerChoices": [
+        { "distractor": "silence", "closeness": 3, "reasoning": "Silence is absence of discussion; the sentence shows her work 'sparked debate,' creating discourse, not silence." },
+        { "distractor": "consensus", "closeness": 3, "reasoning": "Consensus is universal agreement; the sentence shows 'debate' being sparked, indicating disagreement and discussion rather than consensus." },
+        { "distractor": "conclusion", "closeness": 3, "reasoning": "Conclusion is the end of discussion; discourse is ongoing interchange of ideas." },
+        { "distractor": "resolution", "closeness": 3, "reasoning": "Resolution is settling a matter; the sentence shows opening up discussion ('opened up'), not resolving it." },
+        { "distractor": "experiment", "closeness": 2, "reasoning": "An experiment is a test of a hypothesis; the dissertation opened a discourse (discussion), not conducted an experiment." },
+        { "distractor": "study", "closeness": 2, "reasoning": "A study is research investigation; while the dissertation is a study, discourse refers to the intellectual conversation it sparked." },
+        { "distractor": "theory", "closeness": 2, "reasoning": "Theory is a system of ideas; discourse refers to the discussion and debate of ideas, not the theoretical system itself." },
+        { "distractor": "propaganda", "closeness": 1, "reasoning": "Propaganda is one-sided persuasion; discourse across multiple disciplines suggests genuine intellectual exchange, not propaganda." },
+        { "distractor": "advertisement", "closeness": 1, "reasoning": "Advertisement is promotion; discourse is intellectual discussion, not promotional messaging." },
+        { "distractor": "entertainment", "closeness": 1, "reasoning": "Entertainment is amusement; discourse is serious intellectual interchange about climate strategy." },
+        { "distractor": "rumor", "closeness": 1, "reasoning": "Rumor is unverified talk; discourse in multiple academic disciplines is based on scholarly evidence and reasoning." }
+      ]
+    },
+    {
+      "sentence": "The national discourse about healthcare reform shifted dramatically after the leaked report exposed systemic inefficiencies.",
+      "answerChoices": [
+        { "distractor": "apathy", "closeness": 3, "reasoning": "Apathy is indifference and lack of engagement; the sentence shows national discourse shifting, indicating active engagement." },
+        { "distractor": "silence", "closeness": 3, "reasoning": "Silence is absence of discussion; the sentence shows discourse shifting (changing through discussion), not becoming silent." },
+        { "distractor": "consensus", "closeness": 3, "reasoning": "Consensus is universal agreement; a dramatic shift in discourse suggests disagreement and argument, not unanimous agreement." },
+        { "distractor": "censorship", "closeness": 3, "reasoning": "Censorship is suppression of speech; the sentence shows discourse changing through exposure, not being suppressed." },
+        { "distractor": "media coverage", "closeness": 2, "reasoning": "Media coverage is news reporting; while media may facilitate discourse, the sentence emphasizes the public conversation itself." },
+        { "distractor": "investigation", "closeness": 2, "reasoning": "Investigation is systematic inquiry; while the leaked report resulted from investigation, the sentence refers to the public discussion it sparked." },
+        { "distractor": "propaganda", "closeness": 2, "reasoning": "Propaganda is one-sided persuasion; discourse implies genuine dialogue and exchange, not propaganda." },
+        { "distractor": "indifference", "closeness": 1, "reasoning": "Indifference is lack of concern; the dramatic shift in discourse proves the opposite — strong national engagement." },
+        { "distractor": "stagnation", "closeness": 1, "reasoning": "Stagnation is lack of change or progress; the sentence shows discourse 'shifted dramatically,' the opposite of stagnation." },
+        { "distractor": "suppression", "closeness": 1, "reasoning": "Suppression is prevention of expression; the leaked report sparked discourse, increasing expression, not suppressing it." },
+        { "distractor": "fracture", "closeness": 1, "reasoning": "Fracture implies division and breaking; while disagreement may follow, discourse refers to discussion itself, not fragmentation." }
+      ]
+    }
+  ]
+}

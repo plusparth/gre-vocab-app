@@ -1,0 +1,53 @@
+{
+  "word": "discount",
+  "sentenceSets": [
+    {
+      "sentence": "She discounted his objection, having heard the same argument raised and refuted on three previous occasions.",
+      "answerChoices": [
+        { "distractor": "considered", "closeness": 3, "reasoning": "To consider is to give thought to something; discounting involves rejecting its significance, the opposite of thoughtful consideration." },
+        { "distractor": "credited", "closeness": 3, "reasoning": "To credit is to give weight or validity to something; discounting involves denying validity." },
+        { "distractor": "validated", "closeness": 3, "reasoning": "To validate is to confirm as correct; discounting does the opposite by treating the objection as invalid." },
+        { "distractor": "entertained", "closeness": 3, "reasoning": "To entertain an idea is to give it consideration; the sentence shows rejecting the idea as unworthy of further thought." },
+        { "distractor": "acknowledged", "closeness": 2, "reasoning": "To acknowledge is to recognize something; discounting involves denying its significance despite the repetition." },
+        { "distractor": "accepted", "closeness": 2, "reasoning": "To accept is to receive favorably; discounting involves rejecting or minimizing." },
+        { "distractor": "regarded", "closeness": 2, "reasoning": "To regard is to view or consider; the sentence shows refusing to regard the objection as serious." },
+        { "distractor": "dismissed", "closeness": 1, "reasoning": "To dismiss is similar to discount, but the sentence uses 'discount' already — while similar, these are not interchangeable antonyms." },
+        { "distractor": "valued", "closeness": 1, "reasoning": "To value is to esteem highly; discounting involves treating something as of little value." },
+        { "distractor": "esteemed", "closeness": 1, "reasoning": "To esteem is to regard with respect; discounting treats something as unworthy of respect." },
+        { "distractor": "prioritized", "closeness": 1, "reasoning": "To prioritize is to rank as important; discounting involves treating as unimportant." }
+      ]
+    },
+    {
+      "sentence": "The researcher was careful not to discount preliminary results, despite knowing that further testing might contradict them.",
+      "answerChoices": [
+        { "distractor": "ignore", "closeness": 3, "reasoning": "To ignore is to disregard; the sentence shows the researcher deliberately considering preliminary results, not ignoring them." },
+        { "distractor": "overlook", "closeness": 3, "reasoning": "To overlook is to fail to notice or consider; the researcher's caution to 'not discount' indicates deliberate consideration." },
+        { "distractor": "dismiss", "closeness": 3, "reasoning": "To dismiss is to reject as unimportant; the sentence emphasizes not dismissing the results despite potential future contradictions." },
+        { "distractor": "reject", "closeness": 3, "reasoning": "To reject is to refuse to accept; the sentence shows caution against rejecting the preliminary results." },
+        { "distractor": "discredit", "closeness": 2, "reasoning": "To discredit is to damage credibility; the researcher's caution prevents discrediting the preliminary results prematurely." },
+        { "distractor": "refute", "closeness": 2, "reasoning": "To refute is to prove wrong; the sentence shows the researcher doesn't discount (refute) results that haven't yet been contradicted." },
+        { "distractor": "invalidate", "closeness": 2, "reasoning": "To invalidate is to make invalid; the researcher resists invalidating results based on speculative future testing." },
+        { "distractor": "trust", "closeness": 1, "reasoning": "To trust is to have confidence in; while related, the sentence shows cautious consideration rather than uncritical trust." },
+        { "distractor": "embrace", "closeness": 1, "reasoning": "To embrace is to accept enthusiastically; the researcher's caution indicates measured consideration, not enthusiastic embrace." },
+        { "distractor": "endorse", "closeness": 1, "reasoning": "To endorse is to publicly support; the researcher's careful hesitation about preliminary results suggests reservation about endorsement." },
+        { "distractor": "confirm", "closeness": 1, "reasoning": "To confirm is to verify as true; preliminary results by definition are unconfirmed and subject to contradiction." }
+      ]
+    },
+    {
+      "sentence": "He discounted her warnings about the investment's risks, dismissing her concerns as unfounded pessimism.",
+      "answerChoices": [
+        { "distractor": "heeded", "closeness": 3, "reasoning": "To heed is to pay attention to and follow; discounting does the opposite — it ignores the warning." },
+        { "distractor": "credited", "closeness": 3, "reasoning": "To credit is to give validity to something; discounting denies the validity of her warnings." },
+        { "distractor": "validated", "closeness": 3, "reasoning": "To validate is to confirm as correct; dismissing as 'unfounded' contradicts validation." },
+        { "distractor": "trusted", "closeness": 3, "reasoning": "To trust is to believe in someone's reliability; discounting her warnings indicates not trusting her judgment." },
+        { "distractor": "respected", "closeness": 2, "reasoning": "To respect is to regard with esteem; dismissing her concerns as pessimism suggests lack of respect for her perspective." },
+        { "distractor": "valued", "closeness": 2, "reasoning": "To value is to regard highly; discounting her warnings treats them as of little value." },
+        { "distractor": "acknowledged", "closeness": 2, "reasoning": "To acknowledge is to recognize; dismissing as 'unfounded' prevents genuine acknowledgment of the warning's validity." },
+        { "distractor": "promoted", "closeness": 1, "reasoning": "To promote is to advance or publicize; discounting involves suppressing, not promoting, her concerns." },
+        { "distractor": "amplified", "closeness": 1, "reasoning": "To amplify is to increase or magnify; dismissing does the opposite — it minimizes her warnings." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "To celebrate is to honor or praise; discounting treats her warnings as unworthy of recognition." },
+        { "distractor": "encouraged", "closeness": 1, "reasoning": "To encourage is to support; dismissing her concerns as 'unfounded' discourages rather than encourages her input." }
+      ]
+    }
+  ]
+}

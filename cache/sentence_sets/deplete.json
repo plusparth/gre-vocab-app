@@ -1,0 +1,185 @@
+{
+  "word": "deplete",
+  "sentenceSets": [
+    {
+      "sentence": "The long expedition depleted supplies faster than anyone had anticipated, requiring an emergency resupply.",
+      "answerChoices": [
+        {
+          "distractor": "consumed",
+          "closeness": 3,
+          "reasoning": "Consumed means used up; the expedition consumes supplies, but the sentence emphasizes the excessive draining effect, which is depleting."
+        },
+        {
+          "distractor": "exhausted",
+          "closeness": 3,
+          "reasoning": "Exhausted means used completely; the supplies are exhausted, but the sentence emphasizes the process of draining faster than expected, which is depleting."
+        },
+        {
+          "distractor": "drained",
+          "closeness": 3,
+          "reasoning": "Drained means emptied; the supplies are drained, but the sentence requires a word for the specific effect of the expedition."
+        },
+        {
+          "distractor": "emptied",
+          "closeness": 3,
+          "reasoning": "Emptied means made empty; the supplies are emptied, but the sentence requires a word for the effect of the expedition's use."
+        },
+        {
+          "distractor": "used",
+          "closeness": 2,
+          "reasoning": "Used means employed or consumed; while the expedition uses supplies, the sentence requires a word for the draining effect, which is depletion."
+        },
+        {
+          "distractor": "diminished",
+          "closeness": 2,
+          "reasoning": "Diminished means reduced; the supplies are diminished, but deplete emphasizes the draining effect faster than expected."
+        },
+        {
+          "distractor": "reduced",
+          "closeness": 2,
+          "reasoning": "Reduced means made smaller; the supplies are reduced, but the sentence requires a word for the draining process."
+        },
+        {
+          "distractor": "spent",
+          "closeness": 2,
+          "reasoning": "Spent means used up or exhausted; the supplies are spent, but the sentence requires a word emphasizing the draining effect."
+        },
+        {
+          "distractor": "restored",
+          "closeness": 1,
+          "reasoning": "Restored means returned to original state; the expedition depletes, which is the opposite of restoration."
+        },
+        {
+          "distractor": "replenished",
+          "closeness": 1,
+          "reasoning": "Replenished means supplied again or filled up; the supplies are depleted, which is the opposite of replenishment."
+        },
+        {
+          "distractor": "augmented",
+          "closeness": 1,
+          "reasoning": "Augmented means increased or enhanced; the expedition depletes supplies, which is the opposite of augmenting."
+        }
+      ]
+    },
+    {
+      "sentence": "The drought depleted the aquifer, threatening to leave the region without drinking water.",
+      "answerChoices": [
+        {
+          "distractor": "drained",
+          "closeness": 3,
+          "reasoning": "Drained means emptied; the aquifer is drained, but the sentence emphasizes the harmful effect of the drought, which is depleting."
+        },
+        {
+          "distractor": "emptied",
+          "closeness": 3,
+          "reasoning": "Emptied means made empty; the aquifer is emptied, but the sentence requires a word for the draining process caused by drought."
+        },
+        {
+          "distractor": "exhausted",
+          "closeness": 3,
+          "reasoning": "Exhausted means used completely; the aquifer is exhausted, but the sentence emphasizes the draining effect, which is depletion."
+        },
+        {
+          "distractor": "reduced",
+          "closeness": 3,
+          "reasoning": "Reduced means made smaller; the aquifer is reduced, but the sentence requires a word for the draining effect, which is depleting."
+        },
+        {
+          "distractor": "lowered",
+          "closeness": 2,
+          "reasoning": "Lowered means reduced in level or amount; the aquifer's level is lowered, but deplete emphasizes the draining effect."
+        },
+        {
+          "distractor": "diminished",
+          "closeness": 2,
+          "reasoning": "Diminished means reduced; the aquifer is diminished, but deplete emphasizes the critical draining effect."
+        },
+        {
+          "distractor": "used",
+          "closeness": 2,
+          "reasoning": "Used means consumed; while the aquifer is used, the sentence requires a word for the draining effect, which is depletion."
+        },
+        {
+          "distractor": "consumed",
+          "closeness": 2,
+          "reasoning": "Consumed means used up; the water is consumed, but the sentence requires a word for the harmful draining process."
+        },
+        {
+          "distractor": "replenished",
+          "closeness": 1,
+          "reasoning": "Replenished means filled up again; the aquifer is depleted, which is the opposite of replenishment."
+        },
+        {
+          "distractor": "restored",
+          "closeness": 1,
+          "reasoning": "Restored means returned to original state; the drought depletes, which is the opposite of restoration."
+        },
+        {
+          "distractor": "recharged",
+          "closeness": 1,
+          "reasoning": "Recharged means refilled or restored; the drought depletes, which is the opposite of recharging."
+        }
+      ]
+    },
+    {
+      "sentence": "Years of unsustainable fishing practices depleted the cod population, nearly destroying a centuries-old industry.",
+      "answerChoices": [
+        {
+          "distractor": "reduced",
+          "closeness": 3,
+          "reasoning": "Reduced means made smaller; the population is reduced, but the sentence emphasizes the severe draining effect, which is depleting."
+        },
+        {
+          "distractor": "diminished",
+          "closeness": 3,
+          "reasoning": "Diminished means made less; the population is diminished, but the sentence emphasizes the critical draining effect, which is depletion."
+        },
+        {
+          "distractor": "decreased",
+          "closeness": 3,
+          "reasoning": "Decreased means became less; the population decreases, but the sentence requires a word for the harmful draining effect, which is depleting."
+        },
+        {
+          "distractor": "shrunk",
+          "closeness": 3,
+          "reasoning": "Shrunk means became smaller; the population shrinks, but the sentence requires a word for the severe resource-draining effect."
+        },
+        {
+          "distractor": "harmed",
+          "closeness": 2,
+          "reasoning": "Harmed means damaged; the population is harmed, but the sentence requires a word for the specific draining effect, which is depletion."
+        },
+        {
+          "distractor": "damaged",
+          "closeness": 2,
+          "reasoning": "Damaged means harmed; the population is damaged, but deplete emphasizes the draining effect."
+        },
+        {
+          "distractor": "threatened",
+          "closeness": 2,
+          "reasoning": "Threatened means put at risk; the population is threatened, but the sentence requires a word for the actual draining process, which is depletion."
+        },
+        {
+          "distractor": "endangered",
+          "closeness": 2,
+          "reasoning": "Endangered means put in danger; the population becomes endangered, but the sentence requires a word for the draining effect, which is depleting."
+        },
+        {
+          "distractor": "restored",
+          "closeness": 1,
+          "reasoning": "Restored means returned to original state; the fishing depletes the population, which is the opposite of restoration."
+        },
+        {
+          "distractor": "replenished",
+          "closeness": 1,
+          "reasoning": "Replenished means supplied again; the population is depleted, which is the opposite of replenishment."
+        },
+        {
+          "distractor": "regenerated",
+          "closeness": 1,
+          "reasoning": "Regenerated means regrew or was restored; the population is depleted, which is the opposite of regeneration."
+        }
+      ]
+    }
+  ]
+}

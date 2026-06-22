@@ -1,0 +1,53 @@
+{
+  "word": "dilettante",
+  "sentenceSets": [
+    {
+      "sentence": "A dilettante in the truest sense, he pursued every subject with enthusiasm and none to mastery.",
+      "answerChoices": [
+        { "distractor": "enthusiast", "closeness": 3, "reasoning": "Enthusiast describes someone passionate about something; while he is enthusiastic, dilettante more specifically means superficial interest without deep mastery." },
+        { "distractor": "amateur", "closeness": 3, "reasoning": "Amateur describes someone not professional; while he is amateur, dilettante more specifically implies superficial dabbling across multiple subjects." },
+        { "distractor": "novice", "closeness": 3, "reasoning": "Novice describes someone new to an activity; while he is novice-like, dilettante more specifically implies repeated superficial engagement with multiple subjects." },
+        { "distractor": "dabbler", "closeness": 3, "reasoning": "Dabbler is very close and describes engaging in multiple activities superficially; however, dilettante more specifically implies a cultured person with superficial interest in fine arts." },
+        { "distractor": "learner", "closeness": 2, "reasoning": "Learner describes someone acquiring knowledge; while he learns, dilettante more specifically means superficial engagement rather than sincere learning effort." },
+        { "distractor": "generalist", "closeness": 2, "reasoning": "Generalist describes someone with broad rather than deep knowledge; while he is generalist-like, dilettante more specifically implies superficial interest rather than knowledgeable breadth." },
+        { "distractor": "explorer", "closeness": 2, "reasoning": "Explorer describes investigating multiple things; while he explores, dilettante more specifically implies superficial engagement without depth." },
+        { "distractor": "spectator", "closeness": 2, "reasoning": "Spectator describes someone watching rather than participating; while he may seem to spectate, dilettante implies active but superficial engagement." },
+        { "distractor": "expert", "closeness": 1, "reasoning": "Expert describes someone with deep knowledge and skill; the sentence contrasts with his lack of mastery." },
+        { "distractor": "specialist", "closeness": 1, "reasoning": "Specialist describes someone focused deeply on one subject; the sentence shows engagement with multiple subjects without mastery." },
+        { "distractor": "master", "closeness": 1, "reasoning": "Master describes achieving high skill; the sentence explicitly states he achieved mastery in none of his pursuits." }
+      ]
+    },
+    {
+      "sentence": "The billionaire dilettante collected art, played instruments, and wrote poetry—never with serious intention, always for social standing.",
+      "answerChoices": [
+        { "distractor": "connoisseur", "closeness": 3, "reasoning": "Connoisseur describes someone with expert knowledge; while he collects art, dilettante more specifically implies superficial engagement rather than true expertise." },
+        { "distractor": "enthusiast", "closeness": 3, "reasoning": "Enthusiast describes passionate engagement; while he engages, dilettante more specifically means superficial engagement motivated by social status." },
+        { "distractor": "aficionado", "closeness": 3, "reasoning": "Aficionado describes devoted enthusiasm; while he engages, dilettante more specifically means superficial engagement for social reasons." },
+        { "distractor": "patron", "closeness": 3, "reasoning": "Patron describes someone who supports the arts; while he patronizes art, dilettante more specifically implies superficial personal engagement." },
+        { "distractor": "collector", "closeness": 2, "reasoning": "Collector describes someone who gathers items; while he collects, dilettante more specifically implies superficial engagement rather than knowledgeable collection." },
+        { "distractor": "amateur", "closeness": 2, "reasoning": "Amateur describes non-professional engagement; while his engagement is amateur, dilettante more specifically implies superficial dabbling across multiple interests." },
+        { "distractor": "hobbyist", "closeness": 2, "reasoning": "Hobbyist describes someone with a serious hobby; while he engages, dilettante implies superficial engagement motivated by social status." },
+        { "distractor": "socialite", "closeness": 2, "reasoning": "Socialite describes someone prominent in social circles; while he engages socially, dilettante more specifically describes superficial artistic engagement." },
+        { "distractor": "professional", "closeness": 1, "reasoning": "Professional describes someone skilled and serious; the sentence shows superficial engagement for social standing." },
+        { "distractor": "dedicated", "closeness": 1, "reasoning": "Dedicated means committed seriously; the sentence shows engagement without serious intention." },
+        { "distractor": "serious", "closeness": 1, "reasoning": "Serious describes earnest engagement; the sentence explicitly states he never engaged with serious intention." }
+      ]
+    },
+    {
+      "sentence": "Critics dismissed the filmmaker as a dilettante whose wealthy background allowed him to play at cinema without serving an apprenticeship.",
+      "answerChoices": [
+        { "distractor": "amateur", "closeness": 3, "reasoning": "Amateur describes non-professional; while he is amateur, dilettante more specifically implies superficial engagement without the dedication of true craft learning." },
+        { "distractor": "novice", "closeness": 3, "reasoning": "Novice describes someone new to an activity; while he is novice-like, dilettante more specifically implies superficial engagement by someone of social standing." },
+        { "distractor": "upstart", "closeness": 3, "reasoning": "Upstart describes someone newly important; while he is an upstart, dilettante more specifically implies superficial artistic engagement." },
+        { "distractor": "charlatan", "closeness": 3, "reasoning": "Charlatan describes someone deceptively claiming expertise; while critics may view him as one, dilettante more specifically means superficial engagement rather than deliberate deception." },
+        { "distractor": "pretender", "closeness": 2, "reasoning": "Pretender describes someone falsely claiming status; while he may pretend, dilettante more specifically means superficial engagement." },
+        { "distractor": "dabbler", "closeness": 2, "reasoning": "Dabbler describes superficial engagement; while close, dilettante more specifically implies someone of social standing engaged superficially." },
+        { "distractor": "imitator", "closeness": 2, "reasoning": "Imitator describes copying others; while he may imitate, dilettante more specifically means superficial engagement in the art form." },
+        { "distractor": "poseur", "closeness": 2, "reasoning": "Poseur describes someone affecting an artificial appearance; while he may pose, dilettante more specifically describes superficial artistic engagement." },
+        { "distractor": "master", "closeness": 1, "reasoning": "Master describes achieving high skill; the sentence shows critics dismissing his superficial engagement." },
+        { "distractor": "apprentice", "closeness": 1, "reasoning": "Apprentice describes someone learning seriously; the sentence shows he did not serve an apprenticeship." },
+        { "distractor": "craftsman", "closeness": 1, "reasoning": "Craftsman describes someone skilled in a craft; critics dismiss him as superficially engaged." }
+      ]
+    }
+  ]
+}

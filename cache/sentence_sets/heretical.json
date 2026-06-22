@@ -1,0 +1,53 @@
+{
+  "word": "heretical",
+  "sentenceSets": [
+    {
+      "sentence": "The suggestion was treated as heretical in a field where that particular premise had been untouched for decades.",
+      "answerChoices": [
+        { "distractor": "controversial", "closeness": 3, "reasoning": "Controversial means disputed or debated, but the sentence emphasizes that the premise had been untouched for decades—suggesting heretical opposition to established doctrine, not merely debate." },
+        { "distractor": "questionable", "closeness": 3, "reasoning": "Questionable means subject to doubt, but heretical specifically indicates opposition to established dogma, not merely uncertainty about validity." },
+        { "distractor": "unconventional", "closeness": 3, "reasoning": "Unconventional means different from custom, but the sentence shows opposition to an established premise—heretical goes beyond mere nonconformity to challenge doctrine directly." },
+        { "distractor": "radical", "closeness": 3, "reasoning": "Radical means extreme or foundational, which the suggestion is by challenging a long-held premise, but heretical specifically indicates opposition to established dogma rather than merely being extreme." },
+        { "distractor": "unorthodox", "closeness": 2, "reasoning": "Unorthodox means not following established standards; the sentence shows heretical opposition to an established premise, but heretical carries the specific weight of doctrinal violation." },
+        { "distractor": "contrary", "closeness": 2, "reasoning": "Contrary means opposed or contradictory, but heretical specifically implies opposition to established religious or institutional doctrine, not merely disagreement." },
+        { "distractor": "dissenting", "closeness": 2, "reasoning": "Dissenting means disagreeing, which the suggestion does, but heretical implies violation of established doctrine rather than merely registering disagreement." },
+        { "distractor": "skeptical", "closeness": 2, "reasoning": "Skeptical means doubting or questioning, but heretical indicates active opposition to established doctrine, not merely doubt." },
+        { "distractor": "orthodox", "closeness": 1, "reasoning": "Orthodox means conforming to established doctrine; the sentence indicates the opposite—a heretical challenge to established premises." },
+        { "distractor": "conformist", "closeness": 1, "reasoning": "Conformist means adhering to standards; heretical indicates opposition to standards and established doctrine." },
+        { "distractor": "traditional", "closeness": 1, "reasoning": "Traditional means following long-established customs; heretical indicates challenging established customs and doctrines." }
+      ]
+    },
+    {
+      "sentence": "In the Middle Ages, heretical beliefs could result in severe punishment, including imprisonment and execution by religious authorities.",
+      "answerChoices": [
+        { "distractor": "religious", "closeness": 3, "reasoning": "Religious means relating to faith or a faith system, which heretical beliefs are, but heretical specifically indicates opposition to established church doctrine, not merely religious belief." },
+        { "distractor": "forbidden", "closeness": 3, "reasoning": "Forbidden means prohibited, and heretical beliefs were forbidden, but heretical specifically indicates doctrinal opposition rather than merely being prohibited." },
+        { "distractor": "blasphemous", "closeness": 3, "reasoning": "Blasphemous means irreverent toward religion; heretical beliefs could be blasphemous, but heretical specifically means opposing church doctrine, not merely being irreverent." },
+        { "distractor": "impious", "closeness": 3, "reasoning": "Impious means disrespectful to faith; heretical beliefs might be impious, but heretical specifically indicates doctrinal opposition to church teachings." },
+        { "distractor": "sacrilegious", "closeness": 2, "reasoning": "Sacrilegious means violating something sacred; heretical beliefs could be seen as sacrilegious, but heretical focuses on doctrinal violation specifically." },
+        { "distractor": "ungodly", "closeness": 2, "reasoning": "Ungodly means contrary to religious principles, which heretical beliefs are, but heretical indicates specific opposition to established church doctrine." },
+        { "distractor": "unholy", "closeness": 2, "reasoning": "Unholy means wicked or not sacred, but heretical specifically indicates doctrinal opposition to established religious authority." },
+        { "distractor": "sinful", "closeness": 2, "reasoning": "Sinful means immoral by religious standards, but heretical indicates specific opposition to church doctrine rather than general moral transgression." },
+        { "distractor": "pious", "closeness": 1, "reasoning": "Pious means devout and reverential to faith; this is opposite to heretical beliefs which challenge religious doctrine." },
+        { "distractor": "devout", "closeness": 1, "reasoning": "Devout means deeply religious and faithful; heretical beliefs are opposed to this orthodoxy." },
+        { "distractor": "faithful", "closeness": 1, "reasoning": "Faithful means loyal to doctrine; heretical beliefs directly challenge and oppose faithful adherence to doctrine." }
+      ]
+    },
+    {
+      "sentence": "The scientist's heretical hypothesis that dinosaurs descended from birds was ridiculed until the fossil evidence became undeniable.",
+      "answerChoices": [
+        { "distractor": "controversial", "closeness": 3, "reasoning": "Controversial means disputed, which this hypothesis was, but heretical specifically indicates opposition to established scientific paradigm, not merely being debated." },
+        { "distractor": "unconventional", "closeness": 3, "reasoning": "Unconventional means different from accepted practice, but the sentence shows the hypothesis was ridiculed—heretical indicates active opposition to established doctrine." },
+        { "distractor": "speculative", "closeness": 3, "reasoning": "Speculative means based on conjecture rather than evidence, which the hypothesis initially was, but heretical specifically indicates opposition to established dogma." },
+        { "distractor": "unproven", "closeness": 3, "reasoning": "Unproven means lacking evidence, which initially applied to the hypothesis, but heretical indicates challenge to established doctrine, not merely lack of proof." },
+        { "distractor": "radical", "closeness": 2, "reasoning": "Radical means extreme or foundational, fitting the hypothesis's challenge to understanding of dinosaurs, but heretical specifically indicates violation of accepted scientific doctrine." },
+        { "distractor": "revolutionary", "closeness": 2, "reasoning": "Revolutionary means fundamentally transforming understanding, but heretical implies opposition to established paradigm rather than mere transformation." },
+        { "distractor": "unorthodox", "closeness": 2, "reasoning": "Unorthodox means not following established standards, but heretical carries the weight of challenging established scientific doctrine as dogma." },
+        { "distractor": "contrary", "closeness": 2, "reasoning": "Contrary means opposed, fitting the hypothesis's opposition to prevailing science, but heretical specifically implies challenging doctrine as settled truth." },
+        { "distractor": "orthodox", "closeness": 1, "reasoning": "Orthodox means conforming to established doctrine; the hypothesis was heretical—challenging established scientific orthodoxy." },
+        { "distractor": "conventional", "closeness": 1, "reasoning": "Conventional means following accepted standards; the hypothesis violated conventional scientific understanding." },
+        { "distractor": "established", "closeness": 1, "reasoning": "Established means settled and accepted; the hypothesis challenged what was established in paleontology." }
+      ]
+    }
+  ]
+}

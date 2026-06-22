@@ -1,0 +1,53 @@
+{
+  "word": "arresting",
+  "sentenceSets": [
+    {
+      "sentence": "The arresting melody stayed with listeners long after the concert had ended.",
+      "answerChoices": [
+        { "distractor": "memorable", "closeness": 3, "reasoning": "A memorable melody is remembered, and the sentence confirms it stayed with listeners, but 'memorable' is passive and can describe things easily recalled, while 'arresting' emphasizes the forceful, striking quality that seizes attention." },
+        { "distractor": "catchy", "closeness": 3, "reasoning": "'Catchy' melodies tend to stick in the mind, fitting the lasting impression, but 'catchy' emphasizes easy infectiousness, whereas 'arresting' stresses striking, stop-you-in-your-tracks quality." },
+        { "distractor": "melodious", "closeness": 3, "reasoning": "'Melodious' describes pleasant, flowing sound, and a lasting melody might be melodious, but it emphasizes the quality of the music itself, not its striking power to capture attention." },
+        { "distractor": "haunting", "closeness": 3, "reasoning": "A haunting melody lingers in memory, similar to the sentence, but 'haunting' carries connotations of sadness or mystery, whereas 'arresting' is neutral on emotional tone." },
+        { "distractor": "moving", "closeness": 2, "reasoning": "'Moving' music affects emotions and can leave lasting impressions, but 'moving' emphasizes emotional impact, whereas 'arresting' stresses initial attention-seizing." },
+        { "distractor": "evocative", "closeness": 2, "reasoning": "'Evocative' music suggests or recalls something, but the sentence emphasizes the melody staying with listeners, not its power to evoke specific memories." },
+        { "distractor": "soothing", "closeness": 2, "reasoning": "'Soothing' melodies calm and relax, which might make them memorable, but the sentence emphasizes striking quality, not calming effect." },
+        { "distractor": "intricate", "closeness": 2, "reasoning": "Intricate melodies have complex structure, but the sentence focuses on the power to capture and retain attention, not complexity." },
+        { "distractor": "forgettable", "closeness": 1, "reasoning": "Opposite—'forgettable' music fails to leave lasting impression, contrary to the melody that lingered with listeners." },
+        { "distractor": "mundane", "closeness": 1, "reasoning": "Opposite—'mundane' music is ordinary and unimpressive, opposite to the striking melody that arrested listeners." },
+        { "distractor": "monotonous", "closeness": 1, "reasoning": "Opposite—'monotonous' music is repetitive and dull, the opposite of what would strike listeners and remain memorable." }
+      ]
+    },
+    {
+      "sentence": "Her arresting features—sharp cheekbones and piercing eyes—made her stand out in any crowd.",
+      "answerChoices": [
+        { "distractor": "beautiful", "closeness": 3, "reasoning": "Beautiful features might stand out, fitting the context, but 'beautiful' describes conventional attractiveness, whereas 'arresting' emphasizes a striking, unusual quality that commands notice." },
+        { "distractor": "striking", "closeness": 3, "reasoning": "'Striking' features catch the eye much like 'arresting,' but 'striking' focuses on visual impact, whereas 'arresting' specifically means they stop and hold attention." },
+        { "distractor": "distinctive", "closeness": 3, "reasoning": "'Distinctive' features set someone apart, and the sentence confirms she stands out, but 'distinctive' can be subtle, whereas 'arresting' implies forceful noticeability." },
+        { "distractor": "angular", "closeness": 3, "reasoning": "Angular features like sharp cheekbones fit the description, but 'angular' describes the geometric quality, not the quality of commanding attention." },
+        { "distractor": "refined", "closeness": 2, "reasoning": "'Refined' features suggest elegant sophistication, but the sentence emphasizes their power to make her stand out, not their refined quality." },
+        { "distractor": "symmetrical", "closeness": 2, "reasoning": "Symmetrical features might contribute to attractiveness, but the sentence emphasizes standing out and capturing attention, not geometric balance." },
+        { "distractor": "exotic", "closeness": 2, "reasoning": "'Exotic' features might make someone stand out, but the sentence describes specific features (sharp cheekbones, piercing eyes), not an exotic appearance." },
+        { "distractor": "flawless", "closeness": 2, "reasoning": "'Flawless' features might be memorable, but the sentence emphasizes their striking power to command attention, not their perfection." },
+        { "distractor": "bland", "closeness": 1, "reasoning": "Opposite—'bland' features are unremarkable and forgettable, opposite to those that make someone stand out in crowds." },
+        { "distractor": "plain", "closeness": 1, "reasoning": "Opposite—'plain' features lack distinctiveness, opposite to those that arrest attention and cause her to stand out." },
+        { "distractor": "ordinary", "closeness": 1, "reasoning": "Opposite—'ordinary' features are forgettable and typical, opposite to the striking features that command notice." }
+      ]
+    },
+    {
+      "sentence": "The film's arresting opening sequence—brutal violence followed by profound silence—set the tone for an unsettling masterpiece.",
+      "answerChoices": [
+        { "distractor": "shocking", "closeness": 3, "reasoning": "Shocking sequences surprise and disturb viewers, fitting the described opening, but 'shocking' emphasizes the emotional reaction, whereas 'arresting' stresses the forceful command of attention." },
+        { "distractor": "dramatic", "closeness": 3, "reasoning": "Dramatic sequences are impactful and intense, fitting the described violence and silence, but 'dramatic' emphasizes theatrical intensity, not the quality of halting attention." },
+        { "distractor": "disturbing", "closeness": 3, "reasoning": "A disturbing opening unsettles viewers, which the sentence confirms, but 'disturbing' focuses on the emotional disturbance, whereas 'arresting' emphasizes the initial command of attention." },
+        { "distractor": "powerful", "closeness": 3, "reasoning": "Powerful openings have strong impact, fitting the described sequence, but 'powerful' is general, whereas 'arresting' specifically means stopping and holding attention." },
+        { "distractor": "visceral", "closeness": 2, "reasoning": "'Visceral' imagery engages the gut emotionally, fitting the brutal violence, but it emphasizes emotional impact more than the command of attention." },
+        { "distractor": "cinematic", "closeness": 2, "reasoning": "'Cinematic' describes skilled filmmaking, but the sentence focuses on the effect on viewers, not the technical quality." },
+        { "distractor": "controversial", "closeness": 2, "reasoning": "'Controversial' sequences provoke debate, but the sentence emphasizes the immediate impact on attention, not social controversy." },
+        { "distractor": "lengthy", "closeness": 2, "reasoning": "'Lengthy' sequences are extended, but the sentence emphasizes the striking quality, not duration." },
+        { "distractor": "subtle", "closeness": 1, "reasoning": "Opposite—'subtle' opening would suggest quiet, understated beginning, opposite to the brutal violence that arrests attention." },
+        { "distractor": "restrained", "closeness": 1, "reasoning": "Opposite—'restrained' would suggest measured, controlled opening, opposite to the arresting brutality described." },
+        { "distractor": "predictable", "closeness": 1, "reasoning": "Opposite—'predictable' opening would fail to command attention, opposite to the arresting impact of the described sequence." }
+      ]
+    }
+  ]
+}

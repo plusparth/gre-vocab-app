@@ -1,0 +1,53 @@
+{
+  "word": "homage",
+  "sentenceSets": [
+    {
+      "sentence": "The retrospective paid homage to the founder without sanitizing the complexity of her legacy.",
+      "answerChoices": [
+        { "distractor": "tribute", "closeness": 3, "reasoning": "Tribute means a gift or acknowledgment given in respect, but doesn't necessarily imply the deep respect and deference that homage conveys; a tribute can be more superficial." },
+        { "distractor": "deference", "closeness": 3, "reasoning": "Deference is respectful submission or yielding to someone's judgment, but the sentence's focus is on honoring someone's significance rather than showing submission to their authority." },
+        { "distractor": "respect", "closeness": 3, "reasoning": "Respect is general regard for someone's qualities, but homage carries a more formal, ceremonial weight and suggests a deeper acknowledgment of someone's stature or impact." },
+        { "distractor": "acknowledgment", "closeness": 3, "reasoning": "Acknowledgment means recognizing something's existence or validity, but doesn't carry the ceremonial or reverential tone that homage implies; the sentence's reference to a retrospective suggests a formal, respectful presentation." },
+        { "distractor": "flattery", "closeness": 2, "reasoning": "Flattery is excessive or insincere praise, but the sentence emphasizes that the retrospective did not sanitize complexity, which contradicts the idea of flattery." },
+        { "distractor": "celebration", "closeness": 2, "reasoning": "Celebration means festive acknowledgment of something positive, but doesn't carry the formal, respectful dimension that homage brings; moreover, honoring complexity doesn't read as a simple celebration." },
+        { "distractor": "recognition", "closeness": 2, "reasoning": "Recognition means identifying or acknowledging something's importance, but is less formal and ceremonial than homage, which implies a more solemn and deliberate expression." },
+        { "distractor": "admiration", "closeness": 2, "reasoning": "Admiration is the feeling of approving regard, but doesn't necessarily involve the formal, public gesture that homage requires; the sentence describes an act (paying homage) in a retrospective." },
+        { "distractor": "condemnation", "closeness": 1, "reasoning": "Condemnation means expressing disapproval or sentencing, which is the opposite of the respectful acknowledgment implied by paying homage." },
+        { "distractor": "mockery", "closeness": 1, "reasoning": "Mockery means ridiculing or treating with contempt, the opposite of the reverential tone that homage carries." },
+        { "distractor": "dismissal", "closeness": 1, "reasoning": "Dismissal means rejecting or disregarding, which contradicts the respectful acknowledgment that paying homage represents." }
+      ]
+    },
+    {
+      "sentence": "The young architect paid homage to her mentors by adopting their design principles while developing her own distinctive style.",
+      "answerChoices": [
+        { "distractor": "allegiance", "closeness": 3, "reasoning": "Allegiance means loyalty and commitment to a person or cause, but the sentence shows intellectual debt and respect rather than a pledge of unwavering loyalty." },
+        { "distractor": "obeisance", "closeness": 3, "reasoning": "Obeisance is a gesture of respect or submission, often physical, but the sentence describes intellectual influence and adoption of principles rather than ceremonial submission." },
+        { "distractor": "deference", "closeness": 3, "reasoning": "Deference implies yielding one's own judgment to another's, but the sentence emphasizes that the architect developed her own distinctive style, showing her exercise of independent judgment." },
+        { "distractor": "imitation", "closeness": 3, "reasoning": "Imitation means copying, but the sentence clarifies that she didn't merely copy her mentors' work; she adopted principles while creating something distinctive, which is more than simple imitation." },
+        { "distractor": "flattery", "closeness": 2, "reasoning": "Flattery involves insincere praise meant to win favor, but the sentence describes a professional acknowledgment of intellectual debt through design choices." },
+        { "distractor": "inheritance", "closeness": 2, "reasoning": "Inheritance suggests receiving something passed down, which is related to honoring mentors but lacks the active, deliberate gesture that homage implies." },
+        { "distractor": "emulation", "closeness": 2, "reasoning": "Emulation means striving to match or surpass someone, but doesn't necessarily convey the formal acknowledgment and respect that homage expresses." },
+        { "distractor": "veneration", "closeness": 2, "reasoning": "Veneration is deep respect bordering on worship, which overstates the relationship described; the architect is showing professional respect, not treating mentors as sacred figures." },
+        { "distractor": "betrayal", "closeness": 1, "reasoning": "Betrayal means acting against someone's interests, which is the opposite of showing respect and honoring mentors." },
+        { "distractor": "rebellion", "closeness": 1, "reasoning": "Rebellion means openly defying authority or tradition, contrary to the respect and acknowledgment expressed by paying homage." },
+        { "distractor": "rejection", "closeness": 1, "reasoning": "Rejection means refusing to accept or acknowledge, the opposite of the respectful acknowledgment that homage represents." }
+      ]
+    },
+    {
+      "sentence": "The musician's new album paid homage to the blues legends of the 1950s through careful reinvention rather than direct cover versions.",
+      "answerChoices": [
+        { "distractor": "reference", "closeness": 3, "reasoning": "Reference means mentioning or alluding to something, but the sentence describes a more formal, deliberate acknowledgment through thematic choices, not merely pointing to something." },
+        { "distractor": "allusion", "closeness": 3, "reasoning": "Allusion is an indirect reference, but the sentence's emphasis on careful reinvention suggests a deliberate and substantial acknowledgment rather than a subtle, implicit mention." },
+        { "distractor": "evocation", "closeness": 3, "reasoning": "Evocation means bringing something to mind, but doesn't convey the deliberate, respectful gesture that homage implies; reinvention suggests intentional creative homage rather than simply evoking a mood." },
+        { "distractor": "emulation", "closeness": 3, "reasoning": "Emulation means trying to match or equal someone's achievements, but the sentence emphasizes creative reinvention rather than direct imitation or competitive matching." },
+        { "distractor": "inspiration", "closeness": 2, "reasoning": "Inspiration means being moved to create something new, but the sentence describes a more formal, deliberate acknowledgment of specific sources rather than general creative impulse." },
+        { "distractor": "imitation", "closeness": 2, "reasoning": "Imitation means copying, which contradicts the sentence's emphasis on reinvention rather than direct copying; cover versions would be closer to imitation." },
+        { "distractor": "echo", "closeness": 2, "reasoning": "Echo suggests repeating or closely mirroring something, but the sentence's focus on reinvention rather than cover versions indicates more creative transformation than a simple echo." },
+        { "distractor": "sampling", "closeness": 2, "reasoning": "Sampling involves taking excerpts from existing works, but the sentence describes reinvention through thematic choices rather than direct musical borrowing." },
+        { "distractor": "plagiarism", "closeness": 1, "reasoning": "Plagiarism means stealing credit for someone else's work, which contradicts the respectful acknowledgment and open attribution implied by paying homage." },
+        { "distractor": "distortion", "closeness": 1, "reasoning": "Distortion means twisting something out of its original form in a negative way, whereas homage involves respectful and deliberate engagement with a legacy." },
+        { "distractor": "disrespect", "closeness": 1, "reasoning": "Disrespect means showing lack of regard, directly opposed to the respectful acknowledgment that homage conveys." }
+      ]
+    }
+  ]
+}

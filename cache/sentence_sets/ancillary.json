@@ -1,0 +1,185 @@
+{
+  "word": "ancillary",
+  "sentenceSets": [
+    {
+      "sentence": "The ancillary departments\u2014printing, catering, and transport\u2014were cut first in the budget reduction.",
+      "answerChoices": [
+        {
+          "distractor": "subordinate",
+          "closeness": 3,
+          "reasoning": "Close -- both mean lower in rank, but 'subordinate' refers to direct command hierarchy, whereas the sentence shows departments that are merely secondary in budget priority."
+        },
+        {
+          "distractor": "auxiliary",
+          "closeness": 3,
+          "reasoning": "Nearly synonymous -- 'auxiliary' also means supporting or supplementary, making it hard to distinguish based on the sentence alone without specialized vocabulary knowledge."
+        },
+        {
+          "distractor": "supplementary",
+          "closeness": 3,
+          "reasoning": "Close -- both suggest additional or supportive nature, but 'supplementary' emphasizes 'extra,' while the sentence shows these departments are integral though secondary."
+        },
+        {
+          "distractor": "peripheral",
+          "closeness": 3,
+          "reasoning": "Close -- means on the edge or outer area, which fits departments cut first, but 'peripheral' emphasizes distance rather than the functional support these departments provide."
+        },
+        {
+          "distractor": "dependent",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'dependent' suggests reliance on something else, but the sentence shows these departments support others, not depend on them."
+        },
+        {
+          "distractor": "minor",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'minor' means small or unimportant, but the sentence indicates these are functional departments, not minor in role."
+        },
+        {
+          "distractor": "temporary",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'temporary' means not permanent, but the sentence discusses departments' budgetary status, not their permanence."
+        },
+        {
+          "distractor": "optional",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'optional' suggests discretionary choice, but these departments are cut due to budget constraints, not because they are optional."
+        },
+        {
+          "distractor": "primary",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence explicitly indicates these are secondary departments, not primary ones."
+        },
+        {
+          "distractor": "essential",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence shows budget cuts target these departments first, suggesting they are less essential than others."
+        },
+        {
+          "distractor": "independent",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence indicates these departments support main operations, not operate independently."
+        }
+      ]
+    },
+    {
+      "sentence": "The historian treated the letters as ancillary documents, useful for context but secondary to the primary archives.",
+      "answerChoices": [
+        {
+          "distractor": "supplementary",
+          "closeness": 3,
+          "reasoning": "Close -- means additional, fitting the contextual role, but 'supplementary' suggests additive enhancement while 'ancillary' indicates structured hierarchy of source importance."
+        },
+        {
+          "distractor": "corroborating",
+          "closeness": 3,
+          "reasoning": "Close -- both support main arguments, but 'corroborating' emphasizes confirmation of evidence, whereas the sentence shows the letters provide context, not necessarily confirmation."
+        },
+        {
+          "distractor": "supporting",
+          "closeness": 3,
+          "reasoning": "Close -- both indicate secondary but helpful role, but 'supporting' is too general to distinguish from the formal archival hierarchy the sentence describes."
+        },
+        {
+          "distractor": "explanatory",
+          "closeness": 3,
+          "reasoning": "Close -- 'explanatory' fits the 'useful for context' description, but doesn't capture the document's ranking beneath primary archives."
+        },
+        {
+          "distractor": "reference",
+          "closeness": 2,
+          "reasoning": "Incorrect -- while the letters serve as reference material, 'reference' doesn't capture their secondary status relative to the primary sources."
+        },
+        {
+          "distractor": "illustrative",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'illustrative' suggests examples that clarify, but the sentence describes a hierarchy of documentary importance, not exemplification."
+        },
+        {
+          "distractor": "comparative",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'comparative' means showing similarities or differences, but the sentence indicates the letters provide contextual information alongside primary sources."
+        },
+        {
+          "distractor": "biographical",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'biographical' describes content about lives, but the sentence focuses on the document's rank in research hierarchy, not content type."
+        },
+        {
+          "distractor": "authoritative",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence clearly states these documents are secondary to the primary archives, lacking primary authority."
+        },
+        {
+          "distractor": "definitive",
+          "closeness": 1,
+          "reasoning": "Opposite -- 'definitive' suggests conclusive or authoritative; the sentence ranks these letters as secondary sources."
+        },
+        {
+          "distractor": "original",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence distinguishes these from primary archives, placing them in a secondary tier."
+        }
+      ]
+    },
+    {
+      "sentence": "The chef's signature dishes were the main attractions, while the ancillary menu items rarely impressed diners.",
+      "answerChoices": [
+        {
+          "distractor": "complement",
+          "closeness": 3,
+          "reasoning": "Close -- both suggest supporting role, but 'complement' emphasizes harmony and enhancement, whereas the sentence shows the ancillary items fail to impress, undermining the complementary relationship."
+        },
+        {
+          "distractor": "accompaniment",
+          "closeness": 3,
+          "reasoning": "Close -- suggests something served alongside the main course, but 'accompaniment' implies intentional pairing rather than the secondary position the sentence indicates."
+        },
+        {
+          "distractor": "garnish",
+          "closeness": 3,
+          "reasoning": "Close -- means decorative addition to a dish, fitting the secondary role, but 'garnish' implies purely visual function, not the meal items the sentence describes."
+        },
+        {
+          "distractor": "side",
+          "closeness": 3,
+          "reasoning": "Close -- 'side' refers to dishes served with main courses, but the sentence evaluates these items independently as menu options, not subordinate components of main dishes."
+        },
+        {
+          "distractor": "filler",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'filler' suggests padding or unnecessary addition, but the sentence indicates these are legitimate menu items, just less impressive."
+        },
+        {
+          "distractor": "afterthought",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'afterthought' implies careless addition, but the sentence suggests these are intentional offerings, merely secondary in status."
+        },
+        {
+          "distractor": "extra",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'extra' suggests optional additions, but these are regular menu items offered to all diners."
+        },
+        {
+          "distractor": "filler",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'filler' suggests unnecessary padding, but these are established menu offerings."
+        },
+        {
+          "distractor": "featured",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence specifically indicates the signature dishes are main attractions while ancillary items are not featured."
+        },
+        {
+          "distractor": "celebrated",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence shows the ancillary items 'rarely impressed,' the opposite of celebration."
+        },
+        {
+          "distractor": "dominant",
+          "closeness": 1,
+          "reasoning": "Opposite -- the signature dishes dominate; ancillary items are subordinate."
+        }
+      ]
+    }
+  ]
+}

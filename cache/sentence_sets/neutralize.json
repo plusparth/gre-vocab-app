@@ -1,0 +1,53 @@
+{
+  "word": "neutralize",
+  "sentenceSets": [
+    {
+      "sentence": "She worked to neutralize the most damaging element of the opposition's argument before it reached the audience most likely to be persuaded by it.",
+      "answerChoices": [
+        { "distractor": "undermine", "closeness": 3, "reasoning": "While 'undermine' means to weaken, it refers to attacking the foundation of something, not rendering it chemically or functionally neutral; the sentence requires an action that removes the damaging effect entirely, not merely weakens support for the argument." },
+        { "distractor": "mitigate", "closeness": 3, "reasoning": "'Mitigate' means to make less severe or serious, but the sentence shows her taking action to remove the element's power to persuade entirely, not merely reduce its severity." },
+        { "distractor": "counteract", "closeness": 3, "reasoning": "'Counteract' means to oppose or balance against something, implying a back-and-forth dynamic, whereas 'neutralize' suggests the element becomes inert and no longer poses a threat." },
+        { "distractor": "rebut", "closeness": 3, "reasoning": "'Rebut' means to argue against a claim, but the sentence describes preventing the element from reaching the audience rather than directly refuting it in debate." },
+        { "distractor": "suppress", "closeness": 2, "reasoning": "'Suppress' means to prevent from appearing or being discussed, which overlaps with the idea of stopping the audience from being persuaded, but it doesn't address the element itself becoming harmless." },
+        { "distractor": "obscure", "closeness": 2, "reasoning": "'Obscure' means to make unclear or hidden, which could prevent persuasion by hiding the element, but 'neutralize' implies rendering it ineffective, not simply obscuring it." },
+        { "distractor": "deny", "closeness": 2, "reasoning": "'Deny' means to state that something is false, an approach related to preventing persuasion but more about direct contradiction than making an element harmless." },
+        { "distractor": "evade", "closeness": 2, "reasoning": "'Evade' means to avoid or escape from, suggesting she's avoiding engagement with the element rather than rendering it powerless." },
+        { "distractor": "enhance", "closeness": 1, "reasoning": "'Enhance' means to improve or strengthen, the opposite of what she is trying to do to the damaging element." },
+        { "distractor": "amplify", "closeness": 1, "reasoning": "'Amplify' means to increase in strength or volume, opposite to the intended effect of removing a damaging element's persuasive power." },
+        { "distractor": "validate", "closeness": 1, "reasoning": "'Validate' means to confirm as true or acceptable, directly contrary to the goal of preventing the opposition's damaging argument from gaining credibility." }
+      ]
+    },
+    {
+      "sentence": "The technician added a base to neutralize the acid accumulated in the reaction vessel, watching the pH meter slowly climb back to acceptable levels.",
+      "answerChoices": [
+        { "distractor": "dissolve", "closeness": 3, "reasoning": "While adding a base dissolves some compounds, 'dissolve' refers to the process of mixing into solution, not the chemical transformation that returns pH to neutral." },
+        { "distractor": "dilute", "closeness": 3, "reasoning": "'Dilute' means to reduce concentration, but the sentence shows the pH meter returning to acceptable levels, indicating a chemical change, not merely a reduction in acid concentration." },
+        { "distractor": "attenuate", "closeness": 3, "reasoning": "'Attenuate' means to weaken or reduce in force, which could describe reducing acid strength, but the sentence emphasizes the pH returning to normal, not just becoming weaker." },
+        { "distractor": "balance", "closeness": 3, "reasoning": "Though 'balance' suggests equilibrium, it's too vague; 'neutralize' specifically describes the chemical process of converting acid to a neutral salt through a base." },
+        { "distractor": "cool", "closeness": 2, "reasoning": "While cooling a reaction can slow an exothermic process, the sentence shows the pH changing, not the temperature; cooling is not the mechanism described." },
+        { "distractor": "separate", "closeness": 2, "reasoning": "'Separate' might describe physically removing acid from the vessel, but the pH meter climbing indicates a chemical reaction, not separation of components." },
+        { "distractor": "arrest", "closeness": 2, "reasoning": "'Arrest' can mean to stop or slow a process, but the sentence describes a chemical change that brings pH back to acceptable levels, not merely stopping the acidification." },
+        { "distractor": "stabilize", "closeness": 2, "reasoning": "'Stabilize' means to make stable or prevent change, but here the technician is actively changing the pH, not keeping it constant." },
+        { "distractor": "contaminate", "closeness": 1, "reasoning": "'Contaminate' means to make impure or harmful, opposite to the goal of restoring the solution to acceptable conditions." },
+        { "distractor": "aggregate", "closeness": 1, "reasoning": "'Aggregate' means to gather together into a mass; it describes neither the chemical transformation nor the goal of neutralization." },
+        { "distractor": "precipitate", "closeness": 1, "reasoning": "While some acid-base reactions produce precipitation, 'precipitate' specifically means to cause a solid to form from a solution, not the process of neutralizing pH." }
+      ]
+    },
+    {
+      "sentence": "The intelligence operation managed to neutralize the threat before the hostile actor could act on the intelligence they had gathered.",
+      "answerChoices": [
+        { "distractor": "eliminate", "closeness": 3, "reasoning": "'Eliminate' can mean to remove or destroy, but the sentence does not indicate the threat was destroyed; rather, it was rendered incapable of acting, a subtler operation." },
+        { "distractor": "incapacitate", "closeness": 3, "reasoning": "'Incapacitate' means to deprive of ability or strength, closely related to 'neutralize,' but suggests a more physical disability rather than strategic rendering-harmless." },
+        { "distractor": "subdue", "closeness": 3, "reasoning": "'Subdue' means to conquer or bring under control through force, implying a power struggle, whereas 'neutralize' suggests making something no longer a threat through strategic action." },
+        { "distractor": "disarm", "closeness": 3, "reasoning": "'Disarm' means to remove weapons, a specific tactic; 'neutralize' in this context is broader and suggests the threat was prevented from acting entirely, not just deprived of weapons." },
+        { "distractor": "suppress", "closeness": 2, "reasoning": "'Suppress' means to prevent from appearing or being known, but the sentence indicates the threat was prevented from acting based on intelligence, suggesting active intervention beyond mere suppression." },
+        { "distractor": "contain", "closeness": 2, "reasoning": "'Contain' means to limit the spread or effect of something, but the sentence shows the threat was prevented before it could act, more decisive than containment." },
+        { "distractor": "defuse", "closeness": 2, "reasoning": "'Defuse' specifically means to remove a fuse from an explosive or to calm a tense situation; it's narrower than the broader concept of making a threat inert." },
+        { "distractor": "obstruct", "closeness": 2, "reasoning": "'Obstruct' means to block or hinder movement or progress, but the sentence shows the threat was made harmless, not merely obstructed." },
+        { "distractor": "strengthen", "closeness": 1, "reasoning": "'Strengthen' means to make stronger or more effective, opposite to the goal of preventing a threat from acting." },
+        { "distractor": "alert", "closeness": 1, "reasoning": "'Alert' means to warn or make aware of danger; in this context it would give advantage to the threat, not neutralize it." },
+        { "distractor": "recruit", "closeness": 1, "reasoning": "'Recruit' means to enlist or bring into a group, entirely unrelated to preventing a hostile actor from acting on their gathered intelligence." }
+      ]
+    }
+  ]
+}

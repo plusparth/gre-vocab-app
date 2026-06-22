@@ -1,0 +1,53 @@
+{
+  "word": "ostensible",
+  "sentenceSets": [
+    {
+      "sentence": "The ostensible purpose of the meeting was to share information; the actual purpose was to manage expectations.",
+      "answerChoices": [
+        { "distractor": "stated", "closeness": 3, "reasoning": "Stated means explicitly expressed, but doesn't capture the implication that the stated purpose differs from the real one." },
+        { "distractor": "alleged", "closeness": 3, "reasoning": "Alleged means claimed or asserted, but doesn't specifically suggest something openly displayed yet potentially false." },
+        { "distractor": "purported", "closeness": 3, "reasoning": "Purported means claimed or represented, but doesn't emphasize the openly displayed nature of the false purpose." },
+        { "distractor": "apparent", "closeness": 3, "reasoning": "Apparent means seeming to be true or evident, but doesn't specifically suggest something openly displayed yet misleading." },
+        { "distractor": "surface", "closeness": 2, "reasoning": "Surface describes what is visible on top, but doesn't specifically suggest an intent to display for consumption." },
+        { "distractor": "manifest", "closeness": 2, "reasoning": "Manifest means clearly evident or displayed, but doesn't necessarily suggest a gap between displayed and actual purpose." },
+        { "distractor": "explicit", "closeness": 2, "reasoning": "Explicit means stated clearly and plainly, but doesn't suggest the element of display for observation." },
+        { "distractor": "professed", "closeness": 2, "reasoning": "Professed means claimed or declared, but doesn't emphasize the openly visible nature of the purpose." },
+        { "distractor": "hidden", "closeness": 1, "reasoning": "Hidden means concealed or not open to view, the opposite of ostensible which suggests something openly displayed." },
+        { "distractor": "genuine", "closeness": 1, "reasoning": "Genuine means authentic or true, contradicting the implication that the ostensible purpose differs from reality." },
+        { "distractor": "sincere", "closeness": 1, "reasoning": "Sincere means honestly felt or truthful, the opposite of a purpose displayed for effect while hiding the real one." }
+      ]
+    },
+    {
+      "sentence": "The ostensible reason for the company restructuring was improved efficiency, but employees recognized it as a cover for layoffs.",
+      "answerChoices": [
+        { "distractor": "stated", "closeness": 3, "reasoning": "Stated means explicitly expressed or declared, but doesn't suggest something shown to public view while masking reality." },
+        { "distractor": "alleged", "closeness": 3, "reasoning": "Alleged means claimed or asserted, but doesn't capture the sense of something openly displayed to the outside world." },
+        { "distractor": "professed", "closeness": 3, "reasoning": "Professed means declared or claimed, but doesn't emphasize the openly visible, displayed nature of the reason." },
+        { "distractor": "given", "closeness": 3, "reasoning": "Given means stated or provided as explanation, but doesn't specifically suggest something visible to employees as a cover." },
+        { "distractor": "cited", "closeness": 2, "reasoning": "Cited means quoted or referenced, but doesn't suggest the element of public display or the appearance of transparency." },
+        { "distractor": "attributed", "closeness": 2, "reasoning": "Attributed means ascribed or assigned, but doesn't capture the sense of openly displayed justification." },
+        { "distractor": "offered", "closeness": 2, "reasoning": "Offered means presented or proposed, but doesn't suggest the explicit public display element." },
+        { "distractor": "announced", "closeness": 2, "reasoning": "Announced means publicly proclaimed, but doesn't specifically suggest the gap between displayed and actual reason." },
+        { "distractor": "true", "closeness": 1, "reasoning": "True means authentic or genuine, contradicting the implication that the ostensible reason masks the actual one." },
+        { "distractor": "actual", "closeness": 1, "reasoning": "Actual means really existing or happening, contradicting the opposition between ostensible and real reasons." },
+        { "distractor": "hidden", "closeness": 1, "reasoning": "Hidden means concealed from view, the opposite of ostensible which suggests something openly visible." }
+      ]
+    },
+    {
+      "sentence": "The ostensible neutrality of the judge was questioned when her son won a contract from a defendant she had previously acquitted.",
+      "answerChoices": [
+        { "distractor": "claimed", "closeness": 3, "reasoning": "Claimed means asserted or declared, but doesn't suggest something displayed openly while potentially hiding bias." },
+        { "distractor": "professed", "closeness": 3, "reasoning": "Professed means declared or maintained to be true, but doesn't emphasize the openly visible appearance aspect." },
+        { "distractor": "apparent", "closeness": 3, "reasoning": "Apparent means seeming to be evident, but doesn't specifically suggest neutrality openly displayed for public confidence." },
+        { "distractor": "supposed", "closeness": 3, "reasoning": "Supposed means believed or assumed to be true, but doesn't capture the element of deliberate public display." },
+        { "distractor": "reputed", "closeness": 2, "reasoning": "Reputed means generally considered or reported, but doesn't suggest the element of deliberate display." },
+        { "distractor": "acknowledged", "closeness": 2, "reasoning": "Acknowledged means admitted or recognized, but doesn't suggest the sense of neutrality openly displayed for confidence." },
+        { "distractor": "accepted", "closeness": 2, "reasoning": "Accepted means taken as true, but doesn't capture the element of something shown to the public." },
+        { "distractor": "documented", "closeness": 2, "reasoning": "Documented means recorded in writing, but doesn't suggest the openly displayed appearance aspect." },
+        { "distractor": "real", "closeness": 1, "reasoning": "Real means authentic or genuine, contradicting the question of whether the displayed neutrality was truthful." },
+        { "distractor": "genuine", "closeness": 1, "reasoning": "Genuine means authentic and sincere, the opposite of neutrality that appears real but is questionable." },
+        { "distractor": "biased", "closeness": 1, "reasoning": "Biased means having prejudice or favoritism, the direct opposite of the neutrality being displayed." }
+      ]
+    }
+  ]
+}

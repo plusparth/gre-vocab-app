@@ -1,0 +1,53 @@
+{
+  "word": "discriminate",
+  "sentenceSets": [
+    {
+      "sentence": "The study showed that the algorithm discriminated against applicants from certain zip codes, whatever its designers intended.",
+      "answerChoices": [
+        { "distractor": "favored", "closeness": 3, "reasoning": "To favor is to treat preferentially; discriminating against applicants does the opposite — it treats them disadvantageously." },
+        { "distractor": "supported", "closeness": 3, "reasoning": "To support is to help or assist; discrimination disadvantages or harms, not supports." },
+        { "distractor": "assisted", "closeness": 3, "reasoning": "To assist is to help; discrimination hinders rather than assists applicants." },
+        { "distractor": "protected", "closeness": 3, "reasoning": "To protect is to shield from harm; discrimination harms those targeted by it." },
+        { "distractor": "ignored", "closeness": 2, "reasoning": "To ignore is to disregard; discrimination actively treats differently, not passively ignores." },
+        { "distractor": "overlooked", "closeness": 2, "reasoning": "To overlook is to fail to see; while discrimination may involve overlooking merits, it's an active process of differential treatment." },
+        { "distractor": "processed", "closeness": 2, "reasoning": "To process is to handle systematically; discrimination involves unfair treatment, not neutral processing." },
+        { "distractor": "evaluated", "closeness": 1, "reasoning": "To evaluate is to assess; discrimination is unfair differential treatment, not fair evaluation." },
+        { "distractor": "accepted", "closeness": 1, "reasoning": "To accept is to receive favorably; discrimination results in rejection or disadvantage." },
+        { "distractor": "considered", "closeness": 1, "reasoning": "To consider is to give thought to; discrimination involves dismissing without fair consideration." },
+        { "distractor": "analyzed", "closeness": 1, "reasoning": "To analyze is to examine carefully; discrimination is unfair treatment, not objective analysis." }
+      ]
+    },
+    {
+      "sentence": "The company was found to have discriminated against women in promotion decisions, systematically favoring male candidates for leadership roles.",
+      "answerChoices": [
+        { "distractor": "promoted", "closeness": 3, "reasoning": "To promote is to advance; women were discriminated against in promotions, meaning they were not promoted." },
+        { "distractor": "elevated", "closeness": 3, "reasoning": "To elevate is to raise in position; discrimination prevented women from being elevated to leadership." },
+        { "distractor": "supported", "closeness": 3, "reasoning": "To support is to help advance; discrimination did the opposite — it hindered women's advancement." },
+        { "distractor": "encouraged", "closeness": 3, "reasoning": "To encourage is to inspire effort; discriminatory promotion practices discouraged women from advancing." },
+        { "distractor": "advocated", "closeness": 2, "reasoning": "To advocate is to support a cause; the company's actions did the opposite — they opposed equal advancement." },
+        { "distractor": "facilitated", "closeness": 2, "reasoning": "To facilitate is to make easier; discrimination made advancement harder for women." },
+        { "distractor": "enabled", "closeness": 2, "reasoning": "To enable is to make possible; discrimination prevented women from having equal opportunities." },
+        { "distractor": "appointed", "closeness": 1, "reasoning": "To appoint is to assign to a position; women were systematically excluded from appointments." },
+        { "distractor": "selected", "closeness": 1, "reasoning": "To select is to choose; discrimination involved choosing male candidates over equally qualified women." },
+        { "distractor": "recruited", "closeness": 1, "reasoning": "To recruit is to enlist; the company failed to recruit women for leadership roles." },
+        { "distractor": "empowered", "closeness": 1, "reasoning": "To empower is to give power; discrimination removed power and opportunities from women." }
+      ]
+    },
+    {
+      "sentence": "A trained sommelier can discriminate between wines from neighboring vineyards, detecting subtle differences in terroir and vintage.",
+      "answerChoices": [
+        { "distractor": "confuse", "closeness": 3, "reasoning": "To confuse is to mix up or fail to distinguish; discriminating is the opposite — distinguishing subtle differences." },
+        { "distractor": "conflate", "closeness": 3, "reasoning": "To conflate is to blend together indistinguishably; discriminating is making distinctions, not blending." },
+        { "distractor": "equate", "closeness": 3, "reasoning": "To equate is to treat as the same; discriminating involves detecting that things are different." },
+        { "distractor": "homogenize", "closeness": 3, "reasoning": "To homogenize is to make uniform; discriminating between wines emphasizes their differences." },
+        { "distractor": "overlook", "closeness": 2, "reasoning": "To overlook is to fail to notice; discrimination involves actively noticing subtle differences." },
+        { "distractor": "ignore", "closeness": 2, "reasoning": "To ignore is to disregard; a sommelier actively perceives differences rather than ignoring them." },
+        { "distractor": "simplify", "closeness": 2, "reasoning": "To simplify is to make less complex; detecting subtle differences in terroir is sophisticated, not simplified." },
+        { "distractor": "combine", "closeness": 1, "reasoning": "To combine is to blend together; discrimination separates wines into different categories." },
+        { "distractor": "generalize", "closeness": 1, "reasoning": "To generalize is to apply broadly; detecting subtle differences avoids overgeneralization." },
+        { "distractor": "categorize", "closeness": 1, "reasoning": "To categorize is to classify into groups; while related, discrimination emphasizes detecting differences, not creating categories." },
+        { "distractor": "summarize", "closeness": 1, "reasoning": "To summarize is to state briefly; detecting subtle differences in wine requires detailed perception, not summary." }
+      ]
+    }
+  ]
+}

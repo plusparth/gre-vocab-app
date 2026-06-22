@@ -1,0 +1,53 @@
+{
+  "word": "amalgamation",
+  "sentenceSets": [
+    {
+      "sentence": "The amalgamation of the regional banks created significant redundancies but improved overall stability.",
+      "answerChoices": [
+        { "distractor": "merger", "closeness": 3, "reasoning": "Close — 'merger' describes the combining of companies, fitting the banking context exactly, but 'merger' emphasizes the commercial transaction rather than the resulting integrated organization itself." },
+        { "distractor": "consolidation", "closeness": 3, "reasoning": "Close — 'consolidation' means combining into a stronger unified whole, fitting the banking context and the stability outcome, but emphasizes the resulting strength rather than the action and complexity of integration." },
+        { "distractor": "combination", "closeness": 3, "reasoning": "Close — 'combination' describes things joined together, fitting the union of regional banks, but is more generic and does not convey the formal institutional process required in financial sectors." },
+        { "distractor": "fusion", "closeness": 3, "reasoning": "Close — 'fusion' means joining distinct elements into one, fitting the idea of separate banks combining, but emphasizes the joining process rather than the integration challenges and resulting unified body." },
+        { "distractor": "affiliation", "closeness": 2, "reasoning": "Related but incorrect — 'affiliation' means formal association or connection, which could describe banking relationships, but does not convey the sense of complete integration or structural combination." },
+        { "distractor": "alliance", "closeness": 2, "reasoning": "Incorrect — 'alliance' is a cooperative relationship between entities, but implies maintained separation rather than the complete integration that 'amalgamation' suggests." },
+        { "distractor": "collaboration", "closeness": 2, "reasoning": "Incorrect — 'collaboration' means working together, which could describe bank coordination, but does not imply structural combining or unified institutional identity." },
+        { "distractor": "acquisition", "closeness": 2, "reasoning": "Incorrect — 'acquisition' means one entity purchasing another, which could be part of bank combination but does not describe the complete integration of multiple regional entities." },
+        { "distractor": "fragmentation", "closeness": 1, "reasoning": "Opposite — 'fragmentation' means breaking into separate pieces, directly opposite to combining regional banks into one." },
+        { "distractor": "dissolution", "closeness": 1, "reasoning": "Opposite — 'dissolution' means breaking apart or terminating an organization, the opposite of combining banks." },
+        { "distractor": "separation", "closeness": 1, "reasoning": "Incorrect semantic field — 'separation' means dividing or keeping apart, the opposite of combining regional institutions." }
+      ]
+    },
+    {
+      "sentence": "The artist's work represented an amalgamation of minimalist aesthetics and baroque ornamentation, creating a striking visual paradox.",
+      "answerChoices": [
+        { "distractor": "synthesis", "closeness": 3, "reasoning": "Close — 'synthesis' means combining elements into a unified whole, fitting the artistic context of blending aesthetics, but emphasizes intellectual or logical integration rather than physical visual combination." },
+        { "distractor": "fusion", "closeness": 3, "reasoning": "Close — 'fusion' describes joining distinct elements, fitting the combination of minimalism and baroque, but emphasizes the melding process rather than the resulting composed entity." },
+        { "distractor": "blend", "closeness": 3, "reasoning": "Close — 'blend' means combining into a harmonious mixture, fitting artistic combination, but is more generic and does not convey the tension between opposing aesthetics highlighted by 'paradox'." },
+        { "distractor": "hybrid", "closeness": 3, "reasoning": "Close — 'hybrid' describes something combining two different sources, fitting the mixing of aesthetics, but emphasizes the heterogeneous nature rather than the composed, integrated result." },
+        { "distractor": "juxtaposition", "closeness": 2, "reasoning": "Related but incorrect — 'juxtaposition' means placing things side by side for contrast, which could describe the artistic effect, but does not convey the sense of true integration or combination." },
+        { "distractor": "composition", "closeness": 2, "reasoning": "Incorrect — 'composition' refers to the arrangement of elements in art, but does not specifically convey the sense of combining distinct opposing styles into one." },
+        { "distractor": "arrangement", "closeness": 2, "reasoning": "Incorrect — 'arrangement' means organizing elements, but does not convey the deeper sense of combining different aesthetic philosophies." },
+        { "distractor": "proportion", "closeness": 2, "reasoning": "Incorrect — 'proportion' refers to the relative size or relationship of visual elements, unrelated to combining different aesthetic approaches." },
+        { "distractor": "simplification", "closeness": 1, "reasoning": "Opposite — 'simplification' reduces complexity, whereas the sentence describes combining aesthetics that create a complex visual paradox." },
+        { "distractor": "uniformity", "closeness": 1, "reasoning": "Opposite — 'uniformity' means consistency or sameness, contradicting the combining of distinct opposing aesthetics." },
+        { "distractor": "contrast", "closeness": 1, "reasoning": "Incorrect semantic field — 'contrast' emphasizes difference or opposition, whereas 'amalgamation' emphasizes combination and integration." }
+      ]
+    },
+    {
+      "sentence": "The neighborhood was an amalgamation of wealthy historic estates, working-class tenements, and modern glass condos, reflecting decades of unplanned growth.",
+      "answerChoices": [
+        { "distractor": "mixture", "closeness": 3, "reasoning": "Close — 'mixture' describes a combination of different elements, fitting the diverse neighborhood composition, but is more generic and does not convey the sense of a unified space evolving over time." },
+        { "distractor": "collection", "closeness": 3, "reasoning": "Close — 'collection' describes gathered items or elements, fitting the idea of different building types, but emphasizes assembly rather than the historical integration that shaped the neighborhood." },
+        { "distractor": "patchwork", "closeness": 3, "reasoning": "Close — 'patchwork' describes something made of diverse pieces joined together, fitting the neighborhood's composition, but implies more obvious juxtaposition than 'amalgamation.' " },
+        { "distractor": "mosaic", "closeness": 3, "reasoning": "Close — 'mosaic' describes many different elements forming a unified pattern, fitting the neighborhood diversity, but typically emphasizes visual harmony rather than the conflicting historical layers." },
+        { "distractor": "hodgepodge", "closeness": 2, "reasoning": "Related but incorrect — 'hodgepodge' means a confused or disorderly mixture, which could describe unplanned growth, but carries a more pejorative tone than 'amalgamation.' " },
+        { "distractor": "sprawl", "closeness": 2, "reasoning": "Incorrect — 'sprawl' refers to unplanned urban expansion, which could relate to the neighborhood's growth, but does not describe the specific combination of diverse building types." },
+        { "distractor": "succession", "closeness": 2, "reasoning": "Incorrect — 'succession' means a sequence of things following one another, which relates to historical development but does not describe the current combined state." },
+        { "distractor": "stratification", "closeness": 2, "reasoning": "Incorrect — 'stratification' means layers or distinct classes, which relates to social division but does not convey the idea of combination into one neighborhood entity." },
+        { "distractor": "uniformity", "closeness": 1, "reasoning": "Opposite — 'uniformity' means consistency or sameness throughout, the opposite of diverse historic estates, tenements, and modern condos." },
+        { "distractor": "segregation", "closeness": 1, "reasoning": "Opposite — 'segregation' means separation or division, the opposite of combining different residential types in one neighborhood." },
+        { "distractor": "isolation", "closeness": 1, "reasoning": "Incorrect semantic field — 'isolation' means being separated or alone, whereas the sentence describes diverse elements combined within one shared neighborhood." }
+      ]
+    }
+  ]
+}

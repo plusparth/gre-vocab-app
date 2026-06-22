@@ -1,0 +1,53 @@
+{
+  "word": "albeit",
+  "sentenceSets": [
+    {
+      "sentence": "The review was positive, albeit brief, and generated considerable interest in the exhibition.",
+      "answerChoices": [
+        { "distractor": "though", "closeness": 3, "reasoning": "Though introduces a contrasting clause, nearly synonymous with albeit, but is more informal and conversational." },
+        { "distractor": "however", "closeness": 3, "reasoning": "However signals contrast, but is typically set off by punctuation; albeit is used more directly within the clause." },
+        { "distractor": "yet", "closeness": 3, "reasoning": "Yet introduces contrast, fitting the positive-but-brief dynamic, but is typically used at clause level rather than within modification." },
+        { "distractor": "although", "closeness": 3, "reasoning": "Although introduces concession like albeit, nearly synonymous, but is more formal and typically introduces a full clause." },
+        { "distractor": "while", "closeness": 2, "reasoning": "While can introduce contrast, but is broader and can mean temporal simultaneity as well." },
+        { "distractor": "even though", "closeness": 2, "reasoning": "Even though introduces concession, but emphasizes the unexpected nature more than albeit does." },
+        { "distractor": "but", "closeness": 2, "reasoning": "But introduces contrast, but is a more general connector than the concessive meaning of albeit." },
+        { "distractor": "unless", "closeness": 2, "reasoning": "Unless introduces a condition, but doesn't convey the concessive meaning of albeit." },
+        { "distractor": "so", "closeness": 1, "reasoning": "So indicates result or consequence; albeit introduces concession—opposite logical relationships." },
+        { "distractor": "because", "closeness": 1, "reasoning": "Because indicates cause; albeit introduces concession—opposite logical relationships." },
+        { "distractor": "therefore", "closeness": 1, "reasoning": "Therefore indicates result; albeit introduces concession—opposite logical relationships." }
+      ]
+    },
+    {
+      "sentence": "The treatment was successful, albeit slow in producing results, and eventually led to full recovery.",
+      "answerChoices": [
+        { "distractor": "though", "closeness": 3, "reasoning": "Though introduces concession, nearly synonymous with albeit, but is more conversational." },
+        { "distractor": "although", "closeness": 3, "reasoning": "Although introduces concession like albeit, nearly synonymous, but is more formal and typically introduces full clauses." },
+        { "distractor": "even though", "closeness": 3, "reasoning": "Even though introduces concession, but emphasizes surprising contrast more than albeit." },
+        { "distractor": "however", "closeness": 3, "reasoning": "However signals contrast, but is typically set off by punctuation rather than integrated like albeit." },
+        { "distractor": "yet", "closeness": 2, "reasoning": "Yet introduces contrast, but is typically used at clause boundaries rather than within modifications." },
+        { "distractor": "but", "closeness": 2, "reasoning": "But introduces contrast, but is broader than the concessive meaning of albeit." },
+        { "distractor": "still", "closeness": 2, "reasoning": "Still suggests continued action despite something; albeit introduces concession more directly." },
+        { "distractor": "despite", "closeness": 2, "reasoning": "Despite is a preposition showing concession, but requires a noun phrase rather than a clause like albeit." },
+        { "distractor": "therefore", "closeness": 1, "reasoning": "Therefore indicates result; albeit introduces concession—opposite logical relationships." },
+        { "distractor": "thus", "closeness": 1, "reasoning": "Thus indicates consequence; albeit introduces concession—opposite logical directions." },
+        { "distractor": "because", "closeness": 1, "reasoning": "Because indicates cause; albeit introduces concession—opposite logical relationships." }
+      ]
+    },
+    {
+      "sentence": "She was considered an expert in the field, albeit one whose methods were sometimes controversial.",
+      "answerChoices": [
+        { "distractor": "though", "closeness": 3, "reasoning": "Though introduces concession like albeit, nearly synonymous, but is more informal." },
+        { "distractor": "although", "closeness": 3, "reasoning": "Although introduces concession like albeit, nearly synonymous, but is more formal and typically introduces full clauses." },
+        { "distractor": "yet", "closeness": 3, "reasoning": "Yet signals contrast, but is typically at clause level rather than within the modification that albeit provides." },
+        { "distractor": "however", "closeness": 3, "reasoning": "However indicates contrast, but is typically set off by punctuation rather than integrated like albeit." },
+        { "distractor": "while", "closeness": 2, "reasoning": "While can introduce contrast, but is broader and can indicate temporal meaning as well." },
+        { "distractor": "but", "closeness": 2, "reasoning": "But introduces contrast, but is broader than the concessive function of albeit." },
+        { "distractor": "even so", "closeness": 2, "reasoning": "Even so indicates continuing despite something, but is more emphatic than albeit." },
+        { "distractor": "notwithstanding", "closeness": 2, "reasoning": "Notwithstanding shows concession, but is formal and different in structure from albeit." },
+        { "distractor": "therefore", "closeness": 1, "reasoning": "Therefore indicates consequence; albeit introduces concession—opposite logical functions." },
+        { "distractor": "because", "closeness": 1, "reasoning": "Because indicates cause; albeit introduces concession—opposite logical relationships." },
+        { "distractor": "so", "closeness": 1, "reasoning": "So indicates result; albeit introduces concession—opposite logical directions." }
+      ]
+    }
+  ]
+}

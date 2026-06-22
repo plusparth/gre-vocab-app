@@ -1,0 +1,53 @@
+{
+  "word": "detraction",
+  "sentenceSets": [
+    {
+      "sentence": "Her achievements were remarkable enough that even the persistent detraction of her critics could not diminish them.",
+      "answerChoices": [
+        { "distractor": "criticism", "closeness": 3, "reasoning": "Criticism is the expression of disapproval, which detraction involves, but does not necessarily convey the envious or malicious nature." },
+        { "distractor": "disparagement", "closeness": 3, "reasoning": "Disparagement is the act of showing disrespect or belittling, very close to detraction, though detraction emphasizes the impact on reputation." },
+        { "distractor": "belittlement", "closeness": 3, "reasoning": "Belittlement is the act of making someone seem small, very close to detraction, though belittlement emphasizes the action." },
+        { "distractor": "denigration", "closeness": 3, "reasoning": "Denigration is the act of attacking someone's reputation, very close to detraction, but emphasizes the action more than the malice." },
+        { "distractor": "opposition", "closeness": 2, "reasoning": "Opposition is resistance to something, which the critics showed, but does not convey the envious or malicious nature of detraction." },
+        { "distractor": "challenge", "closeness": 2, "reasoning": "Challenge means to question or test, which critics might do, but does not convey the reputation-damaging intent." },
+        { "distractor": "objection", "closeness": 2, "reasoning": "Objection is a reason for disagreeing, which critics might raise, but does not convey the envious or malicious aspect." },
+        { "distractor": "attack", "closeness": 2, "reasoning": "Attack means to criticize or assault, which the detraction was, but is more broad and forceful." },
+        { "distractor": "endorsement", "closeness": 1, "reasoning": "Endorsement is approval or support, which is the opposite of detraction." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Praise is expression of approval and admiration, which is the opposite of detraction." },
+        { "distractor": "acclaim", "closeness": 1, "reasoning": "Acclaim is enthusiastic approval or applause, which is the opposite of detraction." }
+      ]
+    },
+    {
+      "sentence": "The athlete dismissed the detraction surrounding his controversial statements, focusing instead on his on-field performance.",
+      "answerChoices": [
+        { "distractor": "backlash", "closeness": 3, "reasoning": "Backlash is a strong negative reaction, which the detraction represents, but is broader and less about reputation damage." },
+        { "distractor": "controversy", "closeness": 3, "reasoning": "Controversy is public disagreement or argument, which surrounds him, but detraction is the disparaging aspect." },
+        { "distractor": "scandal", "closeness": 3, "reasoning": "Scandal is a public offense, which the situation involves, but detraction focuses on the reputation damage." },
+        { "distractor": "condemnation", "closeness": 3, "reasoning": "Condemnation is official or general disapproval, which the detraction involves, but is more formal." },
+        { "distractor": "censure", "closeness": 2, "reasoning": "Censure is official disapproval, which the detraction might be, but is more formal and institutional." },
+        { "distractor": "judgment", "closeness": 2, "reasoning": "Judgment is an assessment or verdict, but does not specifically convey the reputation-damaging nature." },
+        { "distractor": "verdict", "closeness": 2, "reasoning": "Verdict is a formal decision, but does not convey the disparaging nature of detraction." },
+        { "distractor": "accusation", "closeness": 2, "reasoning": "Accusation is a claim that someone did something wrong, but does not necessarily involve reputation damage." },
+        { "distractor": "support", "closeness": 1, "reasoning": "Support means backing or help, which is the opposite of detraction." },
+        { "distractor": "vindication", "closeness": 1, "reasoning": "Vindication is clearing from blame or suspicion, which is the opposite of detraction." },
+        { "distractor": "defense", "closeness": 1, "reasoning": "Defense is protection from attack or criticism, which is the opposite of detraction." }
+      ]
+    },
+    {
+      "sentence": "The museum director faced constant detraction from board members who begrudged her innovations and sought to undermine her credibility.",
+      "answerChoices": [
+        { "distractor": "sabotage", "closeness": 3, "reasoning": "Sabotage is deliberate damaging of something, which the detraction might be aimed at, but focuses on the action rather than reputation." },
+        { "distractor": "undermining", "closeness": 3, "reasoning": "Undermining is weakening the foundation of something, which the detraction accomplishes, but emphasizes the action more than the malice." },
+        { "distractor": "hostility", "closeness": 3, "reasoning": "Hostility is unfriendly or aggressive attitude, which the board showed, but does not convey the reputation-damaging nature." },
+        { "distractor": "opposition", "closeness": 3, "reasoning": "Opposition is resistance to something, which the board offered, but does not convey the envious or malicious gossip aspect." },
+        { "distractor": "resentment", "closeness": 2, "reasoning": "Resentment is bitter indignation, which the board members felt, but does not describe the reputation-damaging actions." },
+        { "distractor": "jealousy", "closeness": 2, "reasoning": "Jealousy is envious feeling, which might motivate the detraction, but does not describe the reputation damage." },
+        { "distractor": "animosity", "closeness": 2, "reasoning": "Animosity is hostile feeling, but does not necessarily convey the malicious disparagement of detraction." },
+        { "distractor": "conflict", "closeness": 2, "reasoning": "Conflict is a disagreement or clash, which exists between the director and board, but does not emphasize reputation damage." },
+        { "distractor": "approval", "closeness": 1, "reasoning": "Approval is official agreement or acceptance, which is the opposite of detraction." },
+        { "distractor": "support", "closeness": 1, "reasoning": "Support is backing or help, which is the opposite of detraction." },
+        { "distractor": "endorsement", "closeness": 1, "reasoning": "Endorsement is approval and support, which is the opposite of detraction." }
+      ]
+    }
+  ]
+}

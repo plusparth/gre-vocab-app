@@ -1,0 +1,53 @@
+{
+  "word": "discreet",
+  "sentenceSets": [
+    {
+      "sentence": "A discreet inquiry confirmed what the report had only hinted at—the problem was far more serious than acknowledged.",
+      "answerChoices": [
+        { "distractor": "public", "closeness": 3, "reasoning": "Public means open and visible to all; the sentence emphasizes the inquiry's discretion in confirming suspicions quietly, the opposite of public." },
+        { "distractor": "obvious", "closeness": 3, "reasoning": "Obvious means clearly apparent; a discreet inquiry is intentionally subtle and hidden, not obvious to observers." },
+        { "distractor": "announced", "closeness": 3, "reasoning": "Announced means formally declared; a discreet inquiry is conducted quietly without public declaration." },
+        { "distractor": "careless", "closeness": 3, "reasoning": "Careless means without care or prudence; discreet implies careful judgment and thoughtful conduct." },
+        { "distractor": "flagrant", "closeness": 2, "reasoning": "Flagrant means obviously wrong or shocking; a discreet inquiry is subtle and carefully concealed." },
+        { "distractor": "loud", "closeness": 2, "reasoning": "Loud means audible and attention-getting; discreet suggests quiet, unobtrusive actions." },
+        { "distractor": "reckless", "closeness": 2, "reasoning": "Reckless means acting without care; discreet requires prudent judgment and careful conduct." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "Transparent means easily understood and open; a discreet inquiry is deliberately obscured from view." },
+        { "distractor": "brazen", "closeness": 1, "reasoning": "Brazen means bold and shameless; discreet involves restraint and careful judgment." },
+        { "distractor": "vulgar", "closeness": 1, "reasoning": "Vulgar means crude or lacking refinement; discreet implies refined judgment and tasteful conduct." },
+        { "distractor": "blatant", "closeness": 1, "reasoning": "Blatant means glaringly obvious; a discreet inquiry is deliberately hidden and subtle." }
+      ]
+    },
+    {
+      "sentence": "The therapist made discreet notes during the session, careful not to distract the patient with visible recording.",
+      "answerChoices": [
+        { "distractor": "constant", "closeness": 3, "reasoning": "Constant means uninterrupted; the sentence describes selective note-taking designed not to distract, not constant recording." },
+        { "distractor": "extensive", "closeness": 3, "reasoning": "Extensive means covering much area; the sentence emphasizes minimal, careful notes, not extensive documentation." },
+        { "distractor": "obvious", "closeness": 3, "reasoning": "Obvious means clearly visible; the sentence states the therapist was 'careful not to distract' with 'visible recording,' making discreet the opposite." },
+        { "distractor": "intrusive", "closeness": 3, "reasoning": "Intrusive means obtrusive and unwelcome; discreet note-taking minimizes intrusion, unlike intrusive recording." },
+        { "distractor": "detailed", "closeness": 2, "reasoning": "Detailed means comprehensive and thorough; discreet suggests minimal, unobtrusive notation." },
+        { "distractor": "prominent", "closeness": 2, "reasoning": "Prominent means clearly visible or noticeable; discreet notes are inconspicuous and unnoticeable." },
+        { "distractor": "overt", "closeness": 2, "reasoning": "Overt means openly displayed; discreet notes are subtle and hidden from notice." },
+        { "distractor": "loud", "closeness": 1, "reasoning": "Loud means audible and attention-getting; discreet note-taking is quiet and unobtrusive." },
+        { "distractor": "rude", "closeness": 1, "reasoning": "Rude means impolite; discreet behavior is considerate and respectful of the patient's comfort." },
+        { "distractor": "careless", "closeness": 1, "reasoning": "Careless means inattentive; the therapist's careful approach to avoid distraction shows the opposite." },
+        { "distractor": "flamboyant", "closeness": 1, "reasoning": "Flamboyant means showy and dramatic; discreet note-taking is understated and subtle." }
+      ]
+    },
+    {
+      "sentence": "His discreet handling of the sensitive negotiation preserved both parties' dignity and allowed them to reach agreement without public conflict.",
+      "answerChoices": [
+        { "distractor": "confrontational", "closeness": 3, "reasoning": "Confrontational means direct opposition and aggression; discreet handling preserved dignity, the opposite of confrontation." },
+        { "distractor": "public", "closeness": 3, "reasoning": "Public means open and visible; the sentence shows the negotiation remained private and handled carefully, not publicly." },
+        { "distractor": "aggressive", "closeness": 3, "reasoning": "Aggressive means forceful and combative; discreet handling preserves dignity through restraint, not aggressive pressure." },
+        { "distractor": "careless", "closeness": 3, "reasoning": "Careless means without care or thought; discreet handling shows careful, thoughtful judgment." },
+        { "distractor": "inflammatory", "closeness": 2, "reasoning": "Inflammatory means causing anger or conflict; discreet handling prevented public conflict, the opposite." },
+        { "distractor": "obvious", "closeness": 2, "reasoning": "Obvious means plainly apparent; discreet handling is subtle and carefully concealed from public view." },
+        { "distractor": "tactless", "closeness": 2, "reasoning": "Tactless means lacking sensitivity; discreet handling preserves dignity through tactful judgment." },
+        { "distractor": "blunt", "closeness": 1, "reasoning": "Blunt means direct without subtlety; discreet handling is subtle and nuanced." },
+        { "distractor": "crude", "closeness": 1, "reasoning": "Crude means lacking refinement; discreet handling shows refined judgment and cultural sensitivity." },
+        { "distractor": "harsh", "closeness": 1, "reasoning": "Harsh means severe and unkind; discreet handling preserves dignity through gentleness and care." },
+        { "distractor": "vindictive", "closeness": 1, "reasoning": "Vindictive means seeking revenge; discreet handling aimed at agreement, not retribution." }
+      ]
+    }
+  ]
+}

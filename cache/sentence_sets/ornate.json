@@ -1,0 +1,53 @@
+{
+  "word": "ornate",
+  "sentenceSets": [
+    {
+      "sentence": "The ornate prose style made the technical content harder to access without making it more precise.",
+      "answerChoices": [
+        { "distractor": "verbose", "closeness": 3, "reasoning": "Both ornate and verbose describe excessive language, but verbose means repetitive or lengthy without the implication of elaborate decorative style; the sentence shows that ornamentation doesn't add precision, not just length." },
+        { "distractor": "florid", "closeness": 3, "reasoning": "Florid is nearly synonymous and appears in the definition itself, but describes colorful language without necessarily implying the structural complexity that makes technical content inaccessible." },
+        { "distractor": "rhetorical", "closeness": 3, "reasoning": "Rhetorical describes language designed for effect rather than clarity, but doesn't capture the visual-like elaborateness with decorative elements implied by the sentence." },
+        { "distractor": "convoluted", "closeness": 3, "reasoning": "Both suggest complexity that obscures meaning, but convoluted implies tangled logic whereas ornate implies decorative excess that obscures rather than complicates." },
+        { "distractor": "elaborate", "closeness": 2, "reasoning": "Elaborate describes something worked out in detail, but doesn't necessarily imply the decorative, stylistic excess that makes technical writing less precise." },
+        { "distractor": "embellished", "closeness": 2, "reasoning": "Embellished means decorated or enhanced, but doesn't carry the sense of impeding access or undermining clarity in the way the sentence suggests." },
+        { "distractor": "ornamental", "closeness": 2, "reasoning": "Ornamental describes something serving decorative rather than functional purposes, but is typically applied to objects rather than prose style." },
+        { "distractor": "literary", "closeness": 2, "reasoning": "Literary refers to language with artistic merit, but doesn't specifically suggest the excessive decorativeness that makes technical content harder to understand." },
+        { "distractor": "simple", "closeness": 1, "reasoning": "Simple is the opposite of ornate and would contradict the sentence's point about excessive decoration obscuring technical content." },
+        { "distractor": "precise", "closeness": 1, "reasoning": "Precise directly contradicts the sentence's statement that the style doesn't make content more precise, and is the opposite of ornate complexity." },
+        { "distractor": "accessible", "closeness": 1, "reasoning": "Accessible is the opposite quality the sentence claims the ornate style lacks; the sentence explicitly states it made content harder to access." }
+      ]
+    },
+    {
+      "sentence": "The architect's ornate design for the courthouse featured carved columns and decorative moldings at every surface, overwhelming visitors with visual complexity.",
+      "answerChoices": [
+        { "distractor": "baroque", "closeness": 3, "reasoning": "Baroque describes an ornately decorative style, particularly in architecture, but emphasizes emotional drama and grandeur rather than the specific sense of carved details and visual excess described here." },
+        { "distractor": "elaborate", "closeness": 3, "reasoning": "Elaborate describes something worked out in extensive detail, but doesn't capture the sense of decorative excess at every surface that specifically overwhelms visitors." },
+        { "distractor": "embellished", "closeness": 3, "reasoning": "Embellished means decorated or enhanced, but doesn't convey the sense of saturation and overwhelming visual complexity that results from ornamentation covering every surface." },
+        { "distractor": "grandiose", "closeness": 3, "reasoning": "Grandiose describes something impressively large or ambitious, but focuses on scale and ostentation rather than the carved details and decorative moldings creating visual complexity." },
+        { "distractor": "ornamental", "closeness": 2, "reasoning": "Ornamental describes something serving purely decorative purposes, but is a general term that doesn't specifically suggest the architectural style or the effect of overwhelming complexity." },
+        { "distractor": "intricate", "closeness": 2, "reasoning": "Intricate describes something with many small, closely-connected parts, but emphasizes the complexity itself rather than the decorative, style-based nature of the design." },
+        { "distractor": "flamboyant", "closeness": 2, "reasoning": "Flamboyant suggests showy, attention-seeking style, but doesn't specifically evoke the carved columns and moldings or the sense of visual complexity from saturation." },
+        { "distractor": "theatrical", "closeness": 2, "reasoning": "Theatrical describes something intended for dramatic effect, but doesn't capture the architectural specificity or the visual saturation at every surface." },
+        { "distractor": "austere", "closeness": 1, "reasoning": "Austere describes sparse, severe simplicity, which is the opposite of overwhelming visitors with visual complexity." },
+        { "distractor": "functional", "closeness": 1, "reasoning": "Functional prioritizes utility over decoration, contradicting the sentence's emphasis on overwhelming decorative detail at every surface." },
+        { "distractor": "minimalist", "closeness": 1, "reasoning": "Minimalist architecture strips away decorative elements, the opposite of the design that features carved columns and moldings everywhere." }
+      ]
+    },
+    {
+      "sentence": "Her ornate speaking style in public addresses made audiences appreciate the performance but doubt whether she meant what she said.",
+      "answerChoices": [
+        { "distractor": "bombastic", "closeness": 3, "reasoning": "Bombastic describes grandiose, inflated language intended to impress, but differs in suggesting insincerity through inflated importance rather than through decorative elaborateness." },
+        { "distractor": "flowery", "closeness": 3, "reasoning": "Flowery describes language with elaborate metaphors and embellishments, but specifically evokes botanical imagery rather than the performative quality that makes audiences doubt sincerity." },
+        { "distractor": "verbose", "closeness": 3, "reasoning": "Verbose means using excessive words, but the sentence suggests the problem is decorative style creating doubt, not just excessive length." },
+        { "distractor": "grandiloquent", "closeness": 3, "reasoning": "Grandiloquent describes pompous, inflated language, but emphasizes presumption of importance rather than the decorative, stylistic quality that creates a performative effect." },
+        { "distractor": "affected", "closeness": 2, "reasoning": "Affected means artificially assumed or insincere, which the sentence suggests, but doesn't capture the specific sense of elaborate, decorative language creating the doubt." },
+        { "distractor": "theatrical", "closeness": 2, "reasoning": "Theatrical describes language intended for dramatic effect, which is related to the performance aspect, but doesn't specifically suggest the decorative elaborateness." },
+        { "distractor": "pompous", "closeness": 2, "reasoning": "Pompous describes self-important or arrogant speech, but doesn't specifically evoke the decorative, elaborate stylistic features that audiences appreciated." },
+        { "distractor": "rhetorical", "closeness": 2, "reasoning": "Rhetorical describes language designed for persuasive effect, but doesn't capture the decorative, elaborate quality that creates doubt about sincerity." },
+        { "distractor": "candid", "closeness": 1, "reasoning": "Candid means frank and straightforward, which contradicts the sentence's suggestion that the style makes audiences doubt sincerity." },
+        { "distractor": "plain", "closeness": 1, "reasoning": "Plain describes simple, unembellished language, the opposite of the decorative style that made audiences appreciate the performance." },
+        { "distractor": "understated", "closeness": 1, "reasoning": "Understated means deliberately not emphasizing, the opposite of the elaborate style that audiences appreciated for its performative quality." }
+      ]
+    }
+  ]
+}

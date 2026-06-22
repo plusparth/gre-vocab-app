@@ -1,0 +1,185 @@
+{
+  "word": "demur",
+  "sentenceSets": [
+    {
+      "sentence": "She demurred when asked to sign the petition, not because she disagreed but because the timing was wrong.",
+      "answerChoices": [
+        {
+          "distractor": "refused",
+          "closeness": 3,
+          "reasoning": "To refuse is to decline or reject; she does refuse to sign, but the sentence shows her objection is based on timing, not disagreement, whereas refusal could imply categorical rejection."
+        },
+        {
+          "distractor": "objected",
+          "closeness": 3,
+          "reasoning": "To object is to make an objection or protest; she does object, but the sentence shows her concern is specifically about timing rather than the petition's substance, which is a demur."
+        },
+        {
+          "distractor": "hesitated",
+          "closeness": 3,
+          "reasoning": "To hesitate is to pause or show reluctance; while she shows reluctance, the sentence indicates a stated objection to the timing, not merely hesitation."
+        },
+        {
+          "distractor": "declined",
+          "closeness": 3,
+          "reasoning": "To decline is to politely refuse; she declines to sign, but the sentence shows a stated objection based on timing, which is more specific than a simple decline."
+        },
+        {
+          "distractor": "questioned",
+          "closeness": 2,
+          "reasoning": "To question is to express doubt or ask about something; while she questions the timing, the sentence shows she doesn't sign, which is more than questioning."
+        },
+        {
+          "distractor": "resisted",
+          "closeness": 2,
+          "reasoning": "To resist is to oppose or push back against; she does resist signing, but the sentence shows a specific objection to timing, which is a demur."
+        },
+        {
+          "distractor": "protested",
+          "closeness": 2,
+          "reasoning": "To protest is to express strong objection; she does protest, but the sentence suggests her objection is about timing, not the petition itself, making demur more precise."
+        },
+        {
+          "distractor": "challenged",
+          "closeness": 2,
+          "reasoning": "To challenge is to question the validity of something; while she challenges the timing decision, the sentence shows a formal objection based on circumstance, which is a demur."
+        },
+        {
+          "distractor": "agreed",
+          "closeness": 1,
+          "reasoning": "To agree is to concur or accept; the sentence explicitly states she demurred, which is the opposite of agreeing."
+        },
+        {
+          "distractor": "assented",
+          "closeness": 1,
+          "reasoning": "To assent is to agree or express approval; she demurred, which is the opposite of assenting."
+        },
+        {
+          "distractor": "consented",
+          "closeness": 1,
+          "reasoning": "To consent is to agree to something; she demurred, which means she did not consent."
+        }
+      ]
+    },
+    {
+      "sentence": "The committee member demurred at the proposed budget, arguing that resources should be allocated differently.",
+      "answerChoices": [
+        {
+          "distractor": "complained",
+          "closeness": 3,
+          "reasoning": "To complain is to express dissatisfaction; the member does complain, but the sentence shows a formal objection with alternative reasoning, which is a demur rather than mere complaint."
+        },
+        {
+          "distractor": "protested",
+          "closeness": 3,
+          "reasoning": "To protest is to express strong objection; the member protests, but the sentence shows a formal objection with constructive reasoning about allocation, which is a demur."
+        },
+        {
+          "distractor": "opposed",
+          "closeness": 3,
+          "reasoning": "To oppose is to resist or act against; the member opposes the budget, but the sentence shows a specific objection based on allocation priorities, which is a demur."
+        },
+        {
+          "distractor": "disputed",
+          "closeness": 3,
+          "reasoning": "To dispute is to question the validity of something; the member disputes the budget, but the sentence shows an objection with alternative reasoning, which is a demur."
+        },
+        {
+          "distractor": "contested",
+          "closeness": 2,
+          "reasoning": "To contest is to challenge or dispute; the member contests the budget, but the sentence shows a formal objection with reasoning, which is specifically a demur."
+        },
+        {
+          "distractor": "questioned",
+          "closeness": 2,
+          "reasoning": "To question is to express doubt about something; the member questions the budget, but the sentence shows more than questioning—it shows a formal objection based on principles."
+        },
+        {
+          "distractor": "criticized",
+          "closeness": 2,
+          "reasoning": "To criticize is to express disapproval; the member criticizes the budget, but the sentence shows a formal objection within committee process, which is a demur."
+        },
+        {
+          "distractor": "attacked",
+          "closeness": 2,
+          "reasoning": "To attack is to criticize harshly or hostilely; while the member may seem to attack the budget, the sentence shows reasoned objection, not hostile attack."
+        },
+        {
+          "distractor": "approved",
+          "closeness": 1,
+          "reasoning": "To approve is to agree or give consent; the member demurred, which is the opposite of approving."
+        },
+        {
+          "distractor": "endorsed",
+          "closeness": 1,
+          "reasoning": "To endorse is to declare one's approval; the member objected, which is the opposite of endorsing."
+        },
+        {
+          "distractor": "supported",
+          "closeness": 1,
+          "reasoning": "To support is to back or advocate for; the member demurred at the budget, which is the opposite of supporting it."
+        }
+      ]
+    },
+    {
+      "sentence": "Though he appreciated the job offer, he demurred at accepting until he could discuss the terms with his family.",
+      "answerChoices": [
+        {
+          "distractor": "stalled",
+          "closeness": 3,
+          "reasoning": "To stall is to delay or obstruct; he does delay acceptance, but the sentence shows a stated objection or hesitation based on needing consultation, which is a demur."
+        },
+        {
+          "distractor": "balked",
+          "closeness": 3,
+          "reasoning": "To balk is to hesitate or refuse suddenly; he does hesitate, but the sentence shows a polite, reasoned objection, not an abrupt refusal."
+        },
+        {
+          "distractor": "wavered",
+          "closeness": 3,
+          "reasoning": "To waver is to show uncertainty or indecision; he does waver, but the sentence shows a specific stated objection to the timing, which is a demur."
+        },
+        {
+          "distractor": "procrastinated",
+          "closeness": 3,
+          "reasoning": "To procrastinate is to delay unnecessarily; he delays acceptance, but the sentence shows a reasoned request for consultation, not mere procrastination."
+        },
+        {
+          "distractor": "postponed",
+          "closeness": 2,
+          "reasoning": "To postpone is to put off to a later time; he does postpone acceptance, but the sentence shows an objection or demur until a condition is met, not mere postponement."
+        },
+        {
+          "distractor": "resisted",
+          "closeness": 2,
+          "reasoning": "To resist is to oppose or push back; he resists accepting immediately, but the sentence shows a polite objection with a reason, which is a demur."
+        },
+        {
+          "distractor": "hesitated",
+          "closeness": 2,
+          "reasoning": "To hesitate is to pause or show reluctance; he hesitates to accept, but the sentence shows a stated objection or reservation, which is a demur."
+        },
+        {
+          "distractor": "requested",
+          "closeness": 2,
+          "reasoning": "To request is to ask for something; while he requests time to discuss, the sentence shows he demurs at accepting until conditions are met."
+        },
+        {
+          "distractor": "accepted",
+          "closeness": 1,
+          "reasoning": "To accept is to agree to take something; the sentence explicitly states he demurred, which is the opposite of accepting."
+        },
+        {
+          "distractor": "embraced",
+          "closeness": 1,
+          "reasoning": "To embrace is to accept enthusiastically; the sentence shows he demurred at accepting, which is the opposite of embracing."
+        },
+        {
+          "distractor": "welcomed",
+          "closeness": 1,
+          "reasoning": "To welcome is to greet gladly or accept happily; the sentence shows he demurred at accepting, which is the opposite of welcoming."
+        }
+      ]
+    }
+  ]
+}

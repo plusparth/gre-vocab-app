@@ -1,0 +1,53 @@
+{
+  "word": "arid",
+  "sentenceSets": [
+    {
+      "sentence": "The region's arid climate supported few crops without extensive irrigation.",
+      "answerChoices": [
+        { "distractor": "barren", "closeness": 3, "reasoning": "A barren landscape lacks vegetation, which may result from aridity, but 'barren' describes the outcome while 'arid' describes the climate condition causing that outcome." },
+        { "distractor": "sparse", "closeness": 3, "reasoning": "Sparse vegetation characterizes arid regions, but 'sparse' focuses on the distribution of plants, whereas 'arid' refers to the moisture condition of the climate itself." },
+        { "distractor": "desert-like", "closeness": 3, "reasoning": "Deserts are characterized by aridity, but 'desert-like' suggests a landscape type, whereas 'arid' specifically describes the climate's dryness." },
+        { "distractor": "inhospitable", "closeness": 3, "reasoning": "Arid climates are inhospitable to crops, but 'inhospitable' is broader and could apply to cold, toxic, or otherwise unsuitable regions." },
+        { "distractor": "parched", "closeness": 2, "reasoning": "'Parched' describes excessively dry soil or conditions, but it emphasizes present dryness more than a climate pattern; a region could be temporarily parched." },
+        { "distractor": "desiccated", "closeness": 2, "reasoning": "'Desiccated' means dried out completely, which can describe drought-stricken land, but it emphasizes the state of individual objects rather than a climate characteristic." },
+        { "distractor": "desolate", "closeness": 2, "reasoning": "'Desolate' describes empty, lifeless terrain, which aridity causes, but 'desolate' emphasizes bleakness and isolation rather than the specific climate feature." },
+        { "distractor": "infertile", "closeness": 2, "reasoning": "Arid regions are often infertile, but 'infertile' can result from many causes (poor soil chemistry, contamination); 'arid' specifically indicates lack of moisture." },
+        { "distractor": "tropical", "closeness": 1, "reasoning": "Opposite—tropical climates are wet and humid, the opposite of arid." },
+        { "distractor": "temperate", "closeness": 1, "reasoning": "Opposite—temperate climates have moderate moisture and rainfall, contrasting with arid conditions." },
+        { "distractor": "lush", "closeness": 1, "reasoning": "Opposite—lush regions have abundant vegetation supported by moisture, the opposite of what an arid climate would produce." }
+      ]
+    },
+    {
+      "sentence": "The manuscript's arid style—page after page of dry facts without narrative flow or human interest—made it nearly unreadable despite its scholarly value.",
+      "answerChoices": [
+        { "distractor": "terse", "closeness": 3, "reasoning": "Both describe concise writing, but 'terse' emphasizes brief and abrupt expression, whereas 'arid' suggests lifeless and unengaging presentation; the sentence emphasizes lack of narrative and interest, not brevity." },
+        { "distractor": "pedantic", "closeness": 3, "reasoning": "Pedantic writing is overly scholarly and tedious, which the manuscript exhibits, but 'pedantic' emphasizes excessive display of learning, whereas 'arid' stresses the absence of vitality." },
+        { "distractor": "dense", "closeness": 3, "reasoning": "Dense writing is tightly packed, but the sentence emphasizes the lack of engaging narrative flow, not information density; a dense work could be engaging." },
+        { "distractor": "bland", "closeness": 3, "reasoning": "Bland writing lacks flavor or interest, similar to 'arid,' but 'bland' suggests softness or mediocrity, whereas 'arid' emphasizes dryness and lifelessness." },
+        { "distractor": "esoteric", "closeness": 2, "reasoning": "Esoteric writing is obscure and specialized, but the sentence suggests the problem is lack of engagement rather than accessibility to specialists." },
+        { "distractor": "verbose", "closeness": 2, "reasoning": "Verbose means wordy, which contradicts the sentence's sense of sparse 'dry facts'; verbosity would be the opposite of the described problem." },
+        { "distractor": "incoherent", "closeness": 2, "reasoning": "'Incoherent' means lacking logical flow, but the sentence suggests the writing is coherent—presenting facts—yet unengaging." },
+        { "distractor": "allegorical", "closeness": 2, "reasoning": "'Allegorical' describes symbolic narrative, which is opposite to the described style of bare facts without narrative." },
+        { "distractor": "scintillating", "closeness": 1, "reasoning": "Opposite—'scintillating' means brilliantly engaging, the opposite of the lifeless and unreadable quality described." },
+        { "distractor": "vivacious", "closeness": 1, "reasoning": "Opposite—'vivacious' conveys lively, animated energy, contrasting sharply with the dry, lifeless manuscript described." },
+        { "distractor": "eloquent", "closeness": 1, "reasoning": "Opposite—'eloquent' writing is persuasive and expressive, the opposite of dry facts that lack narrative and human interest." }
+      ]
+    },
+    {
+      "sentence": "The political debate was arid—both candidates recited statistics and policy positions with no emotional appeal or vision to inspire the electorate.",
+      "answerChoices": [
+        { "distractor": "sterile", "closeness": 3, "reasoning": "'Sterile' describes something barren and lifeless, similar to 'arid,' but 'sterile' emphasizes absence of growth or production, whereas 'arid' stresses emotional and imaginative emptiness." },
+        { "distractor": "mechanical", "closeness": 3, "reasoning": "Mechanical delivery suggests rote recitation, fitting the sentence, but 'mechanical' emphasizes the automatic, unthinking quality, while 'arid' refers to lack of vitality and inspiration." },
+        { "distractor": "uninspired", "closeness": 3, "reasoning": "Uninspired work lacks originality or imaginative spark, which fits the described debate, but 'uninspired' focuses on creative deficit rather than the specific dryness and emotional void." },
+        { "distractor": "dull", "closeness": 3, "reasoning": "A dull debate bores the audience, and the sentence supports this, but 'dull' is broader and could apply to slow pacing or confusing topics, whereas 'arid' specifically suggests lifelessness." },
+        { "distractor": "combative", "closeness": 2, "reasoning": "Combative debate involves hostile exchange, but the sentence emphasizes absence of emotional engagement, suggesting a lack of clash rather than aggressive conflict." },
+        { "distractor": "abstract", "closeness": 2, "reasoning": "Abstract discussion of policy ideas might lack engagement, but the sentence specifies 'statistics and policy positions,' suggesting concrete rather than abstract discourse." },
+        { "distractor": "perfunctory", "closeness": 2, "reasoning": "'Perfunctory' describes cursory, obligatory performance, but the sentence emphasizes substantive poverty (statistics without vision) rather than superficial adherence to duty." },
+        { "distractor": "acrimonious", "closeness": 2, "reasoning": "'Acrimonious' suggests bitter conflict, whereas the sentence implies a lack of emotional heat—facts without appeal." },
+        { "distractor": "riveting", "closeness": 1, "reasoning": "Opposite—'riveting' means captivating and engaging, the opposite of a debate lacking emotional appeal or inspiring vision." },
+        { "distractor": "passionate", "closeness": 1, "reasoning": "Opposite—'passionate' conveys strong emotion and conviction, whereas the arid debate is described as emotionally empty." },
+        { "distractor": "rousing", "closeness": 1, "reasoning": "Opposite—'rousing' means stirring and exciting, contrasting with the lifeless statistics-only debate described." }
+      ]
+    }
+  ]
+}

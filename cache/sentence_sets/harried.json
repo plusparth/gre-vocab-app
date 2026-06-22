@@ -1,0 +1,53 @@
+{
+  "word": "harried",
+  "sentenceSets": [
+    {
+      "sentence": "The harried assistant rushed from one meeting to the next, unable to complete any task fully.",
+      "answerChoices": [
+        { "distractor": "busy", "closeness": 3, "reasoning": "Busy means occupied with many activities, but harried emphasizes stress and anxiety, not just busyness." },
+        { "distractor": "overwhelmed", "closeness": 3, "reasoning": "Overwhelmed means submerged under too much, but harried emphasizes anxious rushing, not being submerged." },
+        { "distractor": "stressed", "closeness": 3, "reasoning": "Stressed means under pressure, nearly synonymous with harried, but harried emphasizes frantic activity." },
+        { "distractor": "hurried", "closeness": 3, "reasoning": "Hurried means rushed, but harried emphasizes stressed anxiety from harassment, not just speed." },
+        { "distractor": "fatigued", "closeness": 2, "reasoning": "Fatigued means tired or exhausted, but harried emphasizes anxious rushing, not tiredness." },
+        { "distractor": "anxious", "closeness": 2, "reasoning": "Anxious means worried or nervous, but harried emphasizes active harassment or pursuit causing stress." },
+        { "distractor": "frantic", "closeness": 2, "reasoning": "Frantic means wildly excited or active, but harried emphasizes stress from demands or harassment." },
+        { "distractor": "scattered", "closeness": 2, "reasoning": "Scattered means disorganized, but harried emphasizes stress and anxious rushing." },
+        { "distractor": "calm", "closeness": 1, "reasoning": "Calm means peaceful or untroubled, opposite to harried stress." },
+        { "distractor": "composed", "closeness": 1, "reasoning": "Composed means calm and collected, opposite to harried." },
+        { "distractor": "unhurried", "closeness": 1, "reasoning": "Unhurried means taking time without rush, opposite to harried rushing." }
+      ]
+    },
+    {
+      "sentence": "The harried mother of twins managed the household chaos with remarkable patience despite constant demands.",
+      "answerChoices": [
+        { "distractor": "tired", "closeness": 3, "reasoning": "Tired means fatigued, but harried emphasizes stress from harassment and demands, not exhaustion." },
+        { "distractor": "harassed", "closeness": 3, "reasoning": "Harassed means troubled or subjected to unwanted attention, nearly synonymous with harried but harassed emphasizes troubling more." },
+        { "distractor": "beleaguered", "closeness": 3, "reasoning": "Beleaguered means troubled or hemmed in, nearly synonymous with harried, but emphasizes being trapped." },
+        { "distractor": "worn", "closeness": 3, "reasoning": "Worn means looking exhausted, but harried emphasizes stress from demands, not appearance." },
+        { "distractor": "exasperated", "closeness": 2, "reasoning": "Exasperated means annoyed or frustrated to irritation, but harried emphasizes stress from demands." },
+        { "distractor": "frazzled", "closeness": 2, "reasoning": "Frazzled means exhausted, but harried emphasizes stress from harassment and demands." },
+        { "distractor": "pressured", "closeness": 2, "reasoning": "Pressured means subjected to pressure, but harried emphasizes anxious rushing from multiple demands." },
+        { "distractor": "flustered", "closeness": 2, "reasoning": "Flustered means confused or upset, but harried emphasizes stress from harassment and demands." },
+        { "distractor": "serene", "closeness": 1, "reasoning": "Serene means calm and peaceful, opposite to harried stress." },
+        { "distractor": "relaxed", "closeness": 1, "reasoning": "Relaxed means free from tension, opposite to harried." },
+        { "distractor": "untroubled", "closeness": 1, "reasoning": "Untroubled means free from worry, opposite to harried." }
+      ]
+    },
+    {
+      "sentence": "The harried executive, pursued by a barrage of emails and urgent calls, finally took a vacation.",
+      "answerChoices": [
+        { "distractor": "busy", "closeness": 3, "reasoning": "Busy means engaged in many activities, but harried emphasizes stress from being pursued or harassed." },
+        { "distractor": "stressed", "closeness": 3, "reasoning": "Stressed means under pressure, but harried emphasizes being pursued or harassed, not just stressed." },
+        { "distractor": "inundated", "closeness": 3, "reasoning": "Inundated means flooded or overwhelmed, but harried emphasizes anxious rushing from harassment." },
+        { "distractor": "pursued", "closeness": 3, "reasoning": "Pursued means chased, which is part of harried's meaning, but harried emphasizes the resulting stress." },
+        { "distractor": "pressured", "closeness": 2, "reasoning": "Pressured means subjected to force or demand, but harried emphasizes anxiety from pursuit." },
+        { "distractor": "hounded", "closeness": 2, "reasoning": "Hounded means persistently pursued, but harried emphasizes the resulting anxious state." },
+        { "distractor": "plagued", "closeness": 2, "reasoning": "Plagued means troubled or bothered, but harried specifically emphasizes stress from demands." },
+        { "distractor": "besieged", "closeness": 2, "reasoning": "Besieged means surrounded or pressed hard, but harried emphasizes anxious rushing." },
+        { "distractor": "peaceful", "closeness": 1, "reasoning": "Peaceful means free from conflict, opposite to harried." },
+        { "distractor": "unbothered", "closeness": 1, "reasoning": "Unbothered means not troubled or annoyed, opposite to harried." },
+        { "distractor": "tranquil", "closeness": 1, "reasoning": "Tranquil means calm and peaceful, opposite to harried stress." }
+      ]
+    }
+  ]
+}

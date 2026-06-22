@@ -1,0 +1,53 @@
+{
+  "word": "determinant",
+  "sentenceSets": [
+    {
+      "sentence": "Access to early education is a significant determinant of long-term economic outcomes.",
+      "answerChoices": [
+        { "distractor": "factor", "closeness": 3, "reasoning": "Factor is an element or contributor to a result, very close to determinant, but is more general and does not emphasize the determining influence." },
+        { "distractor": "influence", "closeness": 3, "reasoning": "Influence is the power to affect something, which early education has, but does not emphasize the determining or fixing aspect." },
+        { "distractor": "predictor", "closeness": 3, "reasoning": "Predictor is something that indicates a likely outcome, which early education access is, but emphasizes forecasting rather than determining." },
+        { "distractor": "cause", "closeness": 3, "reasoning": "Cause is something that produces an effect, which education access is, but does not convey the same precision in determining outcomes." },
+        { "distractor": "contributor", "closeness": 2, "reasoning": "Contributor is something that helps bring about a result, which early education is, but does not emphasize the determining nature." },
+        { "distractor": "element", "closeness": 2, "reasoning": "Element is a component or part, which education is in this context, but does not emphasize its determining role." },
+        { "distractor": "indicator", "closeness": 2, "reasoning": "Indicator is something that shows or points to something else, which education access might be, but does not convey determining nature." },
+        { "distractor": "variable", "closeness": 2, "reasoning": "Variable is something that varies or can change, which education access does, but emphasizes changeable nature over determining role." },
+        { "distractor": "consequence", "closeness": 1, "reasoning": "Consequence is a result or effect, which long-term outcomes are, but education access is the determinant causing them, not the consequence." },
+        { "distractor": "outcome", "closeness": 1, "reasoning": "Outcome is a final result, which the economic outcomes are, but education access is what determines the outcome, not the outcome itself." },
+        { "distractor": "byproduct", "closeness": 1, "reasoning": "Byproduct is something produced incidentally, which is opposite to the primary determining role of education access." }
+      ]
+    },
+    {
+      "sentence": "Genetics and environment are both important determinants of personality, though researchers still debate their relative contributions.",
+      "answerChoices": [
+        { "distractor": "components", "closeness": 3, "reasoning": "Components are parts or elements that make up something, which genetics and environment are, but does not emphasize the determining role." },
+        { "distractor": "ingredients", "closeness": 3, "reasoning": "Ingredients are constituent elements, very close to determinants, but is more often used for physical mixtures." },
+        { "distractor": "contributors", "closeness": 3, "reasoning": "Contributors are those that help cause something, which genetics and environment do, but is less specific about the determining nature." },
+        { "distractor": "influences", "closeness": 3, "reasoning": "Influences are powers to affect something, which genetics and environment have, but do not convey the determining aspect." },
+        { "distractor": "characteristics", "closeness": 2, "reasoning": "Characteristics are features or attributes, which genetics and environment have, but does not describe their determining role." },
+        { "distractor": "properties", "closeness": 2, "reasoning": "Properties are qualities or attributes, but does not describe how genetics and environment determine personality." },
+        { "distractor": "sources", "closeness": 2, "reasoning": "Sources are origins or points of origin, which genetics and environment are, but does not convey determining nature." },
+        { "distractor": "foundations", "closeness": 2, "reasoning": "Foundations are bases or underlying structures, which genetics and environment provide, but is less specific about determining nature." },
+        { "distractor": "effects", "closeness": 1, "reasoning": "Effects are results or consequences, but genetics and environment are causes, not effects of personality." },
+        { "distractor": "products", "closeness": 1, "reasoning": "Products are results or things made, but genetics and environment are determinants, not the products of personality." },
+        { "distractor": "outcomes", "closeness": 1, "reasoning": "Outcomes are final results, but personality is the outcome determined by genetics and environment." }
+      ]
+    },
+    {
+      "sentence": "Climate is a key determinant of which crops can thrive in a region, often outweighing farmers' technical expertise.",
+      "answerChoices": [
+        { "distractor": "barrier", "closeness": 3, "reasoning": "Barrier is something that blocks or restricts, which climate can be for certain crops, but does not convey the determining role positively or negatively." },
+        { "distractor": "constraint", "closeness": 3, "reasoning": "Constraint is a limitation or restriction, which climate can be, but emphasizes limitation more than the determining influence." },
+        { "distractor": "limitation", "closeness": 3, "reasoning": "Limitation is a restriction or boundary, which climate imposes, but does not convey the comprehensive determining role." },
+        { "distractor": "condition", "closeness": 3, "reasoning": "Condition is a requirement or circumstance affecting something, which climate is, very close to determinant." },
+        { "distractor": "circumstance", "closeness": 2, "reasoning": "Circumstance is a condition or fact, which climate is, but is less specific about the determining role." },
+        { "distractor": "setting", "closeness": 2, "reasoning": "Setting is the surrounding conditions, which climate is, but does not emphasize the determining nature." },
+        { "distractor": "context", "closeness": 2, "reasoning": "Context is the circumstances or conditions, which climate provides, but is less specific about determining outcomes." },
+        { "distractor": "parameter", "closeness": 2, "reasoning": "Parameter is a set limit or boundary, which climate creates for crops, but is more technical." },
+        { "distractor": "choice", "closeness": 1, "reasoning": "Choice is a decision made, but climate is a determinant, not something chosen by farmers." },
+        { "distractor": "alternative", "closeness": 1, "reasoning": "Alternative is another option available, which is opposite to climate as a determining constraint." },
+        { "distractor": "possibility", "closeness": 1, "reasoning": "Possibility is something that might happen, but climate is a determinant that limits possibilities." }
+      ]
+    }
+  ]
+}

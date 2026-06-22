@@ -1,0 +1,53 @@
+{
+  "word": "allege",
+  "sentenceSets": [
+    {
+      "sentence": "The report alleged widespread corruption, though no supporting evidence was provided.",
+      "answerChoices": [
+        { "distractor": "claimed", "closeness": 3, "reasoning": "Claimed means asserted, but doesn't carry the legal sense of asserting without immediate proof that allege implies." },
+        { "distractor": "stated", "closeness": 3, "reasoning": "Stated means expressed, but doesn't convey the sense of asserting without proof or legal implication." },
+        { "distractor": "asserted", "closeness": 3, "reasoning": "Asserted means declared with confidence, but doesn't emphasize the lack of supporting evidence aspect." },
+        { "distractor": "suggested", "closeness": 3, "reasoning": "Suggested means hinted, but is weaker than alleged and doesn't convey the formal assertion without proof." },
+        { "distractor": "reported", "closeness": 2, "reasoning": "Reported means made known, but doesn't carry the sense of asserting without immediate proof." },
+        { "distractor": "indicated", "closeness": 2, "reasoning": "Indicated means pointed to, but doesn't convey the formal assertion without proof aspect." },
+        { "distractor": "hinted", "closeness": 2, "reasoning": "Hinted means suggested indirectly, but is weaker than alleged's formal assertion." },
+        { "distractor": "implied", "closeness": 2, "reasoning": "Implied means suggested indirectly, but doesn't convey the formal assertion without proof aspect." },
+        { "distractor": "proved", "closeness": 1, "reasoning": "Proved means demonstrated to be true; the sentence states no evidence was provided—opposite outcomes." },
+        { "distractor": "verified", "closeness": 1, "reasoning": "Verified means confirmed as true; alleged means asserted without proof—opposite levels of evidence." },
+        { "distractor": "denied", "closeness": 1, "reasoning": "Denied means rejected; alleged means asserted—opposite positions." }
+      ]
+    },
+    {
+      "sentence": "The defendant alleges that he was nowhere near the scene of the crime.",
+      "answerChoices": [
+        { "distractor": "claims", "closeness": 3, "reasoning": "Claims means asserts, but doesn't carry the legal sense of asserting without immediate proof." },
+        { "distractor": "maintains", "closeness": 3, "reasoning": "Maintains means asserts or upholds, but doesn't convey the legal sense of asserting unproven claims." },
+        { "distractor": "insists", "closeness": 3, "reasoning": "Insists means demands or asserts firmly, but doesn't convey the legal sense of unproven allegations." },
+        { "distractor": "states", "closeness": 3, "reasoning": "States means expresses, but doesn't carry the legal implication of asserting without immediate proof." },
+        { "distractor": "declares", "closeness": 2, "reasoning": "Declares means announces formally, but doesn't convey the legal sense of unproven claims." },
+        { "distractor": "professes", "closeness": 2, "reasoning": "Professes means declares openly, but doesn't carry the legal sense of asserting without proof." },
+        { "distractor": "swears", "closeness": 2, "reasoning": "Swears means makes an oath, but is more emphatic than alleged's assertion without proof." },
+        { "distractor": "argues", "closeness": 2, "reasoning": "Argues means presents reasoning, but doesn't convey the formal legal assertion aspect of allege." },
+        { "distractor": "admits", "closeness": 1, "reasoning": "Admits means confesses; the defendant alleges innocence—opposite positions." },
+        { "distractor": "concedes", "closeness": 1, "reasoning": "Concedes means acknowledges; alleging innocence is asserting the opposite—opposite positions." },
+        { "distractor": "confesses", "closeness": 1, "reasoning": "Confesses means admits guilt; allegations of being elsewhere are assertions of innocence—opposite positions." }
+      ]
+    },
+    {
+      "sentence": "The investigation alleged that the company had knowingly violated environmental regulations for years.",
+      "answerChoices": [
+        { "distractor": "found", "closeness": 3, "reasoning": "Found means discovered or determined, but doesn't convey the sense of asserting without conclusive proof." },
+        { "distractor": "determined", "closeness": 3, "reasoning": "Determined means established or decided, but suggests more conclusiveness than alleged." },
+        { "distractor": "revealed", "closeness": 3, "reasoning": "Revealed means uncovered, but suggests definitive discovery rather than assertion without proof." },
+        { "distractor": "showed", "closeness": 3, "reasoning": "Showed means demonstrated, but suggests more conclusive evidence than alleged requires." },
+        { "distractor": "indicated", "closeness": 2, "reasoning": "Indicated means suggested or pointed to, but is weaker than alleged's formal assertion." },
+        { "distractor": "suggested", "closeness": 2, "reasoning": "Suggested means hinted, but is less formal than alleged's legal assertion." },
+        { "distractor": "pointed out", "closeness": 2, "reasoning": "Pointed out means indicated, but is less formal than alleged's legal assertion." },
+        { "distractor": "reported", "closeness": 2, "reasoning": "Reported means made known, but doesn't convey the assertion without conclusive proof aspect." },
+        { "distractor": "proved", "closeness": 1, "reasoning": "Proved means demonstrated conclusively; alleged means asserted without proof—opposite certainty levels." },
+        { "distractor": "established", "closeness": 1, "reasoning": "Established means set up definitively; alleged means asserted without proof—opposite certainty levels." },
+        { "distractor": "verified", "closeness": 1, "reasoning": "Verified means confirmed; alleged means asserted without confirmation—opposite certainty levels." }
+      ]
+    }
+  ]
+}

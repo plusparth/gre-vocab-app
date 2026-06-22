@@ -1,0 +1,53 @@
+{
+  "word": "diaphanous",
+  "sentenceSets": [
+    {
+      "sentence": "Her diaphanous dress caught the light beautifully, but was wholly impractical for the occasion.",
+      "answerChoices": [
+        { "distractor": "delicate", "closeness": 3, "reasoning": "Delicate describes something fragile and refined; while the dress is delicate, the sentence emphasizes its transparency and how light passes through it rather than just its fragility." },
+        { "distractor": "translucent", "closeness": 3, "reasoning": "Translucent means allowing light to pass through but not transparent; the dress is diaphanous, which more specifically means nearly transparent and extremely delicate." },
+        { "distractor": "ethereal", "closeness": 3, "reasoning": "Ethereal describes something heavenly and insubstantial; while the dress appears ethereal, the sentence focuses on its transparent, gossamer quality rather than its heavenly appearance." },
+        { "distractor": "gossamer", "closeness": 3, "reasoning": "Gossamer describes something sheer and light as a spider's web; while very close, it emphasizes the delicate, wispy texture more than the specific visual property of seeing through." },
+        { "distractor": "sheer", "closeness": 2, "reasoning": "Sheer describes transparency and thinness; while the dress is sheer, diaphanous more specifically emphasizes the delicate, refined quality of the transparent fabric." },
+        { "distractor": "filmy", "closeness": 2, "reasoning": "Filmy describes something covered with or made of a thin film; while applicable, it emphasizes the thinness more than the specific quality of light passing through." },
+        { "distractor": "airy", "closeness": 2, "reasoning": "Airy describes lightness and lack of weight; while the dress is airy, the sentence emphasizes how beautifully light passes through it rather than just its lightness." },
+        { "distractor": "light", "closeness": 2, "reasoning": "Light describes something not heavy; while the dress is light, it does not capture the specific visual quality of transparency and fineness that diaphanous conveys." },
+        { "distractor": "opaque", "closeness": 1, "reasoning": "Opaque means not allowing light to pass through, opposite to diaphanous." },
+        { "distractor": "thick", "closeness": 1, "reasoning": "Thick means densely packed or not thin, opposite to the delicate thinness of the dress." },
+        { "distractor": "heavy", "closeness": 1, "reasoning": "Heavy describes great weight and substance, opposite to the light, transparent quality." }
+      ]
+    },
+    {
+      "sentence": "Through the diaphanous curtains, the morning sunlight created shifting patterns on the bedroom walls.",
+      "answerChoices": [
+        { "distractor": "translucent", "closeness": 3, "reasoning": "Translucent means allowing some light through but not fully transparent; the sentence shows light clearly passing through and creating patterns, suggesting more transparency than typical translucency." },
+        { "distractor": "sheer", "closeness": 3, "reasoning": "Sheer describes transparency and thinness; while the curtains are sheer, diaphanous more precisely captures their delicate, refined quality and how light passes through them." },
+        { "distractor": "thin", "closeness": 3, "reasoning": "Thin describes lack of thickness; while the curtains are thin, the sentence emphasizes their specific quality of allowing light to pass through and create patterns." },
+        { "distractor": "gossamer", "closeness": 3, "reasoning": "Gossamer describes delicate, wispy texture; while very close, it emphasizes the delicate weave more than the specific visual effect of sunlight passing through." },
+        { "distractor": "lightweight", "closeness": 2, "reasoning": "Lightweight describes lack of weight; while the curtains are lightweight, the sentence emphasizes the visual property of light transmission rather than weight." },
+        { "distractor": "filmy", "closeness": 2, "reasoning": "Filmy describes something with a thin surface layer; the sentence shows light clearly passing through, not just a thin film." },
+        { "distractor": "clear", "closeness": 2, "reasoning": "Clear means allowing vision and light through; while the curtains allow light through, diaphanous more specifically describes the delicate, refined quality of the material." },
+        { "distractor": "soft", "closeness": 2, "reasoning": "Soft describes gentle texture; while the curtains are soft, the sentence emphasizes their transparency and how light interacts with them." },
+        { "distractor": "opaque", "closeness": 1, "reasoning": "Opaque means not allowing light to pass through, opposite to what the sentence shows." },
+        { "distractor": "solid", "closeness": 1, "reasoning": "Solid means dense and substantial, opposite to the light, transparent curtains." },
+        { "distractor": "dark", "closeness": 1, "reasoning": "Dark blocks light, opposite to the light-transmitting quality shown in the sentence." }
+      ]
+    },
+    {
+      "sentence": "The diaphanous veil the bride wore allowed her face to be seen clearly but added an ethereal quality to her appearance.",
+      "answerChoices": [
+        { "distractor": "delicate", "closeness": 3, "reasoning": "Delicate describes something fine and easily damaged; while the veil is delicate, the sentence emphasizes its transparency and how it allows the face to be seen rather than just its fragility." },
+        { "distractor": "sheer", "closeness": 3, "reasoning": "Sheer describes thinness and transparency; while the veil is sheer, diaphanous more specifically captures the refined, ethereal quality created by the fine transparency." },
+        { "distractor": "translucent", "closeness": 3, "reasoning": "Translucent means allowing some light through but not fully transparent; the sentence shows the face being seen clearly, suggesting more transparency than typical translucency." },
+        { "distractor": "wispy", "closeness": 3, "reasoning": "Wispy describes something thin, light, and insubstantial; while the veil is wispy, the sentence emphasizes its transparency more than its wispy texture." },
+        { "distractor": "airy", "closeness": 2, "reasoning": "Airy describes lightness and lack of density; while the veil is airy, the sentence emphasizes the visual quality of seeing through it rather than just its lightness." },
+        { "distractor": "fine", "closeness": 2, "reasoning": "Fine describes delicate craftsmanship and thin quality; while the veil is fine, diaphanous more precisely captures the specific visual property of transparency." },
+        { "distractor": "gossamer", "closeness": 2, "reasoning": "Gossamer describes delicate, wispy texture like spider silk; the sentence emphasizes the transparency that allows the face to be seen clearly." },
+        { "distractor": "filmy", "closeness": 2, "reasoning": "Filmy describes a thin film-like covering; while applicable, the sentence emphasizes the clarity of vision through the veil rather than a film-like quality." },
+        { "distractor": "opaque", "closeness": 1, "reasoning": "Opaque means not allowing vision through, opposite to the veil that allows the bride's face to be clearly seen." },
+        { "distractor": "obscuring", "closeness": 1, "reasoning": "Obscuring means blocking from view, opposite to the veil that allows the bride to be seen." },
+        { "distractor": "thick", "closeness": 1, "reasoning": "Thick means densely packed and not thin, opposite to the delicate transparency." }
+      ]
+    }
+  ]
+}

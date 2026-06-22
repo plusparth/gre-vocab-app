@@ -1,0 +1,53 @@
+{
+  "word": "adverse",
+  "sentenceSets": [
+    {
+      "sentence": "The expedition faced adverse weather conditions that slowed progress to almost nothing.",
+      "answerChoices": [
+        { "distractor": "severe", "closeness": 3, "reasoning": "Though severe weather would slow progress, severe describes intensity rather than active opposition; adverse emphasizes hostility toward the expedition's goal." },
+        { "distractor": "unpredictable", "closeness": 3, "reasoning": "Unpredictable weather would disrupt plans, but doesn't convey the sense of working against the expedition's interest that adverse requires." },
+        { "distractor": "extreme", "closeness": 3, "reasoning": "Extreme conditions could block progress, but extreme measures degree without the sense of opposition or hostility that adverse conveys." },
+        { "distractor": "unfavorable", "closeness": 3, "reasoning": "Unfavorable is close—unpleasant conditions—but less emphatic about acting against the expedition than adverse, which suggests active opposition." },
+        { "distractor": "inclement", "closeness": 2, "reasoning": "Inclement means stormy or harsh weather, making it contextually fitting, but it describes weather quality without the adversarial angle." },
+        { "distractor": "difficult", "closeness": 2, "reasoning": "Difficult captures the challenge, but it's too general; adverse is specifically about conditions that work against the expedition." },
+        { "distractor": "dangerous", "closeness": 2, "reasoning": "Dangerous weather could threaten the expedition, but the sentence stresses slowness, not hazard." },
+        { "distractor": "unusual", "closeness": 2, "reasoning": "Unusual conditions might slow progress if unexpected, but the sentence implies the conditions actively oppose motion, not just surprise the team." },
+        { "distractor": "favorable", "closeness": 1, "reasoning": "Favorable means helpful or supporting; it directly contradicts the sense that weather is working against the expedition." },
+        { "distractor": "pleasant", "closeness": 1, "reasoning": "Pleasant weather would speed progress, opposite to the sentence's indication that conditions slow the expedition almost to a halt." },
+        { "distractor": "seasonal", "closeness": 1, "reasoning": "Seasonal simply describes timing, not opposition or hostility; it has no connection to slowing the expedition." }
+      ]
+    },
+    {
+      "sentence": "The court ruled against the defendant, citing several adverse testimonies from eyewitnesses.",
+      "answerChoices": [
+        { "distractor": "damaging", "closeness": 3, "reasoning": "Damaging testimony harms the defendant's case, but damaging is too broad; adverse specifically means testimony that acts against the defendant's interests." },
+        { "distractor": "contradictory", "closeness": 3, "reasoning": "Contradictory testimony conflicts with the defense, but doesn't capture the sense of being hostile or working against the defendant." },
+        { "distractor": "conflicting", "closeness": 3, "reasoning": "Conflicting testimony opposes the defense narrative, but lacks the stronger sense of active opposition implied by adverse." },
+        { "distractor": "unfavorable", "closeness": 3, "reasoning": "Unfavorable testimony harms the case, but is softer than adverse and doesn't emphasize the oppositional stance toward the defendant." },
+        { "distractor": "incriminating", "closeness": 2, "reasoning": "Incriminating testimony suggests guilt, which would hurt the defendant, but refers to evidence of crime rather than testimony working against the defendant's position." },
+        { "distractor": "detailed", "closeness": 2, "reasoning": "Detailed testimonies could provide strong evidence, but don't imply opposition; they're simply thorough rather than hostile to the defendant." },
+        { "distractor": "compelling", "closeness": 2, "reasoning": "Compelling testimony is persuasive, but persuasiveness doesn't guarantee it works against the defendant—the modifier doesn't signal opposition." },
+        { "distractor": "consistent", "closeness": 2, "reasoning": "Consistent testimony carries weight, but consistency alone doesn't indicate whether it helps or harms the defendant." },
+        { "distractor": "favorable", "closeness": 1, "reasoning": "Favorable testimony would support the defendant, directly opposite to the court's use against the defendant." },
+        { "distractor": "ambiguous", "closeness": 1, "reasoning": "Ambiguous testimony is unclear and wouldn't decisively support a ruling against the defendant." },
+        { "distractor": "speculative", "closeness": 1, "reasoning": "Speculative testimony is guesswork; eyewitness accounts are observed facts, not guesses, so this contradicts the context." }
+      ]
+    },
+    {
+      "sentence": "The star player's injury proved adverse to the team's championship hopes, forcing a shift to backup players.",
+      "answerChoices": [
+        { "distractor": "detrimental", "closeness": 3, "reasoning": "Detrimental means harmful, fitting the context, but is a more general harm; adverse implies active opposition to the goal." },
+        { "distractor": "catastrophic", "closeness": 3, "reasoning": "Catastrophic describes severity, and the backup shift suggests real damage, but catastrophic overstates the result—backups can still compete." },
+        { "distractor": "fatal", "closeness": 3, "reasoning": "Fatal could mean ending the championship bid, fitting the sense of ruined hopes, but overstates the certainty—backups don't guarantee failure." },
+        { "distractor": "damaging", "closeness": 3, "reasoning": "Damaging captures the harm to chances, but is less directional than adverse—adverse emphasizes the injury acting against the team." },
+        { "distractor": "unfortunate", "closeness": 2, "reasoning": "Unfortunate fits the bad timing, but lacks the sense of active opposition or working against the goal that adverse conveys." },
+        { "distractor": "problematic", "closeness": 2, "reasoning": "Problematic captures that the injury causes difficulty, but doesn't emphasize opposition to the championship objective." },
+        { "distractor": "unexpected", "closeness": 2, "reasoning": "Unexpected fits if the injury was surprising, but doesn't establish that it works against the team's interests." },
+        { "distractor": "serious", "closeness": 2, "reasoning": "Serious matches the gravity, but describes the injury itself rather than its opposition to the championship bid." },
+        { "distractor": "beneficial", "closeness": 1, "reasoning": "Beneficial would help, the opposite of harming championship hopes." },
+        { "distractor": "minor", "closeness": 1, "reasoning": "Minor injuries don't force shifts to backups; the forcing of substitutions contradicts a minor impact." },
+        { "distractor": "irrelevant", "closeness": 1, "reasoning": "Irrelevant things have no effect; the sentence's focus on derailed hopes contradicts irrelevance." }
+      ]
+    }
+  ]
+}

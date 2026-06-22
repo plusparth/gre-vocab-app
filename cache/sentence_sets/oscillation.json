@@ -1,0 +1,53 @@
+{
+  "word": "oscillation",
+  "sentenceSets": [
+    {
+      "sentence": "The oscillation between confidence and self-doubt was visible in the quality variation of his output over the period.",
+      "answerChoices": [
+        { "distractor": "vacillation", "closeness": 3, "reasoning": "Vacillation means wavering or indecision, but doesn't capture the rhythmic, back-and-forth quality between two opposing states." },
+        { "distractor": "fluctuation", "closeness": 3, "reasoning": "Fluctuation means irregular variation up and down, but doesn't specifically suggest the steady, pendulum-like swinging between two positions." },
+        { "distractor": "wavering", "closeness": 3, "reasoning": "Wavering means showing hesitation, but doesn't convey the rhythmic alternation between confidence and doubt." },
+        { "distractor": "fluctuance", "closeness": 3, "reasoning": "Fluctuance is not a standard word, but fluctuance-like uncertainty differs from oscillation's regular swinging motion." },
+        { "distractor": "inconsistency", "closeness": 2, "reasoning": "Inconsistency means lack of uniformity or contradiction, but doesn't suggest the rhythmic back-and-forth pattern." },
+        { "distractor": "variability", "closeness": 2, "reasoning": "Variability means tendency to vary or change, but doesn't specifically suggest the swinging between two states." },
+        { "distractor": "turmoil", "closeness": 2, "reasoning": "Turmoil means confusion or disorder, but doesn't suggest the measured, back-and-forth pattern of oscillation." },
+        { "distractor": "tension", "closeness": 2, "reasoning": "Tension describes strain between opposing forces, but doesn't capture the repetitive swinging between confidence and doubt." },
+        { "distractor": "consistency", "closeness": 1, "reasoning": "Consistency means uniform or unchanging quality, the opposite of oscillating back and forth between states." },
+        { "distractor": "stability", "closeness": 1, "reasoning": "Stability means remaining fixed and unchanging, contradicting the swinging motion of oscillation." },
+        { "distractor": "resolution", "closeness": 1, "reasoning": "Resolution means settling or deciding definitively, the opposite of oscillating between conflicting states." }
+      ]
+    },
+    {
+      "sentence": "The oscillation of the suspension bridge under wind load was within engineered tolerances, but the visible swaying still made drivers nervous.",
+      "answerChoices": [
+        { "distractor": "swaying", "closeness": 3, "reasoning": "Swaying describes movement back and forth, but doesn't capture the technical, mechanical sense of regular oscillation." },
+        { "distractor": "vibration", "closeness": 3, "reasoning": "Vibration describes rapid back-and-forth movement, but typically at higher frequencies than the visible swaying implied here." },
+        { "distractor": "flexing", "closeness": 3, "reasoning": "Flexing means bending or yielding, but doesn't specifically suggest the rhythmic back-and-forth motion of a pendulum." },
+        { "distractor": "motion", "closeness": 3, "reasoning": "Motion means movement in general, but doesn't specify the particular rhythmic, back-and-forth quality of oscillation." },
+        { "distractor": "movement", "closeness": 2, "reasoning": "Movement describes change of position, but is too general and doesn't suggest the regular back-and-forth pattern." },
+        { "distractor": "displacement", "closeness": 2, "reasoning": "Displacement means change in position, but doesn't specifically suggest the rhythmic swinging motion." },
+        { "distractor": "turbulence", "closeness": 2, "reasoning": "Turbulence describes chaotic, irregular motion, but doesn't suggest the ordered, rhythmic oscillation." },
+        { "distractor": "perturbation", "closeness": 2, "reasoning": "Perturbation means disturbance or deviation, but doesn't specifically capture the back-and-forth swinging motion." },
+        { "distractor": "stability", "closeness": 1, "reasoning": "Stability means resistance to change, the opposite of the back-and-forth motion that makes drivers nervous." },
+        { "distractor": "rigidity", "closeness": 1, "reasoning": "Rigidity means lack of flexibility, contradicting the visible swaying under wind load." },
+        { "distractor": "stillness", "closeness": 1, "reasoning": "Stillness means absence of motion, the opposite of the oscillation that engineers must design for." }
+      ]
+    },
+    {
+      "sentence": "The oscillation of public opinion on the proposed tax policy seemed to follow election cycles, swinging from support to opposition and back.",
+      "answerChoices": [
+        { "distractor": "vacillation", "closeness": 3, "reasoning": "Vacillation means wavering or indecision, but doesn't capture the regular, cyclic pattern tied to elections." },
+        { "distractor": "fluctuation", "closeness": 3, "reasoning": "Fluctuation means irregular variation, but doesn't specifically suggest the rhythmic back-and-forth swinging between support and opposition." },
+        { "distractor": "shift", "closeness": 3, "reasoning": "Shift means change or movement, but doesn't capture the sense of rhythmic, repeated back-and-forth motion." },
+        { "distractor": "volatility", "closeness": 3, "reasoning": "Volatility means rapid, unpredictable change, but suggests chaos rather than the ordered, cyclical pattern of oscillation." },
+        { "distractor": "change", "closeness": 2, "reasoning": "Change means alteration or difference, but doesn't suggest the repeated, back-and-forth pattern tied to electoral cycles." },
+        { "distractor": "instability", "closeness": 2, "reasoning": "Instability means lack of firmness or steadiness, but doesn't suggest the rhythmic alternation between opposing positions." },
+        { "distractor": "inconsistency", "closeness": 2, "reasoning": "Inconsistency means lack of uniformity, but doesn't capture the regular, predictable cyclical nature tied to elections." },
+        { "distractor": "uncertainty", "closeness": 2, "reasoning": "Uncertainty means lack of certainty, but doesn't describe the particular pattern of swinging between support and opposition." },
+        { "distractor": "consensus", "closeness": 1, "reasoning": "Consensus means agreement or common opinion, the opposite of swinging back and forth between support and opposition." },
+        { "distractor": "consistency", "closeness": 1, "reasoning": "Consistency means uniform or unchanging quality, contradicting the back-and-forth swinging of public opinion." },
+        { "distractor": "consensus", "closeness": 1, "reasoning": "Consensus means broad agreement, the opposite of oscillating between opposing views on tax policy." }
+      ]
+    }
+  ]
+}

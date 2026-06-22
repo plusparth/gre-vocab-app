@@ -1,0 +1,53 @@
+{
+  "word": "allusion",
+  "sentenceSets": [
+    {
+      "sentence": "The poem is full of allusions to classical mythology that many modern readers miss.",
+      "answerChoices": [
+        { "distractor": "reference", "closeness": 3, "reasoning": "Close — 'reference' means a mention or citation of something, and the sentence structure supports this, but 'reference' can be direct and explicit, whereas 'allusion' specifically denotes indirect, subtle mention that readers might miss." },
+        { "distractor": "citation", "closeness": 3, "reasoning": "Close — 'citation' is a specific mention or quote from another work, fitting the idea of drawing from classical mythology, but 'citation' implies direct attribution, whereas 'allusion' is indirect and requires reader interpretation." },
+        { "distractor": "quotation", "closeness": 3, "reasoning": "Close — 'quotation' is an exact excerpt from another text, fitting the context of classical material, but it is explicit and clearly marked, whereas the sentence emphasizes that readers 'miss' the references, suggesting indirect allusion." },
+        { "distractor": "echo", "closeness": 3, "reasoning": "Close — 'echo' describes a subtle or faint repetition of something, fitting the idea of indirect mythological references, but 'echo' emphasizes sound or repetition rather than deliberate reference to a source." },
+        { "distractor": "imitation", "closeness": 2, "reasoning": "Related but incorrect — 'imitation' means copying a style or manner, which could apply to poetic allusions, but emphasizes mimicry rather than specific references to mythological sources." },
+        { "distractor": "adaptation", "closeness": 2, "reasoning": "Incorrect — 'adaptation' means reshaping material for a different form or audience, but does not convey the subtle indirect reference that 'allusion' suggests." },
+        { "distractor": "allegory", "closeness": 2, "reasoning": "Incorrect — 'allegory' is a narrative conveying symbolic meaning, which could involve mythological material, but is a distinct literary device requiring sustained narrative rather than passing reference." },
+        { "distractor": "metaphor", "closeness": 2, "reasoning": "Incorrect — 'metaphor' is a figure of speech comparing two things, which could reference mythology but does not specifically denote an indirect reference to an external source." },
+        { "distractor": "paraphrase", "closeness": 1, "reasoning": "Incorrect semantic field — 'paraphrase' means to restate in different words, which is the opposite of a subtle, indirect reference that readers might miss." },
+        { "distractor": "digression", "closeness": 1, "reasoning": "Incorrect — 'digression' means a temporary departure from the main topic, which does not describe poetic references to classical sources." },
+        { "distractor": "narration", "closeness": 1, "reasoning": "Incorrect semantic field — 'narration' is the act of telling a story, unrelated to subtle references within poetic language." }
+      ]
+    },
+    {
+      "sentence": "The director's latest film contains a clever allusion to a 1970s spy thriller, visible only to viewers familiar with that era's cinema.",
+      "answerChoices": [
+        { "distractor": "homage", "closeness": 3, "reasoning": "Close — 'homage' is a tribute or honor to something past, fitting the director's referential approach, but 'homage' implies deliberate, acknowledged respect, whereas the sentence emphasizes subtlety visible only to knowledgeable viewers." },
+        { "distractor": "tribute", "closeness": 3, "reasoning": "Close — 'tribute' is a public expression of respect or gratitude, fitting the idea of honoring past cinema, but implies explicit acknowledgment rather than a subtle, clever reference." },
+        { "distractor": "nod", "closeness": 3, "reasoning": "Close — a 'nod' is a subtle gesture of acknowledgment, fitting the indirect nature of the reference, but typically refers to physical gesture rather than textual or visual reference." },
+        { "distractor": "callback", "closeness": 3, "reasoning": "Close — 'callback' is a subtle reference to earlier material, fitting the cinematic context, but usually describes internal references within a single work rather than references to external sources." },
+        { "distractor": "imitation", "closeness": 2, "reasoning": "Related but incorrect — 'imitation' means copying style or manner, which could apply to referencing cinema style, but emphasizes replication rather than subtle acknowledgment." },
+        { "distractor": "quotation", "closeness": 2, "reasoning": "Incorrect — 'quotation' typically refers to repeating exact words or scenes from another work, implying more explicitness than the 'clever' and subtle reference described." },
+        { "distractor": "pastiche", "closeness": 2, "reasoning": "Incorrect — 'pastiche' is a composition made of pieces from various sources, but lacks the specificity of referencing a single 1970s film." },
+        { "distractor": "replication", "closeness": 2, "reasoning": "Incorrect — 'replication' means exact duplication, which contradicts the subtlety and cleverness implied by the sentence." },
+        { "distractor": "contradiction", "closeness": 1, "reasoning": "Opposite — 'contradiction' describes opposing meanings or facts, whereas the sentence describes a respectful, clever reference." },
+        { "distractor": "distortion", "closeness": 1, "reasoning": "Incorrect semantic field — 'distortion' means twisting or misrepresenting, whereas the sentence describes an intentional, clever reference." },
+        { "distractor": "exposition", "closeness": 1, "reasoning": "Incorrect semantic field — 'exposition' is explanation or display of information, unrelated to clever, subtle references within a film." }
+      ]
+    },
+    {
+      "sentence": "In his speech, the candidate made an allusion to Lincoln's Gettysburg Address, hoping to invoke the gravitas of historical precedent.",
+      "answerChoices": [
+        { "distractor": "appeal", "closeness": 3, "reasoning": "Close — 'appeal' means a request or attempt to persuade by invoking something, fitting the sentence's idea of hoping to invoke gravitas, but 'appeal' is broader and does not specifically denote indirect reference." },
+        { "distractor": "invocation", "closeness": 3, "reasoning": "Close — 'invocation' means calling upon or bringing to mind something, fitting the senator's attempt to invoke Lincoln's precedent, but it emphasizes the act of calling rather than the subtle, indirect reference." },
+        { "distractor": "citation", "closeness": 3, "reasoning": "Close — 'citation' is a specific mention of another work or person, fitting the reference to Lincoln, but implies direct attribution rather than a subtle, indirect allusion." },
+        { "distractor": "evocation", "closeness": 3, "reasoning": "Close — 'evocation' means bringing something to mind or memory, fitting the attempt to invoke historical precedent, but emphasizes the emotional effect rather than the indirect reference itself." },
+        { "distractor": "analogy", "closeness": 2, "reasoning": "Related but incorrect — 'analogy' is a comparison between two things to show similarity, which could involve historical reference, but does not specifically indicate an indirect mention of a source." },
+        { "distractor": "demonstration", "closeness": 2, "reasoning": "Incorrect — 'demonstration' means showing or proving something, which does not convey the subtle, indirect nature of referential language." },
+        { "distractor": "exhortation", "closeness": 2, "reasoning": "Incorrect — 'exhortation' is urgent persuasive speech, which could describe the candidate's goal but not the mechanism of indirect historical reference." },
+        { "distractor": "assertion", "closeness": 2, "reasoning": "Incorrect — 'assertion' is a confident statement, which does not describe the subtle, indirect reference to Lincoln." },
+        { "distractor": "plagiarism", "closeness": 1, "reasoning": "Opposite — 'plagiarism' means presenting others' work as one's own, the opposite of an acknowledged reference." },
+        { "distractor": "fabrication", "closeness": 1, "reasoning": "Opposite — 'fabrication' means creating something false, whereas the sentence describes drawing on authentic historical precedent." },
+        { "distractor": "dismissal", "closeness": 1, "reasoning": "Incorrect semantic field — 'dismissal' means rejecting or discounting something, opposite to invoking its gravitas and authority." }
+      ]
+    }
+  ]
+}

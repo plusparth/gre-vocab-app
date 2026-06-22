@@ -1,0 +1,185 @@
+{
+  "word": "deposition",
+  "sentenceSets": [
+    {
+      "sentence": "Her deposition lasted four hours, covering every decision she had made during the disputed period.",
+      "answerChoices": [
+        {
+          "distractor": "testimony",
+          "closeness": 3,
+          "reasoning": "Testimony is a statement made under oath; she gives testimony, but the sentence requires a word specifically for out-of-court recorded testimony, which is a deposition."
+        },
+        {
+          "distractor": "statement",
+          "closeness": 3,
+          "reasoning": "A statement is something stated; she makes a statement, but the sentence requires a word for formal legal recorded testimony, which is a deposition."
+        },
+        {
+          "distractor": "interview",
+          "closeness": 3,
+          "reasoning": "An interview is a conversation; while she is interviewed, the sentence requires a word for formal legal testimony, which is a deposition."
+        },
+        {
+          "distractor": "examination",
+          "closeness": 3,
+          "reasoning": "An examination is a formal investigation; she is examined, but the sentence requires a word for recorded out-of-court testimony, which is a deposition."
+        },
+        {
+          "distractor": "questioning",
+          "closeness": 2,
+          "reasoning": "Questioning is the act of asking questions; while she is questioned, the sentence requires a word for formal recorded legal testimony."
+        },
+        {
+          "distractor": "interrogation",
+          "closeness": 2,
+          "reasoning": "Interrogation is formal questioning; while she is interrogated, the sentence requires a word for recorded legal testimony outside court."
+        },
+        {
+          "distractor": "account",
+          "closeness": 2,
+          "reasoning": "An account is a narrative or description; she provides an account, but the sentence requires a word for formal legal recorded testimony."
+        },
+        {
+          "distractor": "narrative",
+          "closeness": 2,
+          "reasoning": "A narrative is a story or account; she presents a narrative, but the sentence requires a word for formal legal testimony."
+        },
+        {
+          "distractor": "dismissal",
+          "closeness": 1,
+          "reasoning": "Dismissal is a rejection or termination; the sentence describes a detailed testimony, not a dismissal."
+        },
+        {
+          "distractor": "acquittal",
+          "closeness": 1,
+          "reasoning": "Acquittal is a verdict of not guilty; the sentence describes testimony, not a verdict."
+        },
+        {
+          "distractor": "conviction",
+          "closeness": 1,
+          "reasoning": "Conviction is a declaration of guilt; the sentence describes testimony, not a verdict or verdict decision."
+        }
+      ]
+    },
+    {
+      "sentence": "The defendant's lawyer objected to several points in the witness's deposition, claiming they were outside the scope of the investigation.",
+      "answerChoices": [
+        {
+          "distractor": "testimony",
+          "closeness": 3,
+          "reasoning": "Testimony is a statement under oath; the witness gives testimony, but the sentence requires a word for formal recorded out-of-court legal testimony, which is a deposition."
+        },
+        {
+          "distractor": "statement",
+          "closeness": 3,
+          "reasoning": "A statement is something stated; the witness makes a statement, but the sentence requires a word for formal recorded legal testimony."
+        },
+        {
+          "distractor": "account",
+          "closeness": 3,
+          "reasoning": "An account is a narrative; the witness gives an account, but the sentence requires a word for formal legal recorded testimony."
+        },
+        {
+          "distractor": "narrative",
+          "closeness": 3,
+          "reasoning": "A narrative is a story; the witness provides a narrative, but the sentence requires a word for formal legal recorded testimony, which is a deposition."
+        },
+        {
+          "distractor": "claim",
+          "closeness": 2,
+          "reasoning": "A claim is something asserted; while the witness makes claims, the sentence requires a word for formal recorded legal testimony."
+        },
+        {
+          "distractor": "assertion",
+          "closeness": 2,
+          "reasoning": "An assertion is something stated positively; the witness makes assertions, but the sentence requires a word for formal legal testimony."
+        },
+        {
+          "distractor": "evidence",
+          "closeness": 2,
+          "reasoning": "Evidence is information presented to prove something; the witness provides evidence, but the sentence requires a word for formal legal testimony."
+        },
+        {
+          "distractor": "contribution",
+          "closeness": 2,
+          "reasoning": "A contribution is something given or provided; while the witness contributes to the case, the sentence requires a word for formal legal testimony."
+        },
+        {
+          "distractor": "verdict",
+          "closeness": 1,
+          "reasoning": "A verdict is a judgment or decision; the sentence describes testimony, not a verdict."
+        },
+        {
+          "distractor": "ruling",
+          "closeness": 1,
+          "reasoning": "A ruling is a decision by a judge; the sentence describes testimony, not a judicial decision."
+        },
+        {
+          "distractor": "judgment",
+          "closeness": 1,
+          "reasoning": "Judgment is a decision; the sentence describes testimony, not a judgment."
+        }
+      ]
+    },
+    {
+      "sentence": "The opposing counsel used contradictions in her earlier deposition to undermine her credibility in court.",
+      "answerChoices": [
+        {
+          "distractor": "testimony",
+          "closeness": 3,
+          "reasoning": "Testimony is evidence given under oath; while the witness testified, the sentence requires a word for formal recorded out-of-court testimony, which is a deposition."
+        },
+        {
+          "distractor": "statement",
+          "closeness": 3,
+          "reasoning": "A statement is something stated; while she made a statement, the sentence requires a word for formal recorded legal testimony."
+        },
+        {
+          "distractor": "interview",
+          "closeness": 3,
+          "reasoning": "An interview is a conversation; while she was interviewed, the sentence requires a word for formal recorded legal testimony, which is a deposition."
+        },
+        {
+          "distractor": "account",
+          "closeness": 3,
+          "reasoning": "An account is a narrative; while she gave an account, the sentence requires a word for formal recorded legal testimony."
+        },
+        {
+          "distractor": "narrative",
+          "closeness": 2,
+          "reasoning": "A narrative is a story; while she presented a narrative, the sentence requires a word for formal legal recorded testimony."
+        },
+        {
+          "distractor": "record",
+          "closeness": 2,
+          "reasoning": "A record is a documented account; while the testimony is recorded, the sentence requires a word for the formal legal proceeding."
+        },
+        {
+          "distractor": "transcript",
+          "closeness": 2,
+          "reasoning": "A transcript is a written record of a recording; while depositions are transcribed, the sentence refers to the original proceeding."
+        },
+        {
+          "distractor": "exchange",
+          "closeness": 2,
+          "reasoning": "An exchange is a conversation or reciprocal interaction; the sentence requires a word for formal legal testimony."
+        },
+        {
+          "distractor": "verdict",
+          "closeness": 1,
+          "reasoning": "A verdict is a judgment; the sentence describes previous testimony, not a verdict."
+        },
+        {
+          "distractor": "decision",
+          "closeness": 1,
+          "reasoning": "A decision is a determination; the sentence describes testimony, not a decision."
+        },
+        {
+          "distractor": "ruling",
+          "closeness": 1,
+          "reasoning": "A ruling is a judicial decision; the sentence describes testimony, not a judgment or ruling."
+        }
+      ]
+    }
+  ]
+}

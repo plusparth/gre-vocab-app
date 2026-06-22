@@ -1,0 +1,53 @@
+{
+  "word": "digression",
+  "sentenceSets": [
+    {
+      "sentence": "The chapter's long digression on the city's history, while fascinating, pulled the narrative off course for nearly forty pages.",
+      "answerChoices": [
+        { "distractor": "tangent", "closeness": 3, "reasoning": "Tangent describes a sudden departure; while the passage is tangential, digression more formally describes an extended departure from the main narrative." },
+        { "distractor": "excursion", "closeness": 3, "reasoning": "Excursion describes a journey or trip away; while the passage is an excursion, digression more specifically describes a departure within a narrative." },
+        { "distractor": "aside", "closeness": 3, "reasoning": "Aside describes a remark made off-topic; while the passage is aside-like, digression more specifically describes an extended departure from the main narrative." },
+        { "distractor": "detour", "closeness": 3, "reasoning": "Detour describes taking an alternate route; while the passage is a detour, digression more specifically describes the extended departure in a narrative." },
+        { "distractor": "commentary", "closeness": 2, "reasoning": "Commentary describes explanatory remarks; while the passage provides commentary, digression more specifically means the passage departs from the main narrative." },
+        { "distractor": "parenthetical", "closeness": 2, "reasoning": "Parenthetical describes a remark inserted in passing; while the passage could be parenthetical, digression more formally describes the extended departure." },
+        { "distractor": "interruption", "closeness": 2, "reasoning": "Interruption describes breaking in; while the passage interrupts, digression more specifically describes a sustained departure from the main narrative." },
+        { "distractor": "episode", "closeness": 2, "reasoning": "Episode describes a separate incident or section; while the passage is episodic, digression more specifically emphasizes the departure from the main narrative." },
+        { "distractor": "focus", "closeness": 1, "reasoning": "Focus means concentrating on the main subject; the sentence describes departure from the main narrative." },
+        { "distractor": "continuation", "closeness": 1, "reasoning": "Continuation means continuing with the main line; the sentence describes departure from the main narrative." },
+        { "distractor": "climax", "closeness": 1, "reasoning": "Climax describes the highest point of the main story; the sentence describes a departure from the narrative." }
+      ]
+    },
+    {
+      "sentence": "His elaborate digression about ancient Roman politics obscured the main point he was trying to make about modern governance.",
+      "answerChoices": [
+        { "distractor": "discussion", "closeness": 3, "reasoning": "Discussion describes talking about a topic; while his passage discusses, digression more specifically means departure from the main point." },
+        { "distractor": "tangent", "closeness": 3, "reasoning": "Tangent describes a sudden departure; while his passage is tangential, digression more formally describes the extended departure from his main point." },
+        { "distractor": "digram", "closeness": 3, "reasoning": "Digram (if this were the word) would mean something different; but the intended contrast is between what he says and what he meant to say." },
+        { "distractor": "excursion", "closeness": 3, "reasoning": "Excursion describes a journey or extended discussion away from the main topic; while close, digression more specifically emphasizes the departure from his main point." },
+        { "distractor": "illustration", "closeness": 2, "reasoning": "Illustration describes providing examples; while he illustrates with Roman politics, digression emphasizes that the examples obscure rather than clarify the main point." },
+        { "distractor": "elaboration", "closeness": 2, "reasoning": "Elaboration describes adding detail or developing a point; while he elaborates, the passage actually departs from the main point rather than developing it." },
+        { "distractor": "commentary", "closeness": 2, "reasoning": "Commentary describes explanatory remarks; while his passage provides commentary, digression more specifically means it departs from the main point." },
+        { "distractor": "aside", "closeness": 2, "reasoning": "Aside describes a remark off-topic; while his passage is aside-like, digression more formally emphasizes the extended departure." },
+        { "distractor": "support", "closeness": 1, "reasoning": "Support means helping to prove a point; the sentence shows his passage obscures rather than supports his point." },
+        { "distractor": "clarification", "closeness": 1, "reasoning": "Clarification means making clear; the sentence shows his passage obscures the main point." },
+        { "distractor": "summary", "closeness": 1, "reasoning": "Summary means briefly restating main points; the sentence describes a lengthy departure from the main point." }
+      ]
+    },
+    {
+      "sentence": "The book was well-researched, but the author's frequent digressions about her personal interests made it feel self-indulgent.",
+      "answerChoices": [
+        { "distractor": "asides", "closeness": 3, "reasoning": "Asides are remarks made off-topic; while his remarks are asides, digression more formally describes the repeated departures from the main subject." },
+        { "distractor": "tangents", "closeness": 3, "reasoning": "Tangents describe sudden departures; while the passages are tangential, digression more specifically refers to extended departures presented as part of a work." },
+        { "distractor": "anecdotes", "closeness": 3, "reasoning": "Anecdotes describe short stories; while she may include anecdotes, digression more specifically means departing from the main topic rather than illustrating it." },
+        { "distractor": "personal notes", "closeness": 3, "reasoning": "Personal notes are comments about personal matters; while she includes such notes, digression more formally describes the structural departure from the main subject." },
+        { "distractor": "commentary", "closeness": 2, "reasoning": "Commentary describes explanatory remarks; while she provides commentary, digression more specifically means departures that are not essential to the main subject." },
+        { "distractor": "reflections", "closeness": 2, "reasoning": "Reflections describe thoughts or meditations; while she reflects, digression emphasizes that these depart from the main subject." },
+        { "distractor": "observations", "closeness": 2, "reasoning": "Observations describe noticing or remarking; while she observes, digression more specifically means these depart from the main topic." },
+        { "distractor": "interruptions", "closeness": 2, "reasoning": "Interruptions describe breaking in; while her remarks interrupt, digression more specifically describes the repeated departures." },
+        { "distractor": "focus", "closeness": 1, "reasoning": "Focus means concentrating on the main subject; the sentence describes departures from the main subject." },
+        { "distractor": "organization", "closeness": 1, "reasoning": "Organization means arranging logically; the sentence describes departures that create a disorganized feel." },
+        { "distractor": "clarity", "closeness": 1, "reasoning": "Clarity means clear presentation; the sentence describes departures that make the work feel self-indulgent." }
+      ]
+    }
+  ]
+}

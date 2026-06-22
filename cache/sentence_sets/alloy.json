@@ -1,0 +1,53 @@
+{
+  "word": "alloy",
+  "sentenceSets": [
+    {
+      "sentence": "The bridge's strength came from using an alloy rather than a single pure metal.",
+      "answerChoices": [
+        { "distractor": "composite", "closeness": 3, "reasoning": "Close — 'composite' means a material made of two or more constituents, fitting the sentence's idea of mixed materials, but 'composite' is broader and includes non-metallic combinations, whereas 'alloy' specifically refers to metal mixtures." },
+        { "distractor": "compound", "closeness": 3, "reasoning": "Close — 'compound' describes a substance made of multiple parts combined, fitting the sentence structure, but it is broader than 'alloy' and does not specifically denote the metallic nature required for bridge construction." },
+        { "distractor": "blend", "closeness": 3, "reasoning": "Close — 'blend' means a mixture of components, and the sentence structure supports this, but 'blend' is more generic and does not specifically convey the technical, structural superiority implied by engineering context." },
+        { "distractor": "fusion", "closeness": 3, "reasoning": "Close — 'fusion' describes the combining of elements, fitting the idea of mixed materials, but it emphasizes the process of joining rather than the resulting substance that provides structural properties." },
+        { "distractor": "amalgam", "closeness": 2, "reasoning": "Related but incorrect — 'amalgam' means a mixture, often of metals, and could fit the context, but it carries a connotation of diverse, sometimes incongruous elements rather than a engineered, purposeful combination." },
+        { "distractor": "substrate", "closeness": 2, "reasoning": "Incorrect — 'substrate' means an underlying layer or base material, which could relate to bridge structure but does not convey the sense of mixed metallic composition." },
+        { "distractor": "framework", "closeness": 2, "reasoning": "Incorrect — 'framework' refers to the structural skeleton or support, which relates to bridge engineering but does not address material composition." },
+        { "distractor": "reinforcement", "closeness": 2, "reasoning": "Incorrect — 'reinforcement' means strengthening material added for support, but does not describe the mixed-metal composition that 'alloy' conveys." },
+        { "distractor": "ore", "closeness": 1, "reasoning": "Incorrect — 'ore' is naturally occurring rock containing metal, unprocessed; it does not describe the engineered combination needed for bridge strength." },
+        { "distractor": "rust", "closeness": 1, "reasoning": "Incorrect — 'rust' is oxidized metal degradation, which is the opposite of what provides structural strength." },
+        { "distractor": "residue", "closeness": 1, "reasoning": "Incorrect semantic field — 'residue' is leftover material without structural value, unrelated to the intentional metallic combination that strengthens a bridge." }
+      ]
+    },
+    {
+      "sentence": "The artist mixed colors into an alloy of deep crimson and midnight blue, creating an unexpected purple-black tone.",
+      "answerChoices": [
+        { "distractor": "combination", "closeness": 3, "reasoning": "Close — 'combination' describes things mixed together, fitting the sentence's color-mixing context, but lacks the specific sense of creating a unified substance with enhanced properties." },
+        { "distractor": "mixture", "closeness": 3, "reasoning": "Close — 'mixture' describes combined elements, fitting the context of blending colors, but is more generic and does not suggest the intentional, unified result that 'alloy' implies." },
+        { "distractor": "merge", "closeness": 3, "reasoning": "Close — 'merge' means to combine into one, fitting color blending, but describes the action rather than the resulting substance or integrated composition." },
+        { "distractor": "blend", "closeness": 3, "reasoning": "Close — 'blend' describes mixing colors or elements harmoniously, very fitting for the artistic context, but does not emphasize the resulting unified substance as 'alloy' does." },
+        { "distractor": "palette", "closeness": 2, "reasoning": "Incorrect — 'palette' is the range of colors available for use, not the mixture itself; it refers to the tool or array rather than the combined result." },
+        { "distractor": "infusion", "closeness": 2, "reasoning": "Incorrect — 'infusion' means a substance steeped in liquid, which does not apply to color mixing; this word belongs to a different semantic domain." },
+        { "distractor": "tint", "closeness": 2, "reasoning": "Incorrect — 'tint' is a slight variation of a color or hue, but does not describe the deep, intentional combination of two distinct colors." },
+        { "distractor": "shade", "closeness": 2, "reasoning": "Incorrect — 'shade' refers to a darker variation of a color, but describes a single color variant rather than a mixture of two distinct colors." },
+        { "distractor": "pigment", "closeness": 1, "reasoning": "Incorrect semantic field — 'pigment' is a substance that provides color, but the sentence describes the mixture result, not the raw material." },
+        { "distractor": "hue", "closeness": 1, "reasoning": "Incorrect — 'hue' is a color or shade on the spectrum, but does not describe a mixture or combination of elements." },
+        { "distractor": "saturation", "closeness": 1, "reasoning": "Incorrect semantic field — 'saturation' refers to color intensity or vibrancy, unrelated to mixing or combining materials." }
+      ]
+    },
+    {
+      "sentence": "The foreign policy was described as an alloy of idealism and pragmatism, balancing moral principles with strategic interests.",
+      "answerChoices": [
+        { "distractor": "synthesis", "closeness": 3, "reasoning": "Close — 'synthesis' means the combining of elements to form a unified whole, fitting the idea of balancing two principles, but emphasizes intellectual or logical combination rather than a deliberately engineered mix." },
+        { "distractor": "equilibrium", "closeness": 3, "reasoning": "Close — 'equilibrium' describes a state of balance, fitting the sentence's 'balancing' language, but refers to the resulting state rather than the combined substance itself." },
+        { "distractor": "hybrid", "closeness": 3, "reasoning": "Close — 'hybrid' describes something combining two different elements or sources, fitting the context of mixed idealism and pragmatism, but emphasizes the heterogeneous nature rather than the unified result." },
+        { "distractor": "fusion", "closeness": 3, "reasoning": "Close — 'fusion' means joining distinct elements together, fitting the context of balancing principles, but emphasizes the process rather than the engineered, stable resulting combination." },
+        { "distractor": "integration", "closeness": 2, "reasoning": "Related but incorrect — 'integration' means combining into a unified whole, which overlaps with the sentence, but emphasizes harmonious unity rather than a deliberate engineering of distinct components." },
+        { "distractor": "convergence", "closeness": 2, "reasoning": "Incorrect — 'convergence' means coming together at a point, which could describe balancing but emphasizes directional movement rather than the resulting substance." },
+        { "distractor": "compromise", "closeness": 2, "reasoning": "Incorrect — 'compromise' implies mutual concession or settlement, which differs from 'alloy' suggesting a deliberate, engineered combination that enhances both elements." },
+        { "distractor": "modulation", "closeness": 2, "reasoning": "Incorrect — 'modulation' means a change in tone or adjustment, but does not describe the combination of two distinct principles or approaches." },
+        { "distractor": "dichotomy", "closeness": 1, "reasoning": "Opposite — 'dichotomy' means a sharp division or contrast between two things, directly opposing the sense of balance and combination." },
+        { "distractor": "contradiction", "closeness": 1, "reasoning": "Opposite — 'contradiction' describes mutual opposition, whereas the sentence describes a balanced, integrated approach rather than conflicting elements." },
+        { "distractor": "deviation", "closeness": 1, "reasoning": "Incorrect semantic field — 'deviation' means a departure from a standard or course, unrelated to combining or balancing different principles." }
+      ]
+    }
+  ]
+}

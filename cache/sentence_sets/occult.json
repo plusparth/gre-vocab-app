@@ -1,0 +1,53 @@
+{
+  "word": "occult",
+  "sentenceSets": [
+    {
+      "sentence": "The methodology was designed to occult the assumptions on which the conclusions rested.",
+      "answerChoices": [
+        { "distractor": "obscure", "closeness": 3, "reasoning": "Both words mean to hide or make unclear, but 'obscure' suggests making something confusing or hard to understand, whereas 'occult' implies deliberately covering or cutting off from view entirely." },
+        { "distractor": "conceal", "closeness": 3, "reasoning": "'Conceal' means to hide, but carries connotations of secrecy or deception, whereas 'occult' is more about blocking access to or preventing exposure of something." },
+        { "distractor": "suppress", "closeness": 3, "reasoning": "'Suppress' means to prevent from being expressed or known, but implies active restraint, while 'occult' means to block from view more passively through covering or eclipse." },
+        { "distractor": "mask", "closeness": 3, "reasoning": "'Mask' means to conceal the true nature of something, but the sentence asks for a word about blocking assumptions from view, not disguising their nature." },
+        { "distractor": "veil", "closeness": 2, "reasoning": "'Veil' suggests draping something to hide it, but is more poetic and less precise than 'occult' which is about systematic blocking of access." },
+        { "distractor": "shroud", "closeness": 2, "reasoning": "'Shroud' means to cover completely, but typically applies to physical objects, whereas 'occult' works more abstractly for hiding intellectual content like assumptions." },
+        { "distractor": "bury", "closeness": 2, "reasoning": "'Bury' means to hide by covering deeply, but implies placing something underground, whereas 'occult' is about preventing exposure or view more broadly." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "'Ignore' means to disregard or pay no attention to something, but does not imply blocking it from view; the methodology actively covers assumptions rather than simply ignoring them." },
+        { "distractor": "deny", "closeness": 1, "reasoning": "'Deny' means to refuse to grant or acknowledge something, but the sentence describes a methodological design to prevent exposure, not an act of refusal or contradiction." },
+        { "distractor": "expose", "closeness": 1, "reasoning": "'Expose' means to uncover or reveal, which is the opposite of what the methodology was designed to do to the assumptions." },
+        { "distractor": "highlight", "closeness": 1, "reasoning": "'Highlight' means to emphasize or make prominent, the opposite of blocking assumptions from view." }
+      ]
+    },
+    {
+      "sentence": "Bright stage lights occult the faces of the performers, making the audience focus instead on their movements and gestures.",
+      "answerChoices": [
+        { "distractor": "obscure", "closeness": 3, "reasoning": "'Obscure' means to make dim or unclear, which would fit physically, but the sentence shows lights covering faces entirely, not just darkening them; 'occult' emphasizes complete blocking of view." },
+        { "distractor": "eclipse", "closeness": 3, "reasoning": "'Eclipse' means to block light and prevent visibility of something, fitting perfectly with the astronomical sense, but in this theatrical context 'occult' is the more direct term for lights preventing view of facial features." },
+        { "distractor": "conceal", "closeness": 3, "reasoning": "'Conceal' means to hide, and the lights do hide faces, but 'occult' is more specific about how—by being so bright they wash out visibility, not by covering with an opaque object." },
+        { "distractor": "blind", "closeness": 3, "reasoning": "'Blind' can mean to deprive of sight or prevent seeing, fitting the context of lights preventing visibility, but the sentence shows the lights blocking audience view of faces, making 'occult' the more precise term." },
+        { "distractor": "dim", "closeness": 2, "reasoning": "'Dim' means to reduce brightness, but the sentence says the lights are bright and do the blocking; 'occult' captures the result (blocking view) rather than the method of reduced light." },
+        { "distractor": "shadow", "closeness": 2, "reasoning": "'Shadow' implies a dark area blocking view, but requires darkness; the sentence specifies the lights themselves create the blocking effect, not shadows they cast." },
+        { "distractor": "shade", "closeness": 2, "reasoning": "'Shade' can mean to block light, but implies a protective covering; the sentence shows the lights themselves performing the blocking action on facial features." },
+        { "distractor": "highlight", "closeness": 1, "reasoning": "'Highlight' means to emphasize or make prominent, which is the opposite effect; the lights are preventing the audience from seeing the performers' faces." },
+        { "distractor": "illuminate", "closeness": 1, "reasoning": "'Illuminate' means to light up or make visible, the opposite of what the bright lights accomplish in blocking the visibility of faces." },
+        { "distractor": "reveal", "closeness": 1, "reasoning": "'Reveal' means to uncover or show, contrary to the sentence which describes lights that prevent seeing the performers' facial features." },
+        { "distractor": "display", "closeness": 1, "reasoning": "'Display' means to show or exhibit, opposite to the effect of the lights which block the audience's view of the performers' faces." }
+      ]
+    },
+    {
+      "sentence": "The moon occults the sun during a total eclipse, cutting off all direct sunlight for a few minutes.",
+      "answerChoices": [
+        { "distractor": "blocks", "closeness": 3, "reasoning": "'Blocks' means to obstruct or prevent passage, fitting the physical action, but 'occult' is more specific to the astronomical phenomenon of one celestial body cutting off the light of another." },
+        { "distractor": "covers", "closeness": 3, "reasoning": "'Covers' means to place something over another, which the moon does to the sun, but 'occult' is the technical term for this particular astronomical event and its visual consequence." },
+        { "distractor": "shields", "closeness": 3, "reasoning": "'Shields' means to protect by blocking, which the moon does to Earth from the sun's light, but 'occult' better captures the cutting off of visibility rather than the protective aspect." },
+        { "distractor": "veils", "closeness": 3, "reasoning": "'Veils' means to cover as if with a veil, and the moon does veil the sun, but 'occult' is the precise technical term for this astronomical concealment." },
+        { "distractor": "obscures", "closeness": 2, "reasoning": "'Obscures' means to make unclear or dim, but the moon's action completely blocks the sun, not merely darkens or clouds it." },
+        { "distractor": "shadows", "closeness": 2, "reasoning": "'Shadows' can mean to cast a shadow over, but emphasizes the shadow cast rather than the cutting off of direct light itself." },
+        { "distractor": "hides", "closeness": 2, "reasoning": "'Hides' means to conceal, which the moon does to the sun visually, but lacks the technical precision and the sense of cutting off a light source." },
+        { "distractor": "darkens", "closeness": 1, "reasoning": "'Darkens' means to make dark or reduce light, but the sun is not made dark—it is still there; the moon blocks its light from reaching Earth." },
+        { "distractor": "dims", "closeness": 1, "reasoning": "'Dims' means to reduce brightness gradually, but the eclipse creates a sudden and complete cutting off of direct sunlight, not a gradual dimming." },
+        { "distractor": "reflects", "closeness": 1, "reasoning": "'Reflects' means to bounce light back, but the moon does not reflect the sun's light during a total eclipse; instead, it blocks the light entirely." },
+        { "distractor": "refracts", "closeness": 1, "reasoning": "'Refracts' means to bend light rays, but the moon's action during an eclipse is to block light entirely, not to bend or deviate it." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "heed",
+  "sentenceSets": [
+    {
+      "sentence": "She had not heeded the early warnings, and the late ones arrived with consequences attached.",
+      "answerChoices": [
+        { "distractor": "ignored", "closeness": 3, "reasoning": "Ignored means not paying attention, similar to failing to heed, but one could ignore something without being aware it was important; heeding implies receiving advice or warning and choosing whether to follow it." },
+        { "distractor": "overlooked", "closeness": 3, "reasoning": "Overlooked means failed to notice or consider, but can imply unintentional oversight; the sentence suggests she was warned, making the issue not that she missed the warnings but that she did not act on them." },
+        { "distractor": "disregarded", "closeness": 3, "reasoning": "Disregarded means deliberately refused to consider, which is close to failing to heed, but conveys active rejection rather than the passive failure to pay attention that heed implies." },
+        { "distractor": "neglected", "closeness": 3, "reasoning": "Neglected means failed to give proper attention or care, but the sentence specifies she received warnings—implying awareness—making the issue not neglect of attention but failure to act on received advice." },
+        { "distractor": "dismissed", "closeness": 2, "reasoning": "Dismissed means rejected or brushed aside, but more actively than merely failing to heed; one can dismiss advice while having heeded it in the moment." },
+        { "distractor": "rejected", "closeness": 2, "reasoning": "Rejected means refused to accept, implying active refusal rather than the failure to act on guidance that heeding involves." },
+        { "distractor": "bypassed", "closeness": 2, "reasoning": "Bypassed means avoided or went around, but suggests not engaging with the warnings at all rather than receiving them and deciding not to act." },
+        { "distractor": "underestimated", "closeness": 2, "reasoning": "Underestimated means assessed as less important than actually warranted, but differs from failing to heed—one could heed something while underestimating its severity." },
+        { "distractor": "accepted", "closeness": 1, "reasoning": "Accepted means received favorably; the sentence indicates she failed to act on the warnings, the opposite of accepting them." },
+        { "distractor": "followed", "closeness": 1, "reasoning": "Followed means acted in accordance with guidance, opposite to failing to heed the warnings described in the sentence." },
+        { "distractor": "heeded", "closeness": 1, "reasoning": "Heeded would mean she paid attention and acted on the warnings, the opposite of what the sentence indicates." }
+      ]
+    },
+    {
+      "sentence": "The patient heedlessly ignored his doctor's advice to quit smoking, walking out of the office dismissing every word.",
+      "answerChoices": [
+        { "distractor": "dismissed", "closeness": 3, "reasoning": "Dismissed means rejected or brushed aside; the sentence explicitly shows him dismissing every word, making this a strong trap, but heed specifically means to pay attention, not merely to reject." },
+        { "distractor": "disregarded", "closeness": 3, "reasoning": "Disregarded means deliberately refused to consider, fitting the patient's behavior of walking out dismissively, but heed focuses on the failure to pay attention, not the act of rejection." },
+        { "distractor": "ignored", "closeness": 3, "reasoning": "Ignored means not paying attention, very close to failing to heed, but can imply unconscious oversight rather than the active resistance shown by his dismissive exit from the office." },
+        { "distractor": "overlooked", "closeness": 3, "reasoning": "Overlooked means failed to notice; the sentence shows him actively dismissing, suggesting he was aware of the advice but rejected it, not that he overlooked it." },
+        { "distractor": "rejected", "closeness": 2, "reasoning": "Rejected means refused to accept, matching his dismissive behavior but not capturing the specific meaning of failing to pay proper attention that heed requires." },
+        { "distractor": "spurned", "closeness": 2, "reasoning": "Spurned means rejected with disdain; it fits his attitude but focuses on active rejection rather than the failure to pay attention central to heeding." },
+        { "distractor": "rebuffed", "closeness": 2, "reasoning": "Rebuffed means rejected bluntly or rudely; his dismissal shows this, but heed means to pay attention to advice, not merely to accept or reject it." },
+        { "distractor": "flouted", "closeness": 2, "reasoning": "Flouted means openly disregarded or mocked; his dismissiveness suggests this, but heeding is about giving proper attention to guidance, not about the manner of rejection." },
+        { "distractor": "accepted", "closeness": 1, "reasoning": "Accepted means received favorably; the sentence shows him walking out dismissively, the opposite of accepting medical advice." },
+        { "distractor": "followed", "closeness": 1, "reasoning": "Followed means acted in accordance with guidance; his dismissal of every word contradicts this." },
+        { "distractor": "considered", "closeness": 1, "reasoning": "Considered means thought seriously about; his dismissal upon walking out suggests he did not seriously weigh the doctor's words." }
+      ]
+    },
+    {
+      "sentence": "The government finally heeded the citizens' calls for reform after months of protests, drafting new legislation.",
+      "answerChoices": [
+        { "distractor": "acknowledged", "closeness": 3, "reasoning": "Acknowledged means recognized or admitted; the government recognized the citizens' demands through legislation, but heeding specifically means acting on the demand, not merely recognizing it." },
+        { "distractor": "listened to", "closeness": 3, "reasoning": "Listened to means heard or paid attention to, which the legislation shows they did, but heed implies a fuller response than merely listening—it means acting on what is heard." },
+        { "distractor": "responded to", "closeness": 3, "reasoning": "Responded to means reacted to; the legislation shows a response, but heeding specifically indicates responding correctly by acting on the demand." },
+        { "distractor": "attended to", "closeness": 3, "reasoning": "Attended to means directed attention to; drafting legislation shows they attended to the issue, but heeding means addressing it through action, not merely paying attention." },
+        { "distractor": "considered", "closeness": 2, "reasoning": "Considered means thought seriously about; the drafting suggests they considered the citizens' demands, but heed indicates not just thinking but taking action." },
+        { "distractor": "understood", "closeness": 2, "reasoning": "Understood means comprehended; the new legislation suggests understanding of the citizens' desires, but heed means acting on that understanding." },
+        { "distractor": "noted", "closeness": 2, "reasoning": "Noted means observed or recorded; the government took note through months of protests, but heeding involves acting, not merely noting." },
+        { "distractor": "publicized", "closeness": 2, "reasoning": "Publicized means made public; while drafting legislation publicizes intent, heeding means actually responding to the demands through action." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Ignored means failed to pay attention, the opposite of heeding; the sentence shows they paid attention and acted." },
+        { "distractor": "rejected", "closeness": 1, "reasoning": "Rejected means refused; the government did not reject the citizens' demands; they acted on them through legislation." },
+        { "distractor": "suppressed", "closeness": 1, "reasoning": "Suppressed means forcibly prevented or restrained; the sentence shows the government responding to demands, not suppressing them." }
+      ]
+    }
+  ]
+}

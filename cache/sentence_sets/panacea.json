@@ -1,0 +1,53 @@
+{
+  "word": "panacea",
+  "sentenceSets": [
+    {
+      "sentence": "No single intervention is a panacea; the conditions producing the problem are typically more complex than any one solution can address.",
+      "answerChoices": [
+        { "distractor": "solution", "closeness": 3, "reasoning": "Solution means an answer to a problem, but the sentence uses panacea to emphasize a cure-all claim, whereas a solution might be partial or targeted." },
+        { "distractor": "remedy", "closeness": 3, "reasoning": "Remedy means a cure or treatment, but panacea specifically emphasizes a cure-all claim rather than simply a remedy for one specific problem." },
+        { "distractor": "fix", "closeness": 3, "reasoning": "Fix means to repair or correct, but the sentence uses panacea to describe the unrealistic claim of a universal cure rather than a simple fix." },
+        { "distractor": "cure", "closeness": 3, "reasoning": "Cure means a treatment that eliminates disease, but panacea specifically implies a cure-all for multiple different problems rather than a single cure." },
+        { "distractor": "treatment", "closeness": 2, "reasoning": "Treatment means a medical or therapeutic intervention, but panacea specifically emphasizes the claim to cure all ills rather than simply treat one condition." },
+        { "distractor": "method", "closeness": 2, "reasoning": "Method means a way of doing something, but the sentence emphasizes panacea as a cure-all claim rather than a mere method." },
+        { "distractor": "approach", "closeness": 2, "reasoning": "Approach means a way of dealing with something, but panacea emphasizes the unrealistic universal cure claim rather than a reasonable approach." },
+        { "distractor": "strategy", "closeness": 2, "reasoning": "Strategy means a plan of action, but the sentence uses panacea to critique the unrealistic claim to universal applicability rather than a strategy." },
+        { "distractor": "complication", "closeness": 1, "reasoning": "Complication means a problem or difficulty, the opposite of panacea's curative purpose." },
+        { "distractor": "obstacle", "closeness": 1, "reasoning": "Obstacle means a hindrance or barrier, opposed to panacea's role as a solution." },
+        { "distractor": "failure", "closeness": 1, "reasoning": "Failure means lack of success, the opposite of panacea's claim to cure all ills." }
+      ]
+    },
+    {
+      "sentence": "Social media platforms were hailed as the panacea for democratic participation, promising to give voice to the voiceless and connect citizens across divides.",
+      "answerChoices": [
+        { "distractor": "tool", "closeness": 3, "reasoning": "Tool means an instrument for accomplishing something, but the sentence uses panacea to emphasize the overpromising claim rather than social media as a simple tool." },
+        { "distractor": "catalyst", "closeness": 3, "reasoning": "Catalyst means something that precipitates change, but the sentence presents panacea as a complete solution for all democratic participation problems." },
+        { "distractor": "technology", "closeness": 3, "reasoning": "Technology means a system based on applied science, but panacea specifically emphasizes the cure-all claim rather than technology in general." },
+        { "distractor": "innovation", "closeness": 3, "reasoning": "Innovation means a new invention or method, but the sentence uses panacea to critique the overpromising claim rather than to describe innovation neutrally." },
+        { "distractor": "opportunity", "closeness": 2, "reasoning": "Opportunity means a chance or favorable circumstance, but the sentence presents panacea as a complete solution rather than merely an opportunity." },
+        { "distractor": "breakthrough", "closeness": 2, "reasoning": "Breakthrough means a sudden important discovery, but the sentence treats panacea as an overstated cure-all claim rather than a genuine breakthrough." },
+        { "distractor": "advancement", "closeness": 2, "reasoning": "Advancement means progress or improvement, but the sentence criticizes panacea as an unrealistic complete solution rather than merely an advancement." },
+        { "distractor": "benefit", "closeness": 2, "reasoning": "Benefit means an advantage or improvement, but panacea goes beyond benefits to claim universal cure-all status." },
+        { "distractor": "liability", "closeness": 1, "reasoning": "Liability means a disadvantage or burden, the opposite of panacea's curative promise." },
+        { "distractor": "threat", "closeness": 1, "reasoning": "Threat means a danger, opposed to panacea's promised benefits." },
+        { "distractor": "burden", "closeness": 1, "reasoning": "Burden means a heavy load or responsibility, the opposite of panacea's promise to solve problems." }
+      ]
+    },
+    {
+      "sentence": "The pharmaceutical company marketed the new drug as a panacea for aging, claiming benefits from cellular renewal to memory restoration to enhanced vitality.",
+      "answerChoices": [
+        { "distractor": "medicine", "closeness": 3, "reasoning": "Medicine means a substance used to treat disease, but the sentence uses panacea to emphasize the claim to cure all effects of aging rather than treating a specific condition." },
+        { "distractor": "elixir", "closeness": 3, "reasoning": "Elixir means a magical or medicinal drink, very similar to panacea in suggesting a cure-all, making it a strong trap." },
+        { "distractor": "fountain of youth", "closeness": 3, "reasoning": "Fountain of youth is a metaphorical cure-all for aging, nearly identical in concept to panacea in this context." },
+        { "distractor": "miracle cure", "closeness": 3, "reasoning": "Miracle cure describes an unexpected complete solution, very similar to panacea's promise of universal benefit." },
+        { "distractor": "treatment", "closeness": 2, "reasoning": "Treatment means a medical intervention, but panacea emphasizes the unrealistic claim to cure all effects of aging." },
+        { "distractor": "supplement", "closeness": 2, "reasoning": "Supplement means an additive to enhance something, but the sentence presents the drug as a cure-all rather than simply a supplement." },
+        { "distractor": "improvement", "closeness": 2, "reasoning": "Improvement means making something better, but panacea claims complete cure rather than mere improvement." },
+        { "distractor": "enhancement", "closeness": 2, "reasoning": "Enhancement means making something greater or better, but panacea emphasizes the unrealistic cure-all claim rather than mere enhancement." },
+        { "distractor": "poison", "closeness": 1, "reasoning": "Poison means a toxic substance, the opposite of panacea's healing promise." },
+        { "distractor": "blight", "closeness": 1, "reasoning": "Blight means disease or ruin, opposed to panacea's curative purpose." },
+        { "distractor": "curse", "closeness": 1, "reasoning": "Curse means a curse or affliction, the opposite of panacea's promise to solve all problems." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "didactic",
+  "sentenceSets": [
+    {
+      "sentence": "The novel was praised for its depth but criticized for being too didactic, sermonizing where it should have shown.",
+      "answerChoices": [
+        { "distractor": "moralistic", "closeness": 3, "reasoning": "Moralistic describes emphasizing moral standards; while the novel is moralistic, didactic more specifically means designed or intended to teach, often by direct instruction rather than just emphasizing morality." },
+        { "distractor": "preachy", "closeness": 3, "reasoning": "Preachy describes presenting moral or religious views in a tiresome way; while the novel is preachy, didactic emphasizes the structural intent to teach rather than the annoyance." },
+        { "distractor": "pedantic", "closeness": 3, "reasoning": "Pedantic describes emphasizing trivial academic details; while the novel might be pedantic, didactic emphasizes the intent to teach rather than concern with minor details." },
+        { "distractor": "instructive", "closeness": 3, "reasoning": "Instructive describes conveying useful information; while the novel is instructive, didactic more specifically implies teaching in an overly direct, heavy-handed manner." },
+        { "distractor": "moralizing", "closeness": 2, "reasoning": "Moralizing describes expressing moral judgments; while the novel moralizes, didactic emphasizes the formal design to teach rather than just expressing judgment." },
+        { "distractor": "heavyhanded", "closeness": 2, "reasoning": "Heavyhanded describes lacking subtlety; while the novel is heavyhanded, didactic more specifically emphasizes intent to teach rather than lack of subtlety." },
+        { "distractor": "prescriptive", "closeness": 2, "reasoning": "Prescriptive describes establishing rules or norms; while the novel prescribes, didactic emphasizes the intent to teach rather than establishing rules." },
+        { "distractor": "verbose", "closeness": 2, "reasoning": "Verbose describes using more words than necessary; while the novel might be verbose, didactic emphasizes intent to teach rather than wordiness." },
+        { "distractor": "subtle", "closeness": 1, "reasoning": "Subtle means implied rather than explicitly stated; the sentence criticizes the novel for being too explicit in its teaching." },
+        { "distractor": "artistic", "closeness": 1, "reasoning": "Artistic describes skill in creating beautiful or expressive work; the sentence criticizes the novel for teaching rather than showing artistically." },
+        { "distractor": "entertaining", "closeness": 1, "reasoning": "Entertaining describes holding interest and attention in an enjoyable way; the sentence criticizes explicit teaching that detracts from entertainment." }
+      ]
+    },
+    {
+      "sentence": "The museum's didactic plaques explained the artifacts clearly but sometimes overshadowed the objects themselves with too much text.",
+      "answerChoices": [
+        { "distractor": "informative", "closeness": 3, "reasoning": "Informative describes conveying useful information; while the plaques are informative, didactic more specifically means designed or intended to teach, often implying a heavy-handed teaching approach." },
+        { "distractor": "instructional", "closeness": 3, "reasoning": "Instructional describes conveying information for learning; while the plaques are instructional, didactic implies teaching in a manner that can overshadow or dominate the experience." },
+        { "distractor": "explanatory", "closeness": 3, "reasoning": "Explanatory describes making something clear or understandable; while the plaques are explanatory, didactic more specifically emphasizes the intent to teach, which can be overwhelming." },
+        { "distractor": "educational", "closeness": 3, "reasoning": "Educational describes intended to teach; while the plaques are educational, didactic carries the implication of being overly focused on teaching at the expense of other experience." },
+        { "distractor": "descriptive", "closeness": 2, "reasoning": "Descriptive describes giving details of appearance or character; while the plaques describe, didactic emphasizes the intent to teach rather than just describe." },
+        { "distractor": "interpretive", "closeness": 2, "reasoning": "Interpretive describes offering explanation of meaning; while the plaques interpret, didactic emphasizes a teaching-focused approach that can overwhelm." },
+        { "distractor": "comprehensive", "closeness": 2, "reasoning": "Comprehensive describes covering all aspects; while the plaques are comprehensive, didactic emphasizes the teaching approach rather than completeness." },
+        { "distractor": "scholarly", "closeness": 2, "reasoning": "Scholarly describes careful, erudite study; while the plaques are scholarly, didactic emphasizes the teaching approach more than academic quality." },
+        { "distractor": "vague", "closeness": 1, "reasoning": "Vague means unclear or imprecise; the sentence praises the plaques for explaining clearly." },
+        { "distractor": "artistic", "closeness": 1, "reasoning": "Artistic describes creating beautiful expressive work; the sentence shows the plaques overwhelming the visual experience." },
+        { "distractor": "subtle", "closeness": 1, "reasoning": "Subtle means implied rather than explicitly stated; the sentence criticizes the plaques for having too much text." }
+      ]
+    },
+    {
+      "sentence": "The teacher's didactic approach, while clear and well-organized, left little room for students to discover concepts independently.",
+      "answerChoices": [
+        { "distractor": "structured", "closeness": 3, "reasoning": "Structured describes organized arrangement; while her approach is structured, didactic more specifically emphasizes the intent to teach directly rather than just having organization." },
+        { "distractor": "systematic", "closeness": 3, "reasoning": "Systematic describes following a plan or method; while her approach is systematic, didactic emphasizes the direct teaching method rather than systematic organization." },
+        { "distractor": "methodical", "closeness": 3, "reasoning": "Methodical describes careful, orderly procedure; while her approach is methodical, didactic emphasizes the intent to teach rather than careful procedure." },
+        { "distractor": "instructional", "closeness": 3, "reasoning": "Instructional describes conveying information for learning; while her approach is instructional, didactic implies a heavy-handed, direct teaching approach." },
+        { "distractor": "organized", "closeness": 2, "reasoning": "Organized describes arranging logically; while her approach is organized, didactic emphasizes the teaching method that prevents independent discovery." },
+        { "distractor": "formal", "closeness": 2, "reasoning": "Formal describes following established procedures; while her approach is formal, didactic emphasizes intent to teach rather than formality." },
+        { "distractor": "rigorous", "closeness": 2, "reasoning": "Rigorous describes thorough and exacting; while her approach is rigorous, didactic emphasizes the direct teaching method rather than rigor." },
+        { "distractor": "logical", "closeness": 2, "reasoning": "Logical describes following reason and order; while her approach is logical, didactic emphasizes the direct teaching approach rather than logical order." },
+        { "distractor": "exploratory", "closeness": 1, "reasoning": "Exploratory describes encouraging discovery and inquiry; the sentence shows her approach preventing independent discovery." },
+        { "distractor": "flexible", "closeness": 1, "reasoning": "Flexible describes ability to adapt; the sentence shows an approach leaving little room for variation." },
+        { "distractor": "student-centered", "closeness": 1, "reasoning": "Student-centered means focused on student learning through discovery; the sentence shows little room for student-directed learning." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "obfuscate",
+  "sentenceSets": [
+    {
+      "sentence": "The document seemed designed to obfuscate rather than inform, substituting complexity for clarity at every turn.",
+      "answerChoices": [
+        { "distractor": "complicate", "closeness": 3, "reasoning": "To complicate is to make complex, as obfuscating does, but 'complicate' doesn't carry the intent to hide or confuse through darkness." },
+        { "distractor": "obscure", "closeness": 3, "reasoning": "Obscuring makes something unclear, similar to obfuscating, but the sentence emphasizes deliberate substitution of complexity for clarity, a specific strategy." },
+        { "distractor": "conceal", "closeness": 3, "reasoning": "Concealing hides something, but the sentence shows the document adds complexity deliberately rather than simply hiding facts." },
+        { "distractor": "mystify", "closeness": 3, "reasoning": "Mystifying confuses people, as obfuscating does, but the sentence emphasizes substituting complexity for clarity, a deliberate rhetorical choice." },
+        { "distractor": "muddy", "closeness": 2, "reasoning": "Muddying makes something unclear, but the sentence describes deliberate substitution of complexity, not mere muddying of waters." },
+        { "distractor": "hide", "closeness": 2, "reasoning": "Hiding prevents access to information, but the sentence shows the document adds complexity rather than simply concealing facts." },
+        { "distractor": "confound", "closeness": 2, "reasoning": "Confounding causes confusion, but the sentence emphasizes the document's deliberate strategy of substituting complexity for clarity." },
+        { "distractor": "distract", "closeness": 2, "reasoning": "Distracting diverts attention, but the sentence shows the document actively adds complexity rather than merely directing attention elsewhere." },
+        { "distractor": "clarify", "closeness": 1, "reasoning": "Clarifying makes things clear; the sentence shows the opposite—the document substituted complexity for clarity." },
+        { "distractor": "simplify", "closeness": 1, "reasoning": "Simplifying makes things less complex; the sentence describes substituting complexity for clarity, the opposite direction." },
+        { "distractor": "illuminate", "closeness": 1, "reasoning": "Illuminating sheds light and clarifies; the sentence shows the document did the opposite—substituted complexity for clarity." }
+      ]
+    },
+    {
+      "sentence": "The spy's coded messages were intentionally designed to obfuscate their true meaning from anyone lacking the encryption key.",
+      "answerChoices": [
+        { "distractor": "obscure", "closeness": 3, "reasoning": "Obscuring makes something unclear, but the sentence describes coded messages deliberately hiding meaning through an encryption method, not mere vagueness." },
+        { "distractor": "encode", "closeness": 3, "reasoning": "Encoding is the process of converting messages, but the sentence requires a word describing the effect—hiding meaning—not the method itself." },
+        { "distractor": "disguise", "closeness": 3, "reasoning": "Disguising masks true nature, as the codes hide true meaning, but the sentence emphasizes protection through encryption, not cosmetic masking." },
+        { "distractor": "conceal", "closeness": 3, "reasoning": "Concealing hides something, but the sentence specifies messages that reveal meaning only to those with the key, not simple concealment." },
+        { "distractor": "scramble", "closeness": 2, "reasoning": "Scrambling makes something disordered, but the sentence describes codes that are ordered in a specific way requiring decryption." },
+        { "distractor": "muddle", "closeness": 2, "reasoning": "Muddling creates confusion, but the sentence shows deliberate encryption requiring a specific key, not random confusion." },
+        { "distractor": "encrypt", "closeness": 2, "reasoning": "Encrypting is the process of converting to code, but the sentence requires a word describing the effect on meaning, not the technical process." },
+        { "distractor": "hide", "closeness": 2, "reasoning": "Hiding prevents access, but the sentence shows the messages are visible—their meaning is hidden unless you have the key." },
+        { "distractor": "reveal", "closeness": 1, "reasoning": "Revealing exposes truth; the sentence describes codes designed to prevent revelation of true meaning without the encryption key." },
+        { "distractor": "simplify", "closeness": 1, "reasoning": "Simplifying clarifies; the sentence describes coded messages designed to prevent understanding without the decryption key." },
+        { "distractor": "authenticate", "closeness": 1, "reasoning": "Authenticating verifies legitimacy; the sentence is about hiding meaning through encryption, not verifying authenticity." }
+      ]
+    },
+    {
+      "sentence": "By piling on technical jargon that few readers understood, the author seemed more interested in obfuscating than in making the paper accessible.",
+      "answerChoices": [
+        { "distractor": "impressing", "closeness": 3, "reasoning": "Using jargon might impress some readers, but the sentence emphasizes the author's choice to make the paper inaccessible rather than to show off credentials." },
+        { "distractor": "intimidating", "closeness": 3, "reasoning": "Jargon can intimidate readers, but the sentence describes the author's deliberate strategy of making the paper inaccessible, not merely aiming to scare." },
+        { "distractor": "complicating", "closeness": 3, "reasoning": "The jargon does complicate the paper, but the sentence requires a verb describing the author's intention—to hide or confuse—not just make complex." },
+        { "distractor": "overloading", "closeness": 3, "reasoning": "The jargon overloads readers, but the sentence contrasts this with making the paper accessible, suggesting deliberate obscuring rather than mere excess." },
+        { "distractor": "confusing", "closeness": 2, "reasoning": "The jargon confuses readers, but the sentence emphasizes the author's deliberate strategy of making the paper inaccessible." },
+        { "distractor": "dominating", "closeness": 2, "reasoning": "Technical jargon dominates the paper, but the sentence suggests the author's goal was to obscure, not to assert dominance." },
+        { "distractor": "obscuring", "closeness": 2, "reasoning": "Obscuring makes things unclear, similar to obfuscating, but the sentence's parallel structure 'more interested in X than in making accessible' requires a stronger verb." },
+        { "distractor": "alienating", "closeness": 2, "reasoning": "The jargon alienates readers, but the sentence emphasizes the author's intention to obscure meaning, not to isolate readers." },
+        { "distractor": "clarifying", "closeness": 1, "reasoning": "Clarifying makes things clear; the sentence shows the author piled on jargon, making the paper less accessible." },
+        { "distractor": "simplifying", "closeness": 1, "reasoning": "Simplifying makes things easier to understand; the sentence shows the opposite—using jargon to make the paper inaccessible." },
+        { "distractor": "popularizing", "closeness": 1, "reasoning": "Popularizing makes ideas widely understood; the sentence shows the author did the opposite—used jargon to limit accessibility." }
+      ]
+    }
+  ]
+}

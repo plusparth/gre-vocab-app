@@ -1,0 +1,53 @@
+{
+  "word": "aesthetic",
+  "sentenceSets": [
+    {
+      "sentence": "The renovation preserved the building's aesthetic while updating its mechanical systems.",
+      "answerChoices": [
+        { "distractor": "structure", "closeness": 3, "reasoning": "Structure denotes the physical framework, but doesn't specifically refer to visual beauty and artistic appeal that aesthetic conveys." },
+        { "distractor": "appearance", "closeness": 3, "reasoning": "Appearance is how something looks, very close to aesthetic, but doesn't emphasize the artistic or beautiful dimensions specifically." },
+        { "distractor": "charm", "closeness": 3, "reasoning": "Charm denotes appeal, close to aesthetic appeal, but is more emotional than the formal, artistic meaning of aesthetic." },
+        { "distractor": "appeal", "closeness": 3, "reasoning": "Appeal denotes attractiveness, similar to aesthetic, but doesn't necessarily emphasize artistic or beautiful qualities." },
+        { "distractor": "character", "closeness": 2, "reasoning": "Character is distinctive quality, which may include beauty, but doesn't specifically refer to visual or artistic beauty." },
+        { "distractor": "style", "closeness": 2, "reasoning": "Style denotes a manner of design, but emphasizes distinctiveness and fashion rather than the broader concept of beauty." },
+        { "distractor": "identity", "closeness": 2, "reasoning": "Identity is what makes something unique, but doesn't focus on visual beauty or artistic qualities specifically." },
+        { "distractor": "tradition", "closeness": 2, "reasoning": "Tradition denotes historical continuity, but doesn't address the visual beauty or artistic aspects that aesthetic refers to." },
+        { "distractor": "function", "closeness": 1, "reasoning": "Function is how something works; aesthetic is how it looks—the sentence explicitly separates the two by preserving aesthetic while updating function." },
+        { "distractor": "utility", "closeness": 1, "reasoning": "Utility is usefulness; the sentence distinguishes preserving aesthetic from updating utilities (mechanical systems)." },
+        { "distractor": "condition", "closeness": 1, "reasoning": "Condition is the state of repair; aesthetic beauty and structural condition are distinct concepts." }
+      ]
+    },
+    {
+      "sentence": "The filmmaker's aesthetic evolved from stark black-and-white compositions to lush, colorful landscapes.",
+      "answerChoices": [
+        { "distractor": "style", "closeness": 3, "reasoning": "Style denotes a manner of expression, very close to aesthetic, but emphasizes distinctive form over the broader artistic and visual principles." },
+        { "distractor": "vision", "closeness": 3, "reasoning": "Vision is a filmmaker's artistic outlook, similar to aesthetic, but is more about conceptual perspective than the specific visual or artistic principles." },
+        { "distractor": "technique", "closeness": 3, "reasoning": "Technique refers to methods, which may serve aesthetic goals, but doesn't denote the principles of beauty and composition themselves." },
+        { "distractor": "approach", "closeness": 3, "reasoning": "Approach denotes method, close to technique, but doesn't specifically emphasize the artistic or visual beauty principles." },
+        { "distractor": "preference", "closeness": 2, "reasoning": "Preference denotes choice, but doesn't establish the formal principles of artistic composition and beauty that aesthetic does." },
+        { "distractor": "sensibility", "closeness": 2, "reasoning": "Sensibility denotes sensitivity, but is more emotional than the formal, structured principles that aesthetic denotes." },
+        { "distractor": "taste", "closeness": 2, "reasoning": "Taste suggests preferences in beauty, but is more about personal liking than the formal principles of artistic composition." },
+        { "distractor": "palette", "closeness": 2, "reasoning": "Palette refers to color choices, which serve aesthetic goals, but is narrower—a component of aesthetic rather than the full concept." },
+        { "distractor": "theme", "closeness": 1, "reasoning": "Theme is narrative content; the sentence's contrast between color and composition concerns visual principles, not subject matter." },
+        { "distractor": "message", "closeness": 1, "reasoning": "Message is what the film communicates; aesthetic is how it looks visually—different aspects of filmmaking." },
+        { "distractor": "plot", "closeness": 1, "reasoning": "Plot is the story; aesthetic evolution refers to visual and artistic principles, not narrative structure." }
+      ]
+    },
+    {
+      "sentence": "The designer balanced aesthetic considerations with practical constraints in every product decision.",
+      "answerChoices": [
+        { "distractor": "artistic", "closeness": 3, "reasoning": "Artistic denotes creative expression, similar to aesthetic, but emphasizes creativity over the specific principle of beauty and composition." },
+        { "distractor": "beautiful", "closeness": 3, "reasoning": "Beautiful is a quality of things, similar to what aesthetic pursues, but is more subjective and emotional than the formal principles aesthetic denotes." },
+        { "distractor": "visual", "closeness": 3, "reasoning": "Visual refers to what can be seen, which aesthetic concerns, but doesn't emphasize the principles of beauty and composition." },
+        { "distractor": "decorative", "closeness": 3, "reasoning": "Decorative pertains to ornament, part of aesthetic concerns, but emphasizes embellishment over fundamental principles of composition and beauty." },
+        { "distractor": "creative", "closeness": 2, "reasoning": "Creative denotes originality, which may serve aesthetic goals, but doesn't specifically address principles of beauty and composition." },
+        { "distractor": "stylistic", "closeness": 2, "reasoning": "Stylistic pertains to form and manner, overlapping with aesthetic, but emphasizes distinctive character over universal principles of beauty." },
+        { "distractor": "formal", "closeness": 2, "reasoning": "Formal pertains to structure and appearance, which aesthetic addresses, but is broader and doesn't emphasize beauty specifically." },
+        { "distractor": "design", "closeness": 2, "reasoning": "Design is the overall plan, which includes aesthetic concerns but also function—a broader concept than aesthetic alone." },
+        { "distractor": "functional", "closeness": 1, "reasoning": "Functional relates to working well; the sentence explicitly contrasts aesthetic considerations with practical constraints—opposing priorities." },
+        { "distractor": "structural", "closeness": 1, "reasoning": "Structural pertains to how something is built; aesthetic pertains to how it looks—different aspects." },
+        { "distractor": "ergonomic", "closeness": 1, "reasoning": "Ergonomic pertains to comfort and efficiency, practical concerns that the sentence contrasts with aesthetic ones." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "nominal",
+  "sentenceSets": [
+    {
+      "sentence": "His role in the organization was nominal; the actual decisions were made elsewhere and his signature obtained afterward.",
+      "answerChoices": [
+        { "distractor": "ceremonial", "closeness": 3, "reasoning": "'Ceremonial' means performed as a ritual or formality, which might describe a nominal role, but focuses on ritual significance rather than having authority in name only." },
+        { "distractor": "figurehead", "closeness": 3, "reasoning": "'Figurehead' is a person with apparent authority but no real power, which is similar to nominal, but is a noun rather than an adjective describing the role itself." },
+        { "distractor": "symbolic", "closeness": 3, "reasoning": "'Symbolic' means serving as a symbol rather than having practical effect, which relates to nominal, but emphasizes representation rather than name-only authority." },
+        { "distractor": "honorific", "closeness": 3, "reasoning": "'Honorific' means a title or form of address conferring honor without real power, closely related to nominal, but emphasizes the honor aspect rather than the nominal existence." },
+        { "distractor": "advisory", "closeness": 2, "reasoning": "'Advisory' means providing advice or counsel without decision-making power, which relates to lack of authority, but implies consultation rather than decisions made elsewhere." },
+        { "distractor": "assistant", "closeness": 2, "reasoning": "'Assistant' means helping or supporting another, which might describe limited authority, but doesn't convey that the role exists in name while power lies elsewhere." },
+        { "distractor": "temporary", "closeness": 2, "reasoning": "'Temporary' means lasting for a limited time, which might relate to weak authority, but focuses on duration rather than the distinction of name vs. reality." },
+        { "distractor": "substitute", "closeness": 2, "reasoning": "'Substitute' means serving in place of another, which might relate to nominal authority, but implies acting in someone's stead rather than holding a position in name only." },
+        { "distractor": "absolute", "closeness": 1, "reasoning": "'Absolute' means complete and total authority, opposite to a nominal role with no real decision-making power." },
+        { "distractor": "genuine", "closeness": 1, "reasoning": "'Genuine' means real and authentic, contrary to something nominal that exists in name only, not in reality." },
+        { "distractor": "executive", "closeness": 1, "reasoning": "'Executive' means having the power to put decisions into effect, opposite to a nominal role where decisions are made elsewhere." }
+      ]
+    },
+    {
+      "sentence": "The penalty for the traffic violation was nominal—barely enough to cover the cost of processing the ticket.",
+      "answerChoices": [
+        { "distractor": "token", "closeness": 3, "reasoning": "'Token' means a small or inadequate symbol, which relates to a nominal amount, but emphasizes symbolic value rather than small actual quantity." },
+        { "distractor": "symbolic", "closeness": 3, "reasoning": "'Symbolic' means serving as a representation rather than having substance, which might describe a nominal amount, but emphasizes the representational aspect." },
+        { "distractor": "minimal", "closeness": 3, "reasoning": "'Minimal' means the least possible amount, which overlaps with nominal in describing a small quantity, but focuses on smallness rather than existing in name more than substance." },
+        { "distractor": "trifling", "closeness": 3, "reasoning": "'Trifling' means of little importance or value, which describes a small penalty, but emphasizes insignificance rather than the specifically nominal nature." },
+        { "distractor": "modest", "closeness": 2, "reasoning": "'Modest' means not large or showy, which might describe a small penalty, but suggests reasonable or appropriate smallness rather than inadequately small." },
+        { "distractor": "meager", "closeness": 2, "reasoning": "'Meager' means scanty or insufficient, which relates to a small penalty, but emphasizes insufficiency more than the name-versus-substance distinction of nominal." },
+        { "distractor": "petty", "closeness": 2, "reasoning": "'Petty' means trivial or small, which might describe the penalty, but emphasizes trivial importance rather than its nominal monetary amount." },
+        { "distractor": "insignificant", "closeness": 2, "reasoning": "'Insignificant' means of little consequence, which might apply to the penalty, but focuses on importance rather than the specifically small monetary quantity." },
+        { "distractor": "substantial", "closeness": 1, "reasoning": "'Substantial' means considerable in size or importance, opposite to a nominal penalty that barely covers processing costs." },
+        { "distractor": "exorbitant", "closeness": 1, "reasoning": "'Exorbitant' means unreasonably high or excessive, contrary to a nominal penalty that is barely adequate." },
+        { "distractor": "punitive", "closeness": 1, "reasoning": "'Punitive' means designed to inflict punishment or suffering, opposite to a nominal penalty that is too small to serve as real punishment." }
+      ]
+    },
+    {
+      "sentence": "Although he had nominal authority to approve the budget, the real power rested with the board committee that set spending limits beforehand.",
+      "answerChoices": [
+        { "distractor": "theoretical", "closeness": 3, "reasoning": "'Theoretical' means existing in theory rather than practice, which relates to nominal authority, but emphasizes abstract existence rather than authority existing in name only." },
+        { "distractor": "apparent", "closeness": 3, "reasoning": "'Apparent' means seeming to be but not necessarily being, which relates to nominal authority, but suggests a false appearance rather than actual authority existing in name." },
+        { "distractor": "supposed", "closeness": 3, "reasoning": "'Supposed' means believed or assumed to be, which might describe nominal authority, but implies an assumption rather than something actually existing in name." },
+        { "distractor": "titular", "closeness": 3, "reasoning": "'Titular' means existing in title or name only, nearly identical to nominal in this context, describing authority held in name while actual power lies elsewhere." },
+        { "distractor": "implied", "closeness": 2, "reasoning": "'Implied' means suggested but not explicitly stated, which might relate to nominal authority, but emphasizes inference rather than the actual name-versus-reality distinction." },
+        { "distractor": "delegated", "closeness": 2, "reasoning": "'Delegated' means assigned to someone else, which might relate to limited authority, but implies active transfer rather than authority existing only in name." },
+        { "distractor": "restricted", "closeness": 2, "reasoning": "'Restricted' means limited in scope or extent, which relates to his limited power, but focuses on constraints rather than the distinction of name versus reality." },
+        { "distractor": "assigned", "closeness": 2, "reasoning": "'Assigned' means given or allocated to someone, which might describe his authority, but doesn't convey that it's merely in name." },
+        { "distractor": "absolute", "closeness": 1, "reasoning": "'Absolute' means complete and total, opposite to nominal authority that is merely in name while real power lies with the committee." },
+        { "distractor": "ultimate", "closeness": 1, "reasoning": "'Ultimate' means final and supreme authority, contrary to nominal authority that has no real decision-making power." },
+        { "distractor": "unilateral", "closeness": 1, "reasoning": "'Unilateral' means decided or done by one side alone, opposite to nominal authority that must defer to another group's control." }
+      ]
+    }
+  ]
+}

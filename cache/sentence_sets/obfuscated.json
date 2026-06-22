@@ -1,0 +1,53 @@
+{
+  "word": "obfuscated",
+  "sentenceSets": [
+    {
+      "sentence": "The data had been obfuscated so thoroughly that recovering the original picture took the auditors two weeks.",
+      "answerChoices": [
+        { "distractor": "encrypted", "closeness": 3, "reasoning": "Encryption hides data, as obfuscation does, but the sentence emphasizes the deliberate darkening and obscuring of information, not just protection via code." },
+        { "distractor": "scrambled", "closeness": 3, "reasoning": "Scrambling makes data disordered and hard to read, but the sentence requires a word implying intentional obscuring through darkening." },
+        { "distractor": "complicated", "closeness": 3, "reasoning": "Complicating makes data complex, but the sentence emphasizes the deliberate obscuring of the original picture, not mere complexity." },
+        { "distractor": "concealed", "closeness": 3, "reasoning": "Concealing hides data, but the sentence shows the data was still visible—its meaning was obscured—requiring recovery work by auditors." },
+        { "distractor": "buried", "closeness": 2, "reasoning": "Burying hides something, but the sentence shows data was present but obscured, requiring auditors to recover it, not dig for hidden facts." },
+        { "distractor": "disguised", "closeness": 2, "reasoning": "Disguising masks true nature, but the sentence shows the auditors recovered the original picture through effort, suggesting systematic obscuring, not masking." },
+        { "distractor": "distorted", "closeness": 2, "reasoning": "Distorting changes appearance, but the sentence requires a word describing deliberate obscuring specifically, not just alteration." },
+        { "distractor": "muddied", "closeness": 2, "reasoning": "Muddying makes something unclear, but the sentence emphasizes deliberate obscuring requiring two weeks of work to recover, not casual muddying." },
+        { "distractor": "clarified", "closeness": 1, "reasoning": "Clarifying makes things clear; the sentence shows data that was made unclear and required two weeks to recover the original picture." },
+        { "distractor": "organized", "closeness": 1, "reasoning": "Organizing makes data clear and accessible; the sentence shows data made unclear and requiring recovery work." },
+        { "distractor": "simplified", "closeness": 1, "reasoning": "Simplifying makes data easier to understand; the sentence shows data made so unclear that auditors needed two weeks to recover the original." }
+      ]
+    },
+    {
+      "sentence": "The witness's account was obfuscated by conflicting details and vague references that made the sequence of events nearly impossible to reconstruct.",
+      "answerChoices": [
+        { "distractor": "complicated", "closeness": 3, "reasoning": "The account was complicated, but the sentence requires a word implying deliberate or accidental obscuring of clarity, not mere complexity." },
+        { "distractor": "clouded", "closeness": 3, "reasoning": "Clouding obscures things, but the sentence shows specific conflicting details and vague references—intentional or careless obscuring—not just general murkiness." },
+        { "distractor": "confused", "closeness": 3, "reasoning": "Confusion obscures meaning, but the sentence requires a word implying the account itself darkened or obscured the truth, not that it caused confusion in listeners." },
+        { "distractor": "contradicted", "closeness": 3, "reasoning": "The account contained contradictions, but the sentence emphasizes how these darkened or obscured the sequence of events, not just that they contradicted." },
+        { "distractor": "muddled", "closeness": 2, "reasoning": "Muddling confuses things, but the sentence shows specific conflicting details and vague references causing obscurity, not general muddling." },
+        { "distractor": "obscured", "closeness": 2, "reasoning": "Obscuring makes things unclear, close to obfuscating, but the sentence's use of conflicting details and vague references suggests deliberate darkening." },
+        { "distractor": "tangled", "closeness": 2, "reasoning": "Tangling intertwines things confusingly, but the sentence shows specific details and references obscuring the sequence, not general tanglement." },
+        { "distractor": "garbled", "closeness": 2, "reasoning": "Garbling corrupts information, but the sentence shows the account darkened through conflicting details and vagueness, suggesting deliberate or careless obscuring." },
+        { "distractor": "clarified", "closeness": 1, "reasoning": "Clarifying makes things clear; the sentence shows the account made the sequence nearly impossible to reconstruct." },
+        { "distractor": "explained", "closeness": 1, "reasoning": "Explaining makes things understandable; the sentence shows the account made the sequence nearly impossible to reconstruct." },
+        { "distractor": "verified", "closeness": 1, "reasoning": "Verifying confirms facts; the sentence shows conflicting details and vague references that made reconstruction nearly impossible." }
+      ]
+    },
+    {
+      "sentence": "Years of amendments and revisions had obfuscated the original legislative intent so thoroughly that scholars now debated what the law actually meant.",
+      "answerChoices": [
+        { "distractor": "altered", "closeness": 3, "reasoning": "Alterations change things, as amendments do, but the sentence requires a word describing how these darkened or obscured the original intent." },
+        { "distractor": "obscured", "closeness": 3, "reasoning": "Obscuring makes things unclear, close to obfuscating, but the sentence's context of amendments and revisions suggests deliberate darkening over time." },
+        { "distractor": "complicated", "closeness": 3, "reasoning": "The amendments complicated the law, but the sentence requires a word implying the original intent was darkened or hidden, not just made complex." },
+        { "distractor": "distorted", "closeness": 3, "reasoning": "Distorting changes appearance, but the sentence shows amendments and revisions darkening intent so thoroughly scholars debate meaning, suggesting obscuring not distortion." },
+        { "distractor": "layered", "closeness": 2, "reasoning": "Amendments layer new meaning, but the sentence shows the original intent was darkened and obscured, not just built upon." },
+        { "distractor": "buried", "closeness": 2, "reasoning": "Burying hides something, but the sentence shows the original intent was darkened through amendment and revision, requiring scholarly debate." },
+        { "distractor": "masked", "closeness": 2, "reasoning": "Masking hides true nature, but the sentence shows deliberate amendment and revision darkening intent, not cosmetic masking." },
+        { "distractor": "buried", "closeness": 2, "reasoning": "Burying hides something, but the sentence shows accumulated amendments darkening intent, not simple concealment." },
+        { "distractor": "clarified", "closeness": 1, "reasoning": "Clarifying makes things clear; the sentence shows amendments made the original intent unclear, causing scholarly debate about meaning." },
+        { "distractor": "preserved", "closeness": 1, "reasoning": "Preserving maintains clarity; the sentence shows amendments that darkened the original intent so much scholars now debate what the law meant." },
+        { "distractor": "articulated", "closeness": 1, "reasoning": "Articulating expresses clearly; the sentence shows the original legislative intent was darkened by amendments and revisions." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "devoid",
+  "sentenceSets": [
+    {
+      "sentence": "Her response was devoid of empathy, treating what was clearly a personal crisis as a procedural matter.",
+      "answerChoices": [
+        { "distractor": "lacking", "closeness": 3, "reasoning": "Lacking is a broad term meaning without something; however, the sentence's emphasis on a personal crisis being treated procedurally suggests not merely an absence but a conspicuous, almost clinical absence of emotional understanding." },
+        { "distractor": "barren", "closeness": 3, "reasoning": "Barren suggests emptiness and desolation; while it implies absence, it often carries connotations of desolation or wasteland that are more physical than emotional." },
+        { "distractor": "empty", "closeness": 3, "reasoning": "Empty describes absence of content; in this context, the sentence implies an absence of empathy shown through her response, making empty less precise than a term emphasizing complete absence of a specific quality." },
+        { "distractor": "stripped", "closeness": 3, "reasoning": "Stripped implies having been forcefully removed; the sentence describes a response that exhibits an absence of empathy, not something that has been deliberately removed or taken away." },
+        { "distractor": "bereft", "closeness": 2, "reasoning": "Bereft emphasizes loss or deprivation, often with a tone of sadness; the sentence describes a clinical, procedural response, not one tinged with pathos." },
+        { "distractor": "deprived", "closeness": 2, "reasoning": "Deprived suggests being denied something one should have; the sentence emphasizes the absence in her response rather than a sense of being denied or lacking in resources." },
+        { "distractor": "drained", "closeness": 2, "reasoning": "Drained implies having been depleted or exhausted; the sentence suggests a response that never had empathy to begin with, not one that had it removed." },
+        { "distractor": "void", "closeness": 2, "reasoning": "Void as an adjective is rare and typically formal; as a noun it implies empty space, and as a verb it means to nullify—the sentence calls for an adjective describing the nature of the response, not a state of nullification." },
+        { "distractor": "full", "closeness": 1, "reasoning": "Full means containing something; the sentence describes an absence, the opposite of full." },
+        { "distractor": "rich", "closeness": 1, "reasoning": "Rich implies abundance and depth; the sentence contrasts with this, describing a response utterly lacking warmth." },
+        { "distractor": "saturated", "closeness": 1, "reasoning": "Saturated means filled completely; the sentence shows a response without emotional content, opposite to saturation." }
+      ]
+    },
+    {
+      "sentence": "The CEO's speech was devoid of vision, offering only platitudes and vague reassurances.",
+      "answerChoices": [
+        { "distractor": "lacking", "closeness": 3, "reasoning": "Lacking is a general term for absence; however, the sentence's specific focus on platitudes and vague reassurances suggests not merely missing vision but a conspicuous replacement of real direction with empty talk." },
+        { "distractor": "empty", "closeness": 3, "reasoning": "Empty describes absence of content; while fitting, the sentence's emphasis on what was said instead (platitudes) suggests the speech had content, just not meaningful vision." },
+        { "distractor": "hollow", "closeness": 3, "reasoning": "Hollow suggests something that appears full but is actually empty; the sentence emphasizes what was actually present (platitudes) rather than an illusion of substance hiding emptiness." },
+        { "distractor": "barren", "closeness": 3, "reasoning": "Barren implies complete sterility; while the sentence suggests absence of vision, it fills that space with platitudes, making barren less precise than a term emphasizing strategic or substantive absence." },
+        { "distractor": "vacant", "closeness": 2, "reasoning": "Vacant emphasizes emptiness or availability for occupancy; the sentence suggests the absence is filled with meaningless talk rather than true vacancy." },
+        { "distractor": "depleted", "closeness": 2, "reasoning": "Depleted suggests having been used up; the sentence implies the speech never contained vision, not that vision was used up." },
+        { "distractor": "impoverished", "closeness": 2, "reasoning": "Impoverished suggests scarcity or reduced quality; while applicable, it emphasizes poverty of means rather than the specific absence of forward-looking direction." },
+        { "distractor": "sterile", "closeness": 2, "reasoning": "Sterile means unable to produce or reproduce; the sentence is about lack of inspiring direction, not about inability to generate new ideas more broadly." },
+        { "distractor": "abundant", "closeness": 1, "reasoning": "Abundant means present in large quantities; the sentence describes absence, the opposite of abundance." },
+        { "distractor": "replete", "closeness": 1, "reasoning": "Replete means full or well-supplied; the sentence shows a speech lacking meaningful content." },
+        { "distractor": "substantive", "closeness": 1, "reasoning": "Substantive means having real substance or importance; the sentence describes a speech without the depth and direction that substantive content would provide." }
+      ]
+    },
+    {
+      "sentence": "The historical record is devoid of any evidence that the two leaders ever met, despite persistent rumors.",
+      "answerChoices": [
+        { "distractor": "cleared", "closeness": 3, "reasoning": "Cleared implies something has been actively removed; the sentence describes an absence in the historical record, suggesting the evidence never existed there rather than having been removed." },
+        { "distractor": "stripped", "closeness": 3, "reasoning": "Stripped suggests forceful removal; the sentence treats the historical record as lacking something from the start, not as having been deliberately emptied." },
+        { "distractor": "empty", "closeness": 3, "reasoning": "Empty is a general absence; however, the sentence's emphasis on evidence not existing, combined with the contrast to rumors, suggests a more specific term indicating complete lack of documentation." },
+        { "distractor": "purged", "closeness": 3, "reasoning": "Purged suggests deliberate removal of unwanted material; the sentence implies the evidence simply does not exist in the record, not that it was removed by intention." },
+        { "distractor": "void", "closeness": 2, "reasoning": "Void as an adjective is archaic and formal; while it can mean empty, it is less commonly used in modern prose and does not fit the sentence's straightforward historical observation." },
+        { "distractor": "bereft", "closeness": 2, "reasoning": "Bereft emphasizes loss and often carries emotional weight; the sentence is a neutral historical statement, not a lament over what has been lost." },
+        { "distractor": "sparse", "closeness": 2, "reasoning": "Sparse suggests thinness or scattered distribution rather than complete absence; the sentence indicates no evidence, not merely limited evidence." },
+        { "distractor": "silent", "closeness": 2, "reasoning": "Silent metaphorically means not speaking or not providing information; while poetic, the sentence calls for a direct term indicating absence of evidence rather than a figurative term." },
+        { "distractor": "filled", "closeness": 1, "reasoning": "Filled means containing something; the sentence describes absence of evidence." },
+        { "distractor": "documented", "closeness": 1, "reasoning": "Documented means recorded in historical records; the sentence explicitly states the record is absent of evidence of a meeting." },
+        { "distractor": "substantiated", "closeness": 1, "reasoning": "Substantiated means supported with evidence; the sentence shows a record without such support." }
+      ]
+    }
+  ]
+}

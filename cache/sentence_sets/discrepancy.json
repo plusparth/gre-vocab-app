@@ -1,0 +1,53 @@
+{
+  "word": "discrepancy",
+  "sentenceSets": [
+    {
+      "sentence": "The discrepancy between the two records was small but significant, suggesting a deliberate alteration rather than an error.",
+      "answerChoices": [
+        { "distractor": "harmony", "closeness": 3, "reasoning": "Harmony means agreement and accord; the sentence describes a disagreement between records, the opposite of harmony." },
+        { "distractor": "alignment", "closeness": 3, "reasoning": "Alignment means being in agreement or line; discrepancy describes misalignment between the records." },
+        { "distractor": "consistency", "closeness": 3, "reasoning": "Consistency means agreement and uniformity; discrepancy indicates inconsistency between the two records." },
+        { "distractor": "accord", "closeness": 3, "reasoning": "Accord is agreement; discrepancy indicates disagreement between the records." },
+        { "distractor": "match", "closeness": 2, "reasoning": "Match means agreeing or fitting together; the sentence shows the records did not match." },
+        { "distractor": "correlation", "closeness": 2, "reasoning": "Correlation is a relationship showing consistency; discrepancy indicates lack of expected correlation." },
+        { "distractor": "congruence", "closeness": 2, "reasoning": "Congruence means fitting together perfectly; discrepancy indicates non-congruence between records." },
+        { "distractor": "error", "closeness": 1, "reasoning": "Error is a mistake; the sentence explicitly states the discrepancy 'suggesting deliberate alteration rather than an error.'" },
+        { "distractor": "similarity", "closeness": 1, "reasoning": "Similarity means resemblance; discrepancy indicates difference, not similarity." },
+        { "distractor": "symmetry", "closeness": 1, "reasoning": "Symmetry means balanced correspondence; a discrepancy breaks symmetry." },
+        { "distractor": "equivalence", "closeness": 1, "reasoning": "Equivalence means having equal value; discrepancy suggests inequality between the records." }
+      ]
+    },
+    {
+      "sentence": "The auditors discovered a discrepancy of $50,000 in the quarterly expenses that neither department could explain.",
+      "answerChoices": [
+        { "distractor": "surplus", "closeness": 3, "reasoning": "Surplus is excess or extra amount; the sentence describes an unexplained difference, not necessarily an excess." },
+        { "distractor": "reconciliation", "closeness": 3, "reasoning": "Reconciliation is bringing records into agreement; the discrepancy indicates they could not achieve reconciliation." },
+        { "distractor": "account", "closeness": 3, "reasoning": "Account refers to an explanation or reason; the discrepancy 'neither department could explain,' ruling out clear accounting." },
+        { "distractor": "balance", "closeness": 3, "reasoning": "Balance refers to agreement between accounts; a discrepancy indicates the accounts are not balanced." },
+        { "distractor": "shortage", "closeness": 2, "reasoning": "Shortage means a deficit or lack; while the discrepancy might reveal a shortage, they could be different (one excess, one deficit)." },
+        { "distractor": "deficit", "closeness": 2, "reasoning": "Deficit is an insufficiency; a discrepancy of $50,000 might be either a deficit or a surplus." },
+        { "distractor": "variance", "closeness": 2, "reasoning": "Variance is a difference, very similar to discrepancy, but discrepancy emphasizes the problem-related aspect." },
+        { "distractor": "explanation", "closeness": 1, "reasoning": "Explanation is the reason; the sentence states neither department 'could explain' the discrepancy." },
+        { "distractor": "authorization", "closeness": 1, "reasoning": "Authorization is permission; a discrepancy in expenses is not about authorization but about accounting accuracy." },
+        { "distractor": "documentation", "closeness": 1, "reasoning": "Documentation is record-keeping; the discrepancy involves two documents, suggesting documentation exists but conflicts." },
+        { "distractor": "approval", "closeness": 1, "reasoning": "Approval is permission or endorsement; a discrepancy is an unexplained difference, not an approval issue." }
+      ]
+    },
+    {
+      "sentence": "A discrepancy between the predicted results and the actual measurements led researchers to reconsider their underlying assumptions.",
+      "answerChoices": [
+        { "distractor": "confirmation", "closeness": 3, "reasoning": "Confirmation is verification of expectations; a discrepancy contradicts expectations, not confirms them." },
+        { "distractor": "validation", "closeness": 3, "reasoning": "Validation is confirming as correct; a discrepancy suggests error or misunderstanding, not validation." },
+        { "distractor": "support", "closeness": 3, "reasoning": "Support confirms or sustains; a discrepancy contradicts or undermines expectations." },
+        { "distractor": "correlation", "closeness": 3, "reasoning": "Correlation is agreement or relationship; discrepancy indicates lack of expected correlation." },
+        { "distractor": "agreement", "closeness": 2, "reasoning": "Agreement is alignment; the discrepancy shows disagreement between predicted and actual results." },
+        { "distractor": "proof", "closeness": 2, "reasoning": "Proof is evidence confirming something; a discrepancy raises doubt rather than providing proof." },
+        { "distractor": "alignment", "closeness": 2, "reasoning": "Alignment is agreement or congruence; the discrepancy shows misalignment." },
+        { "distractor": "prediction", "closeness": 1, "reasoning": "Prediction is a forecast; the sentence shows a discrepancy between prediction and reality." },
+        { "distractor": "measurement", "closeness": 1, "reasoning": "Measurement is the process of determining size or quantity; the discrepancy is between a prediction and measurements." },
+        { "distractor": "assumption", "closeness": 1, "reasoning": "Assumption is an underlying belief; the sentence shows the discrepancy led researchers to 'reconsider' assumptions." },
+        { "distractor": "hypothesis", "closeness": 1, "reasoning": "Hypothesis is a proposed explanation; the discrepancy challenged the hypothesis, not expressed it." }
+      ]
+    }
+  ]
+}

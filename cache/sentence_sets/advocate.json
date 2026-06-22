@@ -1,0 +1,53 @@
+{
+  "word": "advocate",
+  "sentenceSets": [
+    {
+      "sentence": "She became an outspoken advocate for patients who could not speak for themselves.",
+      "answerChoices": [
+        { "distractor": "representative", "closeness": 3, "reasoning": "A representative speaks for others officially, but doesn't necessarily champion their cause with personal commitment; advocate implies active defense of the cause." },
+        { "distractor": "voice", "closeness": 3, "reasoning": "Voice captures the role of speaking, but as a metaphor it's less formal and doesn't convey the commitment to maintaining the cause that advocate does." },
+        { "distractor": "spokesperson", "closeness": 3, "reasoning": "A spokesperson conveys messages on behalf of a group, but may be neutral; advocate implies passionate, committed defense of a specific position." },
+        { "distractor": "promoter", "closeness": 3, "reasoning": "A promoter advances something, but promotion can be mercenary or superficial; advocate suggests deeper commitment to defending the cause." },
+        { "distractor": "ally", "closeness": 2, "reasoning": "An ally provides support, fitting the partnership, but doesn't capture the leadership and vocal role that advocate emphasizes." },
+        { "distractor": "defender", "closeness": 2, "reasoning": "Defender fits the sense of protecting, but is reactive (defending against attacks) rather than proactively maintaining a cause." },
+        { "distractor": "champion", "closeness": 2, "reasoning": "Champion captures the active support and dedication, but emphasizes winning/success rather than the ongoing maintenance of a cause." },
+        { "distractor": "supporter", "closeness": 2, "reasoning": "Supporter implies backing, but is more passive than the active, vocal stance that being an advocate requires." },
+        { "distractor": "opponent", "closeness": 1, "reasoning": "An opponent argues against something; advocate means arguing for it—they are direct opposites." },
+        { "distractor": "observer", "closeness": 1, "reasoning": "An observer watches without taking a stance; advocate requires active maintenance of a position, not neutrality." },
+        { "distractor": "critic", "closeness": 1, "reasoning": "A critic finds fault; an advocate defends a cause—these are opposing stances." }
+      ]
+    },
+    {
+      "sentence": "The union advocate negotiated with management for better working conditions and wages.",
+      "answerChoices": [
+        { "distractor": "negotiator", "closeness": 3, "reasoning": "A negotiator seeks compromise between parties, but advocate implies loyalty to one side—the workers—with active defense of their interests." },
+        { "distractor": "representative", "closeness": 3, "reasoning": "A representative acts on behalf of a group, but may prioritize agreement over worker interests; advocate defends the group's cause actively." },
+        { "distractor": "mediator", "closeness": 3, "reasoning": "A mediator seeks middle ground between parties; advocate takes a side and defends that cause—a fundamentally different posture." },
+        { "distractor": "agent", "closeness": 3, "reasoning": "An agent acts on someone's behalf, fitting the role, but lacks the sense of zealous defense that advocate conveys." },
+        { "distractor": "lawyer", "closeness": 2, "reasoning": "A lawyer represents clients in legal matters, overlapping with advocate's defense function, but is a formal legal role that advocate is not always." },
+        { "distractor": "emissary", "closeness": 2, "reasoning": "An emissary carries messages between parties, but doesn't imply the committed defense of a cause that advocate does." },
+        { "distractor": "consultant", "closeness": 2, "reasoning": "A consultant advises on strategy, but isn't necessarily committed to one side's cause like an advocate is." },
+        { "distractor": "coordinator", "closeness": 2, "reasoning": "A coordinator organizes efforts, but doesn't imply active defense of the workers' interests that advocate requires." },
+        { "distractor": "obstructionist", "closeness": 1, "reasoning": "An obstructionist blocks progress; an advocate pushes for it—they're opposed in effect." },
+        { "distractor": "observer", "closeness": 1, "reasoning": "An observer watches from outside; advocate requires active participation and commitment to a cause." },
+        { "distractor": "beneficiary", "closeness": 1, "reasoning": "A beneficiary receives benefits; an advocate fights for them—different roles entirely." }
+      ]
+    },
+    {
+      "sentence": "Environmental groups advocate for stricter emission standards despite fierce industry opposition.",
+      "answerChoices": [
+        { "distractor": "lobby", "closeness": 3, "reasoning": "To lobby is to exert pressure for a cause, close to advocate, but emphasizes methods and political influence rather than principled defense." },
+        { "distractor": "campaign", "closeness": 3, "reasoning": "A campaign is an organized push for change, but is more about strategy and tactics than the underlying commitment to a cause." },
+        { "distractor": "petition", "closeness": 3, "reasoning": "To petition is to request formally, but is more passive and procedural than the active defense that advocate implies." },
+        { "distractor": "push for", "closeness": 3, "reasoning": "To push for something seeks its achievement, but doesn't carry the sense of defending a principled position against opposition." },
+        { "distractor": "demand", "closeness": 2, "reasoning": "To demand is to insist on something, but is forceful without necessarily articulating the reasoning or defending the merits of the position." },
+        { "distractor": "fight for", "closeness": 2, "reasoning": "To fight for something implies struggle, but emphasizes conflict over the reasoning and defense of the cause itself." },
+        { "distractor": "propose", "closeness": 2, "reasoning": "To propose is to suggest something, but doesn't carry the commitment to defense that advocate does." },
+        { "distractor": "recommend", "closeness": 2, "reasoning": "To recommend suggests something as good, but lacks the passionate, committed stance of advocating for something." },
+        { "distractor": "oppose", "closeness": 1, "reasoning": "To oppose means to resist something; advocate means to support it—they are directly opposed." },
+        { "distractor": "accept", "closeness": 1, "reasoning": "To accept standards is to comply with them; advocate for stricter ones means pushing back—contrary positions." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "To ignore is to disregard; advocate requires active attention and defense of a position." }
+      ]
+    }
+  ]
+}

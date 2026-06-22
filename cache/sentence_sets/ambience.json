@@ -1,0 +1,53 @@
+{
+  "word": "ambience",
+  "sentenceSets": [
+    {
+      "sentence": "The restaurant's warm lighting and soft music created an ambience suited to a quiet evening.",
+      "answerChoices": [
+        { "distractor": "atmosphere", "closeness": 3, "reasoning": "Close — 'atmosphere' means the mood or feeling of a place, fitting the restaurant context perfectly, but 'atmosphere' is broader and can include air quality or physical conditions, whereas 'ambience' specifically denotes mood." },
+        { "distractor": "ambiance", "closeness": 3, "reasoning": "Close — 'ambiance' is a direct variant spelling of 'ambience' and is nearly identical in meaning, but 'ambiance' is slightly less common in formal American English." },
+        { "distractor": "mood", "closeness": 3, "reasoning": "Close — 'mood' describes a prevailing emotional tone, fitting the restaurant setting, but 'mood' can refer to emotions rather than environmental conditions creating that emotional state." },
+        { "distractor": "setting", "closeness": 3, "reasoning": "Close — 'setting' describes the context or environment of a scene, fitting the restaurant scenario, but emphasizes physical location rather than the sensory qualities that create atmosphere." },
+        { "distractor": "environment", "closeness": 2, "reasoning": "Related but incorrect — 'environment' describes surroundings or conditions, which could include ambience but is broader and more neutral than the specifically evocative quality suggested." },
+        { "distractor": "decor", "closeness": 2, "reasoning": "Incorrect — 'decor' refers to decorative elements and furnishings, which contribute to ambience but describes physical objects rather than the overall emotional quality." },
+        { "distractor": "furnishings", "closeness": 2, "reasoning": "Incorrect — 'furnishings' are the objects and fixtures in a space, which support ambience but do not describe the overall feeling or quality." },
+        { "distractor": "aesthetic", "closeness": 2, "reasoning": "Incorrect — 'aesthetic' refers to beauty or artistic qualities, which relate to creating ambience but describe stylistic principles rather than the resulting mood." },
+        { "distractor": "cacophony", "closeness": 1, "reasoning": "Opposite — 'cacophony' is harsh, discordant noise, directly opposite to the 'soft music' that creates the quiet ambience described." },
+        { "distractor": "desolation", "closeness": 1, "reasoning": "Opposite — 'desolation' means bleakness or emptiness, opposite to the warm, inviting ambience created by lighting and music." },
+        { "distractor": "discordance", "closeness": 1, "reasoning": "Incorrect semantic field — 'discordance' means disagreement or lack of harmony, opposite to the harmonious ambience the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "The abandoned factory's ambience of rust and silence gave no sign that workers had once filled its halls with activity.",
+      "answerChoices": [
+        { "distractor": "aura", "closeness": 3, "reasoning": "Close — 'aura' describes an atmosphere or quality surrounding someone or something, fitting the eerie quality of the abandoned factory, but emphasizes an intangible quality more than the physical sensory environment." },
+        { "distractor": "air", "closeness": 3, "reasoning": "Close — 'air' can mean an atmosphere or quality conveyed by someone or something, fitting the desolate feeling, but is more abstract and less specific to environmental conditions than 'ambience.' " },
+        { "distractor": "character", "closeness": 3, "reasoning": "Close — 'character' can describe the distinctive quality of a place, fitting the factory's particular quality, but emphasizes inherent nature rather than the experiential, environmental mood." },
+        { "distractor": "tone", "closeness": 3, "reasoning": "Close — 'tone' describes the prevailing quality or style of a place, fitting the desolate factory setting, but emphasizes an overall impression rather than the sensory, experiential environment." },
+        { "distractor": "impression", "closeness": 2, "reasoning": "Related but incorrect — 'impression' is a feeling or effect produced, which could describe how the factory feels, but does not emphasize the sensory, environmental qualities creating the feeling." },
+        { "distractor": "relic", "closeness": 2, "reasoning": "Incorrect — 'relic' is an object from the past, which the factory could be, but does not describe the overall feeling or environmental quality." },
+        { "distractor": "monument", "closeness": 2, "reasoning": "Incorrect — 'monument' is a structure or object commemorating something, which the factory could be, but does not convey the sensory quality or mood of the place." },
+        { "distractor": "vestige", "closeness": 2, "reasoning": "Incorrect — 'vestige' is a remaining trace of something past, which could apply to the factory, but does not describe the overall environmental mood or feeling." },
+        { "distractor": "vitality", "closeness": 1, "reasoning": "Opposite — 'vitality' means energy and liveliness, opposite to the 'rust and silence' creating a desolate ambience." },
+        { "distractor": "exuberance", "closeness": 1, "reasoning": "Opposite — 'exuberance' means enthusiastic energy, the opposite of the quiet, empty atmosphere the sentence describes." },
+        { "distractor": "vibrancy", "closeness": 1, "reasoning": "Incorrect semantic field — 'vibrancy' suggests energy and activity, opposite to the still, desolate quality of the abandoned factory." }
+      ]
+    },
+    {
+      "sentence": "The beach at dawn had a mystical ambience, with mist hovering over the water and birds calling distantly through the fog.",
+      "answerChoices": [
+        { "distractor": "aura", "closeness": 3, "reasoning": "Close — 'aura' describes a distinctive atmosphere or quality, fitting the mystical nature of the dawn scene, but emphasizes an intangible or perceived quality rather than the environmental, sensory experience itself." },
+        { "distractor": "mood", "closeness": 3, "reasoning": "Close — 'mood' describes the emotional quality conveyed by surroundings, fitting the mystical setting, but emphasizes emotional response rather than the environmental conditions evoking that mood." },
+        { "distractor": "atmosphere", "closeness": 3, "reasoning": "Close — 'atmosphere' means the emotional quality of a place, fitting the mystical beach, but can also refer literally to air, making it broader than the specifically evocative 'ambience.' " },
+        { "distractor": "spell", "closeness": 3, "reasoning": "Close — 'spell' can mean an enchanting influence or quality, fitting the mystical beach atmosphere, but emphasizes a magical influence rather than the sensory environmental qualities." },
+        { "distractor": "poetry", "closeness": 2, "reasoning": "Related but incorrect — 'poetry' describes beauty or aesthetic quality, which could characterize the scene, but is an abstract concept rather than the concrete environmental mood." },
+        { "distractor": "majesty", "closeness": 2, "reasoning": "Incorrect — 'majesty' refers to impressive dignity or grandeur, which could apply to the beach, but does not describe the specific mystical quality created by sensory details." },
+        { "distractor": "serenity", "closeness": 2, "reasoning": "Incorrect — 'serenity' means peaceful calm, which is part of the mystical mood but does not capture the full environmental quality that 'ambience' conveys." },
+        { "distractor": "tranquility", "closeness": 2, "reasoning": "Incorrect — 'tranquility' describes peaceful quietness, which could relate to the scene but is a single emotional quality rather than the full complex ambience." },
+        { "distractor": "chaos", "closeness": 1, "reasoning": "Opposite — 'chaos' means disorder and confusion, opposite to the quiet, ordered mystical setting described." },
+        { "distractor": "clarity", "closeness": 1, "reasoning": "Opposite — 'clarity' means clearness and visibility, opposite to the mist and fog that create the mystical ambience." },
+        { "distractor": "harshness", "closeness": 1, "reasoning": "Incorrect semantic field — 'harshness' describes roughness or severity, opposite to the gentle, mystical quality of the misty dawn beach." }
+      ]
+    }
+  ]
+}

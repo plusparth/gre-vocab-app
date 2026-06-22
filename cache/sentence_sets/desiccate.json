@@ -1,0 +1,53 @@
+{
+  "word": "desiccate",
+  "sentenceSets": [
+    {
+      "sentence": "The heat and wind had desiccated the soil, leaving a cracked surface that yielded nothing.",
+      "answerChoices": [
+        { "distractor": "eroded", "closeness": 3, "reasoning": "Eroded means worn away by natural forces, which is similar in consequence but describes a gradual wearing process rather than specifically drying out." },
+        { "distractor": "parched", "closeness": 3, "reasoning": "Parched means extremely dry from heat, which is the result of desiccation, but is more of an adjective describing the state rather than the process of drying." },
+        { "distractor": "withered", "closeness": 3, "reasoning": "Withered means to shrivel or wilt, which dried soil might do, but typically refers to living things like plants rather than soil." },
+        { "distractor": "drained", "closeness": 3, "reasoning": "Drained means to remove liquid from, which is similar to desiccating, but is more about extraction than a process of drying out." },
+        { "distractor": "depleted", "closeness": 2, "reasoning": "Depleted means to use up resources, which heat and wind do to soil moisture, but is broader than specifically drying." },
+        { "distractor": "exhausted", "closeness": 2, "reasoning": "Exhausted means to use up completely, which occurs with the soil's moisture, but is more general than the specific process of drying." },
+        { "distractor": "hardened", "closeness": 2, "reasoning": "Hardened means to become hard, which desiccated soil does, but describes the result rather than the process of drying out." },
+        { "distractor": "compressed", "closeness": 2, "reasoning": "Compressed means to press together, but does not describe the specific process of drying that desiccated implies." },
+        { "distractor": "moistened", "closeness": 1, "reasoning": "Moistened means to make wet or damp, which is the opposite of desiccated soil." },
+        { "distractor": "hydrated", "closeness": 1, "reasoning": "Hydrated means to supply with water or moisture, which is the opposite of desiccating." },
+        { "distractor": "saturated", "closeness": 1, "reasoning": "Saturated means completely filled with moisture, which is the opposite of desiccated." }
+      ]
+    },
+    {
+      "sentence": "The mummy had been preserved for thousands of years through careful desiccation in the dry tomb environment.",
+      "answerChoices": [
+        { "distractor": "embalming", "closeness": 3, "reasoning": "Embalming is the treatment of a body with chemicals to prevent decay, which is similar to desiccation but involves different processes and substances." },
+        { "distractor": "mummification", "closeness": 3, "reasoning": "Mummification is the overall process of creating a mummy, of which desiccation is one method; mummification may involve multiple techniques." },
+        { "distractor": "preservation", "closeness": 3, "reasoning": "Preservation is the general act of keeping something from decay, which desiccation accomplishes, but is broader than the specific process." },
+        { "distractor": "dehydration", "closeness": 3, "reasoning": "Dehydration and desiccation are very similar, both meaning removal of water, though dehydration is more commonly used in medical contexts." },
+        { "distractor": "freezing", "closeness": 2, "reasoning": "Freezing preserves bodies but is a different process than desiccation, which specifically removes water rather than lowering temperature." },
+        { "distractor": "sterilization", "closeness": 2, "reasoning": "Sterilization removes microorganisms but does not specifically describe the drying process that preserved this mummy." },
+        { "distractor": "sealing", "closeness": 2, "reasoning": "Sealing protects from the outside but does not describe the process of removing moisture that desiccation involves." },
+        { "distractor": "isolation", "closeness": 2, "reasoning": "Isolation means keeping separate from external influences, which the tomb provided, but does not describe the drying process itself." },
+        { "distractor": "rehydration", "closeness": 1, "reasoning": "Rehydration means restoring water content, which is the opposite of the desiccation that preserved the mummy." },
+        { "distractor": "decay", "closeness": 1, "reasoning": "Decay is deterioration and breakdown, which desiccation prevents; decay is the opposite of desiccation's preservative effect." },
+        { "distractor": "decomposition", "closeness": 1, "reasoning": "Decomposition is breakdown by natural processes, which desiccation prevents, so it is opposite in effect." }
+      ]
+    },
+    {
+      "sentence": "Years of insufficient rainfall had desiccated the reservoir, leaving behind only shallow pools and exposed sediment.",
+      "answerChoices": [
+        { "distractor": "depleted", "closeness": 3, "reasoning": "Depleted means to use up or reduce greatly, which the reservoir underwent, but does not specifically imply the process of drying." },
+        { "distractor": "lowered", "closeness": 3, "reasoning": "Lowered means to reduce in height or level, which happened to the water level, but does not convey the specific process of drying out." },
+        { "distractor": "evaporated", "closeness": 3, "reasoning": "Evaporated describes the physical process by which water becomes vapor, but is more about the mechanism than the end state of being dried out." },
+        { "distractor": "diminished", "closeness": 3, "reasoning": "Diminished means to reduce in size or extent, which occurred to the reservoir's water, but is less specific than desiccated." },
+        { "distractor": "reduced", "closeness": 2, "reasoning": "Reduced means to make smaller or less, which applies to the water level, but is too general and does not convey drying." },
+        { "distractor": "exhausted", "closeness": 2, "reasoning": "Exhausted means to use up completely, which may have occurred, but does not specifically mean to dry out." },
+        { "distractor": "compressed", "closeness": 2, "reasoning": "Compressed means to press together, but does not describe the drying process that created the pools and exposed sediment." },
+        { "distractor": "stagnated", "closeness": 2, "reasoning": "Stagnated means to become motionless or inactive, which water might do, but does not imply the drying process." },
+        { "distractor": "flooded", "closeness": 1, "reasoning": "Flooded means to cover with water, which is the opposite of being desiccated by insufficient rainfall." },
+        { "distractor": "replenished", "closeness": 1, "reasoning": "Replenished means to fill up again, which is the opposite of desiccating the reservoir." },
+        { "distractor": "swollen", "closeness": 1, "reasoning": "Swollen means enlarged or distended, which is the opposite of being desiccated or dried out." }
+      ]
+    }
+  ]
+}

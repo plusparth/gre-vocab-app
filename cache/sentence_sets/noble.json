@@ -1,0 +1,53 @@
+{
+  "word": "noble",
+  "sentenceSets": [
+    {
+      "sentence": "Her noble intentions did not spare her from the consequences of a decision that had been badly executed.",
+      "answerChoices": [
+        { "distractor": "honorable", "closeness": 3, "reasoning": "'Honorable' suggests adherence to moral principles, similar to 'noble,' but the sentence shows the problem is not the moral standing of her intentions but their execution." },
+        { "distractor": "righteous", "closeness": 3, "reasoning": "'Righteous' means morally justified, but the sentence implies that her intentions' moral quality couldn't prevent negative consequences, a distinction righteous doesn't fully capture." },
+        { "distractor": "virtuous", "closeness": 3, "reasoning": "'Virtuous' means morally excellent, similar to noble intentions, but the sentence contrasts having virtuous goals with the difficulty of executing them correctly." },
+        { "distractor": "sincere", "closeness": 3, "reasoning": "'Sincere' means genuine in feeling, which might describe her intentions, but doesn't emphasize the moral excellence implied by noble." },
+        { "distractor": "selfless", "closeness": 2, "reasoning": "'Selfless' means acting without regard to personal gain, which relates to noble intentions, but focuses on motive rather than the dignity or excellence of the goals." },
+        { "distractor": "generous", "closeness": 2, "reasoning": "'Generous' means giving freely and abundantly, which might describe the spirit of her intentions, but lacks the connotation of inherent dignity." },
+        { "distractor": "benevolent", "closeness": 2, "reasoning": "'Benevolent' means showing goodwill and kindness, similar to noble intentions, but less about possessing outstanding qualities and more about charitable impulses." },
+        { "distractor": "magnanimous", "closeness": 2, "reasoning": "'Magnanimous' means generous and forgiving in spirit, which might characterize her intentions, but doesn't as directly convey the idea of possessing outstanding qualities." },
+        { "distractor": "selfish", "closeness": 1, "reasoning": "'Selfish' means concerned only with personal gain, opposite to the moral excellence implied by noble intentions." },
+        { "distractor": "petty", "closeness": 1, "reasoning": "'Petty' means trivial or small-minded, contrary to the idea of possessing outstanding, dignified qualities." },
+        { "distractor": "ignoble", "closeness": 1, "reasoning": "'Ignoble' is the direct opposite of noble, meaning lacking dignity or moral excellence." }
+      ]
+    },
+    {
+      "sentence": "The noble gas helium was chosen for the experiment because its chemical inertness prevented unwanted reactions.",
+      "answerChoices": [
+        { "distractor": "pure", "closeness": 3, "reasoning": "'Pure' means free from contamination or mixed elements, which might describe helium's chemical properties, but the sentence specifically highlights inertness as the relevant quality." },
+        { "distractor": "stable", "closeness": 3, "reasoning": "'Stable' means resistant to change, which relates to inertness, but doesn't capture the specific noble gas classification that defines helium's properties." },
+        { "distractor": "inert", "closeness": 3, "reasoning": "'Inert' means chemically unreactive, which is the function the sentence describes, but 'noble' is the established chemical classification that encompasses this property." },
+        { "distractor": "rare", "closeness": 3, "reasoning": "'Rare' means scarce or uncommon, which might apply to noble gases, but the sentence focuses on the chemical property of inertness, not scarcity." },
+        { "distractor": "unreactive", "closeness": 2, "reasoning": "'Unreactive' describes chemical inertness, directly related to the sentence's focus, but is broader than the specific noble gas classification." },
+        { "distractor": "elementary", "closeness": 2, "reasoning": "'Elementary' can describe a basic substance, but doesn't capture the chemical classification or the specific property preventing reactions." },
+        { "distractor": "gaseous", "closeness": 2, "reasoning": "'Gaseous' describes the state of matter, true for helium but not the reason it was chosen for this experiment." },
+        { "distractor": "atmospheric", "closeness": 2, "reasoning": "'Atmospheric' means relating to the air surrounding Earth, but the sentence focuses on helium's chemical properties in the experiment, not its occurrence in the atmosphere." },
+        { "distractor": "reactive", "closeness": 1, "reasoning": "'Reactive' means prone to chemical reactions, opposite to the inertness that makes helium suitable for the experiment." },
+        { "distractor": "combustible", "closeness": 1, "reasoning": "'Combustible' means easily burned or prone to react vigorously, contrary to the chemical inertness needed for the experiment." },
+        { "distractor": "corrosive", "closeness": 1, "reasoning": "'Corrosive' means eating away or destroying through chemical action, opposite to the non-reactive property that helium provides." }
+      ]
+    },
+    {
+      "sentence": "The judge displayed a noble bearing throughout the trial, his demeanor conveying a quiet authority that commanded respect without intimidation.",
+      "answerChoices": [
+        { "distractor": "stern", "closeness": 3, "reasoning": "'Stern' means severe and unrelenting, which might convey authority, but the sentence emphasizes respect without intimidation, whereas stern suggests harshness." },
+        { "distractor": "dignified", "closeness": 3, "reasoning": "'Dignified' means possessing or expressing dignity, very similar to noble bearing, but slightly less about outstanding moral qualities and more about formal deportment." },
+        { "distractor": "authoritative", "closeness": 3, "reasoning": "'Authoritative' means commanding authority, which the sentence mentions, but doesn't convey the moral excellence and outstanding qualities implied by noble." },
+        { "distractor": "imperial", "closeness": 3, "reasoning": "'Imperial' suggests grandeur and command associated with royalty, but the sentence emphasizes quiet respect rather than imposing majesty." },
+        { "distractor": "formal", "closeness": 2, "reasoning": "'Formal' means following established rules and customs, which might describe his demeanor, but doesn't express the moral and personal distinction of noble bearing." },
+        { "distractor": "stately", "closeness": 2, "reasoning": "'Stately' means dignified and majestic, which relates to noble bearing, but emphasizes visual impression rather than inherent outstanding qualities." },
+        { "distractor": "impartial", "closeness": 2, "reasoning": "'Impartial' means showing no favoritism, which is appropriate for a judge, but the sentence focuses on his bearing and demeanor, not his fairness." },
+        { "distractor": "composed", "closeness": 2, "reasoning": "'Composed' means calm and self-controlled, which relates to the quiet authority described, but doesn't emphasize outstanding moral qualities." },
+        { "distractor": "arrogant", "closeness": 1, "reasoning": "'Arrogant' means excessively proud and self-important, opposite to the respectful authority that doesn't rely on intimidation." },
+        { "distractor": "servile", "closeness": 1, "reasoning": "'Servile' means obsequious and lacking dignity, contrary to the noble bearing that commands respect." },
+        { "distractor": "casual", "closeness": 1, "reasoning": "'Casual' means relaxed and informal, opposite to the formal dignity and outstanding bearing displayed by the judge." }
+      ]
+    }
+  ]
+}

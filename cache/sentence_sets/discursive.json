@@ -1,0 +1,53 @@
+{
+  "word": "discursive",
+  "sentenceSets": [
+    {
+      "sentence": "His discursive lecture covered twenty years of history in ninety minutes, but with no clear argument to anchor it.",
+      "answerChoices": [
+        { "distractor": "focused", "closeness": 3, "reasoning": "Focused means concentrating on a clear subject; the sentence describes unfocused wandering across twenty years without a central argument." },
+        { "distractor": "organized", "closeness": 3, "reasoning": "Organized means systematically arranged; the lecture lacked clear organization, jumping between topics." },
+        { "distractor": "coherent", "closeness": 3, "reasoning": "Coherent means logically connected; the lecture covered topics 'with no clear argument to anchor it,' lacking coherence." },
+        { "distractor": "linear", "closeness": 3, "reasoning": "Linear means proceeding in a straight line; the sentence shows rambling across topics without orderly progression." },
+        { "distractor": "structured", "closeness": 2, "reasoning": "Structured means organized with clear parts; the lecture's lack of anchor argument indicates poor structure." },
+        { "distractor": "purposeful", "closeness": 2, "reasoning": "Purposeful means directed toward a goal; the lack of a clear argument suggests the lecture lacked purpose." },
+        { "distractor": "methodical", "closeness": 2, "reasoning": "Methodical means proceeding carefully and orderly; the lecture's rambling indicates non-methodical presentation." },
+        { "distractor": "scattered", "closeness": 1, "reasoning": "Scattered means dispersed; while the topics are scattered, discursive emphasizes the unfocused movement between them." },
+        { "distractor": "concise", "closeness": 1, "reasoning": "Concise means brief and to the point; while covering twenty years in ninety minutes, the issue is rambling, not length." },
+        { "distractor": "clear", "closeness": 1, "reasoning": "Clear means easy to understand; the lack of argument indicates it was not clear." },
+        { "distractor": "direct", "closeness": 1, "reasoning": "Direct means going straight to the point; rambling without a clear argument is the opposite of direct." }
+      ]
+    },
+    {
+      "sentence": "The author's discursive writing style made the memoir difficult to follow, jumping between childhood memories, travel anecdotes, and philosophical musings without logical connection.",
+      "answerChoices": [
+        { "distractor": "concise", "closeness": 3, "reasoning": "Concise means brief and compact; discursive style involves extensive wandering and lengthy digressions." },
+        { "distractor": "streamlined", "closeness": 3, "reasoning": "Streamlined means efficient and uncluttered; discursive involves meandering paths with unnecessary tangents." },
+        { "distractor": "purposeful", "closeness": 3, "reasoning": "Purposeful means directed toward a specific goal; discursive jumping without logical connection lacks clear purpose." },
+        { "distractor": "linear", "closeness": 3, "reasoning": "Linear means proceeding in an orderly sequence; the sentence shows jumping between topics without sequence." },
+        { "distractor": "direct", "closeness": 2, "reasoning": "Direct means going straight to the point; discursive involves detours and tangential paths." },
+        { "distractor": "focused", "closeness": 2, "reasoning": "Focused means concentrated on a main subject; the memoir jumps between multiple unconnected themes." },
+        { "distractor": "cohesive", "closeness": 2, "reasoning": "Cohesive means held together; jumping without logical connection indicates lack of cohesion." },
+        { "distractor": "verbose", "closeness": 1, "reasoning": "Verbose means using more words than necessary; while discursive might be lengthy, the key issue is unfocused wandering." },
+        { "distractor": "poetic", "closeness": 1, "reasoning": "Poetic refers to artistic language; the sentence's issue is organizational, not the style's literary quality." },
+        { "distractor": "elaborate", "closeness": 1, "reasoning": "Elaborate means detailed and complex; while discursive writing can be complex, the problem is lack of connection." },
+        { "distractor": "ornate", "closeness": 1, "reasoning": "Ornate means decoratively elaborate; the issue is rambling organization, not decorative language." }
+      ]
+    },
+    {
+      "sentence": "The patient's discursive speech patterns — jumping from one idea to another without completing thoughts — concerned the psychiatrist.",
+      "answerChoices": [
+        { "distractor": "coherent", "closeness": 3, "reasoning": "Coherent means logically connected; jumping between thoughts without completion is the opposite of coherent." },
+        { "distractor": "deliberate", "closeness": 3, "reasoning": "Deliberate means carefully considered; jumping without completing thoughts suggests lack of deliberation." },
+        { "distractor": "measured", "closeness": 3, "reasoning": "Measured means careful and controlled; jumping rapidly between incomplete thoughts indicates lack of control." },
+        { "distractor": "organized", "closeness": 3, "reasoning": "Organized means systematically arranged; jumping between topics lacks organization." },
+        { "distractor": "focused", "closeness": 2, "reasoning": "Focused means concentrated on one subject; jumping from idea to idea indicates lack of focus." },
+        { "distractor": "articulate", "closeness": 2, "reasoning": "Articulate means expressing clearly; jumping between incomplete thoughts is unclear and inarticulate." },
+        { "distractor": "intentional", "closeness": 2, "reasoning": "Intentional means purposeful; jumping without completing thoughts seems unintentional and uncontrolled." },
+        { "distractor": "rapid", "closeness": 1, "reasoning": "Rapid means fast; while the speech is fast-paced, the concern is the jumping and incompleteness, not speed." },
+        { "distractor": "tangential", "closeness": 1, "reasoning": "Tangential means touching lightly or digressing; while related, it describes deviation from a main point rather than overall pattern." },
+        { "distractor": "verbose", "closeness": 1, "reasoning": "Verbose means using excessive words; the issue is jumping between thoughts, not wordiness." },
+        { "distractor": "accelerated", "closeness": 1, "reasoning": "Accelerated means increased in pace; while thoughts may come quickly, the concern is their disconnection." }
+      ]
+    }
+  ]
+}

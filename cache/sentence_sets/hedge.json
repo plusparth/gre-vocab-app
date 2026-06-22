@@ -1,0 +1,53 @@
+{
+  "word": "hedge",
+  "sentenceSets": [
+    {
+      "sentence": "The old estate was surrounded by a privet hedge that had stood for generations, so thick that no one could see through to the neighboring property.",
+      "answerChoices": [
+        { "distractor": "fence", "closeness": 3, "reasoning": "Fence serves as a boundary marker like hedge does, but the sentence emphasizes the visual opacity and living plant density that characterize a hedge, not the metal or wooden structure of a fence." },
+        { "distractor": "boundary", "closeness": 3, "reasoning": "Boundary describes the conceptual division between properties, but the sentence specifies a physical living structure made of dense shrubs, not merely an abstract demarcation." },
+        { "distractor": "border", "closeness": 3, "reasoning": "Border marks a division between areas but does not specify the living, dense vegetation that the sentence emphasizes through its description of thickness and obstruction of sight." },
+        { "distractor": "barrier", "closeness": 3, "reasoning": "Barrier describes something that blocks or separates, but the sentence specifies a living row of shrubs, not a general obstacle or wall." },
+        { "distractor": "shrub", "closeness": 2, "reasoning": "Shrub describes individual woody plants, but the sentence indicates an organized, dense row of plants forming a unified boundary, not single specimens." },
+        { "distractor": "wall", "closeness": 2, "reasoning": "Wall provides enclosure and privacy like the hedge does, but the sentence emphasizes the living vegetation and the accumulation of growth over generations, not stone or brick." },
+        { "distractor": "thicket", "closeness": 2, "reasoning": "Thicket describes a dense growth of shrubs, but it is typically wild and disorganized; the sentence implies an intentionally planted, maintained boundary structure." },
+        { "distractor": "row", "closeness": 2, "reasoning": "Row describes linear arrangement but does not capture the density, height, or boundary function that hedge requires." },
+        { "distractor": "ditch", "closeness": 1, "reasoning": "Ditch is an excavated channel in the ground, opposite to a raised living barrier of vegetation." },
+        { "distractor": "gate", "closeness": 1, "reasoning": "Gate provides a passage through a boundary; the sentence describes a continuous, impassable barrier of shrubs." },
+        { "distractor": "path", "closeness": 1, "reasoning": "Path is a passageway, opposite to the enclosing, vision-blocking structure that the hedge provides." }
+      ]
+    },
+    {
+      "sentence": "Farmers planted hedges along their field boundaries to prevent soil erosion and provide shelter from wind during storms.",
+      "answerChoices": [
+        { "distractor": "fence", "closeness": 3, "reasoning": "Fence provides boundary demarcation, but the sentence emphasizes ecological benefits—erosion prevention and wind shelter—specific to living vegetation, not to fence structures." },
+        { "distractor": "windbreak", "closeness": 3, "reasoning": "Windbreak serves the wind-protection function mentioned in the sentence but is a more general term for any obstruction; hedge specifies a living plant-based structure." },
+        { "distractor": "shrubbery", "closeness": 3, "reasoning": "Shrubbery is vegetation-based but does not imply the organized, boundary-forming function that hedge conveys; it suggests ornamental or dense wild growth rather than structured planting." },
+        { "distractor": "screen", "closeness": 3, "reasoning": "Screen blocks visual intrusion and wind, but the sentence stresses the dual function of preventing soil erosion and wind shelter through living vegetation, not just visual concealment." },
+        { "distractor": "row", "closeness": 2, "reasoning": "Row describes linear arrangement but does not capture the ecological benefits or the specific identity as living vegetation." },
+        { "distractor": "wall", "closeness": 2, "reasoning": "Wall can demarcate boundaries but is not living vegetation and does not provide the erosion-prevention benefit described." },
+        { "distractor": "fortification", "closeness": 2, "reasoning": "Fortification suggests defensive structure, but the sentence describes agronomic benefits with no defensive connotation." },
+        { "distractor": "border", "closeness": 2, "reasoning": "Border marks a conceptual line but does not specify the living vegetation or its ecological functions." },
+        { "distractor": "ditch", "closeness": 1, "reasoning": "Ditch is an excavated channel; the sentence describes planted vegetation providing ecological benefits, not an earthwork." },
+        { "distractor": "stone wall", "closeness": 1, "reasoning": "Stone wall is mineral, not living vegetation; it cannot provide erosion prevention or wind shelter in the manner described." },
+        { "distractor": "gate", "closeness": 1, "reasoning": "Gate is an opening in a boundary, opposite to the continuous living barrier that prevents erosion and shelters fields." }
+      ]
+    },
+    {
+      "sentence": "Medieval manors were divided from common lands by sturdy hedges and stone walls, clearly delineating property rights.",
+      "answerChoices": [
+        { "distractor": "boundary", "closeness": 3, "reasoning": "Boundary describes the abstract concept of division between properties, but the sentence specifies a physical structure made of living plants, not merely the conceptual line." },
+        { "distractor": "demarcation", "closeness": 3, "reasoning": "Demarcation indicates the marking of a separation, but the sentence requires a tangible living structure made of vegetation, not just a marked line." },
+        { "distractor": "division", "closeness": 3, "reasoning": "Division describes the separation of space but does not specify the particular physical structure of living shrubs that hedge identifies." },
+        { "distractor": "border", "closeness": 3, "reasoning": "Border marks a line of separation but in the context of property rights does not necessarily imply the living vegetation that hedge specifies." },
+        { "distractor": "fence", "closeness": 2, "reasoning": "Fence serves the boundary function alongside the stone walls mentioned, but the sentence emphasizes the living quality and historical continuity of hedges." },
+        { "distractor": "rampart", "closeness": 2, "reasoning": "Rampart suggests a defensive fortification rather than the property-dividing vegetation that hedges provide." },
+        { "distractor": "fortification", "closeness": 2, "reasoning": "Fortification implies military defense; the sentence indicates simple property demarcation, not defensive purposes." },
+        { "distractor": "barricade", "closeness": 2, "reasoning": "Barricade suggests blocking or temporary obstruction; hedges are permanent, established living boundaries." },
+        { "distractor": "moat", "closeness": 1, "reasoning": "Moat is an excavated water-filled channel, opposite to the vegetation-based structure that hedge represents." },
+        { "distractor": "tower", "closeness": 1, "reasoning": "Tower is a fortified structure; the sentence describes vegetation for property demarcation, not defensive architecture." },
+        { "distractor": "drawbridge", "closeness": 1, "reasoning": "Drawbridge is a defensive entrance feature, unrelated to the property-dividing vegetation that hedges provide." }
+      ]
+    }
+  ]
+}

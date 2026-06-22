@@ -1,0 +1,53 @@
+{
+  "word": "aggravate",
+  "sentenceSets": [
+    {
+      "sentence": "Ignoring the injury only aggravated it; by week's end he could barely walk.",
+      "answerChoices": [
+        { "distractor": "worsened", "closeness": 3, "reasoning": "Worsened means made worse, nearly synonymous with aggravated, but is more neutral and doesn't emphasize the intensifying effect." },
+        { "distractor": "exacerbated", "closeness": 3, "reasoning": "Exacerbated means made more severe, very close to aggravated, but is more formal and emphasizes intensity." },
+        { "distractor": "intensified", "closeness": 3, "reasoning": "Intensified means made stronger or more acute, close to aggravated, but doesn't specifically convey harm or damage." },
+        { "distractor": "escalated", "closeness": 3, "reasoning": "Escalated means increased in severity, but doesn't specifically convey injury damage or deterioration." },
+        { "distractor": "inflamed", "closeness": 2, "reasoning": "Inflamed relates to physical inflammation, fitting injury, but doesn't convey the worsening from ignoring it." },
+        { "distractor": "irritated", "closeness": 2, "reasoning": "Irritated means annoyed or made sore, but is less severe than the injury worsening implied by aggravated." },
+        { "distractor": "increased", "closeness": 2, "reasoning": "Increased means made larger, but doesn't specifically convey harm or deterioration of the injury." },
+        { "distractor": "prolonged", "closeness": 2, "reasoning": "Prolonged means extended in time, fitting the ongoing damage, but doesn't emphasize the worsening." },
+        { "distractor": "improved", "closeness": 1, "reasoning": "Improved means made better; aggravated means made worse—opposite effects." },
+        { "distractor": "healed", "closeness": 1, "reasoning": "Healed means recovered; aggravating an injury prevents healing—opposite outcomes." },
+        { "distractor": "resolved", "closeness": 1, "reasoning": "Resolved means settled or cured; aggravated means worsened—opposite effects." }
+      ]
+    },
+    {
+      "sentence": "The drought aggravated the famine, pushing millions to the brink of starvation.",
+      "answerChoices": [
+        { "distractor": "deepened", "closeness": 3, "reasoning": "Deepened means made more severe, fitting the worsening famine, but doesn't convey the causal intensification that aggravated does." },
+        { "distractor": "compounded", "closeness": 3, "reasoning": "Compounded means made more complex or severe, close to aggravated, but is broader and doesn't emphasize intensification." },
+        { "distractor": "amplified", "closeness": 3, "reasoning": "Amplified means increased in effect, but doesn't convey the worsening relationship between drought and famine." },
+        { "distractor": "worsened", "closeness": 3, "reasoning": "Worsened means made worse, fitting the effect, but doesn't convey the causal relationship that aggravated implies." },
+        { "distractor": "prolonged", "closeness": 2, "reasoning": "Prolonged means extended in time, which the drought might do, but doesn't emphasize the intensification." },
+        { "distractor": "intensified", "closeness": 2, "reasoning": "Intensified means made stronger, but doesn't specifically convey the cause-effect relationship." },
+        { "distractor": "contributed to", "closeness": 2, "reasoning": "Contributed to means helped cause, but is less emphatic about making worse than aggravated." },
+        { "distractor": "exacerbated", "closeness": 2, "reasoning": "Exacerbated means made more severe, close to aggravated, but emphasizes severity rather than causing intensification." },
+        { "distractor": "relieved", "closeness": 1, "reasoning": "Relieved means eased or alleviated; aggravated means intensified—opposite effects." },
+        { "distractor": "resolved", "closeness": 1, "reasoning": "Resolved means solved; the drought aggravates famine, making it worse—opposite effects." },
+        { "distractor": "halted", "closeness": 1, "reasoning": "Halted means stopped; aggravated means intensified—opposite effects." }
+      ]
+    },
+    {
+      "sentence": "The student's repeated lateness aggravated the teacher's frustration, nearly testing her patience to its limit.",
+      "answerChoices": [
+        { "distractor": "increased", "closeness": 3, "reasoning": "Increased means made greater, fitting the growth of frustration, but doesn't convey the sense of worsening or intensifying." },
+        { "distractor": "deepened", "closeness": 3, "reasoning": "Deepened means intensified, fitting the worsening frustration, but doesn't convey the cumulative effect of repeated actions." },
+        { "distractor": "compounded", "closeness": 3, "reasoning": "Compounded means made more complex or serious, but doesn't specifically convey the worsening of frustration." },
+        { "distractor": "heightened", "closeness": 3, "reasoning": "Heightened means increased in intensity, close to aggravated, but doesn't emphasize the incremental building effect." },
+        { "distractor": "fueled", "closeness": 2, "reasoning": "Fueled means supplied with fuel or encouraged, but doesn't specifically convey worsening of feelings." },
+        { "distractor": "triggered", "closeness": 2, "reasoning": "Triggered means caused to activate, but doesn't convey the ongoing worsening that aggravated implies." },
+        { "distractor": "provoked", "closeness": 2, "reasoning": "Provoked means stirred to action or anger, but doesn't convey the sense of worsening over time." },
+        { "distractor": "strained", "closeness": 2, "reasoning": "Strained means put pressure on, but doesn't specifically convey the cumulative worsening of frustration." },
+        { "distractor": "soothed", "closeness": 1, "reasoning": "Soothed means calmed; aggravated means intensified—opposite effects." },
+        { "distractor": "resolved", "closeness": 1, "reasoning": "Resolved means solved; the lateness aggravates frustration, making it worse—opposite effects." },
+        { "distractor": "eased", "closeness": 1, "reasoning": "Eased means made easier or less severe; aggravated means made worse—opposite effects." }
+      ]
+    }
+  ]
+}

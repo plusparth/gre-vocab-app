@@ -1,0 +1,53 @@
+{
+  "word": "despoiled",
+  "sentenceSets": [
+    {
+      "sentence": "The invaders despoiled the library, destroying manuscripts that could never be recovered.",
+      "answerChoices": [
+        { "distractor": "damaged", "closeness": 3, "reasoning": "Damaged means harmed or impaired, which the manuscripts were, but does not convey the sense of systematic stripping of value that despoiled implies." },
+        { "distractor": "looted", "closeness": 3, "reasoning": "Looted means to steal goods during a raid or war, which invaders did, but emphasizes theft rather than the destruction and stripping of all value." },
+        { "distractor": "plundered", "closeness": 3, "reasoning": "Plundered means to steal or rob by force, which the invaders did, but is more about taking than destroying and reducing to nothing." },
+        { "distractor": "ransacked", "closeness": 3, "reasoning": "Ransacked means to search and rob roughly, which occurred, but emphasizes the rough searching; despoiled is about stripping of all value." },
+        { "distractor": "pillaged", "closeness": 2, "reasoning": "Pillaged means to rob or ravage, which the invaders did, but is slightly less specific about the reduction to nothing that despoiled conveys." },
+        { "distractor": "robbed", "closeness": 2, "reasoning": "Robbed means to steal from, which occurred to the library, but does not necessarily convey the complete stripping of value." },
+        { "distractor": "seized", "closeness": 2, "reasoning": "Seized means to take by force, which invaders did, but does not necessarily mean destroying or reducing to nothing." },
+        { "distractor": "violated", "closeness": 2, "reasoning": "Violated means to treat disrespectfully or break an agreement, but does not specifically describe the stripping and destruction." },
+        { "distractor": "preserved", "closeness": 1, "reasoning": "Preserved means to keep safe and protect, which is the opposite of despoiling a library." },
+        { "distractor": "enriched", "closeness": 1, "reasoning": "Enriched means to improve or enhance, which is the opposite of despoiling something of its value." },
+        { "distractor": "restored", "closeness": 1, "reasoning": "Restored means to return to a former condition, which is the opposite of despoiling and destroying." }
+      ]
+    },
+    {
+      "sentence": "The ecological disaster despoiled the coastal region, leaving barren landscapes where thriving ecosystems once flourished.",
+      "answerChoices": [
+        { "distractor": "scarred", "closeness": 3, "reasoning": "Scarred means marked or damaged, which the landscape was, but does not convey the complete stripping and reduction of value as despoiled does." },
+        { "distractor": "ravaged", "closeness": 3, "reasoning": "Ravaged means devastated or badly damaged, which occurred, but emphasizes damage more than the stripping of value." },
+        { "distractor": "depleted", "closeness": 3, "reasoning": "Depleted means to use up resources, which the disaster accomplished, but is less forceful than the complete stripping of despoiled." },
+        { "distractor": "devastated", "closeness": 3, "reasoning": "Devastated means ruined or laid waste to, which the region was, but emphasizes destruction; despoiled adds the sense of stripping value." },
+        { "distractor": "destroyed", "closeness": 2, "reasoning": "Destroyed means demolished or obliterated, which occurred to the ecosystems, but does not specifically convey being stripped of possessions or value." },
+        { "distractor": "damaged", "closeness": 2, "reasoning": "Damaged means harmed or impaired, which the ecosystem was, but is too general to convey the complete stripping nature of despoiled." },
+        { "distractor": "eroded", "closeness": 2, "reasoning": "Eroded means worn away gradually, which might have occurred, but does not convey the deliberate stripping and complete devastation." },
+        { "distractor": "withered", "closeness": 2, "reasoning": "Withered means shriveled or decayed, which the ecosystems did, but emphasizes the result rather than the stripping action." },
+        { "distractor": "healed", "closeness": 1, "reasoning": "Healed means restored to health, which is the opposite of despoiling a landscape." },
+        { "distractor": "restored", "closeness": 1, "reasoning": "Restored means returned to a former good state, which is the opposite of despoiling." },
+        { "distractor": "revitalized", "closeness": 1, "reasoning": "Revitalized means given new life or vigor, which is the opposite of being despoiled." }
+      ]
+    },
+    {
+      "sentence": "The art thief despoiled the museum of its most valuable paintings, leaving the galleries with empty walls and devastated curators.",
+      "answerChoices": [
+        { "distractor": "deprived", "closeness": 3, "reasoning": "Deprived means to keep from having or possessing, which occurred to the museum, but is less forceful and specific than despoiled." },
+        { "distractor": "stripped", "closeness": 3, "reasoning": "Stripped means to remove covering or belongings, which the thief did to the museum, but does not necessarily convey complete devastation." },
+        { "distractor": "emptied", "closeness": 3, "reasoning": "Emptied means to make empty or void of contents, which the galleries became, but emphasizes the empty result rather than the stripping action." },
+        { "distractor": "robbed", "closeness": 3, "reasoning": "Robbed means to steal from, which occurred, but does not convey the complete stripping and reduction of value as strongly as despoiled." },
+        { "distractor": "took", "closeness": 2, "reasoning": "Took is too general; while the thief took paintings, it does not convey the sense of systematic stripping that despoiled implies." },
+        { "distractor": "seized", "closeness": 2, "reasoning": "Seized means to take by force or legal authority, which the thief did, but does not emphasize the complete devastation." },
+        { "distractor": "acquired", "closeness": 2, "reasoning": "Acquired means to gain or obtain, which the thief did, but is too neutral and does not convey the harm to the museum." },
+        { "distractor": "claimed", "closeness": 2, "reasoning": "Claimed means to assert ownership of, which the thief might do, but does not describe the effect of leaving the museum devastated." },
+        { "distractor": "enriched", "closeness": 1, "reasoning": "Enriched means made richer or better, which is the opposite of despoiling a museum." },
+        { "distractor": "protected", "closeness": 1, "reasoning": "Protected means kept safe from harm, which is the opposite of despoiling valuable art." },
+        { "distractor": "preserved", "closeness": 1, "reasoning": "Preserved means maintained in good condition, which is the opposite of being despoiled." }
+      ]
+    }
+  ]
+}

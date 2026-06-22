@@ -1,0 +1,185 @@
+{
+  "word": "androgynous",
+  "sentenceSets": [
+    {
+      "sentence": "The androgynous fashion designer created looks that transcended traditional gender categories.",
+      "answerChoices": [
+        {
+          "distractor": "unisex",
+          "closeness": 3,
+          "reasoning": "Close -- both suggest clothing without gender distinction, but 'unisex' typically describes functional similarity between items, while the sentence emphasizes transcending categories entirely."
+        },
+        {
+          "distractor": "neutral",
+          "closeness": 3,
+          "reasoning": "Close -- both avoid gender association, but 'neutral' is more passive (simply non-gendered) whereas the sentence shows active transcendence of categories."
+        },
+        {
+          "distractor": "ambiguous",
+          "closeness": 3,
+          "reasoning": "Close -- both lack clear gender markers, but 'ambiguous' suggests unclear or confusing presentation, while the sentence indicates intentional aesthetic choice."
+        },
+        {
+          "distractor": "experimental",
+          "closeness": 3,
+          "reasoning": "Close -- fits the innovative context, but 'experimental' describes methodology, not the gender-neutral quality the sentence emphasizes."
+        },
+        {
+          "distractor": "minimalist",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'minimalist' describes aesthetic simplicity, but the sentence focuses on gender categories, not complexity reduction."
+        },
+        {
+          "distractor": "avant-garde",
+          "closeness": 2,
+          "reasoning": "Incorrect -- while fitting the innovative context, 'avant-garde' refers to artistic boldness generally, not specifically to gender presentation."
+        },
+        {
+          "distractor": "provocative",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'provocative' suggests intentional shock value, but the sentence indicates aesthetic choice without necessarily implying provocation."
+        },
+        {
+          "distractor": "bohemian",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'bohemian' suggests unconventional lifestyle, but doesn't specifically address gender categories in fashion."
+        },
+        {
+          "distractor": "masculine",
+          "closeness": 1,
+          "reasoning": "Incorrect -- the sentence describes transcendence of masculine/feminine distinction, not predominant masculinity."
+        },
+        {
+          "distractor": "feminine",
+          "closeness": 1,
+          "reasoning": "Incorrect -- the sentence describes transcendence of gender categories, not feminine presentation."
+        },
+        {
+          "distractor": "gendered",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence explicitly states the designer's work transcends traditional gender categories."
+        }
+      ]
+    },
+    {
+      "sentence": "The rock musician's androgynous appearance challenged audiences' expectations about gender presentation.",
+      "answerChoices": [
+        {
+          "distractor": "flamboyant",
+          "closeness": 3,
+          "reasoning": "Close -- both describe striking, unconventional presentation, but 'flamboyant' emphasizes showiness and exuberance rather than specifically blurring gender boundaries."
+        },
+        {
+          "distractor": "eccentric",
+          "closeness": 3,
+          "reasoning": "Close -- both describe unusual appearance, but 'eccentric' means unconventional generally, not specifically challenging gender expectations."
+        },
+        {
+          "distractor": "theatrical",
+          "closeness": 3,
+          "reasoning": "Close -- fits the rock music context and unusual presentation, but describes dramatic style rather than gender-neutral or ambiguous presentation."
+        },
+        {
+          "distractor": "unconventional",
+          "closeness": 3,
+          "reasoning": "Close -- both break norms, but 'unconventional' is too broad; the sentence specifically emphasizes audience expectations about gender."
+        },
+        {
+          "distractor": "rebellious",
+          "closeness": 2,
+          "reasoning": "Incorrect -- while the appearance challenges expectations, 'rebellious' emphasizes defiance rather than the gender-blending quality the sentence highlights."
+        },
+        {
+          "distractor": "radical",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'radical' means extreme change, but the sentence focuses on gender presentation specifically, not extreme change generally."
+        },
+        {
+          "distractor": "bold",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'bold' suggests courage in presentation, but doesn't specifically address the gender-boundary-challenging aspect."
+        },
+        {
+          "distractor": "outrageous",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'outrageous' suggests shocking beyond bounds, but the sentence indicates challenging expectations through specific gender presentation."
+        },
+        {
+          "distractor": "conventional",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence emphasizes challenging conventions regarding gender expectations."
+        },
+        {
+          "distractor": "masculine",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence describes blurring gender boundaries, not a purely masculine presentation."
+        },
+        {
+          "distractor": "feminine",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence describes transcending gender categories, not adopting feminine presentation."
+        }
+      ]
+    },
+    {
+      "sentence": "The character's androgynous name made readers uncertain about the narrator's identity until the final chapters.",
+      "answerChoices": [
+        {
+          "distractor": "ambiguous",
+          "closeness": 3,
+          "reasoning": "Close -- both suggest unclear or uncertain, but 'ambiguous' is more general, while the sentence specifically addresses gender identification confusion."
+        },
+        {
+          "distractor": "cryptic",
+          "closeness": 3,
+          "reasoning": "Close -- both create mystery, but 'cryptic' emphasizes obscure meaning, whereas the sentence shows the name simply doesn't indicate gender."
+        },
+        {
+          "distractor": "mysterious",
+          "closeness": 3,
+          "reasoning": "Close -- both create uncertainty, but 'mysterious' is broader; the sentence specifically concerns gender identity confusion from the name."
+        },
+        {
+          "distractor": "unclear",
+          "closeness": 3,
+          "reasoning": "Close -- both indicate confusion, but 'unclear' is vague; the sentence specifies the name doesn't reveal gender identity."
+        },
+        {
+          "distractor": "misleading",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'misleading' suggests intentional deception, but the sentence shows the name simply fails to indicate gender, not that it falsely suggests one."
+        },
+        {
+          "distractor": "pseudonymous",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'pseudonymous' means using a false name, but the sentence indicates the name is real, just not gender-specific."
+        },
+        {
+          "distractor": "fictional",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'fictional' describes invented names, but the issue is gender ambiguity, not whether the name is real."
+        },
+        {
+          "distractor": "unusual",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'unusual' means uncommon, but the sentence focuses on gender identity uncertainty, not rarity."
+        },
+        {
+          "distractor": "clearly masculine",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence states readers were uncertain about identity, not certain it was masculine."
+        },
+        {
+          "distractor": "clearly feminine",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence emphasizes readers' uncertainty about gender until late in the narrative."
+        },
+        {
+          "distractor": "revealing",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence shows the name obscured rather than revealed gender identity."
+        }
+      ]
+    }
+  ]
+}

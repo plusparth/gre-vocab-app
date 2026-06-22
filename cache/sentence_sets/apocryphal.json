@@ -1,0 +1,53 @@
+{
+  "word": "apocryphal",
+  "sentenceSets": [
+    {
+      "sentence": "The story of his wartime bravery was almost certainly apocryphal, embellished with each retelling.",
+      "answerChoices": [
+        { "distractor": "exaggerated", "closeness": 3, "reasoning": "Close -- 'exaggerated' implies that the core story is true but overstated; the sentence explicitly suggests the story is 'almost certainly' not true at all, indicating doubt about authenticity itself." },
+        { "distractor": "fabricated", "closeness": 3, "reasoning": "Close -- 'fabricated' means completely made up; while apocryphal can mean fabricated, the sentence emphasizes the story's doubtful status through retelling, suggesting embellishment rather than outright invention." },
+        { "distractor": "legendary", "closeness": 3, "reasoning": "Close -- 'legendary' suggests a famous tale that may or may not be true; the sentence's phrase 'almost certainly' indicates skepticism about the story's truth, whereas legendary merely implies fame." },
+        { "distractor": "unverified", "closeness": 3, "reasoning": "Close -- 'unverified' means lacking confirmation; while similar, the sentence points to active embellishment with each retelling, suggesting more than just lack of verification—actual falsification." },
+        { "distractor": "popular", "closeness": 2, "reasoning": "Incorrect -- 'popular' refers to being widely known or liked; it says nothing about the authenticity or doubtful nature of the story." },
+        { "distractor": "repeated", "closeness": 2, "reasoning": "Incorrect -- 'repeated' describes something told many times, which is mentioned ('with each retelling'), but doesn't capture the sense of doubtful authenticity." },
+        { "distractor": "complex", "closeness": 2, "reasoning": "Incorrect -- 'complex' refers to intricacy; while the story may become more complex through embellishment, the key issue is its authenticity, not complexity." },
+        { "distractor": "confused", "closeness": 2, "reasoning": "Incorrect -- 'confused' means unclear or mixed up; the sentence indicates deliberate embellishment, not confusion." },
+        { "distractor": "authentic", "closeness": 1, "reasoning": "Opposite -- 'authentic' means genuine and true; it directly contradicts the sentence's claim that the story is 'almost certainly' not true." },
+        { "distractor": "verified", "closeness": 1, "reasoning": "Opposite -- 'verified' means confirmed as true; this contradicts the sentence's skepticism about the story's truthfulness." },
+        { "distractor": "recent", "closeness": 1, "reasoning": "Incorrect -- 'recent' refers to time period; the sentence concerns authenticity and truthfulness, not when the story originated." }
+      ]
+    },
+    {
+      "sentence": "Scholars debate whether much of the founding mythology—including the account of a single hero slaying the beast—is apocryphal.",
+      "answerChoices": [
+        { "distractor": "doubtful", "closeness": 3, "reasoning": "Close -- 'doubtful' indicates uncertainty, which fits the scholars' debate; however, apocryphal specifically denotes questionable authenticity or spurious origin, not merely doubt." },
+        { "distractor": "legendary", "closeness": 3, "reasoning": "Close -- 'legendary' describes material from ancient tradition that may or may not be true; while apocryphal material is often legendary, the emphasis here is on spuriousness rather than fame." },
+        { "distractor": "mythical", "closeness": 3, "reasoning": "Close -- 'mythical' refers to material from myths; while apocryphal content often overlaps with myth, apocryphal specifically emphasizes doubtful authenticity and origin." },
+        { "distractor": "unclear", "closeness": 3, "reasoning": "Close -- 'unclear' means ambiguous or not well understood; the sentence refers to accounts whose authenticity is questioned, not merely their clarity." },
+        { "distractor": "ancient", "closeness": 2, "reasoning": "Incorrect -- 'ancient' describes age; the sentence addresses authenticity of founding mythology, not its historical period." },
+        { "distractor": "dramatic", "closeness": 2, "reasoning": "Incorrect -- 'dramatic' refers to theatrical or striking quality; while the hero-slaying narrative may be dramatic, the debate concerns its authenticity." },
+        { "distractor": "obscure", "closeness": 2, "reasoning": "Incorrect -- 'obscure' means little known or unclear; the founding mythology appears to be well-known, and the issue is its authenticity." },
+        { "distractor": "symbolic", "closeness": 2, "reasoning": "Incorrect -- 'symbolic' means representing something else; accounts may be symbolic without being of questionable authenticity." },
+        { "distractor": "historical", "closeness": 1, "reasoning": "Opposite -- 'historical' indicates authentically documented past events; apocryphal explicitly casts doubt on the account's authenticity." },
+        { "distractor": "documented", "closeness": 1, "reasoning": "Opposite -- 'documented' means officially recorded and verified; this contradicts the sense of doubtful authenticity central to apocryphal." },
+        { "distractor": "contemporary", "closeness": 1, "reasoning": "Incorrect -- 'contemporary' means from the same time period; the sentence concerns the origin and authenticity of the mythology, not its timing." }
+      ]
+    },
+    {
+      "sentence": "The detective dismissed the witness's account as apocryphal, arguing that key details contradicted the forensic evidence.",
+      "answerChoices": [
+        { "distractor": "unreliable", "closeness": 3, "reasoning": "Close -- 'unreliable' suggests the witness cannot be trusted, which partially fits; however, apocryphal specifically points to doubtful authenticity based on contradictions with evidence, not general unreliability." },
+        { "distractor": "inconsistent", "closeness": 3, "reasoning": "Close -- 'inconsistent' captures the contradiction with forensic evidence, but apocryphal emphasizes the spurious or false nature of the account rather than mere inconsistency." },
+        { "distractor": "misleading", "closeness": 3, "reasoning": "Close -- 'misleading' suggests false information meant to deceive; while the account contradicts evidence, apocryphal more directly questions its authenticity than its intent to deceive." },
+        { "distractor": "exaggerated", "closeness": 3, "reasoning": "Close -- 'exaggerated' means overstated; the contradiction with forensic evidence suggests something more fundamental than exaggeration—actual falsehood." },
+        { "distractor": "vague", "closeness": 2, "reasoning": "Incorrect -- 'vague' means unclear or indefinite; the issue is the account's contradiction with physical evidence, not its vagueness." },
+        { "distractor": "outdated", "closeness": 2, "reasoning": "Incorrect -- 'outdated' means no longer current; the sentence concerns the account's conflict with forensic evidence, not its age." },
+        { "distractor": "irrelevant", "closeness": 2, "reasoning": "Incorrect -- 'irrelevant' means not related to the case; the account is relevant enough to be dismissed based on contradicting evidence." },
+        { "distractor": "confused", "closeness": 2, "reasoning": "Incorrect -- 'confused' means unclear or mixed up; the detective cites specific contradictions with forensic evidence, not confusion." },
+        { "distractor": "verified", "closeness": 1, "reasoning": "Opposite -- 'verified' means confirmed as true; the forensic evidence contradicting the account indicates it is not verified." },
+        { "distractor": "credible", "closeness": 1, "reasoning": "Opposite -- 'credible' means worthy of belief; dismissing an account as apocryphal denies its credibility." },
+        { "distractor": "precise", "closeness": 1, "reasoning": "Incorrect -- 'precise' means exact and accurate; while precision might be relevant, the core issue is the account's contradiction with forensic evidence." }
+      ]
+    }
+  ]
+}

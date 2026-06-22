@@ -1,0 +1,53 @@
+{
+  "word": "homogenous",
+  "sentenceSets": [
+    {
+      "sentence": "The wings of birds and insects, though evolutionarily distinct, are homogenous structures that evolved independently to solve the problem of flight.",
+      "answerChoices": [
+        { "distractor": "analogous", "closeness": 3, "reasoning": "Analogous describes structures that perform similar functions but evolved from different origins, which is precisely what homogenous structures are; however, analogous is the more commonly used term in modern biology." },
+        { "distractor": "similar", "closeness": 3, "reasoning": "Similar means having resemblance in form or function, but lacks the specific biological context that homogenous implies about independent evolution." },
+        { "distractor": "homologous", "closeness": 3, "reasoning": "Homologous describes structures descended from a common ancestor, which is the opposite mechanism from homogenous structures that evolved independently." },
+        { "distractor": "equivalent", "closeness": 3, "reasoning": "Equivalent means equal in value or effect, which describes functional similarity but not the evolutionary concept of independent development that homogenous conveys." },
+        { "distractor": "parallel", "closeness": 2, "reasoning": "Parallel can mean similar or developing in similar ways, but doesn't specifically indicate the independent evolution that homogenous structures represent." },
+        { "distractor": "convergent", "closeness": 2, "reasoning": "Convergent describes evolutionary processes approaching similar solutions, which relates to homogenous structures but emphasizes the process rather than the structures themselves." },
+        { "distractor": "adapted", "closeness": 2, "reasoning": "Adapted means modified to fit an environment, which applies to homogenous structures but is too general and doesn't specify independent evolution." },
+        { "distractor": "functional", "closeness": 2, "reasoning": "Functional describes serving a practical purpose, which applies to both homogenous structures but doesn't convey their evolutionary independence." },
+        { "distractor": "identical", "closeness": 1, "reasoning": "Identical means exactly the same in every way, which contradicts the fact that bird wings and insect wings have different internal structures despite similar function." },
+        { "distractor": "ancestral", "closeness": 1, "reasoning": "Ancestral means inherited from an ancestor, which contradicts the independent evolution that characterizes homogenous structures." },
+        { "distractor": "vestigial", "closeness": 1, "reasoning": "Vestigial means reduced or degenerate from a previous form, which describes evolutionary loss rather than independent development for similar function." }
+      ]
+    },
+    {
+      "sentence": "The tail of a whale and the tail of a fish are homogenous adaptations to aquatic environments, each having evolved in different vertebrate lineages to meet the demands of swimming.",
+      "answerChoices": [
+        { "distractor": "analogous", "closeness": 3, "reasoning": "Analogous describes structures that perform similar functions from different evolutionary origins, making it nearly synonymous with homogenous; modern biology increasingly uses the term homogenous for this concept." },
+        { "distractor": "synchronized", "closeness": 3, "reasoning": "Synchronized means timed or coordinated to occur together, but the sentence emphasizes independent evolution in different lineages, not coordinated development." },
+        { "distractor": "convergent", "closeness": 3, "reasoning": "Convergent describes evolutionary processes where different lineages develop similar solutions, which is closely related to homogenous structures but emphasizes mechanism rather than the structures themselves." },
+        { "distractor": "compatible", "closeness": 3, "reasoning": "Compatible means able to work together without conflict, which describes functional similarity but not the evolutionary independence of development." },
+        { "distractor": "specialized", "closeness": 2, "reasoning": "Specialized means adapted for a specific function or environment, which applies to homogenous structures but doesn't convey their independent evolutionary origins." },
+        { "distractor": "distinct", "closeness": 2, "reasoning": "Distinct means different or separate, which applies to whale and fish lineages but not to the similarity of their tail structures." },
+        { "distractor": "efficient", "closeness": 2, "reasoning": "Efficient means achieving results with minimal waste, which might apply to adapted structures but doesn't convey the evolutionary concept." },
+        { "distractor": "modified", "closeness": 2, "reasoning": "Modified means changed or altered, which applies to evolutionary adaptation but is too general to specify independent parallel development." },
+        { "distractor": "identical", "closeness": 1, "reasoning": "Identical means exactly the same, which contradicts the fact that whale tails (bone and muscle) and fish tails (fin rays and muscles) have fundamentally different anatomy." },
+        { "distractor": "inherited", "closeness": 1, "reasoning": "Inherited means received from an ancestor, which contradicts the independent evolution of whale and fish tail structures from different lineages." },
+        { "distractor": "divergent", "closeness": 1, "reasoning": "Divergent describes separating into different forms, which contradicts the convergent evolution that produces homogenous structures." }
+      ]
+    },
+    {
+      "sentence": "The camera-like eye of a mammal and the compound eye of an insect represent homogenous solutions to the problem of vision, each having developed its own sophisticated optical system in isolation.",
+      "answerChoices": [
+        { "distractor": "parallel", "closeness": 3, "reasoning": "Parallel development describes independent processes producing similar results, which closely describes homogenous structures, but is less precise in conveying the evolutionary independence." },
+        { "distractor": "equivalent", "closeness": 3, "reasoning": "Equivalent means equal in value or function, which applies to the optical solutions but doesn't specify that they evolved independently in different lineages." },
+        { "distractor": "analogous", "closeness": 3, "reasoning": "Analogous is the traditional term for structures with similar function but different evolutionary origins, making it nearly interchangeable with homogenous in this biological context." },
+        { "distractor": "reciprocal", "closeness": 3, "reasoning": "Reciprocal means relating to both parties in mutual fashion, but the sentence emphasizes independent, isolated evolution rather than mutual influence." },
+        { "distractor": "complementary", "closeness": 2, "reasoning": "Complementary describes things that complete or enhance each other, which doesn't apply to independently evolved solutions in isolated lineages." },
+        { "distractor": "synchronized", "closeness": 2, "reasoning": "Synchronized means timed to occur together, which contradicts the isolated and independent nature of the evolutionary development." },
+        { "distractor": "sophisticated", "closeness": 2, "reasoning": "Sophisticated means highly developed or complex, which describes the eyes but not the concept of independent evolutionary development." },
+        { "distractor": "functional", "closeness": 2, "reasoning": "Functional means serving its intended purpose effectively, which applies but doesn't capture the evolutionary uniqueness of homogenous development." },
+        { "distractor": "identical", "closeness": 1, "reasoning": "Identical means exactly the same, which contradicts the fact that mammalian and insect eyes have fundamentally different structures and mechanisms." },
+        { "distractor": "homologous", "closeness": 1, "reasoning": "Homologous describes structures derived from a common ancestor, which is the opposite mechanism from homogenous structures that evolved independently." },
+        { "distractor": "vestigial", "closeness": 1, "reasoning": "Vestigial means reduced or degenerate from a previous form, which describes evolutionary loss rather than the independent development of sophisticated new structures." }
+      ]
+    }
+  ]
+}

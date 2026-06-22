@@ -1,0 +1,185 @@
+{
+  "word": "defer",
+  "sentenceSets": [
+    {
+      "sentence": "She deferred to the specialist's judgment, recognizing the limits of her own expertise in that domain.",
+      "answerChoices": [
+        {
+          "distractor": "yielded",
+          "closeness": 3,
+          "reasoning": "Yielding means giving way or surrendering, close to deferring to someone's judgment, but yielding emphasizes surrender, while deferring emphasizes respectful submission based on recognized expertise."
+        },
+        {
+          "distractor": "submitted",
+          "closeness": 3,
+          "reasoning": "Submitting means agreeing to accept authority or judgment, very close to deferring, but submitting can be passive or reluctant, whereas deferring conveys a voluntary, respectful acceptance."
+        },
+        {
+          "distractor": "capitulated",
+          "closeness": 3,
+          "reasoning": "Capitulating means giving in or surrendering to demands, close to deferring in showing submission, but capitulating emphasizes defeat or being forced to yield, while deferring involves respect for expertise."
+        },
+        {
+          "distractor": "acquiesced",
+          "closeness": 3,
+          "reasoning": "Acquiescing means silently agreeing or not objecting, close to deferring, but acquiescing suggests passive acceptance without active respect, while deferring implies deliberate respect for expertise."
+        },
+        {
+          "distractor": "agreed",
+          "closeness": 2,
+          "reasoning": "Agreeing means sharing the same opinion or assent, related to deferring but without the element of respect or recognition of greater expertise."
+        },
+        {
+          "distractor": "complied",
+          "closeness": 2,
+          "reasoning": "Complying means obeying or following a rule or request, related to deferring but suggesting duty or obligation rather than voluntary respect for expertise."
+        },
+        {
+          "distractor": "conceded",
+          "closeness": 2,
+          "reasoning": "Conceding means admitting or yielding a point, related to deferring but emphasizing the admission of being wrong rather than respectful deference to expertise."
+        },
+        {
+          "distractor": "trusted",
+          "closeness": 2,
+          "reasoning": "Trusting means having confidence in someone, related to deferring but describing the underlying feeling rather than the act of deferring to judgment."
+        },
+        {
+          "distractor": "dominated",
+          "closeness": 1,
+          "reasoning": "Dominating means controlling or exercising power over, opposite to deferring; the sentence shows she recognized limits and respected expertise, not asserting dominance."
+        },
+        {
+          "distractor": "challenged",
+          "closeness": 1,
+          "reasoning": "Challenging means questioning or disputing, opposite to deferring; she did not challenge the specialist's judgment but deferred to it."
+        },
+        {
+          "distractor": "ignored",
+          "closeness": 1,
+          "reasoning": "Ignoring means paying no attention to, opposite to deferring; the sentence shows she recognized and respected the specialist's judgment."
+        }
+      ]
+    },
+    {
+      "sentence": "The board deferred the final decision until the next quarterly meeting, requesting additional data in the interim.",
+      "answerChoices": [
+        {
+          "distractor": "postponed",
+          "closeness": 3,
+          "reasoning": "Postponing means delaying something to a later time, nearly synonymous with deferring, but postponing emphasizes the delay itself, while deferring emphasizes putting off a decision or action."
+        },
+        {
+          "distractor": "delayed",
+          "closeness": 3,
+          "reasoning": "Delaying means making something happen later, very close to deferring, but delaying is more general, whereas deferring specifically means putting off a decision or action."
+        },
+        {
+          "distractor": "suspended",
+          "closeness": 3,
+          "reasoning": "Suspending means temporarily stopping or halting, close to deferring, but suspending emphasizes the pause, while deferring emphasizes postponement with intention to revisit."
+        },
+        {
+          "distractor": "tabled",
+          "closeness": 3,
+          "reasoning": "Tabling means putting aside for discussion later, very close to deferring, but tabling often implies indefinite postponement, while deferring specifies a future time."
+        },
+        {
+          "distractor": "adjourned",
+          "closeness": 2,
+          "reasoning": "Adjourning means ending a meeting with intention to continue later, related to deferring but emphasizing the closing of the meeting rather than the postponement of a specific decision."
+        },
+        {
+          "distractor": "shelved",
+          "closeness": 2,
+          "reasoning": "Shelving means putting something aside indefinitely, related to deferring but suggesting abandonment or long-term postponement rather than definite rescheduling."
+        },
+        {
+          "distractor": "delayed",
+          "closeness": 2,
+          "reasoning": "Delaying means making something happen later, related to deferring but more general; the sentence specifies deferring to 'the next quarterly meeting.'"
+        },
+        {
+          "distractor": "procrastinated",
+          "closeness": 2,
+          "reasoning": "Procrastinating means delaying unnecessarily or habitually, related to deferring but suggesting avoidance or negligence, whereas the board's deferring involves a deliberate, organized delay."
+        },
+        {
+          "distractor": "decided",
+          "closeness": 1,
+          "reasoning": "Deciding means making a final determination, opposite to deferring; the board deferred the decision, meaning they did not make it at this meeting."
+        },
+        {
+          "distractor": "resolved",
+          "closeness": 1,
+          "reasoning": "Resolving means settling or concluding something, opposite to deferring; the board put off resolution, not achieved it."
+        },
+        {
+          "distractor": "finalized",
+          "closeness": 1,
+          "reasoning": "Finalizing means completing or making final, opposite to deferring; the board deferred the final decision rather than finalizing it."
+        }
+      ]
+    },
+    {
+      "sentence": "He deferred his student loans for another year while completing his graduate degree.",
+      "answerChoices": [
+        {
+          "distractor": "postponed",
+          "closeness": 3,
+          "reasoning": "Postponing means delaying something to a later time, nearly synonymous with deferring, but postponing emphasizes the delay, while deferring specifically means putting off a payment or obligation."
+        },
+        {
+          "distractor": "delayed",
+          "closeness": 3,
+          "reasoning": "Delaying means making something happen later, very close to deferring, but delaying is more general, whereas deferring specifically applies to postponing payment on an obligation."
+        },
+        {
+          "distractor": "suspended",
+          "closeness": 3,
+          "reasoning": "Suspending means temporarily stopping or halting, close to deferring, but suspending emphasizes the pause, while deferring emphasizes putting off a payment obligation."
+        },
+        {
+          "distractor": "extended",
+          "closeness": 3,
+          "reasoning": "Extending means stretching or prolonging, very close to deferring a loan, but extending is about lengthening the term, while deferring is about delaying commencement of payments."
+        },
+        {
+          "distractor": "forgave",
+          "closeness": 2,
+          "reasoning": "Forgiving a loan means canceling the debt entirely, related but different from deferring; deferring puts off payment, while forgiving eliminates it."
+        },
+        {
+          "distractor": "waived",
+          "closeness": 2,
+          "reasoning": "Waiving means giving up a right or requirement, related to deferring but implying voluntary abandonment, while deferring is delaying a temporary obligation."
+        },
+        {
+          "distractor": "pardon",
+          "closeness": 2,
+          "reasoning": "Pardoning means forgiving or letting off a debt or obligation, related to deferring but implying full release rather than temporary postponement."
+        },
+        {
+          "distractor": "rescheduled",
+          "closeness": 2,
+          "reasoning": "Rescheduling means changing the planned time for something, related to deferring but implying a specific new schedule, whereas deferring is putting off without a fixed future date."
+        },
+        {
+          "distractor": "repaid",
+          "closeness": 1,
+          "reasoning": "Repaying means paying back a loan, opposite to deferring; the sentence shows he delayed payment, not repaid it."
+        },
+        {
+          "distractor": "accelerated",
+          "closeness": 1,
+          "reasoning": "Accelerating means speeding up, opposite to deferring; the sentence shows he delayed his loan obligations while studying, not accelerated them."
+        },
+        {
+          "distractor": "defaulted",
+          "closeness": 1,
+          "reasoning": "Defaulting means failing to pay an obligation, opposite to deferring; deferring is an authorized delay, while defaulting is a failure to meet the obligation."
+        }
+      ]
+    }
+  ]
+}

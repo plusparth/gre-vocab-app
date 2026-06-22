@@ -1,0 +1,53 @@
+{
+  "word": "deteriorate",
+  "sentenceSets": [
+    {
+      "sentence": "Relations between the two organizations deteriorated rapidly after the dispute became public.",
+      "answerChoices": [
+        { "distractor": "declined", "closeness": 3, "reasoning": "Declined means to decrease or become worse, very close to deteriorated, but emphasizes gradual decrease more than rapid worsening." },
+        { "distractor": "worsened", "closeness": 3, "reasoning": "Worsened and deteriorated are nearly synonymous, both meaning to become worse, though worsened is more general." },
+        { "distractor": "degraded", "closeness": 3, "reasoning": "Degraded means to lower in rank or reduce in quality, which relations did, but emphasizes a reduction in standing." },
+        { "distractor": "eroded", "closeness": 3, "reasoning": "Eroded means to wear away gradually, which could describe relations, but emphasizes a slow process rather than rapid deterioration." },
+        { "distractor": "strained", "closeness": 2, "reasoning": "Strained means subjected to tension or pressure, which the relations were, but does not convey as complete a breakdown as deteriorated." },
+        { "distractor": "weakened", "closeness": 2, "reasoning": "Weakened means made weaker or less strong, which the relations were, but does not convey as complete a decline." },
+        { "distractor": "damaged", "closeness": 2, "reasoning": "Damaged means harmed or impaired, which the relations were, but is less specific than deteriorated." },
+        { "distractor": "fractured", "closeness": 2, "reasoning": "Fractured means broken or split apart, which the relations might be, but is more emphatic than deteriorated." },
+        { "distractor": "improved", "closeness": 1, "reasoning": "Improved means became better, which is the opposite of deteriorated." },
+        { "distractor": "strengthened", "closeness": 1, "reasoning": "Strengthened means made stronger or better, which is the opposite of deteriorated relations." },
+        { "distractor": "solidified", "closeness": 1, "reasoning": "Solidified means made firm or stable, which is the opposite of rapidly deteriorating relations." }
+      ]
+    },
+    {
+      "sentence": "Without proper maintenance, the bridge's structural integrity began to deteriorate, developing cracks and weakened supports.",
+      "answerChoices": [
+        { "distractor": "decay", "closeness": 3, "reasoning": "Decay means to rot or break down, which the bridge structure did, but emphasizes organic breakdown more than mechanical deterioration." },
+        { "distractor": "corrode", "closeness": 3, "reasoning": "Corrode means to eat away gradually, which might happen to the bridge, but is more specific to chemical process." },
+        { "distractor": "crumble", "closeness": 3, "reasoning": "Crumble means to break into small pieces, which the bridge structure might do as deterioration progresses." },
+        { "distractor": "weaken", "closeness": 3, "reasoning": "Weaken means to make less strong, which the bridge structure did, but does not convey the continuous deterioration." },
+        { "distractor": "degrade", "closeness": 2, "reasoning": "Degrade means to reduce in quality or level, which happened to the bridge, but is less specific about structural failure." },
+        { "distractor": "fail", "closeness": 2, "reasoning": "Fail means to cease functioning properly, which the bridge structure might do, but emphasizes the end result rather than the process." },
+        { "distractor": "break", "closeness": 2, "reasoning": "Break means to damage or separate, which occurred to the bridge, but is more dramatic than the gradual deterioration." },
+        { "distractor": "collapse", "closeness": 2, "reasoning": "Collapse means to fall apart suddenly, which might result from deterioration, but is the end result rather than the process." },
+        { "distractor": "maintain", "closeness": 1, "reasoning": "Maintain means to keep in good condition, which is the opposite of allowing deterioration." },
+        { "distractor": "restore", "closeness": 1, "reasoning": "Restore means to return to a former good state, which is the opposite of deterioration." },
+        { "distractor": "strengthen", "closeness": 1, "reasoning": "Strengthen means to make stronger or more solid, which is the opposite of deteriorating structure." }
+      ]
+    },
+    {
+      "sentence": "The patient's condition deteriorated overnight, and doctors moved her to the intensive care unit as a precautionary measure.",
+      "answerChoices": [
+        { "distractor": "declined", "closeness": 3, "reasoning": "Declined means to decrease or become worse, very close to deteriorated, but is more gentle and gradual than overnight worsening." },
+        { "distractor": "worsened", "closeness": 3, "reasoning": "Worsened and deteriorated are nearly synonymous, both describing becoming worse." },
+        { "distractor": "failed", "closeness": 3, "reasoning": "Failed might mean the health functions ceased, but emphasizes the end point rather than the process of deterioration." },
+        { "distractor": "crashed", "closeness": 3, "reasoning": "Crashed means a sudden collapse, which might describe the overnight deterioration, but is more dramatic slang." },
+        { "distractor": "regressed", "closeness": 2, "reasoning": "Regressed means to go backward to a previous state, but does not necessarily convey the rapid deterioration that occurred." },
+        { "distractor": "relapsed", "closeness": 2, "reasoning": "Relapsed means to fall back into a worse state, but implies returning to a previous condition rather than ongoing deterioration." },
+        { "distractor": "weakened", "closeness": 2, "reasoning": "Weakened means became less strong, which the patient's condition did, but does not convey the urgency of overnight deterioration." },
+        { "distractor": "compromised", "closeness": 2, "reasoning": "Compromised means reduced in effectiveness, which the patient's health was, but does not convey rapid deterioration." },
+        { "distractor": "improved", "closeness": 1, "reasoning": "Improved means became better, which is the opposite of deteriorated overnight." },
+        { "distractor": "stabilized", "closeness": 1, "reasoning": "Stabilized means became steady or stable, which is the opposite of deteriorating." },
+        { "distractor": "recovered", "closeness": 1, "reasoning": "Recovered means returned to health, which is the opposite of patient deterioration." }
+      ]
+    }
+  ]
+}

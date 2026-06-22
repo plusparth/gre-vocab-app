@@ -1,0 +1,53 @@
+{
+  "word": "offset",
+  "sentenceSets": [
+    {
+      "sentence": "The savings in one area were more than offset by the increased costs in another, producing a net loss.",
+      "answerChoices": [
+        { "distractor": "balanced", "closeness": 3, "reasoning": "'Balanced' means equal or level, which would suggest the savings and costs canceled out, but 'offset' implies the costs exceeded and outweighed the savings." },
+        { "distractor": "matched", "closeness": 3, "reasoning": "'Matched' means made equal or equivalent, but the sentence shows the increased costs were more than equivalent to the savings." },
+        { "distractor": "canceled", "closeness": 3, "reasoning": "'Canceled' means neutralized or made void, but the sentence emphasizes that the costs MORE than neutralized the savings." },
+        { "distractor": "counterbalanced", "closeness": 3, "reasoning": "'Counterbalanced' means balanced against an opposite force, which the costs did to the savings, but 'offset' implies an imbalance where the costs exceeded." },
+        { "distractor": "negated", "closeness": 2, "reasoning": "'Negated' means invalidated or nullified, which the increased costs did to the savings, but 'offset' allows for the possibility of only partial negation." },
+        { "distractor": "undermined", "closeness": 2, "reasoning": "'Undermined' means weakened or weakened from beneath, which the costs did to the savings, but 'offset' more directly refers to placing one thing against another." },
+        { "distractor": "diminished", "closeness": 2, "reasoning": "'Diminished' means made smaller or reduced, which the increased costs did to the net effect of the savings, but 'offset' implies a more active placing against." },
+        { "distractor": "increased", "closeness": 1, "reasoning": "'Increased' means made larger or greater, but the sentence shows the costs reduced the net benefit of savings, not increased it." },
+        { "distractor": "compounded", "closeness": 1, "reasoning": "'Compounded' means made more serious or complex by adding to it, whereas 'offset' means to place against something to balance it." },
+        { "distractor": "amplified", "closeness": 1, "reasoning": "'Amplified' means made stronger or more intense, which the increased costs did not do to the savings—they opposed and exceeded them." },
+        { "distractor": "sustained", "closeness": 1, "reasoning": "'Sustained' means maintained or supported, contrary to what increased costs do to reduce savings gains." }
+      ]
+    },
+    {
+      "sentence": "The company's strong performance in emerging markets offset the decline in mature markets, allowing executives to maintain their earnings projections.",
+      "answerChoices": [
+        { "distractor": "compensated", "closeness": 3, "reasoning": "'Compensated' means provided an equivalent in return for loss, which strong emerging market performance did, but 'offset' more directly implies placing one thing against another." },
+        { "distractor": "counteracted", "closeness": 3, "reasoning": "'Counteracted' means opposed or worked against an opposite effect, fitting how emerging markets worked against decline, but 'offset' implies a more neutral balancing." },
+        { "distractor": "neutralized", "closeness": 3, "reasoning": "'Neutralized' means rendered ineffective or nullified, which emerging market strength did to the mature market decline, but 'offset' better captures the weighing of one against another." },
+        { "distractor": "eclipsed", "closeness": 3, "reasoning": "'Eclipsed' means surpassed or overshadowed, which emerging markets' strong performance did to the decline, but 'offset' implies a more precise balancing." },
+        { "distractor": "superseded", "closeness": 2, "reasoning": "'Superseded' means replaced or took the place of, which emerging market gains partially did to mature market losses, but 'offset' implies a more direct weighing." },
+        { "distractor": "mitigated", "closeness": 2, "reasoning": "'Mitigated' means made less severe, which emerging market strength did to the earnings impact, but 'offset' implies a more active placing against." },
+        { "distractor": "eased", "closeness": 2, "reasoning": "'Eased' means made less difficult or more comfortable, which strong emerging markets did for executives, but 'offset' more directly means placing against." },
+        { "distractor": "amplified", "closeness": 1, "reasoning": "'Amplified' means made stronger or more intense, but the decline in mature markets represented a negative that needed balancing, not amplifying." },
+        { "distractor": "exacerbated", "closeness": 1, "reasoning": "'Exacerbated' means made worse, contrary to what emerging market strength did in response to mature market decline." },
+        { "distractor": "compounded", "closeness": 1, "reasoning": "'Compounded' means increased in seriousness, opposite to the effect of emerging market performance on the earnings situation." },
+        { "distractor": "deferred", "closeness": 1, "reasoning": "'Deferred' means postponed or delayed, but the sentence shows emerging markets provided immediate balance, not postponement." }
+      ]
+    },
+    {
+      "sentence": "The candidate's intellectual credentials were offset by poor communication skills that undermined her performance in public forums.",
+      "answerChoices": [
+        { "distractor": "diminished", "closeness": 3, "reasoning": "'Diminished' means made smaller or reduced, which poor communication did to her overall candidacy, but 'offset' implies a more precise weighing against her credentials." },
+        { "distractor": "undermined", "closeness": 3, "reasoning": "'Undermined' means weakened or weakened from beneath, which poor communication did, but 'offset' implies placing two things against each other, not just weakening one." },
+        { "distractor": "compromised", "closeness": 3, "reasoning": "'Compromised' means weakened or reduced in quality, which her poor communication did to her candidacy, but 'offset' more directly means placing against." },
+        { "distractor": "negated", "closeness": 3, "reasoning": "'Negated' means invalidated or nullified, which her poor communication partly did to her credentials, but 'offset' implies the weighing of one against another." },
+        { "distractor": "eclipsed", "closeness": 2, "reasoning": "'Eclipsed' means overshadowed or surpassed, fitting how poor communication surpassed her credentials in impact, but 'offset' implies more neutral balance." },
+        { "distractor": "marred", "closeness": 2, "reasoning": "'Marred' means spoiled or damaged, which her poor communication did to her candidacy, but 'offset' implies a more precise counterbalancing." },
+        { "distractor": "tarnished", "closeness": 2, "reasoning": "'Tarnished' means lost luster or damaged reputation, which poor communication did, but 'offset' more directly refers to weighing one thing against another." },
+        { "distractor": "enhanced", "closeness": 1, "reasoning": "'Enhanced' means improved or made better, opposite to what poor communication did to her candidacy with strong credentials." },
+        { "distractor": "elevated", "closeness": 1, "reasoning": "'Elevated' means raised in rank or importance, contrary to the effect of poor communication on her overall candidacy." },
+        { "distractor": "strengthened", "closeness": 1, "reasoning": "'Strengthened' means made stronger, opposite to what poor communication accomplished to her position." },
+        { "distractor": "amplified", "closeness": 1, "reasoning": "'Amplified' means made stronger or more intense, opposite to the weakening effect that poor communication had on her intellectual credentials." }
+      ]
+    }
+  ]
+}

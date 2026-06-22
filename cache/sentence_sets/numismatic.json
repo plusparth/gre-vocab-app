@@ -1,0 +1,53 @@
+{
+  "word": "numismatic",
+  "sentenceSets": [
+    {
+      "sentence": "The collector's passion for numismatic history led her to amass one of the finest coin collections in the country.",
+      "answerChoices": [
+        { "distractor": "archaeological", "closeness": 3, "reasoning": "Both relate to studying artifacts from the past, but the sentence specifically focuses on coins and their monetary history, not ancient cultural sites or remains." },
+        { "distractor": "monetary", "closeness": 3, "reasoning": "While coins are monetary objects, 'monetary' describes anything related to money itself, not the specialized study of coins as historical objects." },
+        { "distractor": "philatelic", "closeness": 3, "reasoning": "This describes the collecting and study of stamps, parallel to coin collecting, but the sentence explicitly concerns coins, not postal materials." },
+        { "distractor": "antiquarian", "closeness": 3, "reasoning": "Both terms describe interest in old objects, but 'antiquarian' applies broadly to any ancient item, whereas the sentence narrows focus to coins specifically." },
+        { "distractor": "historical", "closeness": 2, "reasoning": "The sentence mentions coin history, so 'historical' seems related, but it's too general—the blank requires a word specific to the study of coins." },
+        { "distractor": "artistic", "closeness": 2, "reasoning": "Coins can have artistic value, but the sentence emphasizes collecting and history rather than aesthetics or design appreciation." },
+        { "distractor": "economic", "closeness": 2, "reasoning": "Coins relate to economics, but the sentence stresses the passion for history and collection, not economic analysis or systems." },
+        { "distractor": "financial", "closeness": 2, "reasoning": "Coins have financial value, but the sentence concerns a collector's passion for history, not investment or monetary worth." },
+        { "distractor": "geological", "closeness": 1, "reasoning": "The sentence discusses coins and their history, not rocks or earth science materials." },
+        { "distractor": "botanical", "closeness": 1, "reasoning": "The sentence is about a coin collection; botanical relates to plants, which has no connection to the context." },
+        { "distractor": "linguistic", "closeness": 1, "reasoning": "The focus is on collecting coins, not the study of language or communication." }
+      ]
+    },
+    {
+      "sentence": "At the museum's exhibition, the curator displayed rare ancient coins alongside numismatic journals that documented their provenance and rarity.",
+      "answerChoices": [
+        { "distractor": "editorial", "closeness": 3, "reasoning": "Editorial material discusses and analyzes topics like journals do, but the sentence specifies journals about coins and their history, not publications with editorial commentary." },
+        { "distractor": "genealogical", "closeness": 3, "reasoning": "Both genealogical and numismatic materials trace lineage and history, but genealogical concerns family trees, not the origin and value of coins." },
+        { "distractor": "documentary", "closeness": 3, "reasoning": "Documentary materials document facts, as the journals in the sentence do, but 'documentary' is too general—the blank requires a word specific to coin study." },
+        { "distractor": "scholarly", "closeness": 3, "reasoning": "Numismatic journals are scholarly, but 'scholarly' applies to any academic work; the sentence requires a word pointing specifically to coin study." },
+        { "distractor": "archival", "closeness": 2, "reasoning": "The journals are archived materials, but 'archival' describes any preserved historical records, not specifically those about coins." },
+        { "distractor": "cataloging", "closeness": 2, "reasoning": "The journals presumably catalog coins, but the sentence emphasizes documentation of provenance and rarity, not the act of listing items." },
+        { "distractor": "authenticating", "closeness": 2, "reasoning": "Rarity and provenance relate to authenticity, but 'authenticating' focuses on proving genuineness, not the broader historical and monetary study." },
+        { "distractor": "conservation", "closeness": 2, "reasoning": "Museums display coins to preserve them, but 'conservation' journals focus on restoration and preservation techniques, not coin history." },
+        { "distractor": "artistic", "closeness": 1, "reasoning": "While coins have artistic value, the sentence emphasizes provenance and rarity documentation, not aesthetic analysis." },
+        { "distractor": "musical", "closeness": 1, "reasoning": "The sentence discusses coins, provenance, and rarity; music is completely unrelated to the context." },
+        { "distractor": "meteorological", "closeness": 1, "reasoning": "The focus is on coins and historical documentation; meteorology concerns weather and atmosphere, entirely unrelated." }
+      ]
+    },
+    {
+      "sentence": "The dealer's expertise in numismatic valuation proved invaluable when the estate's scattered coins needed assessment for auction.",
+      "answerChoices": [
+        { "distractor": "gemological", "closeness": 3, "reasoning": "Gemological expertise values precious stones just as the expertise in the sentence values coins, but the blank specifically addresses coin assessment." },
+        { "distractor": "appraisal", "closeness": 3, "reasoning": "Appraisal is the act of valuing items, but the sentence requires a word that specifies valuation of coins, not appraisal in general." },
+        { "distractor": "antiquated", "closeness": 3, "reasoning": "The coins are old and thus antiquated, but the sentence focuses on the dealer's expertise in valuing them, not describing the coins themselves." },
+        { "distractor": "authenticating", "closeness": 3, "reasoning": "Validating coins as genuine is related to assessment, but the sentence emphasizes valuation for auction rather than verification of authenticity." },
+        { "distractor": "custodial", "closeness": 2, "reasoning": "The dealer handles the coins as part of assessment, but 'custodial' refers to guardianship, not the evaluation expertise the sentence highlights." },
+        { "distractor": "forensic", "closeness": 2, "reasoning": "Forensic analysis examines artifacts carefully, but the sentence concerns valuation for monetary purposes, not investigative examination." },
+        { "distractor": "historical", "closeness": 2, "reasoning": "The coins have history, but the sentence stresses the dealer's expertise in valuation, not historical knowledge." },
+        { "distractor": "taxonomic", "closeness": 2, "reasoning": "Taxonomic systems classify items, as valuations might categorize coins, but the sentence emphasizes monetary assessment, not classification." },
+        { "distractor": "surgical", "closeness": 1, "reasoning": "The context involves coins and their assessment; surgical expertise is unrelated to evaluating estate property." },
+        { "distractor": "culinary", "closeness": 1, "reasoning": "The sentence is about coins and valuation; culinary expertise concerns cooking and food, entirely unrelated." },
+        { "distractor": "horticultural", "closeness": 1, "reasoning": "The focus is on coin assessment for auction; horticulture concerns plants and gardening, with no connection to the context." }
+      ]
+    }
+  ]
+}

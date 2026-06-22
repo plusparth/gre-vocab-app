@@ -1,0 +1,185 @@
+{
+  "word": "defray",
+  "sentenceSets": [
+    {
+      "sentence": "The grant was intended to defray the costs of the study, covering most but not all of the expenses involved.",
+      "answerChoices": [
+        {
+          "distractor": "pay",
+          "closeness": 3,
+          "reasoning": "Paying means providing money for something, very close to defraying, but paying is more general, whereas defraying specifically means paying for costs incurred."
+        },
+        {
+          "distractor": "cover",
+          "closeness": 3,
+          "reasoning": "Covering means paying for or providing funds for something, nearly synonymous with defraying, but covering is more general, while defraying emphasizes bearing the cost."
+        },
+        {
+          "distractor": "fund",
+          "closeness": 3,
+          "reasoning": "Funding means providing money for something, very close to defraying, but funding can create a fund for future use, while defraying is paying for current costs."
+        },
+        {
+          "distractor": "finance",
+          "closeness": 3,
+          "reasoning": "Financing means providing capital or funds, very close to defraying, but financing often involves arranging credit, while defraying is paying for costs."
+        },
+        {
+          "distractor": "subsidize",
+          "closeness": 2,
+          "reasoning": "Subsidizing means providing financial aid, related to defraying but often involving ongoing support, while defraying focuses on paying for specific costs."
+        },
+        {
+          "distractor": "reimburse",
+          "closeness": 2,
+          "reasoning": "Reimbursing means paying back money someone has spent, related to defraying but implying payment for already-incurred expenses, while defraying can be advance payment."
+        },
+        {
+          "distractor": "sponsor",
+          "closeness": 2,
+          "reasoning": "Sponsoring means providing support or backing, related to defraying but often involving patronage or endorsement rather than payment."
+        },
+        {
+          "distractor": "provide",
+          "closeness": 2,
+          "reasoning": "Providing means supplying or making available, related to defraying but broader and not specifically about financial payment."
+        },
+        {
+          "distractor": "withhold",
+          "closeness": 1,
+          "reasoning": "Withholding means refusing to give or release, opposite to defraying; the sentence shows the grant was intended to pay costs, not withhold funds."
+        },
+        {
+          "distractor": "retain",
+          "closeness": 1,
+          "reasoning": "Retaining means keeping or holding, opposite to defraying; the sentence shows the grant pays costs, not retains resources."
+        },
+        {
+          "distractor": "eliminate",
+          "closeness": 1,
+          "reasoning": "Eliminating means removing or getting rid of, opposite to defraying; the grant pays for costs, it does not eliminate them."
+        }
+      ]
+    },
+    {
+      "sentence": "The university defrayed the travel expenses for conference attendees, though participants paid for their own meals and entertainment.",
+      "answerChoices": [
+        {
+          "distractor": "covered",
+          "closeness": 3,
+          "reasoning": "Covering means paying for or providing funds, very close to defraying, but covering is more general, while defraying specifically means bearing the cost."
+        },
+        {
+          "distractor": "paid",
+          "closeness": 3,
+          "reasoning": "Paying means providing money, very close to defraying, but paying is more general, whereas defraying emphasizes paying for incurred costs."
+        },
+        {
+          "distractor": "funded",
+          "closeness": 3,
+          "reasoning": "Funding means providing money or capital, very close to defraying, but funding can create a resource pool, while defraying is paying for specific costs."
+        },
+        {
+          "distractor": "subsidized",
+          "closeness": 3,
+          "reasoning": "Subsidizing means providing financial aid, close to what the university did for travel, but subsidizing often implies ongoing support, while defraying is payment for specific costs."
+        },
+        {
+          "distractor": "reimbursed",
+          "closeness": 2,
+          "reasoning": "Reimbursing means paying back money spent, related to defraying but implying the participants paid first and were reimbursed, which differs from defraying."
+        },
+        {
+          "distractor": "financed",
+          "closeness": 2,
+          "reasoning": "Financing means providing capital, related to defraying but often involving credit or loans, while defraying is direct payment."
+        },
+        {
+          "distractor": "sponsored",
+          "closeness": 2,
+          "reasoning": "Sponsoring means providing support or backing, related to defraying but broader in scope and often involving endorsement or patronage."
+        },
+        {
+          "distractor": "supported",
+          "closeness": 2,
+          "reasoning": "Supporting means providing aid or assistance, related to defraying but more general and not specifically about financial payment."
+        },
+        {
+          "distractor": "withheld",
+          "closeness": 1,
+          "reasoning": "Withholding means refusing to provide or release, opposite to defraying; the university provided funds, not withheld them."
+        },
+        {
+          "distractor": "charged",
+          "closeness": 1,
+          "reasoning": "Charging means demanding payment, opposite to defraying; the university paid for travel, it did not charge attendees for it."
+        },
+        {
+          "distractor": "eliminated",
+          "closeness": 1,
+          "reasoning": "Eliminating means removing or getting rid of, opposite to defraying; the university paid travel expenses, not eliminated them."
+        }
+      ]
+    },
+    {
+      "sentence": "The insurance policy would defray a significant portion of the surgical costs, but the patient remained responsible for the deductible and out-of-pocket expenses.",
+      "answerChoices": [
+        {
+          "distractor": "cover",
+          "closeness": 3,
+          "reasoning": "Covering means paying for or providing funds, very close to defraying, but covering emphasizes what is paid for, while defraying emphasizes bearing the cost."
+        },
+        {
+          "distractor": "pay",
+          "closeness": 3,
+          "reasoning": "Paying means providing money, very close to defraying, but paying is more general, while defraying specifically means paying for costs incurred."
+        },
+        {
+          "distractor": "reimburse",
+          "closeness": 3,
+          "reasoning": "Reimbursing means paying back money spent, close to what insurance does, but reimbursing implies the patient paid first, while defraying can be direct payment."
+        },
+        {
+          "distractor": "offset",
+          "closeness": 3,
+          "reasoning": "Offsetting means reducing or compensating for something, close to what defraying costs does, but offsetting is more about balancing accounts than paying."
+        },
+        {
+          "distractor": "subsidize",
+          "closeness": 2,
+          "reasoning": "Subsidizing means providing financial aid, related to defraying but often suggesting ongoing support rather than payment for specific costs."
+        },
+        {
+          "distractor": "fund",
+          "closeness": 2,
+          "reasoning": "Funding means providing money or capital, related to defraying but can suggest creating a resource pool rather than paying for current expenses."
+        },
+        {
+          "distractor": "finance",
+          "closeness": 2,
+          "reasoning": "Financing means providing capital or credit, related to defraying but often involving loans or credit arrangements rather than direct payment."
+        },
+        {
+          "distractor": "allot",
+          "closeness": 2,
+          "reasoning": "Allotting means distributing or apportioning, related to what insurance does with coverage but not specifically about bearing the cost."
+        },
+        {
+          "distractor": "deny",
+          "closeness": 1,
+          "reasoning": "Denying means refusing to provide or accept, opposite to defraying; an insurance policy that defrays costs provides payment, not denies it."
+        },
+        {
+          "distractor": "impose",
+          "closeness": 1,
+          "reasoning": "Imposing means demanding or enforcing a burden, opposite to defraying; defraying costs relieves burden, while imposing adds to it."
+        },
+        {
+          "distractor": "deduct",
+          "closeness": 1,
+          "reasoning": "Deducting means subtracting or reducing, opposite in implication to defraying; while the policy defrays costs, the patient is responsible for deductions, which are not defrayed."
+        }
+      ]
+    }
+  ]
+}

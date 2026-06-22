@@ -1,0 +1,53 @@
+{
+  "word": "disaffect",
+  "sentenceSets": [
+    {
+      "sentence": "Years of broken promises disaffected the organization's most loyal supporters.",
+      "answerChoices": [
+        { "distractor": "emboldened", "closeness": 3, "reasoning": "To embolden is to make confident or brave; broken promises did the opposite by eroding trust, not strengthening resolve." },
+        { "distractor": "inspired", "closeness": 3, "reasoning": "To inspire is to stimulate positive action or belief; broken promises had the opposite effect — they discouraged loyalty." },
+        { "distractor": "energized", "closeness": 3, "reasoning": "To energize is to invigorate or give vitality; broken promises depleted supporters' commitment rather than activating enthusiasm." },
+        { "distractor": "reunited", "closeness": 3, "reasoning": "To reunite is to bring together or restore connection; broken promises severed bonds rather than reuniting the supporters with the organization." },
+        { "distractor": "motivated", "closeness": 2, "reasoning": "To motivate is to inspire to action; broken promises had the opposite effect of removing motivation for continued support." },
+        { "distractor": "enabled", "closeness": 2, "reasoning": "To enable is to make possible; broken promises undermined the conditions for continuing loyalty, not enabling it." },
+        { "distractor": "fortified", "closeness": 2, "reasoning": "To fortify is to strengthen or reinforce; broken promises weakened attachment, not fortified it." },
+        { "distractor": "endeared", "closeness": 1, "reasoning": "To endear is to make loved or liked; broken promises did the opposite by reducing affection for the organization." },
+        { "distractor": "obligated", "closeness": 1, "reasoning": "To obligate is to bind someone by duty; broken promises eliminated the sense of obligation, not created it." },
+        { "distractor": "gratified", "closeness": 1, "reasoning": "To gratify is to please; broken promises caused disappointment and dissatisfaction, the opposite of gratification." },
+        { "distractor": "indebted", "closeness": 1, "reasoning": "To make indebted is to obligate through favor; broken promises created resentment, not a sense of indebtedness." }
+      ]
+    },
+    {
+      "sentence": "The government's indifference to rural concerns disaffected farmers who had historically voted for the ruling party.",
+      "answerChoices": [
+        { "distractor": "recruited", "closeness": 3, "reasoning": "To recruit is to enlist new supporters; the government's indifference caused the loss of existing support, not the recruitment of new farmers." },
+        { "distractor": "cultivated", "closeness": 3, "reasoning": "To cultivate is to develop or foster relationships; indifference did the opposite by eroding the existing political relationship." },
+        { "distractor": "consolidated", "closeness": 3, "reasoning": "To consolidate is to strengthen or secure; indifference weakened the government's hold on the farming vote." },
+        { "distractor": "galvanized", "closeness": 3, "reasoning": "To galvanize is to stimulate into action; indifference demotivated farmers rather than stimulating their continued support." },
+        { "distractor": "retained", "closeness": 2, "reasoning": "To retain is to keep; the government failed to retain farmer support through indifference, so this verb describes the opposite outcome." },
+        { "distractor": "appeased", "closeness": 2, "reasoning": "To appease is to satisfy or calm; indifference did the opposite by failing to address farmer concerns." },
+        { "distractor": "engaged", "closeness": 2, "reasoning": "To engage is to involve or interact with; the government's indifference was a failure to engage, not successful engagement." },
+        { "distractor": "obligated", "closeness": 1, "reasoning": "To obligate is to create a duty; indifference eliminated any sense of political obligation to support the ruling party." },
+        { "distractor": "reassured", "closeness": 1, "reasoning": "To reassure is to restore confidence; indifference had the opposite effect of reducing confidence in the government's commitment." },
+        { "distractor": "validated", "closeness": 1, "reasoning": "To validate is to confirm as worthy; indifference conveyed the opposite message — that farmer concerns were unworthy of attention." },
+        { "distractor": "empowered", "closeness": 1, "reasoning": "To empower is to give authority or capability; indifference stripped away farmers' sense of political influence." }
+      ]
+    },
+    {
+      "sentence": "The sudden layoffs disaffected veteran employees who had believed they would be protected due to their seniority.",
+      "answerChoices": [
+        { "distractor": "retained", "closeness": 3, "reasoning": "To retain is to keep employed; the layoffs did the opposite — they removed veteran employees despite their seniority." },
+        { "distractor": "promoted", "closeness": 3, "reasoning": "To promote is to advance in position; the layoffs did the opposite — they terminated employment rather than advancing careers." },
+        { "distractor": "reassured", "closeness": 3, "reasoning": "To reassure is to restore confidence; the unexpected layoffs destroyed the confidence veterans had in job security." },
+        { "distractor": "honored", "closeness": 3, "reasoning": "To honor is to show respect or recognition; the layoffs failed to honor veterans' years of service, contradicting what they had expected." },
+        { "distractor": "rewarded", "closeness": 2, "reasoning": "To reward is to compensate for service; the layoffs did the opposite by eliminating jobs without advance warning or adequate severance." },
+        { "distractor": "valued", "closeness": 2, "reasoning": "To value is to recognize worth; the sudden termination conveyed the opposite — that veterans were not valued by the company." },
+        { "distractor": "compensated", "closeness": 2, "reasoning": "To compensate is to pay or make amends; the sudden nature and lack of protection indicated inadequate compensation for veteran service." },
+        { "distractor": "demoted", "closeness": 1, "reasoning": "To demote is to lower in rank, but the sentence shows complete job loss, not just a reduction in rank or status." },
+        { "distractor": "transferred", "closeness": 1, "reasoning": "To transfer is to move to another position, but the sentence indicates termination of employment, not reassignment." },
+        { "distractor": "recruited", "closeness": 1, "reasoning": "To recruit is to enlist new employees; the layoffs did the opposite — they eliminated positions." },
+        { "distractor": "elevated", "closeness": 1, "reasoning": "To elevate is to raise in position; the layoffs did the opposite — they removed employees from their positions entirely." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "hoodwink",
+  "sentenceSets": [
+    {
+      "sentence": "She had been hoodwinked by documentation that appeared authoritative but had been fabricated throughout.",
+      "answerChoices": [
+        { "distractor": "deceived", "closeness": 3, "reasoning": "Deceived means tricked or misled, which is similar to hoodwinked but is broader and doesn't specifically emphasize the appearance of legitimacy that makes hoodwinking effective." },
+        { "distractor": "duped", "closeness": 3, "reasoning": "Duped means tricked or fooled, which is close to the definition of hoodwinked but is more casual and less specific about the method of deception through false appearances." },
+        { "distractor": "misled", "closeness": 3, "reasoning": "Misled means given wrong information, which is related but doesn't capture the specific sense of being fooled by the false appearance or authority of something." },
+        { "distractor": "fooled", "closeness": 3, "reasoning": "Fooled means tricked or deceived, which is similar but is more general and informal; hoodwinked specifically suggests deception through crafted false appearances." },
+        { "distractor": "betrayed", "closeness": 2, "reasoning": "Betrayed means violated someone's trust deliberately, which might occur in hoodwinking but emphasizes the violation of trust rather than the deception itself." },
+        { "distractor": "confused", "closeness": 2, "reasoning": "Confused means mixed up or unclear in understanding, but hoodwinking is deliberate deception rather than accidental confusion." },
+        { "distractor": "manipulated", "closeness": 2, "reasoning": "Manipulated means controlled or influenced skillfully, which might be a method of hoodwinking but doesn't specifically emphasize deception through false appearances." },
+        { "distractor": "swindled", "closeness": 2, "reasoning": "Swindled means defrauded of money or valuables, which involves deception but is more specifically about theft or financial fraud." },
+        { "distractor": "enlightened", "closeness": 1, "reasoning": "Enlightened means given information or understanding, which is the opposite of being deceived or hoodwinked." },
+        { "distractor": "informed", "closeness": 1, "reasoning": "Informed means given accurate information, the opposite of the deception involved in hoodwinking." },
+        { "distractor": "verified", "closeness": 1, "reasoning": "Verified means confirmed as true or accurate, the opposite of being tricked by false documentation." }
+      ]
+    },
+    {
+      "sentence": "The investment scheme hoodwinked hundreds of people by displaying fabricated returns and testimonials from supposed early investors.",
+      "answerChoices": [
+        { "distractor": "cheated", "closeness": 3, "reasoning": "Cheated means treated unfairly or defrauded, which is related to hoodwinking but is more about unfair treatment than specifically being fooled by false appearances." },
+        { "distractor": "victimized", "closeness": 3, "reasoning": "Victimized means treated as a victim or harmed deliberately, which describes the result but not the specific method of deception through false appearances that hoodwinking involves." },
+        { "distractor": "conned", "closeness": 3, "reasoning": "Conned means tricked through a confidence scheme, which is very close to hoodwinked but emphasizes the personal rapport of a con rather than false documentation or appearances." },
+        { "distractor": "scammed", "closeness": 3, "reasoning": "Scammed means defrauded through a dishonest scheme, which is very similar to hoodwinked but is more informal and often emphasizes financial fraud." },
+        { "distractor": "exposed", "closeness": 2, "reasoning": "Exposed means revealed or made visible, which is the opposite of successful hoodwinking, as hoodwinking depends on concealment of deception." },
+        { "distractor": "implicated", "closeness": 2, "reasoning": "Implicated means suggested to be involved in something wrong, which describes the result of a scheme but not the act of deceiving through false appearances." },
+        { "distractor": "compromised", "closeness": 2, "reasoning": "Compromised means weakened or damaged in reliability, which might be a result of hoodwinking but doesn't describe the act of deceiving." },
+        { "distractor": "enticed", "closeness": 2, "reasoning": "Enticed means attracted or tempted, which might be part of a scheme but doesn't necessarily involve deception through false appearances." },
+        { "distractor": "educated", "closeness": 1, "reasoning": "Educated means taught or informed accurately, which is the opposite of being deceived by false information." },
+        { "distractor": "warned", "closeness": 1, "reasoning": "Warned means alerted to danger or given cautionary information, the opposite of being hoodwinked into trust." },
+        { "distractor": "authenticated", "closeness": 1, "reasoning": "Authenticated means verified as genuine and real, the opposite of being tricked by false documentation or fabricated testimonials." }
+      ]
+    },
+    {
+      "sentence": "The company hoodwinked environmental regulators by submitting test results that exaggerated compliance while concealing actual emissions data.",
+      "answerChoices": [
+        { "distractor": "misled", "closeness": 3, "reasoning": "Misled means given false information, which is what happened but doesn't capture the deliberate deception through falsified data that hoodwinking emphasizes." },
+        { "distractor": "circumvented", "closeness": 3, "reasoning": "Circumvented means found a way around or avoided rules, which describes the effect but not the specific act of deceiving through false appearances." },
+        { "distractor": "undermined", "closeness": 3, "reasoning": "Undermined means weakened or damaged from within, which describes the long-term effect but not the specific act of deceiving the regulators." },
+        { "distractor": "evaded", "closeness": 3, "reasoning": "Evaded means escaped or avoided, which might describe the company's overall goal but not specifically the act of deceiving through false data." },
+        { "distractor": "bribed", "closeness": 2, "reasoning": "Bribed means offered money to influence someone improperly, which is a different method of deception than hoodwinking through false appearances." },
+        { "distractor": "blackmailed", "closeness": 2, "reasoning": "Blackmailed means coerced through threats, which is a different method of deception than deceiving through false documentation." },
+        { "distractor": "corrupted", "closeness": 2, "reasoning": "Corrupted means made dishonest or immoral, which describes the company's intent but not the specific act of deceiving the regulators." },
+        { "distractor": "intimidated", "closeness": 2, "reasoning": "Intimidated means frightened or coerced, which is a different method of influence than hoodwinking through false appearances." },
+        { "distractor": "vindicated", "closeness": 1, "reasoning": "Vindicated means cleared of blame or proved right, which is the opposite of being revealed to have deceived regulators." },
+        { "distractor": "informed", "closeness": 1, "reasoning": "Informed means given accurate information, the opposite of deceiving regulators with false test results." },
+        { "distractor": "cooperated", "closeness": 1, "reasoning": "Cooperated means worked together honestly and transparently, the opposite of hoodwinking through concealment and false data." }
+      ]
+    }
+  ]
+}

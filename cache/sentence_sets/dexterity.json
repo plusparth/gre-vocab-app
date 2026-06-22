@@ -1,0 +1,53 @@
+{
+  "word": "dexterity",
+  "sentenceSets": [
+    {
+      "sentence": "The surgeon's dexterity—refined over thousands of procedures—allowed her to work in spaces others found impossible.",
+      "answerChoices": [
+        { "distractor": "precision", "closeness": 3, "reasoning": "Precision describes accuracy and exactness; while a skilled surgeon is precise, the sentence emphasizes graceful, practiced physical ability rather than accuracy alone." },
+        { "distractor": "skill", "closeness": 3, "reasoning": "Skill is a broad term for ability; dexterity more specifically emphasizes skillful physical manipulation and coordination rather than general competence." },
+        { "distractor": "finesse", "closeness": 3, "reasoning": "Finesse emphasizes refinement and delicate handling; while close, it suggests elegance and polish more than the ingrained, practiced physical coordination that dexterity conveys." },
+        { "distractor": "agility", "closeness": 3, "reasoning": "Agility emphasizes quickness and ability to move easily; the sentence focuses on refined physical skill in controlled, precise manipulation rather than speed or nimbleness." },
+        { "distractor": "expertise", "closeness": 2, "reasoning": "Expertise means advanced knowledge and skill; while the surgeon certainly has expertise, the sentence emphasizes physical coordination and practiced manipulation more than comprehensive knowledge." },
+        { "distractor": "grace", "closeness": 2, "reasoning": "Grace describes elegant, smooth movement; while the surgeon's work may be graceful, the sentence emphasizes technical ability and refined practice more than aesthetic elegance." },
+        { "distractor": "capability", "closeness": 2, "reasoning": "Capability means the power to do something; while applicable, it is less specific about the physical coordination and practiced manipulation that dexterity implies." },
+        { "distractor": "talent", "closeness": 2, "reasoning": "Talent suggests natural ability; the sentence emphasizes refined skill developed over thousands of procedures, not innate talent." },
+        { "distractor": "clumsiness", "closeness": 1, "reasoning": "Clumsiness means lacking coordination, opposite to dexterity." },
+        { "distractor": "stiffness", "closeness": 1, "reasoning": "Stiffness describes rigidity and lack of flexibility; the sentence describes fluid, coordinated movement." },
+        { "distractor": "incompetence", "closeness": 1, "reasoning": "Incompetence means lack of skill; the sentence describes a surgeon with highly developed physical abilities." }
+      ]
+    },
+    {
+      "sentence": "The magician's manual dexterity was so remarkable that no member of the audience could follow how the coins disappeared.",
+      "answerChoices": [
+        { "distractor": "sleight", "closeness": 3, "reasoning": "Sleight is often paired with hand in sleight of hand and describes clever manipulation; however, dexterity emphasizes skilled physical ability more broadly, not just the deceptive intent." },
+        { "distractor": "coordination", "closeness": 3, "reasoning": "Coordination emphasizes the working together of different parts; while the magician's hands are coordinated, dexterity more precisely captures skilled, graceful manipulation." },
+        { "distractor": "agility", "closeness": 3, "reasoning": "Agility emphasizes quickness and ease of movement; the sentence requires a term that captures not just speed but skillful, practiced hand manipulation." },
+        { "distractor": "precision", "closeness": 3, "reasoning": "Precision means exactness; while the magician is precise, the sentence emphasizes the gracefulness and skillfulness of hand movement rather than accuracy alone." },
+        { "distractor": "speed", "closeness": 2, "reasoning": "Speed describes how fast something happens; the sentence emphasizes skillful movement that confuses the audience, not merely rapid movement." },
+        { "distractor": "fluidity", "closeness": 2, "reasoning": "Fluidity describes smooth, flowing movement; while applicable, it does not capture the skilled, practiced dimension that dexterity implies." },
+        { "distractor": "talent", "closeness": 2, "reasoning": "Talent suggests innate natural ability; the sentence emphasizes developed, practiced skill rather than inborn talent." },
+        { "distractor": "finesse", "closeness": 2, "reasoning": "Finesse emphasizes refined, elegant manipulation; while close, it focuses more on elegance and sophistication than on the practical skilled movement." },
+        { "distractor": "clumsiness", "closeness": 1, "reasoning": "Clumsiness means lacking coordination, opposite to the skilled manipulation the magician displays." },
+        { "distractor": "rigidity", "closeness": 1, "reasoning": "Rigidity describes stiffness and inflexibility, opposite to dexterity." },
+        { "distractor": "bungling", "closeness": 1, "reasoning": "Bungling means performing clumsily or incompetently, opposite to the magician's remarkable skill." }
+      ]
+    },
+    {
+      "sentence": "Her verbal dexterity allowed her to navigate tense negotiations without offending either party.",
+      "answerChoices": [
+        { "distractor": "eloquence", "closeness": 3, "reasoning": "Eloquence emphasizes persuasive and expressive speech; while the woman is eloquent, the sentence highlights her ability to handle difficult situations skillfully rather than her persuasiveness." },
+        { "distractor": "diplomacy", "closeness": 3, "reasoning": "Diplomacy emphasizes tact in handling delicate situations; while her dexterity involves diplomatic skill, dexterity more specifically captures the skillful manipulation of language itself." },
+        { "distractor": "smoothness", "closeness": 3, "reasoning": "Smoothness describes ease and flow; while her speech is smooth, dexterity implies practiced skill and ability rather than just a lack of friction." },
+        { "distractor": "fluency", "closeness": 3, "reasoning": "Fluency describes smooth, effortless speech; while applicable, dexterity more precisely implies skillful manipulation of language to achieve a specific outcome." },
+        { "distractor": "tact", "closeness": 2, "reasoning": "Tact describes sensitivity in handling others; while the woman is tactful, the sentence emphasizes her skillful use of language rather than just her sensitivity." },
+        { "distractor": "wit", "closeness": 2, "reasoning": "Wit describes clever, amusing speech; the sentence does not necessarily imply humor, and emphasizes skillful navigation rather than cleverness." },
+        { "distractor": "persuasiveness", "closeness": 2, "reasoning": "Persuasiveness emphasizes the power to convince; the sentence emphasizes skillful handling of potentially offensive situations, not the ability to persuade." },
+        { "distractor": "charm", "closeness": 2, "reasoning": "Charm describes attractive personal appeal; while it may aid in negotiations, the sentence emphasizes linguistic skill and ability to navigate difficult language rather than charm." },
+        { "distractor": "clumsiness", "closeness": 1, "reasoning": "Clumsiness means lacking skill, opposite to the adept handling shown in the sentence." },
+        { "distractor": "rigidity", "closeness": 1, "reasoning": "Rigidity describes inflexibility; the sentence shows flexible, adaptive handling of language." },
+        { "distractor": "bluntness", "closeness": 1, "reasoning": "Bluntness means speaking roughly and without tact, opposite to the skillful navigation in the sentence." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "non sequitur",
+  "sentenceSets": [
+    {
+      "sentence": "His answer was a non sequitur, responding to a question that no one had asked rather than the one before him.",
+      "answerChoices": [
+        { "distractor": "evasion", "closeness": 3, "reasoning": "An 'evasion' is an attempt to avoid answering, but his answer responds to a different question rather than avoiding the topic; he engaged, just not with what was asked." },
+        { "distractor": "digression", "closeness": 3, "reasoning": "A 'digression' is a temporary departure from the topic, but his answer isn't off-topic; it's responsive to a different question entirely, which is beyond mere topic-wandering." },
+        { "distractor": "misinterpretation", "closeness": 3, "reasoning": "A 'misinterpretation' is understanding something incorrectly, but his answer suggests he understood a question—just not the one asked—implying deliberate or contextual confusion." },
+        { "distractor": "non-answer", "closeness": 3, "reasoning": "A 'non-answer' is refusing to address a question, but he does answer something; the problem is that his answer doesn't logically relate to what was asked." },
+        { "distractor": "side note", "closeness": 2, "reasoning": "A 'side note' is a tangential comment, but his answer is more fundamentally disconnected—responding to an entirely different implied question, not just adding a tangent." },
+        { "distractor": "aside", "closeness": 2, "reasoning": "An 'aside' is a comment made off to the side, which might relate to his response, but doesn't capture the specific failure of logical connection to the question asked." },
+        { "distractor": "paradox", "closeness": 2, "reasoning": "A 'paradox' is a self-contradictory statement, but his problem isn't contradiction; it's lack of logical connection to what was asked." },
+        { "distractor": "non sequitur", "closeness": 2, "reasoning": "This would be the correct answer itself, so it cannot be a distractor." },
+        { "distractor": "tangent", "closeness": 2, "reasoning": "A 'tangent' is a departure from the main topic, but his answer isn't merely off-topic; it's responding to a question no one asked, a more specific failure." },
+        { "distractor": "relevant", "closeness": 1, "reasoning": "'Relevant' means pertaining to the topic at hand, opposite to his answer which fails to address the actual question." },
+        { "distractor": "coherent", "closeness": 1, "reasoning": "'Coherent' means logical and consistent, contrary to an answer that doesn't logically follow from what was asked." }
+      ]
+    },
+    {
+      "sentence": "The lawyer's closing argument was marred by a non sequitur when she claimed that her client's youth proved his innocence.",
+      "answerChoices": [
+        { "distractor": "red herring", "closeness": 3, "reasoning": "A 'red herring' is a misleading clue that distracts from the real issue, but the lawyer's claim doesn't distract; it makes an unsupported leap in logic." },
+        { "distractor": "fallacy", "closeness": 3, "reasoning": "'Fallacy' is any flawed reasoning, which her leap certainly is, but non sequitur is more specific—a failure of logical consequence." },
+        { "distractor": "contradiction", "closeness": 3, "reasoning": "A 'contradiction' is saying two opposite things, but her claim doesn't contradict itself; it simply doesn't logically follow from the facts." },
+        { "distractor": "speculation", "closeness": 3, "reasoning": "'Speculation' is reasoning without evidence, which might describe her unsupported claim, but a non sequitur specifically fails logical connection, not just evidentiary support." },
+        { "distractor": "assumption", "closeness": 2, "reasoning": "An 'assumption' is taking something for granted without proof, which her claim makes, but non sequitur refers to the logical disconnection itself." },
+        { "distractor": "unsupported claim", "closeness": 2, "reasoning": "An 'unsupported claim' lacks evidence, which her argument has, but non sequitur specifically refers to the illogical leap, not merely lack of support." },
+        { "distractor": "bias", "closeness": 2, "reasoning": "'Bias' is a tendency to favor one side, which might influence her argument, but doesn't describe the logical structure of a non sequitur." },
+        { "distractor": "irrelevance", "closeness": 2, "reasoning": "'Irrelevance' means not pertaining to the issue, which her claim about youth arguably is, but a non sequitur is more about failed logical connection than mere irrelevance." },
+        { "distractor": "logical proof", "closeness": 1, "reasoning": "'Logical proof' would be a valid chain of reasoning, opposite to a non sequitur that breaks logical connection." },
+        { "distractor": "valid inference", "closeness": 1, "reasoning": "A 'valid inference' follows logically from premises, opposite to a non sequitur that fails to logically follow." },
+        { "distractor": "cogent argument", "closeness": 1, "reasoning": "A 'cogent argument' is persuasive and logically sound, contrary to her claim that leaps illogically from youth to innocence." }
+      ]
+    },
+    {
+      "sentence": "The author's novel shifted abruptly into a non sequitur when the protagonist, previously pursuing a career in medicine, suddenly became obsessed with collecting stamps with no explanation given.",
+      "answerChoices": [
+        { "distractor": "plot twist", "closeness": 3, "reasoning": "A 'plot twist' is an unexpected turn in the narrative, which her sudden obsession might be, but without the element of logical disconnection that makes it a non sequitur." },
+        { "distractor": "character development", "closeness": 3, "reasoning": "'Character development' is the evolution of a character, which could explain her interest change, but the sentence says 'no explanation given,' suggesting she's not developing—just shifting illogically." },
+        { "distractor": "inconsistency", "closeness": 3, "reasoning": "An 'inconsistency' is lack of agreement between elements, which describes her behavior change, but non sequitur specifically means a failure of logical consequence." },
+        { "distractor": "contradiction", "closeness": 3, "reasoning": "A 'contradiction' is opposing statements or actions, which her change might seem to be, but non sequitur emphasizes the failure of logical connection specifically." },
+        { "distractor": "detour", "closeness": 2, "reasoning": "A 'detour' is a departure from the main path, which might describe her sudden interest, but doesn't capture the lack of logical foundation in a non sequitur." },
+        { "distractor": "diversion", "closeness": 2, "reasoning": "A 'diversion' is something that diverts attention, which her stamp obsession might do, but non sequitur is about logical disconnection, not narrative diversion." },
+        { "distractor": "regression", "closeness": 2, "reasoning": "'Regression' is moving backward or returning to an earlier state, which might describe abandoning her career, but doesn't specify the illogical nature of the shift." },
+        { "distractor": "subplot", "closeness": 2, "reasoning": "A 'subplot' is a secondary storyline, which stamp collecting might become, but the sentence shows it arises without logical connection, not as an intentional narrative thread." },
+        { "distractor": "natural consequence", "closeness": 1, "reasoning": "A 'natural consequence' logically follows from preceding events, opposite to the illogical, unexplained shift in the protagonist's obsession." },
+        { "distractor": "coherent progression", "closeness": 1, "reasoning": "A 'coherent progression' follows logically from earlier events, contrary to the non sequitur of suddenly becoming obsessed with stamps." },
+        { "distractor": "logical extension", "closeness": 1, "reasoning": "A 'logical extension' follows reasonably from what came before, opposite to her shift into stamp collecting without explanation or logical connection." }
+      ]
+    }
+  ]
+}

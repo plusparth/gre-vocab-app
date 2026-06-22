@@ -1,0 +1,53 @@
+{
+  "word": "discrete",
+  "sentenceSets": [
+    {
+      "sentence": "The program was divided into three discrete phases, each with its own funding, timeline, and accountability structure.",
+      "answerChoices": [
+        { "distractor": "continuous", "closeness": 3, "reasoning": "Continuous means unbroken and flowing; the sentence describes separate phases with distinct funding and timelines, not continuous flow." },
+        { "distractor": "integrated", "closeness": 3, "reasoning": "Integrated means combined into a unified whole; the sentence shows each phase having 'its own' structure, indicating separation, not integration." },
+        { "distractor": "interconnected", "closeness": 3, "reasoning": "Interconnected means linked together; discrete phases have separate funding and timelines, implying they are distinct, not interconnected." },
+        { "distractor": "unified", "closeness": 3, "reasoning": "Unified means combined into one; the sentence describes three separate phases, not a unified structure." },
+        { "distractor": "overlapping", "closeness": 2, "reasoning": "Overlapping means extending across the same space or time; discrete phases with their own timelines do not overlap." },
+        { "distractor": "sequential", "closeness": 2, "reasoning": "Sequential means arranged in order; while the phases may be sequential, the sentence emphasizes their separateness, not their order." },
+        { "distractor": "hierarchical", "closeness": 2, "reasoning": "Hierarchical means arranged in levels of rank; the sentence describes separate phases, not ranked levels." },
+        { "distractor": "monolithic", "closeness": 1, "reasoning": "Monolithic means a single unified structure; the sentence describes three discrete entities, the opposite." },
+        { "distractor": "homogeneous", "closeness": 1, "reasoning": "Homogeneous means all the same; discrete phases are distinct and potentially different from each other." },
+        { "distractor": "synchronized", "closeness": 1, "reasoning": "Synchronized means occurring at the same time; discrete phases have their own separate timelines." },
+        { "distractor": "consolidated", "closeness": 1, "reasoning": "Consolidated means combined or unified; the sentence shows division into separate phases, not consolidation." }
+      ]
+    },
+    {
+      "sentence": "Discrete data categories — such as gender, color, or yes/no responses — require different statistical analysis methods than continuous data.",
+      "answerChoices": [
+        { "distractor": "ambiguous", "closeness": 3, "reasoning": "Ambiguous means unclear or having multiple meanings; discrete categories are specifically defined and distinct, not ambiguous." },
+        { "distractor": "overlapping", "closeness": 3, "reasoning": "Overlapping means sharing common ground; discrete categories are separate and non-overlapping by definition." },
+        { "distractor": "infinite", "closeness": 3, "reasoning": "Infinite means boundless; discrete categories are limited and countable, the opposite of infinite." },
+        { "distractor": "fluid", "closeness": 3, "reasoning": "Fluid means flowing and changeable; discrete categories are fixed and distinct." },
+        { "distractor": "vague", "closeness": 2, "reasoning": "Vague means unclear or imprecise; discrete categories are precisely defined and distinct." },
+        { "distractor": "interchangeable", "closeness": 2, "reasoning": "Interchangeable means substitutable; discrete categories are distinct and cannot be substituted for one another." },
+        { "distractor": "merged", "closeness": 2, "reasoning": "Merged means combined; discrete categories remain separate and distinct." },
+        { "distractor": "numerical", "closeness": 1, "reasoning": "Numerical means expressed in numbers; discrete categories include non-numerical options like color or gender." },
+        { "distractor": "measurable", "closeness": 1, "reasoning": "Measurable means able to be quantified; while discrete categories can be counted, the distinction is not about measurability." },
+        { "distractor": "continuous", "closeness": 1, "reasoning": "Continuous is explicitly mentioned in the sentence as the opposite of discrete data." },
+        { "distractor": "abstract", "closeness": 1, "reasoning": "Abstract means theoretical or non-concrete; discrete categories like color or gender are concrete and specific." }
+      ]
+    },
+    {
+      "sentence": "The company's discrete business units operate independently, rarely sharing resources or coordinating strategic decisions.",
+      "answerChoices": [
+        { "distractor": "integrated", "closeness": 3, "reasoning": "Integrated means combined into a unified whole; the sentence shows business units operating 'independently,' not integrated." },
+        { "distractor": "coordinated", "closeness": 3, "reasoning": "Coordinated means working together in harmony; the sentence states units 'rarely' coordinate, contradicting this." },
+        { "distractor": "collaborative", "closeness": 3, "reasoning": "Collaborative means working together cooperatively; discrete units operate independently and don't share resources." },
+        { "distractor": "synergistic", "closeness": 3, "reasoning": "Synergistic means producing greater effect together; discrete independent units fail to produce synergy." },
+        { "distractor": "consolidated", "closeness": 2, "reasoning": "Consolidated means combined or unified; discrete units remain separate." },
+        { "distractor": "centralized", "closeness": 2, "reasoning": "Centralized means controlled from one point; discrete units operating independently indicates decentralization." },
+        { "distractor": "interconnected", "closeness": 2, "reasoning": "Interconnected means linked together; discrete units with separate resource systems are not interconnected." },
+        { "distractor": "unified", "closeness": 1, "reasoning": "Unified means combined into one; discrete units operating independently are not unified." },
+        { "distractor": "merged", "closeness": 1, "reasoning": "Merged means combined; discrete units remain separate." },
+        { "distractor": "allied", "closeness": 1, "reasoning": "Allied means joined together for a common purpose; discrete units with separate strategies are not allied." },
+        { "distractor": "subordinate", "closeness": 1, "reasoning": "Subordinate means under the control of; discrete units operating independently are not under single control." }
+      ]
+    }
+  ]
+}

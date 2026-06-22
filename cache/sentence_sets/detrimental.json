@@ -1,0 +1,53 @@
+{
+  "word": "detrimental",
+  "sentenceSets": [
+    {
+      "sentence": "The decision proved detrimental to the organization's reputation, raising doubts that took years to address.",
+      "answerChoices": [
+        { "distractor": "damaging", "closeness": 3, "reasoning": "Damaging and detrimental are nearly synonymous, both meaning causing harm, though detrimental emphasizes the negative effect more formally." },
+        { "distractor": "harmful", "closeness": 3, "reasoning": "Harmful and detrimental are very close, both meaning causing injury or damage, though detrimental is more formal." },
+        { "distractor": "injurious", "closeness": 3, "reasoning": "Injurious means causing injury or damage, very close to detrimental, but is somewhat less commonly used." },
+        { "distractor": "adverse", "closeness": 3, "reasoning": "Adverse means opposing or unfavorable, which the decision was for the organization, but is slightly less forceful than detrimental." },
+        { "distractor": "negative", "closeness": 2, "reasoning": "Negative describes the unfavorable nature, but is too broad and informal compared to detrimental." },
+        { "distractor": "bad", "closeness": 2, "reasoning": "Bad is too general and informal; detrimental is more specific about causing harm or damage." },
+        { "distractor": "harmful", "closeness": 2, "reasoning": "Harmful describes causing damage, which detrimental does, but is less formal." },
+        { "distractor": "unfavorable", "closeness": 2, "reasoning": "Unfavorable means not favorable or pleasing, but does not specifically convey the harmful nature." },
+        { "distractor": "beneficial", "closeness": 1, "reasoning": "Beneficial means helpful or promoting well-being, which is the opposite of detrimental." },
+        { "distractor": "advantageous", "closeness": 1, "reasoning": "Advantageous means favorable or providing an advantage, which is the opposite of detrimental." },
+        { "distractor": "positive", "closeness": 1, "reasoning": "Positive means favorable or affirming, which is the opposite of detrimental damage." }
+      ]
+    },
+    {
+      "sentence": "Chronic sleep deprivation is detrimental to cognitive function, impairing memory, attention, and decision-making abilities.",
+      "answerChoices": [
+        { "distractor": "hurtful", "closeness": 3, "reasoning": "Hurtful means causing pain or distress, but is more informal and subjective than detrimental's objective harm." },
+        { "distractor": "deleterious", "closeness": 3, "reasoning": "Deleterious and detrimental are nearly synonymous, both meaning harmful, though deleterious is even more formal." },
+        { "distractor": "destructive", "closeness": 3, "reasoning": "Destructive means causing ruin or damage, which sleep deprivation is to cognitive function, but is more emphatic." },
+        { "distractor": "compromising", "closeness": 3, "reasoning": "Compromising means weakening the integrity of something, which sleep deprivation does to cognition, but emphasizes weakening." },
+        { "distractor": "debilitating", "closeness": 2, "reasoning": "Debilitating means making weak or feeble, which sleep deprivation causes, but emphasizes weakness more than harm." },
+        { "distractor": "weakening", "closeness": 2, "reasoning": "Weakening means making less strong, which sleep deprivation does to cognition, but is less specific about the harm." },
+        { "distractor": "impairing", "closeness": 2, "reasoning": "Impairing means damaging or lessening, which the sentence uses; detrimental is broader about the negative effect." },
+        { "distractor": "undermining", "closeness": 2, "reasoning": "Undermining means weakening the foundation of, which sleep deprivation does, but emphasizes the weakening process." },
+        { "distractor": "beneficial", "closeness": 1, "reasoning": "Beneficial means helpful or promoting health, which is the opposite of detrimental." },
+        { "distractor": "restorative", "closeness": 1, "reasoning": "Restorative means restoring health or strength, which is the opposite of sleep deprivation's detrimental effect." },
+        { "distractor": "healing", "closeness": 1, "reasoning": "Healing means promoting recovery or well-being, which is the opposite of detrimental sleep deprivation." }
+      ]
+    },
+    {
+      "sentence": "The scandal had a detrimental effect on the politician's career, leading to resignation and permanent damage to credibility.",
+      "answerChoices": [
+        { "distractor": "serious", "closeness": 3, "reasoning": "Serious means grave or important, which the scandal was, but does not necessarily mean harmful." },
+        { "distractor": "grave", "closeness": 3, "reasoning": "Grave describes something serious or important, but does not specifically convey harm as detrimental does." },
+        { "distractor": "devastating", "closeness": 3, "reasoning": "Devastating means causing great damage, which the scandal was, but is more emphatic than detrimental." },
+        { "distractor": "ruinous", "closeness": 3, "reasoning": "Ruinous means causing ruin or destruction, which the scandal was, but is more extreme than detrimental." },
+        { "distractor": "unfortunate", "closeness": 2, "reasoning": "Unfortunate means regrettable or unlucky, but does not specifically mean harmful or damaging." },
+        { "distractor": "negative", "closeness": 2, "reasoning": "Negative describes the unfavorable nature, but is too broad compared to detrimental." },
+        { "distractor": "unfavorable", "closeness": 2, "reasoning": "Unfavorable means not favorable, but does not necessarily convey harm." },
+        { "distractor": "troublesome", "closeness": 2, "reasoning": "Troublesome means causing difficulty or annoyance, but does not convey the serious harm of detrimental." },
+        { "distractor": "beneficial", "closeness": 1, "reasoning": "Beneficial means helpful or promoting well-being, which is the opposite of a scandal's detrimental effect." },
+        { "distractor": "rehabilitative", "closeness": 1, "reasoning": "Rehabilitative means restoring to former condition, which is the opposite of the scandal's detrimental effect." },
+        { "distractor": "restorative", "closeness": 1, "reasoning": "Restorative means restoring health or strength, which is the opposite of a scandal's detrimental impact." }
+      ]
+    }
+  ]
+}

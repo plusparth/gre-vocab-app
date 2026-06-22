@@ -1,0 +1,53 @@
+{
+  "word": "omission",
+  "sentenceSets": [
+    {
+      "sentence": "The omission was deliberate; including the figure would have undermined the conclusion the report was designed to support.",
+      "answerChoices": [
+        { "distractor": "oversight", "closeness": 3, "reasoning": "'Oversight' means failure to notice or an unintentional act of ignoring, but the sentence emphasizes deliberateness, whereas 'omission' can result from either intent or accident." },
+        { "distractor": "exclusion", "closeness": 3, "reasoning": "'Exclusion' means the act of shutting out or excluding, which is what happened, but 'omission' emphasizes something left out or undone." },
+        { "distractor": "negligence", "closeness": 3, "reasoning": "'Negligence' means failure through carelessness, but the sentence shows the omission was deliberate, not careless." },
+        { "distractor": "deletion", "closeness": 3, "reasoning": "'Deletion' means the act of removing or erasing, which was done to the figure, but 'omission' more broadly means leaving something out." },
+        { "distractor": "gap", "closeness": 2, "reasoning": "'Gap' means an opening or space, which the omission created in the report, but 'omission' more specifically refers to the act of leaving something out." },
+        { "distractor": "void", "closeness": 2, "reasoning": "'Void' means an empty space, which the omission created, but 'omission' refers to the deliberate act of leaving something out." },
+        { "distractor": "absence", "closeness": 2, "reasoning": "'Absence' means the state of not being present, which the figure had, but 'omission' specifically refers to the act of leaving it out." },
+        { "distractor": "inclusion", "closeness": 1, "reasoning": "'Inclusion' means the act of including or comprising, which is the opposite of what the sentence describes—leaving something out." },
+        { "distractor": "addition", "closeness": 1, "reasoning": "'Addition' means the act of adding, the opposite of leaving something out as the deliberate omission did." },
+        { "distractor": "mention", "closeness": 1, "reasoning": "'Mention' means to refer to or speak of, the opposite of omitting something from a report." },
+        { "distractor": "emphasis", "closeness": 1, "reasoning": "'Emphasis' means special importance or prominence, opposite to deliberately leaving something out of a report." }
+      ]
+    },
+    {
+      "sentence": "The omission of key safety data from the medical study was later revealed in an investigation, calling into question the original results.",
+      "answerChoices": [
+        { "distractor": "exclusion", "closeness": 3, "reasoning": "'Exclusion' means the act of shutting out, which is what happened to safety data, but 'omission' more broadly refers to leaving something undone or out." },
+        { "distractor": "withholding", "closeness": 3, "reasoning": "'Withholding' means deliberately refusing to give or grant, which is what occurred with the data, but 'omission' more generally means leaving something out." },
+        { "distractor": "concealment", "closeness": 3, "reasoning": "'Concealment' means hiding or keeping secret, which the study participants did, but 'omission' specifically refers to leaving something out, not necessarily hiding it." },
+        { "distractor": "suppression", "closeness": 3, "reasoning": "'Suppression' means preventing publication or expression, which was done to the data, but 'omission' more broadly means leaving something undone." },
+        { "distractor": "censorship", "closeness": 2, "reasoning": "'Censorship' means official suppression of material, which the omission resembled, but 'omission' is not necessarily official action." },
+        { "distractor": "erasure", "closeness": 2, "reasoning": "'Erasure' means complete removal or deletion, which happened to the data in the study, but 'omission' more generally means leaving out." },
+        { "distractor": "silence", "closeness": 2, "reasoning": "'Silence' means failure to speak about something, which the study maintained about safety data, but 'omission' more specifically refers to the act of leaving undone." },
+        { "distractor": "inclusion", "closeness": 1, "reasoning": "'Inclusion' means the act of including, the opposite of what the omission represents—leaving out safety data." },
+        { "distractor": "revelation", "closeness": 1, "reasoning": "'Revelation' means disclosure or unveiling, opposite to the omission of data from the original study report." },
+        { "distractor": "transparency", "closeness": 1, "reasoning": "'Transparency' means openness and candor, opposite to omitting safety data from a medical study." },
+        { "distractor": "honesty", "closeness": 1, "reasoning": "'Honesty' means truthfulness and integrity, opposite to deliberately omitting key data from a study." }
+      ]
+    },
+    {
+      "sentence": "The architect regretted the omission of a groundwater runoff system from the site plan, realizing only after construction began that flooding would be inevitable.",
+      "answerChoices": [
+        { "distractor": "oversight", "closeness": 3, "reasoning": "'Oversight' means an unintentional failure to notice, which this was, but the sentence emphasizes the regret after the fact, suggesting it might have been an oversight rather than intent." },
+        { "distractor": "gap", "closeness": 3, "reasoning": "'Gap' means an opening or space in a plan, which the missing system created, but 'omission' more specifically refers to the act of leaving something out." },
+        { "distractor": "exclusion", "closeness": 3, "reasoning": "'Exclusion' means deliberately leaving out, which happened to the drainage system, but 'omission' more broadly includes both intentional and unintentional leaving out." },
+        { "distractor": "disregard", "closeness": 3, "reasoning": "'Disregard' means to ignore or treat as unimportant, which the architect did with the system, but 'omission' more specifically refers to the act of leaving out." },
+        { "distractor": "error", "closeness": 2, "reasoning": "'Error' means a mistake, which the omission was, but 'omission' more specifically refers to the act of leaving something undone." },
+        { "distractor": "lapse", "closeness": 2, "reasoning": "'Lapse' means a temporary failure or break, which the omission was, but 'omission' more formally refers to something left out." },
+        { "distractor": "default", "closeness": 2, "reasoning": "'Default' means failure to do something required, which the omission was, but does not as directly refer to leaving something out as 'omission' does." },
+        { "distractor": "inclusion", "closeness": 1, "reasoning": "'Inclusion' means the act of including, the opposite of omitting the groundwater runoff system." },
+        { "distractor": "addition", "closeness": 1, "reasoning": "'Addition' means adding something, the opposite of leaving out the runoff system as the omission did." },
+        { "distractor": "integration", "closeness": 1, "reasoning": "'Integration' means combining or incorporating, opposite to omitting a crucial system from the plan." },
+        { "distractor": "completion", "closeness": 1, "reasoning": "'Completion' means finishing or making whole, opposite to the omission that left the plan incomplete." }
+      ]
+    }
+  ]
+}

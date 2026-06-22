@@ -1,0 +1,53 @@
+{
+  "word": "oblique",
+  "sentenceSets": [
+    {
+      "sentence": "His oblique reference to the earlier failure was understood by everyone in the room who had been present for it.",
+      "answerChoices": [
+        { "distractor": "vague", "closeness": 3, "reasoning": "Vagueness is unclear, and his reference was unclear to those unfamiliar with the context, but the sentence shows those present understood it, suggesting it was indirect rather than vague." },
+        { "distractor": "indirect", "closeness": 3, "reasoning": "Indirect communication doesn't state things directly, similar to oblique, but the sentence shows those present understood it, suggesting something more specific than mere indirectness." },
+        { "distractor": "subtle", "closeness": 3, "reasoning": "Subtlety avoids obviousness, but the sentence shows those present understood his reference, suggesting he pointed at the failure, not subtly hinted." },
+        { "distractor": "cryptic", "closeness": 3, "reasoning": "Cryptic is mysterious and hard to decode, but the sentence shows those present understood the reference, suggesting it was pointed but indirect." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "Ambiguity allows multiple interpretations, but the sentence shows those present understood the reference, suggesting it had one clear meaning to insiders." },
+        { "distractor": "veiled", "closeness": 2, "reasoning": "Veiling obscures meaning, but the sentence shows those present understood the reference, suggesting it was pointed but sideways." },
+        { "distractor": "unclear", "closeness": 2, "reasoning": "Unclear suggests confusing, but the sentence shows those present understood his reference, suggesting it was clear to insiders." },
+        { "distractor": "sarcastic", "closeness": 2, "reasoning": "Sarcasm uses irony mockingly, but the sentence shows his reference to a failure, not necessarily mocking." },
+        { "distractor": "direct", "closeness": 1, "reasoning": "Direct states things plainly; the sentence shows his reference was understood by those present, suggesting it was not stated directly." },
+        { "distractor": "explicit", "closeness": 1, "reasoning": "Explicit is clearly stated; the sentence shows his reference was understood by insiders, suggesting it was not explicit." },
+        { "distractor": "straightforward", "closeness": 1, "reasoning": "Straightforward is clear and direct; the sentence shows his reference was indirect, understood only by those present." }
+      ]
+    },
+    {
+      "sentence": "The lawyer's oblique questioning strategy led the witness to reveal more than she intended, as she failed to notice where the seemingly innocent questions were aimed.",
+      "answerChoices": [
+        { "distractor": "friendly", "closeness": 3, "reasoning": "Friendly questions might seem innocent, but the sentence requires a word about approaching the topic from the side, not being friendly." },
+        { "distractor": "indirect", "closeness": 3, "reasoning": "Indirect questioning doesn't ask directly, similar to oblique, but the sentence emphasizes how the witness missed the lawyer's real goal." },
+        { "distractor": "clever", "closeness": 3, "reasoning": "Clever questions are smart, but the sentence requires a word describing the approach as sideways, not direct." },
+        { "distractor": "misleading", "closeness": 3, "reasoning": "Misleading questions trick people, but the sentence shows the lawyer approached from an angle, not that she misled." },
+        { "distractor": "gentle", "closeness": 2, "reasoning": "Gentle questions are mild, but the sentence requires a word about the approach being sideways." },
+        { "distractor": "subtle", "closeness": 2, "reasoning": "Subtle questions avoid obviousness, but the sentence shows the lawyer aimed the questions somewhere, not subtly suggested." },
+        { "distractor": "intricate", "closeness": 2, "reasoning": "Intricate questions are complex, but the sentence shows the questions seemed innocent, not complex." },
+        { "distractor": "probing", "closeness": 2, "reasoning": "Probing questions investigate, but the sentence shows the questions seemed innocent, and the witness didn't notice where they aimed." },
+        { "distractor": "direct", "closeness": 1, "reasoning": "Direct questioning asks straightforwardly; the sentence shows the lawyer's questions seemed innocent because they approached from the side." },
+        { "distractor": "blunt", "closeness": 1, "reasoning": "Blunt questions are plainly stated; the sentence shows the witness failed to notice the lawyer's real aim, suggesting not blunt." },
+        { "distractor": "obvious", "closeness": 1, "reasoning": "Obvious questions make the intent clear; the sentence shows the witness failed to notice where the lawyer's questions aimed." }
+      ]
+    },
+    {
+      "sentence": "Rather than directly criticize her coworker's work, she made oblique comments about process improvements, hoping he would take the hint.",
+      "answerChoices": [
+        { "distractor": "subtle", "closeness": 3, "reasoning": "Subtlety avoids obviousness, but the sentence shows she hoped he would understand the hint, suggesting she pointed toward something." },
+        { "distractor": "indirect", "closeness": 3, "reasoning": "Indirect communication doesn't state things directly, similar to oblique, but the sentence shows she hoped he would take the hint." },
+        { "distractor": "veiled", "closeness": 3, "reasoning": "Veiling obscures, but the sentence shows she was trying to communicate something about his work through comments about process." },
+        { "distractor": "gentle", "closeness": 3, "reasoning": "Gentleness softens criticism, but the sentence shows her comments approached the work indirectly through process talk." },
+        { "distractor": "cryptic", "closeness": 2, "reasoning": "Cryptic communication is mysterious, but the sentence shows she hoped he would understand the hint, suggesting pointed indirectness." },
+        { "distractor": "vague", "closeness": 2, "reasoning": "Vagueness is unclear, but the sentence shows she hoped he would take a hint, suggesting her comments pointed somewhere." },
+        { "distractor": "sarcastic", "closeness": 2, "reasoning": "Sarcasm uses irony mockingly, but the sentence shows she made comments about process improvements, not mocking remarks." },
+        { "distractor": "diplomatic", "closeness": 2, "reasoning": "Diplomacy handles disagreement tactfully, but the sentence shows she made comments about process, not diplomatic criticism." },
+        { "distractor": "direct", "closeness": 1, "reasoning": "Direct criticism states problems plainly; the sentence shows she made oblique comments rather than criticizing directly." },
+        { "distractor": "blunt", "closeness": 1, "reasoning": "Blunt criticism is plainly stated; the sentence shows she avoided direct criticism through oblique comments." },
+        { "distractor": "honest", "closeness": 1, "reasoning": "Honesty states truth plainly; the sentence shows she made oblique comments rather than honest criticism." }
+      ]
+    }
+  ]
+}

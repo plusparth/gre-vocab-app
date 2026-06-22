@@ -1,0 +1,53 @@
+{
+  "word": "affective",
+  "sentenceSets": [
+    {
+      "sentence": "The therapist focused on affective disorders, particularly the ways grief alters daily behavior.",
+      "answerChoices": [
+        { "distractor": "emotional", "closeness": 3, "reasoning": "Emotional relates to feelings, very close to affective, but is broader and doesn't emphasize the clinical or medical context that affective suggests." },
+        { "distractor": "psychological", "closeness": 3, "reasoning": "Psychological relates to the mind, fitting the therapeutic context, but is broader than affective's focus on emotions and feelings." },
+        { "distractor": "behavioral", "closeness": 3, "reasoning": "Behavioral relates to actions and responses, and the sentence mentions behavioral changes, but affective specifically emphasizes emotional/feeling disorders." },
+        { "distractor": "mental", "closeness": 3, "reasoning": "Mental relates to the mind, fitting the therapeutic context, but is broader than affective's specific focus on emotional and feeling disorders." },
+        { "distractor": "mood-related", "closeness": 2, "reasoning": "Mood-related fits the emotional aspect, but is more colloquial than affective's formal clinical usage." },
+        { "distractor": "neurological", "closeness": 2, "reasoning": "Neurological pertains to brain and nerves, related to mental health, but doesn't specifically address emotional and feeling dimensions." },
+        { "distractor": "cognitive", "closeness": 2, "reasoning": "Cognitive pertains to thinking and reasoning, aspects of mental health but distinct from affective's focus on feelings." },
+        { "distractor": "psychiatric", "closeness": 2, "reasoning": "Psychiatric pertains to mental illness treatment, overlapping with the context, but is broader than affective specifically." },
+        { "distractor": "physical", "closeness": 1, "reasoning": "Physical pertains to the body; affective disorders concern feelings and emotions, not primarily physical symptoms." },
+        { "distractor": "somatic", "closeness": 1, "reasoning": "Somatic pertains to the body; affective pertains to emotions—opposite domains." },
+        { "distractor": "objective", "closeness": 1, "reasoning": "Objective means unaffected by emotion; affective means relating to emotions—opposite qualities." }
+      ]
+    },
+    {
+      "sentence": "The film's affective power came from its raw depiction of loss, moving audiences to tears.",
+      "answerChoices": [
+        { "distractor": "emotional", "closeness": 3, "reasoning": "Emotional relates to feelings, very close to affective, but is broader and less emphasizes the power to evoke feelings." },
+        { "distractor": "moving", "closeness": 3, "reasoning": "Moving means stirring emotions, essentially synonymous with affective power, but is colloquial rather than technical." },
+        { "distractor": "powerful", "closeness": 3, "reasoning": "Powerful denotes strength, but doesn't specifically convey the emotional or feeling-related dimension that affective denotes." },
+        { "distractor": "evocative", "closeness": 3, "reasoning": "Evocative means evoking emotions, very close to affective power, but is broader and doesn't emphasize the feeling-related dimension specifically." },
+        { "distractor": "dramatic", "closeness": 2, "reasoning": "Dramatic denotes intense presentation, but doesn't necessarily relate to emotional impact specifically." },
+        { "distractor": "poignant", "closeness": 2, "reasoning": "Poignant denotes affecting the feelings, close to affective, but emphasizes sadness rather than the broad spectrum of emotional impact." },
+        { "distractor": "impactful", "closeness": 2, "reasoning": "Impactful means having a strong effect, but doesn't specifically address the emotional or feeling dimensions." },
+        { "distractor": "artistic", "closeness": 2, "reasoning": "Artistic denotes creative expression, but doesn't specifically address emotional or feeling impact." },
+        { "distractor": "intellectual", "closeness": 1, "reasoning": "Intellectual pertains to thinking; affective pertains to feeling—the sentence contrasts moving audiences with intellectual understanding." },
+        { "distractor": "objective", "closeness": 1, "reasoning": "Objective means unaffected by emotion; affective power specifically affects emotions—opposite qualities." },
+        { "distractor": "detached", "closeness": 1, "reasoning": "Detached means unengaged; affective power moves audiences emotionally—opposite effects." }
+      ]
+    },
+    {
+      "sentence": "The therapist noted affective flattening in the patient, who showed little emotional response to good or bad news.",
+      "answerChoices": [
+        { "distractor": "emotional", "closeness": 3, "reasoning": "Emotional pertains to feelings, close to affective, but is broader and doesn't emphasize the clinical sense of mood or feeling response." },
+        { "distractor": "mood-related", "closeness": 3, "reasoning": "Mood-related fits the feeling dimension, but is colloquial and doesn't convey the formal clinical meaning of affective." },
+        { "distractor": "behavioral", "closeness": 3, "reasoning": "Behavioral relates to observable actions, and the sentence notes observable lack of response, but affective specifically emphasizes emotional response." },
+        { "distractor": "personality", "closeness": 3, "reasoning": "Personality denotes characteristic traits, and lack of response might seem like personality, but affective flattening is a clinical symptom." },
+        { "distractor": "mental", "closeness": 2, "reasoning": "Mental relates to the mind broadly, fitting the clinical context, but is broader than affective's specific focus on emotional response." },
+        { "distractor": "psychological", "closeness": 2, "reasoning": "Psychological pertains to mental processes broadly, but doesn't specifically address the feeling or emotional dimension." },
+        { "distractor": "cognitive", "closeness": 2, "reasoning": "Cognitive pertains to thinking, but affective flattening concerns emotional response, not primarily cognitive function." },
+        { "distractor": "social", "closeness": 2, "reasoning": "Social pertains to interpersonal interaction, which might be affected, but affective specifically addresses emotional response." },
+        { "distractor": "physical", "closeness": 1, "reasoning": "Physical pertains to the body; affective flattening is an emotional symptom, not a physical condition." },
+        { "distractor": "intellectual", "closeness": 1, "reasoning": "Intellectual pertains to thinking; affective flattening concerns emotional response—different domains." },
+        { "distractor": "social", "closeness": 1, "reasoning": "Social pertains to relationships; affective flattening is an internal emotional response—different domains." }
+      ]
+    }
+  ]
+}

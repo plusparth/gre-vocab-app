@@ -1,0 +1,53 @@
+{
+  "word": "haptic",
+  "sentenceSets": [
+    {
+      "sentence": "Modern smartphones use haptic feedback to simulate the sensation of physical buttons and keys.",
+      "answerChoices": [
+        { "distractor": "visual", "closeness": 3, "reasoning": "Visual relates to sight, but haptic refers specifically to touch sensation, not vision." },
+        { "distractor": "sensory", "closeness": 3, "reasoning": "Sensory refers to sensation generally, but haptic specifically refers to touch sensation." },
+        { "distractor": "tactile", "closeness": 3, "reasoning": "Tactile means related to touch, nearly synonymous with haptic, but haptic emphasizes technology-based touch feedback." },
+        { "distractor": "kinesthetic", "closeness": 3, "reasoning": "Kinesthetic refers to motion and body awareness, but haptic specifically refers to touch sensation." },
+        { "distractor": "audio", "closeness": 2, "reasoning": "Audio relates to sound, but haptic refers to touch sensation, not sound." },
+        { "distractor": "digital", "closeness": 2, "reasoning": "Digital refers to electronic data, but haptic refers to touch sensation technology." },
+        { "distractor": "mechanical", "closeness": 2, "reasoning": "Mechanical refers to physical machines, but haptic refers to touch-based feedback technology." },
+        { "distractor": "electromagnetic", "closeness": 2, "reasoning": "Electromagnetic describes force or radiation, but haptic refers specifically to touch sensation." },
+        { "distractor": "invisible", "closeness": 1, "reasoning": "Invisible means not visible, but haptic feedback involves physical sensation that can be felt." },
+        { "distractor": "intangible", "closeness": 1, "reasoning": "Intangible means not physical or cannot be touched, opposite to haptic which is felt through touch." },
+        { "distractor": "static", "closeness": 1, "reasoning": "Static means unchanging, but haptic feedback is dynamic and responsive to user interaction." }
+      ]
+    },
+    {
+      "sentence": "The haptic glove allowed surgeons to feel tissue resistance and temperature during minimally invasive procedures.",
+      "answerChoices": [
+        { "distractor": "thermal", "closeness": 3, "reasoning": "Thermal refers to heat, but haptic refers to touch sensation generally, including texture and resistance." },
+        { "distractor": "sensory", "closeness": 3, "reasoning": "Sensory is a broad term for sensation, but haptic specifically refers to touch sensation." },
+        { "distractor": "interactive", "closeness": 3, "reasoning": "Interactive means involving mutual action, but haptic refers specifically to touch feedback." },
+        { "distractor": "responsive", "closeness": 3, "reasoning": "Responsive means reacting to stimuli, but haptic refers specifically to touch sensation." },
+        { "distractor": "force-feedback", "closeness": 2, "reasoning": "Force-feedback is related to haptic feedback, but it emphasizes force rather than the broader tactile sensation." },
+        { "distractor": "pressure-sensitive", "closeness": 2, "reasoning": "Pressure-sensitive detects pressure, but haptic refers to touch feedback including resistance and temperature." },
+        { "distractor": "virtual", "closeness": 2, "reasoning": "Virtual means simulated, but haptic technology creates real touch sensations, not virtual ones." },
+        { "distractor": "precision", "closeness": 2, "reasoning": "Precision refers to accuracy, but haptic refers to touch-based feedback." },
+        { "distractor": "non-contact", "closeness": 1, "reasoning": "Non-contact means without physical touch, opposite to haptic which requires touch sensation." },
+        { "distractor": "remote", "closeness": 1, "reasoning": "Remote suggests distance, but haptic feedback creates direct tactile sensation." },
+        { "distractor": "optical", "closeness": 1, "reasoning": "Optical relates to light or vision, opposite to haptic which is about touch." }
+      ]
+    },
+    {
+      "sentence": "Game controllers with haptic technology provide immersive feedback that enhances the player's sense of engagement.",
+      "answerChoices": [
+        { "distractor": "acoustic", "closeness": 3, "reasoning": "Acoustic relates to sound, but haptic refers to touch sensation, not sound." },
+        { "distractor": "sensory", "closeness": 3, "reasoning": "Sensory is general sensation; haptic specifically refers to touch sensation technology." },
+        { "distractor": "immersive", "closeness": 3, "reasoning": "Immersive means creating a deeply engaging experience, but haptic specifically refers to touch feedback." },
+        { "distractor": "physical", "closeness": 3, "reasoning": "Physical relates to matter or body, but haptic specifically refers to touch sensation technology." },
+        { "distractor": "vibrational", "closeness": 2, "reasoning": "Vibrational refers to vibration, which is one component of haptic feedback but not all of it." },
+        { "distractor": "tactile-response", "closeness": 2, "reasoning": "Tactile-response is related to haptic, but emphasizes response rather than technology." },
+        { "distractor": "motion-capture", "closeness": 2, "reasoning": "Motion-capture records movement, but haptic provides touch feedback, not movement capture." },
+        { "distractor": "real-time", "closeness": 2, "reasoning": "Real-time means immediate, but haptic refers specifically to touch sensation technology." },
+        { "distractor": "visual", "closeness": 1, "reasoning": "Visual relates to sight, opposite to haptic which is touch." },
+        { "distractor": "virtual", "closeness": 1, "reasoning": "Virtual means simulated without physical substance, but haptic technology creates real touch sensations." },
+        { "distractor": "abstract", "closeness": 1, "reasoning": "Abstract means not concrete, but haptic feedback is concrete and physical." }
+      ]
+    }
+  ]
+}

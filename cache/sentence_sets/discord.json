@@ -1,0 +1,53 @@
+{
+  "word": "discord",
+  "sentenceSets": [
+    {
+      "sentence": "The discord between the two co-founders became public when they issued contradictory statements on the same day.",
+      "answerChoices": [
+        { "distractor": "harmony", "closeness": 3, "reasoning": "Harmony is agreement and pleasing accord; the contradictory statements prove the opposite — lack of alignment and disagreement." },
+        { "distractor": "cooperation", "closeness": 3, "reasoning": "Cooperation is working together; contradictory public statements indicate failure to cooperate, not cooperation." },
+        { "distractor": "solidarity", "closeness": 3, "reasoning": "Solidarity is unity of purpose; issuing opposing statements shows a lack of unified purpose." },
+        { "distractor": "alignment", "closeness": 3, "reasoning": "Alignment is being in line or agreement; the contradictory statements prove the founders were not aligned." },
+        { "distractor": "consensus", "closeness": 2, "reasoning": "Consensus is general agreement; contradictory statements indicate failure to reach consensus." },
+        { "distractor": "accord", "closeness": 2, "reasoning": "Accord is agreement; the contradictory statements explicitly contradict any accord between them." },
+        { "distractor": "understanding", "closeness": 2, "reasoning": "Understanding is mutual comprehension; contradictory statements indicate lack of shared understanding." },
+        { "distractor": "unity", "closeness": 1, "reasoning": "Unity is oneness; the public contradiction shows division and separation, not unity." },
+        { "distractor": "peace", "closeness": 1, "reasoning": "Peace is absence of conflict; public contradictory statements indicate active conflict." },
+        { "distractor": "truce", "closeness": 1, "reasoning": "A truce is a temporary cessation of hostilities; contradictory statements suggest active conflict, not a truce." },
+        { "distractor": "partnership", "closeness": 1, "reasoning": "Partnership is a collaborative relationship; contradictory statements indicate breakdown of partnership." }
+      ]
+    },
+    {
+      "sentence": "The discord of the instruments tuning backstage created an cacophony that jarred the audience's nerves before the concert began.",
+      "answerChoices": [
+        { "distractor": "harmony", "closeness": 3, "reasoning": "Harmony is pleasing accord of sounds; the discord 'jarred nerves,' showing the opposite — unpleasing, clashing sounds." },
+        { "distractor": "melody", "closeness": 3, "reasoning": "Melody is a coherent sequence of notes; tuning discord consists of random, clashing tones, not organized melody." },
+        { "distractor": "symphony", "closeness": 3, "reasoning": "A symphony is an organized, unified orchestral composition; the backstage tuning creates cacophony, the opposite of organization." },
+        { "distractor": "consonance", "closeness": 3, "reasoning": "Consonance is pleasing agreement of sounds; the sentence's 'jarred nerves' indicates unpleasant clashing, the opposite." },
+        { "distractor": "rhythm", "closeness": 2, "reasoning": "Rhythm is organized temporal pattern in music; the backstage tuning is characterized by jarring randomness, not rhythmic organization." },
+        { "distractor": "concord", "closeness": 2, "reasoning": "Concord is agreement or harmony; the cacophonic tuning indicates disagreement and clash." },
+        { "distractor": "euphony", "closeness": 2, "reasoning": "Euphony is pleasing sound; the sentence emphasizes 'jarring' effect, the opposite of pleasurable sound." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence is absence of sound; the backstage tuning creates noise and cacophony." },
+        { "distractor": "quiet", "closeness": 1, "reasoning": "Quiet is absence of loud sound; the cacophony that 'jarred nerves' proves the opposite of quiet." },
+        { "distractor": "peace", "closeness": 1, "reasoning": "Peace suggests calm and serenity; the jarring cacophony disturbs rather than creates peace." },
+        { "distractor": "rest", "closeness": 1, "reasoning": "Rest in musical notation is silence; the Discord of tuning produces sound, not rest." }
+      ]
+    },
+    {
+      "sentence": "Religious discord between neighboring communities festered for generations, with each group viewing the other as a threat to their values.",
+      "answerChoices": [
+        { "distractor": "tolerance", "closeness": 3, "reasoning": "Tolerance is accepting differences; the sentence describes each group viewing the other as a 'threat,' indicating intolerance." },
+        { "distractor": "coexistence", "closeness": 3, "reasoning": "Coexistence is living together peacefully; the sentence shows festering conflict and perceived threat, not peaceful coexistence." },
+        { "distractor": "reconciliation", "closeness": 3, "reasoning": "Reconciliation is resolving differences; the sentence shows discord festering over generations, the opposite of being resolved." },
+        { "distractor": "synergy", "closeness": 3, "reasoning": "Synergy is cooperative interaction producing greater results; the sentence shows mutual antagonism and threat perception." },
+        { "distractor": "accord", "closeness": 2, "reasoning": "Accord is agreement; the communities view each other as threats, indicating complete lack of accord." },
+        { "distractor": "mutual respect", "closeness": 2, "reasoning": "Mutual respect is honoring each other's worth; viewing another group as a threat to values contradicts respect." },
+        { "distractor": "dialogue", "closeness": 2, "reasoning": "Dialogue is communication to resolve differences; festering discord for generations suggests lack of meaningful dialogue." },
+        { "distractor": "peace", "closeness": 1, "reasoning": "Peace is absence of conflict; festering discord for generations indicates ongoing conflict." },
+        { "distractor": "unity", "closeness": 1, "reasoning": "Unity is oneness; the sentence describes separate communities in conflict, not unified." },
+        { "distractor": "cooperation", "closeness": 1, "reasoning": "Cooperation is working together; each group viewing the other as a threat indicates failure to cooperate." },
+        { "distractor": "alliance", "closeness": 1, "reasoning": "An alliance is a partnership or union; festering religious conflict indicates absence of alliance." }
+      ]
+    }
+  ]
+}

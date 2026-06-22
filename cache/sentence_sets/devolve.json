@@ -1,0 +1,53 @@
+{
+  "word": "devolve",
+  "sentenceSets": [
+    {
+      "sentence": "As the founder stepped back, authority devolved to a management team that lacked her vision.",
+      "answerChoices": [
+        { "distractor": "descended", "closeness": 3, "reasoning": "Descended suggests moving downward or falling to a lower level; the sentence shows authority moving from the founder to the management team, a lateral transfer to successive holders rather than a downward movement." },
+        { "distractor": "transferred", "closeness": 3, "reasoning": "Transferred is a general term for moving something from one place to another; the sentence's emphasis on the founder stepping back and the team lacking her vision suggests a specific type of transfer involving succession and institutional responsibility." },
+        { "distractor": "passed", "closeness": 3, "reasoning": "Passed is broadly similar but lacks the specific connotation of institutional authority being formally transferred to successive holders that devolve carries." },
+        { "distractor": "delegated", "closeness": 3, "reasoning": "Delegated suggests assigning tasks or authority while retaining overall responsibility; the sentence shows the founder stepping back entirely, implying authority has shifted to the new holders rather than being delegated from an active leader." },
+        { "distractor": "fell", "closeness": 2, "reasoning": "Fell implies something has dropped or failed; the sentence describes a deliberate handoff of authority, not a collapse or failure." },
+        { "distractor": "dropped", "closeness": 2, "reasoning": "Dropped emphasizes the loss or abandonment of something; the sentence shows authority was given to the team, not abandoned or lost." },
+        { "distractor": "slipped", "closeness": 2, "reasoning": "Slipped suggests uncontrolled or gradual movement; the sentence indicates a deliberate transition when the founder stepped back." },
+        { "distractor": "went", "closeness": 2, "reasoning": "Went is too vague and informal to capture the formal institutional sense of authority being officially transferred to successors." },
+        { "distractor": "remained", "closeness": 1, "reasoning": "Remained means staying in place; the sentence describes authority moving from the founder to the team, opposite to remaining." },
+        { "distractor": "concentrated", "closeness": 1, "reasoning": "Concentrated means gathering in one place; the sentence shows authority dispersing to a management team." },
+        { "distractor": "withdrawn", "closeness": 1, "reasoning": "Withdrawn means taken back; the sentence shows authority being transferred onward to others, not taken back by the founder." }
+      ]
+    },
+    {
+      "sentence": "When the president resigned, power devolved to the vice president, though many questioned her readiness.",
+      "answerChoices": [
+        { "distractor": "descended", "closeness": 3, "reasoning": "Descended suggests downward movement; the sentence shows authority moving to the next in line, not necessarily downward in hierarchical value." },
+        { "distractor": "shifted", "closeness": 3, "reasoning": "Shifted implies movement without specifying the nature of the transfer; devolve emphasizes a formal succession of responsibility rather than a simple directional change." },
+        { "distractor": "delegated", "closeness": 3, "reasoning": "Delegated suggests the original holder assigns tasks while keeping ultimate authority; the sentence shows the president's resignation resulting in complete transfer of power to the vice president." },
+        { "distractor": "passed", "closeness": 3, "reasoning": "Passed is similar but more informal and does not capture the institutional or constitutional dimension of power succession that devolve conveys." },
+        { "distractor": "fell", "closeness": 2, "reasoning": "Fell implies collapse or descent into a lower state; the sentence treats power as moving to a successor, not falling or declining." },
+        { "distractor": "went", "closeness": 2, "reasoning": "Went is too vague and casual for describing formal transfer of executive authority." },
+        { "distractor": "reverted", "closeness": 2, "reasoning": "Reverted implies returning to a previous state; the sentence describes power moving forward to a successor, not backward to an earlier condition." },
+        { "distractor": "moved", "closeness": 2, "reasoning": "Moved is too general and does not emphasize the formal institutional succession implied by the resignation and constitutional order." },
+        { "distractor": "stayed", "closeness": 1, "reasoning": "Stayed means remaining in one place; the sentence describes power leaving the president." },
+        { "distractor": "concentrated", "closeness": 1, "reasoning": "Concentrated means gathering in one location; the sentence shows power moving to a different person." },
+        { "distractor": "retained", "closeness": 1, "reasoning": "Retained means keeping something; the sentence shows the president giving up power upon resignation." }
+      ]
+    },
+    {
+      "sentence": "Responsibility for the project devolved upon the junior staff members after the senior partners withdrew.",
+      "answerChoices": [
+        { "distractor": "delegated", "closeness": 3, "reasoning": "Delegated suggests authority is assigned from a person still in charge; the sentence shows responsibility automatically settling on junior staff as the senior partners withdrew, not being deliberately delegated." },
+        { "distractor": "transferred", "closeness": 3, "reasoning": "Transferred is similar but does not capture the specific sense of responsibility naturally falling or settling upon someone as a result of others stepping away." },
+        { "distractor": "assigned", "closeness": 3, "reasoning": "Assigned suggests deliberate distribution; the sentence implies responsibility fell to junior staff as a consequence of the senior partners' withdrawal, not through explicit assignment." },
+        { "distractor": "passed", "closeness": 3, "reasoning": "Passed suggests deliberate handoff; the sentence emphasizes responsibility settling on others as a result of withdrawal, not being consciously passed along." },
+        { "distractor": "fell", "closeness": 2, "reasoning": "Fell implies dropping or descent; the sentence describes responsibility settling upon people, not necessarily falling in a collapsed sense." },
+        { "distractor": "imposed", "closeness": 2, "reasoning": "Imposed suggests external force or unwilling acceptance; the sentence indicates responsibility naturally settled upon the junior staff, not was forced upon them." },
+        { "distractor": "shifted", "closeness": 2, "reasoning": "Shifted is too general and does not capture the institutional or constitutional sense of responsibility formally settling on successor holders." },
+        { "distractor": "rested", "closeness": 2, "reasoning": "Rested implies settling or depending on something; while similar, it is less precise about the formal, institutional handoff that devolve conveys." },
+        { "distractor": "stayed", "closeness": 1, "reasoning": "Stayed means remaining unchanged; the sentence describes responsibility moving from senior partners to junior staff." },
+        { "distractor": "retained", "closeness": 1, "reasoning": "Retained means kept by the original holder; the sentence shows responsibility moving to junior staff as the partners withdrew." },
+        { "distractor": "withdrawn", "closeness": 1, "reasoning": "Withdrawn means taken back; the sentence shows responsibility moving forward to others, not being taken back." }
+      ]
+    }
+  ]
+}

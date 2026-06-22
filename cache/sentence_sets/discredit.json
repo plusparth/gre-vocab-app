@@ -1,0 +1,53 @@
+{
+  "word": "discredit",
+  "sentenceSets": [
+    {
+      "sentence": "The new evidence discredited the account that had stood unchallenged for a decade.",
+      "answerChoices": [
+        { "distractor": "confirmed", "closeness": 3, "reasoning": "To confirm is to verify as true; new evidence that discredited the account did the opposite — disproved rather than confirmed it." },
+        { "distractor": "validated", "closeness": 3, "reasoning": "To validate is to confirm as correct; the new evidence undermined rather than validated the long-standing account." },
+        { "distractor": "endorsed", "closeness": 3, "reasoning": "To endorse is to approve or support; evidence that discredits does the opposite — it rejects and disproves." },
+        { "distractor": "vindicated", "closeness": 3, "reasoning": "To vindicate is to prove right; evidence that discredits proves an account wrong, the opposite of vindicating it." },
+        { "distractor": "upheld", "closeness": 2, "reasoning": "To uphold is to support or sustain; new evidence that discredits instead undermines the account's standing." },
+        { "distractor": "reinforced", "closeness": 2, "reasoning": "To reinforce is to strengthen; evidence that discredited the account weakened it instead." },
+        { "distractor": "perpetuated", "closeness": 2, "reasoning": "To perpetuate is to cause to continue; new evidence ending the account's unchallenged status discontinued its acceptance." },
+        { "distractor": "questioned", "closeness": 1, "reasoning": "To question is to express doubt; discrediting goes further than questioning — it refutes and disproves." },
+        { "distractor": "reviewed", "closeness": 1, "reasoning": "To review is to examine; the new evidence didn't just examine the account, it disproved its accuracy." },
+        { "distractor": "supported", "closeness": 1, "reasoning": "To support is to help or assist; evidence that discredits undermines rather than supports." },
+        { "distractor": "preserved", "closeness": 1, "reasoning": "To preserve is to maintain; the new evidence altered the account's status from 'unchallenged' to discredited." }
+      ]
+    },
+    {
+      "sentence": "The attorney's aggressive cross-examination sought to discredit the witness by revealing inconsistencies in her testimony.",
+      "answerChoices": [
+        { "distractor": "validate", "closeness": 3, "reasoning": "To validate is to confirm as correct or credible; revealing inconsistencies does the opposite — it undermines credibility." },
+        { "distractor": "corroborate", "closeness": 3, "reasoning": "To corroborate is to confirm or support with evidence; revealing inconsistencies contradicts rather than corroborates testimony." },
+        { "distractor": "authenticate", "closeness": 3, "reasoning": "To authenticate is to verify as genuine; revealing inconsistencies raises doubts about authenticity, the opposite." },
+        { "distractor": "bolster", "closeness": 3, "reasoning": "To bolster is to strengthen support; revealing inconsistencies weakens the witness's credibility." },
+        { "distractor": "affirm", "closeness": 2, "reasoning": "To affirm is to assert as true; inconsistencies contradict affirmation of the witness's reliability." },
+        { "distractor": "commend", "closeness": 2, "reasoning": "To commend is to praise; aggressive cross-examination aimed at exposing weaknesses is not commendatory." },
+        { "distractor": "advocate", "closeness": 2, "reasoning": "To advocate is to support or promote; the attorney's goal is to undermine, not promote, the witness's credibility." },
+        { "distractor": "challenge", "closeness": 1, "reasoning": "To challenge is to question or contest; while the attorney does challenge, discredit implies more — proving unreliability." },
+        { "distractor": "protect", "closeness": 1, "reasoning": "To protect is to shield from harm; aggressive cross-examination aims to damage, not protect." },
+        { "distractor": "defend", "closeness": 1, "reasoning": "To defend is to protect or support; the attorney is attacking, not defending, the witness." },
+        { "distractor": "honor", "closeness": 1, "reasoning": "To honor is to show respect; aggressive cross-examination designed to expose lies does not honor the witness." }
+      ]
+    },
+    {
+      "sentence": "The investigative journalists discredited the company's claims about safety compliance, publishing documents that contradicted official statements.",
+      "answerChoices": [
+        { "distractor": "supported", "closeness": 3, "reasoning": "To support is to help or back up; publishing contradictory documents does the opposite — undermines the company's claims." },
+        { "distractor": "confirmed", "closeness": 3, "reasoning": "To confirm is to verify as true; contradictory documents disprove rather than confirm the company's safety claims." },
+        { "distractor": "endorsed", "closeness": 3, "reasoning": "To endorse is to approve; publishing documents that contradict represents the opposite — rejection of the company's narrative." },
+        { "distractor": "substantiated", "closeness": 3, "reasoning": "To substantiate is to establish by evidence; contradictory documents undermine substantiation of the claims." },
+        { "distractor": "legitimized", "closeness": 2, "reasoning": "To legitimize is to make valid or acceptable; contradiction instead invalidates or delegitimizes the claims." },
+        { "distractor": "certified", "closeness": 2, "reasoning": "To certify is to officially confirm; contradictory evidence does the opposite — it denies certification of safety claims." },
+        { "distractor": "promoted", "closeness": 2, "reasoning": "To promote is to advance or publicize positively; publishing contradictory documents publicly damages rather than promotes." },
+        { "distractor": "highlighted", "closeness": 1, "reasoning": "To highlight is to emphasize or draw attention; while the journalists did draw attention, the documents refuted rather than merely highlighted." },
+        { "distractor": "recorded", "closeness": 1, "reasoning": "To record is to document; journalists did document, but discrediting involves proving false, not just documenting." },
+        { "distractor": "investigated", "closeness": 1, "reasoning": "To investigate is to inquire into; while the journalists investigated, the purpose was to discredit through exposure." },
+        { "distractor": "reported", "closeness": 1, "reasoning": "To report is to announce findings; reporting contradictory documents is a method of discrediting, not a synonym." }
+      ]
+    }
+  ]
+}

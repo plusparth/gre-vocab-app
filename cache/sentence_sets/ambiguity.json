@@ -1,0 +1,53 @@
+{
+  "word": "ambiguity",
+  "sentenceSets": [
+    {
+      "sentence": "The contract's ambiguity led to years of litigation over what each party had actually agreed to.",
+      "answerChoices": [
+        { "distractor": "vagueness", "closeness": 3, "reasoning": "Close — 'vagueness' means lack of clarity or precision, fitting the legal context, but 'vagueness' is more about unclear communication style, whereas 'ambiguity' specifically refers to capacity for multiple valid interpretations." },
+        { "distractor": "obscurity", "closeness": 3, "reasoning": "Close — 'obscurity' means being unclear or hard to understand, fitting the contract dispute, but it emphasizes difficulty in comprehension rather than the specific possibility of multiple legitimate readings." },
+        { "distractor": "imprecision", "closeness": 3, "reasoning": "Close — 'imprecision' means lack of exactness, fitting the legal problem, but describes poor wording quality rather than the inherent capacity to mean multiple things." },
+        { "distractor": "unclearness", "closeness": 3, "reasoning": "Close — 'unclearness' describes lack of clarity, fitting the contract problem, but is a general quality of being hard to understand rather than the specific capacity for dual meaning." },
+        { "distractor": "confusion", "closeness": 2, "reasoning": "Related but incorrect — 'confusion' means a state of disorder or misunderstanding, which results from ambiguity but does not describe the textual quality itself." },
+        { "distractor": "mistake", "closeness": 2, "reasoning": "Incorrect — 'mistake' is an error made, which could occur in drafting but does not describe the inherent capacity for multiple interpretations." },
+        { "distractor": "negligence", "closeness": 2, "reasoning": "Incorrect — 'negligence' is carelessness or failure of duty, which could contribute to unclear contracts but does not describe the specific textual quality." },
+        { "distractor": "misrepresentation", "closeness": 2, "reasoning": "Incorrect — 'misrepresentation' is intentional false statement, which could cause disputes but differs from the neutral quality of allowing multiple interpretations." },
+        { "distractor": "clarity", "closeness": 1, "reasoning": "Opposite — 'clarity' means clearness or transparency, the opposite of ambiguity that led to litigation." },
+        { "distractor": "precision", "closeness": 1, "reasoning": "Opposite — 'precision' means exactness and accuracy, the opposite of the ambiguous language that caused disputes." },
+        { "distractor": "certainty", "closeness": 1, "reasoning": "Incorrect semantic field — 'certainty' means absolute confidence or knowledge, opposite to the uncertainty created by ambiguous contract language." }
+      ]
+    },
+    {
+      "sentence": "The politician skillfully exploited the ambiguity in the question, interpreting it in a way that avoided direct commitment.",
+      "answerChoices": [
+        { "distractor": "loophole", "closeness": 3, "reasoning": "Close — 'loophole' is an ambiguity or omission allowing escape from obligation, fitting the politician's evasion, but 'loophole' typically refers to an unintended oversight rather than inherent interpretive possibility." },
+        { "distractor": "equivocation", "closeness": 3, "reasoning": "Close — 'equivocation' means deliberately ambiguous language to mislead, fitting the politician's behavior, but describes the act of being evasive rather than the underlying textual quality." },
+        { "distractor": "evasion", "closeness": 3, "reasoning": "Close — 'evasion' means avoiding or escaping something, fitting the politician's strategy, but describes the action rather than the textual ambiguity enabling it." },
+        { "distractor": "ambivalence", "closeness": 3, "reasoning": "Close — 'ambivalence' describes mixed or contradictory feelings, which could create interpretive flexibility, but it emphasizes emotional contradiction rather than linguistic capacity for multiple readings." },
+        { "distractor": "deception", "closeness": 2, "reasoning": "Related but incorrect — 'deception' is deliberate misleading, which the politician might employ, but does not describe the textual quality of the question itself." },
+        { "distractor": "sophistry", "closeness": 2, "reasoning": "Incorrect — 'sophistry' is deceptive reasoning, which could describe the politician's argument but does not refer to the ambiguity in the question." },
+        { "distractor": "rhetoric", "closeness": 2, "reasoning": "Incorrect — 'rhetoric' is the art of persuasive speech, which could describe the politician's skill but does not capture the specific textual quality of ambiguity." },
+        { "distractor": "circumlocution", "closeness": 2, "reasoning": "Incorrect — 'circumlocution' means talking around something indirectly, which could describe the politician's response but does not refer to the ambiguity of the question." },
+        { "distractor": "directness", "closeness": 1, "reasoning": "Opposite — 'directness' means clear, straightforward communication, the opposite of the ambiguity the politician exploited." },
+        { "distractor": "transparency", "closeness": 1, "reasoning": "Opposite — 'transparency' means openness and clarity, the opposite of the ambiguity that allowed evasion." },
+        { "distractor": "candor", "closeness": 1, "reasoning": "Incorrect semantic field — 'candor' means honest, frank expression, opposite to the exploitative use of ambiguity." }
+      ]
+    },
+    {
+      "sentence": "The photographer found beauty in the ambiguity of shadows, where light and darkness blended without clear boundaries.",
+      "answerChoices": [
+        { "distractor": "mystery", "closeness": 3, "reasoning": "Close — 'mystery' describes something unclear or puzzling, fitting the aesthetic of shadows, but emphasizes an unknowable quality rather than the specific capacity for multiple visual interpretations." },
+        { "distractor": "obscurity", "closeness": 3, "reasoning": "Close — 'obscurity' means lack of clarity, fitting the shadowy visual quality, but describes the state of being unclear rather than the simultaneous presence of contradictory visual elements." },
+        { "distractor": "haziness", "closeness": 3, "reasoning": "Close — 'haziness' describes lack of clear outline or focus, fitting the shadows and blended light, but emphasizes indistinct focus rather than the coexistence of distinct elements." },
+        { "distractor": "vagueness", "closeness": 3, "reasoning": "Close — 'vagueness' means imprecision or lack of definition, fitting the undefined boundaries of shadow, but describes unclear communication or representation rather than visual openness to interpretation." },
+        { "distractor": "chiaroscuro", "closeness": 2, "reasoning": "Related but incorrect — 'chiaroscuro' is the artistic technique of strong light-dark contrast, which could relate to the shadow aesthetic, but is a specific artistic term rather than a description of interpretive ambiguity." },
+        { "distractor": "silhouette", "closeness": 2, "reasoning": "Incorrect — 'silhouette' is an outlined form, which relates to shadows but does not describe the blended, ambiguous quality of boundaries." },
+        { "distractor": "penumbra", "closeness": 2, "reasoning": "Incorrect — 'penumbra' is the partially shadowed region between light and dark, which relates to the setting but is a specific optical term rather than a description of ambiguity." },
+        { "distractor": "emanation", "closeness": 2, "reasoning": "Incorrect — 'emanation' means something issuing or flowing out, which could describe light but does not capture the ambiguity of boundaries." },
+        { "distractor": "clarity", "closeness": 1, "reasoning": "Opposite — 'clarity' means clearness and sharp definition, opposite to the blended, ambiguous boundaries in shadow." },
+        { "distractor": "definition", "closeness": 1, "reasoning": "Opposite — 'definition' means clear outline or sharp boundaries, opposite to the ambiguous blending of light and darkness." },
+        { "distractor": "certainty", "closeness": 1, "reasoning": "Incorrect semantic field — 'certainty' means absolute sureness, opposite to the interpretive openness created by ambiguous shadows." }
+      ]
+    }
+  ]
+}

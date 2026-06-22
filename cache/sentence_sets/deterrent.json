@@ -1,0 +1,53 @@
+{
+  "word": "deterrent",
+  "sentenceSets": [
+    {
+      "sentence": "The organization hoped the policy would serve as a deterrent, discouraging the behavior before it could begin.",
+      "answerChoices": [
+        { "distractor": "preventive", "closeness": 3, "reasoning": "Preventive means designed to prevent something from happening, very close to deterrent, but emphasizes prevention more than discouragement." },
+        { "distractor": "restraining", "closeness": 3, "reasoning": "Restraining means holding back or limiting, which a deterrent does, but emphasizes physical or forceful restraint." },
+        { "distractor": "inhibiting", "closeness": 3, "reasoning": "Inhibiting means suppressing or restraining, very close to deterrent, but emphasizes the suppression rather than discouragement." },
+        { "distractor": "discouraging", "closeness": 3, "reasoning": "Discouraging means making someone less confident or enthusiastic, which a deterrent does, and the sentence uses this word." },
+        { "distractor": "punitive", "closeness": 2, "reasoning": "Punitive means inflicting punishment, which can deter but is not the only function of a deterrent." },
+        { "distractor": "corrective", "closeness": 2, "reasoning": "Corrective means designed to correct or improve, which a deterrent policy might be, but emphasizes correction rather than discouragement." },
+        { "distractor": "restrictive", "closeness": 2, "reasoning": "Restrictive means limiting freedom or actions, which a deterrent might be, but emphasizes restriction over discouragement." },
+        { "distractor": "limiting", "closeness": 2, "reasoning": "Limiting means setting boundaries or reducing scope, which a deterrent might do, but is less specific." },
+        { "distractor": "permissive", "closeness": 1, "reasoning": "Permissive means allowing freedom or being lenient, which is the opposite of deterrent." },
+        { "distractor": "encouraging", "closeness": 1, "reasoning": "Encouraging means giving support or confidence, which is the opposite of a deterrent." },
+        { "distractor": "facilitative", "closeness": 1, "reasoning": "Facilitative means making easier or helping, which is the opposite of deterrent." }
+      ]
+    },
+    {
+      "sentence": "Studies show that the presence of visible security cameras is a strong deterrent against shoplifting in retail stores.",
+      "answerChoices": [
+        { "distractor": "obstacle", "closeness": 3, "reasoning": "Obstacle is something that blocks or hinders, which cameras might be for shoplifters, but does not convey the discouraging effect." },
+        { "distractor": "barrier", "closeness": 3, "reasoning": "Barrier is something that separates or prevents passage, which cameras might create, but is more physical than psychological." },
+        { "distractor": "safeguard", "closeness": 3, "reasoning": "Safeguard is a measure to protect something, which cameras provide, but emphasizes protection rather than discouragement." },
+        { "distractor": "defense", "closeness": 3, "reasoning": "Defense is protection against attack or harm, which cameras provide, but emphasizes protection more than deterrence." },
+        { "distractor": "security measure", "closeness": 2, "reasoning": "Security measure is a step taken for safety, which cameras are, but is broader than deterrent specifically." },
+        { "distractor": "surveillance", "closeness": 2, "reasoning": "Surveillance is the act of watching or monitoring, which cameras accomplish, but does not convey the discouraging aspect." },
+        { "distractor": "enforcement", "closeness": 2, "reasoning": "Enforcement is making sure rules are followed, which cameras help with, but is about consequences rather than prior discouragement." },
+        { "distractor": "warning", "closeness": 2, "reasoning": "Warning is an indication of danger or risk, which visible cameras provide, but is less active than a deterrent." },
+        { "distractor": "attraction", "closeness": 1, "reasoning": "Attraction is something that draws in or invites, which is the opposite of a deterrent." },
+        { "distractor": "invitation", "closeness": 1, "reasoning": "Invitation is an encouraging offer, which is the opposite of a deterrent." },
+        { "distractor": "enabler", "closeness": 1, "reasoning": "Enabler is something that makes something easier, which is the opposite of a deterrent against shoplifting." }
+      ]
+    },
+    {
+      "sentence": "The threat of high fines proved to be an effective deterrent against parking violations, sharply reducing illegal parking in the district.",
+      "answerChoices": [
+        { "distractor": "consequence", "closeness": 3, "reasoning": "Consequence is a result or penalty, which fines are, but does not specifically mean serving to discourage beforehand." },
+        { "distractor": "penalty", "closeness": 3, "reasoning": "Penalty is a punishment for wrongdoing, which fines are, but does not convey the deterrent effect of discouraging the behavior." },
+        { "distractor": "punishment", "closeness": 3, "reasoning": "Punishment is the infliction of suffering for wrongdoing, which high fines constitute, but is reactive rather than deterrent." },
+        { "distractor": "enforcement", "closeness": 3, "reasoning": "Enforcement is the action of making rules followed, which the fines enable, but emphasizes compliance rather than discouragement." },
+        { "distractor": "sanction", "closeness": 2, "reasoning": "Sanction is an official penalty, which fines are, but does not specifically convey the discouraging intent." },
+        { "distractor": "restriction", "closeness": 2, "reasoning": "Restriction is a limitation imposed, but does not describe the discouraging effect of potential fines." },
+        { "distractor": "threat", "closeness": 2, "reasoning": "Threat is an expression of intention to cause harm, which the fines represent, but the sentence already says 'threat of high fines.'" },
+        { "distractor": "risk", "closeness": 2, "reasoning": "Risk is exposure to danger or loss, which potential fines represent, but does not convey the active deterring effect." },
+        { "distractor": "incentive", "closeness": 1, "reasoning": "Incentive is something that motivates or encourages, which is the opposite of a deterrent against violations." },
+        { "distractor": "reward", "closeness": 1, "reasoning": "Reward is something given as recognition or motivation, which is the opposite of a deterrent." },
+        { "distractor": "encouragement", "closeness": 1, "reasoning": "Encouragement is giving support or confidence, which is the opposite of a deterrent against violations." }
+      ]
+    }
+  ]
+}

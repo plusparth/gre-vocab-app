@@ -1,0 +1,53 @@
+{
+  "word": "alchemy",
+  "sentenceSets": [
+    {
+      "sentence": "Through sheer persistence and talent, she performed a kind of alchemy, turning failure into opportunity.",
+      "answerChoices": [
+        { "distractor": "magic", "closeness": 3, "reasoning": "Magic denotes mysterious transformation, close to alchemy metaphorically, but doesn't convey the sense of deliberate skill." },
+        { "distractor": "miracle", "closeness": 3, "reasoning": "Miracle denotes an impossible event, but suggests divine intervention rather than deliberate transformation." },
+        { "distractor": "transformation", "closeness": 3, "reasoning": "Transformation denotes change, fitting the turning of failure to opportunity, but lacks the sense of mysterious or skillful conversion." },
+        { "distractor": "metamorphosis", "closeness": 3, "reasoning": "Metamorphosis denotes change, but emphasizes gradual biological transformation rather than the alchemical conversion." },
+        { "distractor": "conversion", "closeness": 2, "reasoning": "Conversion denotes changing from one form to another, but doesn't carry the sense of mysterious skill." },
+        { "distractor": "synthesis", "closeness": 2, "reasoning": "Synthesis denotes combining elements, but doesn't convey the sense of mysterious or skillful transformation." },
+        { "distractor": "technique", "closeness": 2, "reasoning": "Technique denotes a method, but lacks the sense of mysterious or almost magical transformation." },
+        { "distractor": "art", "closeness": 2, "reasoning": "Art denotes creative skill, which alchemy involves, but is broader and doesn't emphasize the transformative aspect." },
+        { "distractor": "stagnation", "closeness": 1, "reasoning": "Stagnation means remaining unchanged; alchemy denotes transforming failure into opportunity—opposite effects." },
+        { "distractor": "failure", "closeness": 1, "reasoning": "Failure is what is being transformed; alchemy is the process of creating opportunity—opposite concepts." },
+        { "distractor": "degeneration", "closeness": 1, "reasoning": "Degeneration means worsening; alchemy means transforming negatively to positively—opposite effects." }
+      ]
+    },
+    {
+      "sentence": "The band's latest album was pure alchemy, blending disparate musical genres into a cohesive and innovative sound.",
+      "answerChoices": [
+        { "distractor": "eclecticism", "closeness": 3, "reasoning": "Eclecticism denotes drawing from diverse sources, fitting the blending, but doesn't convey the sense of mysterious transformation." },
+        { "distractor": "fusion", "closeness": 3, "reasoning": "Fusion denotes combining elements, close to alchemy, but is more technical and less about mysterious transformation." },
+        { "distractor": "synthesis", "closeness": 3, "reasoning": "Synthesis denotes combining into a whole, fitting the cohesive result, but doesn't convey the sense of mysterious artistry." },
+        { "distractor": "magic", "closeness": 3, "reasoning": "Magic denotes mysterious transformation, close to alchemy metaphorically, but is more ethereal and less grounded." },
+        { "distractor": "creativity", "closeness": 2, "reasoning": "Creativity denotes the ability to create, but doesn't emphasize the mysterious transformation aspect of alchemy." },
+        { "distractor": "craftsmanship", "closeness": 2, "reasoning": "Craftsmanship denotes skilled making, but doesn't convey the mysterious or transformative aspect." },
+        { "distractor": "composition", "closeness": 2, "reasoning": "Composition denotes the way something is put together, but doesn't convey the sense of mysterious transformation." },
+        { "distractor": "arrangement", "closeness": 2, "reasoning": "Arrangement denotes organizing elements, but doesn't convey the sense of mysterious or innovative transformation." },
+        { "distractor": "discord", "closeness": 1, "reasoning": "Discord denotes lack of harmony; alchemy creates cohesion and innovation—opposite outcomes." },
+        { "distractor": "cacophony", "closeness": 1, "reasoning": "Cacophony denotes harsh, discordant sound; alchemy creates cohesive innovation—opposite effects." },
+        { "distractor": "imitation", "closeness": 1, "reasoning": "Imitation denotes copying; alchemy denotes mysterious, innovative transformation—opposite approaches." }
+      ]
+    },
+    {
+      "sentence": "The chef performed culinary alchemy in his kitchen, turning humble ingredients into restaurant masterpieces.",
+      "answerChoices": [
+        { "distractor": "skill", "closeness": 3, "reasoning": "Skill denotes ability, fitting the transformation, but doesn't convey the sense of mysterious or almost magical conversion." },
+        { "distractor": "technique", "closeness": 3, "reasoning": "Technique denotes method, but lacks the sense of mysterious transformation that alchemy conveys." },
+        { "distractor": "art", "closeness": 3, "reasoning": "Art denotes creative expression, fitting the masterpieces, but is broader and doesn't emphasize the transformative aspect." },
+        { "distractor": "craft", "closeness": 3, "reasoning": "Craft denotes skilled work, but doesn't convey the sense of mysterious transformation." },
+        { "distractor": "expertise", "closeness": 2, "reasoning": "Expertise denotes deep knowledge, but doesn't convey the sense of mysterious or magical transformation." },
+        { "distractor": "mastery", "closeness": 2, "reasoning": "Mastery denotes complete skill, but doesn't emphasize the sense of mysterious transformation." },
+        { "distractor": "recipe", "closeness": 2, "reasoning": "Recipe denotes instructions, but is mechanical and doesn't convey the sense of mysterious transformation." },
+        { "distractor": "method", "closeness": 2, "reasoning": "Method denotes a procedure, but doesn't convey the sense of mysterious or magical conversion." },
+        { "distractor": "waste", "closeness": 1, "reasoning": "Waste denotes discarded material; the chef transforms humble ingredients into masterpieces—opposite uses." },
+        { "distractor": "destruction", "closeness": 1, "reasoning": "Destruction denotes ruining; culinary alchemy creates masterpieces—opposite effects." },
+        { "distractor": "negligence", "closeness": 1, "reasoning": "Negligence denotes careless inattention; alchemy requires skill and artistry—opposite qualities." }
+      ]
+    }
+  ]
+}

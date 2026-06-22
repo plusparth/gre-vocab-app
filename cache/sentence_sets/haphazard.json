@@ -1,0 +1,53 @@
+{
+  "word": "haphazard",
+  "sentenceSets": [
+    {
+      "sentence": "The haphazard approach to inventory management resulted in constant shortages and overstocking.",
+      "answerChoices": [
+        { "distractor": "careless", "closeness": 3, "reasoning": "Careless means inattentive or negligent, but haphazard emphasizes randomness and lack of system, not merely lack of care." },
+        { "distractor": "disorganized", "closeness": 3, "reasoning": "Disorganized means lacking order or system, very close to haphazard, but haphazard emphasizes randomness rather than merely lacking organization." },
+        { "distractor": "chaotic", "closeness": 3, "reasoning": "Chaotic means in complete disorder, but haphazard refers specifically to random or unsystematic action, not necessarily total chaos." },
+        { "distractor": "reckless", "closeness": 3, "reasoning": "Reckless means dangerous disregard for consequences, but haphazard refers to randomness or lack of system, not necessarily danger or disregard." },
+        { "distractor": "haphazardly", "closeness": 2, "reasoning": "While haphazardly would be the adverbial form, using it as an adjective distractor misses the noun form implied by the sentence." },
+        { "distractor": "improvised", "closeness": 2, "reasoning": "Improvised means made up on the spot, but haphazard emphasizes randomness rather than spontaneous creation." },
+        { "distractor": "sloppy", "closeness": 2, "reasoning": "Sloppy means done carelessly, but haphazard emphasizes randomness or lack of system, not careless execution." },
+        { "distractor": "haphazardly", "closeness": 2, "reasoning": "Using the adverbial form as an answer to an adjective blank is grammatically incorrect." },
+        { "distractor": "systematic", "closeness": 1, "reasoning": "Systematic means methodical and organized, the opposite of haphazard." },
+        { "distractor": "deliberate", "closeness": 1, "reasoning": "Deliberate means intentional and planned, opposite to haphazard randomness." },
+        { "distractor": "methodical", "closeness": 1, "reasoning": "Methodical means orderly and systematic, opposite to haphazard." }
+      ]
+    },
+    {
+      "sentence": "Her apartment reflected a haphazard collection of furniture from different eras and styles.",
+      "answerChoices": [
+        { "distractor": "random", "closeness": 3, "reasoning": "Random means chosen without pattern, nearly synonymous with haphazard, but random emphasizes chance while haphazard emphasizes lack of planning." },
+        { "distractor": "eclectic", "closeness": 3, "reasoning": "Eclectic means composed of diverse elements, but haphazard emphasizes lack of planning or system, whereas eclectic can be deliberately chosen." },
+        { "distractor": "mismatched", "closeness": 3, "reasoning": "Mismatched means poorly paired or uncoordinated, but haphazard refers to lack of system in selection, not just poor coordination." },
+        { "distractor": "confused", "closeness": 3, "reasoning": "Confused means bewildered, but haphazard refers to disorganized selection, not emotional confusion." },
+        { "distractor": "hodgepodge", "closeness": 2, "reasoning": "Hodgepodge means jumbled mixture, similar to haphazard, but more about the result than the unsystematic process." },
+        { "distractor": "motley", "closeness": 2, "reasoning": "Motley means varied or diverse in color or composition, but haphazard emphasizes lack of planning rather than mere diversity." },
+        { "distractor": "ad hoc", "closeness": 2, "reasoning": "Ad hoc means improvised or made for specific purposes, similar to haphazard but emphasizing functional creation rather than random selection." },
+        { "distractor": "helter-skelter", "closeness": 2, "reasoning": "Helter-skelter means in confusion or disorder, but haphazard emphasizes randomness of selection, not necessarily confusion." },
+        { "distractor": "curated", "closeness": 1, "reasoning": "Curated means carefully selected and organized, opposite to haphazard." },
+        { "distractor": "coordinated", "closeness": 1, "reasoning": "Coordinated means arranged in harmony, opposite to haphazard collection." },
+        { "distractor": "intentional", "closeness": 1, "reasoning": "Intentional means done on purpose, opposite to haphazard which implies lack of planning." }
+      ]
+    },
+    {
+      "sentence": "The haphazard urban development left the city with poorly connected neighborhoods and inadequate infrastructure.",
+      "answerChoices": [
+        { "distractor": "scattered", "closeness": 3, "reasoning": "Scattered means spread out without pattern, but haphazard emphasizes lack of planning, not merely physical distribution." },
+        { "distractor": "unplanned", "closeness": 3, "reasoning": "Unplanned means not thought out in advance, nearly synonymous with haphazard, but haphazard emphasizes randomness whereas unplanned emphasizes absence of planning." },
+        { "distractor": "poorly executed", "closeness": 3, "reasoning": "Poorly executed means done badly, but haphazard refers to unsystematic planning, not execution quality." },
+        { "distractor": "haphazard", "closeness": 3, "reasoning": "Using the target word itself as a distractor is invalid." },
+        { "distractor": "expedient", "closeness": 2, "reasoning": "Expedient means done quickly without regard for consequences, but haphazard emphasizes randomness or lack of system." },
+        { "distractor": "makeshift", "closeness": 2, "reasoning": "Makeshift means improvised or temporary, but haphazard emphasizes unsystematic development, not temporariness." },
+        { "distractor": "rushed", "closeness": 2, "reasoning": "Rushed means done hurriedly, but haphazard refers to lack of planning or system, not speed." },
+        { "distractor": "negligent", "closeness": 2, "reasoning": "Negligent means careless or failing in duty, but haphazard emphasizes randomness rather than negligence." },
+        { "distractor": "strategic", "closeness": 1, "reasoning": "Strategic means carefully planned, opposite to haphazard." },
+        { "distractor": "coordinated", "closeness": 1, "reasoning": "Coordinated means organized and planned, opposite to haphazard." },
+        { "distractor": "integrated", "closeness": 1, "reasoning": "Integrated means unified and connected, opposite to the disconnected result of haphazard development." }
+      ]
+    }
+  ]
+}

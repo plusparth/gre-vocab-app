@@ -1,0 +1,53 @@
+{
+  "word": "palatable",
+  "sentenceSets": [
+    {
+      "sentence": "The compromise was made palatable to both sides by framing it in language that allowed each to claim a different victory.",
+      "answerChoices": [
+        { "distractor": "acceptable", "closeness": 3, "reasoning": "Acceptable means agreeable in principle but does not capture the active effort required to make something inviting or appealing to a skeptical audience." },
+        { "distractor": "digestible", "closeness": 3, "reasoning": "Digestible implies something can be processed or understood, but palatable specifically suggests making something actively appealing rather than merely comprehensible." },
+        { "distractor": "agreeable", "closeness": 3, "reasoning": "Agreeable describes something that is pleasant or convenient, but palatable implies a deliberate effort to transform initial resistance into acceptance." },
+        { "distractor": "convenient", "closeness": 3, "reasoning": "Convenient describes practical suitability but misses the sensory or emotional appeal that palatable brings to something initially unappetizing." },
+        { "distractor": "tolerable", "closeness": 2, "reasoning": "Tolerable suggests something can be endured with effort, whereas palatable implies enough appeal that acceptance comes naturally rather than through resignation." },
+        { "distractor": "suitable", "closeness": 2, "reasoning": "Suitable describes appropriateness for a purpose but does not capture the aspect of making something appealing or attractive to taste or preference." },
+        { "distractor": "useful", "closeness": 2, "reasoning": "Useful emphasizes practical function; palatable emphasizes the quality of being appealing or pleasant, which are distinct concepts." },
+        { "distractor": "reasonable", "closeness": 2, "reasoning": "Reasonable describes something that makes logical sense, but palatable is about sensory or emotional appeal that makes acceptance easy rather than grudging." },
+        { "distractor": "repellent", "closeness": 1, "reasoning": "Repellent is the opposite of palatable; it describes something that actively discourages acceptance." },
+        { "distractor": "distasteful", "closeness": 1, "reasoning": "Distasteful means unpleasant or offensive, the direct antonym of palatable." },
+        { "distractor": "forbidding", "closeness": 1, "reasoning": "Forbidding describes something that appears harsh or unwelcoming, the opposite of being made inviting and appealing." }
+      ]
+    },
+    {
+      "sentence": "The new diet was designed to be palatable enough that patients would stick with it without needing constant willpower.",
+      "answerChoices": [
+        { "distractor": "nutritious", "closeness": 3, "reasoning": "Nutritious describes food that nourishes the body, but the sentence's emphasis on taste and adherence shows that palatability—not nutrition—is what prevents patients from abandoning the diet." },
+        { "distractor": "wholesome", "closeness": 3, "reasoning": "Wholesome implies food that is good for health and morals, but the sentence makes clear that taste and appeal, not health claims, determine whether patients stay the course." },
+        { "distractor": "appetizing", "closeness": 3, "reasoning": "Appetizing means stimulating appetite in the moment, whereas palatable implies sustained appeal over time—the ability to be eaten repeatedly without becoming unpleasant." },
+        { "distractor": "edible", "closeness": 3, "reasoning": "Edible simply means safe to eat; it does not address the quality of being pleasant enough to eat willingly without constant resistance." },
+        { "distractor": "flavorful", "closeness": 2, "reasoning": "Flavorful emphasizes taste intensity, but palatable in this context implies a balance of taste that prevents the food from becoming tiresome with repeated consumption." },
+        { "distractor": "fresh", "closeness": 2, "reasoning": "Fresh describes a quality related to time since preparation, not the inherent appeal or pleasantness of the taste itself." },
+        { "distractor": "mild", "closeness": 2, "reasoning": "Mild describes low intensity of flavor, but palatable refers to overall appeal; a mild diet could still be unpalatable if dull or unpleasant." },
+        { "distractor": "simple", "closeness": 2, "reasoning": "Simple describes lack of complexity, but does not address the quality of being pleasant or appealing to eat consistently." },
+        { "distractor": "bland", "closeness": 1, "reasoning": "Bland means tasteless or dull, the opposite of what is needed for patients to willingly stick with a diet." },
+        { "distractor": "revolting", "closeness": 1, "reasoning": "Revolting means extremely unpleasant, the opposite of palatable; it would guarantee patients abandon the diet." },
+        { "distractor": "spoiled", "closeness": 1, "reasoning": "Spoiled means ruined or contaminated, an entirely different semantic field from the sensory appeal of palatable." }
+      ]
+    },
+    {
+      "sentence": "The dictator's human rights abuses were rendered palatable to the international community through a calculated campaign of economic cooperation and diplomatic access.",
+      "answerChoices": [
+        { "distractor": "justifiable", "closeness": 3, "reasoning": "Justifiable means capable of being defended by reasoning, but the sentence makes clear that abuses cannot be justified—only made more acceptable through distraction." },
+        { "distractor": "tolerable", "closeness": 3, "reasoning": "Tolerable implies something can be endured; palatable goes further by implying that something unpleasant has been actively made appealing or overlooked through strategy." },
+        { "distractor": "understandable", "closeness": 3, "reasoning": "Understandable means comprehensible, but the sentence is about making abuses acceptable through economic benefit, not about explaining or comprehending them." },
+        { "distractor": "excusable", "closeness": 3, "reasoning": "Excusable suggests something can be overlooked because a good reason exists; palatable implies the abuses are overlooked because attention is diverted to more pleasant benefits." },
+        { "distractor": "bearable", "closeness": 2, "reasoning": "Bearable describes something that can be endured, but palatable specifically indicates a process of making something appetizing or appealing rather than merely survivable." },
+        { "distractor": "overlooked", "closeness": 2, "reasoning": "Overlooked describes an unintended omission, whereas palatable describes a deliberate effort to make something more appetizing to an audience." },
+        { "distractor": "forgotten", "closeness": 2, "reasoning": "Forgotten implies the abuses disappeared from memory, but the sentence emphasizes an active campaign to make them acceptable, not to erase them." },
+        { "distractor": "ignored", "closeness": 2, "reasoning": "Ignored describes willful non-attention, but palatable indicates the creation of appeal or attractiveness that makes acceptance easier than mere ignoring would suggest." },
+        { "distractor": "abhorrent", "closeness": 1, "reasoning": "Abhorrent means deeply hateful, the opposite of the palatability achieved through the dictator's diplomatic and economic strategy." },
+        { "distractor": "contemptible", "closeness": 1, "reasoning": "Contemptible means worthy of scorn, the opposite of what the campaign aimed to achieve by making abuses palatable." },
+        { "distractor": "unforgivable", "closeness": 1, "reasoning": "Unforgivable contradicts the palatability that the campaign was designed to manufacture through economic and diplomatic engagement." }
+      ]
+    }
+  ]
+}

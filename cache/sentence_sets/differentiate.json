@@ -1,0 +1,53 @@
+{
+  "word": "differentiate",
+  "sentenceSets": [
+    {
+      "sentence": "The company struggled to differentiate its product from dozens of near-identical competitors.",
+      "answerChoices": [
+        { "distractor": "distinguish", "closeness": 3, "reasoning": "Distinguish means to recognize a difference; while the company needs to distinguish its product, differentiate more specifically implies making or creating a meaningful difference rather than just recognition." },
+        { "distractor": "separate", "closeness": 3, "reasoning": "Separate means to set apart; while the company needs to separate itself, differentiate more specifically involves creating a distinctive advantage in the market." },
+        { "distractor": "isolate", "closeness": 3, "reasoning": "Isolate means setting completely apart; while the company might isolate, differentiate specifically involves creating market distinction in competition." },
+        { "distractor": "set apart", "closeness": 3, "reasoning": "Set apart means distinguishing from others; while the company needs this, differentiate more specifically implies creating a strategic market advantage." },
+        { "distractor": "identify", "closeness": 2, "reasoning": "Identify means recognizing what something is; while the company needs identity, differentiate involves creating a distinctive difference more than just identification." },
+        { "distractor": "position", "closeness": 2, "reasoning": "Position means placing strategically; while the company must position itself, differentiate more specifically means making a distinctive difference." },
+        { "distractor": "brand", "closeness": 2, "reasoning": "Brand means establishing identity through marketing; while branding helps, differentiate specifically means creating meaningful difference in the product." },
+        { "distractor": "market", "closeness": 2, "reasoning": "Market means selling or promoting; while marketing helps, differentiate specifically means creating distinctive product features." },
+        { "distractor": "imitate", "closeness": 1, "reasoning": "Imitate means copying; the sentence describes struggling to create difference, opposite to imitation." },
+        { "distractor": "duplicate", "closeness": 1, "reasoning": "Duplicate means creating an exact copy; the sentence shows near-identical competitors, and the company must avoid duplication." },
+        { "distractor": "homogenize", "closeness": 1, "reasoning": "Homogenize means making uniform and similar; the sentence shows the problem of being too similar to competitors." }
+      ]
+    },
+    {
+      "sentence": "The biologist showed how slight variations in bone structure differentiate chimpanzees from humans despite their genetic similarity.",
+      "answerChoices": [
+        { "distractor": "separate", "closeness": 3, "reasoning": "Separate means to set apart; while variations separate the species, differentiate more specifically means the variations mark or create the distinction." },
+        { "distractor": "distinguish", "closeness": 3, "reasoning": "Distinguish means to recognize a difference; while variations distinguish, differentiate more specifically means the variations serve as the basis of difference." },
+        { "distractor": "identify", "closeness": 3, "reasoning": "Identify means recognizing what something is; while variations help identify, differentiate more specifically means the variations define the difference." },
+        { "distractor": "characterize", "closeness": 3, "reasoning": "Characterize describes typical features; while variations characterize, differentiate more specifically means these variations create the meaningful differences." },
+        { "distractor": "mark", "closeness": 2, "reasoning": "Mark means to indicate or designate; while variations mark difference, differentiate more actively means the variations create the distinction." },
+        { "distractor": "define", "closeness": 2, "reasoning": "Define means to state the meaning of; while variations define species, differentiate more specifically focuses on the distinction-making function." },
+        { "distractor": "establish", "closeness": 2, "reasoning": "Establish means to set up or create; while variations establish difference, differentiate more specifically means creating distinction." },
+        { "distractor": "show", "closeness": 2, "reasoning": "Show means to display or exhibit; while variations show difference, differentiate more specifically means making or creating the distinction." },
+        { "distractor": "unify", "closeness": 1, "reasoning": "Unify means bringing together as one; the sentence describes variations creating distinction, opposite to unification." },
+        { "distractor": "blend", "closeness": 1, "reasoning": "Blend means mixing together; the sentence shows variations creating difference, opposite to blending." },
+        { "distractor": "homogenize", "closeness": 1, "reasoning": "Homogenize means making uniform; the sentence shows variations creating distinction between species." }
+      ]
+    },
+    {
+      "sentence": "In calculus, students learn to differentiate functions, applying rules to find the rate of change at any point.",
+      "answerChoices": [
+        { "distractor": "solve", "closeness": 3, "reasoning": "Solve means finding the answer to a problem; while students solve related problems, differentiate specifically means finding the derivative of a function." },
+        { "distractor": "compute", "closeness": 3, "reasoning": "Compute means calculating or determining; while students compute, differentiate specifically refers to the mathematical operation of finding derivatives." },
+        { "distractor": "evaluate", "closeness": 3, "reasoning": "Evaluate means determining value; while students evaluate functions, differentiate specifically means finding the derivative." },
+        { "distractor": "transform", "closeness": 3, "reasoning": "Transform means changing form; while differentiation transforms a function, the sentence emphasizes the mathematical operation more than general transformation." },
+        { "distractor": "manipulate", "closeness": 2, "reasoning": "Manipulate means handling or controlling; while students manipulate functions, differentiate specifically refers to a mathematical operation." },
+        { "distractor": "analyze", "closeness": 2, "reasoning": "Analyze means examining in detail; while students analyze functions, differentiate specifically refers to a mathematical operation." },
+        { "distractor": "reduce", "closeness": 2, "reasoning": "Reduce means making smaller; while differentiation can simplify, it refers to a specific mathematical operation." },
+        { "distractor": "simplify", "closeness": 2, "reasoning": "Simplify means making simpler; while differentiation can simplify, it specifically refers to finding derivatives." },
+        { "distractor": "integrate", "closeness": 1, "reasoning": "Integrate means combining into a whole; while integration is the inverse operation, the sentence specifically addresses differentiation." },
+        { "distractor": "multiply", "closeness": 1, "reasoning": "Multiply means increasing in number; the sentence describes a specific calculus operation different from multiplication." },
+        { "distractor": "divide", "closeness": 1, "reasoning": "Divide means separating into parts; while related to some operations, the sentence specifically describes differentiation." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "aggregate",
+  "sentenceSets": [
+    {
+      "sentence": "The aggregate effect of small, daily decisions compounds dramatically over a lifetime.",
+      "answerChoices": [
+        { "distractor": "cumulative", "closeness": 3, "reasoning": "Cumulative means accumulated over time, very close to aggregate, but emphasizes the building process rather than the collected whole." },
+        { "distractor": "combined", "closeness": 3, "reasoning": "Combined means joined together, similar to aggregate, but doesn't emphasize the total or collective result as strongly." },
+        { "distractor": "collective", "closeness": 3, "reasoning": "Collective means gathered as a group, similar to aggregate, but is broader and doesn't emphasize the compounding aspect." },
+        { "distractor": "total", "closeness": 3, "reasoning": "Total means the sum of all parts, close to aggregate, but doesn't emphasize the nature of being formed from units." },
+        { "distractor": "overall", "closeness": 2, "reasoning": "Overall means taking everything into account, but doesn't specifically denote the formation from multiple units." },
+        { "distractor": "net", "closeness": 2, "reasoning": "Net means the final result after all accounts, but doesn't convey the sense of multiple units collected together." },
+        { "distractor": "comprehensive", "closeness": 2, "reasoning": "Comprehensive means including all parts, but doesn't emphasize the collection from units or the sense of forming a whole." },
+        { "distractor": "integrated", "closeness": 2, "reasoning": "Integrated means combined into a unified whole, but doesn't emphasize the additive nature of units." },
+        { "distractor": "individual", "closeness": 1, "reasoning": "Individual means single or separate; aggregate means formed from many collected units—opposite concepts." },
+        { "distractor": "isolated", "closeness": 1, "reasoning": "Isolated means separated; aggregate means collected from multiple units—opposite states." },
+        { "distractor": "partial", "closeness": 1, "reasoning": "Partial means incomplete or forming only part of the whole; aggregate means the full collected total—opposite concepts." }
+      ]
+    },
+    {
+      "sentence": "The city's aggregate income increased even as many workers faced wage stagnation.",
+      "answerChoices": [
+        { "distractor": "combined", "closeness": 3, "reasoning": "Combined means pooled together, fitting the total income, but doesn't specifically denote the collective sum." },
+        { "distractor": "total", "closeness": 3, "reasoning": "Total means the sum of all parts, very close to aggregate, but is less formal and technical." },
+        { "distractor": "overall", "closeness": 3, "reasoning": "Overall means taking everything together, but doesn't specifically emphasize the aggregated quality of being formed from parts." },
+        { "distractor": "collective", "closeness": 3, "reasoning": "Collective means combined from multiple units, close to aggregate, but doesn't emphasize the sum aspect." },
+        { "distractor": "gross", "closeness": 2, "reasoning": "Gross means total before deductions, fitting the sum, but is more specific to financial terminology than aggregate." },
+        { "distractor": "cumulative", "closeness": 2, "reasoning": "Cumulative means accumulated, but emphasizes growth over time rather than the state of being formed from units." },
+        { "distractor": "average", "closeness": 2, "reasoning": "Average is the mean of multiple values, but is different from aggregate's total—opposite calculations." },
+        { "distractor": "comprehensive", "closeness": 2, "reasoning": "Comprehensive means inclusive of all parts, but doesn't specifically denote the summed whole." },
+        { "distractor": "individual", "closeness": 1, "reasoning": "Individual means single; aggregate income is formed from many individuals' incomes—opposite scopes." },
+        { "distractor": "private", "closeness": 1, "reasoning": "Private means personal or separate; aggregate means collective—opposite properties." },
+        { "distractor": "sectoral", "closeness": 1, "reasoning": "Sectoral means limited to a particular sector; aggregate income is across all sectors—different scopes." }
+      ]
+    },
+    {
+      "sentence": "The aggregate demand for housing drove developers to build far beyond community planning guidelines.",
+      "answerChoices": [
+        { "distractor": "combined", "closeness": 3, "reasoning": "Combined means pooled, fitting the total demand, but doesn't convey the sense of formed from multiple sources." },
+        { "distractor": "collective", "closeness": 3, "reasoning": "Collective means combined from a group, similar to aggregate, but doesn't emphasize the formed-from-units concept." },
+        { "distractor": "total", "closeness": 3, "reasoning": "Total means the sum, very close to aggregate, but is less specific about the nature of aggregation." },
+        { "distractor": "overall", "closeness": 3, "reasoning": "Overall means taking everything together, but doesn't emphasize the aggregated nature of being formed from parts." },
+        { "distractor": "average", "closeness": 2, "reasoning": "Average is the mean, but aggregate demand refers to the sum, not the average—different calculations." },
+        { "distractor": "rising", "closeness": 2, "reasoning": "Rising describes the trend, but doesn't denote the aggregated nature of the demand." },
+        { "distractor": "growing", "closeness": 2, "reasoning": "Growing describes the increase, but doesn't denote the aggregated or collective nature." },
+        { "distractor": "strong", "closeness": 2, "reasoning": "Strong describes intensity, but doesn't convey the aggregated or collective quality of demand." },
+        { "distractor": "individual", "closeness": 1, "reasoning": "Individual demand is separate; aggregate demand is formed from all individuals' demands combined—opposite scopes." },
+        { "distractor": "localized", "closeness": 1, "reasoning": "Localized means limited to a specific area; aggregate demand spans multiple sources—broader scope." },
+        { "distractor": "isolated", "closeness": 1, "reasoning": "Isolated means separate; aggregate demand is formed from multiple sources joined together—opposite states." }
+      ]
+    }
+  ]
+}

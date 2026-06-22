@@ -1,0 +1,53 @@
+{
+  "word": "palliate",
+  "sentenceSets": [
+    {
+      "sentence": "The treatment palliated the symptoms without addressing the underlying cause, buying time rather than achieving resolution.",
+      "answerChoices": [
+        { "distractor": "cured", "closeness": 3, "reasoning": "Cured means eliminated the disease entirely, but the sentence contrasts palliate with curing by noting that it only addresses symptoms rather than the underlying cause." },
+        { "distractor": "healed", "closeness": 3, "reasoning": "Healed means restored to health, but the sentence makes clear that palliation is temporary symptom management rather than restoration to health." },
+        { "distractor": "solved", "closeness": 3, "reasoning": "Solved means found a complete answer to a problem, but palliation addresses symptoms temporarily rather than solving the underlying problem." },
+        { "distractor": "eliminated", "closeness": 3, "reasoning": "Eliminated means completely removed or got rid of, but the sentence emphasizes that palliation is a temporary measure rather than complete elimination." },
+        { "distractor": "relieved", "closeness": 2, "reasoning": "Relieved means made feel better or eased distress, which palliation does accomplish, but palliation specifically implies a temporary measure rather than complete relief." },
+        { "distractor": "soothed", "closeness": 2, "reasoning": "Soothed means calmed or made peaceful, which palliation might do, but does not capture the medical sense of managing symptoms rather than treating the cause." },
+        { "distractor": "masked", "closeness": 2, "reasoning": "Masked means covered up or hidden, which palliation might do, but has a deceptive connotation that palliation doesn't necessarily carry." },
+        { "distractor": "postponed", "closeness": 2, "reasoning": "Postponed means delayed, which the sentence suggests happens with palliation, but palliate more specifically describes managing rather than simply delaying." },
+        { "distractor": "aggravated", "closeness": 1, "reasoning": "Aggravated means made worse, the opposite of palliation's effect of reducing symptoms." },
+        { "distractor": "exacerbated", "closeness": 1, "reasoning": "Exacerbated means intensified or made more severe, the opposite of palliation's symptom reduction." },
+        { "distractor": "worsened", "closeness": 1, "reasoning": "Worsened means became more serious, directly opposed to palliation's effect of reducing the violence of disease." }
+      ]
+    },
+    {
+      "sentence": "The government's housing subsidies palliated the immediate crisis of homelessness but did nothing to address the shortage of affordable construction or the underlying economic inequality.",
+      "answerChoices": [
+        { "distractor": "solved", "closeness": 3, "reasoning": "Solved means found a complete solution, but the sentence explicitly contrasts palliation with real solutions by noting it did nothing about root causes." },
+        { "distractor": "fixed", "closeness": 3, "reasoning": "Fixed means repaired or resolved, but the sentence shows palliation addressing immediate symptoms without fixing the underlying problems." },
+        { "distractor": "resolved", "closeness": 3, "reasoning": "Resolved means settled or cleared up, but palliation in the sentence is temporary emergency response rather than genuine resolution." },
+        { "distractor": "ameliorated", "closeness": 3, "reasoning": "Ameliorated means improved in a fundamental way, but palliation improves the situation temporarily without improving underlying conditions." },
+        { "distractor": "eased", "closeness": 2, "reasoning": "Eased means made easier to bear, which palliation does accomplish, but does not capture the sense of temporary emergency management." },
+        { "distractor": "lessened", "closeness": 2, "reasoning": "Lessened means made smaller or less intense, which palliation does, but palliate more specifically implies medical or temporary management of symptoms." },
+        { "distractor": "mitigated", "closeness": 2, "reasoning": "Mitigated means made less severe, similar to palliate but more general and less specific to temporary symptom management." },
+        { "distractor": "assuaged", "closeness": 2, "reasoning": "Assuaged means calmed or pacified, which palliation might do, but palliate is more specifically about reducing the violence of symptoms." },
+        { "distractor": "caused", "closeness": 1, "reasoning": "Caused means brought about, the opposite of palliation's effect of reducing or managing a problem." },
+        { "distractor": "created", "closeness": 1, "reasoning": "Created means brought into existence, the opposite of palliation's symptom-reducing effects." },
+        { "distractor": "deepened", "closeness": 1, "reasoning": "Deepened means made more profound, opposed to palliation's effect of reducing the violence of a crisis." }
+      ]
+    },
+    {
+      "sentence": "The marketing campaign palliated consumer concerns about the company's environmental record through a well-funded advertising blitz, without any actual changes to manufacturing practices.",
+      "answerChoices": [
+        { "distractor": "eliminated", "closeness": 3, "reasoning": "Eliminated means completely removed, but the sentence shows the campaign only palliated concerns, leaving them merely suppressed rather than genuinely addressed." },
+        { "distractor": "allayed", "closeness": 3, "reasoning": "Allayed means calmed fears or doubts, which palliation does accomplish, but the sentence emphasizes the superficial temporary nature rather than genuine resolution." },
+        { "distractor": "addressed", "closeness": 3, "reasoning": "Addressed means dealt with directly, but palliation describes a temporary superficial response rather than genuinely addressing the underlying concerns." },
+        { "distractor": "resolved", "closeness": 3, "reasoning": "Resolved means cleared up completely, but the sentence shows palliation as a temporary suppression of concerns rather than genuine resolution." },
+        { "distractor": "quieted", "closeness": 2, "reasoning": "Quieted means made less noisy or prominent, which palliation might do, but does not capture the medical sense of reducing the violence of something." },
+        { "distractor": "suppressed", "closeness": 2, "reasoning": "Suppressed means forcibly prevented from acting, which palliation might accomplish, but palliate implies managing symptoms rather than forcibly suppressing them." },
+        { "distractor": "calmed", "closeness": 2, "reasoning": "Calmed means made peaceful or less agitated, which palliation might do, but palliate has a more specific sense of medical symptom management." },
+        { "distractor": "soothed", "closeness": 2, "reasoning": "Soothed means made peaceful or comfortable, which palliation accomplishes, but does not capture the sense of reducing the violence of something." },
+        { "distractor": "exposed", "closeness": 1, "reasoning": "Exposed means revealed or made visible, the opposite of palliation's effect of reducing or managing concerns." },
+        { "distractor": "inflamed", "closeness": 1, "reasoning": "Inflamed means made worse or more intense, the opposite of palliation's effect of reducing the violence of concerns." },
+        { "distractor": "magnified", "closeness": 1, "reasoning": "Magnified means made larger or more apparent, opposed to palliation's effect of temporarily managing or reducing concerns." }
+      ]
+    }
+  ]
+}

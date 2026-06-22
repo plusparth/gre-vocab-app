@@ -1,0 +1,53 @@
+{
+  "word": "harbinger",
+  "sentenceSets": [
+    {
+      "sentence": "The dark clouds gathering on the horizon were a harbinger of the approaching storm.",
+      "answerChoices": [
+        { "distractor": "cause", "closeness": 3, "reasoning": "Cause means something that produces an effect, but harbinger refers to a sign or indication, not the thing that causes it." },
+        { "distractor": "symptom", "closeness": 3, "reasoning": "Symptom means a sign of disease or condition, but harbinger refers to a sign of future events, not current conditions." },
+        { "distractor": "omen", "closeness": 3, "reasoning": "Omen means a sign of future events, nearly synonymous with harbinger, but omen is more supernatural while harbinger is more natural." },
+        { "distractor": "warning", "closeness": 3, "reasoning": "Warning means alert of danger, but harbinger refers to a natural sign or indication, not an intentional alert." },
+        { "distractor": "evidence", "closeness": 2, "reasoning": "Evidence means proof or indication of something, but harbinger specifically refers to a sign of future events." },
+        { "distractor": "messenger", "closeness": 2, "reasoning": "Messenger refers to one who carries messages, but harbinger refers to a sign, not a person." },
+        { "distractor": "indication", "closeness": 2, "reasoning": "Indication means a sign or hint, but harbinger specifically refers to a forerunner or sign of something to come." },
+        { "distractor": "herald", "closeness": 2, "reasoning": "Herald means to announce the arrival of something, but harbinger refers to the sign or forerunner itself." },
+        { "distractor": "consequence", "closeness": 1, "reasoning": "Consequence means a result or effect, opposite to harbinger which precedes rather than follows." },
+        { "distractor": "aftermath", "closeness": 1, "reasoning": "Aftermath means what comes after an event, opposite to harbinger which comes before." },
+        { "distractor": "remnant", "closeness": 1, "reasoning": "Remnant means something left over, opposite to harbinger which is a forerunner." }
+      ]
+    },
+    {
+      "sentence": "The first few cases of the illness were harbingers of a widespread epidemic that would follow.",
+      "answerChoices": [
+        { "distractor": "victims", "closeness": 3, "reasoning": "Victims are those affected by illness, but harbingers refer to signs of what's coming, not the affected themselves." },
+        { "distractor": "examples", "closeness": 3, "reasoning": "Examples are instances of something, but harbingers specifically refer to early signs of future events." },
+        { "distractor": "origins", "closeness": 3, "reasoning": "Origins mean sources or beginnings, but harbingers refer to signs preceding major events." },
+        { "distractor": "precursors", "closeness": 3, "reasoning": "Precursors mean things that come before, nearly synonymous with harbinger, but harbinger emphasizes signaling rather than mere precedence." },
+        { "distractor": "outbreaks", "closeness": 2, "reasoning": "Outbreak means a sudden occurrence, but harbinger refers to early signs preceding an outbreak." },
+        { "distractor": "symptoms", "closeness": 2, "reasoning": "Symptoms are signs of present illness, but harbingers refer to signs of future events." },
+        { "distractor": "incidents", "closeness": 2, "reasoning": "Incident means an event or occurrence, but harbinger refers to a sign of future events." },
+        { "distractor": "forewarnings", "closeness": 2, "reasoning": "Forewarning means advance notice, related to harbinger but emphasizing intentional warning." },
+        { "distractor": "results", "closeness": 1, "reasoning": "Results mean outcomes or effects, opposite to harbinger which comes before rather than after." },
+        { "distractor": "conclusions", "closeness": 1, "reasoning": "Conclusions mean final outcomes, opposite to harbinger which comes early as a sign." },
+        { "distractor": "remnants", "closeness": 1, "reasoning": "Remnants are things left over after an event, opposite to harbingers which precede events." }
+      ]
+    },
+    {
+      "sentence": "Economic indicators served as harbingers of the financial crisis that would devastate the market.",
+      "answerChoices": [
+        { "distractor": "proof", "closeness": 3, "reasoning": "Proof means definitive evidence, but harbinger refers to a sign or forerunner, not proof." },
+        { "distractor": "measures", "closeness": 3, "reasoning": "Measures can mean gauges or assessments, but harbinger specifically refers to signs of future events." },
+        { "distractor": "signals", "closeness": 3, "reasoning": "Signals mean signs or communications, very close to harbinger, but signals emphasize transmission while harbingers emphasize foreshadowing." },
+        { "distractor": "causes", "closeness": 3, "reasoning": "Causes mean things that produce effects, but harbingers refer to signs preceding events, not the causes themselves." },
+        { "distractor": "factors", "closeness": 2, "reasoning": "Factors mean elements or components, but harbinger specifically refers to signs of future events." },
+        { "distractor": "predictors", "closeness": 2, "reasoning": "Predictors mean things that forecast outcomes, but harbinger refers to signs, not forecasting devices." },
+        { "distractor": "warnings", "closeness": 2, "reasoning": "Warnings mean alerts of danger, but harbinger refers to natural signs, not intentional alerts." },
+        { "distractor": "benchmarks", "closeness": 2, "reasoning": "Benchmarks are standards for measurement, but harbinger refers to signs of future events." },
+        { "distractor": "consequences", "closeness": 1, "reasoning": "Consequences mean effects or results, opposite to harbinger which precedes rather than follows." },
+        { "distractor": "outcomes", "closeness": 1, "reasoning": "Outcomes mean results, opposite to harbinger which is a forerunner or sign." },
+        { "distractor": "resolutions", "closeness": 1, "reasoning": "Resolutions mean solutions or decisions, opposite to harbinger which is a forerunner." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "discern",
+  "sentenceSets": [
+    {
+      "sentence": "It took time to discern the pattern in data that, at first, appeared entirely random.",
+      "answerChoices": [
+        { "distractor": "ignore", "closeness": 3, "reasoning": "To ignore is to disregard; the sentence shows the opposite — active effort to detect and understand the pattern." },
+        { "distractor": "create", "closeness": 3, "reasoning": "To create is to make something new; the sentence shows detecting an existing pattern, not inventing one." },
+        { "distractor": "assume", "closeness": 3, "reasoning": "To assume is to suppose without evidence; the sentence emphasizes perceiving the pattern through actual investigation of data." },
+        { "distractor": "dismiss", "closeness": 3, "reasoning": "To dismiss is to reject or disregard; the sentence shows pursuing investigation despite initial randomness, not dismissing it." },
+        { "distractor": "obscure", "closeness": 2, "reasoning": "To obscure is to make unclear; the sentence shows removing obscurity by detecting the pattern, the opposite of obscuring." },
+        { "distractor": "overlook", "closeness": 2, "reasoning": "To overlook is to fail to notice; the sentence shows deliberate discovery after focused effort, not accidental overlooking." },
+        { "distractor": "misinterpret", "closeness": 2, "reasoning": "To misinterpret is to understand incorrectly; the sentence implies successful detection, not mistaken understanding." },
+        { "distractor": "conceal", "closeness": 1, "reasoning": "To conceal is to hide; the sentence shows revealing the hidden pattern through analysis, the opposite of concealing." },
+        { "distractor": "invent", "closeness": 1, "reasoning": "To invent is to create from imagination; the sentence shows discovering an existing pattern within actual data." },
+        { "distractor": "fabricate", "closeness": 1, "reasoning": "To fabricate is to create falsely; the sentence emphasizes finding a real pattern, not making up false connections." },
+        { "distractor": "randomize", "closeness": 1, "reasoning": "To randomize is to make disorganized; the sentence shows the opposite — discovering order within apparent chaos." }
+      ]
+    },
+    {
+      "sentence": "In the dense fog, the lighthouse keeper could barely discern the coastline, though she knew exactly where to look.",
+      "answerChoices": [
+        { "distractor": "memorize", "closeness": 3, "reasoning": "To memorize is to commit to memory; the sentence shows visual perception in the present moment, not recalling from memory." },
+        { "distractor": "imagine", "closeness": 3, "reasoning": "To imagine is to picture in the mind; the sentence emphasizes actual visual perception despite difficult conditions, not mental imagery." },
+        { "distractor": "predict", "closeness": 3, "reasoning": "To predict is to forecast what will happen; the sentence describes perceiving the present coastline, not forecasting future conditions." },
+        { "distractor": "construct", "closeness": 3, "reasoning": "To construct is to build or assemble; the sentence describes visual detection, not physical construction." },
+        { "distractor": "sketch", "closeness": 2, "reasoning": "To sketch is to draw; the sentence describes seeing the coastline, not creating a representation of it." },
+        { "distractor": "locate", "closeness": 2, "reasoning": "To locate is to find the position of something; while related to seeing it, the sentence emphasizes visual perception itself, not determining location." },
+        { "distractor": "approach", "closeness": 2, "reasoning": "To approach is to move toward; the sentence describes perceiving from a stationary position, not navigating toward the coastline." },
+        { "distractor": "obscure", "closeness": 1, "reasoning": "To obscure is to make hidden; the fog does obscure the view, but the sentence shows the keeper managing to see despite this, not being obscured." },
+        { "distractor": "obliterate", "closeness": 1, "reasoning": "To obliterate is to destroy completely; while fog reduces visibility, the coastline itself remains and is perceptible, not destroyed." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "To ignore is to disregard; the sentence shows active effort to perceive despite difficult conditions, not deliberately ignoring." },
+        { "distractor": "abandon", "closeness": 1, "reasoning": "To abandon is to forsake or give up; the keeper's prior knowledge and effort indicate she did not abandon attempts to see." }
+      ]
+    },
+    {
+      "sentence": "Despite his polite words, she could discern genuine frustration beneath his careful tone of voice.",
+      "answerChoices": [
+        { "distractor": "assume", "closeness": 3, "reasoning": "To assume is to suppose without clear evidence; the sentence shows actively perceiving frustration, not making unsupported assumptions." },
+        { "distractor": "infer", "closeness": 3, "reasoning": "To infer is to conclude from evidence; while related to discern, infer emphasizes logical deduction, while discern emphasizes direct perception." },
+        { "distractor": "fabricate", "closeness": 3, "reasoning": "To fabricate is to create falsely; the sentence shows detecting actual frustration, not inventing emotions that aren't there." },
+        { "distractor": "misread", "closeness": 3, "reasoning": "To misread is to interpret incorrectly; the sentence implies accurate perception of hidden frustration, not mistaken interpretation." },
+        { "distractor": "believe", "closeness": 2, "reasoning": "To believe is to accept as true; the sentence emphasizes perceiving the emotion, not just accepting someone's statement." },
+        { "distractor": "trust", "closeness": 2, "reasoning": "To trust is to have confidence in someone's truthfulness; the sentence shows her distrusting the surface appearance by detecting underlying frustration." },
+        { "distractor": "overlook", "closeness": 2, "reasoning": "To overlook is to fail to notice; the sentence shows her noticing what his polite words attempted to hide." },
+        { "distractor": "conceal", "closeness": 1, "reasoning": "To conceal is to hide; she did the opposite by revealing the hidden frustration through her perception." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "To ignore is to disregard; the sentence shows her actively attending to what his words masked." },
+        { "distractor": "mimic", "closeness": 1, "reasoning": "To mimic is to copy; the sentence describes perception, not imitation of his tone." },
+        { "distractor": "suppress", "closeness": 1, "reasoning": "To suppress is to hold back; the sentence shows her detecting his emotions, not suppressing her own response." }
+      ]
+    }
+  ]
+}

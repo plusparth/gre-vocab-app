@@ -1,0 +1,53 @@
+{
+  "word": "ornery",
+  "sentenceSets": [
+    {
+      "sentence": "His ornery disposition in negotiations was either genuine or performed, and his counterparts had never been sure which.",
+      "answerChoices": [
+        { "distractor": "cantankerous", "closeness": 3, "reasoning": "Cantankerous means quarrelsome and difficult to deal with, appearing in the definition itself, but doesn't capture the ambiguity about whether the disposition is real or an act." },
+        { "distractor": "prickly", "closeness": 3, "reasoning": "Prickly describes someone easily offended or irritable, but doesn't convey the sense of deliberate contrariness or the strategic ambiguity in negotiations." },
+        { "distractor": "contentious", "closeness": 3, "reasoning": "Contentious describes someone prone to argument and dispute, but emphasizes the actual fighting rather than the irritable temperament itself." },
+        { "distractor": "obstinate", "closeness": 3, "reasoning": "Obstinate describes stubborn resistance to change, which can accompany an ornery temperament but focuses on inflexibility rather than irritability." },
+        { "distractor": "irritable", "closeness": 2, "reasoning": "Irritable means easily annoyed or provoked, which relates to ornery but is more reactive and doesn't suggest the deliberate contrariness in a negotiating context." },
+        { "distractor": "grumpy", "closeness": 2, "reasoning": "Grumpy describes a consistently bad mood, but is more passive and morose than the active cantankerousness the sentence implies in negotiations." },
+        { "distractor": "surly", "closeness": 2, "reasoning": "Surly describes someone bad-tempered and unfriendly, but typically refers to surface rudeness rather than a deeper disposition of contrariness." },
+        { "distractor": "choleric", "closeness": 2, "reasoning": "Choleric describes someone prone to anger and irritability, but is more about anger as an emotion than about cantankerous contrariness." },
+        { "distractor": "affable", "closeness": 1, "reasoning": "Affable means pleasant and friendly, which is the opposite of an irritable disposition that unsettles negotiating counterparts." },
+        { "distractor": "diplomatic", "closeness": 1, "reasoning": "Diplomatic describes skillful negotiation and smooth interpersonal relations, contradicting the difficult disposition the sentence attributes to him." },
+        { "distractor": "genial", "closeness": 1, "reasoning": "Genial means warm and friendly, the opposite of the uncertain, difficult temperament described in negotiations." }
+      ]
+    },
+    {
+      "sentence": "The ornery old farmer refused to pave his driveway even after the county declared it a public hazard, insisting that his grandfather had driven on gravel and so would he.",
+      "answerChoices": [
+        { "distractor": "stubborn", "closeness": 3, "reasoning": "Stubborn describes rigid refusal to change or compromise, but doesn't capture the perverse contrariness of choosing discomfort precisely because of tradition." },
+        { "distractor": "cantankerous", "closeness": 3, "reasoning": "Cantankerous means quarrelsome and difficult, but the farmer's behavior is quietly defiant rather than actively argumentative or seeking confrontation." },
+        { "distractor": "recalcitrant", "closeness": 3, "reasoning": "Recalcitrant means deliberately resistant to authority, which fits the refusal to follow county orders, but doesn't capture the petulant, contrary spirit of the decision." },
+        { "distractor": "intransigent", "closeness": 3, "reasoning": "Intransigent means refusing to compromise on principles, but suggests firm conviction rather than the perverse contrariness of rejecting improvement out of spite." },
+        { "distractor": "rigid", "closeness": 2, "reasoning": "Rigid describes something inflexible or unable to bend, but doesn't convey the active cantankerousness or the sense of deliberate contrariness." },
+        { "distractor": "curmudgeonly", "closeness": 2, "reasoning": "Curmudgeonly describes a grumpy, misanthropic old person, but emphasizes sourness rather than the specific perverseness of choosing discomfort over reason." },
+        { "distractor": "willful", "closeness": 2, "reasoning": "Willful describes deliberate or intentional action, but doesn't capture the cantankerous spirit of the defiance." },
+        { "distractor": "rebellious", "closeness": 2, "reasoning": "Rebellious describes active resistance to authority, but suggests ideological opposition rather than the arbitrary contrariness of the farmer's position." },
+        { "distractor": "cooperative", "closeness": 1, "reasoning": "Cooperative means willing to work together, which contradicts his defiant refusal to comply with county safety orders." },
+        { "distractor": "tractable", "closeness": 1, "reasoning": "Tractable means easily managed or led, the opposite of someone who refuses reasonable improvements out of pure contrariness." },
+        { "distractor": "compliant", "closeness": 1, "reasoning": "Compliant means willing to obey or conform, contradicting his stubborn refusal to adopt modern paving standards." }
+      ]
+    },
+    {
+      "sentence": "Her ornery tendency to contradict everything her boss suggested meant that even her best ideas were automatically dismissed in meetings.",
+      "answerChoices": [
+        { "distractor": "contrarian", "closeness": 3, "reasoning": "Contrarian describes someone who opposes prevailing views, but suggests deliberate intellectual opposition rather than the irritable, cantankerous habit implied by ornery." },
+        { "distractor": "obstinate", "closeness": 3, "reasoning": "Obstinate describes stubborn resistance to change, but doesn't capture the specific sense of perverse contrariness that makes people dismiss her ideas." },
+        { "distractor": "contentious", "closeness": 3, "reasoning": "Contentious describes someone prone to dispute, but emphasizes the argumentativeness rather than the deeper ornery temperament." },
+        { "distractor": "prickly", "closeness": 3, "reasoning": "Prickly describes someone easily offended or irritable, but doesn't convey the active habit of contradicting everything specifically." },
+        { "distractor": "argumentative", "closeness": 2, "reasoning": "Argumentative describes someone prone to arguing, but focuses on the tendency to debate rather than the cantankerous spirit of automatic contradiction." },
+        { "distractor": "obstreperous", "closeness": 2, "reasoning": "Obstreperous describes someone noisily or stubbornly defiant, but the sentence suggests quiet contradiction rather than loud resistance." },
+        { "distractor": "quarrelsome", "closeness": 2, "reasoning": "Quarrelsome describes someone prone to fighting or dispute, but implies seeking actual conflict rather than the automatic contrary behavior." },
+        { "distractor": "adverse", "closeness": 2, "reasoning": "Adverse means opposing or harmful, but describes a condition or position rather than a character trait or temperament." },
+        { "distractor": "cooperative", "closeness": 1, "reasoning": "Cooperative means willing to work together, which contradicts her automatic contradiction of her boss's suggestions." },
+        { "distractor": "agreeable", "closeness": 1, "reasoning": "Agreeable means willing to accept or consent, the opposite of someone with a tendency to contradict everything." },
+        { "distractor": "supportive", "closeness": 1, "reasoning": "Supportive means giving approval and encouragement, which contradicts her contrary habit of automatic disagreement." }
+      ]
+    }
+  ]
+}

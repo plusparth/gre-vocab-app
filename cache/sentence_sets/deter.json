@@ -1,0 +1,53 @@
+{
+  "word": "deter",
+  "sentenceSets": [
+    {
+      "sentence": "The severity of the penalty was intended to deter future violations rather than to punish the current offender.",
+      "answerChoices": [
+        { "distractor": "prevent", "closeness": 3, "reasoning": "Prevent means to stop something from happening, which deter aims to do, but does not emphasize the discouragement through fear or consequence." },
+        { "distractor": "discourage", "closeness": 3, "reasoning": "Discourage means to make someone less confident or enthusiastic, which is very close to deter, but is less forceful about prevention." },
+        { "distractor": "dissuade", "closeness": 3, "reasoning": "Dissuade means to persuade someone not to do something, very close to deter, but emphasizes persuasion more than consequences." },
+        { "distractor": "inhibit", "closeness": 3, "reasoning": "Inhibit means to restrain or prevent, but emphasizes internal or natural restraint rather than external discouragement through penalty." },
+        { "distractor": "forbid", "closeness": 2, "reasoning": "Forbid means to prohibit by authority, but is a command rather than a means of discouraging through consequences." },
+        { "distractor": "hinder", "closeness": 2, "reasoning": "Hinder means to obstruct or make difficult, which a penalty might do, but does not specifically convey the discouraging intent." },
+        { "distractor": "obstruct", "closeness": 2, "reasoning": "Obstruct means to block or get in the way of, but does not convey the psychological discouragement that deter implies." },
+        { "distractor": "restrain", "closeness": 2, "reasoning": "Restrain means to hold back or limit, but does not specifically mean to discourage through consequences." },
+        { "distractor": "encourage", "closeness": 1, "reasoning": "Encourage means to inspire confidence or support, which is the opposite of deter." },
+        { "distractor": "promote", "closeness": 1, "reasoning": "Promote means to advance or support, which is the opposite of deter." },
+        { "distractor": "invite", "closeness": 1, "reasoning": "Invite means to encourage or request someone's presence, which is the opposite of deter." }
+      ]
+    },
+    {
+      "sentence": "The heavy security presence at the border was designed to deter smugglers from attempting illegal crossings.",
+      "answerChoices": [
+        { "distractor": "stop", "closeness": 3, "reasoning": "Stop means to halt or cease, which the security aims to accomplish, but does not emphasize the psychological deterrence." },
+        { "distractor": "arrest", "closeness": 3, "reasoning": "Arrest means to seize or take into custody, which security might do, but is the consequence rather than the deterrent intent." },
+        { "distractor": "catch", "closeness": 3, "reasoning": "Catch means to capture, which the security aims for, but does not convey the advance deterrence of the smugglers' intent." },
+        { "distractor": "apprehend", "closeness": 3, "reasoning": "Apprehend means to seize or arrest, but is the consequence of failure to be deterred, not the deterrence itself." },
+        { "distractor": "police", "closeness": 2, "reasoning": "Police is the act of monitoring or enforcing rules, but does not specifically mean to discourage beforehand." },
+        { "distractor": "patrol", "closeness": 2, "reasoning": "Patrol means to guard or monitor an area, but does not specifically convey the intent to discourage from the start." },
+        { "distractor": "guard", "closeness": 2, "reasoning": "Guard means to protect or watch over, but emphasizes the protection function rather than the discouragement function." },
+        { "distractor": "blockade", "closeness": 2, "reasoning": "Blockade means to seal off with military forces, but is a physical barrier rather than a psychological deterrent." },
+        { "distractor": "facilitate", "closeness": 1, "reasoning": "Facilitate means to make easier, which is the opposite of deter." },
+        { "distractor": "enable", "closeness": 1, "reasoning": "Enable means to make possible, which is the opposite of deter." },
+        { "distractor": "assist", "closeness": 1, "reasoning": "Assist means to help or support, which is the opposite of deter." }
+      ]
+    },
+    {
+      "sentence": "Nothing could deter the young activist from speaking out against injustice, despite threats and social ostracism.",
+      "answerChoices": [
+        { "distractor": "silence", "closeness": 3, "reasoning": "Silence means to stop someone from speaking, which would deter the activist, but is more forceful and direct than deter." },
+        { "distractor": "intimidate", "closeness": 3, "reasoning": "Intimidate means to frighten into submission, which the threats attempted, very close to deter but emphasizing fear." },
+        { "distractor": "threaten", "closeness": 3, "reasoning": "Threaten is making threats, which was done, but is the action rather than the deterrent effect." },
+        { "distractor": "coerce", "closeness": 3, "reasoning": "Coerce means to force or compel, which would deter, but emphasizes force rather than discouragement." },
+        { "distractor": "suppress", "closeness": 2, "reasoning": "Suppress means to prevent from being expressed or published, which would deter, but is more forceful." },
+        { "distractor": "restrain", "closeness": 2, "reasoning": "Restrain means to hold back, which would deter, but emphasizes physical restraint." },
+        { "distractor": "subdue", "closeness": 2, "reasoning": "Subdue means to bring under control, which is stronger than deter." },
+        { "distractor": "muzzle", "closeness": 2, "reasoning": "Muzzle means to prevent from speaking, but is more forceful and literal than deter." },
+        { "distractor": "embolden", "closeness": 1, "reasoning": "Embolden means to give courage or confidence, which is the opposite of deter." },
+        { "distractor": "inspire", "closeness": 1, "reasoning": "Inspire means to fill with enthusiasm, which is the opposite of deter." },
+        { "distractor": "encourage", "closeness": 1, "reasoning": "Encourage means to support or give confidence, which is the opposite of deter." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "objectionable",
+  "sentenceSets": [
+    {
+      "sentence": "Several passages were flagged as objectionable not because they were false but because of the way they were phrased.",
+      "answerChoices": [
+        { "distractor": "inaccurate", "closeness": 3, "reasoning": "Inaccuracy is falsehood; the sentence explicitly states the passages were flagged not because they were false but because of phrasing, making inaccuracy wrong." },
+        { "distractor": "offensive", "closeness": 3, "reasoning": "Offensive is close to objectionable, but the sentence shows the issue was specifically the phrasing, not that the content inherently offended." },
+        { "distractor": "problematic", "closeness": 3, "reasoning": "Problematic suggests general issues, but the sentence specifies the phrasing was the problem, not broader issues with the content." },
+        { "distractor": "undesirable", "closeness": 3, "reasoning": "Undesirability suggests the content was unwanted, but the sentence shows the phrasing made passages flagged, not the underlying ideas." },
+        { "distractor": "controversial", "closeness": 2, "reasoning": "Controversial suggests disputed content, but the sentence shows the phrasing caused the flagging, not that the ideas themselves were disputed." },
+        { "distractor": "inappropriate", "closeness": 2, "reasoning": "Inappropriateness suggests unfitness for context, but the sentence specifies the phrasing was objectionable, not the appropriateness of the ideas." },
+        { "distractor": "misleading", "closeness": 2, "reasoning": "Misleading suggests false impression, but the sentence explicitly notes the passages were not false; the phrasing was the issue." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "Ambiguity suggests unclear meaning, but the sentence specifies the phrasing was objectionable in a way that flagged passages, not unclear." },
+        { "distractor": "accurate", "closeness": 1, "reasoning": "Accurate means truthful; the sentence shows passages flagged not for accuracy but for phrasing." },
+        { "distractor": "laudable", "closeness": 1, "reasoning": "Laudable means praiseworthy; the sentence shows passages flagged as problematic, not praised." },
+        { "distractor": "acceptable", "closeness": 1, "reasoning": "Acceptable means satisfactory; the sentence shows passages flagged due to their phrasing, suggesting they were not acceptable as written." }
+      ]
+    },
+    {
+      "sentence": "The critic's objectionable language in the review overshadowed any legitimate points about the film's weaknesses.",
+      "answerChoices": [
+        { "distractor": "harsh", "closeness": 3, "reasoning": "Harsh language is strong, as objectionable language is, but the sentence shows the language overshadowed legitimate points, suggesting something beyond mere severity." },
+        { "distractor": "offensive", "closeness": 3, "reasoning": "Offensive is close to objectionable, but the sentence shows the language overshadowed legitimate critiques, suggesting the problem extended beyond causing offense." },
+        { "distractor": "crude", "closeness": 3, "reasoning": "Crude language is unsophisticated, but the sentence shows the language overshadowed legitimate film criticism, suggesting deliberate offensiveness beyond crudeness." },
+        { "distractor": "unrefined", "closeness": 3, "reasoning": "Unrefined language lacks polish, but the sentence shows the language overshadowed legitimate points, suggesting offensive content, not mere lack of polish." },
+        { "distractor": "blunt", "closeness": 2, "reasoning": "Blunt language is direct and sometimes rude, but the sentence shows the language caused readers to overlook legitimate criticism." },
+        { "distractor": "sarcastic", "closeness": 2, "reasoning": "Sarcasm uses irony mockingly, but the sentence shows the language was objectionable in a way that overshadowed legitimate critiques." },
+        { "distractor": "condescending", "closeness": 2, "reasoning": "Condescension is patronizing, but the sentence shows language that overshadowed valid points, suggesting stronger offense than mere condescension." },
+        { "distractor": "dismissive", "closeness": 2, "reasoning": "Dismissiveness shows contempt, but the sentence emphasizes language so objectionable it overshadowed legitimate criticism, suggesting direct offense." },
+        { "distractor": "complimentary", "closeness": 1, "reasoning": "Complimentary means praising; the sentence shows language flagged as objectionable that overshadowed legitimate critiques." },
+        { "distractor": "diplomatic", "closeness": 1, "reasoning": "Diplomatic language is tactful; the sentence shows language objectionable enough to overshadow legitimate film criticism." },
+        { "distractor": "measured", "closeness": 1, "reasoning": "Measured language is restrained; the sentence shows language so objectionable it overshadowed the critic's valid points about the film." }
+      ]
+    },
+    {
+      "sentence": "While the study's findings were sound, its objectionable methodology—interviewing subjects in ways that led them toward predetermined conclusions—undermined credibility.",
+      "answerChoices": [
+        { "distractor": "flawed", "closeness": 3, "reasoning": "Flawed means defective, and the methodology was flawed, but the sentence requires a word describing the offensiveness or undesirability of the methodology, not its defects." },
+        { "distractor": "questionable", "closeness": 3, "reasoning": "Questionable suggests doubt, but the sentence specifies the methodology was objectionable in a way that undermined credibility—suggesting something worse than mere doubt." },
+        { "distractor": "biased", "closeness": 3, "reasoning": "Biased methodology leads toward conclusions, as the sentence shows, but 'biased' describes the direction of influence, not the undesirability of the approach." },
+        { "distractor": "problematic", "closeness": 3, "reasoning": "Problematic suggests issues, but the sentence requires a word describing the methodology as undesirable or offensive, not just problematic." },
+        { "distractor": "controversial", "closeness": 2, "reasoning": "Controversial suggests disputed methods, but the sentence shows the methodology was objectionable because it led subjects toward conclusions." },
+        { "distractor": "unscientific", "closeness": 2, "reasoning": "Unscientific suggests lack of rigor, but the sentence emphasizes the method's objectionable nature in leading subjects toward conclusions." },
+        { "distractor": "unreliable", "closeness": 2, "reasoning": "Unreliable suggests results cannot be trusted, but the sentence shows the methodology itself was objectionable through its leading questions." },
+        { "distractor": "unethical", "closeness": 2, "reasoning": "Unethical methodology might be objectionable, but the sentence specifically describes how the methodology led subjects toward conclusions, not broader ethical issues." },
+        { "distractor": "rigorous", "closeness": 1, "reasoning": "Rigorous methodology is careful and thorough; the sentence shows the methodology was objectionable because it led subjects toward predetermined conclusions." },
+        { "distractor": "sound", "closeness": 1, "reasoning": "Sound methodology is trustworthy; the sentence shows the methodology was objectionable, undermining credibility." },
+        { "distractor": "objective", "closeness": 1, "reasoning": "Objective methodology avoids bias; the sentence shows the methodology objectionably led subjects toward predetermined conclusions." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "pallid",
+  "sentenceSets": [
+    {
+      "sentence": "His pallid defense of the decision acknowledged every criticism without conceding the point.",
+      "answerChoices": [
+        { "distractor": "weak", "closeness": 3, "reasoning": "Weak means lacking strength or force, but the sentence uses pallid as a descriptor of the defense's quality rather than mere weakness; it suggests the defense lacked conviction and vitality." },
+        { "distractor": "feeble", "closeness": 3, "reasoning": "Feeble means lacking strength or force, but pallid emphasizes the colorless or lifeless quality of the defense more than general feebleness." },
+        { "distractor": "inadequate", "closeness": 3, "reasoning": "Inadequate means insufficient for the purpose, but the sentence shows the defense acknowledging all criticisms, suggesting adequacy in form even if lacking conviction." },
+        { "distractor": "unconvincing", "closeness": 3, "reasoning": "Unconvincing means failing to convince, which pallid might describe, but pallid more specifically evokes a lifeless or colorless quality rather than mere lack of persuasion." },
+        { "distractor": "hesitant", "closeness": 2, "reasoning": "Hesitant means uncertain or reluctant, but the sentence shows a defense that is thorough if bloodless, not hesitant in its acknowledgments." },
+        { "distractor": "reluctant", "closeness": 2, "reasoning": "Reluctant means unwilling, but the sentence shows a defense that proceeded fully if without passion, not one that showed reluctance." },
+        { "distractor": "meek", "closeness": 2, "reasoning": "Meek means quiet and gentle, but the sentence emphasizes the defense's comprehensive nature without vigor rather than its quietness." },
+        { "distractor": "timid", "closeness": 2, "reasoning": "Timid means lacking confidence, but the sentence shows a defense that methodically acknowledges every point rather than one that timidly backed away." },
+        { "distractor": "passionate", "closeness": 1, "reasoning": "Passionate means filled with strong feeling, the opposite of pallid's sense of being lifeless and colorless." },
+        { "distractor": "vigorous", "closeness": 1, "reasoning": "Vigorous means strong and active, directly opposed to the pallid defense that lacked energy and conviction." },
+        { "distractor": "colorful", "closeness": 1, "reasoning": "Colorful means bright and interesting, the opposite of pallid's lack of color and vitality." }
+      ]
+    },
+    {
+      "sentence": "The patient's pallid complexion and shallow breathing alarmed the nurse, who immediately notified the attending physician of the sudden change.",
+      "answerChoices": [
+        { "distractor": "ashen", "closeness": 3, "reasoning": "Ashen means pale as ash, very similar to pallid in describing a colorless pale appearance, but slightly more specifically suggests the color of ash." },
+        { "distractor": "pale", "closeness": 3, "reasoning": "Pale means having little color, nearly synonymous with pallid, but slightly more general and less clinical in its implications." },
+        { "distractor": "wan", "closeness": 3, "reasoning": "Wan means pale and looking ill, nearly synonymous with pallid and often used of sickly appearance, making it a strong trap." },
+        { "distractor": "sallow", "closeness": 3, "reasoning": "Sallow means unhealthily pale or yellowish, very similar to pallid in describing a sickly pale complexion." },
+        { "distractor": "flushed", "closeness": 2, "reasoning": "Flushed means reddened, the opposite color from pallid, though both describe noticeable complexion changes." },
+        { "distractor": "rosy", "closeness": 2, "reasoning": "Rosy means pink or reddish, opposed to pallid's colorlessness, though both describe notable complexion." },
+        { "distractor": "ruddy", "closeness": 2, "reasoning": "Ruddy means reddish or sunburned, the opposite of pallid's lack of color." },
+        { "distractor": "feverish", "closeness": 2, "reasoning": "Feverish describes a state of illness with elevated temperature, but pallid specifically describes the visual appearance rather than the underlying condition." },
+        { "distractor": "vibrant", "closeness": 1, "reasoning": "Vibrant means full of energy and color, the opposite of pallid's colorless and weak appearance." },
+        { "distractor": "robust", "closeness": 1, "reasoning": "Robust means strong and healthy, directly opposed to the pallid appearance that alarmed the nurse." },
+        { "distractor": "blooming", "closeness": 1, "reasoning": "Blooming means glowing with health and beauty, the opposite of pallid's sickly colorless appearance." }
+      ]
+    },
+    {
+      "sentence": "The film's cinematography was criticized as pallid, with washed-out colors that drained the landscape of its natural drama and beauty.",
+      "answerChoices": [
+        { "distractor": "dull", "closeness": 3, "reasoning": "Dull means lacking brightness or vividness, similar to pallid in describing a lack of visual impact, but more general than pallid's specific connotation of colorlessness." },
+        { "distractor": "muted", "closeness": 3, "reasoning": "Muted means toned down or subdued in color, very similar to pallid in describing colors that lack vibrancy and are visually diminished." },
+        { "distractor": "lifeless", "closeness": 3, "reasoning": "Lifeless means lacking vitality or animation, which pallid cinematography would be, but refers to the overall quality rather than specifically the color palette." },
+        { "distractor": "gray", "closeness": 3, "reasoning": "Gray describes a colorless neutral tone, and pallid cinematography might appear grayish, but gray is less metaphorical and more literal than pallid." },
+        { "distractor": "dim", "closeness": 2, "reasoning": "Dim means not bright or difficult to see, but the sentence emphasizes the washed-out color rather than overall brightness or visibility." },
+        { "distractor": "faded", "closeness": 2, "reasoning": "Faded means having lost color or brightness, which pallid cinematography might appear, but faded suggests discoloration through age rather than aesthetic choice." },
+        { "distractor": "washed out", "closeness": 2, "reasoning": "Washed out describes colors that lack saturation, which is how the cinematography is actually described, making this nearly synonymous but more literal than metaphorical." },
+        { "distractor": "murky", "closeness": 2, "reasoning": "Murky describes dark and unclear, but pallid suggests washed-out lightness rather than darkness." },
+        { "distractor": "brilliant", "closeness": 1, "reasoning": "Brilliant means shining brightly, the opposite of pallid's colorless and washed-out appearance." },
+        { "distractor": "vibrant", "closeness": 1, "reasoning": "Vibrant means full of bright color and energy, directly opposed to pallid's lack of color and vitality." },
+        { "distractor": "saturated", "closeness": 1, "reasoning": "Saturated means filled with intense color, the opposite of pallid's washed-out colorlessness." }
+      ]
+    }
+  ]
+}

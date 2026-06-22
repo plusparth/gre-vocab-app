@@ -1,0 +1,53 @@
+{
+  "word": "devout",
+  "sentenceSets": [
+    {
+      "sentence": "A devout practitioner, she observed the rituals of her faith without fanfare or apology.",
+      "answerChoices": [
+        { "distractor": "faithful", "closeness": 3, "reasoning": "Faithful describes loyalty and commitment; while close, the sentence emphasizes religious practice and observance of rituals more than personal loyalty or trustworthiness." },
+        { "distractor": "devoted", "closeness": 3, "reasoning": "Devoted emphasizes dedication and commitment; however, devout specifically implies dedication to religious matters, and the sentence's mention of rituals makes devout more precise than the broader term devoted." },
+        { "distractor": "sincere", "closeness": 3, "reasoning": "Sincere means genuine and honest; the sentence describes religious observance, and while sincerity often accompanies such practice, the term does not capture the specific religious dimension." },
+        { "distractor": "pious", "closeness": 3, "reasoning": "Pious is very close and often interchangeable; however, pious can sometimes carry a subtle connotation of affected or ostentatious religiosity, whereas devout emphasizes earnest, genuine religious practice." },
+        { "distractor": "reverent", "closeness": 2, "reasoning": "Reverent describes respectful attitude toward something sacred; while applicable, the sentence emphasizes active observance of rituals rather than just respectful attitude." },
+        { "distractor": "religious", "closeness": 2, "reasoning": "Religious can mean following religious practice, but it is less specific about the depth and commitment implied by devout." },
+        { "distractor": "conscientious", "closeness": 2, "reasoning": "Conscientious means careful and thorough; while the sentence shows careful ritual practice, it does not necessarily convey the spiritual depth that devout implies." },
+        { "distractor": "zealous", "closeness": 2, "reasoning": "Zealous emphasizes enthusiastic, often excessive, fervor; the sentence describes calm, unhesitating practice without the fervor that zealous suggests." },
+        { "distractor": "worldly", "closeness": 1, "reasoning": "Worldly means concerned with secular rather than spiritual matters, opposite to devout." },
+        { "distractor": "apathetic", "closeness": 1, "reasoning": "Apathetic means lacking interest or concern; the sentence describes someone deeply engaged in religious practice." },
+        { "distractor": "skeptical", "closeness": 1, "reasoning": "Skeptical means doubtful or questioning; the sentence shows someone practicing faith without hesitation." }
+      ]
+    },
+    {
+      "sentence": "The devout monks in the monastery began their day at dawn with hours of silent prayer and contemplation.",
+      "answerChoices": [
+        { "distractor": "holy", "closeness": 3, "reasoning": "Holy describes something sacred or consecrated; the sentence focuses on the monks' personal commitment to religious practice rather than on the sacred nature of the monastery itself." },
+        { "distractor": "pious", "closeness": 3, "reasoning": "Pious is nearly synonymous; however, it can sometimes suggest affected or ostentatious religiosity, whereas devout emphasizes sincere, deep religious commitment." },
+        { "distractor": "faithful", "closeness": 3, "reasoning": "Faithful describes loyalty and trustworthiness; while monks are certainly faithful to their vows, the sentence emphasizes their deep religious practice more than loyalty as such." },
+        { "distractor": "spiritual", "closeness": 3, "reasoning": "Spiritual describes connection to the soul or transcendent matters; while monks are spiritual, devout more specifically captures their active observance and commitment to religious life." },
+        { "distractor": "reverent", "closeness": 2, "reasoning": "Reverent describes respectful, worshipful attitude; while the sentence implies reverence, it emphasizes the monks' actual religious practice rather than their attitude." },
+        { "distractor": "earnest", "closeness": 2, "reasoning": "Earnest means sincere and serious; the sentence describes religious practice, and while earnestness is implied, it does not convey the specifically religious dimension." },
+        { "distractor": "sincere", "closeness": 2, "reasoning": "Sincere means genuine; while the monks are certainly sincere, the sentence is about their religious commitment, not sincerity as such." },
+        { "distractor": "dedicated", "closeness": 2, "reasoning": "Dedicated emphasizes commitment in general; the sentence is about commitment specifically to religious practice, which devout more precisely captures." },
+        { "distractor": "secular", "closeness": 1, "reasoning": "Secular means nonreligious or worldly, opposite to devout." },
+        { "distractor": "indifferent", "closeness": 1, "reasoning": "Indifferent means unconcerned; the sentence describes monks deeply engaged in religious practice." },
+        { "distractor": "casual", "closeness": 1, "reasoning": "Casual means informal or careless; the sentence shows serious, structured religious practice." }
+      ]
+    },
+    {
+      "sentence": "Despite living in a secular city, the devout elderly woman never missed a weekly visit to her place of worship.",
+      "answerChoices": [
+        { "distractor": "observant", "closeness": 3, "reasoning": "Observant can mean both watchful and diligent in observing religious laws; however, the sentence emphasizes religious commitment and practice rather than careful observation or obedience to law." },
+        { "distractor": "faithful", "closeness": 3, "reasoning": "Faithful describes loyalty; the sentence emphasizes consistent religious practice and commitment rather than trustworthiness or loyalty as concepts." },
+        { "distractor": "pious", "closeness": 3, "reasoning": "Pious is very similar; however, it can carry a slight connotation of ostentatious or affected religiosity, while devout suggests genuine, uncalculated commitment." },
+        { "distractor": "devoted", "closeness": 3, "reasoning": "Devoted emphasizes dedication; while close, devout more specifically implies dedication to religious matters and practice." },
+        { "distractor": "committed", "closeness": 2, "reasoning": "Committed means dedicated to a cause; while the woman is clearly committed, the sentence is about religious commitment specifically, which devout captures more precisely." },
+        { "distractor": "religious", "closeness": 2, "reasoning": "Religious describes involvement with religion; it is less specific about the depth and consistency of practice implied by devout." },
+        { "distractor": "disciplined", "closeness": 2, "reasoning": "Disciplined means controlled and orderly; while the woman's consistent attendance reflects discipline, the sentence emphasizes religious commitment rather than discipline as such." },
+        { "distractor": "conscientious", "closeness": 2, "reasoning": "Conscientious means careful and thorough; while applicable, it does not capture the specifically religious dimension of the woman's practice." },
+        { "distractor": "indifferent", "closeness": 1, "reasoning": "Indifferent means unconcerned; the sentence shows the woman actively maintaining her religious practice." },
+        { "distractor": "apathetic", "closeness": 1, "reasoning": "Apathetic means lacking interest or concern; the sentence describes someone engaged in regular, meaningful religious practice." },
+        { "distractor": "worldly", "closeness": 1, "reasoning": "Worldly means focused on secular concerns; the sentence shows someone steadfastly maintaining religious practice." }
+      ]
+    }
+  ]
+}

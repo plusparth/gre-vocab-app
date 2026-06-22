@@ -1,0 +1,53 @@
+{
+  "word": "disconcert",
+  "sentenceSets": [
+    {
+      "sentence": "The revelation disconcerted the committee, which had not anticipated that the audit would reveal such irregularities.",
+      "answerChoices": [
+        { "distractor": "vindicated", "closeness": 3, "reasoning": "To vindicate is to prove right or justified; the committee's expectation that no irregularities would be found was disproven, not vindicated." },
+        { "distractor": "reassured", "closeness": 3, "reasoning": "To reassure is to restore confidence; irregular findings did the opposite — they undermined the committee's confidence in financial management." },
+        { "distractor": "confirmed", "closeness": 3, "reasoning": "To confirm is to verify an expectation; the revelation contradicted expectations by showing unexpected irregularities." },
+        { "distractor": "satisfied", "closeness": 3, "reasoning": "To satisfy is to fulfill expectations; the discovery of unanticipated problems did the opposite — it created dissatisfaction and confusion." },
+        { "distractor": "informed", "closeness": 2, "reasoning": "To inform is to provide information; while the audit did provide information, the sentence emphasizes confusion and disrupted expectations." },
+        { "distractor": "alerted", "closeness": 2, "reasoning": "To alert is to warn or make aware; while the revelation did alert them to problems, the key effect was throwing them into confusion." },
+        { "distractor": "enlightened", "closeness": 2, "reasoning": "To enlighten is to provide understanding; the revelation created confusion rather than clarity or understanding." },
+        { "distractor": "delighted", "closeness": 1, "reasoning": "To delight is to please greatly; the discovery of financial irregularities would not delight a committee." },
+        { "distractor": "obligated", "closeness": 1, "reasoning": "To obligate is to bind by duty; the revelation did not create obligation but rather confusion about accountability." },
+        { "distractor": "motivated", "closeness": 1, "reasoning": "To motivate is to inspire to action; confusion and disruption differ from positive motivation." },
+        { "distractor": "encouraged", "closeness": 1, "reasoning": "To encourage is to inspire confidence; the irregular findings did the opposite by undermining confidence." }
+      ]
+    },
+    {
+      "sentence": "The heckler's interruption disconcerted the musician mid-solo, though she managed to resume after a few moments.",
+      "answerChoices": [
+        { "distractor": "emboldened", "closeness": 3, "reasoning": "To embolden is to give courage and confidence; the interruption disrupted her performance and threw her off, the opposite of emboldening." },
+        { "distractor": "inspired", "closeness": 3, "reasoning": "To inspire is to stimulate positive feelings or action; the heckler's interruption disrupted the flow, not inspired it." },
+        { "distractor": "restored", "closeness": 3, "reasoning": "To restore is to bring back to a previous state; the interruption disrupted her state, and she only gradually restored it." },
+        { "distractor": "encouraged", "closeness": 3, "reasoning": "To encourage is to inspire confidence and effort; heckling discourages rather than encourages a performer." },
+        { "distractor": "focused", "closeness": 2, "reasoning": "To focus is to concentrate; the interruption broke her concentration, and the sentence shows she had to reestablish focus." },
+        { "distractor": "energized", "closeness": 2, "reasoning": "To energize is to invigorate; an interruption depletes energy and rhythm, not energizes them." },
+        { "distractor": "motivated", "closeness": 2, "reasoning": "To motivate is to inspire to action; a negative interruption undermines motivation rather than creates it." },
+        { "distractor": "silenced", "closeness": 1, "reasoning": "To silence is to stop from speaking; she continued her solo (after resuming), so she was not silenced." },
+        { "distractor": "stopped", "closeness": 1, "reasoning": "To stop is to halt completely; the sentence shows she paused but resumed, indicating she did not stop entirely." },
+        { "distractor": "calmed", "closeness": 1, "reasoning": "To calm is to soothe; an interruption typically agitates rather than calms." },
+        { "distractor": "amused", "closeness": 1, "reasoning": "To amuse is to entertain; being heckled during a performance is not amusing to the musician." }
+      ]
+    },
+    {
+      "sentence": "His sudden confession of long-standing doubts about the relationship disconcerted her, unraveling the sense of certainty she had maintained.",
+      "answerChoices": [
+        { "distractor": "reassured", "closeness": 3, "reasoning": "To reassure is to restore confidence; his doubts had the opposite effect — they unraveled her certainty." },
+        { "distractor": "encouraged", "closeness": 3, "reasoning": "To encourage is to inspire confidence; his confession of doubts undermined confidence in the relationship." },
+        { "distractor": "strengthened", "closeness": 3, "reasoning": "To strengthen is to make more robust; his doubts weakened her certainty, not strengthened it." },
+        { "distractor": "comforted", "closeness": 3, "reasoning": "To comfort is to soothe distress; his sudden confession caused distress and confusion, not comfort." },
+        { "distractor": "informed", "closeness": 2, "reasoning": "To inform is to provide information; while his confession did inform her of his doubts, the key effect was throwing her into confusion." },
+        { "distractor": "clarified", "closeness": 2, "reasoning": "To clarify is to make clear; his confession introduced uncertainty and confusion, not clarity." },
+        { "distractor": "validated", "closeness": 2, "reasoning": "To validate is to confirm as correct; his doubts contradicted her sense of certainty, not validated it." },
+        { "distractor": "vindicated", "closeness": 1, "reasoning": "To vindicate is to prove right or justified; his confession suggested her certainty may have been misplaced." },
+        { "distractor": "deceived", "closeness": 1, "reasoning": "To deceive is to mislead intentionally; his confession reveals the truth, not deception." },
+        { "distractor": "freed", "closeness": 1, "reasoning": "To free is to liberate; while the truth might eventually be liberating, the immediate effect was unraveling her certainty, not freeing her." },
+        { "distractor": "released", "closeness": 1, "reasoning": "To release is to let go; her confusion and unraveled certainty are the opposite of release." }
+      ]
+    }
+  ]
+}

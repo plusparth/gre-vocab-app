@@ -1,0 +1,53 @@
+{
+  "word": "agitate",
+  "sentenceSets": [
+    {
+      "sentence": "The news agitated the crowd, which had gathered hoping for reassurance rather than alarm.",
+      "answerChoices": [
+        { "distractor": "disturbed", "closeness": 3, "reasoning": "Disturbed means troubled or bothered, close to agitated, but doesn't convey the sense of excited or stirred up." },
+        { "distractor": "upset", "closeness": 3, "reasoning": "Upset means made unhappy or troubled, but is less emphatic about the stirring into excited state that agitate conveys." },
+        { "distractor": "alarmed", "closeness": 3, "reasoning": "Alarmed means frightened or made anxious, fitting the unwanted alarm, but doesn't convey the stirred excitement." },
+        { "distractor": "unsettled", "closeness": 3, "reasoning": "Unsettled means made unstable or uncomfortable, but doesn't emphasize the stirring into active state that agitate denotes." },
+        { "distractor": "worried", "closeness": 2, "reasoning": "Worried means anxious, but doesn't convey the sense of being stirred or excited into agitation." },
+        { "distractor": "anxious", "closeness": 2, "reasoning": "Anxious means concerned, but doesn't convey the active stirring or excitement that agitate implies." },
+        { "distractor": "frustrated", "closeness": 2, "reasoning": "Frustrated means thwarted, but doesn't convey the sense of being stirred up into active agitation." },
+        { "distractor": "confused", "closeness": 2, "reasoning": "Confused means uncertain, but doesn't convey the sense of being stirred or excited into agitation." },
+        { "distractor": "calmed", "closeness": 1, "reasoning": "Calmed means soothed and quieted; agitated means stirred up and excited—opposite effects." },
+        { "distractor": "reassured", "closeness": 1, "reasoning": "Reassured means given confidence; the crowd wanted reassurance but the news agitated them—opposite effects." },
+        { "distractor": "comforted", "closeness": 1, "reasoning": "Comforted means soothed; agitated means stirred and troubled—opposite effects." }
+      ]
+    },
+    {
+      "sentence": "The politician agitated the voters with fiery rhetoric before the election.",
+      "answerChoices": [
+        { "distractor": "incited", "closeness": 3, "reasoning": "Incited means provoked to action, fitting the fiery effect, but emphasizes provocation more than the stirring of emotions." },
+        { "distractor": "stirred", "closeness": 3, "reasoning": "Stirred means moved emotionally, very close to agitated, but is less emphatic about the troubling aspect." },
+        { "distractor": "inflamed", "closeness": 3, "reasoning": "Inflamed means intensified, fitting the fiery effect, but doesn't specifically convey the stirring of emotions." },
+        { "distractor": "energized", "closeness": 3, "reasoning": "Energized means given energy or enthusiasm, close to agitated, but doesn't convey the troubling or stirring aspects." },
+        { "distractor": "motivated", "closeness": 2, "reasoning": "Motivated means given reason to act, which the rhetoric might do, but doesn't convey agitation specifically." },
+        { "distractor": "provoked", "closeness": 2, "reasoning": "Provoked means stirred to anger, but doesn't convey the full sense of emotional agitation." },
+        { "distractor": "excited", "closeness": 2, "reasoning": "Excited means stimulated emotionally, but can be positive; agitate implies troubling excitement." },
+        { "distractor": "engaged", "closeness": 2, "reasoning": "Engaged means involved or interested, but doesn't convey the agitation aspect." },
+        { "distractor": "calmed", "closeness": 1, "reasoning": "Calmed means soothed; fiery rhetoric agitates voters—opposite effects." },
+        { "distractor": "disengaged", "closeness": 1, "reasoning": "Disengaged means withdrawn; agitated voters are emotionally stirred up—opposite states." },
+        { "distractor": "reassured", "closeness": 1, "reasoning": "Reassured means given confidence; fiery rhetoric agitates voters—opposite effects." }
+      ]
+    },
+    {
+      "sentence": "The teacher agitated in her seat, growing increasingly frustrated with the students' refusal to cooperate.",
+      "answerChoices": [
+        { "distractor": "fidgeted", "closeness": 3, "reasoning": "Fidgeted means moved restlessly, very close to agitated, but emphasizes the physical movement rather than emotional state." },
+        { "distractor": "shifted", "closeness": 3, "reasoning": "Shifted means moved position, fitting the physical aspect, but doesn't convey the emotional agitation." },
+        { "distractor": "squirmed", "closeness": 3, "reasoning": "Squirmed means twisted in discomfort, close to agitated, but is more specific to physical movement." },
+        { "distractor": "wriggled", "closeness": 3, "reasoning": "Wriggled means moved restlessly, but is more descriptive of small movements than emotional agitation." },
+        { "distractor": "moved", "closeness": 2, "reasoning": "Moved is a general term; agitated implies restless, emotionally troubled movement." },
+        { "distractor": "gestured", "closeness": 2, "reasoning": "Gestured means made expressive movements, but doesn't convey the emotional agitation." },
+        { "distractor": "paced", "closeness": 2, "reasoning": "Paced means walked back and forth, which might show agitation, but is more specific than the general state." },
+        { "distractor": "stirred", "closeness": 2, "reasoning": "Stirred means moved, but doesn't specifically convey the emotional agitation or frustration." },
+        { "distractor": "sat still", "closeness": 1, "reasoning": "Sat still would show composure; agitated in her seat shows emotional disturbance—opposite states." },
+        { "distractor": "relaxed", "closeness": 1, "reasoning": "Relaxed means calm and peaceful; agitated means troubled and restless—opposite states." },
+        { "distractor": "composed", "closeness": 1, "reasoning": "Composed means calm; agitated means emotionally troubled—opposite emotional states." }
+      ]
+    }
+  ]
+}

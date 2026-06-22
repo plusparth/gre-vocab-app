@@ -1,0 +1,53 @@
+{
+  "word": "objective",
+  "sentenceSets": [
+    {
+      "sentence": "She struggled to remain objective about work she had invested years in producing, which is why outside review was not optional.",
+      "answerChoices": [
+        { "distractor": "enthusiastic", "closeness": 3, "reasoning": "Enthusiasm shows investment in work, as she had invested years, but the sentence requires a word about judging fairly, not showing excitement." },
+        { "distractor": "detached", "closeness": 3, "reasoning": "Detachment means emotional distance, which helps objectivity, but the sentence shows her struggle to avoid bias due to years of investment." },
+        { "distractor": "impartial", "closeness": 3, "reasoning": "Impartiality avoids favoring one side, similar to objectivity, but the sentence shows her struggle was specific—years of investment made fair judgment hard." },
+        { "distractor": "unbiased", "closeness": 3, "reasoning": "Being unbiased is closely related to objectivity, but the sentence emphasizes her struggle due to investment, suggesting personal bias was the specific challenge." },
+        { "distractor": "critical", "closeness": 2, "reasoning": "Critical evaluation can be objective, but the sentence shows her struggle to judge fairly, not a need to be critically severe." },
+        { "distractor": "neutral", "closeness": 2, "reasoning": "Neutrality aids objectivity, but the sentence shows her specific struggle with fairness due to personal investment, not a general need for neutrality." },
+        { "distractor": "analytical", "closeness": 2, "reasoning": "Analytical thinking supports objectivity, but the sentence emphasizes her struggle to judge fairly rather than a need for logical analysis." },
+        { "distractor": "fair", "closeness": 2, "reasoning": "Fairness is related to objectivity, but the sentence requires a word about judging without distortion by feelings, not mere fairness." },
+        { "distractor": "subjective", "closeness": 1, "reasoning": "Subjective means influenced by personal feelings; the sentence shows her struggled to remain objective because of her investment, making subjectivity the problem." },
+        { "distractor": "passionate", "closeness": 1, "reasoning": "Passion about work suggests the opposite of objectivity; the sentence shows her investment made objectivity difficult." },
+        { "distractor": "dismissive", "closeness": 1, "reasoning": "Dismissiveness suggests unfair judgment; the sentence shows her struggle was to judge fairly despite personal investment, not to dismiss work." }
+      ]
+    },
+    {
+      "sentence": "The documentary's interviews with witnesses from opposing sides presented their accounts without adding the filmmaker's subjective commentary, creating an objective record of conflicting perspectives.",
+      "answerChoices": [
+        { "distractor": "comprehensive", "closeness": 3, "reasoning": "Comprehensive means complete coverage; the documentary included both sides, but the sentence requires a word about presenting without distortion, not about coverage." },
+        { "distractor": "balanced", "closeness": 3, "reasoning": "Balance presents both sides fairly, and the documentary was balanced, but the sentence emphasizes presenting without the filmmaker's commentary, not mere balance." },
+        { "distractor": "factual", "closeness": 3, "reasoning": "Factuality is related to objectivity, but the sentence shows the documentary presented differing accounts as objective record, emphasizing lack of filmmaker bias." },
+        { "distractor": "neutral", "closeness": 3, "reasoning": "Neutrality avoids taking sides, but the sentence specifies the filmmaker abstained from adding commentary, making the presentation objective." },
+        { "distractor": "thorough", "closeness": 2, "reasoning": "Thoroughness suggests complete coverage, but the sentence emphasizes lack of filmmaker commentary creating objectivity, not complete investigation." },
+        { "distractor": "authentic", "closeness": 2, "reasoning": "Authenticity suggests genuineness; the sentence shows the record was objective by avoiding subjective commentary, not by being authentic." },
+        { "distractor": "reliable", "closeness": 2, "reasoning": "Reliability suggests trustworthiness, but the sentence specifies the documentary created an objective record by not adding commentary." },
+        { "distractor": "unfiltered", "closeness": 2, "reasoning": "Unfiltered means without editing; the sentence shows the documentary presented accounts without filmmaker commentary, creating objectivity." },
+        { "distractor": "subjective", "closeness": 1, "reasoning": "Subjective means influenced by personal bias; the sentence shows the documentary created an objective record by avoiding the filmmaker's subjective commentary." },
+        { "distractor": "edited", "closeness": 1, "reasoning": "Edited commentary would add bias; the sentence shows the documentary avoided commentary to create an objective record." },
+        { "distractor": "interpretive", "closeness": 1, "reasoning": "Interpretation adds personal meaning; the sentence shows the documentary avoided the filmmaker's commentary to present an objective record." }
+      ]
+    },
+    {
+      "sentence": "To evaluate the software's performance fairly, the consultant required objective metrics rather than rely on user impressions that varied based on their prior expectations.",
+      "answerChoices": [
+        { "distractor": "quantifiable", "closeness": 3, "reasoning": "Quantifiable data can be objective, but the sentence requires a word about measuring without distortion from bias, not about whether numbers exist." },
+        { "distractor": "measurable", "closeness": 3, "reasoning": "Measurable data enables objective evaluation, but the sentence requires a word about data free from personal bias, not about whether measurement is possible." },
+        { "distractor": "empirical", "closeness": 3, "reasoning": "Empirical data is based on observation, supporting objectivity, but the sentence emphasizes data without distortion from personal expectations." },
+        { "distractor": "standardized", "closeness": 3, "reasoning": "Standardized metrics enable comparison, but the sentence requires a word about metrics free from bias, not about whether standards exist." },
+        { "distractor": "verifiable", "closeness": 2, "reasoning": "Verifiable data can be checked, but the sentence emphasizes metrics free from personal expectations, not whether data can be verified." },
+        { "distractor": "precise", "closeness": 2, "reasoning": "Precise metrics are accurate, but the sentence emphasizes freedom from bias, not precision in measurement." },
+        { "distractor": "scientific", "closeness": 2, "reasoning": "Scientific methods aim for objectivity, but the sentence specifies the consultant needed metrics free from user bias." },
+        { "distractor": "technical", "closeness": 2, "reasoning": "Technical metrics relate to software, but the sentence emphasizes freedom from personal expectations, not merely technical in nature." },
+        { "distractor": "subjective", "closeness": 1, "reasoning": "Subjective impressions vary with personal expectations; the sentence shows the consultant rejected such impressions in favor of objective metrics." },
+        { "distractor": "impressionistic", "closeness": 1, "reasoning": "Impressionistic evaluation relies on personal impressions; the sentence shows the consultant needed objective metrics instead." },
+        { "distractor": "anecdotal", "closeness": 1, "reasoning": "Anecdotal evidence is based on individual stories; the sentence shows the consultant needed objective metrics rather than such anecdotes." }
+      ]
+    }
+  ]
+}

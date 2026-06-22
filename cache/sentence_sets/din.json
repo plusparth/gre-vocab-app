@@ -1,0 +1,53 @@
+{
+  "word": "din",
+  "sentenceSets": [
+    {
+      "sentence": "The din of the open-plan office made sustained concentration impossible for most of the staff.",
+      "answerChoices": [
+        { "distractor": "monotony", "closeness": 3, "reasoning": "Monotony refers to tedious sameness, but the sentence describes loud noise disrupting focus, not a repetitive or unchanging quality that would prevent concentration." },
+        { "distractor": "commotion", "closeness": 3, "reasoning": "Commotion is confused activity and noise, very close to din, but commotion emphasizes confused action and bustle rather than the continuous loud sound itself." },
+        { "distractor": "silence", "closeness": 3, "reasoning": "Silence is the opposite, making this a distractor only if the test-taker misreads the sentence — the office environment makes concentration impossible, which obviously rules out silence." },
+        { "distractor": "murmur", "closeness": 3, "reasoning": "A murmur is a soft, continuous sound, whereas the sentence emphasizes loud noise that prevents concentration; murmur is too quiet to fit the context." },
+        { "distractor": "uproar", "closeness": 2, "reasoning": "Uproar is violent or tumultuous noise, often with emotional outburst; while similar to din in volume, it connotes chaos rather than the ambient workplace noise described." },
+        { "distractor": "stillness", "closeness": 2, "reasoning": "Stillness means quietness, and the sentence shows the office environment prevents concentration, but this doesn't prove the cause is noise rather than some other distraction." },
+        { "distractor": "buzz", "closeness": 2, "reasoning": "Buzz is a sharp, vibrating sound, but the sentence's context of an open-plan office implies multiple overlapping conversations, not a single buzz-like quality." },
+        { "distractor": "discord", "closeness": 1, "reasoning": "Discord refers to disagreement or clashing sounds that are unpleasant, but the sentence describes office noise, not musical or interpersonal conflict." },
+        { "distractor": "melody", "closeness": 1, "reasoning": "Melody is an organized musical sequence, the opposite of the chaotic noise that prevents focus in an office setting." },
+        { "distractor": "tranquility", "closeness": 1, "reasoning": "Tranquility means calm and peace, the opposite of what prevents concentration; the sentence proves the office environment lacks tranquility." },
+        { "distractor": "eloquence", "closeness": 1, "reasoning": "Eloquence refers to persuasive speech, not acoustic noise or sound conditions that affect concentration." }
+      ]
+    },
+    {
+      "sentence": "The construction site's din persisted from dawn until dusk, rattling windows in the neighboring apartment building.",
+      "answerChoices": [
+        { "distractor": "aroma", "closeness": 3, "reasoning": "Aroma is a smell, not a sound, and cannot rattle windows; the sentence's physical effect of rattling windows proves the cause must be acoustic, not olfactory." },
+        { "distractor": "debris", "closeness": 3, "reasoning": "Debris is scattered remains or fragments, but the sentence describes a continuous noise that spans all daylight hours and has acoustic impact, not physical objects." },
+        { "distractor": "vibration", "closeness": 3, "reasoning": "Vibration is physical tremor, closely related to the rattling effect, but the sentence specifies din (sound/noise) as the agent, not vibration itself." },
+        { "distractor": "odor", "closeness": 3, "reasoning": "An odor cannot produce the sound-based effect of rattling windows; the sentence's physical consequence establishes the cause must be acoustic." },
+        { "distractor": "stench", "closeness": 2, "reasoning": "A stench is a bad smell, and while construction sites produce both noise and bad smells, the 'rattling windows' specifically indicates an acoustic phenomenon." },
+        { "distractor": "dust", "closeness": 2, "reasoning": "Dust particles might be visible and bothersome, but the sentence's detail about rattling windows from dawn until dusk indicates a sustained loud sound, not airborne particles." },
+        { "distractor": "smoke", "closeness": 2, "reasoning": "Smoke from construction equipment might be present, but it cannot 'rattle windows' — only acoustic waves with sufficient force can do so." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence would never persist from dawn until dusk at a construction site, nor could it rattle windows; the sentence proves the opposite phenomenon." },
+        { "distractor": "breeze", "closeness": 1, "reasoning": "A breeze is air movement, but construction site noise (not wind) is what typically rattles windows with force." },
+        { "distractor": "serenity", "closeness": 1, "reasoning": "Serenity means peaceful calm, the opposite of what persists from dawn until dusk at a construction site." },
+        { "distractor": "abyss", "closeness": 1, "reasoning": "An abyss is a chasm or void, semantically unrelated to the acoustic phenomenon of construction site noise." }
+      ]
+    },
+    {
+      "sentence": "When the band finished its first song, the din from the crowd gradually subsided, allowing the lead singer to speak.",
+      "answerChoices": [
+        { "distractor": "applause", "closeness": 3, "reasoning": "Applause is crowd noise, but the sentence shows the crowd's noise decreased over time (subsided), whereas applause would typically surge after a song ends." },
+        { "distractor": "acclaim", "closeness": 3, "reasoning": "Acclaim is verbal praise or expression of approval; while a crowd might acclaim the band, the sentence specifies auditory noise that 'subsided,' suggesting sound volume, not recognition." },
+        { "distractor": "silence", "closeness": 3, "reasoning": "Silence is complete quiet, but the sentence shows the noise gradually subsided to allow speaking — implying it decreased but didn't disappear entirely." },
+        { "distractor": "chant", "closeness": 3, "reasoning": "A chant is organized vocalization from a crowd, but the sentence describes undifferentiated 'din' that subsided, not a coordinated chanting sound." },
+        { "distractor": "harmony", "closeness": 2, "reasoning": "Harmony is pleasing musical agreement, but the sentence describes crowd noise (din) that disrupts the singer's ability to speak — not a musical property." },
+        { "distractor": "feedback", "closeness": 2, "reasoning": "Feedback is acoustic or electronic interference, but the sentence indicates crowd noise rather than technical audio distortion." },
+        { "distractor": "reverberation", "closeness": 2, "reasoning": "Reverberation is sound echo/reflection in a space, but the sentence describes the crowd's noise itself, not its acoustic reflection properties." },
+        { "distractor": "crescendo", "closeness": 1, "reasoning": "A crescendo is a musical increase in volume, but the sentence shows the crowd noise subsiding (decreasing), the opposite of crescendo." },
+        { "distractor": "melody", "closeness": 1, "reasoning": "Melody is organized musical sequence, but the sentence describes chaotic crowd noise, not musical arrangement." },
+        { "distractor": "clarity", "closeness": 1, "reasoning": "Clarity refers to clearness, and while the singer gained the ability to be heard when noise subsided, the cause wasn't clarity but rather the crowd's noise level." },
+        { "distractor": "emptiness", "closeness": 1, "reasoning": "Emptiness suggests an absent or vacant space, but the sentence indicates a crowd present at a concert venue, contradicting this concept." }
+      ]
+    }
+  ]
+}

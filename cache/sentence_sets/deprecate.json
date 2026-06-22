@@ -1,0 +1,185 @@
+{
+  "word": "deprecate",
+  "sentenceSets": [
+    {
+      "sentence": "He deprecated the old method in the documentation, urging users to adopt the new approach instead.",
+      "answerChoices": [
+        {
+          "distractor": "criticized",
+          "closeness": 3,
+          "reasoning": "Criticized means pointed out faults; he criticizes the method, but the sentence emphasizes expressing disapproval to guide users away from it, which is deprecating."
+        },
+        {
+          "distractor": "condemned",
+          "closeness": 3,
+          "reasoning": "Condemned means expressed strong disapproval; he condemns the method, but the sentence requires a word specifically for formal expression of disapproval, which is deprecating."
+        },
+        {
+          "distractor": "warned-against",
+          "closeness": 3,
+          "reasoning": "Warned against means cautioned about; he warns against the old method, but the sentence requires a word for expressing formal disapproval, which is deprecating."
+        },
+        {
+          "distractor": "discredited",
+          "closeness": 3,
+          "reasoning": "Discredited means harmed the reputation of; he discredits the method, but the sentence emphasizes formal expression of disapproval, which is deprecating."
+        },
+        {
+          "distractor": "opposed",
+          "closeness": 2,
+          "reasoning": "Opposed means stood against; he opposes the method, but the sentence requires a word for formal expression of disapproval in documentation."
+        },
+        {
+          "distractor": "discouraged",
+          "closeness": 2,
+          "reasoning": "Discouraged means made someone less confident; he discourages use of the old method, but the sentence requires a word for expressing disapproval in documentation."
+        },
+        {
+          "distractor": "rejected",
+          "closeness": 2,
+          "reasoning": "Rejected means refused to accept; he rejects the method, but the sentence requires a word for expressing disapproval in documentation."
+        },
+        {
+          "distractor": "abandoned",
+          "closeness": 2,
+          "reasoning": "Abandoned means stopped using; he abandons the method, but the sentence requires a word for expressing formal disapproval of it."
+        },
+        {
+          "distractor": "endorsed",
+          "closeness": 1,
+          "reasoning": "Endorsed means declared approval; he deprecates the method, which is the opposite of endorsing."
+        },
+        {
+          "distractor": "recommended",
+          "closeness": 1,
+          "reasoning": "Recommended means suggested positively; he deprecates the old method, which is the opposite of recommending it."
+        },
+        {
+          "distractor": "promoted",
+          "closeness": 1,
+          "reasoning": "Promoted means advanced or supported; he deprecates the method, which is the opposite of promoting it."
+        }
+      ]
+    },
+    {
+      "sentence": "The software update deprecates several older APIs, indicating they will be removed in the next major version.",
+      "answerChoices": [
+        {
+          "distractor": "eliminates",
+          "closeness": 3,
+          "reasoning": "Eliminates means removes completely; the update eliminates the APIs, but the sentence indicates deprecation comes before removal, making it a warning step."
+        },
+        {
+          "distractor": "removes",
+          "closeness": 3,
+          "reasoning": "Removes means takes away; the update removes the APIs, but the sentence shows deprecation is a warning before removal."
+        },
+        {
+          "distractor": "deletes",
+          "closeness": 3,
+          "reasoning": "Deletes means erases; the update deletes the APIs, but the sentence shows deprecation is a warning before deletion."
+        },
+        {
+          "distractor": "phases-out",
+          "closeness": 3,
+          "reasoning": "Phases out means gradually removes; the update phases out APIs, but the sentence requires a word specifically for marking as deprecated, not the removal process itself."
+        },
+        {
+          "distractor": "discontinues",
+          "closeness": 2,
+          "reasoning": "Discontinues means stops supporting; the update discontinues support, but the sentence requires a word for marking APIs as no longer recommended."
+        },
+        {
+          "distractor": "disables",
+          "closeness": 2,
+          "reasoning": "Disables means turns off or makes inoperable; the update disables the APIs, but the sentence requires a word for marking as no longer recommended."
+        },
+        {
+          "distractor": "abandons",
+          "closeness": 2,
+          "reasoning": "Abandons means stops supporting; the update abandons the APIs, but the sentence requires a word for marking as deprecated, which is a formal warning."
+        },
+        {
+          "distractor": "replaces",
+          "closeness": 2,
+          "reasoning": "Replaces means substitutes one thing for another; the update replaces APIs, but the sentence requires a word for marking as no longer recommended."
+        },
+        {
+          "distractor": "maintains",
+          "closeness": 1,
+          "reasoning": "Maintains means keeps in working order; the update deprecates, which is the opposite of maintaining support."
+        },
+        {
+          "distractor": "preserves",
+          "closeness": 1,
+          "reasoning": "Preserves means keeps from harm or loss; the update deprecates, which is the opposite of preserving."
+        },
+        {
+          "distractor": "supports",
+          "closeness": 1,
+          "reasoning": "Supports means provides assistance or backs; the update deprecates, which is the opposite of continuing support."
+        }
+      ]
+    },
+    {
+      "sentence": "Rather than deprecate the former practice entirely, the administration chose to allow it to fade gradually.",
+      "answerChoices": [
+        {
+          "distractor": "eliminate",
+          "closeness": 3,
+          "reasoning": "Eliminate means remove completely and immediately; the sentence shows deprecation as gradual, whereas elimination would be sudden."
+        },
+        {
+          "distractor": "abolish",
+          "closeness": 3,
+          "reasoning": "Abolish means formally end or remove; the sentence chooses gradual fading over formal abolition, making them contrasting approaches."
+        },
+        {
+          "distractor": "prohibit",
+          "closeness": 3,
+          "reasoning": "Prohibit means forbid; the sentence shows the administration chose not to prohibit immediately, instead choosing gradual deprecation."
+        },
+        {
+          "distractor": "ban",
+          "closeness": 3,
+          "reasoning": "Ban means formally forbid; the sentence shows the administration chose not to ban immediately, preferring gradual deprecation."
+        },
+        {
+          "distractor": "condemn",
+          "closeness": 2,
+          "reasoning": "Condemn means express strong disapproval; the sentence shows the administration chose to express disapproval gradually, not through formal condemnation."
+        },
+        {
+          "distractor": "attack",
+          "closeness": 2,
+          "reasoning": "Attack means criticize harshly; the sentence shows a gentle approach, not harsh attack."
+        },
+        {
+          "distractor": "oppose",
+          "closeness": 2,
+          "reasoning": "Oppose means stand against; the sentence shows the administration chose gradual deprecation over direct opposition."
+        },
+        {
+          "distractor": "reject",
+          "closeness": 2,
+          "reasoning": "Reject means refuse to accept; the sentence shows the administration chose gradual deprecation rather than outright rejection."
+        },
+        {
+          "distractor": "endorse",
+          "closeness": 1,
+          "reasoning": "Endorse means declare approval; the administration deprecates, which is the opposite of endorsing."
+        },
+        {
+          "distractor": "support",
+          "closeness": 1,
+          "reasoning": "Support means back or favor; the administration deprecates, which is the opposite of supporting."
+        },
+        {
+          "distractor": "promote",
+          "closeness": 1,
+          "reasoning": "Promote means advance or support; the administration deprecates, which is the opposite of promoting."
+        }
+      ]
+    }
+  ]
+}

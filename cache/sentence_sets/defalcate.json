@@ -1,0 +1,185 @@
+{
+  "word": "defalcate",
+  "sentenceSets": [
+    {
+      "sentence": "The accountant was charged with defalcating funds from the nonprofit he had managed for a decade.",
+      "answerChoices": [
+        {
+          "distractor": "embezzling",
+          "closeness": 3,
+          "reasoning": "Embezzling means stealing money entrusted to one's care, very close to defalcating, but embezzling emphasizes theft and personal gain, whereas defalcating emphasizes deduction or curtailment of funds."
+        },
+        {
+          "distractor": "misappropriating",
+          "closeness": 3,
+          "reasoning": "Misappropriating means using funds for a wrong purpose, close to defalcating, but misappropriating often involves redirecting funds to personal use, while defalcating can mean simply removing or deducting."
+        },
+        {
+          "distractor": "pilfering",
+          "closeness": 3,
+          "reasoning": "Pilfering means stealing small amounts repeatedly, close to defalcating, but pilfering emphasizes petty theft, whereas defalcating suggests larger, systematic fund removal."
+        },
+        {
+          "distractor": "siphoning",
+          "closeness": 3,
+          "reasoning": "Siphoning means drawing off or diverting funds, very close to defalcating, but siphoning emphasizes the method of gradual redirection, while defalcating emphasizes the deduction itself."
+        },
+        {
+          "distractor": "withholding",
+          "closeness": 2,
+          "reasoning": "Withholding means refusing to give or release, related to defalcating but emphasizing denial rather than active removal or deduction of funds."
+        },
+        {
+          "distractor": "deducting",
+          "closeness": 2,
+          "reasoning": "Deducting means subtracting from a total, related to defalcating, but deducting is usually legitimate and authorized, whereas the sentence indicates unauthorized fund removal."
+        },
+        {
+          "distractor": "skimming",
+          "closeness": 2,
+          "reasoning": "Skimming means removing the top layer or small amounts from transactions, related to defalcating but less systematic and often involving financial transactions."
+        },
+        {
+          "distractor": "stealing",
+          "closeness": 2,
+          "reasoning": "Stealing means taking without permission or right, related to defalcating but more general; the sentence suggests a specific financial crime of fund removal."
+        },
+        {
+          "distractor": "donating",
+          "closeness": 1,
+          "reasoning": "Donating means giving voluntarily to a cause, opposite to defalcating; the accountant is charged with wrongful fund removal, not authorized giving."
+        },
+        {
+          "distractor": "depositing",
+          "closeness": 1,
+          "reasoning": "Depositing means placing money into an account, opposite to defalcating; the sentence shows fund removal, not addition."
+        },
+        {
+          "distractor": "allocating",
+          "closeness": 1,
+          "reasoning": "Allocating means distributing or assigning resources, which is legitimate management; the sentence indicates unauthorized and criminal fund removal, opposite of proper allocation."
+        }
+      ]
+    },
+    {
+      "sentence": "The controller defalcated the department's budget by thirty percent without prior notice, forcing cuts to research programs.",
+      "answerChoices": [
+        {
+          "distractor": "slashed",
+          "closeness": 3,
+          "reasoning": "Slashing means cutting drastically, very close to defalcating, but slashing often implies sudden, visible cuts, whereas defalcating emphasizes the deduction or removal of funds."
+        },
+        {
+          "distractor": "reduced",
+          "closeness": 3,
+          "reasoning": "Reducing means making smaller or lower, close to defalcating, but reducing can be authorized and gradual, whereas the sentence emphasizes unauthorized deduction 'without prior notice.'"
+        },
+        {
+          "distractor": "curtailed",
+          "closeness": 3,
+          "reasoning": "Curtailing means limiting or reducing, nearly synonymous with defalcating, but curtailing can be legitimate management, whereas defalcating implies improper or unauthorized reduction."
+        },
+        {
+          "distractor": "diminished",
+          "closeness": 3,
+          "reasoning": "Diminishing means making smaller or less significant, close to defalcating, but diminishing can be a general reduction, while defalcating implies active, questionable removal."
+        },
+        {
+          "distractor": "trimmed",
+          "closeness": 2,
+          "reasoning": "Trimming means reducing or cutting, related to defalcating, but trimming often suggests controlled, authorized reduction, whereas the sentence emphasizes unauthorized action."
+        },
+        {
+          "distractor": "eliminated",
+          "closeness": 2,
+          "reasoning": "Eliminating means removing completely, related to defalcating but more extreme; the sentence shows a thirty percent cut, not total elimination."
+        },
+        {
+          "distractor": "withheld",
+          "closeness": 2,
+          "reasoning": "Withholding means refusing to give or release, related to defalcating but emphasizing denial rather than active removal or deduction."
+        },
+        {
+          "distractor": "diverted",
+          "closeness": 2,
+          "reasoning": "Diverting means redirecting or changing direction, related to defalcating but emphasizing redirection rather than outright removal of funds."
+        },
+        {
+          "distractor": "increased",
+          "closeness": 1,
+          "reasoning": "Increasing means making larger or greater, opposite to the budget cuts that defalcating produces; the sentence shows funds being removed, not added."
+        },
+        {
+          "distractor": "expanded",
+          "closeness": 1,
+          "reasoning": "Expanding means making larger or more extensive, opposite to defalcating; the sentence shows forced cuts, not expansion."
+        },
+        {
+          "distractor": "supplemented",
+          "closeness": 1,
+          "reasoning": "Supplementing means adding to or increasing, opposite to defalcating; the sentence shows removal of funds and forced cuts."
+        }
+      ]
+    },
+    {
+      "sentence": "The trustee was accused of defalcating the estate funds to pay for personal expenses not authorized by the will.",
+      "answerChoices": [
+        {
+          "distractor": "embezzling",
+          "closeness": 3,
+          "reasoning": "Embezzling means stealing money entrusted to one's care, very close to defalcating, but embezzling emphasizes theft and personal enrichment, while defalcating emphasizes improper deduction or removal of funds."
+        },
+        {
+          "distractor": "misappropriating",
+          "closeness": 3,
+          "reasoning": "Misappropriating means using funds for a wrong purpose, close to defalcating, but misappropriating emphasizes redirection to improper use, while defalcating emphasizes the removal itself."
+        },
+        {
+          "distractor": "diverting",
+          "closeness": 3,
+          "reasoning": "Diverting means redirecting or changing the direction of funds, close to what the trustee does, but diverting emphasizes redirection, while defalcating emphasizes improper deduction."
+        },
+        {
+          "distractor": "raiding",
+          "closeness": 3,
+          "reasoning": "Raiding means taking resources from a source, close to defalcating, but raiding often implies forceful or sudden taking, whereas defalcating suggests systematic removal."
+        },
+        {
+          "distractor": "withdrawing",
+          "closeness": 2,
+          "reasoning": "Withdrawing means taking out or removing, related to defalcating, but withdrawing can be legitimate and authorized, whereas the sentence emphasizes unauthorized removal."
+        },
+        {
+          "distractor": "deducting",
+          "closeness": 2,
+          "reasoning": "Deducting means subtracting or removing, related to defalcating, but deducting is usually legitimate and authorized, while the sentence shows unauthorized removal for personal expenses."
+        },
+        {
+          "distractor": "using",
+          "closeness": 2,
+          "reasoning": "Using means employing or utilizing, related to but less specific than defalcating; the sentence emphasizes the breach of trust in removing funds, not merely using them."
+        },
+        {
+          "distractor": "spending",
+          "closeness": 2,
+          "reasoning": "Spending means using money for a purchase, related to the trustee's action but less specific than defalcating, which emphasizes improper removal from a trust."
+        },
+        {
+          "distractor": "preserving",
+          "closeness": 1,
+          "reasoning": "Preserving means protecting or maintaining, opposite to defalcating; the trustee removes funds contrary to preservation of the estate."
+        },
+        {
+          "distractor": "accumulating",
+          "closeness": 1,
+          "reasoning": "Accumulating means collecting or building up, opposite to defalcating; the sentence shows funds being removed, not accumulated."
+        },
+        {
+          "distractor": "distributing",
+          "closeness": 1,
+          "reasoning": "Distributing means dividing and giving out, which the trustee might do legitimately under the will; defalcating emphasizes unauthorized and improper removal for personal gain."
+        }
+      ]
+    }
+  ]
+}

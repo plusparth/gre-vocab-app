@@ -1,0 +1,185 @@
+{
+  "word": "default",
+  "sentenceSets": [
+    {
+      "sentence": "The company defaulted on its loans, triggering a review process that exposed a much larger pattern of mismanagement.",
+      "answerChoices": [
+        {
+          "distractor": "reneged",
+          "closeness": 3,
+          "reasoning": "Reneging means breaking a promise or failing to honor an agreement, very close to defaulting on loans, but reneging emphasizes bad faith breach, while defaulting is a legal-financial failure."
+        },
+        {
+          "distractor": "failed",
+          "closeness": 3,
+          "reasoning": "Failing means not succeeding or not doing what is required, very close to defaulting, but failing is more general, whereas defaulting specifically refers to failure to pay an obligation."
+        },
+        {
+          "distractor": "neglected",
+          "closeness": 3,
+          "reasoning": "Neglecting means failing to care for or attend to something, close to defaulting, but neglect emphasizes inattention, while defaulting emphasizes a specific financial failure."
+        },
+        {
+          "distractor": "breached",
+          "closeness": 3,
+          "reasoning": "Breaching means violating a contract or agreement, close to defaulting, but breaching is broader and can involve various contract violations, while defaulting specifically means failure to pay."
+        },
+        {
+          "distractor": "refused",
+          "closeness": 2,
+          "reasoning": "Refusing means explicitly declining to do something, related to defaulting but suggesting intentional rejection, whereas defaulting can result from inability, not just refusal."
+        },
+        {
+          "distractor": "avoided",
+          "closeness": 2,
+          "reasoning": "Avoiding means staying away from or evading something, related to defaulting but suggesting deliberate evasion, while defaulting is a failure to meet an obligation."
+        },
+        {
+          "distractor": "postponed",
+          "closeness": 2,
+          "reasoning": "Postponing means delaying something to a later time, related to defaulting but suggesting intention to act later, while defaulting implies the obligation is not met."
+        },
+        {
+          "distractor": "suspended",
+          "closeness": 2,
+          "reasoning": "Suspending means temporarily stopping or halting, related to failing to pay but suggesting a temporary state, whereas defaulting implies a permanent failure to meet the obligation."
+        },
+        {
+          "distractor": "honored",
+          "closeness": 1,
+          "reasoning": "Honoring means fulfilling or respecting a commitment, opposite to defaulting; the sentence shows loans are not paid, contrary to honoring the obligation."
+        },
+        {
+          "distractor": "repaid",
+          "closeness": 1,
+          "reasoning": "Repaying means paying back a loan, opposite to defaulting; the sentence shows the company failed to meet loan obligations."
+        },
+        {
+          "distractor": "satisfied",
+          "closeness": 1,
+          "reasoning": "Satisfying means meeting or fulfilling requirements, opposite to defaulting; the company did not satisfy loan obligations."
+        }
+      ]
+    },
+    {
+      "sentence": "The defendant's default in appearing at the hearing resulted in a judgment entered against him by the court.",
+      "answerChoices": [
+        {
+          "distractor": "failure",
+          "closeness": 3,
+          "reasoning": "Failure means not succeeding or not performing, very close to default, but failure is more general and can apply to many contexts, whereas default specifically refers to failure to appear or act as required by law."
+        },
+        {
+          "distractor": "absence",
+          "closeness": 3,
+          "reasoning": "Absence means not being present, very close to the defendant's failure to appear, but absence is about presence or lack thereof, while default emphasizes the legal failure."
+        },
+        {
+          "distractor": "neglect",
+          "closeness": 3,
+          "reasoning": "Neglect means failure to care for or attend to something, close to default, but neglect emphasizes inattention, while default is a legal failure to fulfill an obligation."
+        },
+        {
+          "distractor": "non-appearance",
+          "closeness": 3,
+          "reasoning": "Non-appearance means failing to show up, nearly synonymous with default in this context, but non-appearance is specifically about physical presence, while default is a legal term for failure."
+        },
+        {
+          "distractor": "oversight",
+          "closeness": 2,
+          "reasoning": "Oversight means an inadvertent error or omission, related to default but suggesting accident, while the legal default implies a required action was not taken."
+        },
+        {
+          "distractor": "lapse",
+          "closeness": 2,
+          "reasoning": "Lapse means a temporary failure or decline, related to default but often temporary, whereas a legal default is a significant, enforceable failure."
+        },
+        {
+          "distractor": "omission",
+          "closeness": 2,
+          "reasoning": "Omission means leaving something out or failing to include, related to default but more passive; default is an active legal failure to meet a requirement."
+        },
+        {
+          "distractor": "dereliction",
+          "closeness": 2,
+          "reasoning": "Dereliction means abandonment of duty, related to default, but dereliction often involves abandonment of a post or responsibility, whereas default is specific to legal proceedings."
+        },
+        {
+          "distractor": "appearance",
+          "closeness": 1,
+          "reasoning": "Appearance means showing up or being present, opposite to default; the court judgment resulted from the defendant's failure to appear."
+        },
+        {
+          "distractor": "compliance",
+          "closeness": 1,
+          "reasoning": "Compliance means agreeing to and following requirements, opposite to default; the defendant's failure to appear shows non-compliance with court order."
+        },
+        {
+          "distractor": "attendance",
+          "closeness": 1,
+          "reasoning": "Attendance means being present at an event, opposite to the defendant's default in not appearing."
+        }
+      ]
+    },
+    {
+      "sentence": "Without a written agreement specifying otherwise, the manufacturer's default would be to provide a one-year warranty on all products.",
+      "answerChoices": [
+        {
+          "distractor": "assumption",
+          "closeness": 3,
+          "reasoning": "Assumption means something accepted as true without proof, very close to default as a presumed condition, but assumption is more general, while default is specifically a presumed standard when no other specification exists."
+        },
+        {
+          "distractor": "standard",
+          "closeness": 3,
+          "reasoning": "Standard means an established measure or expectation, very close to default as a baseline, but standard emphasizes the norm, while default emphasizes what applies absent other specification."
+        },
+        {
+          "distractor": "baseline",
+          "closeness": 3,
+          "reasoning": "Baseline means a starting point or reference level, very close to default, but baseline emphasizes the initial reference, while default is what applies by default."
+        },
+        {
+          "distractor": "convention",
+          "closeness": 3,
+          "reasoning": "Convention means an accepted way of doing things, close to default, but convention emphasizes established practice, while default is what applies unless specified otherwise."
+        },
+        {
+          "distractor": "stipulation",
+          "closeness": 2,
+          "reasoning": "Stipulation means a specific condition or requirement, related to default but suggesting explicit agreement, whereas default is what applies absent explicit agreement."
+        },
+        {
+          "distractor": "requirement",
+          "closeness": 2,
+          "reasoning": "Requirement means something demanded or necessary, related to default but suggesting obligation, while default is what applies in the absence of other requirements."
+        },
+        {
+          "distractor": "provision",
+          "closeness": 2,
+          "reasoning": "Provision means a clause or condition, related to default but often explicitly stated, whereas default applies unless otherwise specified in writing."
+        },
+        {
+          "distractor": "preference",
+          "closeness": 2,
+          "reasoning": "Preference means a liking or choice, related to what the manufacturer defaults to, but preference suggests optional choice, while default is presumed absent other specification."
+        },
+        {
+          "distractor": "exception",
+          "closeness": 1,
+          "reasoning": "Exception means something excluded or different from the normal rule, opposite to default; the sentence shows the default warranty applies 'without a written agreement specifying otherwise.'"
+        },
+        {
+          "distractor": "exclusion",
+          "closeness": 1,
+          "reasoning": "Exclusion means leaving something out or denying something, opposite to default; the sentence shows warranty is included by default."
+        },
+        {
+          "distractor": "modification",
+          "closeness": 1,
+          "reasoning": "Modification means changing or altering, opposite to default; the default applies unless modified by a written agreement."
+        }
+      ]
+    }
+  ]
+}

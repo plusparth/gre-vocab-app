@@ -1,0 +1,53 @@
+{
+  "word": "hallmark",
+  "sentenceSets": [
+    {
+      "sentence": "The precise engineering was the hallmark of the luxury brand's reputation.",
+      "answerChoices": [
+        { "distractor": "trademark", "closeness": 3, "reasoning": "Trademark is legally owned and registered, while hallmark refers to what distinguishes something; the sentence emphasizes reputation rather than legal protection." },
+        { "distractor": "signature", "closeness": 3, "reasoning": "While signature can mean a distinctive quality, it lacks the sense of being emblematic or representative of a whole identity that hallmark conveys; here the engineering represents the brand's core reputation." },
+        { "distractor": "emblem", "closeness": 3, "reasoning": "Emblem is a visual symbol or representation, but hallmark refers to a defining characteristic or quality itself, not a symbol used to represent it." },
+        { "distractor": "brand", "closeness": 3, "reasoning": "The sentence already uses 'brand' as a noun; the blank calls for a characteristic of that brand, not the brand itself." },
+        { "distractor": "quality", "closeness": 2, "reasoning": "Quality is too vague; it could describe any attribute, but hallmark specifically means the quality that is most distinctive and representative." },
+        { "distractor": "element", "closeness": 2, "reasoning": "Element is a component or part, but hallmark refers to the characteristic that typifies or defines the whole." },
+        { "distractor": "achievement", "closeness": 2, "reasoning": "While precision could be seen as an achievement, the sentence emphasizes what distinguishes the brand's reputation, not past accomplishments." },
+        { "distractor": "foundation", "closeness": 2, "reasoning": "Foundation suggests underlying support, but hallmark refers to the distinctive surface-level characteristic that others recognize." },
+        { "distractor": "anomaly", "closeness": 1, "reasoning": "An anomaly is an irregularity or exception, the opposite of a defining characteristic that builds reputation." },
+        { "distractor": "flaw", "closeness": 1, "reasoning": "Flaw means a defect, which contradicts the positive association with a luxury brand's reputation." },
+        { "distractor": "obscurity", "closeness": 1, "reasoning": "Obscurity means hiddenness or lack of clarity, the opposite of something that defines and distinguishes a brand." }
+      ]
+    },
+    {
+      "sentence": "Every artist develops a hallmark style that collectors recognize immediately.",
+      "answerChoices": [
+        { "distractor": "signature", "closeness": 3, "reasoning": "Signature also means a distinctive personal mark, but in visual art, hallmark emphasizes the recognizable defining trait more specifically than the broader term signature." },
+        { "distractor": "technique", "closeness": 3, "reasoning": "Technique refers to the method or skill used, but a hallmark style encompasses the visual character and aesthetic that becomes recognizable, which is broader than method." },
+        { "distractor": "manner", "closeness": 3, "reasoning": "Manner means the way something is done, but hallmark refers specifically to the distinctive characteristic itself that makes something identifiable, not just any way of working." },
+        { "distractor": "reputation", "closeness": 3, "reasoning": "Reputation is what others think of someone based on their hallmark style, but it is not the style itself." },
+        { "distractor": "preference", "closeness": 2, "reasoning": "Preference is what someone likes, not the defining characteristic of their work that others recognize." },
+        { "distractor": "choice", "closeness": 2, "reasoning": "A choice is a decision an artist makes, but hallmark style refers to the resulting characteristic, not the decision itself." },
+        { "distractor": "palette", "closeness": 2, "reasoning": "A palette is a tool or set of colors, whereas hallmark style is the overall defining visual character." },
+        { "distractor": "influence", "closeness": 2, "reasoning": "Influence refers to the effect an artist has, not the defining characteristic of their own work." },
+        { "distractor": "obscurity", "closeness": 1, "reasoning": "Obscurity means unknown quality, directly opposite to something collectors recognize immediately." },
+        { "distractor": "inconsistency", "closeness": 1, "reasoning": "Inconsistency contradicts the idea of a recognizable defining characteristic; hallmark implies consistency." },
+        { "distractor": "accident", "closeness": 1, "reasoning": "An accident is unintentional, while a hallmark style is something an artist develops deliberately." }
+      ]
+    },
+    {
+      "sentence": "Critics pointed to her sparse dialogue as the hallmark of her screenwriting.",
+      "answerChoices": [
+        { "distractor": "strength", "closeness": 3, "reasoning": "Strength means advantage or power, but hallmark refers specifically to a distinctive defining characteristic, not just any asset." },
+        { "distractor": "innovation", "closeness": 3, "reasoning": "Innovation means something new or original, but hallmark refers to the recognizable characteristic that typifies her work, regardless of novelty." },
+        { "distractor": "trademark", "closeness": 3, "reasoning": "Trademark can mean distinctive quality, but it has legal connotations whereas hallmark is simply what characterizes her screenwriting." },
+        { "distractor": "contribution", "closeness": 3, "reasoning": "Contribution means what she gives to the field, but hallmark refers specifically to her defining personal characteristic." },
+        { "distractor": "feature", "closeness": 2, "reasoning": "Feature means a characteristic, but hallmark emphasizes the most distinctive and defining characteristic, not just any feature." },
+        { "distractor": "skill", "closeness": 2, "reasoning": "Skill is the ability to do something well, but sparse dialogue is what results from her skill, not the skill itself." },
+        { "distractor": "approach", "closeness": 2, "reasoning": "Approach is the method she uses, but hallmark refers to the resulting characteristic that critics observe." },
+        { "distractor": "bias", "closeness": 2, "reasoning": "Bias means a preference or prejudice, whereas hallmark refers to an objective defining characteristic of her work." },
+        { "distractor": "excess", "closeness": 1, "reasoning": "Excess is the opposite of sparse, directly contradicting the dialogue characteristic mentioned in the sentence." },
+        { "distractor": "deficiency", "closeness": 1, "reasoning": "Deficiency implies lack or inadequacy, but sparse dialogue as a hallmark suggests deliberate artistic choice, not a failing." },
+        { "distractor": "imitation", "closeness": 1, "reasoning": "Imitation means copying others, whereas hallmark refers to something original and distinctly her own." }
+      ]
+    }
+  ]
+}

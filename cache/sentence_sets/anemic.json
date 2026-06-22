@@ -1,0 +1,185 @@
+{
+  "word": "anemic",
+  "sentenceSets": [
+    {
+      "sentence": "The company's anemic response to the crisis disappointed investors who expected decisive action.",
+      "answerChoices": [
+        {
+          "distractor": "sluggish",
+          "closeness": 3,
+          "reasoning": "Close -- both suggest slow, lacking energy, but 'sluggish' emphasizes slowness in execution, while the sentence shows insufficient force or boldness in the response."
+        },
+        {
+          "distractor": "timid",
+          "closeness": 3,
+          "reasoning": "Close -- both lack strength, but 'timid' emphasizes fearfulness, whereas the sentence shows a weak response disappointing those expecting strength."
+        },
+        {
+          "distractor": "inadequate",
+          "closeness": 3,
+          "reasoning": "Close -- both mean insufficient, but 'inadequate' is more neutral; the sentence emphasizes the response lacked the vigor investors expected."
+        },
+        {
+          "distractor": "half-hearted",
+          "closeness": 3,
+          "reasoning": "Close -- suggests lack of enthusiasm, but 'half-hearted' implies lukewarm effort, while the sentence shows the response was simply weak or insufficient."
+        },
+        {
+          "distractor": "delayed",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'delayed' emphasizes timing, but the sentence focuses on the quality of the response, not its timeliness."
+        },
+        {
+          "distractor": "insufficient",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'insufficient' means not enough in quantity, but 'anemic' emphasizes lack of vigor or substance in quality."
+        },
+        {
+          "distractor": "evasive",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'evasive' means avoiding direct action, but the sentence doesn't suggest the company avoided the crisis, only responded weakly."
+        },
+        {
+          "distractor": "reluctant",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'reluctant' suggests unwilling, but the sentence indicates weak execution, not resistance to responding."
+        },
+        {
+          "distractor": "robust",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence describes a weak response, the opposite of robust action."
+        },
+        {
+          "distractor": "vigorous",
+          "closeness": 1,
+          "reasoning": "Opposite -- 'vigorous' means strong and energetic; the sentence shows disappointing weakness."
+        },
+        {
+          "distractor": "resolute",
+          "closeness": 1,
+          "reasoning": "Opposite -- 'resolute' means determined and unwavering; the sentence shows a weak, disappointing response."
+        }
+      ]
+    },
+    {
+      "sentence": "Her anemic performance in the debate failed to energize supporters who had expected passionate arguments.",
+      "answerChoices": [
+        {
+          "distractor": "lackluster",
+          "closeness": 3,
+          "reasoning": "Close -- both lack brilliance or energy, but 'lackluster' emphasizes dullness, while the sentence specifically shows supporters expected passion."
+        },
+        {
+          "distractor": "uninspired",
+          "closeness": 3,
+          "reasoning": "Close -- both lack vitality, but 'uninspired' emphasizes lack of creativity, whereas the sentence shows missing emotional engagement supporters sought."
+        },
+        {
+          "distractor": "ineffective",
+          "closeness": 3,
+          "reasoning": "Close -- both suggest failure to achieve desired effect, but 'ineffective' is about outcome, while the sentence emphasizes lack of energy/passion."
+        },
+        {
+          "distractor": "weak",
+          "closeness": 3,
+          "reasoning": "Close -- both lack strength, but 'weak' is too generic; the sentence specifies the performance lacked emotional energy expected by supporters."
+        },
+        {
+          "distractor": "mediocre",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'mediocre' means average or ordinary, but the sentence emphasizes missing passion/energy, not mere averageness."
+        },
+        {
+          "distractor": "unprepared",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'unprepared' suggests inadequate readiness, but the sentence focuses on lack of passion in delivery, not preparation."
+        },
+        {
+          "distractor": "nervous",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'nervous' suggests anxiety, but the sentence emphasizes missing vitality, not emotional state."
+        },
+        {
+          "distractor": "hesitant",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'hesitant' suggests uncertainty, but the sentence focuses on lacking energetic passion."
+        },
+        {
+          "distractor": "brilliant",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence describes a performance that failed to energize and lacked expected passion."
+        },
+        {
+          "distractor": "electrifying",
+          "closeness": 1,
+          "reasoning": "Opposite -- 'electrifying' means thrilling and energizing; the sentence shows the opposite effect."
+        },
+        {
+          "distractor": "passionate",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence explicitly states supporters expected passionate arguments, which the performance lacked."
+        }
+      ]
+    },
+    {
+      "sentence": "The startup's anemic growth rate failed to attract venture capital despite promising market research.",
+      "answerChoices": [
+        {
+          "distractor": "stagnant",
+          "closeness": 3,
+          "reasoning": "Close -- both suggest lack of progress, but 'stagnant' implies no change, whereas the sentence indicates some growth, just insufficient."
+        },
+        {
+          "distractor": "sluggish",
+          "closeness": 3,
+          "reasoning": "Close -- both lack vigor, but 'sluggish' emphasizes slowness in response, while the sentence describes insufficient expansion rate."
+        },
+        {
+          "distractor": "modest",
+          "closeness": 3,
+          "reasoning": "Close -- both suggest limited magnitude, but 'modest' is neutral, while the sentence emphasizes weakness despite market opportunity."
+        },
+        {
+          "distractor": "incremental",
+          "closeness": 3,
+          "reasoning": "Close -- both describe gradual expansion, but 'incremental' is merely descriptive of pace, while the sentence shows failure to meet expectations."
+        },
+        {
+          "distractor": "slow",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'slow' emphasizes pace, but the sentence focuses on inadequacy relative to potential and market conditions."
+        },
+        {
+          "distractor": "uneven",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'uneven' suggests inconsistency, but the sentence indicates consistently insufficient growth."
+        },
+        {
+          "distractor": "fragile",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'fragile' suggests vulnerability to collapse, but the sentence addresses expansion rate, not stability."
+        },
+        {
+          "distractor": "limited",
+          "closeness": 2,
+          "reasoning": "Incorrect -- 'limited' suggests bounded scope, but 'anemic' specifically indicates weakness/lack of vigor."
+        },
+        {
+          "distractor": "explosive",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence describes inadequate growth despite market promise, the opposite of explosive expansion."
+        },
+        {
+          "distractor": "robust",
+          "closeness": 1,
+          "reasoning": "Opposite -- 'robust' growth would attract investors; the sentence shows weakness."
+        },
+        {
+          "distractor": "accelerating",
+          "closeness": 1,
+          "reasoning": "Opposite -- the sentence shows insufficient growth rate that failed investor expectations."
+        }
+      ]
+    }
+  ]
+}

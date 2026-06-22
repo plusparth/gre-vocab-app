@@ -1,0 +1,53 @@
+{
+  "word": "alleviate",
+  "sentenceSets": [
+    {
+      "sentence": "The medication alleviated her symptoms enough to allow her to return to work.",
+      "answerChoices": [
+        { "distractor": "cure", "closeness": 3, "reasoning": "Close — both 'cure' and 'alleviate' make someone feel better, but 'cure' means to eliminate a problem entirely, whereas the sentence shows only reduction of symptoms; returning to work shows partial relief, not total elimination." },
+        { "distractor": "soothe", "closeness": 3, "reasoning": "Close — 'soothe' reduces pain or distress like 'alleviate,' but emphasizes calming emotions rather than reducing the actual severity of physical symptoms." },
+        { "distractor": "mitigate", "closeness": 3, "reasoning": "Close — 'mitigate' means to make something less severe, which is similar to 'alleviate,' but 'mitigate' often applies to broader problems or consequences, while 'alleviate' is more specific to relieving symptoms or discomfort." },
+        { "distractor": "assuage", "closeness": 3, "reasoning": "Close — 'assuage' means to calm or reduce distress, fitting the sentence structure, but typically describes emotional comfort or satisfaction rather than reducing physical symptoms enough for functional return." },
+        { "distractor": "palliate", "closeness": 2, "reasoning": "Related but incorrect — 'palliate' means to ease without curing, which is conceptually near 'alleviate,' but it specifically applies to terminal illness management, not general symptom reduction." },
+        { "distractor": "diminish", "closeness": 2, "reasoning": "Incorrect — 'diminish' means to make smaller or less, which is vague; 'alleviate' specifically targets relief from symptoms or suffering, not just any reduction." },
+        { "distractor": "facilitate", "closeness": 2, "reasoning": "Incorrect — 'facilitate' means to make easier, but does not address symptom relief; the sentence requires a word about improving the condition itself." },
+        { "distractor": "regulate", "closeness": 2, "reasoning": "Incorrect — 'regulate' means to control or adjust, which does not convey the sense of relief or reduction of suffering central to the sentence." },
+        { "distractor": "worsen", "closeness": 1, "reasoning": "Opposite — 'worsen' means to make worse, directly contradicting the sense that the medication improved her state." },
+        { "distractor": "aggravate", "closeness": 1, "reasoning": "Opposite — 'aggravate' means to make worse or more severe, which is the opposite of reducing symptoms enough to allow work." },
+        { "distractor": "prolong", "closeness": 1, "reasoning": "Incorrect semantic field — 'prolong' means to extend or lengthen, unrelated to symptom relief; it does not fit the context of medical treatment." }
+      ]
+    },
+    {
+      "sentence": "Despite the refugee crisis escalating, a few border policies beginning to alleviate housing shortages offered a glimmer of hope.",
+      "answerChoices": [
+        { "distractor": "remedy", "closeness": 3, "reasoning": "Close — 'remedy' can mean to fix or improve a problem, fitting here, but it suggests solving the root cause entirely, whereas 'alleviate' suggests partial easing of acute symptoms." },
+        { "distractor": "resolve", "closeness": 3, "reasoning": "Close — 'resolve' implies settling or solving a problem conclusively, but the sentence emphasizes a partial easing ('glimmer of hope') rather than elimination." },
+        { "distractor": "ease", "closeness": 3, "reasoning": "Close — 'ease' is nearly synonymous with 'alleviate' and fits the context, but typically describes emotional comfort or reduction of tension rather than directly addressing systemic shortages." },
+        { "distractor": "relieve", "closeness": 3, "reasoning": "Close — 'relieve' means to reduce distress or discomfort and is nearly synonymous with 'alleviate,' but 'relieve' often emphasizes emotional comfort or removing a burden rather than reducing structural pressures." },
+        { "distractor": "abate", "closeness": 2, "reasoning": "Related but incorrect — 'abate' means to reduce in degree or intensity, fitting the sentence's sense of partial improvement, but it carries a more formal, legal tone and lacks the direct connotation of comfort-bringing relief." },
+        { "distractor": "stabilize", "closeness": 2, "reasoning": "Incorrect — 'stabilize' means to make steady or prevent worsening, which differs from actively reducing or easing the problem; the sentence requires an action toward improvement." },
+        { "distractor": "accommodate", "closeness": 2, "reasoning": "Incorrect — 'accommodate' means to provide lodging or adjust to something, which could relate to housing but does not convey the sense of reducing scarcity or easing pressure." },
+        { "distractor": "redistribute", "closeness": 2, "reasoning": "Incorrect — 'redistribute' means to allocate differently, which might address housing but lacks the sense of reducing suffering or discomfort that 'alleviate' conveys." },
+        { "distractor": "exacerbate", "closeness": 1, "reasoning": "Opposite — 'exacerbate' means to make worse; it contradicts the sentence's sense that policies are offering hope." },
+        { "distractor": "amplify", "closeness": 1, "reasoning": "Opposite — 'amplify' means to increase or intensify, directly contrary to reducing housing shortages or offering relief." },
+        { "distractor": "obscure", "closeness": 1, "reasoning": "Incorrect semantic field — 'obscure' means to hide or make unclear, unrelated to reducing shortages or improving conditions." }
+      ]
+    },
+    {
+      "sentence": "The therapist recommended meditation and journaling to alleviate the persistent anxiety that had plagued him for years.",
+      "answerChoices": [
+        { "distractor": "eliminate", "closeness": 3, "reasoning": "Close — 'eliminate' suggests complete removal, whereas the sentence describes long-standing anxiety that is being reduced through mental practices rather than cured outright." },
+        { "distractor": "dissolve", "closeness": 3, "reasoning": "Close — 'dissolve' can mean to cause to disappear, fitting the therapeutic context, but implies full dissolution whereas 'alleviate' suggests gradual reduction of intensity." },
+        { "distractor": "diminish", "closeness": 3, "reasoning": "Close — 'diminish' means to make less, and the sentence structure supports this meaning, but 'diminish' is vaguer about the nature of the reduction; 'alleviate' specifically targets burden or suffering." },
+        { "distractor": "suppress", "closeness": 3, "reasoning": "Close — 'suppress' means to prevent from being expressed or known, fitting the idea of controlling anxiety, but it implies pushing feelings down rather than genuinely reducing their weight." },
+        { "distractor": "manage", "closeness": 2, "reasoning": "Related but incorrect — 'manage' means to cope with or control, which overlaps with alleviating anxiety, but does not convey the sense of reducing distress itself." },
+        { "distractor": "process", "closeness": 2, "reasoning": "Incorrect — 'process' means to deal with or work through, which is a therapeutic concept but does not mean to ease suffering or discomfort." },
+        { "distractor": "confront", "closeness": 2, "reasoning": "Incorrect — 'confront' means to face directly, which is a therapeutic approach but does not mean to reduce or relieve emotional burden." },
+        { "distractor": "channel", "closeness": 2, "reasoning": "Incorrect — 'channel' means to direct or guide energy, which could relate to therapeutic practice but does not convey the sense of reducing or relieving." },
+        { "distractor": "intensify", "closeness": 1, "reasoning": "Opposite — 'intensify' means to increase or strengthen, directly contradicting the goal of reducing anxiety." },
+        { "distractor": "prolong", "closeness": 1, "reasoning": "Opposite — 'prolong' means to extend duration, contrary to the goal of reducing the burden of persistent anxiety." },
+        { "distractor": "diagnose", "closeness": 1, "reasoning": "Incorrect semantic field — 'diagnose' means to identify a disease or problem, unrelated to treating or reducing symptoms." }
+      ]
+    }
+  ]
+}

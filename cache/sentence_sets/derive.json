@@ -1,0 +1,53 @@
+{
+  "word": "derive",
+  "sentenceSets": [
+    {
+      "sentence": "She derived considerable satisfaction from solving problems that had resisted others for years.",
+      "answerChoices": [
+        { "distractor": "gain", "closeness": 3, "reasoning": "Gain is almost synonymous but slightly less specific to the emotional satisfaction from achievement; 'derive' emphasizes the source of that satisfaction more pointedly." },
+        { "distractor": "extract", "closeness": 3, "reasoning": "Extract suggests pulling something out, often physical, whereas derive here means to obtain or experience an emotional reward from intellectual effort." },
+        { "distractor": "reap", "closeness": 3, "reasoning": "Reap conveys the idea of harvesting results, but 'derive' is more precise in suggesting that the satisfaction comes from and is tied to the source—the solving." },
+        { "distractor": "enjoy", "closeness": 3, "reasoning": "Enjoy means to take pleasure in something already present, while derive suggests obtaining that pleasure from a specific source or action." },
+        { "distractor": "procure", "closeness": 2, "reasoning": "Procure means to acquire or obtain, often through effort, but typically applies to objects rather than emotional experiences or abstract benefits." },
+        { "distractor": "secure", "closeness": 2, "reasoning": "Secure implies making something safe or certain, which does not fit the sense of obtaining satisfaction from engaging in problem-solving." },
+        { "distractor": "achieve", "closeness": 2, "reasoning": "Achieve describes accomplishing the problems themselves, not obtaining the feeling that results from solving them." },
+        { "distractor": "experience", "closeness": 2, "reasoning": "Experience is close but more passive and general; derive emphasizes that the satisfaction originates from and is inseparable from the act of solving." },
+        { "distractor": "forfeit", "closeness": 1, "reasoning": "Forfeit means to lose or give up, the opposite of deriving or obtaining something." },
+        { "distractor": "surrender", "closeness": 1, "reasoning": "Surrender means to yield or give up, contradicting the idea of obtaining or deriving something from an action." },
+        { "distractor": "abandon", "closeness": 1, "reasoning": "Abandon means to leave behind, the opposite of taking or obtaining something from a source." }
+      ]
+    },
+    {
+      "sentence": "Botanists derived the plant's striking red pigmentation from a rare genetic mutation affecting anthocyanin production in its leaves.",
+      "answerChoices": [
+        { "distractor": "traced", "closeness": 3, "reasoning": "Traced and derived are both about following something back to its origin, but traced emphasizes the path itself while derived emphasizes identifying the source." },
+        { "distractor": "attributed", "closeness": 3, "reasoning": "Attributed means to credit to a source, but is more about assigning blame or credit than pinpointing the actual origin of something." },
+        { "distractor": "inferred", "closeness": 3, "reasoning": "Inferred suggests deducing something from evidence, while derive here means to actually identify the specific source from which something originates." },
+        { "distractor": "deduced", "closeness": 3, "reasoning": "Deduced means to reason out from given information, but does not capture the sense of pinpointing the actual source as derive does." },
+        { "distractor": "identified", "closeness": 2, "reasoning": "Identified describes recognizing what something is, but not necessarily tracing it to its source or origin." },
+        { "distractor": "discovered", "closeness": 2, "reasoning": "Discovered emphasizes finding something previously unknown but does not necessarily include the sense of tracing it to a specific source or cause." },
+        { "distractor": "elicited", "closeness": 2, "reasoning": "Elicited means to draw out or bring forth, suggesting an active extraction rather than identifying the original source." },
+        { "distractor": "uncovered", "closeness": 2, "reasoning": "Uncovered suggests revealing something hidden but does not capture the specific sense of identifying where something comes from." },
+        { "distractor": "obscured", "closeness": 1, "reasoning": "Obscured means to hide or make unclear, which is the opposite of identifying or tracing something to its source." },
+        { "distractor": "contradicted", "closeness": 1, "reasoning": "Contradicted means to deny or refute, which is opposite in meaning to establishing the source of something." },
+        { "distractor": "suppressed", "closeness": 1, "reasoning": "Suppressed means to hold back or prevent, opposite to the act of identifying and revealing the origin of something." }
+      ]
+    },
+    {
+      "sentence": "The elderly woman derived strength and hope from the letters her grandson sent every week, even when her circumstances seemed hopeless.",
+      "answerChoices": [
+        { "distractor": "drew", "closeness": 3, "reasoning": "Drew (drew from) is essentially equivalent to derive but is less formal; in this context, both work equally well, making it a strong trap answer." },
+        { "distractor": "pulled", "closeness": 3, "reasoning": "Pulled (pulled from) suggests extracting or obtaining something, but is more physical and colloquial; derive is more precise about obtaining emotional or abstract benefits." },
+        { "distractor": "gathered", "closeness": 3, "reasoning": "Gathered can mean to collect or accumulate, but does not carry the same sense of obtaining something precious and sustaining from a source." },
+        { "distractor": "mustered", "closeness": 3, "reasoning": "Mustered means to gather or summon, particularly strength or courage, but emphasizes the act of summoning from within rather than from an external source." },
+        { "distractor": "summoned", "closeness": 2, "reasoning": "Summoned suggests calling upon something, which does not clearly indicate that the strength comes from the specific source (the grandson's letters)." },
+        { "distractor": "obtained", "closeness": 2, "reasoning": "Obtained is generic and does not capture the emotional or sustaining quality of drawing strength specifically from a cherished relationship." },
+        { "distractor": "collected", "closeness": 2, "reasoning": "Collected emphasizes the act of gathering something material rather than obtaining an emotional or spiritual resource." },
+        { "distractor": "extracted", "closeness": 2, "reasoning": "Extracted suggests pulling something out of something else, but does not fit the sense of obtaining abstract emotional support from a source." },
+        { "distractor": "dissipated", "closeness": 1, "reasoning": "Dissipated means to scatter or fade away, the opposite of deriving or gathering strength from something." },
+        { "distractor": "depleted", "closeness": 1, "reasoning": "Depleted means to use up or reduce, opposite to the idea of obtaining or drawing strength from a source." },
+        { "distractor": "lost", "closeness": 1, "reasoning": "Lost is the opposite of deriving or obtaining; to lose something is the reverse of to derive it." }
+      ]
+    }
+  ]
+}

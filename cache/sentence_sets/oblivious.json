@@ -1,0 +1,53 @@
+{
+  "word": "oblivious",
+  "sentenceSets": [
+    {
+      "sentence": "She was oblivious to the gathering frustration of her team, which eventually expressed itself in a way she could not ignore.",
+      "answerChoices": [
+        { "distractor": "indifferent", "closeness": 3, "reasoning": "Indifference shows lack of concern, but the sentence shows she lacked awareness of frustration, not that she didn't care." },
+        { "distractor": "unconcerned", "closeness": 3, "reasoning": "Being unconcerned means not caring, but the sentence shows she was unaware of the frustration, not that she was uncaring." },
+        { "distractor": "heedless", "closeness": 3, "reasoning": "Heedlessness ignores something noticed, but the sentence shows she didn't notice the frustration at all." },
+        { "distractor": "distracted", "closeness": 3, "reasoning": "Distraction diverts attention elsewhere, but the sentence shows she lacked awareness of the frustration building." },
+        { "distractor": "inattentive", "closeness": 2, "reasoning": "Inattentiveness misses things observed, but the sentence shows she was unaware of the gathering frustration." },
+        { "distractor": "careless", "closeness": 2, "reasoning": "Carelessness disregards things, but the sentence shows she didn't notice the frustration, not that she disregarded it." },
+        { "distractor": "negligent", "closeness": 2, "reasoning": "Negligence fails to give proper attention, but the sentence shows she was unaware rather than negligent." },
+        { "distractor": "absent-minded", "closeness": 2, "reasoning": "Being absent-minded suggests preoccupation, but the sentence shows she lacked awareness of the frustration." },
+        { "distractor": "aware", "closeness": 1, "reasoning": "Awareness means noticing; the sentence shows she was unaware of the gathering frustration." },
+        { "distractor": "perceptive", "closeness": 1, "reasoning": "Perceptiveness notices subtle things; the sentence shows she lacked awareness of the frustration." },
+        { "distractor": "attentive", "closeness": 1, "reasoning": "Attentiveness pays close attention; the sentence shows she was unaware of the frustration building." }
+      ]
+    },
+    {
+      "sentence": "Traveling through the chaotic city while oblivious to the political tensions simmering beneath the surface, the visitor narrowly avoided several dangerous confrontations.",
+      "answerChoices": [
+        { "distractor": "unaware", "closeness": 3, "reasoning": "Unawareness means not knowing, similar to obliviousness, but the sentence emphasizes not noticing the tensions that could cause danger." },
+        { "distractor": "ignorant", "closeness": 3, "reasoning": "Ignorance means lacking knowledge, but the sentence shows he didn't perceive the tensions present." },
+        { "distractor": "indifferent", "closeness": 3, "reasoning": "Indifference means not caring, but the sentence shows he didn't notice the tensions, not that he didn't care." },
+        { "distractor": "heedless", "closeness": 3, "reasoning": "Heedlessness ignores noticed things, but the sentence shows he failed to perceive the tensions at all." },
+        { "distractor": "careless", "closeness": 2, "reasoning": "Carelessness disregards things, but the sentence shows he lacked perception of the tensions." },
+        { "distractor": "insensitive", "closeness": 2, "reasoning": "Insensitivity misses emotional nuances, but the sentence shows he lacked awareness of the tensions." },
+        { "distractor": "blind", "closeness": 2, "reasoning": "Blindness means unable to see, metaphorically matching obliviousness, but the sentence emphasizes failure to perceive tensions." },
+        { "distractor": "distracted", "closeness": 2, "reasoning": "Distraction diverts attention, but the sentence shows he lacked awareness of the underlying tensions." },
+        { "distractor": "aware", "closeness": 1, "reasoning": "Awareness means noticing; the sentence shows he was oblivious to the political tensions." },
+        { "distractor": "cautious", "closeness": 1, "reasoning": "Caution watches for danger; the sentence shows he was oblivious to the tensions, avoiding danger by chance." },
+        { "distractor": "informed", "closeness": 1, "reasoning": "Being informed means knowing facts; the sentence shows he was oblivious to the political tensions simmering." }
+      ]
+    },
+    {
+      "sentence": "The executive's oblivious pursuit of market expansion ignored warning signals that savvier competitors had already detected.",
+      "answerChoices": [
+        { "distractor": "unaware", "closeness": 3, "reasoning": "Unawareness means not knowing, similar to obliviousness, but the sentence shows he didn't notice signals that others had detected." },
+        { "distractor": "indifferent", "closeness": 3, "reasoning": "Indifference shows lack of concern, but the sentence shows he lacked awareness of the warning signals." },
+        { "distractor": "careless", "closeness": 3, "reasoning": "Carelessness disregards things, but the sentence shows he didn't notice the signals competitors had already seen." },
+        { "distractor": "negligent", "closeness": 3, "reasoning": "Negligence fails to notice important things, but the sentence shows he was unaware while others detected the signals." },
+        { "distractor": "reckless", "closeness": 2, "reasoning": "Recklessness ignores risks, but the sentence shows he failed to perceive the warning signals." },
+        { "distractor": "heedless", "closeness": 2, "reasoning": "Heedlessness ignores noticed things, but the sentence shows he didn't notice the signals at all." },
+        { "distractor": "hasty", "closeness": 2, "reasoning": "Hastiness moves too quickly, but the sentence shows he lacked awareness of the warning signals." },
+        { "distractor": "blind", "closeness": 2, "reasoning": "Blindness metaphorically means unable to perceive, but the sentence emphasizes he didn't notice signals others detected." },
+        { "distractor": "aware", "closeness": 1, "reasoning": "Awareness means noticing signals; the sentence shows he was oblivious to the warning signals." },
+        { "distractor": "insightful", "closeness": 1, "reasoning": "Insightfulness perceives important truths; the sentence shows he was oblivious to warning signals." },
+        { "distractor": "prescient", "closeness": 1, "reasoning": "Prescience foresees dangers; the sentence shows he was oblivious to warning signals competitors had detected." }
+      ]
+    }
+  ]
+}

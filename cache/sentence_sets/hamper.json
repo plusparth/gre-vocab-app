@@ -1,0 +1,53 @@
+{
+  "word": "hamper",
+  "sentenceSets": [
+    {
+      "sentence": "The faulty equipment continued to hamper the team's progress on the construction project.",
+      "answerChoices": [
+        { "distractor": "delay", "closeness": 3, "reasoning": "Delay means to postpone or slow down, but hamper emphasizes active obstruction or impediment, not merely temporal slowness." },
+        { "distractor": "impede", "closeness": 3, "reasoning": "Impede means to obstruct or hinder, nearly synonymous with hamper, but hamper specifically emphasizes the idea of making progress more difficult despite continued effort." },
+        { "distractor": "hinder", "closeness": 3, "reasoning": "Hinder means to obstruct, very close to hamper, but the sentence emphasizes ongoing difficulty rather than a complete blockage." },
+        { "distractor": "restrict", "closeness": 3, "reasoning": "Restrict means to limit or confine, but hamper refers to making progress difficult through obstruction, not limiting freedom of action." },
+        { "distractor": "slow", "closeness": 2, "reasoning": "Slow means to reduce speed, but hamper refers to active obstruction, not merely temporal reduction." },
+        { "distractor": "interfere", "closeness": 2, "reasoning": "Interfere means to get in the way, but hamper emphasizes continued obstruction of progress, not just a temporary intrusion." },
+        { "distractor": "disrupt", "closeness": 2, "reasoning": "Disrupt means to break continuity, but hamper refers to ongoing difficulty rather than a sudden break." },
+        { "distractor": "weaken", "closeness": 2, "reasoning": "Weaken means to reduce strength, but hamper refers to external obstruction, not a diminishment of internal capacity." },
+        { "distractor": "accelerate", "closeness": 1, "reasoning": "Accelerate means to speed up, directly opposite to the idea of obstructing or making progress difficult." },
+        { "distractor": "facilitate", "closeness": 1, "reasoning": "Facilitate means to make easier, the opposite of hamper." },
+        { "distractor": "enable", "closeness": 1, "reasoning": "Enable means to make possible, opposite to hamper which makes progress more difficult." }
+      ]
+    },
+    {
+      "sentence": "Bureaucratic red tape hampered the relief efforts after the disaster, frustrating volunteers trying to help.",
+      "answerChoices": [
+        { "distractor": "slowed", "closeness": 3, "reasoning": "Slowed means reduced in speed, but hamper emphasizes active obstruction by bureaucracy, not merely temporal delay." },
+        { "distractor": "complicated", "closeness": 3, "reasoning": "Complicated means made more intricate, but hamper refers specifically to obstruction preventing or making difficult the intended action." },
+        { "distractor": "burdened", "closeness": 3, "reasoning": "Burdened means loaded with weight or responsibility, but hamper refers to obstruction from external rules, not internal load." },
+        { "distractor": "constrained", "closeness": 3, "reasoning": "Constrained means limited or restricted, but hamper emphasizes active obstruction of efforts rather than mere limitation." },
+        { "distractor": "delayed", "closeness": 2, "reasoning": "Delayed means postponed, but hamper refers to obstruction making efforts difficult, not just temporal postponement." },
+        { "distractor": "deterred", "closeness": 2, "reasoning": "Deterred means discouraged from acting, but hamper refers to actual obstruction, not psychological discouragement." },
+        { "distractor": "overwhelmed", "closeness": 2, "reasoning": "Overwhelmed means to submerge or flood, but hamper refers to bureaucratic obstruction, not flooding with volume." },
+        { "distractor": "distracted", "closeness": 2, "reasoning": "Distracted means diverted attention, but hamper refers to obstruction of efforts, not diversion of attention." },
+        { "distractor": "enhanced", "closeness": 1, "reasoning": "Enhanced means improved or strengthened, opposite to hamper which makes efforts more difficult." },
+        { "distractor": "streamlined", "closeness": 1, "reasoning": "Streamlined means made more efficient, opposite to bureaucratic obstruction." },
+        { "distractor": "cleared", "closeness": 1, "reasoning": "Cleared means removed obstacles, the opposite of hamper." }
+      ]
+    },
+    {
+      "sentence": "Her shyness didn't hamper her ability to lead; she commanded respect through her quiet authority.",
+      "answerChoices": [
+        { "distractor": "affect", "closeness": 3, "reasoning": "Affect means to influence, but hamper specifically refers to obstruction or impediment, suggesting prevention rather than mere influence." },
+        { "distractor": "undermine", "closeness": 3, "reasoning": "Undermine means to weaken gradually, but hamper refers to active obstruction; the sentence emphasizes her ability despite shyness, not gradual weakening." },
+        { "distractor": "compromise", "closeness": 3, "reasoning": "Compromise means to reduce quality, but hamper refers to obstruction or prevention, which is stronger than mere reduction." },
+        { "distractor": "limit", "closeness": 3, "reasoning": "Limit means to restrict or confine, but hamper emphasizes active obstruction making something difficult, not just setting boundaries." },
+        { "distractor": "influence", "closeness": 2, "reasoning": "Influence means to have an effect, but hamper refers specifically to obstruction, not mere influence." },
+        { "distractor": "suppress", "closeness": 2, "reasoning": "Suppress means to hold down or repress, but hamper refers to obstruction of external performance, not internal suppression." },
+        { "distractor": "damage", "closeness": 2, "reasoning": "Damage means to harm, but hamper refers to obstruction, and the sentence indicates her leadership was not harmed." },
+        { "distractor": "diminish", "closeness": 2, "reasoning": "Diminish means to reduce or lessen, but hamper refers to specific obstruction rather than general reduction." },
+        { "distractor": "enhance", "closeness": 1, "reasoning": "Enhance means to improve or strengthen, the opposite of hamper." },
+        { "distractor": "demonstrate", "closeness": 1, "reasoning": "Demonstrate means to show or prove, opposite to hamper which would prevent or obstruct demonstration." },
+        { "distractor": "display", "closeness": 1, "reasoning": "Display means to show, opposite to hamper which would obstruct or prevent showing." }
+      ]
+    }
+  ]
+}

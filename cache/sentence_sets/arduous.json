@@ -1,0 +1,53 @@
+{
+  "word": "arduous",
+  "sentenceSets": [
+    {
+      "sentence": "The climb proved far more arduous than the guidebook had suggested, taking twice as long as estimated.",
+      "answerChoices": [
+        { "distractor": "strenuous", "closeness": 3, "reasoning": "Both words describe physically demanding activities, but 'strenuous' emphasizes exertion and intensity, whereas 'arduous' specifically highlights the difficulty and prolonged effort needed—evident from the sentence's focus on time taking twice as long." },
+        { "distractor": "steep", "closeness": 3, "reasoning": "A steep climb is challenging, but 'steep' describes only the angle or grade, not the overall difficulty; the sentence's emphasis on exceeding time estimates suggests difficulty beyond just slope." },
+        { "distractor": "treacherous", "closeness": 3, "reasoning": "Treacherous climbs are hazardous, but the sentence focuses on difficulty and duration rather than danger; 'treacherous' implies active peril, not just hardship to achieve." },
+        { "distractor": "exhausting", "closeness": 3, "reasoning": "Both 'exhausting' and 'arduous' can describe physically draining activities, but 'exhausting' emphasizes the fatigue itself, while 'arduous' refers to the inherent difficulty of accomplishment." },
+        { "distractor": "taxing", "closeness": 2, "reasoning": "Both describe challenging undertakings, but 'taxing' emphasizes mental or emotional strain, whereas the climbing context suggests physical difficulty as the primary concern." },
+        { "distractor": "demanding", "closeness": 2, "reasoning": "'Demanding' describes activities requiring significant effort, but it is broader and less specific than 'arduous'; it can apply to relatively brief high-effort activities." },
+        { "distractor": "grueling", "closeness": 2, "reasoning": "'Grueling' suggests intense suffering and extreme fatigue, which may exceed what the sentence conveys—taking twice as long as expected is difficult but not necessarily grueling." },
+        { "distractor": "stalled", "closeness": 2, "reasoning": "'Stalled' implies the climb stopped or halted, which contradicts the sentence's indication that climbers did complete it, just more slowly than anticipated." },
+        { "distractor": "scenic", "closeness": 1, "reasoning": "Opposite—'scenic' describes visually beautiful surroundings; taking longer on a climb says nothing about its aesthetic appeal." },
+        { "distractor": "leisurely", "closeness": 1, "reasoning": "Opposite—'leisurely' means unhurried and relaxed, the antithesis of a climb that takes twice as long as expected, suggesting strain rather than ease." },
+        { "distractor": "expedient", "closeness": 1, "reasoning": "Opposite—'expedient' suggests quick and efficient accomplishment, incompatible with a climb requiring twice the anticipated duration." }
+      ]
+    },
+    {
+      "sentence": "The transition to a new career proved far more arduous than she had anticipated, requiring years of study and self-doubt before she felt competent.",
+      "answerChoices": [
+        { "distractor": "laborious", "closeness": 3, "reasoning": "Both describe work requiring sustained effort, but 'laborious' emphasizes tedious repetition and manual toil, whereas 'arduous' encompasses the emotional and psychological challenges evident from the sentence's mention of years of self-doubt." },
+        { "distractor": "complicated", "closeness": 3, "reasoning": "A complicated transition involves many interlocking factors, but 'complicated' focuses on complexity rather than the personal struggle and sustained effort that the sentence's mention of years and self-doubt conveys." },
+        { "distractor": "risky", "closeness": 3, "reasoning": "Career transitions involve risk, but the sentence emphasizes internal difficulty (study, self-doubt) rather than external peril; 'risky' would suggest danger of failure, not inherent hardship." },
+        { "distractor": "prolonged", "closeness": 3, "reasoning": "The transition is prolonged (taking years), but 'prolonged' merely describes duration; 'arduous' captures the difficulty experienced during that extended period." },
+        { "distractor": "uncertain", "closeness": 2, "reasoning": "A career transition involves uncertainty, but 'uncertain' describes a state of unknowing, whereas 'arduous' describes the effort and hardship of the process itself." },
+        { "distractor": "intimidating", "closeness": 2, "reasoning": "'Intimidating' emphasizes fear or apprehension, whereas 'arduous' focuses on the actual difficulty of accomplishment; one could find something intimidating yet easy, or arduous yet confident." },
+        { "distractor": "discouraging", "closeness": 2, "reasoning": "A difficult transition might be discouraging, but 'discouraging' refers to loss of motivation, while 'arduous' describes the fundamental difficulty regardless of morale." },
+        { "distractor": "beneficial", "closeness": 2, "reasoning": "'Beneficial' describes positive outcomes, which might eventually be true, but the sentence focuses on the process difficulty, not the eventual reward." },
+        { "distractor": "seamless", "closeness": 1, "reasoning": "Opposite—'seamless' implies smooth and effortless transition, contradicting the sentence's explicit statement of difficulty requiring years and self-doubt." },
+        { "distractor": "natural", "closeness": 1, "reasoning": "Opposite—a natural career transition would feel intuitive and easy, whereas the sentence emphasizes struggle and the need to build competence gradually." },
+        { "distractor": "brief", "closeness": 1, "reasoning": "Opposite in implication—'brief' is incompatible with the sentence's temporal scope of years; moreover, something brief cannot demand the sustained effort that 'arduous' implies." }
+      ]
+    },
+    {
+      "sentence": "Achieving scientific consensus on the matter proved arduous; years of conflicting data and competing theories delayed agreement until a unified framework finally emerged.",
+      "answerChoices": [
+        { "distractor": "contentious", "closeness": 3, "reasoning": "Scientific disagreements are often contentious, but 'contentious' describes the emotional tone of debate, whereas 'arduous' in this context refers to the difficulty of reaching resolution across years of conflict." },
+        { "distractor": "unresolved", "closeness": 3, "reasoning": "'Unresolved' describes the initial state, but the sentence shows the conflict was eventually resolved; 'arduous' captures the difficulty of achieving that resolution, not permanence of disagreement." },
+        { "distractor": "disputed", "closeness": 3, "reasoning": "'Disputed' indicates data and theories were contested, which is evident from the sentence, but 'arduous' emphasizes the difficulty of moving past dispute to consensus." },
+        { "distractor": "elusive", "closeness": 3, "reasoning": "Consensus proved elusive (hard to achieve), making 'elusive' superficially plausible, but 'arduous' conveys active struggle over years, not mere difficulty of attainment." },
+        { "distractor": "intricate", "closeness": 2, "reasoning": "The science was likely intricate, but 'intricate' describes the complexity of the subject matter itself, not the social and intellectual difficulty of reaching agreement." },
+        { "distractor": "polarizing", "closeness": 2, "reasoning": "Scientific debates can polarize communities, but 'polarizing' focuses on the divisive effect, whereas 'arduous' describes the difficulty of the consensus-building process." },
+        { "distractor": "preliminary", "closeness": 2, "reasoning": "Early data and theories were preliminary, but the sentence emphasizes the difficulty of moving beyond preliminary stages, not the preliminary nature itself." },
+        { "distractor": "convergent", "closeness": 2, "reasoning": "While the final outcome was convergent (theories unified), the sentence emphasizes the difficulty of convergence, not convergence as the primary descriptor." },
+        { "distractor": "trivial", "closeness": 1, "reasoning": "Opposite—'trivial' implies insignificant and easy to resolve, whereas the sentence stresses years of effort to reach consensus on a substantive question." },
+        { "distractor": "unanimous", "closeness": 1, "reasoning": "Opposite in implication—'unanimous' suggests immediate agreement, whereas the sentence emphasizes years of conflict before consensus." },
+        { "distractor": "spontaneous", "closeness": 1, "reasoning": "Opposite—'spontaneous' implies unplanned and immediate agreement, contradicting the sentence's emphasis on years of struggle to achieve unified understanding." }
+      ]
+    }
+  ]
+}

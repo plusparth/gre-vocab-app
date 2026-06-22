@@ -1,0 +1,53 @@
+{
+  "word": "dictate",
+  "sentenceSets": [
+    {
+      "sentence": "Market conditions dictated a change in strategy that no one in the organization had anticipated.",
+      "answerChoices": [
+        { "distractor": "suggested", "closeness": 3, "reasoning": "Suggested implies recommending a course of action; the sentence emphasizes that market conditions imposed a necessary change, not merely suggested one." },
+        { "distractor": "indicated", "closeness": 3, "reasoning": "Indicated means showing or pointing to something; while conditions indicate, dictated emphasizes the forceful necessity of the change rather than just indication." },
+        { "distractor": "required", "closeness": 3, "reasoning": "Required means making necessary; while conditions require change, dictate more specifically emphasizes conditions imposing a specific course of action that must be followed." },
+        { "distractor": "demanded", "closeness": 3, "reasoning": "Demanded means insisting on or requiring; while market conditions demand, dictate more precisely emphasizes the imperious, unavoidable imposition of a specific course." },
+        { "distractor": "influenced", "closeness": 2, "reasoning": "Influenced means affecting or having an effect on; while conditions influence decisions, dictated emphasizes the forceful, almost inevitable imposition rather than general influence." },
+        { "distractor": "determined", "closeness": 2, "reasoning": "Determined means deciding or settling; while conditions determine outcomes, dictate emphasizes the imperious necessity and specific direction rather than general determination." },
+        { "distractor": "forced", "closeness": 2, "reasoning": "Forced means compelling; while conditions force change, dictate emphasizes the specific imperious command rather than general compulsion." },
+        { "distractor": "governed", "closeness": 2, "reasoning": "Governed means controlling or directing; while conditions govern, dictate emphasizes the imperious, specific command more than general governing." },
+        { "distractor": "avoided", "closeness": 1, "reasoning": "Avoided means staying away from; the sentence shows conditions forcing a necessary change." },
+        { "distractor": "delayed", "closeness": 1, "reasoning": "Delayed means putting off; the sentence shows conditions requiring immediate change." },
+        { "distractor": "prevented", "closeness": 1, "reasoning": "Prevented means stopping something from happening; the sentence shows conditions forcing a necessary change." }
+      ]
+    },
+    {
+      "sentence": "The CEO dictated a series of cost-cutting measures to the management team, expecting full compliance without discussion.",
+      "answerChoices": [
+        { "distractor": "proposed", "closeness": 3, "reasoning": "Proposed means suggesting something for consideration; the sentence shows the CEO imposing measures and expecting compliance, not proposing them for discussion." },
+        { "distractor": "suggested", "closeness": 3, "reasoning": "Suggested implies offering a recommendation; the sentence shows the CEO commanding measures and expecting compliance, not suggesting them." },
+        { "distractor": "announced", "closeness": 3, "reasoning": "Announced means making information known; while the CEO announces measures, dictated emphasizes the command to follow them without discussion rather than just making them known." },
+        { "distractor": "prescribed", "closeness": 3, "reasoning": "Prescribed means establishing rules or procedures; while close, it suggests establishing guidelines, whereas dictated emphasizes commanding specific actions without discussion." },
+        { "distractor": "instituted", "closeness": 2, "reasoning": "Instituted means establishing or setting up; while the CEO institutes measures, dictated more specifically emphasizes the command nature and expectation of compliance." },
+        { "distractor": "implemented", "closeness": 2, "reasoning": "Implemented means putting into action; while the CEO implements, dictated emphasizes the act of commanding rather than executing." },
+        { "distractor": "outlined", "closeness": 2, "reasoning": "Outlined means describing the main points; while the CEO outlines, dictated emphasizes the command nature rather than just describing." },
+        { "distractor": "explained", "closeness": 2, "reasoning": "Explained means making clear; while the CEO explains, dictated emphasizes the authoritarian command rather than explanation." },
+        { "distractor": "requested", "closeness": 1, "reasoning": "Requested means asking for something; the sentence shows the CEO commanding and expecting compliance without discussion." },
+        { "distractor": "consulted", "closeness": 1, "reasoning": "Consulted means seeking advice or opinion; the sentence shows the CEO expecting compliance without discussion, opposite to consultation." },
+        { "distractor": "negotiated", "closeness": 1, "reasoning": "Negotiated means discussing to reach agreement; the sentence expects compliance without discussion." }
+      ]
+    },
+    {
+      "sentence": "The rhythm of the orchestra seemed to dictate its own tempo, making the conductor's baton almost superfluous.",
+      "answerChoices": [
+        { "distractor": "suggest", "closeness": 3, "reasoning": "Suggest means indicating or implying; while the rhythm suggests pace, dictated emphasizes the forceful, almost inevitable imposition of tempo rather than suggestion." },
+        { "distractor": "indicate", "closeness": 3, "reasoning": "Indicate means showing or pointing to; while the rhythm indicates, dictated emphasizes the commanding, unavoidable imposition of tempo." },
+        { "distractor": "influence", "closeness": 3, "reasoning": "Influence means affecting or having an effect; while the rhythm influences, dictated emphasizes the forceful, nearly inevitable imposition rather than general influence." },
+        { "distractor": "shape", "closeness": 3, "reasoning": "Shape means determining form or character; while the rhythm shapes, dictated emphasizes the imperious command of the tempo more than general shaping." },
+        { "distractor": "regulate", "closeness": 2, "reasoning": "Regulate means controlling or adjusting according to rules; while the rhythm regulates, dictated emphasizes the commanding nature more than regulated control." },
+        { "distractor": "determine", "closeness": 2, "reasoning": "Determine means deciding or settling; while the rhythm determines, dictated emphasizes the imperious, commanding quality more than general determination." },
+        { "distractor": "govern", "closeness": 2, "reasoning": "Govern means controlling or directing; while the rhythm governs, dictated emphasizes the commanding, almost inevitable imposition." },
+        { "distractor": "establish", "closeness": 2, "reasoning": "Establish means setting up or creating; while the rhythm establishes pace, dictated emphasizes the commanding nature more than establishment." },
+        { "distractor": "allow", "closeness": 1, "reasoning": "Allow means permitting; the sentence shows the rhythm commanding the tempo, not allowing it." },
+        { "distractor": "follow", "closeness": 1, "reasoning": "Follow means coming after or obeying; the sentence shows the rhythm commanding, not following." },
+        { "distractor": "obey", "closeness": 1, "reasoning": "Obey means following orders; the sentence shows the rhythm commanding, not obeying." }
+      ]
+    }
+  ]
+}

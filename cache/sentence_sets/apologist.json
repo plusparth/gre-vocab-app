@@ -1,0 +1,53 @@
+{
+  "word": "apologist",
+  "sentenceSets": [
+    {
+      "sentence": "As a strong apologist for the government's controversial policy, she delivered speeches defending its necessity despite public backlash.",
+      "answerChoices": [
+        { "distractor": "critic", "closeness": 3, "reasoning": "Close -- 'critic' is someone who judges merit, but the sentence shows she was defending the policy, making her an advocate rather than a critic." },
+        { "distractor": "skeptic", "closeness": 3, "reasoning": "Close -- 'skeptic' is someone who doubts; the sentence shows her actively defending the policy, not expressing doubt." },
+        { "distractor": "opponent", "closeness": 3, "reasoning": "Close -- 'opponent' means someone who opposes; the sentence shows she supported and defended the policy despite opposition." },
+        { "distractor": "observer", "closeness": 3, "reasoning": "Close -- 'observer' watches and comments; the sentence indicates she actively advocated for and defended the policy, not merely observed it." },
+        { "distractor": "analyst", "closeness": 2, "reasoning": "Incorrect -- 'analyst' examines and explains; while she may analyze, the sentence emphasizes her defensive advocacy rather than objective analysis." },
+        { "distractor": "spokesperson", "closeness": 2, "reasoning": "Incorrect -- 'spokesperson' delivers official statements but may not necessarily defend or advocate for a position personally." },
+        { "distractor": "witness", "closeness": 2, "reasoning": "Incorrect -- 'witness' is someone who sees or testifies; the sentence describes an advocate defending a policy." },
+        { "distractor": "consultant", "closeness": 2, "reasoning": "Incorrect -- 'consultant' provides expert advice; the sentence emphasizes defense and advocacy rather than providing consultation." },
+        { "distractor": "enemy", "closeness": 1, "reasoning": "Opposite -- 'enemy' opposes; she defended the policy, making her an advocate, not an enemy." },
+        { "distractor": "deserter", "closeness": 1, "reasoning": "Opposite -- 'deserter' abandons a cause; she strongly defended the policy, remaining committed." },
+        { "distractor": "traitor", "closeness": 1, "reasoning": "Incorrect -- 'traitor' betrays a cause; she actively defended the policy, showing clear allegiance." }
+      ]
+    },
+    {
+      "sentence": "The medieval theologian served as apologist for Church doctrine, constructing elaborate arguments to reconcile faith with reason.",
+      "answerChoices": [
+        { "distractor": "scholar", "closeness": 3, "reasoning": "Close -- 'scholar' studies texts and ideas; while an apologist may be scholarly, the sentence emphasizes defending a specific doctrine rather than academic study." },
+        { "distractor": "interpreter", "closeness": 3, "reasoning": "Close -- 'interpreter' explains meaning; the sentence shows she constructed arguments to defend doctrine, not merely explain it." },
+        { "distractor": "philosopher", "closeness": 3, "reasoning": "Close -- 'philosopher' pursues wisdom and truth; while she used philosophical reasoning, apologist specifically denotes defending a particular position." },
+        { "distractor": "heretic", "closeness": 3, "reasoning": "Close -- 'heretic' challenges orthodox doctrine; the sentence shows she defended Church doctrine, making her an apologist rather than heretic." },
+        { "distractor": "teacher", "closeness": 2, "reasoning": "Incorrect -- 'teacher' instructs students; the sentence emphasizes defending doctrine through argument rather than teaching." },
+        { "distractor": "reformer", "closeness": 2, "reasoning": "Incorrect -- 'reformer' seeks to change; she defended existing Church doctrine, not reform it." },
+        { "distractor": "mystic", "closeness": 2, "reasoning": "Incorrect -- 'mystic' seeks direct spiritual experience; she built rational arguments, not pursued mystical experience." },
+        { "distractor": "chronicler", "closeness": 2, "reasoning": "Incorrect -- 'chronicler' records events; the sentence describes someone defending doctrine through argument." },
+        { "distractor": "atheist", "closeness": 1, "reasoning": "Opposite -- 'atheist' denies religious belief; she defended Church doctrine, showing religious commitment." },
+        { "distractor": "agnostic", "closeness": 1, "reasoning": "Opposite -- 'agnostic' claims uncertainty about faith; she confidently defended Church doctrine." },
+        { "distractor": "skeptic", "closeness": 1, "reasoning": "Incorrect -- 'skeptic' doubts doctrinal claims; she argued in defense of faith and doctrine." }
+      ]
+    },
+    {
+      "sentence": "Environmental groups criticized the industry consultant as an apologist for corporate pollution rather than an honest broker of reform.",
+      "answerChoices": [
+        { "distractor": "enabler", "closeness": 3, "reasoning": "Close -- 'enabler' allows harmful behavior; the sentence shows the consultant defended corporate interests, but apologist emphasizes justifying or defending positions specifically." },
+        { "distractor": "accomplice", "closeness": 3, "reasoning": "Close -- 'accomplice' participates in wrongdoing; the sentence shows the consultant defended corporate interests, but apologist emphasizes defending/justifying them publicly." },
+        { "distractor": "profiteer", "closeness": 3, "reasoning": "Close -- 'profiteer' gains illegitimate wealth; the sentence describes someone defending corporate positions, not necessarily someone motivated by profit." },
+        { "distractor": "advocate", "closeness": 3, "reasoning": "Close -- 'advocate' supports a cause; the sentence distinguishes between an apologist (defending corporate interests) and an honest broker, suggesting apologist is more defensive/justifying." },
+        { "distractor": "lobbyist", "closeness": 2, "reasoning": "Incorrect -- 'lobbyist' seeks to influence policy; the sentence emphasizes defending corporate positions through rhetoric rather than political influence." },
+        { "distractor": "competitor", "closeness": 2, "reasoning": "Incorrect -- 'competitor' rivals in business; the sentence describes someone defending corporate pollution, not competing." },
+        { "distractor": "bystander", "closeness": 2, "reasoning": "Incorrect -- 'bystander' remains uninvolved; she actively defended corporate interests." },
+        { "distractor": "regulator", "closeness": 2, "reasoning": "Incorrect -- 'regulator' enforces rules; the sentence describes someone defending corporate interests against environmental regulation." },
+        { "distractor": "whistleblower", "closeness": 1, "reasoning": "Opposite -- 'whistleblower' exposes wrongdoing; the apologist defended corporate interests, the opposite of exposure." },
+        { "distractor": "activist", "closeness": 1, "reasoning": "Opposite -- 'activist' campaigns for change; the apologist defended existing corporate practices against reform." },
+        { "distractor": "regentrator", "closeness": 1, "reasoning": "Incorrect -- an invented term; the sentence describes the consultant's defensive posture toward corporate pollution." }
+      ]
+    }
+  ]
+}

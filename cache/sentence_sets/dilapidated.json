@@ -1,0 +1,53 @@
+{
+  "word": "dilapidated",
+  "sentenceSets": [
+    {
+      "sentence": "The dilapidated structure posed a safety risk and had long outlived the renovation arguments in its favor.",
+      "answerChoices": [
+        { "distractor": "old", "closeness": 3, "reasoning": "Old describes being advanced in age; while the structure is old, dilapidated more specifically means fallen into disrepair through neglect or decay." },
+        { "distractor": "neglected", "closeness": 3, "reasoning": "Neglected describes being ignored or not cared for; while the structure is neglected, dilapidated more specifically emphasizes the state of deterioration resulting from that neglect." },
+        { "distractor": "weathered", "closeness": 3, "reasoning": "Weathered describes showing the effects of weather; while the structure is weathered, dilapidated more specifically emphasizes fallen into decay and partial ruin." },
+        { "distractor": "decrepit", "closeness": 3, "reasoning": "Decrepit is very close and describes something worn out and broken; however, dilapidated specifically emphasizes neglect as the cause of the deterioration." },
+        { "distractor": "crumbling", "closeness": 2, "reasoning": "Crumbling describes actively falling apart; while the structure crumbles, dilapidated more broadly describes the overall state of deterioration from neglect." },
+        { "distractor": "rundown", "closeness": 2, "reasoning": "Rundown describes being worn out; while the structure is rundown, dilapidated more specifically emphasizes deterioration from neglect." },
+        { "distractor": "shabby", "closeness": 2, "reasoning": "Shabby describes appearing worn and ragged; while the structure is shabby, dilapidated more specifically emphasizes decay and partial ruin." },
+        { "distractor": "damaged", "closeness": 2, "reasoning": "Damaged describes being harmed; while the structure is damaged, dilapidated more specifically emphasizes the state of deterioration from prolonged neglect." },
+        { "distractor": "pristine", "closeness": 1, "reasoning": "Pristine means in perfect condition; the sentence describes a structure posing safety risk." },
+        { "distractor": "maintained", "closeness": 1, "reasoning": "Maintained means kept in good condition; the sentence describes a structure that has deteriorated from neglect." },
+        { "distractor": "sturdy", "closeness": 1, "reasoning": "Sturdy means strong and solidly built; the sentence describes a structure posing safety risk." }
+      ]
+    },
+    {
+      "sentence": "The dilapidated mansion, with its peeling paint and missing roof tiles, awaited either restoration or demolition.",
+      "answerChoices": [
+        { "distractor": "aged", "closeness": 3, "reasoning": "Aged describes being old; while the mansion is aged, dilapidated more specifically means deteriorated and fallen into disrepair." },
+        { "distractor": "abandoned", "closeness": 3, "reasoning": "Abandoned describes being deserted; while the mansion may be abandoned, dilapidated specifically describes the physical deterioration rather than just the state of being deserted." },
+        { "distractor": "weathered", "closeness": 3, "reasoning": "Weathered describes showing effects of age and weather; while the mansion is weathered, dilapidated more specifically emphasizes fallen into decay and partial ruin." },
+        { "distractor": "decrepit", "closeness": 3, "reasoning": "Decrepit describes worn out and broken; while very close, dilapidated more specifically emphasizes the decay from neglect and disuse." },
+        { "distractor": "crumbling", "closeness": 2, "reasoning": "Crumbling describes actively breaking apart; the sentence shows specific details like peeling paint and missing tiles, suggesting more than just crumbling." },
+        { "distractor": "neglected", "closeness": 2, "reasoning": "Neglected means not cared for; while the mansion is neglected, dilapidated more specifically describes the physical state of deterioration." },
+        { "distractor": "shabby", "closeness": 2, "reasoning": "Shabby describes worn and ragged; while the mansion is shabby, dilapidated more specifically emphasizes deterioration and partial ruin." },
+        { "distractor": "rundown", "closeness": 2, "reasoning": "Rundown describes in poor condition; while the mansion is rundown, dilapidated more specifically emphasizes deterioration from neglect." },
+        { "distractor": "new", "closeness": 1, "reasoning": "New describes recently made; the sentence describes a mansion with peeling paint and missing tiles." },
+        { "distractor": "restored", "closeness": 1, "reasoning": "Restored means repaired back to original condition; the sentence shows the mansion awaiting restoration." },
+        { "distractor": "well-maintained", "closeness": 1, "reasoning": "Well-maintained means kept in good condition; the sentence describes deterioration." }
+      ]
+    },
+    {
+      "sentence": "The dilapidated warehouse, condemned by inspectors and boarded up for years, finally succumbed to the wrecking ball.",
+      "answerChoices": [
+        { "distractor": "old", "closeness": 3, "reasoning": "Old describes advanced age; while the warehouse is old, dilapidated more specifically means deteriorated through neglect." },
+        { "distractor": "condemned", "closeness": 3, "reasoning": "Condemned describes officially declared unsafe; while the warehouse is condemned, dilapidated describes the physical state causing that condemnation." },
+        { "distractor": "abandoned", "closeness": 3, "reasoning": "Abandoned means deserted; while the warehouse is abandoned, dilapidated specifically describes the deteriorated physical condition." },
+        { "distractor": "decrepit", "closeness": 3, "reasoning": "Decrepit describes worn out; while close, dilapidated more specifically emphasizes neglect as the cause of deterioration." },
+        { "distractor": "unsafe", "closeness": 2, "reasoning": "Unsafe describes danger; while the warehouse is unsafe, dilapidated describes the physical deterioration causing unsafety." },
+        { "distractor": "crumbling", "closeness": 2, "reasoning": "Crumbling describes actively breaking apart; while the warehouse crumbles, dilapidated more broadly describes the overall state." },
+        { "distractor": "neglected", "closeness": 2, "reasoning": "Neglected means not cared for; while the warehouse is neglected, dilapidated describes the physical state resulting from neglect." },
+        { "distractor": "rundown", "closeness": 2, "reasoning": "Rundown describes in poor condition; while the warehouse is rundown, dilapidated more specifically emphasizes deterioration." },
+        { "distractor": "new", "closeness": 1, "reasoning": "New describes recently built; the sentence describes a warehouse boarded up for years." },
+        { "distractor": "functioning", "closeness": 1, "reasoning": "Functioning means operating properly; the sentence shows the warehouse condemned." },
+        { "distractor": "valuable", "closeness": 1, "reasoning": "Valuable means worth saving; the sentence shows the warehouse succumbing to demolition." }
+      ]
+    }
+  ]
+}
