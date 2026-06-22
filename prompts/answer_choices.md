@@ -38,8 +38,11 @@ Write a single JSON object to `cache/sentence_sets/{word}.json`:
   - Are 1-2 sentences long, natural-sounding, at GRE reading level
   - Contain the target word (or an inflected form) in a context that makes the correct answer inferable
   - Are original usage examples, not definition restatements. Do not insert the definition, a paraphrase of the definition, or definition-shaped phrases such as "meaning...", "defined as...", "best described as...", "a term for...", or "an example of..." into the sentence.
-  - Provide just enough situational context for a test-taker to infer the correct answer from how the word is used. The goal is to write a plausible GRE-style sentence, not to explain the word.
-  - Are meaningfully different from set 0 and from each other in domain, syntactic role, and connotation -- a strong distractor for one sentence must NOT be a strong distractor for the others. For example, if set 0 uses "abase" in a professional/workplace context (making "demote" a closeness-3 trap), sets 1 and 2 should use personal/social or abstract/philosophical contexts where "demote" is implausible.
+- Provide just enough situational context for a test-taker to infer the correct answer from how the word is used. The goal is to write a plausible GRE-style sentence, not to explain the word.
+- **Make the question answerable.** Each sentence must contain enough specific contextual evidence for a reasonably prepared test-taker to choose the target over every distractor that can grammatically replace it. Before finalizing a set, mentally substitute its closeness-3 distractors: if more than one remains equally plausible because the context is too vague, add or revise natural situational details until the intended word is distinguishable. Do this without turning the sentence into a definition or paraphrasing the definition.
+- **Do not use an equally correct synonym as a distractor.** Grammatical substitutability is necessary but not sufficient: every distractor must be wrong for a concrete reason supplied by the sentence. Do not rely on a fine-grained dictionary distinction that ordinary sentence context cannot establish (for example, presenting *conform* against *adhere* in a generic protocol-following sentence). If a close alternative remains defensible after substitution, replace it with a different distractor or revise the sentence to make the distinction observable through actions, consequences, or relationships.
+- Are meaningfully different from set 0 and from each other in domain, syntactic role, and connotation -- a strong distractor for one sentence must NOT be a strong distractor for the others. For example, if set 0 uses "abase" in a professional/workplace context (making "demote" a closeness-3 trap), sets 1 and 2 should use personal/social or abstract/philosophical contexts where "demote" is implausible.
+- **Write every sentence independently.** Do not use a template, sentence skeleton, program, or find-and-replace approach to generate sentences. Every sentence must be unique across the corpus in wording, scenario, syntax, and rhetorical structure; never reuse a sentence frame with a different target word substituted into it.
 
 ## No Definition Repetition
 
@@ -62,9 +65,17 @@ Generate exactly 11 distractors per sentence:
 
 **Distractors must be context-specific.** A closeness-3 distractor should be a trap for THIS sentence, not just a general synonym of the target word. The point is that the set of 11 distractors varies between the 3 sentences because each sentence's context highlights different confusable words.
 
+**Every distractor must be directly substitutable into the sentence.** Replace the target word (or its displayed inflected form) with each distractor and verify that the resulting sentence is grammatical and makes syntactic sense. For verbs, use the matching tense, aspect, voice, and agreement; for nouns, adjectives, and adverbs, use a form compatible with the sentence. Do not list a distractor that would require the test-taker to conjugate, pluralize, or otherwise transform it before it could replace the target word.
+
+**Do not reuse distractors within a word's file.** The 33 distractors across that word's three sentence sets must all be different. Choose each distractor for the particular sentence rather than recycling a list between sets or copying one from another word's file.
+
 **Distractors need not come from the GRE word bank** -- use whatever words are most natural confusables for each sentence's context.
 
-**Reasoning format:** One sentence per distractor. For closeness-3: explain the nuanced difference. For closeness-2: explain why it is wrong. For closeness-1: briefly note why it doesn't fit.
+**Reasoning format:** One sentence per distractor. The reasoning must be **grounded in evidence from the sentence itself** — explain what specific detail in the sentence (an action, consequence, relationship, modifier, or contextual clue) makes the distractor wrong. Do **not** write reasoning that says "X is wrong because the correct answer means Y" or that relies on knowing the target word. A test-taker who has never seen the target word should be able to follow your reasoning and rule out the distractor purely from the sentence. If you cannot point to a specific sentence detail that rules out the distractor, the sentence or distractor is bad — revise one or both until the reasoning is fully sentence-grounded.
+
+Concretely:
+- **Bad:** "Close — 'curtly' means briefly and somewhat rudely; 'brusquely' adds the emphasis on an abrupt, blunt manner."  *(relies on the correct answer)*
+- **Good:** "The sentence shows her cutting off the reporter before the question is even finished — an act that signals dismissive interruption, not just economy of words; 'curtly' fits a brief reply but not the act of cutting someone off mid-question."  *(grounded in the sentence)*
 
 ## Example
 
