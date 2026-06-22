@@ -37,7 +37,16 @@ Write a single JSON object to `cache/sentence_sets/{word}.json`:
 - **Sets 1 and 2:** Write new sentences that:
   - Are 1-2 sentences long, natural-sounding, at GRE reading level
   - Contain the target word (or an inflected form) in a context that makes the correct answer inferable
+  - Are original usage examples, not definition restatements. Do not insert the definition, a paraphrase of the definition, or definition-shaped phrases such as "meaning...", "defined as...", "best described as...", "a term for...", or "an example of..." into the sentence.
+  - Provide just enough situational context for a test-taker to infer the correct answer from how the word is used. The goal is to write a plausible GRE-style sentence, not to explain the word.
   - Are meaningfully different from set 0 and from each other in domain, syntactic role, and connotation -- a strong distractor for one sentence must NOT be a strong distractor for the others. For example, if set 0 uses "abase" in a professional/workplace context (making "demote" a closeness-3 trap), sets 1 and 2 should use personal/social or abstract/philosophical contexts where "demote" is implausible.
+
+## No Definition Repetition
+
+Do not repeat the definition in any generated field:
+- **Sentences:** Never build a sentence by inserting the definition or a close paraphrase of it. The sentence should show the word in action through context.
+- **Answer choices:** Do not choose distractors by copying words from the definition unless that word is also a natural trap for the specific sentence.
+- **Reasoning:** Do not justify choices by mechanically restating the full definition. Explain the contextual trap or mismatch in your own words, using only the amount of meaning needed to distinguish the distractor from the correct answer.
 
 ## Distractor Requirements
 
@@ -126,6 +135,8 @@ Generate exactly 11 distractors per sentence:
 
 1. Read the word, POS, definition, and existing sentence from the inputs provided.
 2. Write sets 1 and 2 with diverse contexts before choosing distractors -- context diversity must come first.
-3. For each sentence, choose distractors by asking: "Given this specific sentence, what words might a test-taker confuse the blank with?" -- not "what are general synonyms of the word?"
-4. Write the complete JSON and save it to `cache/sentence_sets/{word}.json`.
-5. Validate that the JSON is well-formed before moving on.
+3. Check each new sentence against the no-definition-repetition rule. If the sentence reads like it contains the definition in any form, rewrite it as an original contextual sentence.
+4. For each sentence, choose distractors by asking: "Given this specific sentence, what words might a test-taker confuse the blank with?" -- not "what are general synonyms of the word?"
+5. Check every answer choice and reasoning sentence against the no-definition-repetition rule. Rewrite any copied or definition-shaped phrasing.
+6. Write the complete JSON and save it to `cache/sentence_sets/{word}.json`.
+7. Validate that the JSON is well-formed before moving on.
