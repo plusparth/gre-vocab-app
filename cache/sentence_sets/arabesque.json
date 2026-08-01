@@ -4,49 +4,181 @@
     {
       "sentence": "The carpet's elaborate arabesque pattern reflected centuries of accumulated craft tradition.",
       "answerChoices": [
-        { "distractor": "geometric", "closeness": 3, "reasoning": "Both arabesque and geometric patterns appear in traditional carpets, but 'geometric' describes angular, regular shapes while the sentence's reference to accumulated craft tradition points to the organic, interlaced floral and foliate complexity that defines an arabesque." },
-        { "distractor": "floral", "closeness": 3, "reasoning": "Arabesque designs often incorporate flower and foliage motifs, making 'floral' tempting, but 'floral' names only one element whereas 'arabesque' names the whole interlaced compositional system that centuries of craft tradition developed." },
-        { "distractor": "intricate", "closeness": 3, "reasoning": "The word 'elaborate' already signals complexity, and an arabesque is intricate, but 'intricate pattern' describes a quality rather than a named design tradition the sentence anchors in centuries of craft." },
-        { "distractor": "ornamental", "closeness": 3, "reasoning": "'Ornamental' is a valid descriptor for decorative carpet motifs, but it is a broad adjective, not a specific design vocabulary associated with centuries of accumulated tradition the way 'arabesque' is." },
-        { "distractor": "tapestry", "closeness": 2, "reasoning": "'Tapestry' names a different textile form and cannot follow 'elaborate' to modify a pattern; it would change the meaning of the noun phrase entirely." },
-        { "distractor": "symmetrical", "closeness": 2, "reasoning": "Traditional carpet patterns are often symmetrical, but 'symmetrical pattern' is a general structural description rather than a named artistic tradition tied to craft heritage." },
-        { "distractor": "woven", "closeness": 2, "reasoning": "A carpet's pattern is by definition woven, but 'woven pattern' describes the manufacturing process, not the visual design tradition that centuries of craft history produced." },
-        { "distractor": "abstract", "closeness": 2, "reasoning": "Some interpretations of arabesque read as abstract, but 'abstract pattern' is a broad modern art-critical term that does not connect to the specific historical craft tradition the sentence invokes." },
-        { "distractor": "mosaic", "closeness": 1, "reasoning": "'Mosaic' refers to a design made from tesserae set in mortar, a medium entirely different from carpet weaving, so 'mosaic pattern' does not fit a carpet." },
-        { "distractor": "pastoral", "closeness": 1, "reasoning": "'Pastoral' evokes rural landscape scenes and has no association with the interlaced decorative vocabulary of carpet traditions." },
-        { "distractor": "random", "closeness": 1, "reasoning": "The sentence attributes the pattern to centuries of accumulated craft tradition, which implies deliberate mastery; 'random pattern' directly contradicts that framing." }
+        {
+          "distractor": "mosaic",
+          "closeness": 3,
+          "reasoning": "Both are intricate decorative patterns, but a mosaic uses tiles or colored pieces, while an arabesque uses interlaced lines and designs."
+        },
+        {
+          "distractor": "ornament",
+          "closeness": 3,
+          "reasoning": "Both decorate something, but an ornament is general decoration, while an arabesque is specifically an interlaced pattern."
+        },
+        {
+          "distractor": "design",
+          "closeness": 3,
+          "reasoning": "Both are patterns, but design is general, while arabesque specifically refers to ornamental interlaced lines."
+        },
+        {
+          "distractor": "motif",
+          "closeness": 3,
+          "reasoning": "Both are repeated design elements, but a motif is any repeated pattern, while an arabesque is specifically floral or geometric interlaced."
+        },
+        {
+          "distractor": "embroidery",
+          "closeness": 2,
+          "reasoning": "Embroidery is decorative needlework, but an arabesque is specifically a decorative design pattern."
+        },
+        {
+          "distractor": "filigree",
+          "closeness": 2,
+          "reasoning": "Filigree is delicate ornamental metalwork, but an arabesque is a broader decorative pattern."
+        },
+        {
+          "distractor": "tracery",
+          "closeness": 2,
+          "reasoning": "Tracery is delicate interlacing in architecture, but arabesque is broader decorative interlaced design."
+        },
+        {
+          "distractor": "embellishment",
+          "closeness": 2,
+          "reasoning": "Embellishment is general decoration, but an arabesque is specifically an interlaced pattern."
+        },
+        {
+          "distractor": "solid",
+          "closeness": 1,
+          "reasoning": "Solid means undecorated; the sentence describes an elaborate arabesque pattern."
+        },
+        {
+          "distractor": "plain",
+          "closeness": 1,
+          "reasoning": "Plain means simple and undecorated; the sentence describes an elaborate arabesque pattern."
+        },
+        {
+          "distractor": "minimalist",
+          "closeness": 1,
+          "reasoning": "Minimalist is simple and spare; the carpet has an elaborate arabesque pattern."
+        }
       ]
     },
     {
-      "sentence": "The ballerina held the arabesque for a full eight counts, her raised leg perfectly parallel to the stage floor.",
+      "sentence": "The dancer's movements traced an arabesque in the air, with limbs extending and weaving in patterns that suggested delicate intertwining branches.",
       "answerChoices": [
-        { "distractor": "pirouette", "closeness": 3, "reasoning": "Both arabesque and pirouette are classical ballet positions a dancer holds or executes on stage, but the sentence specifies a raised leg held parallel to the floor — the defining visible form of an arabesque — rather than the spinning rotation that defines a pirouette." },
-        { "distractor": "relevé", "closeness": 3, "reasoning": "A relevé involves rising onto the tips of the toes, which can accompany an arabesque, but 'held a relevé for eight counts' does not describe the specific shape the sentence goes on to detail with the raised leg and parallel-to-floor position." },
-        { "distractor": "attitude", "closeness": 3, "reasoning": "An attitude is also a ballet position with one leg raised behind the body, making it a very close trap, but in an attitude the raised leg is bent at the knee while the sentence's description of the leg being 'perfectly parallel to the stage floor' points specifically to the straight-legged arabesque." },
-        { "distractor": "pose", "closeness": 3, "reasoning": "A dancer can hold a pose for eight counts and have a raised leg, so 'pose' is substitutable and broadly plausible, but the sentence's precise description of the raised leg's angle points to a named classical position, not a generic stance." },
-        { "distractor": "sequence", "closeness": 2, "reasoning": "Holding something for eight counts could apply to a sequence of steps, but 'sequence' is not a single position a dancer holds, and the sentence describes a static shape defined by the raised leg." },
-        { "distractor": "extension", "closeness": 2, "reasoning": "Raising a leg to a parallel position involves extension, but 'extension' names a movement action, not a positional form that is held for a measured number of counts." },
-        { "distractor": "balance", "closeness": 2, "reasoning": "Holding any pose for eight counts requires balance, but 'held the balance' is not idiomatic in ballet terminology and the sentence focuses on the named position rather than the feat of equilibrium." },
-        { "distractor": "combination", "closeness": 2, "reasoning": "Ballet exercises are sometimes called combinations, but a combination is a series of steps rather than a single held shape with a raised leg at a specific angle." },
-        { "distractor": "curtsy", "closeness": 1, "reasoning": "A curtsy is a bow of acknowledgment performed by lowering the body, the opposite direction from the raised-leg position the sentence describes." },
-        { "distractor": "sprint", "closeness": 1, "reasoning": "'Sprint' is a running action and cannot be 'held for eight counts'; it belongs to an entirely different physical vocabulary." },
-        { "distractor": "stumble", "closeness": 1, "reasoning": "'Stumble' describes a loss of balance and is clearly incompatible with a dancer's raised leg held perfectly parallel to the floor." }
+        {
+          "distractor": "gesture",
+          "closeness": 3,
+          "reasoning": "Both describe body movements, but a gesture is an expressive movement, while an arabesque is a specific flowing pattern."
+        },
+        {
+          "distractor": "flourish",
+          "closeness": 3,
+          "reasoning": "Both describe showy movements, but a flourish is a sudden showy movement, while an arabesque is flowing interlaced patterns."
+        },
+        {
+          "distractor": "movement",
+          "closeness": 3,
+          "reasoning": "Both describe the dancer's action, but movement is general, while arabesque is specifically flowing interlaced patterns."
+        },
+        {
+          "distractor": "pose",
+          "closeness": 3,
+          "reasoning": "Both describe body positioning, but a pose is static, while an arabesque in dance is flowing and dynamic."
+        },
+        {
+          "distractor": "extension",
+          "closeness": 2,
+          "reasoning": "Extension describes limbs stretching, but an arabesque describes the overall flowing pattern created."
+        },
+        {
+          "distractor": "sequence",
+          "closeness": 2,
+          "reasoning": "A sequence is ordered succession, but an arabesque is flowing interlaced movement patterns."
+        },
+        {
+          "distractor": "spiral",
+          "closeness": 2,
+          "reasoning": "A spiral curves in circles, but an arabesque features interlacing lines and organic patterns."
+        },
+        {
+          "distractor": "motion",
+          "closeness": 2,
+          "reasoning": "Motion is general movement, but an arabesque is specifically flowing interlaced patterns."
+        },
+        {
+          "distractor": "stiffness",
+          "closeness": 1,
+          "reasoning": "Stiffness is rigid and inflexible; the sentence describes movements tracing an arabesque with delicate intertwining."
+        },
+        {
+          "distractor": "rigidity",
+          "closeness": 1,
+          "reasoning": "Rigidity is inflexible and fixed; the sentence describes flowing arabesque movements."
+        },
+        {
+          "distractor": "stillness",
+          "closeness": 1,
+          "reasoning": "Stillness is lack of movement; the sentence describes the dancer's movements tracing an arabesque."
+        }
       ]
     },
     {
-      "sentence": "The novelist's prose style had grown so elaborate — full of nested clauses and unexpected arabesques of digression — that even sympathetic critics found it exhausting.",
+      "sentence": "The novelist's prose style, with its intricate arabesques of subordinate clauses and ornamental descriptions, sometimes obscured rather than clarified meaning.",
       "answerChoices": [
-        { "distractor": "flourishes", "closeness": 3, "reasoning": "A prose style full of ornamentation could be described as having flourishes, and 'unexpected flourishes of digression' is nearly as natural as the original, but 'arabesques' in this context specifically invokes a pattern of interlaced, winding departures rather than individual decorative touches." },
-        { "distractor": "tangents", "closeness": 3, "reasoning": "'Tangents of digression' would describe the same problem — a tendency to wander — but 'tangents' emphasizes straight-line departures from the main topic, while 'arabesques' captures the winding, intricately looping quality of the digressions the critics found tiring." },
-        { "distractor": "spirals", "closeness": 3, "reasoning": "'Spirals of digression' suggests the digressions curve inward or outward in a widening pattern; the word is tempting because arabesques are also visually complex curves, but 'spirals' implies centripetal movement rather than interlaced ornamentation." },
-        { "distractor": "mazes", "closeness": 3, "reasoning": "'Mazes of digression' suggests a labyrinthine quality that even critics find hard to navigate, which matches the sentence's 'exhausting,' but 'maze' connotes dead ends and confusion rather than ornamental intricacy." },
-        { "distractor": "outbursts", "closeness": 2, "reasoning": "'Outbursts of digression' suggests sudden emotional eruptions, whereas the sentence describes an elaborate structural quality of the prose — a sustained stylistic tendency, not moments of passion." },
-        { "distractor": "fragments", "closeness": 2, "reasoning": "'Fragments of digression' would suggest broken pieces, but the sentence frames the digressions as ornate and structured — too much rather than too little." },
-        { "distractor": "silences", "closeness": 2, "reasoning": "'Silences of digression' is not a natural phrase and would point to absence rather than the dense verbal ornamentation the sentence describes." },
-        { "distractor": "repetitions", "closeness": 2, "reasoning": "The sentence points to complexity and ornamentation that exhausts readers, but 'repetitions of digression' would describe the same digressions occurring more than once, a different kind of fault." },
-        { "distractor": "pauses", "closeness": 1, "reasoning": "'Pauses of digression' is not idiomatic, and pauses suggest brevity and restraint, the opposite of the elaborate, winding style the critics found exhausting." },
-        { "distractor": "simplifications", "closeness": 1, "reasoning": "'Simplifications of digression' directly contradicts the sentence's complaint about excessive elaboration and complexity." },
-        { "distractor": "omissions", "closeness": 1, "reasoning": "'Omissions of digression' is semantically contradictory — digressions are additions, not omissions — and clearly wrong in a sentence about a style that is too much rather than too little." }
+        {
+          "distractor": "digressions",
+          "closeness": 3,
+          "reasoning": "Both describe deviations from main points, but digressions are wandering asides, while arabesques are ornamental interlacing."
+        },
+        {
+          "distractor": "complications",
+          "closeness": 3,
+          "reasoning": "Both make something complex, but complications make things unclear, while arabesques are decorative interlacing."
+        },
+        {
+          "distractor": "convolutions",
+          "closeness": 3,
+          "reasoning": "Both describe twisted complexity, but convolutions twist and turn confusingly, while arabesques are decorative patterns."
+        },
+        {
+          "distractor": "elaborations",
+          "closeness": 3,
+          "reasoning": "Both add detail and ornament, but elaborations simply add detail, while arabesques create interlaced decorative patterns."
+        },
+        {
+          "distractor": "embellishments",
+          "closeness": 2,
+          "reasoning": "Embellishments decorate, but arabesques specifically describe ornamental interlaced patterns."
+        },
+        {
+          "distractor": "flourishes",
+          "closeness": 2,
+          "reasoning": "Flourishes are showy additions, but arabesques specifically are ornamental interlaced patterns."
+        },
+        {
+          "distractor": "ornamentation",
+          "closeness": 2,
+          "reasoning": "Ornamentation is general decoration, but arabesques specifically describe interlaced patterns."
+        },
+        {
+          "distractor": "intricacy",
+          "closeness": 2,
+          "reasoning": "Intricacy is complexity, but arabesques specifically describe ornamental interlaced design."
+        },
+        {
+          "distractor": "simplicity",
+          "closeness": 1,
+          "reasoning": "Simplicity means uncomplicated; the sentence describes intricate arabesques obscuring meaning."
+        },
+        {
+          "distractor": "clarity",
+          "closeness": 1,
+          "reasoning": "Clarity means clear understanding; the sentence shows arabesques obscuring rather than clarifying meaning."
+        },
+        {
+          "distractor": "directness",
+          "closeness": 1,
+          "reasoning": "Directness is straightforward and clear; the sentence describes arabesques obscuring meaning."
+        }
       ]
     }
   ]

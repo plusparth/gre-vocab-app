@@ -1,0 +1,53 @@
+{
+  "word": "obvious",
+  "sentenceSets": [
+    {
+      "sentence": "The defendant's guilt was so obvious that the jury deliberated for less than an hour before returning a guilty verdict.",
+      "answerChoices": [
+        { "distractor": "evident", "closeness": 3, "reasoning": "Close -- 'evident' means clearly shown or manifest; nearly synonymous, but the sentence's emphasis on jury speed suggests 'obvious' captures the complete lack of doubt." },
+        { "distractor": "apparent", "closeness": 3, "reasoning": "Close -- 'apparent' means seeming or apparent to the eye; both fit, but 'obvious' emphasizes immediate recognition while 'apparent' can suggest surface appearance." },
+        { "distractor": "manifest", "closeness": 3, "reasoning": "Close -- 'manifest' means clearly revealed; similar to obvious, but the sentence's context of legal certainty aligns better with 'obvious'." },
+        { "distractor": "clear", "closeness": 3, "reasoning": "Close -- 'clear' means easily understood; both work, but 'obvious' emphasizes that understanding requires no special insight." },
+        { "distractor": "undeniable", "closeness": 2, "reasoning": "Incorrect -- 'undeniable' means impossible to deny; while the facts were undeniable, the sentence emphasizes how the guilt was perceived, not the philosophical status of facts." },
+        { "distractor": "incontestable", "closeness": 2, "reasoning": "Incorrect -- 'incontestable' means not open to dispute; similar in meaning but focuses on whether something can be contested, not whether it is easily seen." },
+        { "distractor": "transparent", "closeness": 2, "reasoning": "Incorrect -- 'transparent' means allowing light through or easily understood; while the guilt was transparent, the sentence implies immediate perception rather than clarity." },
+        { "distractor": "blatant", "closeness": 2, "reasoning": "Incorrect -- 'blatant' means shockingly obvious or brazen; while similar, it emphasizes audacious flagrancy rather than simple clarity." },
+        { "distractor": "subtle", "closeness": 1, "reasoning": "Opposite -- 'subtle' means delicate or not obvious; clearly contradictory to a case where guilt was unmistakable." },
+        { "distractor": "ambiguous", "closeness": 1, "reasoning": "Opposite -- 'ambiguous' means open to multiple interpretations; contrary to the straightforward guilt presented." },
+        { "distractor": "obscure", "closeness": 1, "reasoning": "Opposite -- 'obscure' means not easily perceived; the opposite of obvious guilt." }
+      ]
+    },
+    {
+      "sentence": "To the scientific community, it was obvious that the proposed theory contradicted established measurements, yet the researcher remained stubbornly convinced.",
+      "answerChoices": [
+        { "distractor": "apparent", "closeness": 3, "reasoning": "Close -- 'apparent' means seeming or visible; the sentence indicates not just appearance but actual logical contradiction known to experts." },
+        { "distractor": "evident", "closeness": 3, "reasoning": "Close -- 'evident' means clearly shown; both fit, but the sentence emphasizes universal expert consensus, making 'obvious' more directly fit." },
+        { "distractor": "plain", "closeness": 3, "reasoning": "Close -- 'plain' means easily understood or not decorated; fits the context but the sentence emphasizes to experts, not just plain understanding." },
+        { "distractor": "unmistakable", "closeness": 3, "reasoning": "Close -- 'unmistakable' means incapable of being misunderstood; nearly synonymous, and both work well here." },
+        { "distractor": "transparent", "closeness": 2, "reasoning": "Incorrect -- 'transparent' means easily understood or clear; while the contradiction was transparent, the sentence emphasizes recognizability to experts." },
+        { "distractor": "indefensible", "closeness": 2, "reasoning": "Incorrect -- 'indefensible' means unable to be justified; while the theory was indefensible, the sentence concerns its logical contradiction, not justifiability." },
+        { "distractor": "indisputable", "closeness": 2, "reasoning": "Incorrect -- 'indisputable' means not open to argument; the sentence shows the researcher disputing it anyway, so indisputability doesn't apply." },
+        { "distractor": "flagrant", "closeness": 2, "reasoning": "Incorrect -- 'flagrant' means shockingly obvious; while similar, it emphasizes brazen audacity rather than logical clarity." },
+        { "distractor": "hidden", "closeness": 1, "reasoning": "Opposite -- 'hidden' means concealed; contrary to something obvious to the scientific community." },
+        { "distractor": "cryptic", "closeness": 1, "reasoning": "Opposite -- 'cryptic' means mysterious or obscure; the opposite of obvious contradiction." },
+        { "distractor": "esoteric", "closeness": 1, "reasoning": "Incorrect -- 'esoteric' means intended for a select few; the point is the contradiction was obvious to experts, not that it was hidden knowledge." }
+      ]
+    },
+    {
+      "sentence": "The new hire's anxiety was obvious to everyone in the meeting, as she nervously fumbled with her papers and could barely speak.",
+      "answerChoices": [
+        { "distractor": "apparent", "closeness": 3, "reasoning": "Close -- 'apparent' means seeming or visible; both fit, but 'obvious' emphasizes that the anxiety was unmistakable through behavior." },
+        { "distractor": "palpable", "closeness": 3, "reasoning": "Close -- 'palpable' means able to be felt or perceived; while it emphasizes tangibility, the sentence shows visible behavioral signs." },
+        { "distractor": "evident", "closeness": 3, "reasoning": "Close -- 'evident' means clearly shown; nearly synonymous, but the sentence emphasizes what observers could plainly see from behavior." },
+        { "distractor": "visible", "closeness": 3, "reasoning": "Close -- 'visible' means able to be seen; the sentence shows visible signs, but 'obvious' captures the immediacy of recognition from those signs." },
+        { "distractor": "perceptible", "closeness": 2, "reasoning": "Incorrect -- 'perceptible' means able to be perceived; while the anxiety was perceptible, the sentence emphasizes how unmistakably it showed." },
+        { "distractor": "discernible", "closeness": 2, "reasoning": "Incorrect -- 'discernible' means able to be distinguished; the anxiety was discernible, but the sentence's 'to everyone' suggests more than mere detectability." },
+        { "distractor": "detectable", "closeness": 2, "reasoning": "Incorrect -- 'detectable' means able to be found or discovered; while anxiety was detectable, the sentence emphasizes it was plain to all." },
+        { "distractor": "conspicuous", "closeness": 2, "reasoning": "Incorrect -- 'conspicuous' means standing out noticeably; the anxiety stood out, but the sentence emphasizes easy recognition rather than prominence." },
+        { "distractor": "concealed", "closeness": 1, "reasoning": "Opposite -- 'concealed' means hidden; contrary to anxiety that everyone could see." },
+        { "distractor": "subtle", "closeness": 1, "reasoning": "Opposite -- 'subtle' means delicate or not obvious; the opposite of anxiety visible through fumbling and silence." },
+        { "distractor": "imperceptible", "closeness": 1, "reasoning": "Opposite -- 'imperceptible' means unable to be perceived; the opposite of the obvious signs the new hire displayed." }
+      ]
+    }
+  ]
+}

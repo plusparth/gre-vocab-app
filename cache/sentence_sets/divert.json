@@ -1,0 +1,53 @@
+{
+  "word": "divert",
+  "sentenceSets": [
+    {
+      "sentence": "The manager diverted resources from long-term development to meet short-term targets, a choice that had lasting consequences.",
+      "answerChoices": [
+        { "distractor": "redirected", "closeness": 3, "reasoning": "Nearly identical meaning; a test-taker might believe this is simply a more formal synonym for divert when describing resource allocation." },
+        { "distractor": "shifted", "closeness": 3, "reasoning": "Means to move or change direction, capturing much of what divert implies about moving resources from one place to another." },
+        { "distractor": "channeled", "closeness": 3, "reasoning": "Suggests directing resources toward a specific purpose, very close in meaning but slightly different emphasis from divert's sense of turning away from original intent." },
+        { "distractor": "reallocated", "closeness": 3, "reasoning": "Means to assign resources differently, nearly synonymous with divert in describing the redistribution of assets." },
+        { "distractor": "withdrawn", "closeness": 2, "reasoning": "Describes removing resources from one area, but emphasizes removal rather than the redirection that divert emphasizes." },
+        { "distractor": "deferred", "closeness": 2, "reasoning": "Means to postpone or delay, related to the consequences of dividing resources but doesn't capture the directional change that divert implies." },
+        { "distractor": "suspended", "closeness": 2, "reasoning": "Suggests temporarily halting development funding, related to the resource removal but less specific about where those resources were redirected." },
+        { "distractor": "compromised", "closeness": 2, "reasoning": "Implies sacrificing something for another goal, related to the trade-off but doesn't capture the active redirection central to divert." },
+        { "distractor": "prioritized", "closeness": 1, "reasoning": "Means to rank in order of importance, but doesn't capture the sense of moving resources away from long-term development as the sentence describes." },
+        { "distractor": "accelerated", "closeness": 1, "reasoning": "Means to speed up, which contradicts the idea of slowing or stopping long-term development efforts." },
+        { "distractor": "preserved", "closeness": 1, "reasoning": "Means to maintain or protect; directly opposite of the diversion of resources away from long-term development described in the sentence." }
+      ]
+    },
+    {
+      "sentence": "When the CEO attempted to divert discussion away from the scandal, shareholders immediately pressed for direct answers.",
+      "answerChoices": [
+        { "distractor": "deflect", "closeness": 3, "reasoning": "Means to turn aside or avoid, nearly synonymous with divert when describing an attempt to steer conversation away from a topic." },
+        { "distractor": "sidestep", "closeness": 3, "reasoning": "Means to evade or go around, capturing divert's sense of avoiding direct engagement with the scandal." },
+        { "distractor": "steer", "closeness": 3, "reasoning": "Means to direct or guide, nearly identical to divert in the context of redirecting conversation away from unwanted topics." },
+        { "distractor": "distract", "closeness": 3, "reasoning": "Means to draw attention away, very close in meaning but emphasizes diversion of attention rather than active steering of discussion." },
+        { "distractor": "evade", "closeness": 2, "reasoning": "Means to escape or avoid confrontation, related to divert but emphasizes avoidance rather than the active redirection of the conversation." },
+        { "distractor": "avoid", "closeness": 2, "reasoning": "Means to refrain from facing something, related to divert but describes the general strategy rather than the specific action of redirecting." },
+        { "distractor": "postpone", "closeness": 2, "reasoning": "Means to delay discussion, related to the attempt to escape the scandal but doesn't capture divert's sense of active direction change." },
+        { "distractor": "ignore", "closeness": 2, "reasoning": "Means to disregard or pay no attention, related to avoiding the scandal but describes passive non-engagement rather than active redirection." },
+        { "distractor": "address", "closeness": 1, "reasoning": "Means to directly face or speak to an issue; the opposite of what the CEO attempted when trying to divert discussion away." },
+        { "distractor": "confront", "closeness": 1, "reasoning": "Means to face head-on or challenge directly; contradicts the CEO's attempt to turn discussion away from the scandal." },
+        { "distractor": "acknowledge", "closeness": 1, "reasoning": "Means to recognize or admit, the opposite of diverting; shareholders demanded this, while the CEO sought to divert." }
+      ]
+    },
+    {
+      "sentence": "A river naturally diverts around boulders, finding an alternate route to the sea.",
+      "answerChoices": [
+        { "distractor": "flows", "closeness": 3, "reasoning": "Describes water movement, but is too general and doesn't capture the specific sense of turning aside from obstacles that divert requires." },
+        { "distractor": "meanders", "closeness": 3, "reasoning": "Means to wind and turn, nearly capturing divert's sense of moving around obstacles, though emphasizing the winding nature rather than redirection." },
+        { "distractor": "winds", "closeness": 3, "reasoning": "Describes a curving path, similar to divert in describing deviation but less specific about the causation from obstacles." },
+        { "distractor": "swerves", "closeness": 3, "reasoning": "Means to turn sharply, capturing the sense of turning away from obstacles much like divert, though usually applied to faster movement." },
+        { "distractor": "branches", "closeness": 2, "reasoning": "Describes splitting into separate paths, related to divert but emphasizes division rather than turning aside around a specific obstacle." },
+        { "distractor": "deviates", "closeness": 2, "reasoning": "Means to turn away from a course, related to divert but more abstract and less specific about natural response to obstacles." },
+        { "distractor": "separates", "closeness": 2, "reasoning": "Describes water splitting or moving apart, related to what happens when a river diverts but doesn't capture the active turning response." },
+        { "distractor": "turns", "closeness": 2, "reasoning": "Describes a change of direction, too general to specifically capture divert's sense of turning aside in response to obstacles." },
+        { "distractor": "straightens", "closeness": 1, "reasoning": "Means to become direct or unbend, essentially the opposite of a river diverted by boulders into an alternate route." },
+        { "distractor": "rushes", "closeness": 1, "reasoning": "Describes rapid movement directly forward, contradicting the idea of being diverted around obstacles in the path." },
+        { "distractor": "halts", "closeness": 1, "reasoning": "Means to stop, opposite of the forward movement the river continues even while being diverted around obstacles." }
+      ]
+    }
+  ]
+}

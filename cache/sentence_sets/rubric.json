@@ -1,0 +1,53 @@
+{
+  "word": "rubric",
+  "sentenceSets": [
+    {
+      "sentence": "She worked within the rubric she had been given, aware that departing from it would require justification she did not have time to provide.",
+      "answerChoices": [
+        { "distractor": "framework", "closeness": 3, "reasoning": "Both describe structural templates, but 'framework' is more general and flexible; the sentence emphasizes adherence to a specific set of rules, suggesting something more prescriptive and authoritative than a 'framework.'" },
+        { "distractor": "guidelines", "closeness": 3, "reasoning": "Both suggest directions for action, but 'guidelines' are recommendations and allow discretion, whereas the sentence shows she must stay within established bounds or face accountability." },
+        { "distractor": "protocol", "closeness": 3, "reasoning": "Both describe established procedures, but 'protocol' emphasizes sequence and procedure, whereas the sentence focuses on boundary-setting and the requirement to justify exceptions." },
+        { "distractor": "standard", "closeness": 3, "reasoning": "Both establish benchmarks, but 'standard' describes a level of quality to achieve, whereas the sentence emphasizes a set of operative rules defining what is permissible." },
+        { "distractor": "constraint", "closeness": 2, "reasoning": "Both limit action, but 'constraint' emphasizes restriction itself, whereas the sentence frames the rules as a deliberate framework one operates within rather than barriers imposed." },
+        { "distractor": "parameters", "closeness": 2, "reasoning": "Both define limits, but 'parameters' suggest measurable boundaries in technical contexts, whereas the sentence suggests broader operational rules." },
+        { "distractor": "boundary", "closeness": 2, "reasoning": "Both define limits of acceptable action, but 'boundary' is singular in concept, whereas the sentence suggests multiple interlocking rules within a framework." },
+        { "distractor": "specification", "closeness": 2, "reasoning": "Means detailed description; while the sentence involves operating according to rules, it emphasizes adherence and justification, not detailed technical description." },
+        { "distractor": "suggestion", "closeness": 1, "reasoning": "Means a non-binding recommendation; directly opposite to the mandatory nature of the rules that require justification if violated." },
+        { "distractor": "option", "closeness": 1, "reasoning": "Means a choice or alternative; opposite to the rules that the sentence shows as binding and non-negotiable." },
+        { "distractor": "preference", "closeness": 1, "reasoning": "Means favoring of one over another; opposite to the authoritative, binding framework that the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "The professor distributed a detailed rubric before the exam so students would know exactly which criteria determined their grade.",
+      "answerChoices": [
+        { "distractor": "criteria", "closeness": 3, "reasoning": "Means standards against which judgment is made; while the rubric contains criteria, 'criteria' alone doesn't capture the document's comprehensive structure showing how these standards are weighted and applied for grading." },
+        { "distractor": "scorecard", "closeness": 3, "reasoning": "Both help evaluate performance, but 'scorecard' typically shows actual scores or results, whereas the sentence describes a detailed document outlining how grades are determined—a forward-looking framework, not results." },
+        { "distractor": "scale", "closeness": 3, "reasoning": "Describes a graduated system for measurement; while rubrics can include scales (e.g., 1-4), the sentence emphasizes a detailed framework for determining grades, not just a measurement scale." },
+        { "distractor": "checklist", "closeness": 3, "reasoning": "Both provide frameworks for assessment, but 'checklist' is typically yes/no items, whereas the sentence describes a detailed rubric with nuanced criteria that determine grades." },
+        { "distractor": "outline", "closeness": 2, "reasoning": "Means a brief summary or sketch; while rubrics provide structure, the sentence emphasizes 'detailed' rubric, suggesting more precision than an outline typically conveys." },
+        { "distractor": "syllabus", "closeness": 2, "reasoning": "Describes a course outline and expectations; while related to course structure, 'syllabus' is broader and covers overall content, whereas the sentence focuses specifically on how grades are calculated." },
+        { "distractor": "guide", "closeness": 2, "reasoning": "Means instructions or directions; while a rubric guides, the sentence emphasizes the specific framework for grading decisions, not general guidance." },
+        { "distractor": "instruction", "closeness": 2, "reasoning": "Means directions or teaching; the sentence requires a framework for evaluation specifically, not just general instructions." },
+        { "distractor": "suggestion", "closeness": 1, "reasoning": "Means a non-binding recommendation; opposite to the authoritative grading framework that the professor distributes to establish clear expectations." },
+        { "distractor": "recommendation", "closeness": 1, "reasoning": "Means advisory guidance; opposite to the binding evaluation framework that determines the students' actual grades." },
+        { "distractor": "prediction", "closeness": 1, "reasoning": "Means forecasting; opposite to the systematic evaluation framework that the professor establishes for grading." }
+      ]
+    },
+    {
+      "sentence": "The new compliance rubric established by the board required every transaction above $50,000 to be reviewed by at least two senior managers.",
+      "answerChoices": [
+        { "distractor": "mandate", "closeness": 3, "reasoning": "Both establish authoritative requirements, but 'mandate' emphasizes the command itself, whereas the sentence shows a detailed set of rules (a rubric) with specific thresholds and approval procedures." },
+        { "distractor": "directive", "closeness": 3, "reasoning": "Means an official order or instruction; while similar to rubric in being authoritative, 'directive' typically names a single instruction, whereas the sentence describes a comprehensive framework with multiple standards." },
+        { "distractor": "decree", "closeness": 3, "reasoning": "Means an official proclamation; similar to mandate, 'decree' emphasizes the formal announcement, whereas the sentence describes an implemented framework with specific operational rules." },
+        { "distractor": "regulation", "closeness": 3, "reasoning": "Means an official rule; while both establish binding requirements, 'regulation' names individual rules, whereas 'rubric' describes the comprehensive framework governing multiple types of transactions." },
+        { "distractor": "policy", "closeness": 2, "reasoning": "Means a course of action established by authority; while related, the sentence requires a framework showing how decisions should be made (who reviews what), not just a general policy direction." },
+        { "distractor": "procedure", "closeness": 2, "reasoning": "Means a series of steps to follow; while the rubric includes procedural elements (requiring two managers), it's a broader evaluative framework, not just a sequence of steps." },
+        { "distractor": "requirement", "closeness": 2, "reasoning": "Means something demanded; while the rubric establishes requirements, the sentence emphasizes a structured framework, not just a list of demands." },
+        { "distractor": "obligation", "closeness": 2, "reasoning": "Means a binding duty; while the rubric creates obligations, the sentence describes a comprehensive framework for compliance, not just the abstract concept of duty." },
+        { "distractor": "preference", "closeness": 1, "reasoning": "Means favoring of one over another; directly opposite to the binding framework that the board established for required compliance." },
+        { "distractor": "suggestion", "closeness": 1, "reasoning": "Means a non-binding recommendation; opposite to the mandatory compliance framework that the sentence describes." },
+        { "distractor": "possibility", "closeness": 1, "reasoning": "Means what could happen; opposite to the definite, binding compliance rules that the sentence establishes." }
+      ]
+    }
+  ]
+}

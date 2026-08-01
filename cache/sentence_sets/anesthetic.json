@@ -1,0 +1,185 @@
+{
+  "word": "anesthetic",
+  "sentenceSets": [
+    {
+      "sentence": "The dentist applied a topical anesthetic before giving the injection, minimizing discomfort.",
+      "answerChoices": [
+        {
+          "distractor": "antibiotic",
+          "closeness": 3,
+          "reasoning": "An antibiotic fights infection; the purpose of applying topical medication is to numb the area, not to treat infection."
+        },
+        {
+          "distractor": "antiseptic",
+          "closeness": 3,
+          "reasoning": "An antiseptic prevents infection; while used in medical settings, the topical substance here specifically numbs to minimize discomfort."
+        },
+        {
+          "distractor": "astringent",
+          "closeness": 3,
+          "reasoning": "An astringent causes contraction; the purpose is to minimize discomfort through numbness, not to cause tissue contraction."
+        },
+        {
+          "distractor": "stimulant",
+          "closeness": 3,
+          "reasoning": "A stimulant increases activity or sensation; applying something to minimize discomfort suggests reducing sensation, not stimulating it."
+        },
+        {
+          "distractor": "coagulant",
+          "closeness": 2,
+          "reasoning": "A coagulant promotes blood clotting; the application is to reduce sensation from injection discomfort, not to control bleeding."
+        },
+        {
+          "distractor": "emollient",
+          "closeness": 2,
+          "reasoning": "An emollient softens or soothes skin; while both are topical, an anesthetic specifically numbs to eliminate sensation."
+        },
+        {
+          "distractor": "lubricant",
+          "closeness": 2,
+          "reasoning": "A lubricant reduces friction; while topical, the purpose is to numb sensation for the injection, not to reduce friction."
+        },
+        {
+          "distractor": "irritant",
+          "closeness": 2,
+          "reasoning": "An irritant causes discomfort; applying something to minimize discomfort contradicts using an irritant."
+        },
+        {
+          "distractor": "allergen",
+          "closeness": 1,
+          "reasoning": "An allergen triggers allergic reactions; minimizing discomfort involves numbing, not triggering allergies."
+        },
+        {
+          "distractor": "toxin",
+          "closeness": 1,
+          "reasoning": "A toxin is poisonous; minimizing discomfort for a patient involves safe agents, not toxins."
+        },
+        {
+          "distractor": "catalyst",
+          "closeness": 1,
+          "reasoning": "A catalyst speeds up reactions; the purpose is to numb sensation, not to accelerate chemical or biological processes."
+        }
+      ]
+    },
+    {
+      "sentence": "During the surgery, the anesthetic gases kept the patient unconscious and insensible to pain throughout the lengthy procedure.",
+      "answerChoices": [
+        {
+          "distractor": "analgesic",
+          "closeness": 3,
+          "reasoning": "An analgesic reduces pain sensation; while both provide comfort, anesthetic specifically produces unconsciousness and complete insensibility."
+        },
+        {
+          "distractor": "sedative",
+          "closeness": 3,
+          "reasoning": "A sedative induces calm or light sleep; an anesthetic produces deep unconsciousness necessary for surgery."
+        },
+        {
+          "distractor": "stimulant",
+          "closeness": 3,
+          "reasoning": "A stimulant increases consciousness and activity; anesthetic gases produce unconsciousness, the opposite of stimulation."
+        },
+        {
+          "distractor": "antibiotic",
+          "closeness": 3,
+          "reasoning": "An antibiotic fights infection; the gas administered is to produce unconsciousness, not to treat infection."
+        },
+        {
+          "distractor": "antiseptic",
+          "closeness": 2,
+          "reasoning": "An antiseptic prevents infection; while important in surgery, the gases specifically produce unconsciousness for the procedure."
+        },
+        {
+          "distractor": "muscle relaxant",
+          "closeness": 2,
+          "reasoning": "A muscle relaxant reduces tension; while often used with anesthesia, the anesthetic itself produces unconsciousness."
+        },
+        {
+          "distractor": "stimulant agent",
+          "closeness": 2,
+          "reasoning": "A stimulant agent increases activity; anesthetic gases produce unconsciousness, not increased activity."
+        },
+        {
+          "distractor": "restorative",
+          "closeness": 2,
+          "reasoning": "A restorative restores health or vigor; anesthetic gases temporarily disable consciousness and sensation."
+        },
+        {
+          "distractor": "tonic",
+          "closeness": 1,
+          "reasoning": "A tonic energizes or strengthens; anesthetic gases produce unconsciousness, the opposite of invigoration."
+        },
+        {
+          "distractor": "invigorant",
+          "closeness": 1,
+          "reasoning": "An invigorant energizes; anesthetic gases produce unconsciousness and insensibility, opposite to invigoration."
+        },
+        {
+          "distractor": "cordial",
+          "closeness": 1,
+          "reasoning": "A cordial is a pleasant-tasting drink; the gases are medical anesthetics producing unconsciousness, not beverages."
+        }
+      ]
+    },
+    {
+      "sentence": "The surgeon opted for an anesthetic approach that would render the affected limb numb and motionless for the duration of the delicate procedure.",
+      "answerChoices": [
+        {
+          "distractor": "invigorating",
+          "closeness": 3,
+          "reasoning": "Invigorating means energizing; making a limb numb and motionless suggests depressing function, not invigoration."
+        },
+        {
+          "distractor": "stimulating",
+          "closeness": 3,
+          "reasoning": "Stimulating means activating or exciting; rendering a limb numb contradicts stimulation of sensation and movement."
+        },
+        {
+          "distractor": "restorative",
+          "closeness": 3,
+          "reasoning": "Restorative means restoring health; the approach temporarily disables the limb rather than restoring its function."
+        },
+        {
+          "distractor": "fortifying",
+          "closeness": 3,
+          "reasoning": "Fortifying means strengthening; rendering a limb numb and motionless temporarily weakens its function."
+        },
+        {
+          "distractor": "activating",
+          "closeness": 2,
+          "reasoning": "Activating means making active; the anesthetic approach makes the limb numb and immobile, not active."
+        },
+        {
+          "distractor": "protective",
+          "closeness": 2,
+          "reasoning": "Protective means providing protection; while numbing provides protection from pain, 'anesthetic' specifies the numbing mechanism."
+        },
+        {
+          "distractor": "preventive",
+          "closeness": 2,
+          "reasoning": "Preventive means preventing problems; while the approach prevents pain, 'anesthetic' specifically describes the numbing quality."
+        },
+        {
+          "distractor": "inflammatory",
+          "closeness": 2,
+          "reasoning": "Inflammatory means causing inflammation; an anesthetic approach numbs and disables, opposite to causing inflammation."
+        },
+        {
+          "distractor": "exciting",
+          "closeness": 1,
+          "reasoning": "Exciting means causing excitement or increased activity; an anesthetic approach makes the limb numb and motionless."
+        },
+        {
+          "distractor": "arousing",
+          "closeness": 1,
+          "reasoning": "Arousing means awakening or exciting; an anesthetic approach deadens sensation and motion, opposite to arousal."
+        },
+        {
+          "distractor": "revitalizing",
+          "closeness": 1,
+          "reasoning": "Revitalizing means giving new energy; the approach temporarily disables the limb rather than revitalizing it."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "taciturn",
+  "sentenceSets": [
+    {
+      "sentence": "The taciturn expert communicated more through what she declined to confirm than through what she said.",
+      "answerChoices": [
+        { "distractor": "verbose", "closeness": 3, "reasoning": "Verbose means using many words or overly wordy; the sentence describes someone who communicated through what she declined to say, opposite of using many words." },
+        { "distractor": "loquacious", "closeness": 3, "reasoning": "Loquacious means very talkative; the sentence shows the expert communicating more through silence and refusals than speech." },
+        { "distractor": "garrulous", "closeness": 3, "reasoning": "Garrulous means excessively talkative; the sentence emphasizes communication through decline to confirm, not excessive talking." },
+        { "distractor": "forthcoming", "closeness": 3, "reasoning": "Forthcoming means willing to volunteer information; the sentence shows an expert who declines to confirm and withholds words." },
+        { "distractor": "communicative", "closeness": 2, "reasoning": "Communicative means willing to share information but does not specify reticence; the sentence emphasizes an expert who shared minimally." },
+        { "distractor": "open", "closeness": 2, "reasoning": "Open means willing to share; the sentence describes someone who declined to confirm and was sparing with words." },
+        { "distractor": "sociable", "closeness": 2, "reasoning": "Sociable means enjoying company and conversation but does not specifically describe reluctance to speak." },
+        { "distractor": "candid", "closeness": 2, "reasoning": "Candid means frank and honest but does not require talkativeness; the sentence shows minimalism in speech." },
+        { "distractor": "eloquent", "closeness": 1, "reasoning": "Eloquent means expressive and persuasive in speech; the sentence shows someone who communicated through silence and refusal." },
+        { "distractor": "animated", "closeness": 1, "reasoning": "Animated means lively and energetic; the sentence shows an expert who declined to confirm and was sparing with words." },
+        { "distractor": "effusive", "closeness": 1, "reasoning": "Effusive means expressing emotion in an enthusiastic way; the sentence describes someone who communicated through restraint and silence." }
+      ]
+    },
+    {
+      "sentence": "Her taciturn nature made interviews difficult; reporters struggled to extract more than monosyllabic responses from her.",
+      "answerChoices": [
+        { "distractor": "talkative", "closeness": 3, "reasoning": "Talkative means inclined to talk; the sentence describes someone who gave only monosyllabic responses, opposite of talkative." },
+        { "distractor": "chatty", "closeness": 3, "reasoning": "Chatty means friendly and inclined to conversation; the sentence shows difficulty extracting responses, opposite of chatty nature." },
+        { "distractor": "expansive", "closeness": 3, "reasoning": "Expansive means inclined to elaborate or express freely; the sentence shows limited monosyllabic responses only." },
+        { "distractor": "voluble", "closeness": 3, "reasoning": "Voluble means disposed to talk readily; the sentence shows a nature that made reporters struggle to get responses." },
+        { "distractor": "accessible", "closeness": 2, "reasoning": "Accessible means easy to talk to or reach but the sentence emphasizes difficulty extracting responses." },
+        { "distractor": "transparent", "closeness": 2, "reasoning": "Transparent means open and not hiding things but does not address willingness to talk; the sentence emphasizes verbal reticence." },
+        { "distractor": "extroverted", "closeness": 2, "reasoning": "Extroverted means outgoing but does not specifically describe reluctance to speak." },
+        { "distractor": "effusive", "closeness": 2, "reasoning": "Effusive means expressing emotions enthusiastically but does not necessarily describe talkativeness; the sentence shows minimal responses." },
+        { "distractor": "mysterious", "closeness": 1, "reasoning": "Mysterious means puzzling or enigmatic but does not directly describe reluctance to speak; the sentence emphasizes minimal verbal responses." },
+        { "distractor": "aloof", "closeness": 1, "reasoning": "Aloof means distant emotionally but does not specifically describe speech patterns; the sentence emphasizes verbal reticence." },
+        { "distractor": "evasive", "closeness": 1, "reasoning": "Evasive means avoiding commitment but implies deliberate dodging; the sentence shows minimal responses rather than strategic avoidance." }
+      ]
+    },
+    {
+      "sentence": "The taciturn coach rarely praised his players explicitly, instead showing approval only through subtle gestures and increased playing time.",
+      "answerChoices": [
+        { "distractor": "expressive", "closeness": 3, "reasoning": "Expressive means readily showing feelings through words or gestures; the sentence shows approval shown through subtle gestures, not explicit expression." },
+        { "distractor": "demonstrative", "closeness": 3, "reasoning": "Demonstrative means openly displaying emotions and feelings; the sentence shows approval that was subtle and rarely explicit." },
+        { "distractor": "vocal", "closeness": 3, "reasoning": "Vocal means expressed through speech; the sentence shows a coach who rarely praised explicitly, communicating through other means." },
+        { "distractor": "effusive", "closeness": 3, "reasoning": "Effusive means expressing emotions enthusiastically; the sentence shows approval shown through subtle means, not enthusiastic speech." },
+        { "distractor": "talkative", "closeness": 2, "reasoning": "Talkative means inclined to talk but does not specifically describe showing approval; the sentence emphasizes a coach who rarely praised verbally." },
+        { "distractor": "outspoken", "closeness": 2, "reasoning": "Outspoken means frank and candid in speech but the sentence emphasizes subtle communication rather than candid praise." },
+        { "distractor": "encouraging", "closeness": 2, "reasoning": "Encouraging means giving confidence but does not require explicit verbal praise; the sentence shows approval through subtle means." },
+        { "distractor": "amiable", "closeness": 2, "reasoning": "Amiable means pleasant and friendly but does not directly describe verbal patterns or willingness to praise." },
+        { "distractor": "harsh", "closeness": 1, "reasoning": "Harsh means severe or unpleasant; the sentence shows a coach who showed approval through increased playing time, indicating support." },
+        { "distractor": "critical", "closeness": 1, "reasoning": "Critical means inclined to criticize but the sentence shows a coach who showed approval through subtle means." },
+        { "distractor": "dismissive", "closeness": 1, "reasoning": "Dismissive means showing no concern; the sentence shows a coach who demonstrated approval through playing time and gestures." }
+      ]
+    }
+  ]
+}

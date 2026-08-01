@@ -1,0 +1,53 @@
+{
+  "word": "beget",
+  "sentenceSets": [
+    {
+      "sentence": "Success in one area tends to beget confidence in others, creating a virtuous cycle of achievement.",
+      "answerChoices": [
+        { "distractor": "generate", "closeness": 3, "reasoning": "Both mean to cause or produce, but generate is broader and applies to creating anything, while beget specifically means to produce as a result." },
+        { "distractor": "breed", "closeness": 3, "reasoning": "Both mean to produce or cause, but breed emphasizes producing offspring or cultivating conditions, while beget emphasizes one thing causing another." },
+        { "distractor": "spawn", "closeness": 3, "reasoning": "Both mean to produce, but spawn emphasizes producing in large numbers or quickly, while beget emphasizes causing a single outcome." },
+        { "distractor": "create", "closeness": 3, "reasoning": "Both mean to produce, but create emphasizes making something new, while beget emphasizes one thing producing another naturally." },
+        { "distractor": "cause", "closeness": 2, "reasoning": "Success causes confidence, but cause is broader, while beget emphasizes producing a natural result." },
+        { "distractor": "produce", "closeness": 2, "reasoning": "Success produces confidence, but produce is broad, while beget emphasizes one thing naturally producing another." },
+        { "distractor": "induce", "closeness": 2, "reasoning": "Success induces confidence, but induce emphasizes causing to happen by influence, while beget is more natural." },
+        { "distractor": "trigger", "closeness": 2, "reasoning": "Success triggers confidence, but trigger emphasizes sudden causation, while beget emphasizes natural production." },
+        { "distractor": "prevent", "closeness": 1, "reasoning": "Success begets confidence; prevent means stopping something from happening." },
+        { "distractor": "undermine", "closeness": 1, "reasoning": "Success begets confidence; undermine means weakening or destroying." },
+        { "distractor": "discourage", "closeness": 1, "reasoning": "Success begets confidence; discourage means reducing someone's courage or hope." }
+      ]
+    },
+    {
+      "sentence": "The couple's diverse backgrounds begot children who could navigate multiple cultures with fluency and ease.",
+      "answerChoices": [
+        { "distractor": "created", "closeness": 3, "reasoning": "Both describe producing offspring, but created emphasizes making something new, while begot specifically means fathering or siring." },
+        { "distractor": "produced", "closeness": 3, "reasoning": "Both mean to bring forth, but produced is broader, while begot specifically means to procreate as a father." },
+        { "distractor": "bore", "closeness": 3, "reasoning": "Both describe giving birth, but bore emphasizes the mother's role, while begot emphasizes the father's role." },
+        { "distractor": "fathered", "closeness": 3, "reasoning": "These are nearly synonymous—both specifically mean the paternal role in procreation." },
+        { "distractor": "had", "closeness": 2, "reasoning": "The couple had children, but had is too general and doesn't capture the specific sense of procreation." },
+        { "distractor": "raised", "closeness": 2, "reasoning": "The couple raised children, but raised refers to upbringing, not procreation." },
+        { "distractor": "generated", "closeness": 2, "reasoning": "The couple generated offspring, but generated is too broad." },
+        { "distractor": "conceived", "closeness": 2, "reasoning": "The couple conceived children, but conceived emphasizes the beginning, not the full procreation." },
+        { "distractor": "denied", "closeness": 1, "reasoning": "The couple begot children; denied means refusing to produce." },
+        { "distractor": "prevented", "closeness": 1, "reasoning": "The couple begot children; prevented means stopped from happening." },
+        { "distractor": "sterile", "closeness": 1, "reasoning": "The couple begot children; sterile describes inability to procreate." }
+      ]
+    },
+    {
+      "sentence": "The philosophical movement's radical ideas begot fierce opposition from traditionalists who saw the new thinking as a threat to established order.",
+      "answerChoices": [
+        { "distractor": "provoked", "closeness": 3, "reasoning": "Both describe causing a reaction, but provoked emphasizes angering or challenging, while begot emphasizes naturally producing as a result." },
+        { "distractor": "incited", "closeness": 3, "reasoning": "Both describe producing a response, but incited emphasizes stirring up deliberately, while begot is more natural." },
+        { "distractor": "inspired", "closeness": 3, "reasoning": "Both describe producing something in response, but inspired emphasizes positive motivation, while begot is neutral." },
+        { "distractor": "sparked", "closeness": 3, "reasoning": "Both describe causing something to begin, but sparked emphasizes sudden causation, while begot is a natural production." },
+        { "distractor": "caused", "closeness": 2, "reasoning": "The ideas caused opposition, but cause is broader than beget." },
+        { "distractor": "triggered", "closeness": 2, "reasoning": "The ideas triggered opposition, but triggered emphasizes sudden action, while begot is natural production." },
+        { "distractor": "attracted", "closeness": 2, "reasoning": "The ideas attracted opposition, but attracted emphasizes drawing toward, not producing." },
+        { "distractor": "stimulated", "closeness": 2, "reasoning": "The ideas stimulated opposition, but stimulated emphasizes encouraging, while begot emphasizes natural production." },
+        { "distractor": "prevented", "closeness": 1, "reasoning": "The ideas begot opposition; prevented means stopped something from happening." },
+        { "distractor": "suppressed", "closeness": 1, "reasoning": "The ideas begot opposition; suppressed means forcibly preventing." },
+        { "distractor": "reconciled", "closeness": 1, "reasoning": "The ideas begot opposition; reconciled means bringing into agreement." }
+      ]
+    }
+  ]
+}

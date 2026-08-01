@@ -1,0 +1,53 @@
+{
+  "word": "occlude",
+  "sentenceSets": [
+    {
+      "sentence": "The new structure occluded a view that residents had considered part of the value of their location.",
+      "answerChoices": [
+        { "distractor": "obstruct", "closeness": 3, "reasoning": "Close -- 'obstruct' means to block a path; both fit, but the sentence's emphasis on property value suggests 'occlude' captures the loss of asset value." },
+        { "distractor": "block", "closeness": 3, "reasoning": "Close -- 'block' means to prevent passage; nearly synonymous, but 'occlude' emphasizes something previously visible now completely shut off." },
+        { "distractor": "obscure", "closeness": 3, "reasoning": "Close -- 'obscure' means to make unclear or hidden; the sentence could fit either, but 'occlude' means complete blockage while 'obscure' can mean partially." },
+        { "distractor": "screen", "closeness": 3, "reasoning": "Close -- 'screen' means to shield or conceal; both fit, but the sentence implies permanent structural obstruction rather than a screening device." },
+        { "distractor": "shroud", "closeness": 2, "reasoning": "Incorrect -- 'shroud' means to cover or envelop; while the view is shrouded, the sentence implies a view cut off, not merely covered." },
+        { "distractor": "eclipse", "closeness": 2, "reasoning": "Incorrect -- 'eclipse' means to surpass or overshadow; the view is not eclipsed, it is blocked." },
+        { "distractor": "veil", "closeness": 2, "reasoning": "Incorrect -- 'veil' means to conceal with a thin covering; the sentence suggests complete blockage, not a thin veil." },
+        { "distractor": "hide", "closeness": 2, "reasoning": "Incorrect -- 'hide' is too general; the sentence implies structural blockage rather than simple concealment." },
+        { "distractor": "reveal", "closeness": 1, "reasoning": "Opposite -- 'reveal' means to uncover or show; contrary to the view being blocked by the structure." },
+        { "distractor": "open", "closeness": 1, "reasoning": "Opposite -- 'open' means to unblock; the opposite of occluding a view." },
+        { "distractor": "expose", "closeness": 1, "reasoning": "Opposite -- 'expose' means to lay bare or reveal; the opposite of a view being occluded." }
+      ]
+    },
+    {
+      "sentence": "The arterial plaque had begun to occlude the blood vessel, restricting flow and necessitating surgical intervention.",
+      "answerChoices": [
+        { "distractor": "clog", "closeness": 3, "reasoning": "Close -- 'clog' means to block with accumulated matter; both fit medical contexts, but 'occlude' is more formal and emphasizes medical closure." },
+        { "distractor": "obstruct", "closeness": 3, "reasoning": "Close -- 'obstruct' means to block a passage; fits medically, but 'occlude' emphasizes the biological process of vessel closure." },
+        { "distractor": "constrict", "closeness": 3, "reasoning": "Close -- 'constrict' means to narrow; while plaque causes constriction, 'occlude' emphasizes complete blockage, not just narrowing." },
+        { "distractor": "compress", "closeness": 3, "reasoning": "Close -- 'compress' means to press together; the plaque compresses the vessel, but 'occlude' implies the blocking effect rather than the compression itself." },
+        { "distractor": "narrow", "closeness": 2, "reasoning": "Incorrect -- 'narrow' emphasizes reduction in width; while applicable, it doesn't capture the notion of blocking blood flow." },
+        { "distractor": "strangle", "closeness": 2, "reasoning": "Incorrect -- 'strangle' means to choke; while the plaque restricts flow, 'strangle' implies deliberate external action." },
+        { "distractor": "clamp", "closeness": 2, "reasoning": "Incorrect -- 'clamp' means to hold tightly; the plaque doesn't clamp the vessel, it grows within it." },
+        { "distractor": "seal", "closeness": 2, "reasoning": "Incorrect -- 'seal' means to close hermetically; while flow is restricted, the vessel isn't sealed but narrowed." },
+        { "distractor": "clear", "closeness": 1, "reasoning": "Opposite -- 'clear' means to remove blockages; contrary to the vessel being occluded by plaque." },
+        { "distractor": "dilate", "closeness": 1, "reasoning": "Opposite -- 'dilate' means to expand; the opposite of the vessel being occluded." },
+        { "distractor": "open", "closeness": 1, "reasoning": "Opposite -- 'open' means to unblock; contrary to the effect of arterial plaque." }
+      ]
+    },
+    {
+      "sentence": "During the eclipse, the moon's shadow completely occluded the sun, turning day into darkness for those in the path.",
+      "answerChoices": [
+        { "distractor": "eclipse", "closeness": 3, "reasoning": "Close -- 'eclipse' can mean to obscure or block; both fit astronomical contexts, but 'occlude' emphasizes the complete blocking mechanism itself." },
+        { "distractor": "obscure", "closeness": 3, "reasoning": "Close -- 'obscure' means to make unclear or hidden; both work, but 'occlude' emphasizes complete blockage while 'obscure' can mean partial." },
+        { "distractor": "block", "closeness": 3, "reasoning": "Close -- 'block' means to obstruct; nearly synonymous in this context, emphasizing something preventing passage." },
+        { "distractor": "cover", "closeness": 3, "reasoning": "Close -- 'cover' means to place something over; both fit, but 'occlude' implies the blocking effect rather than simply covering." },
+        { "distractor": "shroud", "closeness": 2, "reasoning": "Incorrect -- 'shroud' means to envelop or wrap; while the sun is shrouded, the sentence emphasizes blocking, not wrapping." },
+        { "distractor": "veil", "closeness": 2, "reasoning": "Incorrect -- 'veil' means to conceal lightly; the moon's shadow does more than veil—it completely blocks the sun." },
+        { "distractor": "dim", "closeness": 2, "reasoning": "Incorrect -- 'dim' means to reduce light; while the eclipse dims things, it does more than merely dim—it blocks the sun completely." },
+        { "distractor": "shade", "closeness": 2, "reasoning": "Incorrect -- 'shade' means to provide shadow; the sentence emphasizes complete blockage, not merely providing shade." },
+        { "distractor": "expose", "closeness": 1, "reasoning": "Opposite -- 'expose' means to uncover or reveal; contrary to the sun being occluded." },
+        { "distractor": "illuminate", "closeness": 1, "reasoning": "Opposite -- 'illuminate' means to light up; the opposite of the sun being occluded and darkness falling." },
+        { "distractor": "reveal", "closeness": 1, "reasoning": "Opposite -- 'reveal' means to uncover; the opposite of occluding the sun." }
+      ]
+    }
+  ]
+}

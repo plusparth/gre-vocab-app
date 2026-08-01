@@ -1,0 +1,53 @@
+{
+  "word": "stevedore",
+  "sentenceSets": [
+    {
+      "sentence": "Like a stevedore moving cargo under impossible conditions, she continued loading the initiative with commitments that the ship was too overloaded to carry.",
+      "answerChoices": [
+        { "distractor": "laborer", "closeness": 3, "reasoning": "Laborer describes a general manual worker, whereas stevedore specifically refers to workers loading and unloading ships." },
+        { "distractor": "dockworker", "closeness": 3, "reasoning": "Dockworker describes someone who works at a dock, overlapping with stevedore but sometimes including non-loading roles." },
+        { "distractor": "porter", "closeness": 3, "reasoning": "Porter describes someone carrying goods, related to stevedore but often used in non-maritime contexts." },
+        { "distractor": "longshoreman", "closeness": 3, "reasoning": "Longshoreman and stevedore both describe dock workers but longshoreman is more commonly used in North America." },
+        { "distractor": "sailor", "closeness": 2, "reasoning": "Sailor describes someone who works on ships, whereas stevedore specifically works loading and unloading cargo." },
+        { "distractor": "deckhand", "closeness": 2, "reasoning": "Deckhand works on deck of ships, whereas stevedore works loading and unloading cargo at ports." },
+        { "distractor": "cargo handler", "closeness": 2, "reasoning": "Cargo handler describes someone handling goods, broader than stevedore which is specific to dock work." },
+        { "distractor": "supervisor", "closeness": 2, "reasoning": "Supervisor describes someone overseeing work, whereas stevedore performs the actual physical loading work." },
+        { "distractor": "merchant", "closeness": 1, "reasoning": "Merchant describes someone buying and selling goods, not someone physically loading cargo." },
+        { "distractor": "captain", "closeness": 1, "reasoning": "Captain describes someone in command of a ship, not someone loading or unloading cargo." },
+        { "distractor": "engineer", "closeness": 1, "reasoning": "Engineer operates ship machinery, not someone loading or unloading cargo at docks." }
+      ]
+    },
+    {
+      "sentence": "The stevedore inspected each container before loading to ensure the seal was intact and the contents secure.",
+      "answerChoices": [
+        { "distractor": "warehouse manager", "closeness": 3, "reasoning": "Warehouse manager oversees storage operations, related to stevedore but focuses on storage rather than ship loading." },
+        { "distractor": "freight handler", "closeness": 3, "reasoning": "Freight handler manages goods transport, overlapping with stevedore but not specific to ship loading." },
+        { "distractor": "dock inspector", "closeness": 3, "reasoning": "Dock inspector examines dock operations, similar role but broader than stevedore's specific loading responsibility." },
+        { "distractor": "logistician", "closeness": 3, "reasoning": "Logistician plans and manages supply chains, related to cargo but not the manual labor of stevedores." },
+        { "distractor": "crew member", "closeness": 2, "reasoning": "Crew member works on a ship, whereas stevedore works at the dock loading and unloading." },
+        { "distractor": "customs officer", "closeness": 2, "reasoning": "Customs officer inspects cargo for legal compliance, whereas stevedore physically loads and unloads cargo." },
+        { "distractor": "manifest clerk", "closeness": 2, "reasoning": "Manifest clerk records cargo information, whereas stevedore physically handles the cargo." },
+        { "distractor": "foreman", "closeness": 2, "reasoning": "Foreman supervises loading operations, whereas stevedore performs the actual physical loading work." },
+        { "distractor": "accountant", "closeness": 1, "reasoning": "Accountant manages financial records, not involved in physical cargo loading operations." },
+        { "distractor": "architect", "closeness": 1, "reasoning": "Architect designs structures, completely unrelated to cargo loading at docks." },
+        { "distractor": "clerk", "closeness": 1, "reasoning": "Clerk manages records and paperwork, not involved in physical cargo loading." }
+      ]
+    },
+    {
+      "sentence": "The modern automated port required fewer stevedores, though experienced workers remained essential for complex cargo operations.",
+      "answerChoices": [
+        { "distractor": "dockhands", "closeness": 3, "reasoning": "Dockhand is related to stevedore but often describes general dock workers rather than those specifically loading ships." },
+        { "distractor": "dock workers", "closeness": 3, "reasoning": "Dock workers describes general workers at docks, broader than stevedore which specifies loading and unloading cargo." },
+        { "distractor": "cargo crews", "closeness": 3, "reasoning": "Cargo crew describes teams handling cargo, related to stevedore but broader in scope." },
+        { "distractor": "operators", "closeness": 3, "reasoning": "Operators manage equipment and machinery, whereas stevedore specifically loads and unloads cargo manually." },
+        { "distractor": "hands", "closeness": 2, "reasoning": "Hands is slang for manual workers generally, less specific than stevedore." },
+        { "distractor": "laborers", "closeness": 2, "reasoning": "Laborers describes manual workers generally, whereas stevedore is specific to port cargo work." },
+        { "distractor": "technicians", "closeness": 2, "reasoning": "Technicians operate and maintain equipment, different from stevedores who load and unload cargo." },
+        { "distractor": "supervisors", "closeness": 2, "reasoning": "Supervisors oversee work, whereas stevedores perform the actual physical cargo loading." },
+        { "distractor": "engineers", "closeness": 1, "reasoning": "Engineers operate ship machinery, not involved in cargo loading at the dock." },
+        { "distractor": "planners", "closeness": 1, "reasoning": "Planners organize logistics, not involved in the physical manual loading of cargo." },
+        { "distractor": "captains", "closeness": 1, "reasoning": "Captains command ships, not involved in the physical loading of cargo at docks." }
+      ]
+    }
+  ]
+}

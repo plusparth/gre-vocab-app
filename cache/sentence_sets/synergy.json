@@ -1,0 +1,53 @@
+{
+  "word": "synergy",
+  "sentenceSets": [
+    {
+      "sentence": "The merger was premised on synergy that the integration plan failed to produce.",
+      "answerChoices": [
+        { "distractor": "compatibility", "closeness": 3, "reasoning": "Compatibility means two things work well together but does not necessarily create an effect greater than the sum of parts; the sentence shows an expected multiplied result did not materialize." },
+        { "distractor": "efficiency", "closeness": 3, "reasoning": "Efficiency describes achieving goals with minimal waste but does not require combined effect; two entities could be efficient independently without multiplied advantage." },
+        { "distractor": "profitability", "closeness": 3, "reasoning": "Profitability is financial success but not necessarily the multiplied advantage from combined operations; the sentence indicates an expected enhanced result failed to occur." },
+        { "distractor": "consolidation", "closeness": 3, "reasoning": "Consolidation is combining entities but does not require the combined effect to exceed individual contributions; the sentence emphasizes an expected multiplier that did not happen." },
+        { "distractor": "alignment", "closeness": 2, "reasoning": "Alignment means acting in harmony but does not necessarily produce an effect greater than individual efforts; the sentence shows a missing multiplied advantage." },
+        { "distractor": "cooperation", "closeness": 2, "reasoning": "Cooperation is working together but does not require creating combined advantage; teams can cooperate while achieving only the sum of individual efforts." },
+        { "distractor": "integration", "closeness": 2, "reasoning": "Integration combines parts into a whole but does not guarantee an effect greater than the sum; the sentence explicitly mentions the integration plan failed." },
+        { "distractor": "coordination", "closeness": 2, "reasoning": "Coordination arranges elements to work together but does not necessarily create multiplied effect; coordinated individual efforts can still sum to only the total." },
+        { "distractor": "loss", "closeness": 1, "reasoning": "Loss is a negative outcome; the sentence shows an expected multiplied gain did not occur, but loss implies going backward, not merely failing to gain advantage." },
+        { "distractor": "division", "closeness": 1, "reasoning": "Division means separation; the sentence describes a merger (combining entities) where the expected combined advantage failed to materialize." },
+        { "distractor": "isolation", "closeness": 1, "reasoning": "Isolation means existing separately; the sentence is about a merger combining entities, and an expected combined effect that did not occur." }
+      ]
+    },
+    {
+      "sentence": "The culinary synergy between East Asian technique and South American ingredients created dishes that neither tradition could have produced independently.",
+      "answerChoices": [
+        { "distractor": "fusion", "closeness": 3, "reasoning": "Fusion is the blending of styles but does not necessarily produce results exceeding what each could achieve alone; the sentence specifies dishes neither tradition could create independently, showing multiplied capability." },
+        { "distractor": "influence", "closeness": 3, "reasoning": "Influence is the effect one thing has on another but does not require creating combined results exceeding individual capability; the sentence emphasizes impossible-alone results." },
+        { "distractor": "adaptation", "closeness": 3, "reasoning": "Adaptation is changing to suit new conditions but does not necessarily create enhanced results; the sentence shows something genuinely new, not just adjusted existing elements." },
+        { "distractor": "exchange", "closeness": 3, "reasoning": "Exchange is trading or swapping but does not require creating something greater; the sentence emphasizes production of new dishes, not mere borrowing between traditions." },
+        { "distractor": "mixture", "closeness": 2, "reasoning": "Mixture combines elements but does not necessarily create results exceeding individual components; the sentence shows creation of unprecedented dishes." },
+        { "distractor": "combination", "closeness": 2, "reasoning": "Combination joins elements but does not require the result to exceed individual contributions; simple combination of techniques might not produce novel dishes." },
+        { "distractor": "collaboration", "closeness": 2, "reasoning": "Collaboration is working together but does not require creating results exceeding what each party could produce; the sentence emphasizes unprecedented results." },
+        { "distractor": "synthesis", "closeness": 2, "reasoning": "Synthesis combines elements into a whole but need not produce results exceeding individual parts; the sentence shows dishes impossible for either tradition alone." },
+        { "distractor": "separation", "closeness": 1, "reasoning": "Separation is keeping things apart; the sentence describes a relationship between techniques and ingredients that produces unprecedented results through combination." },
+        { "distractor": "redundancy", "closeness": 1, "reasoning": "Redundancy is unnecessary duplication; the sentence describes unique dishes created from the combination, not wasteful repetition." },
+        { "distractor": "incompatibility", "closeness": 1, "reasoning": "Incompatibility means unable to work together; the sentence shows techniques and ingredients working together to create unprecedented culinary results." }
+      ]
+    },
+    {
+      "sentence": "The orchestra's synergy emerged only after months of rehearsal, when each musician's individual excellence combined to produce a sound richer and more nuanced than any single instrument could deliver.",
+      "answerChoices": [
+        { "distractor": "harmony", "closeness": 3, "reasoning": "Harmony describes blending of tones but does not necessarily require the combined effect to exceed individual capability; the sentence emphasizes a richer sound impossible from single instruments." },
+        { "distractor": "precision", "closeness": 3, "reasoning": "Precision is accuracy and exactness but does not require creating effects exceeding individual capability; the sentence emphasizes a combined sound richer than any single source." },
+        { "distractor": "unity", "closeness": 3, "reasoning": "Unity is oneness but does not necessarily produce an effect greater than individual elements; the sentence shows a multiplied richness and nuance." },
+        { "distractor": "discipline", "closeness": 3, "reasoning": "Discipline is adherence to standards but does not require creating combined effects exceeding individual capability; the sentence emphasizes a sound impossible from single instruments." },
+        { "distractor": "performance", "closeness": 2, "reasoning": "Performance describes execution but does not necessarily emphasize creating effects exceeding individual capability; the sentence stresses a combined result surpassing individual achievement." },
+        { "distractor": "coordination", "closeness": 2, "reasoning": "Coordination arranges elements to work together but does not require producing results exceeding individual efforts; the sentence emphasizes richer and more nuanced sound." },
+        { "distractor": "rehearsal", "closeness": 2, "reasoning": "Rehearsal is practice but is the process enabling synergy, not synergy itself; the sentence shows synergy emerging after months of rehearsal, distinguishing the cause from the effect." },
+        { "distractor": "excellence", "closeness": 2, "reasoning": "Excellence is high quality but can exist in individual musicians; the sentence emphasizes the combined sound exceeding what individual excellence alone could produce." },
+        { "distractor": "discord", "closeness": 1, "reasoning": "Discord is disagreement or conflicting sound; the sentence describes a rich, nuanced sound combining individual excellence into something greater." },
+        { "distractor": "isolation", "closeness": 1, "reasoning": "Isolation is separation; the sentence describes musicians combining their sounds, emerging only after months of working together." },
+        { "distractor": "exhaustion", "closeness": 1, "reasoning": "Exhaustion is fatigue; the sentence describes a positive development (richer sound) emerging from rehearsal, not depletion of musicians." }
+      ]
+    }
+  ]
+}

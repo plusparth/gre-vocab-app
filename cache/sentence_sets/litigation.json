@@ -1,0 +1,53 @@
+{
+  "word": "litigation",
+  "sentenceSets": [
+    {
+      "sentence": "The threat of litigation constrained every public statement the organization made for nearly two years.",
+      "answerChoices": [
+        { "distractor": "lawsuit", "closeness": 3, "reasoning": "Close -- a lawsuit is a legal action brought in court, which is nearly synonymous with litigation, but lawsuit emphasizes the action itself, whereas litigation emphasizes the entire process of settling a dispute through the legal system." },
+        { "distractor": "prosecution", "closeness": 3, "reasoning": "Close -- prosecution is legal proceedings against someone for a crime, which is similar to litigation, but prosecution is specifically criminal in nature, whereas litigation encompasses civil disputes as well." },
+        { "distractor": "suit", "closeness": 3, "reasoning": "Close -- a suit is a shorthand term for a lawsuit or legal action, which is nearly equivalent to litigation, but suit is the specific action, whereas litigation describes the broader process of pursuing the dispute." },
+        { "distractor": "trial", "closeness": 3, "reasoning": "Close -- a trial is the formal proceeding in court where a case is heard, which is part of litigation, but a trial is specifically the court session itself, whereas litigation encompasses all steps from filing through resolution." },
+        { "distractor": "dispute", "closeness": 2, "reasoning": "Incorrect -- a dispute is a disagreement between parties, which might lead to litigation, but a dispute can be resolved through negotiation or mediation without ever reaching court." },
+        { "distractor": "investigation", "closeness": 2, "reasoning": "Incorrect -- an investigation is a process of looking into or examining facts and evidence, which might accompany litigation but is not the same as the legal process of settling disputes in court." },
+        { "distractor": "accusation", "closeness": 2, "reasoning": "Incorrect -- an accusation is a claim that someone has done something wrong, but it is distinct from the formal legal proceeding that constitutes litigation." },
+        { "distractor": "case", "closeness": 2, "reasoning": "Incorrect -- a case is a particular matter brought before court, which is related to litigation, but a case is the individual dispute itself, whereas litigation is the broader process of resolving it." },
+        { "distractor": "settlement", "closeness": 1, "reasoning": "Opposite -- a settlement is an agreement to end a dispute without continuing the legal process; it represents the opposite of pursuing litigation." },
+        { "distractor": "agreement", "closeness": 1, "reasoning": "Opposite -- an agreement is a mutual understanding reached by disputing parties, which typically avoids or ends litigation rather than pursuing it." },
+        { "distractor": "contract", "closeness": 1, "reasoning": "Incorrect -- a contract is a binding legal document between parties, which is unrelated to the process of settling a dispute in court that litigation represents." }
+      ]
+    },
+    {
+      "sentence": "Years of costly litigation over the patents left both companies weakened and unable to pursue new innovations.",
+      "answerChoices": [
+        { "distractor": "action", "closeness": 3, "reasoning": "Close -- a legal action is a lawsuit or proceeding brought in court, which is nearly synonymous with litigation, but action emphasizes the single claim or lawsuit, whereas litigation emphasizes the entire prolonged process." },
+        { "distractor": "proceeding", "closeness": 3, "reasoning": "Close -- a proceeding is a formal legal process or series of steps in court, which is very similar to litigation, but proceeding can refer to any formal process, whereas litigation specifically refers to settling disputes in court." },
+        { "distractor": "charge", "closeness": 3, "reasoning": "Close -- a charge is a formal accusation brought against someone in court, which can be part of litigation, but charges refer to specific allegations, whereas litigation is the overall process of resolving a dispute." },
+        { "distractor": "petition", "closeness": 3, "reasoning": "Close -- a petition is a formal request or application to a court, which can be part of litigation, but a petition is a specific filing or request, whereas litigation is the broader process of settling a full dispute." },
+        { "distractor": "conflict", "closeness": 2, "reasoning": "Incorrect -- a conflict is a disagreement or struggle between parties, which might lead to litigation, but a conflict can exist or be resolved without going to court." },
+        { "distractor": "quarrel", "closeness": 2, "reasoning": "Incorrect -- a quarrel is a heated argument or dispute between people, which is less formal than litigation and can occur without any legal proceeding." },
+        { "distractor": "competition", "closeness": 2, "reasoning": "Incorrect -- competition is the act of competing against others for patents or market advantage, which might create a dispute leading to litigation, but competition itself is a business activity, not a legal process." },
+        { "distractor": "offense", "closeness": 2, "reasoning": "Incorrect -- an offense is a violation or transgression against law or rules, which might trigger legal action, but offense refers to the wrongful act itself, not the legal process of addressing it." },
+        { "distractor": "compromise", "closeness": 1, "reasoning": "Opposite -- a compromise is a settlement where both parties make concessions; it represents an alternative to pursuing lengthy litigation." },
+        { "distractor": "resolution", "closeness": 1, "reasoning": "Opposite -- a resolution is the settling or solving of a dispute, which ends litigation rather than prolonging it." },
+        { "distractor": "peace", "closeness": 1, "reasoning": "Opposite -- peace is the state of harmony between parties, achieved by ending conflict and litigation rather than pursuing it." }
+      ]
+    },
+    {
+      "sentence": "The widow pursued lengthy litigation to challenge the will, determined to prove that her husband's signature had been forged.",
+      "answerChoices": [
+        { "distractor": "appeal", "closeness": 3, "reasoning": "Close -- an appeal is a request to a higher court to review a lower court's decision, which is a form of litigation, but an appeal is a specific step within a legal process rather than the entire process of challenging a will." },
+        { "distractor": "challenge", "closeness": 3, "reasoning": "Close -- to challenge is to formally question the validity of something, such as a will, which can involve litigation, but challenge emphasizes the action of disputing rather than the legal process itself." },
+        { "distractor": "claim", "closeness": 3, "reasoning": "Close -- a claim is an assertion of a right or assertion of fact made in legal proceedings, which is part of litigation, but a claim is a specific assertion, whereas litigation is the full process of pursuing that claim." },
+        { "distractor": "complaint", "closeness": 3, "reasoning": "Close -- a complaint is a formal statement of grievance filed with a court, which initiates litigation, but a complaint is the initial document, whereas litigation encompasses the entire subsequent legal process." },
+        { "distractor": "inquiry", "closeness": 2, "reasoning": "Incorrect -- an inquiry is an investigation or official examination into facts, which might inform a legal case but is not the same as the formal legal process of pursuing litigation." },
+        { "distractor": "allegation", "closeness": 2, "reasoning": "Incorrect -- an allegation is a claim that something is true without proof, which might form the basis for litigation, but making an allegation is not the same as pursuing legal proceedings." },
+        { "distractor": "grievance", "closeness": 2, "reasoning": "Incorrect -- a grievance is a complaint or cause for complaint, which motivates litigation, but a grievance is the underlying problem itself, not the legal process of addressing it." },
+        { "distractor": "inquest", "closeness": 2, "reasoning": "Incorrect -- an inquest is a formal investigation, typically into a death, conducted by a coroner or magistrate; while it is a legal proceeding, it is distinct from the litigation process used to challenge a will." },
+        { "distractor": "reconciliation", "closeness": 1, "reasoning": "Opposite -- reconciliation is the restoration of friendly relations between parties, achieved by ending their dispute rather than pursuing lengthy litigation." },
+        { "distractor": "truce", "closeness": 1, "reasoning": "Opposite -- a truce is a temporary cessation of conflict or hostilities, the opposite of the widow's determined pursuit of litigation." },
+        { "distractor": "pardon", "closeness": 1, "reasoning": "Opposite -- a pardon is the forgiveness of a wrong or the cancellation of punishment, which would end any need for litigation." }
+      ]
+    }
+  ]
+}

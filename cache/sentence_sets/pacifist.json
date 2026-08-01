@@ -1,0 +1,53 @@
+{
+  "word": "pacifist",
+  "sentenceSets": [
+    {
+      "sentence": "The pacifist leader refused to endorse military intervention, even when threatened with invasion.",
+      "answerChoices": [
+        { "distractor": "neutralist", "closeness": 3, "reasoning": "Close -- a neutralist avoids taking sides, but unlike a pacifist, may support military action if neutral interests are threatened; the sentence emphasizes refusal despite threat, which is the core of pacifism." },
+        { "distractor": "isolationist", "closeness": 3, "reasoning": "Close -- an isolationist withdraws from international conflicts, but may condone violence internally or defensively; the sentence's 'even when threatened' shows opposition to war itself, not just distance from it." },
+        { "distractor": "conscientious objector", "closeness": 3, "reasoning": "Close -- someone who refuses military service shares pacifism's opposition to war, but a pacifist's objection is philosophical and absolute, whereas a conscientious objector may have a specific religious or moral exemption." },
+        { "distractor": "dissident", "closeness": 3, "reasoning": "Close -- a dissident opposes government policy, and may oppose this military intervention, but dissent is about disagreement with authority, not necessarily opposition to violence as a principle." },
+        { "distractor": "skeptic", "closeness": 2, "reasoning": "Incorrect -- a skeptic doubts the wisdom or necessity of military action, but lacks the fundamental opposition to violence that defines pacifism." },
+        { "distractor": "critic", "closeness": 2, "reasoning": "Incorrect -- a critic may find fault with the military plan, but criticism of a specific action differs from principled opposition to war itself." },
+        { "distractor": "reformer", "closeness": 2, "reasoning": "Incorrect -- a reformer seeks to improve institutions or policy, but not necessarily through opposition to violence." },
+        { "distractor": "diplomat", "closeness": 2, "reasoning": "Incorrect -- a diplomat negotiates solutions, but negotiation does not require opposition to war; diplomats often work within militarized contexts." },
+        { "distractor": "warmonger", "closeness": 1, "reasoning": "Opposite -- a warmonger advocates for military action, the opposite of a pacifist who refuses it." },
+        { "distractor": "militant", "closeness": 1, "reasoning": "Opposite -- a militant actively pursues conflict; this contradicts the pacifist's rejection of violence." },
+        { "distractor": "strategist", "closeness": 1, "reasoning": "Incorrect -- a strategist plans military campaigns; completely incompatible with the refusal shown in the sentence." }
+      ]
+    },
+    {
+      "sentence": "During the civil rights movement, many protesters adopted pacifist methods, believing that nonviolent resistance would prove more persuasive than aggression.",
+      "answerChoices": [
+        { "distractor": "principled objector", "closeness": 3, "reasoning": "Close -- both share moral conviction against violence, but 'principled objector' may refer to refusing one's own participation, whereas the sentence shows pacifists actively engaging in protest through peaceful methods." },
+        { "distractor": "peacemaker", "closeness": 3, "reasoning": "Close -- a peacemaker seeks to resolve conflict, which pacifists do through nonviolence, but peacemakers may use other means; the sentence emphasizes protest itself as the method, not just peace-seeking." },
+        { "distractor": "advocate", "closeness": 3, "reasoning": "Close -- an advocate supports a cause, and pacifists do advocate for their beliefs, but 'advocate' doesn't specify the opposition to violence that is central to the sentence's portrayal." },
+        { "distractor": "reformist", "closeness": 3, "reasoning": "Close -- a reformist seeks systemic change, which aligns with the civil rights goal, but doesn't necessarily embrace the nonviolent method that is key to the sentence." },
+        { "distractor": "activist", "closeness": 2, "reasoning": "Incorrect -- an activist pursues change through action, but activism may include confrontational or violent means; the sentence specifies nonviolent resistance as the method." },
+        { "distractor": "revolutionary", "closeness": 2, "reasoning": "Incorrect -- a revolutionary seeks radical change, which civil rights activists pursued, but revolutionaries traditionally embrace violence; this contradicts the 'nonviolent' emphasis." },
+        { "distractor": "agitator", "closeness": 2, "reasoning": "Incorrect -- an agitator stirs up emotion and unrest, whereas the sentence shows peaceful protesters whose aim is rational persuasion." },
+        { "distractor": "rebel", "closeness": 2, "reasoning": "Incorrect -- a rebel opposes authority, but not necessarily through the nonviolent means highlighted in the sentence." },
+        { "distractor": "tyrant", "closeness": 1, "reasoning": "Opposite -- a tyrant uses force to dominate; the opposite of a pacifist who rejects violence." },
+        { "distractor": "oppressor", "closeness": 1, "reasoning": "Opposite -- the sentence shows protesters resisting oppression, not embodying it." },
+        { "distractor": "bully", "closeness": 1, "reasoning": "Incorrect -- bullying involves intimidation and aggression, contradicting the nonviolent resistance described." }
+      ]
+    },
+    {
+      "sentence": "The ancient philosopher's pacifist teachings influenced generations of followers who viewed combat as a corruption of the soul.",
+      "answerChoices": [
+        { "distractor": "ascetic", "closeness": 3, "reasoning": "Close -- an ascetic practices self-denial and spiritual discipline, which may be combined with pacifism, but asceticism addresses personal renunciation rather than opposition to violence specifically." },
+        { "distractor": "mystic", "closeness": 3, "reasoning": "Close -- a mystic seeks spiritual enlightenment and may teach nonviolence, but mysticism is about inner experience, not necessarily about refusing war or violence." },
+        { "distractor": "stoic", "closeness": 3, "reasoning": "Close -- a stoic emphasizes virtue and emotional restraint, which can coexist with nonviolence, but Stoic philosophy does not necessarily oppose violence as corrupting." },
+        { "distractor": "sage", "closeness": 3, "reasoning": "Close -- a sage is wise and teaches, but the sentence's emphasis on viewing combat as corrupting the soul is specific to pacifism; a sage need not oppose violence." },
+        { "distractor": "moralist", "closeness": 2, "reasoning": "Incorrect -- a moralist upholds ethical principles, which pacifists do, but morality can accommodate justified defense; the sentence's tone suggests absolute opposition to violence." },
+        { "distractor": "ethicist", "closeness": 2, "reasoning": "Incorrect -- an ethicist studies right and wrong, but ethics may permit violence in certain circumstances; the sentence shows a blanket rejection." },
+        { "distractor": "idealist", "closeness": 2, "reasoning": "Incorrect -- an idealist pursues noble goals, which aligns with pacifism's aims, but idealism doesn't necessarily entail opposition to violence." },
+        { "distractor": "contemplative", "closeness": 2, "reasoning": "Incorrect -- a contemplative person reflects on truth, but contemplation alone does not lead to teaching against violence." },
+        { "distractor": "militarist", "closeness": 1, "reasoning": "Opposite -- a militarist believes in military power and strength; opposed to the view that combat corrupts the soul." },
+        { "distractor": "warrior", "closeness": 1, "reasoning": "Opposite -- a warrior embraces combat; this contradicts the teaching that combat corrupts." },
+        { "distractor": "conqueror", "closeness": 1, "reasoning": "Incorrect -- someone who pursues conquest through force is antithetical to pacifist teachings." }
+      ]
+    }
+  ]
+}

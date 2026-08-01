@@ -1,0 +1,53 @@
+{
+  "word": "salient",
+  "sentenceSets": [
+    {
+      "sentence": "She identified the most salient point in the argument and addressed it directly, leaving the peripheral objections for later.",
+      "answerChoices": [
+        { "distractor": "prominent", "closeness": 3, "reasoning": "Means standing out noticeably; essentially synonymous with salient—both describe something conspicuously noticeable and important." },
+        { "distractor": "conspicuous", "closeness": 3, "reasoning": "Means very noticeable and obvious; essentially synonymous with salient—both describe something that stands out clearly." },
+        { "distractor": "striking", "closeness": 3, "reasoning": "Means catching attention and impressive; while similar to salient in catching notice, the sentence requires the sense of logical importance, not just visual impact." },
+        { "distractor": "obvious", "closeness": 3, "reasoning": "Means easily seen or understood; while the point is obvious, the sentence requires the sense of standing out as logically central, not just apparent." },
+        { "distractor": "important", "closeness": 2, "reasoning": "Means having significance; while the point is important, the sentence requires the sense of standing out conspicuously, not just being significant." },
+        { "distractor": "essential", "closeness": 2, "reasoning": "Means absolutely necessary; while the point is essential, the sentence requires the sense of standing out prominently, not just being fundamental." },
+        { "distractor": "crucial", "closeness": 2, "reasoning": "Means critically important; while the point is crucial, the sentence requires the sense of standing out conspicuously in the argument." },
+        { "distractor": "central", "closeness": 2, "reasoning": "Means at the center; while the point is central to the argument, the sentence requires the sense of standing out as prominent, not just being in the middle." },
+        { "distractor": "obscure", "closeness": 1, "reasoning": "Means not clearly visible or understood; directly opposite to the prominent, striking point that the sentence describes." },
+        { "distractor": "hidden", "closeness": 1, "reasoning": "Means concealed from sight; opposite to the salient point that stands out conspicuously." },
+        { "distractor": "trivial", "closeness": 1, "reasoning": "Means unimportant and insignificant; opposite to the salient point that she prioritizes in her response." }
+      ]
+    },
+    {
+      "sentence": "The salient memory from his childhood was not his birthday parties but a single moment when his father praised his courage.",
+      "answerChoices": [
+        { "distractor": "vivid", "closeness": 3, "reasoning": "Means producing strong, clear images; while the memory is vivid, the sentence requires salient (standing out), and vivid can apply to unimportant memories too." },
+        { "distractor": "striking", "closeness": 3, "reasoning": "Means catching attention and impressive; while the memory is striking, the sentence emphasizes its prominence in memory, not just its striking quality." },
+        { "distractor": "memorable", "closeness": 3, "reasoning": "Means worthy of remembering; while the memory is memorable, the sentence requires the sense of standing out conspicuously from other childhood experiences." },
+        { "distractor": "distinct", "closeness": 3, "reasoning": "Means clearly defined and different; while the memory is distinct, the sentence requires salient (standing out conspicuously as the most important)." },
+        { "distractor": "prominent", "closeness": 2, "reasoning": "Means standing out noticeably; essentially synonymous with salient—both describe something that stands out from others." },
+        { "distractor": "significant", "closeness": 2, "reasoning": "Means important or meaningful; while the memory is significant, the sentence requires the sense of standing out conspicuously." },
+        { "distractor": "remarkable", "closeness": 2, "reasoning": "Means worthy of remark; while the memory is remarkable, the sentence requires salient (conspicuous standing out), not just remarkableness." },
+        { "distractor": "indelible", "closeness": 2, "reasoning": "Means unable to be forgotten; while the memory is indelible, the sentence requires the sense of standing out as most prominent, not just persistence." },
+        { "distractor": "vague", "closeness": 1, "reasoning": "Means unclear and indistinct; opposite to the salient memory that stands out clearly from other childhood experiences." },
+        { "distractor": "faded", "closeness": 1, "reasoning": "Means dimmed or weakened by time; opposite to the salient memory that stands out prominently in his recollection." },
+        { "distractor": "forgotten", "closeness": 1, "reasoning": "Means no longer remembered; opposite to the salient memory that persists as his most striking childhood recollection." }
+      ]
+    },
+    {
+      "sentence": "The artist's use of bright red in the painting draws the eye to the salient features of the composition while muting less important areas.",
+      "answerChoices": [
+        { "distractor": "prominent", "closeness": 3, "reasoning": "Means standing out noticeably; essentially synonymous with salient—both describe elements that stand out visually and are important to the composition." },
+        { "distractor": "striking", "closeness": 3, "reasoning": "Means catching attention and impressive; essentially synonymous with salient in describing visually important elements." },
+        { "distractor": "vivid", "closeness": 3, "reasoning": "Means producing strong visual images; while salient features are vivid, the sentence requires the sense of standing out as compositionally important, not just bright." },
+        { "distractor": "bold", "closeness": 3, "reasoning": "Means standing out conspicuously; essentially synonymous with salient—both describe visually prominent elements." },
+        { "distractor": "focal", "closeness": 2, "reasoning": "Means at the center of attention; while the features are focal, the sentence requires the sense of standing out prominently, not just being the focus." },
+        { "distractor": "dominant", "closeness": 2, "reasoning": "Means controlling or most important; while the features are dominant, the sentence requires salient (standing out conspicuously), not dominating power." },
+        { "distractor": "central", "closeness": 2, "reasoning": "Means at the center; while the features are central, the sentence requires the sense of standing out prominently in the composition." },
+        { "distractor": "highlighted", "closeness": 2, "reasoning": "Means made prominent; while the features are highlighted by the red, the sentence requires salient (naturally standing out), not artificially highlighted." },
+        { "distractor": "subdued", "closeness": 1, "reasoning": "Means toned down; directly opposite to the salient features that stand out prominently through the artist's use of bright red." },
+        { "distractor": "muted", "closeness": 1, "reasoning": "Means quieted or softened; opposite to the salient features that the red draws the eye toward." },
+        { "distractor": "recessive", "closeness": 1, "reasoning": "Means tending to recede into background; opposite to the salient features that stand out conspicuously in the composition." }
+      ]
+    }
+  ]
+}

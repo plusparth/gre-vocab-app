@@ -1,0 +1,53 @@
+{
+  "word": "sluggish",
+  "sentenceSets": [
+    {
+      "sentence": "The sluggish response time of the approval process frustrated applicants who had structured their plans around the advertised timeline.",
+      "answerChoices": [
+        { "distractor": "delayed", "closeness": 3, "reasoning": "Delayed means postponed or late, but sluggish specifically conveys a quality of slowness and lethargy." },
+        { "distractor": "slow", "closeness": 3, "reasoning": "Slow describes reduced speed, but sluggish emphasizes the reluctant, lethargic quality more than mere slowness." },
+        { "distractor": "prolonged", "closeness": 3, "reasoning": "Prolonged means extended in time, but sluggish conveys a quality of reluctant slow movement." },
+        { "distractor": "tardy", "closeness": 3, "reasoning": "Tardy means late or delayed, but doesn't convey the sluggish quality of reluctant slowness." },
+        { "distractor": "lagging", "closeness": 2, "reasoning": "Lagging means falling behind, but doesn't necessarily convey the lethargic quality of sluggish." },
+        { "distractor": "plodding", "closeness": 2, "reasoning": "Plodding means moving heavily and slowly, which is close but emphasizes heavy effort over lethargy." },
+        { "distractor": "stalling", "closeness": 2, "reasoning": "Stalling means stopping or stopping progress, but sluggish emphasizes slowness rather than stopping." },
+        { "distractor": "inefficient", "closeness": 2, "reasoning": "Inefficient means not working effectively, but doesn't specifically convey the sluggish lethargy." },
+        { "distractor": "swift", "closeness": 1, "reasoning": "Swift means fast and quick, the opposite of sluggish slowness and lethargy." },
+        { "distractor": "brisk", "closeness": 1, "reasoning": "Brisk means quick and energetic, contrary to the sluggish lethargy described." },
+        { "distractor": "expedient", "closeness": 1, "reasoning": "Expedient means quick and efficient, the opposite of sluggish slowness frustrating applicants." }
+      ]
+    },
+    {
+      "sentence": "The athlete's sluggish performance in the second half of the game suggested that endurance training had been neglected.",
+      "answerChoices": [
+        { "distractor": "poor", "closeness": 3, "reasoning": "Poor means of low quality, but sluggish specifically conveys slowness and lethargy, not just poor quality." },
+        { "distractor": "weak", "closeness": 3, "reasoning": "Weak means lacking strength, but sluggish emphasizes the quality of reluctant slowness." },
+        { "distractor": "declining", "closeness": 3, "reasoning": "Declining means getting worse, but sluggish specifically conveys a lethargic quality of movement." },
+        { "distractor": "tired", "closeness": 3, "reasoning": "Tired means fatigued, which relates to sluggish but doesn't specifically convey the slowness." },
+        { "distractor": "diminished", "closeness": 2, "reasoning": "Diminished means reduced, but doesn't specifically convey the sluggish lethargy." },
+        { "distractor": "lagging", "closeness": 2, "reasoning": "Lagging means falling behind, but doesn't necessarily convey the lethargic quality of sluggish." },
+        { "distractor": "ineffective", "closeness": 2, "reasoning": "Ineffective means not producing results, but doesn't specifically convey the sluggish lethargy." },
+        { "distractor": "unfit", "closeness": 2, "reasoning": "Unfit means not in good condition, which is related but doesn't specifically convey sluggish slowness." },
+        { "distractor": "energetic", "closeness": 1, "reasoning": "Energetic means full of energy and vigor, the opposite of sluggish lethargy and slowness." },
+        { "distractor": "dynamic", "closeness": 1, "reasoning": "Dynamic means characterized by energy and effective action, contrary to the sluggish performance." },
+        { "distractor": "vigorous", "closeness": 1, "reasoning": "Vigorous means strong and forceful, the opposite of the sluggish lethargy in the athlete's play." }
+      ]
+    },
+    {
+      "sentence": "The economy's sluggish recovery from the recession meant that unemployment remained stubbornly high for several years after the crisis.",
+      "answerChoices": [
+        { "distractor": "gradual", "closeness": 3, "reasoning": "Gradual means proceeding slowly, but doesn't necessarily convey the reluctant, lethargic quality of sluggish." },
+        { "distractor": "halting", "closeness": 3, "reasoning": "Halting means proceeding haltingly with stops and starts, but sluggish emphasizes consistent slowness." },
+        { "distractor": "uneven", "closeness": 3, "reasoning": "Uneven means not uniform, but sluggish specifically conveys the quality of reluctant slowness." },
+        { "distractor": "tepid", "closeness": 3, "reasoning": "Tepid means lukewarm or lacking enthusiasm, which is close, but sluggish emphasizes slowness more." },
+        { "distractor": "weak", "closeness": 2, "reasoning": "Weak means lacking strength, but doesn't specifically convey the sluggish slowness." },
+        { "distractor": "modest", "closeness": 2, "reasoning": "Modest means limited or not substantial, but doesn't specifically convey the sluggish quality." },
+        { "distractor": "stagnant", "closeness": 2, "reasoning": "Stagnant means lacking activity or growth, which is related but suggests no movement rather than slow movement." },
+        { "distractor": "ineffective", "closeness": 2, "reasoning": "Ineffective means not working well, but doesn't specifically convey the sluggish lethargy." },
+        { "distractor": "robust", "closeness": 1, "reasoning": "Robust means strong and vigorous, the opposite of the sluggish recovery described." },
+        { "distractor": "rapid", "closeness": 1, "reasoning": "Rapid means fast and quick, contrary to the sluggish slowness of the economic recovery." },
+        { "distractor": "dynamic", "closeness": 1, "reasoning": "Dynamic means characterized by energy and growth, the opposite of sluggish lethargy in recovery." }
+      ]
+    }
+  ]
+}

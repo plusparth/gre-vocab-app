@@ -1,0 +1,53 @@
+{
+  "word": "rococo",
+  "sentenceSets": [
+    {
+      "sentence": "The museum's new acquisition, a rococo music box decorated with gilt cherubs and intricate enamelwork, exemplified the ornamental excess of the eighteenth century.",
+      "answerChoices": [
+        { "distractor": "baroque", "closeness": 3, "reasoning": "Rococo evolved from Baroque and shares ornamental qualities, but Baroque emphasizes dramatic grandeur, not the delicate ornamental style of Rococo." },
+        { "distractor": "ornate", "closeness": 3, "reasoning": "Rococo work is ornate with elaborate decoration, but ornate simply means heavily decorated, not the specific style and aesthetic of Rococo." },
+        { "distractor": "elaborate", "closeness": 3, "reasoning": "Rococo is elaborate with intricate details, but elaborate emphasizes complex intricacy, not the specific style of Rococo." },
+        { "distractor": "decorative", "closeness": 3, "reasoning": "Rococo work is decorative and ornamental, but decorative emphasizes being ornamental, not the specific historical style." },
+        { "distractor": "embellished", "closeness": 2, "reasoning": "Rococo work is embellished with details, but embellished emphasizes being adorned, not the specific artistic style." },
+        { "distractor": "florid", "closeness": 2, "reasoning": "Rococo is florid and flowery in style, but florid emphasizes flowering or blooming quality, not the historical style." },
+        { "distractor": "lavish", "closeness": 2, "reasoning": "Rococo is lavish with ornamentation, but lavish emphasizes luxurious abundance, not the specific artistic style." },
+        { "distractor": "grandiose", "closeness": 2, "reasoning": "Rococo can be grandiose, but grandiose emphasizes impressively large scale, not the characteristic delicate ornamental style." },
+        { "distractor": "minimalist", "closeness": 1, "reasoning": "Rococo is ornamentally excessive with elaborate decoration; minimalist would mean spare and simple, opposite." },
+        { "distractor": "austere", "closeness": 1, "reasoning": "Rococo features gilt cherubs and intricate ornamentation; austere would mean severely simple and plain, opposite." },
+        { "distractor": "stark", "closeness": 1, "reasoning": "Rococo is ornate with elaborate decoration; stark would mean starkly bare and unadorned, opposite." }
+      ]
+    },
+    {
+      "sentence": "The rococo design of the ballroom, with its scrollwork, pastel colors, and mirror-lined walls, created an atmosphere of frivolous elegance that charmed visitors.",
+      "answerChoices": [
+        { "distractor": "baroque", "closeness": 3, "reasoning": "Rococo evolved from Baroque style, but Baroque emphasizes dramatic grandeur and dark richness, whereas Rococo emphasizes delicate ornamental elegance." },
+        { "distractor": "neoclassical", "closeness": 3, "reasoning": "Neoclassical and Rococo were contrasting styles, but neoclassical emphasizes simplicity and classical forms, not the ornate delicate quality of Rococo." },
+        { "distractor": "ornamental", "closeness": 3, "reasoning": "Rococo is ornamental with elaborate ornamentation, but ornamental simply means decorative, not the specific delicate style." },
+        { "distractor": "lavish", "closeness": 3, "reasoning": "The design is lavish with ornamentation, but lavish emphasizes luxurious abundance, not the specific artistic style of Rococo." },
+        { "distractor": "opulent", "closeness": 2, "reasoning": "The design is opulent and luxurious, but opulent emphasizes wealth and luxury, not the delicate ornamental style." },
+        { "distractor": "sumptuous", "closeness": 2, "reasoning": "The design is sumptuous and luxurious, but sumptuous emphasizes richness and luxury, not the specific Rococo style." },
+        { "distractor": "extravagant", "closeness": 2, "reasoning": "The design is extravagant with ornamentation, but extravagant emphasizes excess spending, not the artistic style." },
+        { "distractor": "florid", "closeness": 2, "reasoning": "The design is florid with elaborate scrollwork, but florid emphasizes flowering or fancy language quality, not the style." },
+        { "distractor": "severe", "closeness": 1, "reasoning": "The rococo design is ornate with frivolous elegance; severe would mean harsh and plain, opposite." },
+        { "distractor": "austere", "closeness": 1, "reasoning": "Rococo features scrollwork and elaborate ornamentation; austere would mean severely simple and stark, opposite." },
+        { "distractor": "spartan", "closeness": 1, "reasoning": "The rococo ballroom is ornate and elegant; spartan would mean bare and without luxury, opposite." }
+      ]
+    },
+    {
+      "sentence": "Critics dismissed the painter's later works as rococo excess, arguing that excessive ornamentation had replaced the clarity and discipline of his earlier compositions.",
+      "answerChoices": [
+        { "distractor": "baroque", "closeness": 3, "reasoning": "Baroque is a style related to Rococo, but Baroque emphasizes dramatic intensity, not the delicate excessive ornamentation of Rococo." },
+        { "distractor": "ornate", "closeness": 3, "reasoning": "The works are ornate and heavily decorated, but ornate simply means elaborately decorated, not the specific judgmental sense of rococo excess." },
+        { "distractor": "embellished", "closeness": 3, "reasoning": "The works are embellished with ornamentation, but embellished emphasizes being adorned, not the excessive quality." },
+        { "distractor": "excessive", "closeness": 3, "reasoning": "The ornamentation is excessive, which rococo implies, but excessive emphasizes going beyond bounds, not the artistic style." },
+        { "distractor": "flamboyant", "closeness": 2, "reasoning": "The works might be flamboyant in style, but flamboyant emphasizes showiness, not the specific rococo style." },
+        { "distractor": "exuberant", "closeness": 2, "reasoning": "The works are exuberant in ornamentation, but exuberant emphasizes enthusiastic energy, not the rococo style." },
+        { "distractor": "grandiloquent", "closeness": 2, "reasoning": "The work might be grandiose in expression, but grandiloquent emphasizes inflated language, not the artistic style." },
+        { "distractor": "pretentious", "closeness": 2, "reasoning": "The critics suggest pretension in the excess, but pretentious emphasizes false importance, not the rococo style." },
+        { "distractor": "austere", "closeness": 1, "reasoning": "The later works are criticized as rococo excess; austere would mean severely simple and plain, opposite." },
+        { "distractor": "restrained", "closeness": 1, "reasoning": "The rococo works are criticized for excessive ornamentation; restrained would mean controlled and moderate, opposite." },
+        { "distractor": "minimalist", "closeness": 1, "reasoning": "The rococo excess replaced clarity; minimalist would mean spare and simple, opposite." }
+      ]
+    }
+  ]
+}

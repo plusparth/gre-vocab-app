@@ -1,0 +1,53 @@
+{
+  "word": "benign",
+  "sentenceSets": [
+    {
+      "sentence": "The doctor assured her that the growth was benign and required no treatment.",
+      "answerChoices": [
+        { "distractor": "harmless", "closeness": 3, "reasoning": "Close - 'harmless' means not able to cause injury or damage, which fits the medical context, but it is a more general term; 'benign' specifically means mild and not threatening to health." },
+        { "distractor": "nonthreatening", "closeness": 3, "reasoning": "Close - 'nonthreatening' means not creating danger, which fits the medical assessment, but it is broader than 'benign' and does not specifically refer to the nature of a medical condition." },
+        { "distractor": "inert", "closeness": 3, "reasoning": "Close - 'inert' means not causing a reaction or change, which could describe a medical growth, but it emphasizes lack of activity rather than being mild and non-dangerous as 'benign' implies." },
+        { "distractor": "innocent", "closeness": 3, "reasoning": "Close - 'innocent' can mean free from guilt or wrongdoing, or harmless, which fits the assessment that the growth is not dangerous, but it is typically used in different contexts than medical diagnosis." },
+        { "distractor": "curable", "closeness": 2, "reasoning": "Incorrect - 'curable' means able to be healed or treated, but the sentence emphasizes that the growth requires no treatment, not that it is able to be cured." },
+        { "distractor": "treatable", "closeness": 2, "reasoning": "Incorrect - 'treatable' means able to be managed with treatment, but since the growth requires no treatment, this does not fit the medical conclusion." },
+        { "distractor": "stable", "closeness": 2, "reasoning": "Incorrect - 'stable' means not changing or getting worse, which could describe a non-threatening growth, but it does not specifically mean mild or harmless as 'benign' does." },
+        { "distractor": "mild", "closeness": 2, "reasoning": "Incorrect - 'mild' means not severe, which is similar to 'benign' but refers more to intensity or severity; 'benign' specifically means not threatening to health or life." },
+        { "distractor": "malignant", "closeness": 1, "reasoning": "Opposite - 'malignant' means dangerous and harmful, especially in medical contexts; it is the opposite of a benign diagnosis." },
+        { "distractor": "cancerous", "closeness": 1, "reasoning": "Opposite - 'cancerous' means affected by cancer, which is the direct opposite of a benign medical assessment." },
+        { "distractor": "toxic", "closeness": 1, "reasoning": "Opposite - 'toxic' means poisonous or harmful, which contradicts the doctor's assurance that the growth requires no treatment." }
+      ]
+    },
+    {
+      "sentence": "The benign weather conditions during harvest season allowed farmers to complete their work without interruption.",
+      "answerChoices": [
+        { "distractor": "favorable", "closeness": 3, "reasoning": "Close - 'favorable' means advantageous and helpful, which fits the context that weather enabled work, but it is more general than 'benign' and does not specifically convey mild or pleasant conditions." },
+        { "distractor": "clement", "closeness": 3, "reasoning": "Close - 'clement' means mild and pleasant, especially regarding weather, which closely matches 'benign' in this context, but it is a less common and more poetic term." },
+        { "distractor": "balmy", "closeness": 3, "reasoning": "Close - 'balmy' means warm and pleasant, which fits the harvest season context, but it is more specific to warmth; 'benign' is broader and can apply to various favorable conditions." },
+        { "distractor": "auspicious", "closeness": 3, "reasoning": "Close - 'auspicious' means giving favorable signs or promising good fortune, which fits the successful harvest, but it emphasizes signs of luck rather than the mild nature of the weather conditions." },
+        { "distractor": "temperate", "closeness": 2, "reasoning": "Incorrect - 'temperate' means moderate and not extreme, which could describe favorable weather, but it does not specifically convey that conditions were mild and pleasant as 'benign' implies." },
+        { "distractor": "pleasant", "closeness": 2, "reasoning": "Incorrect - 'pleasant' means agreeable and enjoyable, which fits weather, but it emphasizes subjective enjoyment rather than the objective quality of being mild and non-threatening." },
+        { "distractor": "calm", "closeness": 2, "reasoning": "Incorrect - 'calm' means peaceful and undisturbed, which could describe weather conditions, but it emphasizes absence of disturbance rather than mild temperament." },
+        { "distractor": "ideal", "closeness": 2, "reasoning": "Incorrect - 'ideal' means perfect or exactly suited, which might describe the weather, but it is too extreme; 'benign' suggests favorable without necessarily being perfect." },
+        { "distractor": "harsh", "closeness": 1, "reasoning": "Opposite - 'harsh' means severe and difficult to endure, the opposite of benign weather conditions." },
+        { "distractor": "severe", "closeness": 1, "reasoning": "Opposite - 'severe' means serious and intense, which is opposite to the mild nature of benign conditions." },
+        { "distractor": "turbulent", "closeness": 1, "reasoning": "Opposite - 'turbulent' means chaotic and disturbed, which contradicts the smooth harvest season described in the sentence." }
+      ]
+    },
+    {
+      "sentence": "The benign monarch granted citizenship to refugees, though some nobles questioned his leniency.",
+      "answerChoices": [
+        { "distractor": "compassionate", "closeness": 3, "reasoning": "Close - 'compassionate' means feeling and showing sympathy for others' suffering, which could describe a monarch granting citizenship, but it emphasizes emotional empathy rather than mildness or gentleness of rule." },
+        { "distractor": "merciful", "closeness": 3, "reasoning": "Close - 'merciful' means showing kindness and compassion to those under one's power, which fits granting citizenship, but it emphasizes mercy and pity rather than the mild character that 'benign' conveys." },
+        { "distractor": "magnanimous", "closeness": 3, "reasoning": "Close - 'magnanimous' means generous and noble-spirited, which fits granting citizenship, but it emphasizes nobility of spirit rather than the mildness and gentleness of 'benign' rule." },
+        { "distractor": "lenient", "closeness": 3, "reasoning": "Close - 'lenient' means not strict or harsh, which matches the nobles' complaint about the monarch's leniency, but it emphasizes lack of strictness rather than the mild character of 'benign' rule." },
+        { "distractor": "forgiving", "closeness": 2, "reasoning": "Incorrect - 'forgiving' means pardoning wrongs, which could describe a merciful ruler, but it does not fit the context of granting citizenship to refugees, which is about generosity rather than forgiveness." },
+        { "distractor": "generous", "closeness": 2, "reasoning": "Incorrect - 'generous' means giving freely and abundantly, which fits granting citizenship, but it emphasizes the act of giving rather than the mild temperament that characterizes a benign ruler." },
+        { "distractor": "permissive", "closeness": 2, "reasoning": "Incorrect - 'permissive' means allowing freedom and not enforcing rules, which could match the nobles' concern but does not specifically mean mild or gentle as 'benign' does." },
+        { "distractor": "indulgent", "closeness": 2, "reasoning": "Incorrect - 'indulgent' means gratifying desires or being lenient, which could describe the monarch's policy, but it implies excessive leniency rather than the balanced gentleness of being benign." },
+        { "distractor": "tyrannical", "closeness": 1, "reasoning": "Opposite - 'tyrannical' means cruel and oppressive, which is the opposite of a benign ruler granting citizenship to refugees." },
+        { "distractor": "despotic", "closeness": 1, "reasoning": "Opposite - 'despotic' means exercising absolute power oppressively, which contradicts a benign monarch's treatment of refugees." },
+        { "distractor": "strict", "closeness": 1, "reasoning": "Opposite - 'strict' means rigidly enforcing rules, which is the opposite of the leniency that characterizes a benign ruler." }
+      ]
+    }
+  ]
+}

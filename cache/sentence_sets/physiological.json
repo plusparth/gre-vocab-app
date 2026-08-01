@@ -1,0 +1,53 @@
+{
+  "word": "physiological",
+  "sentenceSets": [
+    {
+      "sentence": "The patient's physiological responses to the medication—elevated heart rate, dilated pupils, and increased sweating—suggested a sympathomimetic effect.",
+      "answerChoices": [
+        {"distractor": "biological", "closeness": 3, "reasoning": "Biological responses would describe the patient's bodily reactions generally, but physiological specifically refers to the functioning of organs and systems rather than broader life processes."},
+        {"distractor": "somatic", "closeness": 3, "reasoning": "Somatic means relating to the body, fitting the description of bodily responses; this is a near-synonym that traps through similar anatomical relevance."},
+        {"distractor": "bodily", "closeness": 3, "reasoning": "Bodily responses accurately describe the heart rate, pupil dilation, and sweating mentioned; this everyday term is a trap for those not distinguishing precise terminology."},
+        {"distractor": "chemical", "closeness": 3, "reasoning": "The medication is chemical, and its effects involve chemical reactions in the body; chemical is a plausible distractor focusing on the drug's mechanism rather than the body's functional response."},
+        {"distractor": "metabolic", "closeness": 2, "reasoning": "Metabolic responses refer to the body's chemical processing, and elevated heart rate is related to metabolism, but the sentence emphasizes discrete functional responses (heart rate, pupils, sweating) rather than overall metabolic changes."},
+        {"distractor": "systemic", "closeness": 2, "reasoning": "Systemic describes effects affecting the whole body system, which fits elevated heart rate and sweating; however, these are localized functional responses rather than full-system effects."},
+        {"distractor": "organic", "closeness": 2, "reasoning": "Organic means relating to living organisms and their structures, which fits bodily responses; however, organic emphasizes structure more than function."},
+        {"distractor": "hormonal", "closeness": 2, "reasoning": "Sympathomimetic effects involve hormonal and neural components, so hormonal responses are present; however, the sentence lists specific organ responses rather than hormonal changes."},
+        {"distractor": "psychological", "closeness": 1, "reasoning": "Psychological responses would be mental or emotional, but the sentence describes physical symptoms (heart rate, pupils, sweating) rather than mental or emotional reactions."},
+        {"distractor": "emotional", "closeness": 1, "reasoning": "Emotional responses would be feelings or mood changes, whereas the sentence explicitly lists physical bodily symptoms and functional changes."},
+        {"distractor": "behavioral", "closeness": 1, "reasoning": "Behavioral responses would describe actions or conduct changes, but the sentence focuses on automatic physical responses of organs and systems."}
+      ]
+    },
+    {
+      "sentence": "Years of endurance training had produced profound physiological changes, enabling the athlete to perform at altitudes where untrained individuals would struggle for breath.",
+      "answerChoices": [
+        {"distractor": "adaptive", "closeness": 3, "reasoning": "Adaptive changes describes how the body adjusts to training, fitting the scenario equally well; adaptive is a near-synonym that traps through equal relevance to fitness improvements."},
+        {"distractor": "corporeal", "closeness": 3, "reasoning": "Corporeal means relating to the body, and the sentence describes bodily changes enabling performance; this near-synonym fits the context of body transformations."},
+        {"distractor": "functional", "closeness": 3, "reasoning": "Functional changes describes improvements in how the body works, which perfectly captures the athlete's enhanced breathing and oxygen use at altitude."},
+        {"distractor": "cardiovascular", "closeness": 3, "reasoning": "Endurance training produces cardiovascular changes like increased lung capacity and heart efficiency; this term is highly relevant and equally supported by the altitude context."},
+        {"distractor": "muscular", "closeness": 2, "reasoning": "Muscular changes occur from training, but the sentence's focus on altitude performance emphasizes respiratory and oxygen-processing adaptations rather than muscle development."},
+        {"distractor": "aerobic", "closeness": 2, "reasoning": "Aerobic changes relate to oxygen use improvements, which are relevant to altitude performance; however, aerobic describes metabolic capacity rather than the full range of body adaptations from training."},
+        {"distractor": "anatomical", "closeness": 2, "reasoning": "Anatomical changes could describe structural body modifications from training, but the sentence emphasizes functional capabilities enabling performance rather than structural changes."},
+        {"distractor": "mechanical", "closeness": 2, "reasoning": "Mechanical changes in muscle function or movement occur from training, but the sentence's altitude context suggests oxygen-processing improvements rather than mechanical body mechanics."},
+        {"distractor": "mental", "closeness": 1, "reasoning": "Mental changes would involve psychological or cognitive improvements, but the sentence describes physical bodily adaptations enabling breathing at altitude."},
+        {"distractor": "intellectual", "closeness": 1, "reasoning": "Intellectual changes would affect thinking or learning capacity, which is unrelated to the athletic performance gains and altitude breathing capacity described."},
+        {"distractor": "genetic", "closeness": 1, "reasoning": "Genetic changes do not occur from training; genes remain fixed; the sentence clearly indicates that training produced these changes over years."}
+      ]
+    },
+    {
+      "sentence": "The researchers could not isolate a physiological cause for the symptoms, despite extensive testing and imaging studies.",
+      "answerChoices": [
+        {"distractor": "medical", "closeness": 3, "reasoning": "Medical causes could describe disease-related origins of symptoms; medical is a near-synonym for physiological causes but encompasses broader health-related conditions."},
+        {"distractor": "pathological", "closeness": 3, "reasoning": "Pathological causes refer to disease-related abnormalities, fitting a search for what is causing symptoms; this is nearly synonymous with physiological causes in diagnostic contexts."},
+        {"distractor": "clinical", "closeness": 3, "reasoning": "Clinical findings or causes describe observed symptoms and their origins, equally relevant to the search for symptom etiology despite testing."},
+        {"distractor": "diagnostic", "closeness": 3, "reasoning": "Diagnostic findings would identify what is causing the symptoms, fitting the researchers' search despite their testing efforts."},
+        {"distractor": "technical", "closeness": 2, "reasoning": "Technical causes might describe mechanical or equipment-related problems, but the sentence focuses on medical symptom etiology rather than technical system malfunctions."},
+        {"distractor": "biochemical", "closeness": 2, "reasoning": "Biochemical causes relate to chemical processes in the body and would be a type of physiological cause; however, the sentence describes the broader search for any cause."},
+        {"distractor": "neurological", "closeness": 2, "reasoning": "Neurological causes relate to the nervous system specifically, fitting a subset of possible physiological causes; however, the search encompasses all body systems."},
+        {"distractor": "surgical", "closeness": 2, "reasoning": "Surgical causes would describe structural problems requiring surgery, but the sentence's context is diagnostic investigation, not surgical intervention."},
+        {"distractor": "imaginary", "closeness": 1, "reasoning": "Imaginary causes would not exist, but the sentence indicates the symptoms are real and being investigated; this is contrary to the serious medical context."},
+        {"distractor": "psychosomatic", "closeness": 1, "reasoning": "Psychosomatic causes are psychological rather than physiological, representing the opposite category from what the researchers were investigating."},
+        {"distractor": "fictional", "closeness": 1, "reasoning": "Fictional causes would be made-up, but the sentence describes real symptoms undergoing serious scientific investigation."}
+      ]
+    }
+  ]
+}

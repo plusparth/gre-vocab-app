@@ -1,0 +1,53 @@
+{
+  "word": "truncated",
+  "sentenceSets": [
+    {
+      "sentence": "The truncated version of the argument omitted the qualification that had made it defensible.",
+      "answerChoices": [
+        { "distractor": "abbreviated", "closeness": 3, "reasoning": "Abbreviated (shortened or condensed) overlaps with truncated but the sentence emphasizes the damage to logical defensibility caused by cutting, not merely shortening." },
+        { "distractor": "condensed", "closeness": 3, "reasoning": "Condensed (compressed while retaining essentials) is similar to shortening but suggests compression of content, not removal of crucial qualifications." },
+        { "distractor": "edited", "closeness": 3, "reasoning": "Edited (revised or modified) is broader than the specific act of cutting; the sentence shows deletion of protective language." },
+        { "distractor": "paraphrased", "closeness": 3, "reasoning": "Paraphrased (restated in different words) involves alteration but not necessarily the removal of qualification that weakened the argument." },
+        { "distractor": "disputed", "closeness": 2, "reasoning": "Disputed (challenged or questioned) involves disagreement but not the structural problem of omitted qualification." },
+        { "distractor": "unclear", "closeness": 2, "reasoning": "Unclear (not clearly expressed) describes poor communication but not specifically the cutting of protective language." },
+        { "distractor": "simplified", "closeness": 2, "reasoning": "Simplified (made easier to understand) involves reduction but suggests making clearer, not removing necessary nuance." },
+        { "distractor": "complete", "closeness": 1, "reasoning": "Complete (whole and entire) is opposite to the cutting off that truncated implies." },
+        { "distractor": "qualified", "closeness": 1, "reasoning": "Qualified (limited by conditions) is the opposite of what truncated achieved by removing qualifications." },
+        { "distractor": "robust", "closeness": 1, "reasoning": "Robust (strong and sound) is contrary to the weakened defensibility caused by truncation." },
+        { "distractor": "elaborate", "closeness": 1, "reasoning": "Elaborate (detailed and complex) is opposite to the removal of material that occurred." }
+      ]
+    },
+    {
+      "sentence": "The report provided only a truncated account of the investigation, lacking the nuance necessary to explain the inspector's decision.",
+      "answerChoices": [
+        { "distractor": "limited", "closeness": 3, "reasoning": "Limited (restricted in scope) shares the sense of incompleteness but is broader than the specific action of cutting that truncated implies." },
+        { "distractor": "cursory", "closeness": 3, "reasoning": "Cursory (hasty and superficial) captures inadequacy but suggests rushing rather than deliberate cutting of detail." },
+        { "distractor": "partial", "closeness": 3, "reasoning": "Partial (not complete) is close but does not specifically convey the cutting off of material as truncated does." },
+        { "distractor": "vague", "closeness": 3, "reasoning": "Vague (unclear or imprecise) describes poor communication but does not indicate the cutting of portions that truncated conveys." },
+        { "distractor": "superficial", "closeness": 2, "reasoning": "Superficial (lacking depth) involves inadequate coverage but not necessarily the specific cutting of nuance." },
+        { "distractor": "misleading", "closeness": 2, "reasoning": "Misleading (causing false impression) might result from truncation but is a broader category of misrepresentation." },
+        { "distractor": "concise", "closeness": 2, "reasoning": "Concise (brief but complete) involves brevity but specifically retains essentials, unlike truncated which loses important nuance." },
+        { "distractor": "comprehensive", "closeness": 1, "reasoning": "Comprehensive (complete in scope) is the opposite of the cutting described." },
+        { "distractor": "detailed", "closeness": 1, "reasoning": "Detailed (including specific information) is contrary to the removal of nuance." },
+        { "distractor": "thorough", "closeness": 1, "reasoning": "Thorough (complete and careful) opposes the incompleteness caused by truncation." },
+        { "distractor": "precise", "closeness": 1, "reasoning": "Precise (exact and accurate) is compromised by truncation, not a fitting descriptor." }
+      ]
+    },
+    {
+      "sentence": "The sculptor's truncated composition deliberately challenged the viewer's expectation of balance, leaving the figure incomplete to provoke reflection.",
+      "answerChoices": [
+        { "distractor": "unfinished", "closeness": 3, "reasoning": "Unfinished (not completed) is similar to truncated but emphasizes incompleteness rather than the deliberate artistic cutting that the sentence describes." },
+        { "distractor": "asymmetrical", "closeness": 3, "reasoning": "Asymmetrical (lacking symmetry) describes the visual result but not specifically the cutting off of portions." },
+        { "distractor": "abstract", "closeness": 3, "reasoning": "Abstract (non-representational) involves artistic departure from expectation but not necessarily the cutting that truncated implies." },
+        { "distractor": "minimalist", "closeness": 3, "reasoning": "Minimalist (using minimal elements) shares reduction but emphasizes intentional restraint rather than cutting off parts." },
+        { "distractor": "irregular", "closeness": 2, "reasoning": "Irregular (uneven or inconsistent) describes appearance but not the action of deliberate cutting." },
+        { "distractor": "awkward", "closeness": 2, "reasoning": "Awkward (lacking grace or balance) describes the effect but not the cutting off of material." },
+        { "distractor": "fragmented", "closeness": 2, "reasoning": "Fragmented (broken into pieces) involves discontinuity but not necessarily the cutting of portions." },
+        { "distractor": "symmetrical", "closeness": 1, "reasoning": "Symmetrical (having balanced proportions) opposes the deliberate challenge to balance described." },
+        { "distractor": "polished", "closeness": 1, "reasoning": "Polished (refined and perfected) contradicts the incompleteness that truncated describes." },
+        { "distractor": "harmonious", "closeness": 1, "reasoning": "Harmonious (in agreement and accord) is opposite to the challenging, unbalanced effect." },
+        { "distractor": "organic", "closeness": 1, "reasoning": "Organic (natural and flowing) does not fit the deliberate cutting and disruption described." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "subsume",
+  "sentenceSets": [
+    {
+      "sentence": "The new framework subsumed the previous approach, incorporating its best elements while addressing its most significant limitations.",
+      "answerChoices": [
+        { "distractor": "eclipsed", "closeness": 3, "reasoning": "The sentence describes a framework that keeps the previous approach's best elements, but 'eclipsed' suggests the old approach is now completely overshadowed or no longer visible." },
+        { "distractor": "supplanted", "closeness": 3, "reasoning": "While the new framework replaces the old one, 'supplanted' implies the old approach is removed entirely, not incorporated as 'the new framework subsumed' suggests." },
+        { "distractor": "absorbed", "closeness": 3, "reasoning": "Though similar in meaning, 'absorbed' focuses on taking something in without emphasizing the hierarchical relationship of placing something within a larger structure." },
+        { "distractor": "complemented", "closeness": 3, "reasoning": "The sentence describes one framework incorporating elements of another, but 'complemented' suggests adding something additional rather than placing the old approach within the new one." },
+        { "distractor": "reformed", "closeness": 2, "reasoning": "The sentence shows a framework that incorporates and addresses limitations, but 'reformed' implies changing or restructuring something rather than including it within something larger." },
+        { "distractor": "validated", "closeness": 2, "reasoning": "The new framework does address the previous approach's limitations, but 'validated' means to confirm the truth or correctness of something, not to include it within a larger structure." },
+        { "distractor": "transcended", "closeness": 2, "reasoning": "The sentence discusses incorporating best elements, but 'transcended' means to go beyond or exceed, which doesn't capture the inclusive nature of the relationship described." },
+        { "distractor": "preserved", "closeness": 2, "reasoning": "While the best elements are kept, 'preserved' suggests maintaining something exactly as it was, not placing it within a new, broader framework." },
+        { "distractor": "rejected", "closeness": 1, "reasoning": "The new framework incorporates the previous approach's best elements, so 'rejected' is directly opposite to the inclusive relationship shown." },
+        { "distractor": "discarded", "closeness": 1, "reasoning": "The sentence explicitly states the best elements are incorporated, making 'discarded' antithetical to what the framework actually does." },
+        { "distractor": "analyzed", "closeness": 1, "reasoning": "While the framework addresses previous limitations, 'analyzed' means to examine or study, not to include something as a component within a larger structure." }
+      ]
+    },
+    {
+      "sentence": "In her thesis, Dr. Chen argued that environmental justice concerns should be subsumed within a broader framework of human rights rather than treated as a separate movement.",
+      "answerChoices": [
+        { "distractor": "integrated", "closeness": 3, "reasoning": "Though 'integrated' means to combine, it emphasizes making parts work together as equal components, while the sentence shows placing environmental justice under human rights as the larger category." },
+        { "distractor": "merged", "closeness": 3, "reasoning": "The sentence distinguishes between a larger framework (human rights) and a subordinate concern (environmental justice), but 'merged' suggests blending two equal things together." },
+        { "distractor": "coordinated", "closeness": 3, "reasoning": "'Coordinated' implies organizing separate but equivalent entities to work together, not placing one within the hierarchical structure of the other." },
+        { "distractor": "reconciled", "closeness": 3, "reasoning": "The sentence describes a hierarchical relationship where one concern belongs within another, but 'reconciled' means to resolve a conflict between two things, suggesting they were opposed." },
+        { "distractor": "emphasized", "closeness": 2, "reasoning": "Dr. Chen argues for a specific structural relationship, not simply drawing attention to environmental justice concerns." },
+        { "distractor": "promoted", "closeness": 2, "reasoning": "The sentence addresses where environmental justice belongs theoretically within a larger framework, not advocating for its advancement or encouragement." },
+        { "distractor": "recognized", "closeness": 2, "reasoning": "While the thesis treats environmental justice as serious, 'recognized' means to acknowledge something exists, not to place it within a larger conceptual structure." },
+        { "distractor": "distinguished", "closeness": 2, "reasoning": "Dr. Chen argues against keeping environmental justice separate and distinct, so 'distinguished' (meaning to mark as different) contradicts the thesis argument." },
+        { "distractor": "isolated", "closeness": 1, "reasoning": "The thesis explicitly argues against treating environmental justice separately, so 'isolated' is directly opposite to Dr. Chen's position." },
+        { "distractor": "excluded", "closeness": 1, "reasoning": "Dr. Chen advocates for including environmental justice within human rights, making 'excluded' the opposite of her argument." },
+        { "distractor": "summarized", "closeness": 1, "reasoning": "The sentence describes an argument about how to conceptually frame environmental justice, not a summary of what it contains or means." }
+      ]
+    },
+    {
+      "sentence": "After the merger, the smaller company's entire product line was subsumed into the parent corporation's distribution network, losing its independent identity.",
+      "answerChoices": [
+        { "distractor": "absorbed", "closeness": 3, "reasoning": "While 'absorbed' suggests taking something in, it doesn't emphasize the loss of independent status that comes from becoming part of a larger system, as the sentence's phrase 'losing its independent identity' does." },
+        { "distractor": "incorporated", "closeness": 3, "reasoning": "'Incorporated' focuses on bringing something into a group or organization, but doesn't capture the sense of subordination within a larger existing structure that the sentence emphasizes." },
+        { "distractor": "transferred", "closeness": 3, "reasoning": "Though the product line moves to a new distribution network, 'transferred' suggests simply moving from one place to another, not being placed within and subordinated to a larger system." },
+        { "distractor": "consolidated", "closeness": 3, "reasoning": "'Consolidated' means to combine separate units into one, but it suggests joining as an equal partner, not losing independent identity within someone else's network." },
+        { "distractor": "relocated", "closeness": 2, "reasoning": "The sentence emphasizes a loss of independent status, not simply a change in physical or organizational location." },
+        { "distractor": "transitioned", "closeness": 2, "reasoning": "While the product line undergoes a change, 'transitioned' suggests a gradual shift rather than becoming part of and subordinate to an existing larger network." },
+        { "distractor": "divested", "closeness": 2, "reasoning": "The sentence describes what happened to the smaller company's product line during a merger, not the selling or disposing of an asset." },
+        { "distractor": "delegated", "closeness": 2, "reasoning": "The sentence describes what happened to a product line as part of organizational change, not the assignment of responsibility or authority." },
+        { "distractor": "separated", "closeness": 1, "reasoning": "The product line becomes part of a larger network, so 'separated' is directly opposite to the integration described." },
+        { "distractor": "dismantled", "closeness": 1, "reasoning": "The sentence indicates the product line enters a new distribution network, not that it is taken apart or destroyed." },
+        { "distractor": "restored", "closeness": 1, "reasoning": "The sentence describes a company losing its independent identity after a merger, not regaining anything." }
+      ]
+    }
+  ]
+}

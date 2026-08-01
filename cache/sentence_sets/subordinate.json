@@ -1,0 +1,53 @@
+{
+  "word": "subordinate",
+  "sentenceSets": [
+    {
+      "sentence": "She had spent years in subordinate roles, developing a detailed knowledge of how the work actually functioned before she was asked to lead it.",
+      "answerChoices": [
+        { "distractor": "junior", "closeness": 3, "reasoning": "Junior means lower in rank or status; the sentence shows lower roles with learning benefits, but subordinate emphasizes the hierarchical position explicitly." },
+        { "distractor": "lesser", "closeness": 3, "reasoning": "Lesser means of smaller importance; the sentence shows lower roles, but subordinate emphasizes the rank position rather than importance." },
+        { "distractor": "lower", "closeness": 3, "reasoning": "Lower means at a reduced level; the sentence shows positions of lower rank, but subordinate specifically emphasizes the hierarchical relationship." },
+        { "distractor": "inferior", "closeness": 3, "reasoning": "Inferior means lower in quality or rank; the sentence shows lower roles providing learning, but subordinate emphasizes the positional ranking." },
+        { "distractor": "secondary", "closeness": 2, "reasoning": "Secondary means second in order; the sentence shows lower roles, but subordinate emphasizes the hierarchical relationship more directly." },
+        { "distractor": "minor", "closeness": 2, "reasoning": "Minor means of lesser importance; the sentence shows lower roles, but subordinate emphasizes rank position." },
+        { "distractor": "supporting", "closeness": 2, "reasoning": "Supporting means providing assistance; the sentence shows lower roles with learning, but subordinate emphasizes rank." },
+        { "distractor": "auxiliary", "closeness": 2, "reasoning": "Auxiliary means providing extra help; the sentence shows lower roles, but subordinate emphasizes rank position." },
+        { "distractor": "leading", "closeness": 1, "reasoning": "Leading means guiding or first; the sentence describes subordinate roles before being asked to lead, the opposite of leading." },
+        { "distractor": "superior", "closeness": 1, "reasoning": "Superior means higher in rank; the sentence shows subordinate roles, the opposite of superior." },
+        { "distractor": "dominant", "closeness": 1, "reasoning": "Dominant means controlling or prevailing; the sentence describes subordinate roles without authority, the opposite of dominant." }
+      ]
+    },
+    {
+      "sentence": "The company's subordinate position in the market left it vulnerable to acquisition by a larger competitor.",
+      "answerChoices": [
+        { "distractor": "weaker", "closeness": 3, "reasoning": "Weaker means less strong; the sentence shows a lower market position creating vulnerability, but subordinate emphasizes the hierarchical positioning." },
+        { "distractor": "inferior", "closeness": 3, "reasoning": "Inferior means lower in quality or rank; the sentence shows a lower market position, but subordinate emphasizes the rank relationship." },
+        { "distractor": "minor", "closeness": 3, "reasoning": "Minor means of lesser importance; the sentence shows a lower market position, but subordinate emphasizes the hierarchical relationship." },
+        { "distractor": "lesser", "closeness": 3, "reasoning": "Lesser means of smaller importance; the sentence shows lower positioning, but subordinate emphasizes rank." },
+        { "distractor": "vulnerable", "closeness": 2, "reasoning": "Vulnerable means exposed to harm; the sentence shows the result of subordinate position, not the position itself." },
+        { "distractor": "disadvantaged", "closeness": 2, "reasoning": "Disadvantaged means in an unfavorable position; the sentence shows lower market position, but subordinate emphasizes rank." },
+        { "distractor": "secondary", "closeness": 2, "reasoning": "Secondary means second in order; the sentence shows lower market position, but subordinate emphasizes the hierarchical relationship." },
+        { "distractor": "dependent", "closeness": 2, "reasoning": "Dependent means relying on something else; the sentence shows vulnerability from lower position, but subordinate emphasizes rank." },
+        { "distractor": "dominant", "closeness": 1, "reasoning": "Dominant means controlling and powerful; the sentence describes a subordinate market position vulnerable to acquisition, the opposite of dominant." },
+        { "distractor": "powerful", "closeness": 1, "reasoning": "Powerful means strong and influential; the sentence shows a subordinate position vulnerable to a larger competitor, the opposite of powerful." },
+        { "distractor": "leading", "closeness": 1, "reasoning": "Leading means first or foremost; the sentence shows a subordinate market position, the opposite of leading." }
+      ]
+    },
+    {
+      "sentence": "His willingness to subordinate personal ambitions to the team's goals earned him respect from colleagues.",
+      "answerChoices": [
+        { "distractor": "suppress", "closeness": 3, "reasoning": "Suppress means to put down or prevent; the sentence shows choosing team goals over personal ones, but subordinate emphasizes placing in a lower position while retaining." },
+        { "distractor": "sacrifice", "closeness": 3, "reasoning": "Sacrifice means to give up for something else; the sentence shows personal ambitions set aside, but subordinate emphasizes placing lower, not giving up." },
+        { "distractor": "abandon", "closeness": 3, "reasoning": "Abandon means to give up completely; the sentence shows placing personal ambitions lower, not abandoning them." },
+        { "distractor": "repress", "closeness": 3, "reasoning": "Repress means to hold back forcefully; the sentence shows placing ambitions lower, but subordinate suggests voluntary placing lower." },
+        { "distractor": "dismiss", "closeness": 2, "reasoning": "Dismiss means to reject or disregard; the sentence shows placing ambitions lower, not dismissing them." },
+        { "distractor": "ignore", "closeness": 2, "reasoning": "Ignore means to pay no attention to; the sentence shows placing personal ambitions lower, not ignoring them." },
+        { "distractor": "minimize", "closeness": 2, "reasoning": "Minimize means to make seem smaller; the sentence shows placing ambitions lower, but subordinate emphasizes ranking rather than minimizing." },
+        { "distractor": "downplay", "closeness": 2, "reasoning": "Downplay means to make seem less important; the sentence shows placing ambitions lower, but subordinate emphasizes ranking." },
+        { "distractor": "elevate", "closeness": 1, "reasoning": "Elevate means to raise to a higher level; the sentence describes subordinating personal ambitions to team goals, the opposite of elevating." },
+        { "distractor": "prioritize", "closeness": 1, "reasoning": "Prioritize means to rank as most important; the sentence shows placing personal ambitions lower than team goals, the opposite of prioritizing them." },
+        { "distractor": "advance", "closeness": 1, "reasoning": "Advance means to move forward; the sentence shows placing personal ambitions in a lower position, opposite to advancement." }
+      ]
+    }
+  ]
+}

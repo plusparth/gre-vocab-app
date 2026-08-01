@@ -1,0 +1,53 @@
+{
+  "word": "sapid",
+  "sentenceSets": [
+    {
+      "sentence": "The restaurant's sapid cuisine drew regulars who appreciated the complexity of the flavors used in each dish.",
+      "answerChoices": [
+        { "distractor": "aromatic", "closeness": 3, "reasoning": "Aromatic refers specifically to pleasant smells, whereas sapid encompasses the broader quality of having good taste; aromatic things can be sapid, but sapid doesn't necessarily imply fragrance." },
+        { "distractor": "palatable", "closeness": 3, "reasoning": "Palatable means acceptable to the taste, but it's a minimal endorsement; sapid implies rich, pronounced flavor rather than mere acceptability." },
+        { "distractor": "appetizing", "closeness": 3, "reasoning": "Appetizing refers to foods that stimulate hunger and desire to eat, while sapid describes the inherent quality of having actual, present flavor." },
+        { "distractor": "tasty", "closeness": 3, "reasoning": "Tasty is informal and means having good taste, very close to sapid, but sapid is more formally sophisticated and suggests sophisticated, nuanced flavor." },
+        { "distractor": "delicious", "closeness": 2, "reasoning": "Delicious emphasizes the pleasant and pleasing nature of taste, but sapid simply describes the presence of pronounced flavor without necessarily implying pleasure." },
+        { "distractor": "succulent", "closeness": 2, "reasoning": "Succulent describes foods that are juicy and tender, qualities related to but distinct from sapid's primary meaning of flavorful." },
+        { "distractor": "tender", "closeness": 2, "reasoning": "Tender describes texture rather than flavor, though tender foods may be more sapid overall." },
+        { "distractor": "sweet", "closeness": 2, "reasoning": "Sweet describes one specific flavor component, not the full range of flavors that sapid encompasses." },
+        { "distractor": "bland", "closeness": 1, "reasoning": "Bland means lacking flavor, the direct opposite of sapid." },
+        { "distractor": "insipid", "closeness": 1, "reasoning": "Insipid means lacking flavor or interest, the opposite of sapid." },
+        { "distractor": "dull", "closeness": 1, "reasoning": "Dull applied to food means lacking vibrant or interesting flavor, the opposite of sapid's meaning." }
+      ]
+    },
+    {
+      "sentence": "The ancient cookbook promised sapid dishes that would revive even the most jaded palate.",
+      "answerChoices": [
+        { "distractor": "exotic", "closeness": 3, "reasoning": "Exotic refers to foods from distant places that are unfamiliar, but exotic doesn't guarantee strong flavor; sapid specifically means the food is flavorful." },
+        { "distractor": "abundant", "closeness": 3, "reasoning": "Abundant means plentiful, but refers to quantity rather than the quality or strength of flavor that sapid describes." },
+        { "distractor": "authentic", "closeness": 3, "reasoning": "Authentic means true to origin, but doesn't describe the flavor itself; an authentic dish could be bland." },
+        { "distractor": "refined", "closeness": 3, "reasoning": "Refined suggests sophisticated preparation and elegance, but not necessarily the pronounced flavoring that sapid implies." },
+        { "distractor": "rich", "closeness": 2, "reasoning": "Rich can describe flavor intensity, but often refers to heavy, fatty qualities rather than the general flavorfulness that sapid denotes." },
+        { "distractor": "pungent", "closeness": 2, "reasoning": "Pungent means sharp and strong-smelling, related to but not synonymous with sapid, which includes all kinds of flavor." },
+        { "distractor": "seasoned", "closeness": 2, "reasoning": "Seasoned refers to the addition of spices, but doesn't guarantee the result is flavorful in the way sapid requires." },
+        { "distractor": "spicy", "closeness": 2, "reasoning": "Spicy describes one dimension of flavor (heat), not the broader quality of being flavorful overall." },
+        { "distractor": "stale", "closeness": 1, "reasoning": "Stale means old and no longer fresh, which would make food lose flavor and thus not be sapid." },
+        { "distractor": "rotten", "closeness": 1, "reasoning": "Rotten means decayed, opposite to the wholesome and pleasing flavorfulness sapid suggests." },
+        { "distractor": "insipid", "closeness": 1, "reasoning": "Insipid means lacking flavor, the direct opposite of sapid." }
+      ]
+    },
+    {
+      "sentence": "Critics dismissed the wine as overpriced and not particularly sapid, lacking the depth that justified the expense.",
+      "answerChoices": [
+        { "distractor": "aged", "closeness": 3, "reasoning": "Aged wine is valued for having developed over time, but age doesn't guarantee sapidity; an aged wine could still taste thin or hollow." },
+        { "distractor": "robust", "closeness": 3, "reasoning": "Robust describes a wine's full-bodied character and strength, related to but distinct from sapid, which focuses on the presence of flavor." },
+        { "distractor": "complex", "closeness": 3, "reasoning": "Complex describes wines with multiple flavor layers, a quality that enhances sapidity but is not the same as simply being flavorful." },
+        { "distractor": "balanced", "closeness": 3, "reasoning": "Balanced refers to the harmony among a wine's elements, but doesn't describe whether the wine has pronounced, satisfying flavor." },
+        { "distractor": "smooth", "closeness": 2, "reasoning": "Smooth describes texture and lack of harshness, qualities pleasant in wine but not the same as having pronounced flavor." },
+        { "distractor": "dry", "closeness": 2, "reasoning": "Dry describes residual sugar content, a technical characteristic rather than a measure of flavorfulness." },
+        { "distractor": "refined", "closeness": 2, "reasoning": "Refined suggests elegant, subtle qualities, but can apply to bland wines if they're subtly balanced." },
+        { "distractor": "light", "closeness": 2, "reasoning": "Light describes a wine's body weight, not its flavor intensity or flavorfulness." },
+        { "distractor": "vinegary", "closeness": 1, "reasoning": "Vinegary means sour and spoiled, a defect opposite to the positive flavorfulness sapid conveys." },
+        { "distractor": "flat", "closeness": 1, "reasoning": "Flat means dull and lifeless in flavor, opposite to sapid's meaning of flavorful." },
+        { "distractor": "watery", "closeness": 1, "reasoning": "Watery means thin and without substance, the opposite of sapid." }
+      ]
+    }
+  ]
+}

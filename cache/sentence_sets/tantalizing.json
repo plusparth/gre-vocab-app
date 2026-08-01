@@ -1,0 +1,53 @@
+{
+  "word": "tantalizing",
+  "sentenceSets": [
+    {
+      "sentence": "The tantalizing aroma of fresh bread from the bakery drew hungry customers through the door, even if the loaves inside rarely matched the promise of the smell.",
+      "answerChoices": [
+        { "distractor": "pleasant", "closeness": 3, "reasoning": "Pleasant means agreeable or delightful, but tantalizing specifically implies arousing desire or interest while withholding full satisfaction; a pleasant smell doesn't necessarily create that tension." },
+        { "distractor": "fragrant", "closeness": 3, "reasoning": "Fragrant means having a sweet or pleasant smell, but the key to tantalizing is not just the pleasantness but the arousal of desire for something unobtainable or disappointing." },
+        { "distractor": "enticing", "closeness": 3, "reasoning": "Enticing means attracting or tempting, and while tantalizing does entice, it adds the element of creating desire that leads to disappointment or frustration." },
+        { "distractor": "appetizing", "closeness": 3, "reasoning": "Appetizing means stimulating the appetite, but the sentence shows the smell creates expectations that the actual bread doesn't meet; tantalizing implies false or unfulfilled promise." },
+        { "distractor": "savory", "closeness": 2, "reasoning": "Savory means having a salty or spicy taste, but the aroma is what's described, and savory refers to taste, not the quality of creating desire and disappointment." },
+        { "distractor": "inviting", "closeness": 2, "reasoning": "Inviting means offering warm welcome or attracting, but tantalizing specifically involves the contrast between expectation and reality that the sentence emphasizes." },
+        { "distractor": "irresistible", "closeness": 2, "reasoning": "Irresistible means impossible to resist, but the sentence's point is the gap between the smell and the actual product; tantalizing captures this tension better." },
+        { "distractor": "ambrosial", "closeness": 2, "reasoning": "Ambrosial means divine or excellent, but the sentence suggests the smell is better than the reality; tantalizing better captures this deceptive quality." },
+        { "distractor": "repulsive", "closeness": 1, "reasoning": "Repulsive means disgusting or offensive, which is opposite to the positive effect of the aroma drawing customers in." },
+        { "distractor": "faint", "closeness": 1, "reasoning": "Faint means weak or barely perceptible; the sentence shows a strong aroma that powerfully attracts customers, not a weak one." },
+        { "distractor": "rancid", "closeness": 1, "reasoning": "Rancid means sour or decayed, which would repel customers; the sentence shows the aroma attracting people, not repelling them." }
+      ]
+    },
+    {
+      "sentence": "The research team discovered tantalizing evidence of microbial life in the deep-sea samples, though the data remained ambiguous enough that skeptics could dismiss it.",
+      "answerChoices": [
+        { "distractor": "compelling", "closeness": 3, "reasoning": "Compelling means forceful and convincing, but the sentence emphasizes that the evidence can be dismissed; tantalizing implies something that stimulates interest but doesn't prove anything decisively." },
+        { "distractor": "suggestive", "closeness": 3, "reasoning": "Suggestive means implying or hinting at something, which overlaps with tantalizing, but tantalizing adds the quality of arousing desire or interest, not just suggesting." },
+        { "distractor": "intriguing", "closeness": 3, "reasoning": "Intriguing means fascinating or arousing curiosity, and while tantalizing does this, it specifically involves presenting something that remains out of reach or unresolved." },
+        { "distractor": "promising", "closeness": 3, "reasoning": "Promising means giving reason to expect success, but the sentence shows the evidence can be dismissed; tantalizing better captures the sense of aroused interest without conclusive proof." },
+        { "distractor": "suspicious", "closeness": 2, "reasoning": "Suspicious means questionable or doubtful, but the sentence emphasizes the interest aroused rather than raising doubts about the evidence's nature." },
+        { "distractor": "remarkable", "closeness": 2, "reasoning": "Remarkable means worthy of attention, but tantalizing specifically involves creating unfulfilled desire or interest, not just being noteworthy." },
+        { "distractor": "provisional", "closeness": 2, "reasoning": "Provisional means temporary pending further confirmation, but the sentence requires a word describing the quality of arousing interest, not the status of preliminary findings." },
+        { "distractor": "inconclusive", "closeness": 2, "reasoning": "Inconclusive means not settling a question, but this is too neutral; tantalizing adds the element of arousing desire or curiosity specifically." },
+        { "distractor": "definitive", "closeness": 1, "reasoning": "Definitive means final and conclusive, which contradicts the sentence's emphasis on evidence that remains ambiguous and dismissible." },
+        { "distractor": "fraudulent", "closeness": 1, "reasoning": "Fraudulent means deceptive or false; the sentence suggests the evidence is genuine but ambiguous, not fake or fraudulent." },
+        { "distractor": "irrelevant", "closeness": 1, "reasoning": "Irrelevant means having no bearing on the matter; the evidence clearly matters to the team and generates interest, so it's highly relevant." }
+      ]
+    },
+    {
+      "sentence": "The film's opening act presents tantalizing character relationships—alliances, betrayals, mysteries about the past—that the rest of the story fails to adequately explore or resolve.",
+      "answerChoices": [
+        { "distractor": "complex", "closeness": 3, "reasoning": "Complex means composed of many interconnected parts, but tantalizing specifically conveys that these relationships arouse interest precisely because they're not fully developed." },
+        { "distractor": "intricate", "closeness": 3, "reasoning": "Intricate means detailed and complicated, but the sentence emphasizes the unresolved nature; tantalizing implies aroused interest that later disappointment frustrates." },
+        { "distractor": "mysterious", "closeness": 3, "reasoning": "Mysterious means puzzling or not fully understood, and while tantalizing relationships may be mysterious, tantalizing adds the element of aroused desire for resolution." },
+        { "distractor": "compelling", "closeness": 3, "reasoning": "Compelling means forcefully interesting, but the sentence shows the promise isn't fulfilled; tantalizing specifically implies interest that remains unfulfilled." },
+        { "distractor": "dramatic", "closeness": 2, "reasoning": "Dramatic means striking or impressive, but the sentence requires a word conveying aroused interest that isn't satisfied, not just dramatic presentation." },
+        { "distractor": "suggestive", "closeness": 2, "reasoning": "Suggestive means implying rather than stating clearly, but tantalizing goes further—it involves active arousal of desire, not just implication." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "Ambiguous means open to multiple interpretations, but the problem isn't the ambiguity itself; it's that the relationships arouse interest the narrative doesn't address." },
+        { "distractor": "elaborate", "closeness": 2, "reasoning": "Elaborate means detailed and ornate, but the sentence's criticism is not about elaborateness but about unresolved promise." },
+        { "distractor": "mundane", "closeness": 1, "reasoning": "Mundane means ordinary or dull, which is opposite to the interesting relationships that draw viewers' interest in the opening." },
+        { "distractor": "irrelevant", "closeness": 1, "reasoning": "Irrelevant means having no bearing on the matter, but the relationships clearly matter and intrigue viewers, so they're central to the narrative." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "Transparent means easily understood, but the sentence describes relationships that include mysteries and unresolved elements, not transparent ones." }
+      ]
+    }
+  ]
+}

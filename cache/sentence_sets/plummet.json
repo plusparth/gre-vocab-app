@@ -1,0 +1,53 @@
+{
+  "word": "plummet",
+  "sentenceSets": [
+    {
+      "sentence": "Confidence in the institution plummeted after the disclosure, and restoring it took considerably longer than the event that had damaged it.",
+      "answerChoices": [
+        { "distractor": "declined", "closeness": 3, "reasoning": "Declined means decreased or fell, but it suggests a gradual drop rather than the sudden, sharp collapse implied by plummeted." },
+        { "distractor": "eroded", "closeness": 3, "reasoning": "Eroded means wore away gradually, but it emphasizes a slow process of deterioration rather than the sudden, sharp descent required by the sentence." },
+        { "distractor": "faltered", "closeness": 3, "reasoning": "Faltered means became less confident or strong, but it suggests hesitation or weakness rather than the sudden collapse required." },
+        { "distractor": "waned", "closeness": 3, "reasoning": "Waned means decreased or faded gradually, but it emphasizes a gradual diminution rather than the sharp, sudden drop implied by the sentence." },
+        { "distractor": "diminished", "closeness": 2, "reasoning": "Diminished means became smaller or less, but it is neutral and does not convey the sudden, dramatic collapse implied by the disclosure." },
+        { "distractor": "shrank", "closeness": 2, "reasoning": "Shrank means became smaller, but it does not carry the sense of sudden, precipitous collapse that the sentence requires." },
+        { "distractor": "collapsed", "closeness": 2, "reasoning": "Collapsed means fell suddenly or completely, which is close, but it is a structural metaphor and lacks the sense of falling or dropping vertically." },
+        { "distractor": "stabilized", "closeness": 1, "reasoning": "Stabilized means became steady or constant, which directly contradicts the sense of sharp decline required by the sentence." },
+        { "distractor": "recovered", "closeness": 1, "reasoning": "Recovered means regained or bounced back, which is the opposite of the sudden collapse in confidence required by the sentence." },
+        { "distractor": "strengthened", "closeness": 1, "reasoning": "Strengthened means became stronger or more robust, which contradicts the collapse in confidence following the disclosure." },
+        { "distractor": "intensified", "closeness": 1, "reasoning": "Intensified means became stronger or more pronounced, which is the opposite of the collapse in confidence required by the sentence." }
+      ]
+    },
+    {
+      "sentence": "Stock prices plummeted when the company revealed that its flagship product had been contaminated by a manufacturing defect.",
+      "answerChoices": [
+        { "distractor": "declined", "closeness": 3, "reasoning": "Declined means decreased, but it suggests a gradual drop rather than the sudden, dramatic collapse implied by plummeted." },
+        { "distractor": "dropped", "closeness": 3, "reasoning": "Dropped means fell suddenly, which is close, but it is more neutral and does not convey the same sense of sharp, rapid vertical descent." },
+        { "distractor": "fell", "closeness": 3, "reasoning": "Fell means went down, which is close, but it is less specific and does not emphasize the same sense of sudden, steep descent." },
+        { "distractor": "tumbled", "closeness": 3, "reasoning": "Tumbled means fell or rolled downward, which is close, but it suggests an uncontrolled rolling motion rather than a straight vertical drop." },
+        { "distractor": "dipped", "closeness": 2, "reasoning": "Dipped means went down briefly or slightly, but it implies a smaller, more temporary decline than the sharp collapse required by the context." },
+        { "distractor": "sagged", "closeness": 2, "reasoning": "Sagged means hung down or sank, but it suggests a gradual weakening rather than the sudden, sharp collapse due to the product defect." },
+        { "distractor": "slumped", "closeness": 2, "reasoning": "Slumped means fell heavily or declined, but it does not carry the same sense of dramatic, perpendicular descent implied by plummeted." },
+        { "distractor": "soared", "closeness": 1, "reasoning": "Soared means rose rapidly or climbed, which directly contradicts the collapse in stock prices following the defect revelation." },
+        { "distractor": "stabilized", "closeness": 1, "reasoning": "Stabilized means became steady or constant, which contradicts the sharp decline in stock prices required by the sentence." },
+        { "distractor": "surged", "closeness": 1, "reasoning": "Surged means rose suddenly or forcefully, which is the opposite of the collapse in stock prices required by the disclosure." },
+        { "distractor": "fluctuated", "closeness": 1, "reasoning": "Fluctuated means varied up and down, which does not convey the directional collapse or sharp downward movement required." }
+      ]
+    },
+    {
+      "sentence": "The climber lost his grip and plummeted fifty feet down the rock face before his safety line arrested his fall.",
+      "answerChoices": [
+        { "distractor": "fell", "closeness": 3, "reasoning": "Fell means went down, which is close, but it is less specific and does not emphasize the vertical speed and distance of the fall." },
+        { "distractor": "dropped", "closeness": 3, "reasoning": "Dropped means fell suddenly, which is close, but it is less dynamic and does not convey the same sense of rapid descent through air." },
+        { "distractor": "tumbled", "closeness": 3, "reasoning": "Tumbled means fell or rolled downward, which is close, but it suggests an uncontrolled rolling motion rather than a straight vertical plunge." },
+        { "distractor": "descended", "closeness": 3, "reasoning": "Descended means went down, which is close, but it is more gradual and controlled than the sudden, uncontrolled fall that plummeted implies." },
+        { "distractor": "slipped", "closeness": 2, "reasoning": "Slipped means lost footing or fell unintentionally, but it does not convey the sense of rapid, vertical descent over a great distance." },
+        { "distractor": "dove", "closeness": 2, "reasoning": "Dove means plunged or descended quickly, but it suggests a deliberate action rather than the uncontrolled fall required by the context." },
+        { "distractor": "hurled", "closeness": 2, "reasoning": "Hurled means threw forcefully, but it emphasizes being thrown by external force rather than the loss of grip causing uncontrolled descent." },
+        { "distractor": "climbed", "closeness": 1, "reasoning": "Climbed means went up, which directly contradicts the downward fall required by the sentence." },
+        { "distractor": "dangled", "closeness": 1, "reasoning": "Dangled means hung suspended, which contradicts the rapid descent implied by the loss of grip and the catching of the safety line." },
+        { "distractor": "swung", "closeness": 1, "reasoning": "Swung means moved back and forth, which does not fit the context of a climber falling vertically down a rock face." },
+        { "distractor": "bounced", "closeness": 1, "reasoning": "Bounced means sprang back or rebounded, which contradicts the uncontrolled descent following the loss of grip." }
+      ]
+    }
+  ]
+}

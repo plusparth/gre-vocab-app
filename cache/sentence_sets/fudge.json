@@ -1,0 +1,53 @@
+{
+  "word": "fudge",
+  "sentenceSets": [
+    {
+      "sentence": "The committee fudged the numbers to make the forecast look more optimistic than the underlying data supported.",
+      "answerChoices": [
+        { "distractor": "falsified", "closeness": 3, "reasoning": "While 'falsified' means made false or fraudulent, the sentence shows numbers manipulated to appear more optimistic, not necessarily completely false or entirely fabricated." },
+        { "distractor": "fabricated", "closeness": 3, "reasoning": "'Fabricated' means made up or invented, which could fit, but the sentence suggests existing numbers were altered rather than invented from nothing." },
+        { "distractor": "distorted", "closeness": 3, "reasoning": "'Distorted' means twisted out of shape or misrepresented, which fits the sentence's sense of manipulating numbers, but it emphasizes warping rather than the deliberate deception inherent in fudging." },
+        { "distractor": "manipulated", "closeness": 3, "reasoning": "'Manipulated' means controlled or handled skillfully, which fits, but it can also mean simply arranging or managing, whereas 'fudge' specifically implies deceptive alteration." },
+        { "distractor": "misrepresented", "closeness": 2, "reasoning": "Misrepresenting data means showing it inaccurately, but 'misrepresented' can occur through error or omission, whereas the sentence implies deliberate deception." },
+        { "distractor": "exaggerated", "closeness": 2, "reasoning": "While exaggeration could be part of the deception, 'exaggerated' refers to overstating without necessarily falsifying, whereas 'fudge' implies deliberately manipulative alteration." },
+        { "distractor": "inflated", "closeness": 2, "reasoning": "'Inflated' means artificially increased, which fits the optimistic forecast, but it emphasizes swelling rather than the deliberate manipulation implied by fudging." },
+        { "distractor": "altered", "closeness": 2, "reasoning": "The numbers were altered, but 'altered' is a neutral term for changing without specifying the deceptive intent that 'fudge' conveys." },
+        { "distractor": "corrected", "closeness": 1, "reasoning": "The committee made the numbers appear more optimistic, the opposite of correcting data to be accurate." },
+        { "distractor": "verified", "closeness": 1, "reasoning": "The sentence shows numbers being manipulated, not verified or confirmed for accuracy." },
+        { "distractor": "confirmed", "closeness": 1, "reasoning": "Confirming data would mean establishing its accuracy, opposite to deliberately making it appear more optimistic than it should." }
+      ]
+    },
+    {
+      "sentence": "The auditor suspected that the company had fudged its expense reports to overstate deductions.",
+      "answerChoices": [
+        { "distractor": "doctored", "closeness": 3, "reasoning": "'Doctored' means altered or tampered with, which fits expense reports being falsified, but it refers to altering a document rather than the deliberate deception of fudging." },
+        { "distractor": "forged", "closeness": 3, "reasoning": "'Forged' means created fraudulently, which fits false reports, but it emphasizes counterfeiting a document rather than manipulating existing figures." },
+        { "distractor": "padded", "closeness": 3, "reasoning": "'Padded' means inflated with unnecessary items, which fits overstating deductions, but it focuses on adding unnecessary amounts rather than the broader deception of fudging." },
+        { "distractor": "cooked", "closeness": 3, "reasoning": "'Cooked' as in 'cooked the books' means falsified accounts, which fits closely, but it specifically refers to financial fraud rather than the more general manipulation of fudging." },
+        { "distractor": "misreported", "closeness": 2, "reasoning": "'Misreported' means reported inaccurately, but it can occur through error or incompetence, whereas fudging implies deliberate and skillful deception." },
+        { "distractor": "misstated", "closeness": 2, "reasoning": "'Misstated' means stated incorrectly, but it doesn't necessarily imply the deliberate intent to deceive that fudging suggests." },
+        { "distractor": "concealed", "closeness": 2, "reasoning": "To overstate deductions involves concealing the true amounts, but 'concealed' refers to hiding rather than the falsification itself." },
+        { "distractor": "hidden", "closeness": 2, "reasoning": "'Hidden' means kept out of sight, but the sentence emphasizes overstating amounts in reports rather than simply hiding them." },
+        { "distractor": "audited", "closeness": 1, "reasoning": "The auditor suspects the reports were fudged; auditing reports means examining them for accuracy, the opposite of falsifying them." },
+        { "distractor": "disclosed", "closeness": 1, "reasoning": "Disclosing expense reports means revealing them accurately, opposite to fudging them to overstate deductions." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "Transparent reports would show accurate information, contradicting reports that overstate deductions through fudging." }
+      ]
+    },
+    {
+      "sentence": "Rather than admit she didn't know the answer, she decided to fudge her way through the interview by using vague business jargon.",
+      "answerChoices": [
+        { "distractor": "bluffed", "closeness": 3, "reasoning": "'Bluffed' means deceived by pretending, which fits the sentence, but it emphasizes the act of deception itself rather than the specific method of using vague language." },
+        { "distractor": "improvised", "closeness": 3, "reasoning": "'Improvised' means created extemporaneously, which fits making up answers, but it doesn't necessarily imply the deceptive intent inherent in fudging." },
+        { "distractor": "muddled", "closeness": 3, "reasoning": "'Muddled' means made unclear or confused, which could describe using vague jargon, but it emphasizes confusion rather than deliberate deceptive evasion." },
+        { "distractor": "skirted", "closeness": 3, "reasoning": "'Skirted' means avoided or went around, which fits avoiding admitting ignorance, but it refers to avoiding something rather than the active deception of fudging." },
+        { "distractor": "evaded", "closeness": 2, "reasoning": "'Evaded' means avoided or escaped, which fits not admitting ignorance, but it emphasizes avoidance rather than the deliberate deceptive performance." },
+        { "distractor": "dodged", "closeness": 2, "reasoning": "'Dodged' means avoided or sidestepped, but the sentence shows active deception with vague jargon, not just avoidance." },
+        { "distractor": "deflected", "closeness": 2, "reasoning": "'Deflected' means turned aside or diverted, which fits avoiding the question, but it refers to directing attention elsewhere rather than falsifying answers." },
+        { "distractor": "avoided", "closeness": 2, "reasoning": "'Avoided' means stayed away from, but the sentence emphasizes actively deceiving through jargon rather than simply not engaging." },
+        { "distractor": "clarified", "closeness": 1, "reasoning": "Using vague jargon to fudge answers is the opposite of clarifying, which means making clear and understandable." },
+        { "distractor": "explained", "closeness": 1, "reasoning": "She decided to fudge rather than explain, so explaining would be opposite to her chosen approach." },
+        { "distractor": "addressed", "closeness": 1, "reasoning": "The sentence shows her avoiding addressing her ignorance by using vague language, not directly addressing the question." }
+      ]
+    }
+  ]
+}

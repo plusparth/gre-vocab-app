@@ -1,0 +1,53 @@
+{
+  "word": "gouge",
+  "sentenceSets": [
+    {
+      "sentence": "The pricing structure gouged customers who had no alternative supplier within a reasonable distance.",
+      "answerChoices": [
+        { "distractor": "overcharge", "closeness": 3, "reasoning": "Nearly identical meaning—both mean charging far above fair value—but 'overcharge' is neutral and technical, while 'gouge' specifically conveys exploitation of customers trapped by lack of alternatives." },
+        { "distractor": "fleece", "closeness": 3, "reasoning": "Both mean extracting money unfairly, but 'fleece' typically implies deception or trickery, whereas this sentence describes overt abuse of market position without any hidden scheme." },
+        { "distractor": "extort", "closeness": 3, "reasoning": "Both exploit victims' lack of options, but 'extort' implies threats or criminal coercion, while this sentence shows straightforward pricing abuse of captive consumers." },
+        { "distractor": "bleed", "closeness": 3, "reasoning": "Both mean to extract money ruthlessly, but 'bleed' typically implies sustained gradual draining over time, while 'gouge' in this sentence suggests a structural pricing policy imposed all at once." },
+        { "distractor": "cheat", "closeness": 2, "reasoning": "Cheating involves deception, but the sentence describes a transparent pricing structure, not a false claim or hidden scheme." },
+        { "distractor": "rob", "closeness": 2, "reasoning": "Robbery implies taking without payment, but the customers still receive service; they are overcharged, not stolen from." },
+        { "distractor": "swindle", "closeness": 2, "reasoning": "Both involve fraudulent extraction of money, but 'swindle' emphasizes the deception, whereas this sentence's core problem is the predatory pricing structure itself." },
+        { "distractor": "pilfer", "closeness": 2, "reasoning": "Pilfering means stealing small amounts in petty ways, but this describes large-scale systematic pricing abuse." },
+        { "distractor": "discount", "closeness": 1, "reasoning": "Discounts reduce prices, the opposite of gouging's excessive pricing." },
+        { "distractor": "subsidize", "closeness": 1, "reasoning": "Subsidizing means supporting with lower prices, contrary to the exploitation described." },
+        { "distractor": "undercut", "closeness": 1, "reasoning": "Undercutting means offering lower prices than competitors, the reverse of exploiting customers through high pricing." }
+      ]
+    },
+    {
+      "sentence": "The contractor would gouge homeowners by citing fake emergency repairs that quadrupled the original estimate.",
+      "answerChoices": [
+        { "distractor": "swindle", "closeness": 3, "reasoning": "Both involve fraudulent extraction of money, but 'swindle' focuses on the deception itself, whereas 'gouge' emphasizes exploitation of the homeowner's emergency desperation." },
+        { "distractor": "inflate", "closeness": 3, "reasoning": "Both artificially raise prices, but 'inflate' is neutral about intent, while 'gouge' in this sentence implies predatory targeting of vulnerable customers in crisis." },
+        { "distractor": "fleece", "closeness": 3, "reasoning": "Both exploit victims unfairly, but 'fleece' typically implies skillful, subtle deception, whereas this sentence's wrongdoing is brazen fake claims anyone could verify." },
+        { "distractor": "pressure", "closeness": 3, "reasoning": "The contractor exploits the pressure of emergency, but 'pressure' means applying coercive force, whereas 'gouge' is about overcharging, not compelling someone to hire you." },
+        { "distractor": "mischarge", "closeness": 2, "reasoning": "Mischarging implies a mistake or honest error, whereas the sentence makes clear the fake emergency repairs are deliberate fraud." },
+        { "distractor": "upcharge", "closeness": 2, "reasoning": "'Upcharge' simply means adding to a price, which is neutral; it doesn't capture the fraudulent fake claims that are central to the sentence." },
+        { "distractor": "bilk", "closeness": 2, "reasoning": "To bilk means to cheat someone of money, similar to swindle, but bilking emphasizes theft of funds rather than the specific mechanism of fake repair claims." },
+        { "distractor": "understate", "closeness": 2, "reasoning": "The sentence describes exaggerated (quadrupled) estimates; understating would be the opposite action." },
+        { "distractor": "reimburse", "closeness": 1, "reasoning": "Reimbursement means repaying someone, contrary to extracting money through fake claims." },
+        { "distractor": "refund", "closeness": 1, "reasoning": "Refunds return money; completely contrary to fraudulent overcharging." },
+        { "distractor": "compensate", "closeness": 1, "reasoning": "Compensation means paying fairly; opposite to exploiting homeowners through false invoices." }
+      ]
+    },
+    {
+      "sentence": "During the recession, utility companies began to gouge rates on essential services, knowing desperate consumers had nowhere else to turn.",
+      "answerChoices": [
+        { "distractor": "spike", "closeness": 3, "reasoning": "Both mean to suddenly raise prices dramatically, but 'spike' is neutral about intent or moral judgment, while 'gouge' specifically conveys predatory targeting of captive customers." },
+        { "distractor": "jack-up", "closeness": 3, "reasoning": "Both mean to raise prices sharply, but 'jack-up' is more colloquial and lacks the moral condemnation of exploiting desperate people that 'gouge' carries." },
+        { "distractor": "escalate", "closeness": 3, "reasoning": "Both involve raising amounts, but 'escalate' is neutral and applies broadly; 'gouge' specifically means to exploit someone's desperation on essential services." },
+        { "distractor": "leverage", "closeness": 3, "reasoning": "The companies 'leverage' the recession (exploit their market advantage), but 'leverage' is a neutral term for using one's position; 'gouge' implies predatory pricing." },
+        { "distractor": "squeeze", "closeness": 2, "reasoning": "'Squeeze' implies applying pressure or forcing payment, but the sentence describes pricing policy set by the company, not coercion of individuals." },
+        { "distractor": "extort", "closeness": 2, "reasoning": "Extortion requires threats or criminal coercion; the utilities raise rates openly through policy, not through illegal compulsion." },
+        { "distractor": "defraud", "closeness": 2, "reasoning": "Fraud requires deception, but the rate increases are overt policy changes, not hidden schemes." },
+        { "distractor": "loot", "closeness": 2, "reasoning": "Looting implies theft of property or goods, but the sentence describes systematic price increases on services." },
+        { "distractor": "stabilize", "closeness": 1, "reasoning": "Stabilizing rates keeps them steady, opposite to dramatically increasing them as gouging requires." },
+        { "distractor": "regulate", "closeness": 1, "reasoning": "Regulation typically controls prices to prevent gouging, so regulating prices is opposite to the uncontrolled exploitation described." },
+        { "distractor": "subsidize", "closeness": 1, "reasoning": "Subsidies reduce costs; contrary to the rate increases that gouging implies." }
+      ]
+    }
+  ]
+}

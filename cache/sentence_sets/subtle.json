@@ -1,0 +1,53 @@
+{
+  "word": "subtle",
+  "sentenceSets": [
+    {
+      "sentence": "The cellist's interpretation of the sonata revealed subtle variations in tempo that most listeners would not consciously notice but would feel as musical refinement.",
+      "answerChoices": [
+        { "distractor": "imperceptible", "closeness": 3, "reasoning": "While the variations are not consciously noticed, the sentence indicates that listeners 'would feel' them, meaning they are perceptible at some level, unlike truly 'imperceptible' things." },
+        { "distractor": "nuanced", "closeness": 3, "reasoning": "'Nuanced' describes something with multiple refined shades of meaning, but the sentence specifically emphasizes variations that are barely noticeable rather than multiple simultaneous layers." },
+        { "distractor": "understated", "closeness": 3, "reasoning": "'Understated' means deliberately downplayed or muted, but the sentence describes variations that escape conscious notice naturally, not through deliberate restraint." },
+        { "distractor": "delicate", "closeness": 3, "reasoning": "While 'delicate' can mean finely wrought or refined, it emphasizes fragility and gentleness more than the elusive quality of barely perceptible changes." },
+        { "distractor": "quiet", "closeness": 2, "reasoning": "The sentence describes tempo variations, not the volume or sound level, so 'quiet' misses the nature of what makes them subtle." },
+        { "distractor": "restrained", "closeness": 2, "reasoning": "Though subtle variations may be restrained in scope, the sentence emphasizes their difficulty to perceive, not their limited or controlled quality." },
+        { "distractor": "refined", "closeness": 2, "reasoning": "The variations show musical refinement, but 'refined' describes the quality of the interpretation, not the variations' essential property of being barely noticeable." },
+        { "distractor": "intricate", "closeness": 2, "reasoning": "'Intricate' means having many interconnected parts, but the sentence describes something barely noticed, not something complex with many details." },
+        { "distractor": "obvious", "closeness": 1, "reasoning": "The variations are explicitly not consciously noticed by most listeners, making 'obvious' directly opposite." },
+        { "distractor": "loud", "closeness": 1, "reasoning": "The sentence describes variations that listeners do not consciously notice, so 'loud' (in the figurative sense of prominent) contradicts this." },
+        { "distractor": "gross", "closeness": 1, "reasoning": "The sentence emphasizes refinement and variations most would miss, while 'gross' suggests crude or obvious things." }
+      ]
+    },
+    {
+      "sentence": "The painter's use of cool grays and soft blue shadows created a subtle mood of melancholy without ever depicting sadness directly.",
+      "answerChoices": [
+        { "distractor": "muted", "closeness": 3, "reasoning": "Though cool colors are muted in intensity, 'muted' emphasizes dampened sound or tone, while the sentence focuses on an elusive mood created through color choices." },
+        { "distractor": "understated", "closeness": 3, "reasoning": "'Understated' suggests deliberate avoidance of emphasis, but the sentence shows the mood emerges from color choice naturally, implying it's not overtly downplayed but genuinely understated." },
+        { "distractor": "veiled", "closeness": 3, "reasoning": "While the mood is somewhat hidden, 'veiled' suggests something deliberately covered or hidden, whereas the sentence implies the mood emerges naturally through color." },
+        { "distractor": "implied", "closeness": 3, "reasoning": "The mood is suggested rather than shown directly, but 'implied' suggests explicit intention to communicate, while the sentence emphasizes the mood's elusive emergence." },
+        { "distractor": "pale", "closeness": 2, "reasoning": "The colors used are cool and soft, but 'pale' describes a specific quality of light intensity, not the mood's elusiveness." },
+        { "distractor": "mournful", "closeness": 2, "reasoning": "The sentence describes a melancholy mood, but 'mournful' implies active expression of grief, not the gentle, almost-imperceptible quality the painting creates." },
+        { "distractor": "mysterious", "closeness": 2, "reasoning": "While the mood is not directly shown, 'mysterious' suggests something unknown or puzzling, whereas the painting creates a recognizable mood of melancholy." },
+        { "distractor": "restrained", "closeness": 2, "reasoning": "The painter uses certain colors, but 'restrained' suggests limited artistic choices, while the sentence shows deliberate color selection for effect." },
+        { "distractor": "explicit", "closeness": 1, "reasoning": "The sentence emphasizes the mood is not depicted directly, making 'explicit' (directly shown) the opposite of what occurs." },
+        { "distractor": "cheerful", "closeness": 1, "reasoning": "The sentence describes a melancholy mood, making 'cheerful' antithetical." },
+        { "distractor": "obvious", "closeness": 1, "reasoning": "The mood emerges without direct depiction, so it's not obvious; something that obvious would be directly shown." }
+      ]
+    },
+    {
+      "sentence": "The diplomat noticed a subtle shift in the negotiating position—a change of wording, a different emphasis—that suggested the other side might be willing to compromise.",
+      "answerChoices": [
+        { "distractor": "slight", "closeness": 3, "reasoning": "While 'slight' means small in degree, it doesn't capture the difficulty of detecting the change or its elusive nature, just its magnitude." },
+        { "distractor": "minor", "closeness": 3, "reasoning": "'Minor' emphasizes small importance, but the sentence shows the diplomat interpreting meaning from barely perceptible signs, not assessing importance." },
+        { "distractor": "gradual", "closeness": 3, "reasoning": "'Gradual' suggests occurring slowly over time, but the sentence describes noticing a shift that has already occurred, not a slow process." },
+        { "distractor": "hidden", "closeness": 3, "reasoning": "The shift is noticed by the attentive diplomat, so it's not completely hidden; 'subtle' captures something barely perceptible but observable." },
+        { "distractor": "cryptic", "closeness": 2, "reasoning": "While the shift requires careful interpretation, 'cryptic' suggests deliberately coded or puzzling language, whereas the changes in wording may not be intentionally obscure." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "The diplomat interprets the shift as a positive sign, suggesting clarity rather than ambiguity about its meaning." },
+        { "distractor": "tentative", "closeness": 2, "reasoning": "While the other side's willingness to compromise is uncertain, 'tentative' describes the quality of a position, not the change itself." },
+        { "distractor": "abrupt", "closeness": 2, "reasoning": "A shift in wording and emphasis that's barely noticeable would not be abrupt, which suggests sudden and noticeable change." },
+        { "distractor": "obvious", "closeness": 1, "reasoning": "The diplomat has to carefully notice the shift in wording and emphasis, so it's not obvious." },
+        { "distractor": "permanent", "closeness": 1, "reasoning": "The sentence describes a tactical shift in negotiation, not an established or unchanging position." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "A shift requiring close attention to detect is not transparent or easily understood." }
+      ]
+    }
+  ]
+}

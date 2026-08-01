@@ -1,0 +1,53 @@
+{
+  "word": "telling",
+  "sentenceSets": [
+    {
+      "sentence": "The most telling evidence was not what had been documented but what had not been.",
+      "answerChoices": [
+        { "distractor": "obscure", "closeness": 3, "reasoning": "Obscure means unclear or hidden; the sentence describes evidence that was most revealing through its absence, opposite of unclear." },
+        { "distractor": "trivial", "closeness": 3, "reasoning": "Trivial means unimportant or insignificant; the sentence describes evidence that produced the greatest effect, opposite of trivial." },
+        { "distractor": "contradictory", "closeness": 3, "reasoning": "Contradictory means conflicting but does not describe effectiveness or significance; the sentence emphasizes the striking effect of omission." },
+        { "distractor": "supplementary", "closeness": 3, "reasoning": "Supplementary means additional or supportive but does not convey the sense of being most effective; the sentence emphasizes primary importance." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "Ambiguous means unclear or having multiple meanings but the sentence shows evidence producing a marked effect through clarity of omission." },
+        { "distractor": "disputed", "closeness": 2, "reasoning": "Disputed means contested or debated but does not address effectiveness; the sentence emphasizes impact of what was absent." },
+        { "distractor": "circumstantial", "closeness": 2, "reasoning": "Circumstantial means indirect or circumstantial but does not convey the sense of greatest impact or significance." },
+        { "distractor": "conclusive", "closeness": 2, "reasoning": "Conclusive means proving something definitively but overlaps with 'telling'; the sentence emphasizes the revealing nature of absence." },
+        { "distractor": "minor", "closeness": 1, "reasoning": "Minor means small in importance; the sentence describes the most striking and important evidence." },
+        { "distractor": "fabricated", "closeness": 1, "reasoning": "Fabricated means invented or false; the sentence discusses evidence, which is real information." },
+        { "distractor": "irrelevant", "closeness": 1, "reasoning": "Irrelevant means not related or important; the sentence describes evidence that was most important and produced marked effect." }
+      ]
+    },
+    {
+      "sentence": "Her silence during the meeting was more telling than hours of explanation would have been; in that one omission lay an admission of guilt.",
+      "answerChoices": [
+        { "distractor": "deceptive", "closeness": 3, "reasoning": "Deceptive means misleading or false but the sentence shows her silence was revealing and truthful ('admission of guilt')." },
+        { "distractor": "superficial", "closeness": 3, "reasoning": "Superficial means shallow or lacking depth but the sentence shows her silence carried profound meaning and significance." },
+        { "distractor": "negligible", "closeness": 3, "reasoning": "Negligible means unimportant or insignificant; the sentence shows her silence was more effective than lengthy explanation." },
+        { "distractor": "cryptic", "closeness": 3, "reasoning": "Cryptic means mysterious or puzzling; the sentence shows her silence was clear and revealing in meaning, not mysterious." },
+        { "distractor": "subtle", "closeness": 2, "reasoning": "Subtle means delicate or not obvious; the sentence shows her silence clearly conveyed guilt, not just subtly hinting." },
+        { "distractor": "indirect", "closeness": 2, "reasoning": "Indirect means not straightforward but the sentence shows her silence directly and effectively communicated guilt." },
+        { "distractor": "vague", "closeness": 2, "reasoning": "Vague means unclear or imprecise; the sentence shows her silence clearly conveyed an admission." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "Ambiguous means unclear but the sentence shows the meaning was clear—an admission of guilt." },
+        { "distractor": "verbose", "closeness": 1, "reasoning": "Verbose means using many words; the sentence contrasts her silence (lack of words) with hours of explanation." },
+        { "distractor": "reassuring", "closeness": 1, "reasoning": "Reassuring means giving confidence but the sentence shows her silence conveyed an admission of guilt." },
+        { "distractor": "innocent", "closeness": 1, "reasoning": "Innocent means not guilty but the sentence shows her silence amounted to an admission of guilt." }
+      ]
+    },
+    {
+      "sentence": "The company's telling detail was its decision to outsource the division most affected by the scandal, suggesting it sought to evade accountability rather than address problems.",
+      "answerChoices": [
+        { "distractor": "irrelevant", "closeness": 3, "reasoning": "Irrelevant means not important or unrelated; the sentence shows the detail was significant in revealing intent." },
+        { "distractor": "misleading", "closeness": 3, "reasoning": "Misleading means conveying false information but the sentence shows the detail was revealing and truthful about company intent." },
+        { "distractor": "trivial", "closeness": 3, "reasoning": "Trivial means unimportant or minor; the sentence shows the detail was significant in revealing evasion of accountability." },
+        { "distractor": "unusual", "closeness": 3, "reasoning": "Unusual means uncommon but does not convey the sense of being revealing or significant about the company's intent." },
+        { "distractor": "suspicious", "closeness": 2, "reasoning": "Suspicious means arousing doubt but does not convey the clear revealing nature of the detail; the sentence shows what it clearly revealed." },
+        { "distractor": "questionable", "closeness": 2, "reasoning": "Questionable means doubtful but does not convey revealing significance; the sentence shows what was clearly disclosed." },
+        { "distractor": "concerning", "closeness": 2, "reasoning": "Concerning means worrying but does not convey the revealing or significant nature of the detail." },
+        { "distractor": "deliberate", "closeness": 2, "reasoning": "Deliberate means intentional but does not emphasize the revealing or significant quality; the sentence emphasizes what it revealed." },
+        { "distractor": "accidental", "closeness": 1, "reasoning": "Accidental means unintentional but the sentence shows the detail revealed intent to evade accountability, suggesting deliberate action." },
+        { "distractor": "ambiguous", "closeness": 1, "reasoning": "Ambiguous means unclear but the sentence shows the detail clearly revealed the company's intent." },
+        { "distractor": "exculpatory", "closeness": 1, "reasoning": "Exculpatory means clearing of blame but the sentence shows the detail revealed evasion of accountability." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "runic",
+  "sentenceSets": [
+    {
+      "sentence": "Archaeological expeditions have discovered runic inscriptions on ancient stones throughout Scandinavia, offering glimpses into the beliefs and burial practices of Germanic peoples.",
+      "answerChoices": [
+        { "distractor": "ancient", "closeness": 3, "reasoning": "Describes the age of the inscriptions; while applicable, the sentence requires identification of the specific type of alphabet used, not merely that the inscriptions are old." },
+        { "distractor": "Germanic", "closeness": 3, "reasoning": "Relates to Germanic peoples; while the context involves Germanic peoples, the sentence requires the specific term for their writing system, not just an ethnic descriptor." },
+        { "distractor": "symbolic", "closeness": 3, "reasoning": "Means representing something; while runes are symbolic, the sentence requires identification of them as a specific historical alphabet, not just as symbols in general." },
+        { "distractor": "cryptic", "closeness": 3, "reasoning": "Means mysterious and difficult to understand; while ancient inscriptions can be cryptic, the sentence requires the specific name for the alphabet, not a description of their apparent mysteriousness." },
+        { "distractor": "hieroglyphic", "closeness": 2, "reasoning": "Describes an ancient Egyptian writing system; while also an old alphabet, the sentence specifies Scandinavian stones and Germanic peoples, requiring the correct Norse alphabet, not Egyptian writing." },
+        { "distractor": "cuneiform", "closeness": 2, "reasoning": "Describes an ancient Mesopotamian writing system; though an ancient alphabet like runes, the sentence specifies Germanic peoples and Scandinavia, not Mesopotamia." },
+        { "distractor": "alphabetic", "closeness": 2, "reasoning": "Means using letters and symbols; while runes are alphabetic, the sentence requires the specific historical alphabet of Germanic peoples, not just the general category." },
+        { "distractor": "written", "closeness": 2, "reasoning": "Means expressed in writing; while the inscriptions are written, the sentence requires identification of the specific alphabet used, not just that they're written." },
+        { "distractor": "modern", "closeness": 1, "reasoning": "Means recent or contemporary; directly opposite to the ancient inscriptions from the 3rd-13th centuries that the sentence describes." },
+        { "distractor": "contemporary", "closeness": 1, "reasoning": "Means current or present-day; opposite to the ancient Germanic inscriptions the archaeological expedition discovered." },
+        { "distractor": "legible", "closeness": 1, "reasoning": "Means easy to read; opposite characterization to inscriptions that are sufficiently cryptic to require archaeological interpretation." }
+      ]
+    },
+    {
+      "sentence": "The historian carefully examined the runic symbols carved into the ancient weapon, hoping to identify the craftsman who forged it.",
+      "answerChoices": [
+        { "distractor": "inscribed", "closeness": 3, "reasoning": "Means carved or written; while the symbols are inscribed, the sentence requires the specific alphabet type used for marking, not just the act of inscription." },
+        { "distractor": "engraved", "closeness": 3, "reasoning": "Means carved or etched; similar to inscribed, it describes the technique of marking but not the specific alphabet being examined." },
+        { "distractor": "marked", "closeness": 3, "reasoning": "Means bearing marks or signs; while the weapon is marked, the sentence requires identification of the specific historical alphabet, not just that marks are present." },
+        { "distractor": "etched", "closeness": 3, "reasoning": "Means carved or scratched into a surface; describes the technique but not the specific alphabet or writing system the historian is examining." },
+        { "distractor": "ancient", "closeness": 2, "reasoning": "Describes the age of the weapon; while the weapon is ancient, the sentence requires the specific name of the alphabet carved into it, not its age." },
+        { "distractor": "archaic", "closeness": 2, "reasoning": "Means old-fashioned; while the alphabet is archaic, the sentence requires the specific historical term for the Germanic alphabet." },
+        { "distractor": "decorative", "closeness": 2, "reasoning": "Means ornamental; while the symbols may serve a decorative purpose, the sentence emphasizes their function in identifying the craftsman, not decoration." },
+        { "distractor": "symbolic", "closeness": 2, "reasoning": "Means representing something; while the symbols represent the craftsman's identity, the sentence requires the specific term for the Germanic alphabet, not the general concept of symbolism." },
+        { "distractor": "printed", "closeness": 1, "reasoning": "Means mechanically reproduced; opposite to the carved symbols on an ancient handmade weapon." },
+        { "distractor": "blank", "closeness": 1, "reasoning": "Means unmarked; opposite to a weapon that has symbols carved into it." },
+        { "distractor": "modern", "closeness": 1, "reasoning": "Means recent; opposite to the ancient weapon with its old alphabet carved into it." }
+      ]
+    },
+    {
+      "sentence": "Modern fantasy authors often incorporate runic magic into their worlds, drawing inspiration from the actual historical alphabet used by Norse warriors.",
+      "answerChoices": [
+        { "distractor": "ancient", "closeness": 3, "reasoning": "Describes the age of the historical source; while the alphabet is ancient, the sentence requires the specific name for Norse writing, not just an age descriptor." },
+        { "distractor": "mystical", "closeness": 3, "reasoning": "Means having mystery and spiritual power; while authors depict runic magic as mystical, the sentence requires the specific alphabet term, not a general description of the magical quality." },
+        { "distractor": "magical", "closeness": 3, "reasoning": "Means having supernatural power; while the sentence discusses runic magic, it requires the specific alphabet name, not just confirmation that the magic exists." },
+        { "distractor": "Norse", "closeness": 3, "reasoning": "Relates to Norse peoples; while correct in context, the sentence requires the specific name for the alphabet, not just a cultural descriptor." },
+        { "distractor": "mythological", "closeness": 2, "reasoning": "Relates to myths and legendary stories; while fantasy draws on mythological inspiration, the sentence requires the specific alphabet term, not the literary genre." },
+        { "distractor": "esoteric", "closeness": 2, "reasoning": "Means mysterious and secret; while the alphabet's magical use is depicted as esoteric, the sentence requires its specific historical name." },
+        { "distractor": "supernatural", "closeness": 2, "reasoning": "Means beyond natural law; while fantasy authors depict the alphabet with supernatural power, the sentence requires the specific name for the Germanic writing system." },
+        { "distractor": "mysticism", "closeness": 2, "reasoning": "Means spiritual mystery; while fantasy authors engage mysticism through runic symbolism, the sentence requires the specific alphabet name." },
+        { "distractor": "scientific", "closeness": 1, "reasoning": "Means rational and empirical; opposite to the magical, mystical properties that fantasy authors attribute to runic symbols." },
+        { "distractor": "mundane", "closeness": 1, "reasoning": "Means ordinary and everyday; opposite to the magical and mystical nature that the sentence attributes to runic magic." },
+        { "distractor": "realistic", "closeness": 1, "reasoning": "Means grounded in reality; opposite to the fantastical magical properties that authors attribute to runic symbols in their imaginative worlds." }
+      ]
+    }
+  ]
+}

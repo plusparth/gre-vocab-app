@@ -1,0 +1,53 @@
+{
+  "word": "bloviated",
+  "sentenceSets": [
+    {
+      "sentence": "The senator bloviated for forty minutes without saying anything that advanced the debate.",
+      "answerChoices": [
+        { "distractor": "pontificated", "closeness": 3, "reasoning": "Close -- 'pontificated' means to speak in a pompous, authoritative manner, which fits long-winded speech, but it emphasizes self-importance rather than verbose windiness without substance." },
+        { "distractor": "harangued", "closeness": 3, "reasoning": "Close -- 'harangued' means to deliver a tirade or lengthy aggressive speech, which fits forty minutes of speech, but it emphasizes angry intensity rather than the windy, insubstantial rambling of 'bloviated'." },
+        { "distractor": "droned", "closeness": 3, "reasoning": "Close -- 'droned' suggests monotonous, tiresome speech, which fits a long speech that adds nothing, but it emphasizes the dull delivery rather than the verbose, windy abundance of words." },
+        { "distractor": "expounded", "closeness": 3, "reasoning": "Close -- 'expounded' means to explain or elaborate, which could describe lengthy speech, but it suggests substantive explanation rather than the empty verbosity of 'bloviated'." },
+        { "distractor": "rambled", "closeness": 2, "reasoning": "Incorrect -- while 'rambled' suggests wandering and disorganized speech, it lacks the specific implication of inflated, grandiose verbosity characteristic of 'bloviated'." },
+        { "distractor": "lectured", "closeness": 2, "reasoning": "Incorrect -- 'lectured' means to give a formal talk, which could be forty minutes, but it carries an implication of instruction or expertise rather than windy, empty speech." },
+        { "distractor": "sermonized", "closeness": 2, "reasoning": "Incorrect -- 'sermonized' means to deliver moral instruction, which could be lengthy, but it suggests earnest moralizing rather than pretentious verbosity without substance." },
+        { "distractor": "orated", "closeness": 2, "reasoning": "Incorrect -- 'orated' means to deliver a formal speech, but it does not specifically convey the implication of empty verbosity or lack of meaningful content." },
+        { "distractor": "summarized", "closeness": 1, "reasoning": "Opposite -- 'summarized' means to condense or brief, the opposite of verbose speech that goes on for forty minutes." },
+        { "distractor": "concluded", "closeness": 1, "reasoning": "Opposite -- 'concluded' means to bring to an end; contradicts the image of someone speaking at length without advancing the matter." },
+        { "distractor": "clarified", "closeness": 1, "reasoning": "Incorrect -- 'clarified' means to make clear or easier to understand, which is the opposite of muddying debate with empty verbosity." }
+      ]
+    },
+    {
+      "sentence": "Rather than answer the direct question, the lawyer bloviated about tangential legal precedents and arcane procedural distinctions.",
+      "answerChoices": [
+        { "distractor": "elaborated", "closeness": 3, "reasoning": "Close -- 'elaborated' means to add details or expand, which fits discussing precedents and distinctions, but it suggests thoughtful development rather than the windy evasion implied here." },
+        { "distractor": "discoursed", "closeness": 3, "reasoning": "Close -- 'discoursed' means to converse or discuss at length, which fits long-winded speech about legal matters, but it lacks the implication of pretentious inflation without substance." },
+        { "distractor": "dissertated", "closeness": 3, "reasoning": "Close -- 'dissertated' means to discourse at length on a topic, which fits detailed legal discussion, but it suggests scholarly rigor rather than windy evasion of the actual question." },
+        { "distractor": "tangentialized", "closeness": 3, "reasoning": "Close -- while this describes going off on tangents (as the sentence explicitly states), it lacks the connotation of verbose, pretentious inflation that defines 'bloviated'." },
+        { "distractor": "expounded", "closeness": 2, "reasoning": "Incorrect -- 'expounded' means to explain systematically, which could describe legal discussion, but it suggests substantive exposition rather than verbose evasion." },
+        { "distractor": "pontificated", "closeness": 2, "reasoning": "Incorrect -- 'pontificated' means to speak pompously, which fits the lawyer's manner, but it emphasizes self-importance rather than the windy, wordy inflation of language." },
+        { "distractor": "narrated", "closeness": 2, "reasoning": "Incorrect -- 'narrated' means to tell a story, which does not fit the context of discussing legal precedents and distinctions." },
+        { "distractor": "reiterated", "closeness": 2, "reasoning": "Incorrect -- 'reiterated' means to repeat, which does not capture the sense of going on at length about irrelevant matters." },
+        { "distractor": "summarized", "closeness": 1, "reasoning": "Opposite -- 'summarized' means to condense, the opposite of using verbose, elaborate language about tangential matters." },
+        { "distractor": "addressed", "closeness": 1, "reasoning": "Opposite -- 'addressed' means to directly tackle or respond to, the opposite of what the lawyer does by evasively discussing tangential matters." },
+        { "distractor": "conceded", "closeness": 1, "reasoning": "Incorrect -- 'conceded' means to admit or yield, which contradicts the evasive, verbose approach the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "The critic bloviated endlessly about what she called artistic merit while overlooking obvious technical flaws.",
+      "answerChoices": [
+        { "distractor": "waxed", "closeness": 3, "reasoning": "Close -- 'waxed' (as in 'waxed eloquent') means to speak at length with enthusiasm, which fits prolonged commentary, but it lacks the implication of empty, inflated verbosity." },
+        { "distractor": "rhapsodized", "closeness": 3, "reasoning": "Close -- 'rhapsodized' means to speak enthusiastically at length, which fits the critic's extended commentary, but it emphasizes genuine emotion rather than the hollow verbosity of 'bloviated'." },
+        { "distractor": "pontificated", "closeness": 3, "reasoning": "Close -- 'pontificated' means to speak pompously and authoritatively, which fits a critic making pronouncements about art, but it emphasizes self-importance rather than verbose emptiness." },
+        { "distractor": "expounded", "closeness": 3, "reasoning": "Close -- 'expounded' means to explain or elaborate systematically, which could describe extended critical commentary, but it suggests substantive exposition rather than pretentious verbosity." },
+        { "distractor": "ranted", "closeness": 2, "reasoning": "Incorrect -- 'ranted' suggests angry, emotional outbursts, which does not fit the tone of a critic expounding on artistic merit." },
+        { "distractor": "lectured", "closeness": 2, "reasoning": "Incorrect -- 'lectured' implies delivering formal instruction, which could describe extended speech, but it suggests pedagogical substance rather than empty verbosity." },
+        { "distractor": "sermonized", "closeness": 2, "reasoning": "Incorrect -- 'sermonized' means to deliver moral instruction, which does not fit the context of artistic criticism." },
+        { "distractor": "declaimed", "closeness": 2, "reasoning": "Incorrect -- 'declaimed' means to recite formally, which could be lengthy but lacks the connotation of empty, inflated speech." },
+        { "distractor": "hushed", "closeness": 1, "reasoning": "Opposite -- 'hushed' means to make quiet or silent, the opposite of speaking endlessly." },
+        { "distractor": "acknowledged", "closeness": 1, "reasoning": "Opposite -- 'acknowledged' means to recognize or admit, the opposite of overlooking obvious flaws while speaking at length." },
+        { "distractor": "demurred", "closeness": 1, "reasoning": "Incorrect -- 'demurred' means to raise objections or express reservations, which contradicts the enthusiastic assertions shown in the sentence." }
+      ]
+    }
+  ]
+}

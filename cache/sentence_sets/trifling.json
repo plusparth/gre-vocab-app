@@ -1,0 +1,53 @@
+{
+  "word": "trifling",
+  "sentenceSets": [
+    {
+      "sentence": "What had seemed like trifling inconsistencies in the early reports turned out to be the most significant findings in the data.",
+      "answerChoices": [
+        { "distractor": "trivial", "closeness": 3, "reasoning": "'Trivial' means of little importance or value, fitting things that seem insignificant; 'trivial' is so close that it could trap someone." },
+        { "distractor": "minor", "closeness": 3, "reasoning": "'Minor' means small or of lesser importance, fitting inconsistencies that seemed unimportant; however, 'minor' just means smaller, not necessarily lacking solid worth." },
+        { "distractor": "negligible", "closeness": 3, "reasoning": "'Negligible' means too small to be significant, fitting things that seemed unimportant; however, 'negligible' emphasizes smallness, while 'trifling' emphasizes lack of solid worth." },
+        { "distractor": "inconsequential", "closeness": 3, "reasoning": "'Inconsequential' means unimportant or irrelevant, fitting things that seemed to lack significance; the distinction is subtle between these very similar terms." },
+        { "distractor": "insignificant", "closeness": 2, "reasoning": "'Insignificant' means not important; while this fits things that seemed to lack significance, it's more directly a synonym." },
+        { "distractor": "small", "closeness": 2, "reasoning": "'Small' means little in size; while the inconsistencies were small-seeming, 'small' doesn't capture the sense of lacking worth." },
+        { "distractor": "minute", "closeness": 2, "reasoning": "'Minute' means extremely small; while fitting inconsistencies, it emphasizes size rather than significance." },
+        { "distractor": "slight", "closeness": 2, "reasoning": "'Slight' means small in degree; while fitting small inconsistencies, it doesn't capture the lack of solid worth." },
+        { "distractor": "profound", "closeness": 1, "reasoning": "'Profound' means very deep or significant; the sentence describes things that seemed trifling, opposite to profound." },
+        { "distractor": "substantial", "closeness": 1, "reasoning": "'Substantial' means considerable in size or importance; the sentence describes things that seemed to lack significance, opposite to substantial." },
+        { "distractor": "momentous", "closeness": 1, "reasoning": "'Momentous' means very important or significant; the sentence describes things that seemed trifling and turned out to be significant, so the initial appearance is opposite." }
+      ]
+    },
+    {
+      "sentence": "He dismissed her concerns as trifling complaints, refusing to recognize that what he considered trivial matters deeply affected her daily life.",
+      "answerChoices": [
+        { "distractor": "trivial", "closeness": 3, "reasoning": "'Trivial' means of little importance, fitting what he considered unimportant; the sentence even uses 'trivial,' but 'trifling' emphasizes lack of solid worth while 'trivial' emphasizes lack of importance generally." },
+        { "distractor": "petty", "closeness": 3, "reasoning": "'Petty' means small or unimportant, fitting what he dismissed as insignificant; however, 'petty' has connotations of smallness and pettiness, while 'trifling' is more about lack of worth." },
+        { "distractor": "minor", "closeness": 3, "reasoning": "'Minor' means smaller or less important; while fitting his dismissal, it doesn't capture the sense of lacking solid worth." },
+        { "distractor": "inconsequential", "closeness": 3, "reasoning": "'Inconsequential' means unimportant, fitting what he dismissed; however, the sentence emphasizes that he wrongly dismissed them, suggesting they do have worth despite seeming trifling." },
+        { "distractor": "insignificant", "closeness": 2, "reasoning": "'Insignificant' means unimportant; while fitting his dismissal, it's too directly synonymous." },
+        { "distractor": "negligible", "closeness": 2, "reasoning": "'Negligible' means too small to matter; while fitting dismissal, it emphasizes smallness rather than lack of worth." },
+        { "distractor": "superficial", "closeness": 2, "reasoning": "'Superficial' means on the surface without depth; while his dismissal is superficial, it describes his judgment rather than the complaints themselves." },
+        { "distractor": "shallow", "closeness": 2, "reasoning": "'Shallow' means lacking depth; while his dismissal is shallow, it describes his judgment, not the complaints." },
+        { "distractor": "serious", "closeness": 1, "reasoning": "'Serious' means worthy of attention and important; the sentence describes what he dismissed as trifling, opposite to serious." },
+        { "distractor": "significant", "closeness": 1, "reasoning": "'Significant' means important or meaningful; the sentence emphasizes that what he dismissed as trifling actually deeply affected her, opposite to the initial dismissal." },
+        { "distractor": "profound", "closeness": 1, "reasoning": "'Profound' means deeply meaningful; the sentence shows what he dismissed as trifling had profound effects on her life, opposite to the initial dismissal." }
+      ]
+    },
+    {
+      "sentence": "The lawyer argued that a trifling amount of money was at stake compared to the principle being tested in the case.",
+      "answerChoices": [
+        { "distractor": "negligible", "closeness": 3, "reasoning": "'Negligible' means too small to be significant, fitting a small amount of money; however, 'negligible' emphasizes smallness, while 'trifling' emphasizes lack of solid worth." },
+        { "distractor": "trivial", "closeness": 3, "reasoning": "'Trivial' means of little importance, fitting a small amount that pales compared to principle; 'trivial' is so close that it could trap someone." },
+        { "distractor": "minor", "closeness": 3, "reasoning": "'Minor' means smaller in importance; while fitting a small amount, it doesn't capture the lack of solid worth." },
+        { "distractor": "insignificant", "closeness": 3, "reasoning": "'Insignificant' means unimportant, fitting an amount that pales in comparison to principle; however, it's more directly synonymous." },
+        { "distractor": "minimal", "closeness": 2, "reasoning": "'Minimal' means the least possible; while fitting a small amount, it emphasizes smallness rather than lack of worth." },
+        { "distractor": "small", "closeness": 2, "reasoning": "'Small' means little in size; while fitting an amount of money, it doesn't capture the lack of solid worth or importance." },
+        { "distractor": "pittance", "closeness": 2, "reasoning": "'Pittance' is a small, insignificant amount; while fitting a small sum, it emphasizes how small it is rather than its lack of worth." },
+        { "distractor": "meager", "closeness": 2, "reasoning": "'Meager' means lacking in quality or quantity; while fitting an insufficient amount, it doesn't capture the specific sense of trifling." },
+        { "distractor": "substantial", "closeness": 1, "reasoning": "'Substantial' means considerable in amount; the sentence describes a trifling amount that pales compared to principle, opposite to substantial." },
+        { "distractor": "enormous", "closeness": 1, "reasoning": "'Enormous' means very large; the sentence describes a trifling amount, opposite to enormous." },
+        { "distractor": "significant", "closeness": 1, "reasoning": "'Significant' means important; the sentence argues that the amount is trifling compared to the principle at stake, opposite to significant." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "list",
+  "sentenceSets": [
+    {
+      "sentence": "The candidate's list of qualifications was impressive, but the interviewers were more interested in her personality than her credentials.",
+      "answerChoices": [
+        { "distractor": "inventory", "closeness": 3, "reasoning": "An inventory is a complete list of items, very similar to a list of qualifications, making it a plausible replacement." },
+        { "distractor": "catalog", "closeness": 3, "reasoning": "A catalog is a systematic list of items, similar to a list of qualifications, though it typically implies organized or published compilation." },
+        { "distractor": "register", "closeness": 3, "reasoning": "A register is an official list, fitting the formal documentation of qualifications, nearly synonymous with list in this context." },
+        { "distractor": "roster", "closeness": 3, "reasoning": "A roster is a list of names or people, and while it could describe qualifications listed by person, it emphasizes the people rather than the qualifications themselves." },
+        { "distractor": "array", "closeness": 2, "reasoning": "An array is an arrangement of items in order, fitting the collection of qualifications, but emphasizes ordering rather than simple enumeration." },
+        { "distractor": "collection", "closeness": 2, "reasoning": "A collection is a gathering of items, fitting the group of qualifications, but suggests curation rather than a simple list." },
+        { "distractor": "assortment", "closeness": 2, "reasoning": "An assortment is a variety of things, fitting the qualifications, but implies diversity and selection rather than a straightforward listing." },
+        { "distractor": "compilation", "closeness": 2, "reasoning": "A compilation is a collection of items gathered together, fitting the qualifications, but suggests assembly work rather than simple enumeration." },
+        { "distractor": "schedule", "closeness": 2, "reasoning": "A schedule is an ordered list of times or items, fitting a structured list, but implies temporal organization which qualifications typically lack." },
+        { "distractor": "heap", "closeness": 1, "reasoning": "A heap is an unorganized pile, which contradicts the organized enumeration that both list and qualifications imply." },
+        { "distractor": "pile", "closeness": 1, "reasoning": "A pile is an accumulation without structure, contradicting the organized nature of both a list and a formal set of qualifications." }
+      ]
+    },
+    {
+      "sentence": "He kept a running list of groceries on his phone, adding items throughout the week so he wouldn't forget anything at the store.",
+      "answerChoices": [
+        { "distractor": "tally", "closeness": 3, "reasoning": "A tally is a count or record of items, fitting the running grocery items, and could serve as a synonym for an ongoing list." },
+        { "distractor": "stock", "closeness": 3, "reasoning": "Stock refers to items available or on hand, fitting groceries to purchase, and could describe the accumulated grocery items to remember." },
+        { "distractor": "ledger", "closeness": 3, "reasoning": "A ledger is a book of records, fitting a running account of grocery needs, and is similar to a list in its function." },
+        { "distractor": "supplies", "closeness": 3, "reasoning": "Supplies are items provided or needed, fitting groceries to purchase, making it a plausible alternative to a grocery list." },
+        { "distractor": "agenda", "closeness": 2, "reasoning": "An agenda is an ordered list of things to do or discuss, fitting items to remember, but emphasizes tasks rather than grocery items." },
+        { "distractor": "menu", "closeness": 2, "reasoning": "A menu is a list of food choices, fitting grocery items, but is typically used for presentation of offerings rather than a personal shopping record." },
+        { "distractor": "index", "closeness": 2, "reasoning": "An index is a list of references or contents, fitting items to remember, but typically implies alphabetical organization and reference purposes." },
+        { "distractor": "directory", "closeness": 2, "reasoning": "A directory is a list of names or items with information, fitting grocery items, but typically implies a structured, published reference." },
+        { "distractor": "queue", "closeness": 1, "reasoning": "A queue is an ordered sequence of people or items waiting, which describes a line of people but not a grocery shopping list." },
+        { "distractor": "note", "closeness": 1, "reasoning": "A note is a single brief written message, which is too small and informal to serve as a running list of multiple grocery items." },
+        { "distractor": "memo", "closeness": 1, "reasoning": "A memo is a brief written message or record, which is typically too short to serve as a comprehensive running grocery list." }
+      ]
+    },
+    {
+      "sentence": "The teacher distributed a list of recommended books for summer reading, hoping students would explore beyond the required curriculum.",
+      "answerChoices": [
+        { "distractor": "bibliography", "closeness": 3, "reasoning": "A bibliography is a list of books or sources, nearly identical in function to a list of recommended books." },
+        { "distractor": "anthology", "closeness": 3, "reasoning": "An anthology is a collection of written works compiled together, similar to a list of books, though it includes the actual content rather than just titles." },
+        { "distractor": "registry", "closeness": 3, "reasoning": "A registry is an official list or record, fitting a formal collection of recommended books." },
+        { "distractor": "journal", "closeness": 3, "reasoning": "A journal is a periodical or record of ideas, and while it's a form of publication, it doesn't accurately describe a recommended reading list." },
+        { "distractor": "syllabus", "closeness": 2, "reasoning": "A syllabus is an outline of course material, which could include recommended readings, but refers to the entire course structure rather than just a list of books." },
+        { "distractor": "manual", "closeness": 2, "reasoning": "A manual is a handbook of instructions or information, fitting as a reference document, but doesn't specifically denote a compiled list of reading recommendations." },
+        { "distractor": "archive", "closeness": 2, "reasoning": "An archive is a collection of historical documents or records, fitting as a repository of books, but doesn't emphasize the curator's recommendation aspect." },
+        { "distractor": "account", "closeness": 2, "reasoning": "An account is a description or record, which could serve as documentation of recommended books, but is too general and doesn't clearly denote a list." },
+        { "distractor": "stack", "closeness": 1, "reasoning": "A stack is a physical pile of books, which doesn't capture the written enumeration or recommendation aspect that a reading list provides." },
+        { "distractor": "volume", "closeness": 1, "reasoning": "A volume is a single book, which contradicts the plural nature of a list of multiple recommended books." },
+        { "distractor": "section", "closeness": 1, "reasoning": "A section is a part of something larger, which doesn't fit the concept of a compiled list of reading recommendations." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "subterfuge",
+  "sentenceSets": [
+    {
+      "sentence": "The transaction had been structured through subterfuge to disguise its actual purpose from the oversight body.",
+      "answerChoices": [
+        { "distractor": "ambiguity", "closeness": 3, "reasoning": "While ambiguity can hide meaning, it suggests unclear language or multiple possible interpretations rather than deliberate deceptive structuring." },
+        { "distractor": "obfuscation", "closeness": 3, "reasoning": "'Obfuscation' means deliberately making something unclear or confusing, but doesn't capture the element of deliberate stratagem to actively conceal and evade as the sentence requires." },
+        { "distractor": "misdirection", "closeness": 3, "reasoning": "Though 'misdirection' involves drawing attention away, it doesn't capture the idea of structuring a transaction itself to hide its purpose, just redirecting focus." },
+        { "distractor": "concealment", "closeness": 3, "reasoning": "'Concealment' means hiding something, but the sentence emphasizes the deceptive structuring and stratagem used to hide, not merely the act of hiding itself." },
+        { "distractor": "negligence", "closeness": 2, "reasoning": "The sentence shows deliberate structuring to deceive, not careless failure to provide clear information." },
+        { "distractor": "bureaucracy", "closeness": 2, "reasoning": "While oversight bodies exist within bureaucratic systems, the sentence describes deceptive practices to evade oversight, not red tape." },
+        { "distractor": "complexity", "closeness": 2, "reasoning": "A transaction could be complex without being intentionally deceptive; the sentence emphasizes the deliberate use of deception." },
+        { "distractor": "opacity", "closeness": 2, "reasoning": "'Opacity' means lack of transparency, but doesn't capture the intentional stratagem and evasion that 'subterfuge' implies." },
+        { "distractor": "transparency", "closeness": 1, "reasoning": "The transaction was structured to disguise its purpose, making 'transparency' directly opposite to what actually occurred." },
+        { "distractor": "honesty", "closeness": 1, "reasoning": "Structuring a transaction to hide its actual purpose is inherently dishonest, making 'honesty' antithetical." },
+        { "distractor": "accuracy", "closeness": 1, "reasoning": "Disguising the actual purpose of a transaction means representing it inaccurately, so 'accuracy' contradicts the sentence." }
+      ]
+    },
+    {
+      "sentence": "The activists claimed that the government's public investment program was merely subterfuge, a cover for channeling funds to politically connected corporations.",
+      "answerChoices": [
+        { "distractor": "facade", "closeness": 3, "reasoning": "'Facade' suggests a deceptive outward appearance, but 'subterfuge' emphasizes the deliberate stratagem to conceal the true purpose, not just a false front." },
+        { "distractor": "pretext", "closeness": 3, "reasoning": "While a pretext is a false reason given for something, the sentence describes a cover-up involving actual material transfer of funds, not merely a false stated justification." },
+        { "distractor": "diversion", "closeness": 3, "reasoning": "'Diversion' means drawing attention away, but the sentence describes a systematic cover for fund redirection, not simply redirecting attention elsewhere." },
+        { "distractor": "deception", "closeness": 3, "reasoning": "Though 'deception' is broader and related, the sentence specifically describes a stratagem or scheme designed to conceal criminal misuse, which 'subterfuge' captures more precisely." },
+        { "distractor": "propaganda", "closeness": 2, "reasoning": "The activists describe a scheme to misdirect funds, not a campaign of persuasive or misleading messaging to the public." },
+        { "distractor": "corruption", "closeness": 2, "reasoning": "While the alleged scheme involves corruption, 'corruption' describes the misconduct itself, not the method of concealment used to hide it." },
+        { "distractor": "incompetence", "closeness": 2, "reasoning": "The activists claim deliberate deceptive structuring by government, not mismanagement or poor planning." },
+        { "distractor": "bureaucracy", "closeness": 2, "reasoning": "While government agencies are involved, the sentence describes a deliberate scheme to hide fund redirection, not the complexity of bureaucratic processes." },
+        { "distractor": "legitimacy", "closeness": 1, "reasoning": "If the investment program truly were a cover for hidden fund redirection, it would lack legitimacy, so 'legitimacy' contradicts the activist claim." },
+        { "distractor": "transparency", "closeness": 1, "reasoning": "The activists allege deliberate concealment, making 'transparency' directly opposite to the claim." },
+        { "distractor": "accountability", "closeness": 1, "reasoning": "A deliberate cover for fund misuse represents the absence of accountability, making this term antithetical." }
+      ]
+    },
+    {
+      "sentence": "The con artist gained access to the gallery through subterfuge, posing as a wealthy collector to bypass security and steal the painting.",
+      "answerChoices": [
+        { "distractor": "bluff", "closeness": 3, "reasoning": "'Bluff' means to deceive through bold or confident claims, but the sentence describes an elaborate false identity and deceptive scheme, not simply a bold claim." },
+        { "distractor": "ruse", "closeness": 3, "reasoning": "While a 'ruse' is a trick or stratagem, it's more general; 'subterfuge' implies the specific evasion of security measures through deceptive means." },
+        { "distractor": "impersonation", "closeness": 3, "reasoning": "Though the con artist does impersonate someone, 'impersonation' is the tactic itself, while 'subterfuge' describes the overall deceptive scheme to evade security." },
+        { "distractor": "infiltration", "closeness": 3, "reasoning": "'Infiltration' means entering an organization or place secretly, but doesn't capture the deceptive means (false identity) used to gain that entry." },
+        { "distractor": "burglary", "closeness": 2, "reasoning": "The sentence describes the method of entry (deception), not the act of stealing itself." },
+        { "distractor": "disguise", "closeness": 2, "reasoning": "While the con artist assumes a false identity, 'disguise' refers to changing appearance or outward presentation, not the strategic deception to evade security." },
+        { "distractor": "bribery", "closeness": 2, "reasoning": "The sentence shows bypassing security through false identity, not through paying or offering something to gain entry." },
+        { "distractor": "luck", "closeness": 2, "reasoning": "The artist 'gained access through subterfuge,' suggesting a deliberate scheme, not chance occurrence." },
+        { "distractor": "permission", "closeness": 1, "reasoning": "The con artist needed to bypass security, implying lack of legitimate permission or authorization." },
+        { "distractor": "honesty", "closeness": 1, "reasoning": "Posing as a false identity to gain entry is inherently dishonest, making 'honesty' directly opposite." },
+        { "distractor": "legitimacy", "closeness": 1, "reasoning": "The artist's entry was accomplished through deception rather than legitimate means, so 'legitimacy' contradicts the sentence." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "syntax",
+  "sentenceSets": [
+    {
+      "sentence": "The poet deliberately subverted English syntax, placing verbs before subjects and objects at sentence start, forcing readers to reconstruct meaning from disorder.",
+      "answerChoices": [
+        { "distractor": "grammar", "closeness": 3, "reasoning": "Grammar is a broader system of language rules including syntax, but the sentence specifically discusses arrangement and ordering of elements, which is syntax itself." },
+        { "distractor": "diction", "closeness": 3, "reasoning": "Diction is word choice but does not involve arrangement or order of elements; the sentence emphasizes placement of verbs, subjects, and objects—a structural concern." },
+        { "distractor": "vocabulary", "closeness": 3, "reasoning": "Vocabulary is the set of words available but does not address how words are arranged; the sentence concerns placement and order, not word selection." },
+        { "distractor": "tone", "closeness": 3, "reasoning": "Tone is the author's attitude but does not involve word arrangement; the sentence describes subversion of word order to force reconstruction of meaning." },
+        { "distractor": "rhythm", "closeness": 2, "reasoning": "Rhythm is the flow and cadence of language but is created through various means; the sentence specifically identifies disorder in placement as the technique." },
+        { "distractor": "phonetics", "closeness": 2, "reasoning": "Phonetics concerns sound and pronunciation but not arrangement; the sentence emphasizes placement disorder, which is structural not sonic." },
+        { "distractor": "idiom", "closeness": 2, "reasoning": "Idiom is conventional phrasing but does not describe overall sentence structure; the sentence concerns word order and arrangement." },
+        { "distractor": "metaphor", "closeness": 2, "reasoning": "Metaphor is figurative language but does not describe word ordering or arrangement; the sentence emphasizes structural disorder." },
+        { "distractor": "meaning", "closeness": 1, "reasoning": "Meaning is what is conveyed but not the structural arrangement of words; the sentence shows meaning reconstructed from disrupted word order." },
+        { "distractor": "emotion", "closeness": 1, "reasoning": "Emotion is feeling expressed but not word arrangement; the sentence focuses on structural disorder, not emotional content." },
+        { "distractor": "imagery", "closeness": 1, "reasoning": "Imagery is sensory description but not word arrangement; the sentence concerns placement of grammatical elements." }
+      ]
+    },
+    {
+      "sentence": "The student's essay was marred by awkward syntax that forced readers to parse garbled sentences and decipher tangled clause relationships.",
+      "answerChoices": [
+        { "distractor": "spelling", "closeness": 3, "reasoning": "Spelling concerns letter arrangement but not sentence structure; the sentence describes parsing sentences and deciphering clause relationships, which concern word arrangement." },
+        { "distractor": "punctuation", "closeness": 3, "reasoning": "Punctuation marks word groupings but is distinct from word order and arrangement; the sentence emphasizes garbled sentences and tangled relationships, structural issues." },
+        { "distractor": "phrasing", "closeness": 3, "reasoning": "Phrasing is word grouping but the sentence emphasizes sentence-level issues ('garbled sentences,' 'clause relationships'), not phrase-level concerns." },
+        { "distractor": "argument", "closeness": 3, "reasoning": "Argument is the main point or reasoning but not the structural arrangement of words and clauses; the sentence concerns parsing and deciphering structure." },
+        { "distractor": "logic", "closeness": 2, "reasoning": "Logic is the validity of reasoning but not word arrangement; the sentence emphasizes structural clarity issues, not logical coherence." },
+        { "distractor": "style", "closeness": 2, "reasoning": "Style is general writing approach but encompasses more than word arrangement; the sentence specifically identifies structural parsing difficulty." },
+        { "distractor": "evidence", "closeness": 2, "reasoning": "Evidence is supporting material but not structural arrangement; the sentence concerns sentence clarity and clause relationships." },
+        { "distractor": "coherence", "closeness": 2, "reasoning": "Coherence is overall connectedness but does not specify structural issues; the sentence emphasizes garbled sentences (structural) not broader unity." },
+        { "distractor": "originality", "closeness": 1, "reasoning": "Originality is novelty but not structural arrangement; the sentence shows poor clarity from tangled structure, not lack of newness." },
+        { "distractor": "brevity", "closeness": 1, "reasoning": "Brevity is conciseness but not word order; the sentence emphasizes overly complex arrangement, not length." },
+        { "distractor": "accuracy", "closeness": 1, "reasoning": "Accuracy is correctness of facts but not word arrangement; the sentence concerns clarity of sentence structure." }
+      ]
+    },
+    {
+      "sentence": "Ancient Greek syntax differs radically from modern English, with flexible verb placement and endings that encode grammatical relationships independent of word order.",
+      "answerChoices": [
+        { "distractor": "vocabulary", "closeness": 3, "reasoning": "Vocabulary is word inventory but not how words are arranged; the sentence contrasts verb placement and word order differences, which are structural." },
+        { "distractor": "phonology", "closeness": 3, "reasoning": "Phonology is sound system but not arrangement of words; the sentence concerns verb placement, word order, and grammatical encoding—structural features." },
+        { "distractor": "morphology", "closeness": 3, "reasoning": "Morphology is structure of words themselves but not sentence-level arrangement; the sentence emphasizes verb placement and word order relationships." },
+        { "distractor": "writing system", "closeness": 3, "reasoning": "Writing system is alphabet or script but not word arrangement; the sentence contrasts how grammatical relationships are encoded through placement versus endings." },
+        { "distractor": "idiom", "closeness": 2, "reasoning": "Idiom is conventional phrasing but does not describe systematic verb placement or word order differences across languages." },
+        { "distractor": "accent", "closeness": 2, "reasoning": "Accent is pronunciation emphasis but not word arrangement; the sentence concerns grammatical encoding through placement." },
+        { "distractor": "dialect", "closeness": 2, "reasoning": "Dialect is regional variation but does not necessarily describe verb placement differences or how grammatical relationships are encoded." },
+        { "distractor": "register", "closeness": 2, "reasoning": "Register is formality level but not word arrangement; the sentence concerns systematic placement differences and grammatical encoding." },
+        { "distractor": "meter", "closeness": 1, "reasoning": "Meter is rhythmic pattern but not word arrangement or grammatical relationships; the sentence focuses on structural arrangements." },
+        { "distractor": "semantics", "closeness": 1, "reasoning": "Semantics is meaning but not word arrangement; the sentence concerns word placement and ordering, not what words mean." },
+        { "distractor": "pragmatics", "closeness": 1, "reasoning": "Pragmatics is language use in context but not systematic word placement; the sentence concerns structural differences." }
+      ]
+    }
+  ]
+}

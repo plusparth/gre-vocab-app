@@ -1,0 +1,53 @@
+{
+  "word": "gaudy",
+  "sentenceSets": [
+    {
+      "sentence": "The gaudy decorations overwhelmed a room that would have been more striking in its simplicity.",
+      "answerChoices": [
+        { "distractor": "sparse", "closeness": 3, "reasoning": "Incorrect -- 'sparse' means thinly distributed or minimal; the sentence contrasts ornamentation with simplicity, not scarceness." },
+        { "distractor": "garish", "closeness": 3, "reasoning": "Nearly synonymous -- 'garish' describes excessively bright or showy decoration, very close to 'gaudy' in this context, but adds a harsher sense of visual harshness." },
+        { "distractor": "ornate", "closeness": 3, "reasoning": "Close but different in tone -- 'ornate' means elaborately decorated, which fits the sentence, but lacks the pejorative sense of tastelessness central to 'gaudy'." },
+        { "distractor": "ostentatious", "closeness": 3, "reasoning": "Near-synonym but broader -- 'ostentatious' emphasizes pretentious display rather than the specific visual excess of decoration that overwhelms the room." },
+        { "distractor": "cluttered", "closeness": 2, "reasoning": "Incorrect -- 'cluttered' suggests disorganized chaos rather than excessively showy decoration." },
+        { "distractor": "vibrant", "closeness": 2, "reasoning": "Incorrect -- 'vibrant' means vivid and lively in color, which could describe decorations but does not carry the implication of tasteless excess." },
+        { "distractor": "elaborate", "closeness": 2, "reasoning": "Incorrect -- 'elaborate' means detailed and complex but is neutral in tone, lacking the judgment that the decorations are in poor taste." },
+        { "distractor": "prominent", "closeness": 2, "reasoning": "Incorrect -- 'prominent' means standing out or noticeable, which the decorations might be, but does not imply tastelessness or overwhelming excess." },
+        { "distractor": "elegant", "closeness": 1, "reasoning": "Opposite -- 'elegant' implies refined and tasteful decoration; clearly wrong in a sentence criticizing overwhelming visual excess." },
+        { "distractor": "subdued", "closeness": 1, "reasoning": "Opposite -- 'subdued' means restrained or toned down; contradicts the notion of overwhelming decorations." },
+        { "distractor": "neutral", "closeness": 1, "reasoning": "Incorrect -- 'neutral' describes lack of strong quality or color, which is unrelated to the concept of excessive or tasteless ornamentation." }
+      ]
+    },
+    {
+      "sentence": "The actor's gaudy costume, with its sequins and metallic threads catching every light, seemed less like character design and more like a bid for attention.",
+      "answerChoices": [
+        { "distractor": "flashy", "closeness": 3, "reasoning": "Close -- 'flashy' describes something striking and showy, which fits the sequins and reflective material, but focuses on visual impact rather than the tacky, tasteless quality implied by the sentence's criticism." },
+        { "distractor": "flamboyant", "closeness": 3, "reasoning": "Close -- 'flamboyant' means bold and showy, which the costume certainly is, but emphasizes theatrical flair rather than the negative judgment of poor taste." },
+        { "distractor": "conspicuous", "closeness": 3, "reasoning": "Close but different -- 'conspicuous' simply means easy to notice, which the costume is, but it does not convey the sense of tasteless excess or the accusation of attention-seeking." },
+        { "distractor": "resplendent", "closeness": 3, "reasoning": "Close but contradictory tone -- 'resplendent' means brilliantly shining and impressive, which the costume might be, but carries an admiring tone rather than the critical judgment present in the sentence." },
+        { "distractor": "colorful", "closeness": 2, "reasoning": "Incorrect -- 'colorful' simply describes the presence of varied colors; it does not carry the implication of tastelessness or cheap showiness." },
+        { "distractor": "dramatic", "closeness": 2, "reasoning": "Incorrect -- 'dramatic' emphasizes theatrical intensity or effect rather than poor taste; it could describe legitimate artistic choices." },
+        { "distractor": "bold", "closeness": 2, "reasoning": "Incorrect -- 'bold' suggests confidence and strong choice, which is value-neutral and does not imply the criticism of tasteless excess." },
+        { "distractor": "striking", "closeness": 2, "reasoning": "Incorrect -- 'striking' means impressive or attention-catching but is neutral in tone and does not suggest poor taste." },
+        { "distractor": "modest", "closeness": 1, "reasoning": "Opposite -- 'modest' means humble and unshowy; clearly wrong for a costume described as catching every light and seeking attention." },
+        { "distractor": "restrained", "closeness": 1, "reasoning": "Opposite -- 'restrained' implies deliberate understatement, contradicting the excessive nature of the costume." },
+        { "distractor": "inconspicuous", "closeness": 1, "reasoning": "Opposite -- 'inconspicuous' means not easily noticed; directly contradicts the costume's prominent, attention-demanding nature." }
+      ]
+    },
+    {
+      "sentence": "She rejected the gaudy trends that dominated social media, preferring to build a personal style rooted in timeless pieces.",
+      "answerChoices": [
+        { "distractor": "trendy", "closeness": 3, "reasoning": "Close but imprecise -- 'trendy' describes current fashions but does not carry the connotation of tasteless or excessive display that her rejection implies." },
+        { "distractor": "superficial", "closeness": 3, "reasoning": "Close -- 'superficial' suggests shallow appearances, which aligns with her critique, but focuses on lack of depth rather than specifically tasteless aesthetic excess." },
+        { "distractor": "frivolous", "closeness": 3, "reasoning": "Close -- 'frivolous' means lacking seriousness or importance, which could describe shallow trends, but does not specifically address visual tastelessness." },
+        { "distractor": "showy", "closeness": 3, "reasoning": "Close -- 'showy' implies ostentatious display, which fits the social media context, but is less judgmental about poor taste than 'gaudy'." },
+        { "distractor": "fashionable", "closeness": 2, "reasoning": "Incorrect -- 'fashionable' simply means in accordance with current style; it is value-neutral and does not imply tastelessness." },
+        { "distractor": "popular", "closeness": 2, "reasoning": "Incorrect -- 'popular' describes what many people like, which trends are, but does not carry a judgment about aesthetic quality." },
+        { "distractor": "modern", "closeness": 2, "reasoning": "Incorrect -- 'modern' refers to contemporary style but is neutral about taste; one can be modern and tasteful." },
+        { "distractor": "extravagant", "closeness": 2, "reasoning": "Incorrect -- 'extravagant' means excessive in cost or amount but does not necessarily imply tastelessness in design or appearance." },
+        { "distractor": "classic", "closeness": 1, "reasoning": "Opposite -- 'classic' refers to timeless, enduring style, which directly contradicts the trends she rejects." },
+        { "distractor": "subtle", "closeness": 1, "reasoning": "Opposite -- 'subtle' means understated and refined, the aesthetic opposite of gaudy excess." },
+        { "distractor": "minimalist", "closeness": 1, "reasoning": "Opposite -- 'minimalist' emphasizes simplicity and restraint, contradicting the excessive nature of the trends she disdains." }
+      ]
+    }
+  ]
+}

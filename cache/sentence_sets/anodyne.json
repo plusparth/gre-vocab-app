@@ -1,0 +1,53 @@
+{
+  "word": "anodyne",
+  "sentenceSets": [
+    {
+      "sentence": "His anodyne response satisfied no one—it was designed to avoid controversy rather than address it.",
+      "answerChoices": [
+        { "distractor": "candid", "closeness": 3, "reasoning": "A candid response would be direct and forthright, opposite of the vague, non-committal approach shown here." },
+        { "distractor": "evasive", "closeness": 3, "reasoning": "While evasive describes the avoidance shown, it focuses on dodging questions rather than soothing or settling, which is what anodyne implies." },
+        { "distractor": "measured", "closeness": 3, "reasoning": "Measured suggests deliberate restraint, but doesn't capture the specific intent to pacify or avoid offense that anodyne conveys." },
+        { "distractor": "diplomatic", "closeness": 3, "reasoning": "Diplomatic can mean carefully avoiding offense, but lacks the implication that the response is specifically designed to soothe discontent." },
+        { "distractor": "terse", "closeness": 2, "reasoning": "Terse means brief and abrupt, which contradicts the soothing intent shown by 'satisfied no one' in a palliative sense." },
+        { "distractor": "perfunctory", "closeness": 2, "reasoning": "Perfunctory suggests routine and halfhearted, but doesn't establish the intent to alleviate conflict or prevent harm." },
+        { "distractor": "sincere", "closeness": 2, "reasoning": "Sincere would suggest genuine feeling, but the sentence emphasizes the response's goal of avoiding controversy, not its authenticity." },
+        { "distractor": "conciliatory", "closeness": 2, "reasoning": "Conciliatory means seeking to reconcile parties, but anodyne suggests merely soothing without resolving, a distinction this sentence implies." },
+        { "distractor": "aggressive", "closeness": 1, "reasoning": "Aggressive directly contradicts the intent to avoid controversy and placate audiences shown in the sentence." },
+        { "distractor": "inflammatory", "closeness": 1, "reasoning": "Inflammatory means tending to provoke anger or outrage, the opposite of the conflict-avoidance and appeasement shown." },
+        { "distractor": "provocative", "closeness": 1, "reasoning": "Provocative means deliberately challenging or arousing reaction, opposite to the response's goal of avoiding rather than addressing controversy." }
+      ]
+    },
+    {
+      "sentence": "The doctor prescribed physical therapy as an anodyne treatment, hoping to ease the patient's chronic back pain without resorting to surgery.",
+      "answerChoices": [
+        { "distractor": "palliative", "closeness": 3, "reasoning": "Palliative also means relieving symptoms, but applies to managing disease progression, whereas anodyne specifically means soothing or alleviating pain." },
+        { "distractor": "remedial", "closeness": 3, "reasoning": "Remedial means designed to correct or improve a deficiency, but doesn't specifically convey the relief or soothing of pain." },
+        { "distractor": "curative", "closeness": 3, "reasoning": "Curative implies healing or curing the underlying condition, while anodyne here means relieving pain temporarily without necessarily fixing the cause." },
+        { "distractor": "therapeutic", "closeness": 3, "reasoning": "Therapeutic means healing or beneficial to health generally, but lacks the specific emphasis on alleviating or soothing pain." },
+        { "distractor": "preventive", "closeness": 2, "reasoning": "Preventive means designed to stop disease before it occurs, whereas this sentence focuses on managing existing pain." },
+        { "distractor": "invasive", "closeness": 2, "reasoning": "Invasive describes medical procedures that penetrate the body, contrasting with the physical therapy approach, but doesn't describe the treatment's goal." },
+        { "distractor": "experimental", "closeness": 2, "reasoning": "Experimental suggests untested or novel treatment, but the sentence frames physical therapy as a conventional alternative to surgery." },
+        { "distractor": "intensive", "closeness": 2, "reasoning": "Intensive means thorough and concentrated, but doesn't address whether the treatment aims to alleviate or cure the pain." },
+        { "distractor": "harmful", "closeness": 1, "reasoning": "Harmful contradicts the sentence's clear intent that the treatment is meant to help and ease pain." },
+        { "distractor": "risky", "closeness": 1, "reasoning": "Risky means dangerous or uncertain, opposite to the doctor's careful choice of a safer alternative to surgery." },
+        { "distractor": "counterproductive", "closeness": 1, "reasoning": "Counterproductive means hindering rather than helping progress, contradicting the sentence's premise that physical therapy eases pain." }
+      ]
+    },
+    {
+      "sentence": "When the community faced rising racial tensions, the mayor's vague calls for 'unity' seemed like mere anodyne rhetoric that ignored the underlying problems.",
+      "answerChoices": [
+        { "distractor": "pacifying", "closeness": 3, "reasoning": "Pacifying means calming or appeasing, similar to anodyne, but focuses on quieting resistance rather than soothing pain or distress." },
+        { "distractor": "hollow", "closeness": 3, "reasoning": "Hollow suggests empty or insincere words, which overlaps with anodyne's superficiality, but doesn't capture the intent to soothe." },
+        { "distractor": "abstract", "closeness": 3, "reasoning": "Abstract describes vague or theoretical language, matching the 'vague' descriptor, but misses anodyne's connotation of providing temporary relief." },
+        { "distractor": "dismissive", "closeness": 3, "reasoning": "Dismissive means treating as unimportant, whereas anodyne suggests attempting to comfort or ease rather than brush aside." },
+        { "distractor": "combative", "closeness": 2, "reasoning": "Combative means eager to fight or confront, opposite to the soothing and conflict-avoiding nature of the mayor's words." },
+        { "distractor": "divisive", "closeness": 2, "reasoning": "Divisive means creating separation, whereas the mayor's rhetoric aims to smooth over and ease tensions, even if ineffectively." },
+        { "distractor": "inflammatory", "closeness": 2, "reasoning": "Inflammatory means tending to provoke outrage, opposite to rhetoric designed to calm or soothe tensions." },
+        { "distractor": "transparent", "closeness": 2, "reasoning": "Transparent means clear and honest, contradicting the 'vague' nature shown in the sentence." },
+        { "distractor": "substantive", "closeness": 1, "reasoning": "Substantive means dealing with actual facts or real issues, opposite to rhetoric that ignores underlying problems." },
+        { "distractor": "incisive", "closeness": 1, "reasoning": "Incisive means sharp and penetrating, opposite to the vague, superficial approach the sentence criticizes." },
+        { "distractor": "challenging", "closeness": 1, "reasoning": "Challenging means presenting difficulty or requiring confrontation, opposite to rhetoric designed to smooth tensions without addressing them." }
+      ]
+    }
+  ]
+}

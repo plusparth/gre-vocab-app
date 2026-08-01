@@ -1,0 +1,53 @@
+{
+  "word": "antedated",
+  "sentenceSets": [
+    {
+      "sentence": "The contract was antedated to avoid the newly enacted tax law, a fraud the court found immediately.",
+      "answerChoices": [
+        { "distractor": "falsified", "closeness": 3, "reasoning": "Falsified means made false or altered dishonestly, which the contract was, but doesn't specifically mean changing the date." },
+        { "distractor": "backdated", "closeness": 3, "reasoning": "Backdated means assigned a date earlier than actual, nearly identical to antedated, but may suggest less formal terminology." },
+        { "distractor": "predated", "closeness": 3, "reasoning": "Predated means existed before in time, which the false date suggests, but doesn't convey deliberate date manipulation." },
+        { "distractor": "forged", "closeness": 3, "reasoning": "Forged means created fraudulently, which the contract was, but doesn't specifically address the date manipulation aspect." },
+        { "distractor": "tampered", "closeness": 2, "reasoning": "Tampered means made unauthorized changes to, which was done to the contract, but doesn't specifically mean changing the date." },
+        { "distractor": "altered", "closeness": 2, "reasoning": "Altered means changed or modified, which the contract was, but doesn't specifically mean the date was changed." },
+        { "distractor": "modified", "closeness": 2, "reasoning": "Modified means changed in some way, which the contract was, but doesn't specifically indicate date manipulation." },
+        { "distractor": "counterfeited", "closeness": 2, "reasoning": "Counterfeited means made an illegal copy of, which the contract essentially was, but doesn't specifically mean the date was false." },
+        { "distractor": "validated", "closeness": 1, "reasoning": "Validated means confirmed or verified as genuine, opposite to deliberately falsifying a contract with fraudulent dating." },
+        { "distractor": "authenticated", "closeness": 1, "reasoning": "Authenticated means confirmed as genuine, opposite to the fraudulent antedating the court discovered." },
+        { "distractor": "executed", "closeness": 1, "reasoning": "Executed means carried out or put into effect, which the contract was, but opposite to the sense of fraudulently changing dates." }
+      ]
+    },
+    {
+      "sentence": "The memo was antedated by six months to make it seem that the company had issued warnings before the crisis occurred.",
+      "answerChoices": [
+        { "distractor": "backdated", "closeness": 3, "reasoning": "Backdated means assigned a date earlier than actual, synonymous with antedated, but may suggest more casual adjustment." },
+        { "distractor": "predated", "closeness": 3, "reasoning": "Predated means existed before in time, which the false memo seems to do, but doesn't convey deliberate manipulation." },
+        { "distractor": "falsified", "closeness": 3, "reasoning": "Falsified means made false or altered, which the memo was, but doesn't specifically address the date." },
+        { "distractor": "doctored", "closeness": 3, "reasoning": "Doctored means tampered with or altered dishonestly, which the memo was, but doesn't specifically mean changing dates." },
+        { "distractor": "postdated", "closeness": 2, "reasoning": "Postdated means assigned a date later than actual, opposite to antedated, though using the same date-manipulation framework." },
+        { "distractor": "redated", "closeness": 2, "reasoning": "Redated means changed the date of something, which was done to the memo, though perhaps less specifically fraudulent sounding." },
+        { "distractor": "misdated", "closeness": 2, "reasoning": "Misdated means incorrectly dated, which happened to the memo, but suggests error rather than intentional fraud." },
+        { "distractor": "chronologically altered", "closeness": 2, "reasoning": "Chronologically altered means changed in time sequence, which the memo was, but is more awkward and less specific." },
+        { "distractor": "created", "closeness": 1, "reasoning": "Created means brought into being, but doesn't capture the fraudulent earlier dating to suggest prior knowledge." },
+        { "distractor": "documented", "closeness": 1, "reasoning": "Documented means recorded or recorded formally, but doesn't convey the fraudulent nature of the altered date." },
+        { "distractor": "certified", "closeness": 1, "reasoning": "Certified means confirmed as genuine or official, opposite to a memo that was fraudulently antedated." }
+      ]
+    },
+    {
+      "sentence": "The historian discovered that the treaty had been antedated in the original archive, likely by a clerk trying to claim credit for diplomatic progress that actually occurred later.",
+      "answerChoices": [
+        { "distractor": "misdated", "closeness": 3, "reasoning": "Misdated means incorrectly dated, which the treaty was, but suggests accident or error rather than deliberate falsification." },
+        { "distractor": "predated", "closeness": 3, "reasoning": "Predated means existed before in time, which the false date suggests, but doesn't convey deliberate manipulation." },
+        { "distractor": "backdated", "closeness": 3, "reasoning": "Backdated means assigned a date earlier than actual, nearly identical to antedated, but may suggest informal or casual adjustment." },
+        { "distractor": "incorrectly dated", "closeness": 3, "reasoning": "Incorrectly dated means given the wrong date, which the treaty was, but could suggest error rather than intentional falsification." },
+        { "distractor": "forged", "closeness": 2, "reasoning": "Forged means created fraudulently, but the entry itself wasn't forged, just its dating was altered." },
+        { "distractor": "altered", "closeness": 2, "reasoning": "Altered means changed or modified, which the date was, but doesn't specifically address the chronological falsification." },
+        { "distractor": "tampered with", "closeness": 2, "reasoning": "Tampered with means made unauthorized changes to, which occurred to the archive entry, but doesn't specify date manipulation." },
+        { "distractor": "falsified", "closeness": 2, "reasoning": "Falsified means made false, which the date was, but is more general than specifically dating falsification." },
+        { "distractor": "verified", "closeness": 1, "reasoning": "Verified means confirmed as accurate or true, opposite to falsifying the date to give false credit." },
+        { "distractor": "authenticated", "closeness": 1, "reasoning": "Authenticated means confirmed as genuine, opposite to deliberately false dating in the archive." },
+        { "distractor": "preserved accurately", "closeness": 1, "reasoning": "Preserved accurately means maintained truthfully, opposite to the clerk's deliberate falsification of the date." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "tonicity",
+  "sentenceSets": [
+    {
+      "sentence": "The physician measured the tonicity of the patient's muscle tissue, checking whether the tissue maintained healthy resistance to passive movement.",
+      "answerChoices": [
+        { "distractor": "elasticity", "closeness": 3, "reasoning": "Elasticity is the ability to return to original shape after stretching, and the sentence describes resistance to movement; however, 'elasticity' focuses on recovery, while 'tonicity' focuses on baseline muscle tension and tone." },
+        { "distractor": "resilience", "closeness": 3, "reasoning": "'Resilience' is the ability to bounce back from stress, fitting the resistance to passive movement; however, 'resilience' emphasizes recovery, while 'tonicity' emphasizes the underlying quality of muscular tension." },
+        { "distractor": "tension", "closeness": 3, "reasoning": "'Tension' is a state of tautness or strain, closely related to muscular tone; the distinction is that 'tension' is the state itself, while 'tonicity' is the property or capacity to maintain tone." },
+        { "distractor": "rigidity", "closeness": 3, "reasoning": "'Rigidity' means stiffness or inability to bend, and muscle tone affects rigidity; however, 'rigidity' suggests inflexible hardness, while 'tonicity' suggests balanced, healthy muscle tone that allows controlled movement." },
+        { "distractor": "flexibility", "closeness": 2, "reasoning": "'Flexibility' is the ability to bend or move, opposite to rigidity; while tonicity affects flexibility, the sentence emphasizes resistance to movement, not flexibility itself." },
+        { "distractor": "strength", "closeness": 2, "reasoning": "'Strength' is the capacity to exert force, and muscle tonicity contributes to strength; however, the sentence emphasizes passive resistance to movement, not active force production." },
+        { "distractor": "firmness", "closeness": 2, "reasoning": "'Firmness' means being solid and resistant to pressure; while related to muscle tone, the sentence specifically measures a medical property, not general firmness." },
+        { "distractor": "composition", "closeness": 2, "reasoning": "'Composition' refers to what something is made of; the sentence measures a property of tissue, not its chemical makeup or structure." },
+        { "distractor": "fluidity", "closeness": 1, "reasoning": "'Fluidity' means flowing or liquid-like quality; the sentence describes resistance to movement, which is opposite to fluidity." },
+        { "distractor": "deterioration", "closeness": 1, "reasoning": "'Deterioration' means breaking down or worsening; the sentence checks for healthy resistance, which is opposite to deterioration." },
+        { "distractor": "paralysis", "closeness": 1, "reasoning": "'Paralysis' is complete loss of muscle function; the sentence assesses healthy muscle resistance to movement, which is opposite to paralysis." }
+      ]
+    },
+    {
+      "sentence": "Solutions with different tonicity will cause cells to shrink or swell depending on whether they are hypertonic or hypotonic relative to the cell membrane.",
+      "answerChoices": [
+        { "distractor": "osmolarity", "closeness": 3, "reasoning": "Osmolarity measures the concentration of solutes in a solution, which directly determines tonicity; the distinction is that 'osmolarity' is the cause (solute concentration), while 'tonicity' is the effect (osmotic pressure on cells)." },
+        { "distractor": "concentration", "closeness": 3, "reasoning": "'Concentration' refers to the amount of dissolved particles, which determines how solutions affect cells; however, 'concentration' is a chemical property, while 'tonicity' is the osmotic effect on cells." },
+        { "distractor": "density", "closeness": 3, "reasoning": "'Density' is mass per unit volume, and denser solutions may have different tonicity; however, density is different from tonicity—a solution's density doesn't necessarily determine its tonicity." },
+        { "distractor": "pH", "closeness": 3, "reasoning": "'pH' measures acidity or alkalinity, and pH can affect cell behavior; however, pH is different from tonicity—a solution's pH doesn't determine whether cells shrink or swell osmotically." },
+        { "distractor": "viscosity", "closeness": 2, "reasoning": "'Viscosity' is the thickness or resistance to flow; while solutions with different compositions might have different viscosity, the sentence is specifically about osmotic effects on cells." },
+        { "distractor": "polarity", "closeness": 2, "reasoning": "'Polarity' refers to the distribution of electrical charge; while it affects molecular behavior, the sentence focuses on osmotic movement of water across membranes." },
+        { "distractor": "solubility", "closeness": 2, "reasoning": "'Solubility' is the ability of a substance to dissolve; while it affects solution composition, the sentence is about the osmotic effect of solutions on cells." },
+        { "distractor": "conductivity", "closeness": 2, "reasoning": "'Conductivity' is the ability to conduct electrical current, related to dissolved ions; however, the sentence is about osmotic effects, not electrical properties." },
+        { "distractor": "stability", "closeness": 1, "reasoning": "'Stability' means resistance to change; the sentence describes solutions causing cells to change (shrink or swell), which is opposite to stability." },
+        { "distractor": "inertness", "closeness": 1, "reasoning": "'Inertness' means lack of reactivity; the sentence describes solutions causing osmotic changes in cells, which demonstrates reactivity." },
+        { "distractor": "impermeability", "closeness": 1, "reasoning": "'Impermeability' means inability to pass through; the sentence describes osmotic pressure driving water across the cell membrane, which requires membrane permeability." }
+      ]
+    },
+    {
+      "sentence": "The tonicity of her voice—that quality of controlled tension and resonance—made her performance both powerful and expressive despite the quiet passages.",
+      "answerChoices": [
+        { "distractor": "timbre", "closeness": 3, "reasoning": "'Timbre' is the characteristic quality or color of a voice, and the sentence describes a quality of voice; however, 'timbre' refers to the distinctive sound quality, while 'tonicity' here refers to controlled tension and resonance." },
+        { "distractor": "resonance", "closeness": 3, "reasoning": "'Resonance' is mentioned in the sentence itself as part of tonicity, but 'resonance' alone doesn't capture the sense of controlled tension that defines tonicity." },
+        { "distractor": "modulation", "closeness": 3, "reasoning": "'Modulation' is variation of pitch or tone, which contributes to expressive performance; the distinction is that 'modulation' is about changing pitch, while 'tonicity' is about the underlying quality of tone." },
+        { "distractor": "vibrato", "closeness": 3, "reasoning": "'Vibrato' is the slight variation in pitch for emotional effect; while it contributes to expressive singing, it's a specific technique, not the underlying quality of controlled tension the sentence describes." },
+        { "distractor": "projection", "closeness": 2, "reasoning": "'Projection' is the ability to send voice outward; while it contributes to powerful performance, the sentence emphasizes the quality of tone, not projection." },
+        { "distractor": "articulation", "closeness": 2, "reasoning": "'Articulation' is the clarity of pronouncing words; while important to vocal performance, the sentence focuses on the quality of tone, not clarity of speech." },
+        { "distractor": "dynamics", "closeness": 2, "reasoning": "'Dynamics' refers to variations in volume, and the sentence mentions 'quiet passages'; however, dynamics address volume variation, not the quality of controlled tension." },
+        { "distractor": "phrasing", "closeness": 2, "reasoning": "'Phrasing' is the manner of grouping musical phrases, which contributes to expressiveness; however, the sentence emphasizes the quality of tone itself." },
+        { "distractor": "hoarseness", "closeness": 1, "reasoning": "'Hoarseness' is a rough or ragged voice quality resulting from strain; the sentence describes controlled tension and power, which is opposite to hoarseness." },
+        { "distractor": "weakness", "closeness": 1, "reasoning": "'Weakness' suggests faint or lacking power; the sentence describes a voice that is both powerful and expressive, opposite to weakness." },
+        { "distractor": "breathiness", "closeness": 1, "reasoning": "'Breathiness' is an airy quality lacking resonance; the sentence emphasizes resonance and controlled tension, which is opposite to breathiness." }
+      ]
+    }
+  ]
+}

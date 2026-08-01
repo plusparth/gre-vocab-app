@@ -26,10 +26,10 @@
         { "distractor": "underhanded", "closeness": 2, "reasoning": "The covert accumulation of 'damaging information' suggests underhanded behavior, though underhanded typically implies a single dishonest act rather than sustained scheming." },
         { "distractor": "treacherous", "closeness": 2, "reasoning": "Covertly working to harm a supervisor evokes treachery, but treacherous emphasizes betrayal more than the strategic patience the sentence highlights." },
         { "distractor": "duplicitous", "closeness": 2, "reasoning": "Playing the role of assistant while secretly gathering ammunition is duplicitous, but the sentence centers on strategic action rather than the duality of persona." },
-        { "distractor": "ambitious", "closeness": 2, "reasoning": "Waiting to 'strike' at a supervisor could reflect ruthless ambition, but ambitious doesn't carry the necessary implication of covert harmful intent." },
-        { "distractor": "vindictive", "closeness": 2, "reasoning": "Gathering damaging information to use against someone could suggest vindictiveness, though vindictive implies retaliation for a past wrong, which the sentence doesn't specify." },
+        { "distractor": "ambitious", "closeness": 2, "reasoning": "Waiting to strike could reflect ruthless ambition and advancement, but ambitious alone doesn't capture the deceptive, information-gathering aspect of conniving behavior." },
+        { "distractor": "vindictive", "closeness": 1, "reasoning": "While both involve harm, vindictive implies seeking revenge for a past wrong, whereas the sentence describes someone preparing future leverage against a supervisor with no prior harm mentioned." },
         { "distractor": "impetuous", "closeness": 1, "reasoning": "The assistant's patient, deliberate waiting for 'the opportune moment' directly contradicts impetuous, which implies acting hastily without forethought." },
-        { "distractor": "obsequious", "closeness": 1, "reasoning": "An obsequious assistant would be excessively compliant to please the supervisor — the opposite of what the sentence describes." },
+        { "distractor": "deceitful", "closeness": 3, "reasoning": "Quietly gathering damaging information while appearing to be a loyal assistant is fundamentally deceitful — playing a false role while secretly collecting ammunition." },
         { "distractor": "negligent", "closeness": 1, "reasoning": "The carefully planned covert activity in the sentence is the antithesis of negligence, which involves failure to take needed care." }
       ]
     },
@@ -40,7 +40,7 @@
         { "distractor": "scheming", "closeness": 3, "reasoning": "Covertly leaking information to undermine one's own party while pretending loyalty is exactly the kind of backstage scheming the word describes." },
         { "distractor": "duplicitous", "closeness": 3, "reasoning": "Outwardly belonging to a party while secretly feeding rivals damaging information is a textbook example of duplicity." },
         { "distractor": "treacherous", "closeness": 2, "reasoning": "Leaking one's own party's bill to rivals is an act of betrayal, making treacherous plausible, though it lacks the patient plotting implied by the context." },
-        { "distractor": "Machiavellian", "closeness": 2, "reasoning": "The cold, ends-justify-the-means logic of leaking the draft to undermine one's allies evokes Machiavellian strategy, though the word is less commonly substitutable in standard prose." },
+        { "distractor": "Machiavellian", "closeness": 3, "reasoning": "The cold, ends-justify-the-means logic of deliberately leaking information to undermine one's own party while maintaining a facade of loyalty is the essence of Machiavellian political maneuvering." },
         { "distractor": "subversive", "closeness": 2, "reasoning": "Undermining one's own party's position through covert leaks is subversive in effect, though subversive more broadly implies opposing an entire system." },
         { "distractor": "opportunistic", "closeness": 2, "reasoning": "Leaking the bill to gain personal advantage could read as opportunistic, but the sustained deception involved makes conniving more precise." },
         { "distractor": "cynical", "closeness": 2, "reasoning": "The willingness to sabotage one's own party's position suggests cynical disregard for collective loyalty, though cynical is attitudinal rather than behavioral." },

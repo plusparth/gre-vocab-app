@@ -1,0 +1,53 @@
+{
+  "word": "largess",
+  "sentenceSets": [
+    {
+      "sentence": "The foundation's largess had funded so many organizations that its priorities shaped an entire sector.",
+      "answerChoices": [
+        { "distractor": "endowment", "closeness": 3, "reasoning": "Close -- 'endowment' refers to funds set aside for an institution, which can overlap with largess, but endowments are typically permanent fixtures whereas largess emphasizes the act of generous giving." },
+        { "distractor": "subsidy", "closeness": 3, "reasoning": "Close -- 'subsidy' is a grant or financial support, which is related to largess, but subsidies are typically structured financial assistance rather than generous giving that shapes priorities." },
+        { "distractor": "patronage", "closeness": 3, "reasoning": "Close -- 'patronage' involves support and protection from a patron, but it emphasizes relationship and influence rather than the specific liberal giving that largess conveys." },
+        { "distractor": "generosity", "closeness": 3, "reasoning": "Close -- 'generosity' is the quality of being generous, whereas largess is the actual giving itself; the sentence requires the concrete noun for what was given, not the abstract quality." },
+        { "distractor": "bequest", "closeness": 2, "reasoning": "Incorrect -- 'bequest' is a gift left in a will after death, which is too specific and legal in nature compared to the ongoing philanthropic giving shown in the sentence." },
+        { "distractor": "donation", "closeness": 2, "reasoning": "Incorrect -- 'donation' is too casual and individual for the scope described; largess implies a grander scale of liberal giving." },
+        { "distractor": "assistance", "closeness": 2, "reasoning": "Incorrect -- 'assistance' is too generic and lacks the sense of liberal, generous giving that largess conveys." },
+        { "distractor": "benefit", "closeness": 2, "reasoning": "Incorrect -- 'benefit' refers to something advantageous that results, not the act of giving itself." },
+        { "distractor": "stinginess", "closeness": 1, "reasoning": "Opposite -- 'stinginess' means unwillingness to spend or give; the opposite of the generous giving described." },
+        { "distractor": "greed", "closeness": 1, "reasoning": "Opposite -- 'greed' is a selfish desire for wealth; completely contrary to the philanthropic generosity in the sentence." },
+        { "distractor": "expense", "closeness": 1, "reasoning": "Incorrect -- 'expense' is a cost incurred, not generous giving; it has the wrong semantic focus." }
+      ]
+    },
+    {
+      "sentence": "After inheriting a fortune, the aging philanthropist distributed her largess through scholarships, hospitals, and arts grants across three continents.",
+      "answerChoices": [
+        { "distractor": "wealth", "closeness": 3, "reasoning": "Close -- 'wealth' is the money itself, which is what is distributed, but the sentence requires a noun for the act or manner of generous giving, not simply the resource." },
+        { "distractor": "inheritance", "closeness": 3, "reasoning": "Close -- 'inheritance' is what she received, which makes it tempting, but the sentence requires a word for what she gave away, and largess emphasizes the generous manner of distribution." },
+        { "distractor": "bounty", "closeness": 3, "reasoning": "Close -- 'bounty' can mean a generous gift or reward, but it typically refers to a specific reward rather than the sustained pattern of liberal giving shown here." },
+        { "distractor": "fortune", "closeness": 3, "reasoning": "Close -- 'fortune' is the money itself, which she inherited, but the sentence asks for the word describing how she distributed it, not the source." },
+        { "distractor": "charity", "closeness": 2, "reasoning": "Incorrect -- 'charity' is the principle of giving to those in need, but largess is the actual giving itself and implies a sense of excess or liberality." },
+        { "distractor": "relief", "closeness": 2, "reasoning": "Incorrect -- 'relief' suggests aid to alleviate suffering, which is narrower than the diverse causes (scholarships, hospitals, arts) named in the sentence." },
+        { "distractor": "tribute", "closeness": 2, "reasoning": "Incorrect -- 'tribute' is a payment or expression of respect, which does not fit the context of philanthropic distribution." },
+        { "distractor": "allotment", "closeness": 2, "reasoning": "Incorrect -- 'allotment' means a portion assigned, which is too neutral and administrative compared to the generous giving implied." },
+        { "distractor": "hoarding", "closeness": 1, "reasoning": "Opposite -- 'hoarding' means accumulating and withholding, the opposite of the distribution and generosity in the sentence." },
+        { "distractor": "embezzlement", "closeness": 1, "reasoning": "Opposite -- 'embezzlement' is the illegal taking of funds, contrary to the legitimate philanthropic giving." },
+        { "distractor": "confiscation", "closeness": 1, "reasoning": "Incorrect -- 'confiscation' means forcible seizure, which contradicts the voluntary giving shown in the sentence." }
+      ]
+    },
+    {
+      "sentence": "The king's largess toward his court advisors had become so extravagant that the royal treasury began to show signs of strain.",
+      "answerChoices": [
+        { "distractor": "favoritism", "closeness": 3, "reasoning": "Close -- 'favoritism' means showing preference to certain individuals, which the king's generous giving displays, but it emphasizes bias rather than the liberal giving itself." },
+        { "distractor": "indulgence", "closeness": 3, "reasoning": "Close -- 'indulgence' is excessive gratification, which fits the 'extravagant' context, but it refers to self-gratification rather than giving to others." },
+        { "distractor": "munificence", "closeness": 3, "reasoning": "Close -- 'munificence' is another word for generous giving, nearly synonymous with largess, but it is slightly more formal and emphasizes magnificence rather than liberality." },
+        { "distractor": "benevolence", "closeness": 3, "reasoning": "Close -- 'benevolence' is the inclination to do good, which underlies largess, but the sentence requires the concrete act of giving, not the abstract quality." },
+        { "distractor": "lavishness", "closeness": 2, "reasoning": "Incorrect -- 'lavishness' emphasizes luxuriousness and extravagance, but it refers to excessive expenditure generally, not specifically to generous giving to others." },
+        { "distractor": "prodigality", "closeness": 2, "reasoning": "Incorrect -- 'prodigality' means wasteful spending, which overlaps with the strain on the treasury but lacks the sense of generous giving that largess implies." },
+        { "distractor": "patronization", "closeness": 2, "reasoning": "Incorrect -- 'patronization' involves condescending treatment, which contradicts the generous spirit of the sentence." },
+        { "distractor": "prerogative", "closeness": 2, "reasoning": "Incorrect -- 'prerogative' is a special right or privilege, which does not fit the context of giving or treasury strain." },
+        { "distractor": "stinginess", "closeness": 1, "reasoning": "Opposite -- 'stinginess' means unwillingness to give, directly contrary to the extravagant giving described." },
+        { "distractor": "austerity", "closeness": 1, "reasoning": "Opposite -- 'austerity' means severe economy and restraint, the opposite of the extravagant generosity shown." },
+        { "distractor": "parsimony", "closeness": 1, "reasoning": "Opposite -- 'parsimony' means extreme stinginess, directly contrary to largess." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "placate",
+  "sentenceSets": [
+    {
+      "sentence": "The concession was designed to placate the most vocal critics without addressing the underlying complaint.",
+      "answerChoices": [
+        { "distractor": "mollify", "closeness": 3, "reasoning": "Close -- 'mollify' means to soothe or calm anger, which is very similar to 'placate,' but it emphasizes emotional calming rather than strategic appeasement through concessions." },
+        { "distractor": "pacify", "closeness": 3, "reasoning": "Close -- 'pacify' means to restore peace or calm unrest, which is similar to 'placate,' but it does not specifically suggest the calculated granting of concessions shown in the sentence." },
+        { "distractor": "appease", "closeness": 3, "reasoning": "Close -- 'appease' means to satisfy by concession, which is nearly synonymous with 'placate,' but it emphasizes yielding to demands rather than the strategic superficial gesture implied here." },
+        { "distractor": "soothe", "closeness": 3, "reasoning": "Close -- 'soothe' means to calm or ease, which fits the calming effect of the concession, but it does not specifically suggest satisfying critics or making strategic concessions." },
+        { "distractor": "compromise", "closeness": 2, "reasoning": "Incorrect -- 'compromise' means to find middle ground; the sentence suggests the concession is designed to avoid real compromise, not to achieve it." },
+        { "distractor": "negotiate", "closeness": 2, "reasoning": "Incorrect -- 'negotiate' means to discuss and reach agreement; the sentence implies the concession is a unilateral gesture, not a negotiated settlement." },
+        { "distractor": "apprehend", "closeness": 2, "reasoning": "Incorrect -- 'apprehend' means to seize or understand; it is irrelevant to the context of managing dissent through concessions." },
+        { "distractor": "address", "closeness": 2, "reasoning": "Incorrect -- 'address' means to speak to or deal with directly; the sentence explicitly states the concession does not address the underlying complaint." },
+        { "distractor": "inflame", "closeness": 1, "reasoning": "Opposite -- 'inflame' means to make more intense or angry; this is the opposite of calming critics." },
+        { "distractor": "antagonize", "closeness": 1, "reasoning": "Opposite -- 'antagonize' means to provoke hostility; this contradicts the intent to calm vocal critics." },
+        { "distractor": "undermine", "closeness": 1, "reasoning": "Incorrect -- 'undermine' means to weaken or damage; this contradicts the concession's purpose of managing dissent." }
+      ]
+    },
+    {
+      "sentence": "The mayor offered a symbolic apology to placate angry residents, though she refused to change the controversial policy.",
+      "answerChoices": [
+        { "distractor": "assuage", "closeness": 3, "reasoning": "Close -- 'assuage' means to ease or calm pain or anger, which fits the apology's purpose, but it does not capture the sense of a strategic gesture made without substantive change." },
+        { "distractor": "allay", "closeness": 3, "reasoning": "Close -- 'allay' means to calm or reduce fear or doubt, which fits the apology's intent, but it does not specifically suggest satisfying with a hollow gesture." },
+        { "distractor": "quell", "closeness": 3, "reasoning": "Close -- 'quell' means to suppress or put down, which fits calming anger, but it emphasizes force or complete suppression rather than strategic appeasement." },
+        { "distractor": "soften", "closeness": 3, "reasoning": "Close -- 'soften' means to make less severe or harsh, which fits the effect of an apology, but it does not suggest the political calculation of making a gesture without real change." },
+        { "distractor": "satisfy", "closeness": 2, "reasoning": "Incorrect -- 'satisfy' means to fulfill expectations or desires; the sentence shows the apology is designed to avoid truly satisfying the residents' demands." },
+        { "distractor": "convince", "closeness": 2, "reasoning": "Incorrect -- 'convince' means to persuade through reasoning; the apology is symbolic, not reasoned persuasion." },
+        { "distractor": "console", "closeness": 2, "reasoning": "Incorrect -- 'console' means to comfort someone in distress; while it is related to calming, it does not fit the political context of managing opposition." },
+        { "distractor": "conciliate", "closeness": 2, "reasoning": "Incorrect -- 'conciliate' means to bring harmony or reach agreement; the sentence shows no attempt at real agreement or reconciliation." },
+        { "distractor": "provoke", "closeness": 1, "reasoning": "Opposite -- 'provoke' means to trigger anger or hostility; this contradicts the apology's intent." },
+        { "distractor": "enrage", "closeness": 1, "reasoning": "Opposite -- 'enrage' means to make furious; this is the opposite of calming angry residents." },
+        { "distractor": "dismiss", "closeness": 1, "reasoning": "Incorrect -- 'dismiss' means to reject or refuse to consider; while it describes her refusal to change policy, it is not an action that would calm residents." }
+      ]
+    },
+    {
+      "sentence": "The company offered bonuses to placate workers threatening to strike, calculating that a one-time payment was cheaper than a shutdown.",
+      "answerChoices": [
+        { "distractor": "bribe", "closeness": 3, "reasoning": "Close -- 'bribe' means to offer money to influence behavior, which describes the bonuses, but it carries illegal or unethical connotations that are not present in straightforward labor negotiations." },
+        { "distractor": "buy off", "closeness": 3, "reasoning": "Close -- 'buy off' means to stop someone's opposition with payment, which matches the company's strategy, but it is more colloquial and suggests dishonesty rather than straightforward appeasement." },
+        { "distractor": "compensate", "closeness": 3, "reasoning": "Close -- 'compensate' means to pay for work or loss, which describes the bonuses, but it does not capture the strategic intent to prevent strike action." },
+        { "distractor": "reward", "closeness": 3, "reasoning": "Close -- 'reward' means to give something in recognition of achievement, which the bonuses might seem to be, but it does not carry the sense of strategic appeasement under threat." },
+        { "distractor": "motivate", "closeness": 2, "reasoning": "Incorrect -- 'motivate' means to inspire action toward a goal; the bonuses are designed to prevent action, not inspire it." },
+        { "distractor": "satisfy", "closeness": 2, "reasoning": "Incorrect -- 'satisfy' means to fulfill desires or expectations; the sentence suggests the payment is calculated rather than aimed at true satisfaction." },
+        { "distractor": "disarm", "closeness": 2, "reasoning": "Incorrect -- 'disarm' means to remove hostility or make harmless; while the bonuses may neutralize worker opposition, 'disarm' suggests making workers harmless rather than appeasing their demands." },
+        { "distractor": "indulge", "closeness": 2, "reasoning": "Incorrect -- 'indulge' means to allow oneself or another something desired; the bonuses are a strategy, not indulgence." },
+        { "distractor": "antagonize", "closeness": 1, "reasoning": "Opposite -- 'antagonize' means to provoke hostility; this is the opposite of preventing a strike." },
+        { "distractor": "provoke", "closeness": 1, "reasoning": "Opposite -- 'provoke' means to trigger; this contradicts the company's goal of preventing strike action." },
+        { "distractor": "defy", "closeness": 1, "reasoning": "Incorrect -- 'defy' means to resist or challenge; this contradicts the company's goal of avoiding confrontation through the bonus offer." }
+      ]
+    }
+  ]
+}

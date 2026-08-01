@@ -1,0 +1,53 @@
+{
+  "word": "tender",
+  "sentenceSets": [
+    {
+      "sentence": "She tendered her resignation in terms that made it clear the decision was final and that a counter-offer would be declined.",
+      "answerChoices": [
+        { "distractor": "submitted", "closeness": 3, "reasoning": "Submitted means handed over for consideration, but the sentence emphasizes not just the act of giving notice but doing so in a manner that forecloses negotiation." },
+        { "distractor": "filed", "closeness": 3, "reasoning": "Filed describes formally recording a document, but the sentence's focus on terms that signal finality suggests something beyond mere procedural documentation." },
+        { "distractor": "announced", "closeness": 3, "reasoning": "Announced means publicly declared, yet the sentence stresses the formal communicative act of resignation specifically, expressed through particular language." },
+        { "distractor": "presented", "closeness": 3, "reasoning": "Presented means offered for consideration, but the sentence's emphasis on the firmness of her terms suggests something more official than simply laying out an idea." },
+        { "distractor": "revealed", "closeness": 2, "reasoning": "Revealed implies disclosing something previously hidden, but the sentence describes a formal resignation notice rather than the unveiling of information." },
+        { "distractor": "proposed", "closeness": 2, "reasoning": "Proposed means suggested for acceptance, but the sentence's stress on finality and rejection of counter-offers indicates not a proposal but a fait accompli." },
+        { "distractor": "requested", "closeness": 2, "reasoning": "Requested means asked for something, but the sentence shows the speaker making a unilateral statement of departure, not requesting permission or response." },
+        { "distractor": "expressed", "closeness": 2, "reasoning": "Expressed means communicated a feeling or idea, but the sentence's reference to resignation specifically requires an action more formal than mere expression." },
+        { "distractor": "withheld", "closeness": 1, "reasoning": "Withheld means refused to give or release, the opposite of offering a resignation." },
+        { "distractor": "retracted", "closeness": 1, "reasoning": "Retracted means withdrew or took back, contradicting the sentence's indication that the resignation was irrevocable." },
+        { "distractor": "accepted", "closeness": 1, "reasoning": "Accepted means agreed to receive something; the sentence shows the subject as the one giving resignation, not receiving it." }
+      ]
+    },
+    {
+      "sentence": "When the company tendered an offer to acquire the startup, the founders initially hesitated, wondering if a better deal might emerge from other bidders.",
+      "answerChoices": [
+        { "distractor": "made", "closeness": 3, "reasoning": "Made can describe presenting an offer, but 'tendered' specifically implies an official, formal proposal rather than a casual or preliminary overture." },
+        { "distractor": "posed", "closeness": 3, "reasoning": "Posed means presented as a question or possibility, but the sentence suggests a firm offer with financial terms, not a tentative hypothetical." },
+        { "distractor": "broached", "closeness": 3, "reasoning": "Broached means introduced a topic for discussion, yet the sentence describes a concrete acquisition proposal with negotiable terms, not the opening of a conversation." },
+        { "distractor": "extended", "closeness": 3, "reasoning": "Extended means reached out with an offer, but the sentence's mention of founders 'wondering if a better deal might emerge' suggests they received a formal binding proposal, not merely an extended hand." },
+        { "distractor": "hinted", "closeness": 2, "reasoning": "Hinted suggests an indirect or subtle suggestion, but the sentence portrays a serious acquisition proposal that founders actively consider and compare to alternatives." },
+        { "distractor": "intimated", "closeness": 2, "reasoning": "Intimated means communicated indirectly, but the sentence shows founders deliberating over the merits of an explicit offer, not reading between the lines." },
+        { "distractor": "signaled", "closeness": 2, "reasoning": "Signaled implies sending a message or indication, but the sentence's reference to founders considering whether better offers might exist suggests a formal proposal, not a signal." },
+        { "distractor": "intimacy", "closeness": 2, "reasoning": "Intimacy is affection or closeness, which doesn't fit the sentence's corporate acquisition context at all." },
+        { "distractor": "withheld", "closeness": 1, "reasoning": "Withheld means refused to give or reveal, the opposite of making an offer to acquire." },
+        { "distractor": "rejected", "closeness": 1, "reasoning": "Rejected means refused or turned down; the sentence shows the company making an offer, not refusing one." },
+        { "distractor": "concealed", "closeness": 1, "reasoning": "Concealed means hid or kept secret; the sentence requires an action that makes the proposal visible to the founders." }
+      ]
+    },
+    {
+      "sentence": "The diplomat tendered her credentials to the host nation, formally signaling her status as an official representative and requesting the recognition necessary for her duties.",
+      "answerChoices": [
+        { "distractor": "displayed", "closeness": 3, "reasoning": "Displayed means showed or exhibited, but the sentence's diplomatic context and reference to 'formal signaling' suggest a more official ceremonial act than mere display." },
+        { "distractor": "exhibited", "closeness": 3, "reasoning": "Exhibited means put on show or revealed, yet the sentence emphasizes the formal presentation required by diplomatic protocol, not casual exhibition." },
+        { "distractor": "showed", "closeness": 3, "reasoning": "Showed means made visible, but the sentence's context of status and official recognition implies a formal, ceremonial presentation rather than simply making something visible." },
+        { "distractor": "produced", "closeness": 3, "reasoning": "Produced means brought forth or made available, yet the sentence's emphasis on formality and the request for recognition suggests an official ceremony beyond mere production." },
+        { "distractor": "shared", "closeness": 2, "reasoning": "Shared means gave to others or distributed, but the sentence's diplomatic context requires a formal act of presentation to authorities, not a casual sharing of information." },
+        { "distractor": "delivered", "closeness": 2, "reasoning": "Delivered means handed over, but the sentence stresses the formal nature of the credentials presentation and its role in requesting recognition, not just physical transfer." },
+        { "distractor": "gave", "closeness": 2, "reasoning": "Gave is too casual and general for the formal, protocol-driven diplomatic act the sentence describes." },
+        { "distractor": "offered", "closeness": 2, "reasoning": "Offered suggests presenting something for acceptance, but the sentence indicates a formal duty within diplomatic procedure, not a tentative proposal." },
+        { "distractor": "withheld", "closeness": 1, "reasoning": "Withheld means refused to give; the sentence shows the diplomat presenting credentials, not refusing to do so." },
+        { "distractor": "falsified", "closeness": 1, "reasoning": "Falsified means made false or fraudulent; the sentence describes an official, legitimate presentation of credentials." },
+        { "distractor": "lost", "closeness": 1, "reasoning": "Lost means no longer possessed; the sentence requires an action involving deliberate presentation of credentials." }
+      ]
+    }
+  ]
+}

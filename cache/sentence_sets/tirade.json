@@ -1,0 +1,53 @@
+{
+  "word": "tirade",
+  "sentenceSets": [
+    {
+      "sentence": "Her tirade at the meeting communicated the accumulated frustration of months but did not produce any change in the situation she was frustrated about.",
+      "answerChoices": [
+        { "distractor": "compliment", "closeness": 3, "reasoning": "A compliment is praise but the sentence describes angry, critical speech communicating frustration." },
+        { "distractor": "observation", "closeness": 3, "reasoning": "An observation is a neutral remark but the sentence shows harsh, intemperate speech." },
+        { "distractor": "request", "closeness": 3, "reasoning": "A request is a polite appeal but the sentence describes an angry outburst." },
+        { "distractor": "summary", "closeness": 3, "reasoning": "A summary is a brief overview but the sentence describes a prolonged outburst." },
+        { "distractor": "question", "closeness": 2, "reasoning": "A question asks for information but the sentence describes an angry critical outburst." },
+        { "distractor": "suggestion", "closeness": 2, "reasoning": "A suggestion is a proposal but the sentence describes an angry outburst." },
+        { "distractor": "whisper", "closeness": 2, "reasoning": "A whisper is quiet speech but the sentence implies loud, forceful expression of accumulated frustration." },
+        { "distractor": "comment", "closeness": 2, "reasoning": "A comment is a brief remark but the sentence describes a protracted outburst." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence is absence of speech but the sentence describes a tirade—spoken outburst." },
+        { "distractor": "applause", "closeness": 1, "reasoning": "Applause is approval but the sentence describes criticism and frustration." },
+        { "distractor": "solution", "closeness": 1, "reasoning": "A solution resolves problems but the sentence shows the tirade produced no change." }
+      ]
+    },
+    {
+      "sentence": "The critic's tirade against the film consisted of harsh denunciations of the script, acting, and cinematography without acknowledging any merits.",
+      "answerChoices": [
+        { "distractor": "praise", "closeness": 3, "reasoning": "Praise is expressing approval but the sentence describes harsh denunciation without acknowledging merits." },
+        { "distractor": "endorsement", "closeness": 3, "reasoning": "An endorsement is approval but the sentence describes a critical outburst." },
+        { "distractor": "tribute", "closeness": 3, "reasoning": "A tribute honors or praises but the sentence describes harsh denunciation." },
+        { "distractor": "review", "closeness": 3, "reasoning": "A review is critical evaluation but a balanced review acknowledges merits; the sentence shows denunciation only." },
+        { "distractor": "assessment", "closeness": 2, "reasoning": "An assessment is evaluation but typically balanced; the sentence shows one-sided harsh denunciation." },
+        { "distractor": "commentary", "closeness": 2, "reasoning": "Commentary is explanation but the sentence describes angry denunciation." },
+        { "distractor": "analysis", "closeness": 2, "reasoning": "Analysis is detailed examination but the sentence shows angry outburst denunciation." },
+        { "distractor": "observation", "closeness": 2, "reasoning": "An observation is a remark but the sentence describes prolonged harsh denunciation." },
+        { "distractor": "whisper", "closeness": 1, "reasoning": "A whisper is quiet but the sentence describes a harsh tirade—loud outburst." },
+        { "distractor": "compliment", "closeness": 1, "reasoning": "A compliment is praise but the sentence describes harsh denunciation." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence is absence of speech but the sentence describes a tirade—expressed outburst." }
+      ]
+    },
+    {
+      "sentence": "The senator's tirade on the floor of Congress attacked the opposition's hypocrisy so vehemently that it temporarily shut down productive dialogue.",
+      "answerChoices": [
+        { "distractor": "conciliation", "closeness": 3, "reasoning": "Conciliation is seeking agreement but the sentence describes a vehement attack that shut down dialogue." },
+        { "distractor": "compromise", "closeness": 3, "reasoning": "Compromise is mutual adjustment but the sentence describes vehement attack shutting dialogue." },
+        { "distractor": "mediation", "closeness": 3, "reasoning": "Mediation seeks to resolve conflict but the sentence shows vehement attack halting dialogue." },
+        { "distractor": "appeal", "closeness": 3, "reasoning": "An appeal makes a request but the sentence describes an angry attack." },
+        { "distractor": "argument", "closeness": 2, "reasoning": "An argument presents reasoning but a tirade is harshly censorious outburst." },
+        { "distractor": "debate", "closeness": 2, "reasoning": "A debate exchanges arguments but the sentence shows vehement attack shutting dialogue." },
+        { "distractor": "discussion", "closeness": 2, "reasoning": "A discussion exchanges ideas but the sentence shows vehement attack halting productive dialogue." },
+        { "distractor": "speech", "closeness": 2, "reasoning": "A speech is any address but the sentence describes a harsh, intemperate outburst specifically." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence is absence of speech but the sentence describes a vehement verbal attack." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Praise expresses approval but the sentence describes harsh attack." },
+        { "distractor": "agreement", "closeness": 1, "reasoning": "Agreement shows accord but the sentence shows attack that disrupted dialogue." }
+      ]
+    }
+  ]
+}

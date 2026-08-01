@@ -1,0 +1,53 @@
+{
+  "word": "frieze",
+  "sentenceSets": [
+    {
+      "sentence": "The frieze along the top of the building told a story in stone that most visitors walked past without noticing.",
+      "answerChoices": [
+        { "distractor": "relief", "closeness": 3, "reasoning": "Close -- 'relief' is a sculptural technique and can appear as a decorative band like a frieze, but 'relief' refers to the carving technique itself rather than the band's location or narrative function." },
+        { "distractor": "medallion", "closeness": 3, "reasoning": "Close -- 'medallion' is a circular decorative element that can appear on building facades, but it is distinct from the horizontal band of narrative sculpture that a frieze is." },
+        { "distractor": "mural", "closeness": 3, "reasoning": "Close -- 'mural' is a painted or relief image on a wall that tells a story, which fits the narrative aspect, but it lacks the specific structural placement 'along the top' and doesn't indicate the sculptural nature." },
+        { "distractor": "cornice", "closeness": 3, "reasoning": "Close -- 'cornice' is a decorative band near the top of a building, which fits the structural placement described, but it refers specifically to a projecting element that frames rather than a narrative sculptural element." },
+        { "distractor": "inscription", "closeness": 2, "reasoning": "Incorrect -- 'inscription' is text carved into stone that tells a story, but it is not a decorative band of imagery the way a frieze is." },
+        { "distractor": "border", "closeness": 2, "reasoning": "Incorrect -- 'border' describes a decorative edge or frame, but it lacks the narrative storytelling quality and sculptural specificity of a frieze." },
+        { "distractor": "ornament", "closeness": 2, "reasoning": "Incorrect -- 'ornament' is any decorative element, but it is too generic and doesn't specify the narrative band at the top of a building." },
+        { "distractor": "pediment", "closeness": 2, "reasoning": "Incorrect -- 'pediment' is the triangular gable above a door or window, which is a different architectural element from the horizontal band described." },
+        { "distractor": "interior", "closeness": 1, "reasoning": "Opposite -- 'interior' refers to inside spaces, whereas the sentence clearly describes a band along the top of the building, an exterior feature." },
+        { "distractor": "ceiling", "closeness": 1, "reasoning": "Opposite -- 'ceiling' is an interior overhead surface, not an exterior decorative band along the top of a building." },
+        { "distractor": "foundation", "closeness": 1, "reasoning": "Opposite -- 'foundation' is the base of a building, the opposite of the top placement described in the sentence." }
+      ]
+    },
+    {
+      "sentence": "The museum's restoration team carefully cleaned the frieze, revealing colors and details that centuries of grime had concealed.",
+      "answerChoices": [
+        { "distractor": "sculpture", "closeness": 3, "reasoning": "Close -- 'sculpture' is a carved or three-dimensional art form, but it is a broader category than frieze, which specifies a decorative band on an architectural surface." },
+        { "distractor": "relief", "closeness": 3, "reasoning": "Close -- 'relief' is a sculptural technique creating raised images on a surface, which a frieze often uses, but 'relief' describes the technique rather than the specific architectural placement and linear arrangement." },
+        { "distractor": "panel", "closeness": 3, "reasoning": "Close -- 'panel' is a distinct section of decoration, which could be part of a frieze, but it lacks the sense of a continuous band running along a surface." },
+        { "distractor": "ornament", "closeness": 3, "reasoning": "Close -- 'ornament' means a decorative element, which fits the restoration context, but it is generic and doesn't specify the continuous band or architectural nature of a frieze." },
+        { "distractor": "artifact", "closeness": 2, "reasoning": "Incorrect -- 'artifact' is any object of historical or cultural significance, but it doesn't specify the architectural, decorative band nature of a frieze." },
+        { "distractor": "mural", "closeness": 2, "reasoning": "Incorrect -- 'mural' is a painted or drawn image on a wall, but friezes are typically sculptural and carved, not painted." },
+        { "distractor": "display", "closeness": 2, "reasoning": "Incorrect -- 'display' means an arrangement shown for viewing, but the sentence refers to a specific architectural element, not a general exhibition." },
+        { "distractor": "portrait", "closeness": 2, "reasoning": "Incorrect -- 'portrait' depicts an individual person, but a frieze is a decorative band with narrative or ornamental content that is not typically a portrait." },
+        { "distractor": "interior", "closeness": 1, "reasoning": "Opposite -- 'interior' refers to indoor spaces, but the restoration of centuries of grime accumulated on a building surface suggests an exterior architectural element." },
+        { "distractor": "modern", "closeness": 1, "reasoning": "Opposite -- 'modern' means recent or contemporary, but the sentence describes an element old enough to have accumulated centuries of grime." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "Opposite -- 'transparent' means see-through or clear, the opposite of something covered by centuries of grime that needed careful cleaning." }
+      ]
+    },
+    {
+      "sentence": "The textile designer drew inspiration from Baroque friezes, incorporating the ornate horizontal bands into a contemporary fabric pattern.",
+      "answerChoices": [
+        { "distractor": "tapestry", "closeness": 3, "reasoning": "Close -- 'tapestry' is a woven textile with decorative scenes, which shares the narrative or ornamental quality of a frieze, but it is a complete fabric rather than a horizontal band or border element." },
+        { "distractor": "trim", "closeness": 3, "reasoning": "Close -- 'trim' is a decorative band sewn onto fabric as an ornamental element, which echoes the horizontal band nature of a frieze, but 'trim' is narrower and typically applied to edges rather than an integrated pattern element." },
+        { "distractor": "border", "closeness": 3, "reasoning": "Close -- 'border' is a decorative edge or band that runs across fabric, which shares the horizontal linear quality of a frieze, but it typically frames edges rather than forming a central decorative band." },
+        { "distractor": "motif", "closeness": 3, "reasoning": "Close -- 'motif' is a recurring decorative element or design, which can be horizontal, but it refers to a repeating unit rather than a continuous horizontal band." },
+        { "distractor": "stripe", "closeness": 2, "reasoning": "Incorrect -- 'stripe' is a linear band of color or pattern, but it lacks the sculptural, ornate, and typically narrative quality of a Baroque frieze." },
+        { "distractor": "ornament", "closeness": 2, "reasoning": "Incorrect -- 'ornament' is a generic decorative element, but it doesn't specify the horizontal band or architectural inspiration that shaped the designer's work." },
+        { "distractor": "pattern", "closeness": 2, "reasoning": "Incorrect -- 'pattern' is too generic and already appears in the sentence; the specific inspiration from Baroque friezes suggests a more specific architectural term." },
+        { "distractor": "stencil", "closeness": 2, "reasoning": "Incorrect -- 'stencil' is a tool or template used to create designs, but it doesn't describe an architectural ornamental element." },
+        { "distractor": "solid", "closeness": 1, "reasoning": "Opposite -- 'solid' means uniform and without pattern or decoration, the opposite of the ornate, decorated quality of Baroque friezes." },
+        { "distractor": "abstract", "closeness": 1, "reasoning": "Opposite -- 'abstract' refers to non-representational art, whereas Baroque friezes are typically ornate and representational in nature." },
+        { "distractor": "uniform", "closeness": 1, "reasoning": "Opposite -- 'uniform' means consistent and lacking variety or decoration, the opposite of the intricate ornamental quality of Baroque architectural elements." }
+      ]
+    }
+  ]
+}

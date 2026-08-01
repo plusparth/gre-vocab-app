@@ -1,0 +1,53 @@
+{
+  "word": "subpoena",
+  "sentenceSets": [
+    {
+      "sentence": "She received a subpoena for documents that she had already prepared to provide voluntarily.",
+      "answerChoices": [
+        { "distractor": "summons", "closeness": 3, "reasoning": "A summons is a legal order to appear; the sentence shows a court-ordered demand for documents, but subpoena specifically commands appearance in court with penalty for failure." },
+        { "distractor": "demand", "closeness": 3, "reasoning": "A demand is a request for something as due; the sentence shows a court order for documents, but subpoena specifically includes legal penalties." },
+        { "distractor": "order", "closeness": 3, "reasoning": "An order is a command or directive; the sentence shows a legal court document, but subpoena specifically refers to the writ commanding court appearance." },
+        { "distractor": "warrant", "closeness": 3, "reasoning": "A warrant is a legal authorization; the sentence shows a court document demanding documents, but subpoena specifically commands appearance with penalty." },
+        { "distractor": "notice", "closeness": 2, "reasoning": "A notice is an announcement or warning; the sentence shows a legal demand, but subpoena specifically commands court appearance or document production with penalties." },
+        { "distractor": "request", "closeness": 2, "reasoning": "A request is an asking for something; the sentence shows a court-ordered demand, not a request." },
+        { "distractor": "citation", "closeness": 2, "reasoning": "A citation is an official notice; the sentence shows a demand for documents, but subpoena is more specific." },
+        { "distractor": "directive", "closeness": 2, "reasoning": "A directive is a general instruction or order; the sentence shows a legal court document, but subpoena is more specific." },
+        { "distractor": "permission", "closeness": 1, "reasoning": "Permission is authorization to do something; the sentence describes a subpoena ordering production of documents, the opposite of permission." },
+        { "distractor": "suggestion", "closeness": 1, "reasoning": "A suggestion is an idea proposed; the sentence shows a legal court order, the opposite of a suggestion." },
+        { "distractor": "invitation", "closeness": 1, "reasoning": "An invitation is a request to attend; the sentence describes a subpoena with legal penalty for non-compliance, the opposite of invitation." }
+      ]
+    },
+    {
+      "sentence": "The witness was served with a subpoena to testify about the accident she had witnessed.",
+      "answerChoices": [
+        { "distractor": "summons", "closeness": 3, "reasoning": "A summons is an order to appear in court; the sentence shows a legal document commanding testimony, but subpoena specifically includes the threat of penalty." },
+        { "distractor": "writ", "closeness": 3, "reasoning": "A writ is a legal document; the sentence shows a court order to testify, but subpoena is a specific type of writ." },
+        { "distractor": "notice", "closeness": 3, "reasoning": "A notice is a formal announcement; the sentence shows a legal order to testify, but subpoena specifically commands appearance with penalty." },
+        { "distractor": "order", "closeness": 3, "reasoning": "An order is a directive or command; the sentence shows a court order to testify, but subpoena is the specific legal term." },
+        { "distractor": "citation", "closeness": 2, "reasoning": "A citation is an official notice; the sentence shows a legal order to testify, but subpoena is more specific." },
+        { "distractor": "demand", "closeness": 2, "reasoning": "A demand is a request for something as due; the sentence shows a legal order, but subpoena specifically includes legal penalties." },
+        { "distractor": "request", "closeness": 2, "reasoning": "A request is an asking for something; the sentence shows a legal court order, not a request." },
+        { "distractor": "directive", "closeness": 2, "reasoning": "A directive is a general instruction; the sentence shows a specific legal court document, but subpoena is more precise." },
+        { "distractor": "invitation", "closeness": 1, "reasoning": "An invitation is a request to attend; the sentence describes a subpoena commanding testimony with penalty, the opposite of invitation." },
+        { "distractor": "suggestion", "closeness": 1, "reasoning": "A suggestion is an idea proposed; the sentence shows a legal court order commanding testimony, the opposite of a suggestion." },
+        { "distractor": "permission", "closeness": 1, "reasoning": "Permission is authorization to do something; the sentence describes a subpoena commanding testimony, the opposite of permission." }
+      ]
+    },
+    {
+      "sentence": "The defense attorney filed a subpoena to compel the prosecution to produce evidence they were withholding.",
+      "answerChoices": [
+        { "distractor": "request", "closeness": 3, "reasoning": "A request is an asking for something; the sentence shows a legal order to compel evidence production, but subpoena specifically forces compliance with penalty." },
+        { "distractor": "motion", "closeness": 3, "reasoning": "A motion is a formal request in court; the sentence shows a legal compulsion device, but subpoena specifically compels with legal penalties." },
+        { "distractor": "petition", "closeness": 3, "reasoning": "A petition is a formal written request; the sentence shows a compulsion mechanism, but subpoena specifically commands with legal penalties." },
+        { "distractor": "demand", "closeness": 3, "reasoning": "A demand is a request for something as due; the sentence shows a legal compulsion, but subpoena specifically carries the threat of penalty." },
+        { "distractor": "appeal", "closeness": 2, "reasoning": "An appeal is a request to reconsider a decision; the sentence shows a legal compulsion device, but subpoena is more direct." },
+        { "distractor": "order", "closeness": 2, "reasoning": "An order is a directive; the sentence shows a legal document compelling evidence, but subpoena is the specific legal term." },
+        { "distractor": "notice", "closeness": 2, "reasoning": "A notice is a formal announcement; the sentence shows a compulsion device, but subpoena specifically commands appearance or evidence with penalties." },
+        { "distractor": "citation", "closeness": 2, "reasoning": "A citation is an official notice; the sentence shows a legal compulsion mechanism, but subpoena is more specific." },
+        { "distractor": "permission", "closeness": 1, "reasoning": "Permission is authorization to do something; the sentence describes a subpoena compelling evidence production, the opposite of permission." },
+        { "distractor": "consent", "closeness": 1, "reasoning": "Consent is voluntary agreement; the sentence shows a subpoena compelling evidence from someone resisting, the opposite of consent." },
+        { "distractor": "willingness", "closeness": 1, "reasoning": "Willingness is voluntary agreement to do something; the sentence describes a subpoena compelling evidence production, the opposite of willingness." }
+      ]
+    }
+  ]
+}

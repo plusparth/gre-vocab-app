@@ -1,0 +1,53 @@
+{
+  "word": "annul",
+  "sentenceSets": [
+    {
+      "sentence": "The court moved to annul the contract, ruling it had been signed under duress.",
+      "answerChoices": [
+        { "distractor": "suspend", "closeness": 3, "reasoning": "To suspend means to temporarily halt; annulling renders the contract permanently void and invalid from the start." },
+        { "distractor": "defer", "closeness": 3, "reasoning": "To defer means to postpone; annulling makes the contract legally invalid, not merely postponed." },
+        { "distractor": "delay", "closeness": 3, "reasoning": "To delay means to put off temporarily; annulling makes the contract void and unenforceable, not temporarily delayed." },
+        { "distractor": "amend", "closeness": 3, "reasoning": "To amend means to change or modify; annulling renders the contract void, not merely changes its terms." },
+        { "distractor": "enforce", "closeness": 2, "reasoning": "To enforce means to compel compliance; annulling makes the contract void and unenforceable." },
+        { "distractor": "validate", "closeness": 2, "reasoning": "To validate means to confirm as valid; annulling does the opposite, declaring the contract invalid." },
+        { "distractor": "ratify", "closeness": 2, "reasoning": "To ratify means to officially approve; the court is declaring the contract invalid due to duress." },
+        { "distractor": "abrogate", "closeness": 2, "reasoning": "To abrogate means to repeal or abolish a law or agreement; while similar to annul, it typically refers to official repeal rather than declaring something never valid due to improper execution." },
+        { "distractor": "uphold", "closeness": 1, "reasoning": "To uphold means to maintain or defend; the court ruling to annul the contract due to duress does the opposite." },
+        { "distractor": "honor", "closeness": 1, "reasoning": "To honor means to show respect or fulfill; annulling the contract due to duress indicates it should not be honored." },
+        { "distractor": "execute", "closeness": 1, "reasoning": "To execute means to carry out; annulling the contract makes it void and unexecutable." }
+      ]
+    },
+    {
+      "sentence": "The religious authority moved to annul the marriage on the grounds that it had never been sacramentally valid.",
+      "answerChoices": [
+        { "distractor": "dissolve", "closeness": 3, "reasoning": "To dissolve means to end or terminate; annulling declares something never valid, whereas dissolution ends something that was valid." },
+        { "distractor": "terminate", "closeness": 3, "reasoning": "To terminate means to end or conclude; annulling declares the marriage never valid, not merely ending a valid union." },
+        { "distractor": "separate", "closeness": 3, "reasoning": "To separate means to divide or part; annulling declares a marriage never sacramentally valid, not merely ending it." },
+        { "distractor": "divorce", "closeness": 3, "reasoning": "Divorce ends a valid marriage; annulment declares a marriage never valid from the start." },
+        { "distractor": "postpone", "closeness": 2, "reasoning": "To postpone means to delay; annulling declares the marriage invalid, not merely postpones any action." },
+        { "distractor": "consecrate", "closeness": 2, "reasoning": "To consecrate means to make sacred; the authority is declaring the marriage never valid, not making it sacred." },
+        { "distractor": "bless", "closeness": 2, "reasoning": "To bless means to make holy; the authority is declaring the marriage invalid, not blessing it." },
+        { "distractor": "permit", "closeness": 2, "reasoning": "To permit means to allow or authorize; annulling prohibits continuation of the marriage based on its invalidity." },
+        { "distractor": "confirm", "closeness": 1, "reasoning": "To confirm means to verify or establish; the authority is declaring the marriage never valid, not confirming it." },
+        { "distractor": "sanctify", "closeness": 1, "reasoning": "To sanctify means to make holy or sacred; the authority declares the marriage never valid, not sacred." },
+        { "distractor": "validate", "closeness": 1, "reasoning": "To validate means to confirm as valid; annulling does the opposite, declaring the marriage never valid." }
+      ]
+    },
+    {
+      "sentence": "The election commission voted to annul the results of the election after discovering widespread fraud in several precincts.",
+      "answerChoices": [
+        { "distractor": "certify", "closeness": 3, "reasoning": "To certify means to verify as authentic; annulling the results declares them invalid and untrustworthy." },
+        { "distractor": "ratify", "closeness": 3, "reasoning": "To ratify means to officially approve; annulling the results rejects them due to fraud." },
+        { "distractor": "confirm", "closeness": 3, "reasoning": "To confirm means to establish as correct; discovering fraud and annulling contradicts confirmation." },
+        { "distractor": "validate", "closeness": 3, "reasoning": "To validate means to confirm as valid; annulling declares the results void due to fraud." },
+        { "distractor": "register", "closeness": 2, "reasoning": "To register means to record officially; annulling the results makes them void, not recorded as official." },
+        { "distractor": "publish", "closeness": 2, "reasoning": "To publish means to make public; annulling makes the results invalid, not public." },
+        { "distractor": "tally", "closeness": 2, "reasoning": "To tally means to count or record votes; annulling declares the results fraudulent and void." },
+        { "distractor": "broadcast", "closeness": 2, "reasoning": "To broadcast means to spread widely; after discovering fraud, the commission annuls rather than publicizes the results." },
+        { "distractor": "endorse", "closeness": 1, "reasoning": "To endorse means to give approval; discovering fraud and annulling the results shows disapproval." },
+        { "distractor": "approve", "closeness": 1, "reasoning": "To approve means to accept as satisfactory; discovering fraud leads to annulment, not approval." },
+        { "distractor": "accept", "closeness": 1, "reasoning": "To accept means to receive willingly; discovering fraud requires annulment, not acceptance." }
+      ]
+    }
+  ]
+}

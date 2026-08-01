@@ -1,0 +1,53 @@
+{
+  "word": "obtain",
+  "sentenceSets": [
+    {
+      "sentence": "To obtain the necessary permits, the developer spent months navigating bureaucratic requirements and submitting revised applications.",
+      "answerChoices": [
+        { "distractor": "acquire", "closeness": 3, "reasoning": "Close -- 'acquire' means to come into possession, but it's more passive; the sentence emphasizes deliberate effort over bureaucratic channels." },
+        { "distractor": "secure", "closeness": 3, "reasoning": "Close -- 'secure' means to gain control over something sought; both fit here, but 'obtain' emphasizes the procedural process while 'secure' emphasizes achievement." },
+        { "distractor": "retrieve", "closeness": 3, "reasoning": "Close -- 'retrieve' means to get back something that exists; the sentence suggests actively pursuing something that must be earned, not merely fetched." },
+        { "distractor": "procure", "closeness": 3, "reasoning": "Close -- 'procure' means to obtain by effort; nearly synonymous, but the sentence's context of bureaucratic processes suggests 'obtain' more directly." },
+        { "distractor": "earn", "closeness": 2, "reasoning": "Incorrect -- 'earn' implies deserving through merit; the sentence emphasizes procedural requirements rather than merit-based achievement." },
+        { "distractor": "win", "closeness": 2, "reasoning": "Incorrect -- 'win' suggests competition or fortune; the sentence describes a methodical bureaucratic process." },
+        { "distractor": "request", "closeness": 2, "reasoning": "Incorrect -- 'request' is asking for something; the sentence indicates actual attainment after effort, not merely asking." },
+        { "distractor": "demand", "closeness": 2, "reasoning": "Incorrect -- 'demand' means asserting a right; the sentence shows the developer complying with requirements, not demanding." },
+        { "distractor": "forfeit", "closeness": 1, "reasoning": "Opposite -- 'forfeit' means to lose or surrender; clearly contradictory to the developer's months of work to obtain permits." },
+        { "distractor": "renounce", "closeness": 1, "reasoning": "Opposite -- 'renounce' means to formally reject; the opposite of actively pursuing permits." },
+        { "distractor": "discard", "closeness": 1, "reasoning": "Incorrect -- 'discard' means to throw away; has no connection to pursuing bureaucratic requirements." }
+      ]
+    },
+    {
+      "sentence": "The activist was determined to obtain justice for the victims, even though the evidence had long since disappeared.",
+      "answerChoices": [
+        { "distractor": "achieve", "closeness": 3, "reasoning": "Close -- 'achieve' means to accomplish through effort; both fit, but 'obtain' suggests receiving or securing something concrete, while 'achieve' emphasizes success itself." },
+        { "distractor": "attain", "closeness": 3, "reasoning": "Close -- 'attain' means to reach or accomplish a goal; nearly synonymous, but the sentence's language of seeking justice suggests 'obtain' more directly." },
+        { "distractor": "realize", "closeness": 3, "reasoning": "Close -- 'realize' can mean to achieve a goal; the sentence could use either, but 'realize' often emphasizes making real or conscious, while 'obtain' emphasizes acquiring." },
+        { "distractor": "procure", "closeness": 3, "reasoning": "Close -- 'procure' means to obtain by effort; fits the sense of seeking justice, but the sentence's emotional and moral dimension suggests 'obtain' more naturally." },
+        { "distractor": "seek", "closeness": 2, "reasoning": "Incorrect -- 'seek' means to search for; the sentence implies not just looking but actually securing justice." },
+        { "distractor": "pursue", "closeness": 2, "reasoning": "Incorrect -- 'pursue' means to chase or follow; while the activist pursues justice, the sentence emphasizes achieving it." },
+        { "distractor": "recover", "closeness": 2, "reasoning": "Incorrect -- 'recover' implies regaining what was lost; the evidence is gone, so recovery is impossible." },
+        { "distractor": "salvage", "closeness": 2, "reasoning": "Incorrect -- 'salvage' means to rescue or save what remains; the missing evidence makes this unlikely to fit." },
+        { "distractor": "deny", "closeness": 1, "reasoning": "Opposite -- 'deny' means to refuse or withhold; contrary to obtaining justice." },
+        { "distractor": "obstruct", "closeness": 1, "reasoning": "Opposite -- 'obstruct' means to block or hinder; the opposite of seeking and obtaining justice." },
+        { "distractor": "abandon", "closeness": 1, "reasoning": "Incorrect -- 'abandon' means to give up; contradictory to the activist's determination to obtain justice." }
+      ]
+    },
+    {
+      "sentence": "The researcher was finally able to obtain samples from the remote location after years of coordination with local authorities.",
+      "answerChoices": [
+        { "distractor": "collect", "closeness": 3, "reasoning": "Close -- 'collect' means to gather; the sentence could use either, but 'collect' emphasizes gathering from a location while 'obtain' emphasizes successfully acquiring." },
+        { "distractor": "retrieve", "closeness": 3, "reasoning": "Close -- 'retrieve' means to get back; while similar, the sentence implies acquiring something to be used going forward, not recovering something prior." },
+        { "distractor": "extract", "closeness": 3, "reasoning": "Close -- 'extract' means to pull out; fits the context but emphasizes forceful removal, while the sentence shows negotiation." },
+        { "distractor": "secure", "closeness": 3, "reasoning": "Close -- 'secure' means to make safe or to gain; both fit, but the sentence emphasizes the effort of acquiring rather than making safe." },
+        { "distractor": "access", "closeness": 2, "reasoning": "Incorrect -- 'access' means to enter or gain entry; the researcher needed samples, not just entry to the location." },
+        { "distractor": "reach", "closeness": 2, "reasoning": "Incorrect -- 'reach' means to arrive at; the sentence implies successful acquisition of samples, not merely arriving." },
+        { "distractor": "find", "closeness": 2, "reasoning": "Incorrect -- 'find' means to discover; while the researcher might find samples, the sentence emphasizes deliberate obtaining after coordination." },
+        { "distractor": "locate", "closeness": 2, "reasoning": "Incorrect -- 'locate' means to find the position of; the sentence's emphasis on years of coordination suggests active acquisition, not mere location." },
+        { "distractor": "lose", "closeness": 1, "reasoning": "Opposite -- 'lose' means to misplace; contrary to the successful obtaining of samples after years of effort." },
+        { "distractor": "forfeit", "closeness": 1, "reasoning": "Opposite -- 'forfeit' means to give up; the opposite of the researcher's achievement." },
+        { "distractor": "abandon", "closeness": 1, "reasoning": "Incorrect -- 'abandon' means to leave behind; contradictory to years of coordination to obtain samples." }
+      ]
+    }
+  ]
+}

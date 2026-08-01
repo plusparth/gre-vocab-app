@@ -1,0 +1,53 @@
+{
+  "word": "levy",
+  "sentenceSets": [
+    {
+      "sentence": "The unexpected levy on imports disrupted supply chains that had been designed without it.",
+      "answerChoices": [
+        { "distractor": "tariff", "closeness": 3, "reasoning": "Close -- while a tariff is a tax on imports that fits the economic context, tariff is the standard technical term for trade taxes, whereas levy is the more general term for any formal assessment, making it more appropriate for an unexpected disruption." },
+        { "distractor": "duty", "closeness": 3, "reasoning": "Close -- a duty is a tax on imported goods that fits the economic context, but duty is the technical term for a specific tax on items, whereas levy is the broader term for any assessment imposed by authority." },
+        { "distractor": "surcharge", "closeness": 3, "reasoning": "Close -- a surcharge is an additional fee on top of a standard price that could disrupt supply chains, but surcharge emphasizes an extra charge, whereas levy refers to a formal and systematic assessment." },
+        { "distractor": "toll", "closeness": 3, "reasoning": "Close -- a toll is a charge for using infrastructure like roads or bridges that could disrupt commerce, but a toll is paid for use of a specific facility, whereas a levy is a general assessment on goods or persons." },
+        { "distractor": "fine", "closeness": 2, "reasoning": "Incorrect -- a fine is a penalty charge imposed for violating a rule or law; while it is a cost that could disrupt supply chains, the sentence describes a policy-based assessment, not a punitive fee." },
+        { "distractor": "penalty", "closeness": 2, "reasoning": "Incorrect -- a penalty is a punishment for breaking a rule, which implies wrongdoing; the sentence describes an official policy on imports, not a punitive measure for violation." },
+        { "distractor": "assessment", "closeness": 2, "reasoning": "Incorrect -- an assessment is an evaluation or calculation of value used to determine tax amounts, but it is not itself the tax; the sentence shows the imposition of the charge itself, not merely an appraisal." },
+        { "distractor": "charge", "closeness": 2, "reasoning": "Incorrect -- a charge is a general cost or expense, which is broader than levy; the sentence specifically describes an official assessment imposed by authority on trade goods." },
+        { "distractor": "exemption", "closeness": 1, "reasoning": "Opposite -- an exemption is relief from or exclusion from a tax; it is the opposite of a levy, which imposes a new financial obligation." },
+        { "distractor": "rebate", "closeness": 1, "reasoning": "Opposite -- a rebate is a return or refund of money already paid, which reverses a financial charge rather than imposing one as a levy does." },
+        { "distractor": "sanction", "closeness": 1, "reasoning": "Incorrect -- a sanction is a penalty or restriction imposed for wrongdoing; while sanctions can disrupt commerce, they are punitive measures for violations, not tax assessments." }
+      ]
+    },
+    {
+      "sentence": "The city council voted to impose a new levy on residential property to fund school improvements.",
+      "answerChoices": [
+        { "distractor": "tax", "closeness": 3, "reasoning": "Close -- a tax is a mandatory financial payment to government that is nearly synonymous with levy in this context, but tax is the general term for all government revenues, whereas levy specifically emphasizes the formal imposition of a specific assessment." },
+        { "distractor": "fee", "closeness": 3, "reasoning": "Close -- a fee is a charge for services or use that could be imposed on property, but fees typically compensate the payer for a service provided, whereas a levy is an assessment to fund general public needs." },
+        { "distractor": "charge", "closeness": 3, "reasoning": "Close -- a charge is a general cost imposed on something, which fits the sentence, but charge is more informal and generic, whereas levy is the formal term for an official government assessment." },
+        { "distractor": "valuation", "closeness": 3, "reasoning": "Close -- a valuation is an appraisal of property worth used to determine tax amounts, but valuation is the assessment process itself, not the tax imposed; levy refers to the actual collection action." },
+        { "distractor": "requirement", "closeness": 2, "reasoning": "Incorrect -- a requirement is something mandated or demanded, but the sentence specifically describes imposing a financial assessment rather than a behavioral or compliance mandate." },
+        { "distractor": "obligation", "closeness": 2, "reasoning": "Incorrect -- an obligation is a duty or responsibility, which could include owing money, but obligation is more general than the specific formal financial assessment that levy conveys." },
+        { "distractor": "burden", "closeness": 2, "reasoning": "Incorrect -- a burden is a heavy load or difficult responsibility that metaphorically applies to taxes, but burden emphasizes the hardship experienced by those bearing it, whereas levy emphasizes the government's action of imposing the assessment." },
+        { "distractor": "restriction", "closeness": 2, "reasoning": "Incorrect -- a restriction is a limitation or constraint on activities, but the sentence is about imposing a financial assessment, not constraining rights or freedoms." },
+        { "distractor": "grant", "closeness": 1, "reasoning": "Opposite -- a grant is money given by government to individuals or organizations; it flows in the opposite direction of a levy, which collects money from residents." },
+        { "distractor": "waiver", "closeness": 1, "reasoning": "Opposite -- a waiver is an exemption or forgiveness of a requirement; imposing a waiver means excusing compliance, whereas imposing a levy means creating a new financial obligation." },
+        { "distractor": "subsidy", "closeness": 1, "reasoning": "Opposite -- a subsidy is government financial support given to help someone, representing the opposite direction of money flow compared to a levy, which collects from citizens." }
+      ]
+    },
+    {
+      "sentence": "The feudal lord's levy supported military campaigns, and the peasants' resentment at this heavy burden eventually sparked rebellion.",
+      "answerChoices": [
+        { "distractor": "exaction", "closeness": 3, "reasoning": "Close -- an exaction is the act of demanding and forcibly obtaining money, which is very similar to a feudal levy, but exaction suggests harsh or potentially illegal extraction, whereas levy implies an authorized formal assessment." },
+        { "distractor": "tribute", "closeness": 3, "reasoning": "Close -- tribute is a payment owed to a ruler by subjects as a sign of submission, which resembles a feudal levy, but tribute emphasizes acknowledgment of the ruler's authority, whereas levy emphasizes the systematic collection to fund specific activities." },
+        { "distractor": "extraction", "closeness": 3, "reasoning": "Close -- extraction means drawing out or obtaining something, often money from people through pressure or coercion, which resembles a feudal levy, but extraction implies forceful taking against resistance, whereas levy suggests an established formal process." },
+        { "distractor": "imposition", "closeness": 3, "reasoning": "Close -- an imposition is something imposed by authority, especially a tax or burden, making it very similar to levy, but imposition emphasizes the burden and hardship on those affected, whereas levy emphasizes the formal act of assessment and collection." },
+        { "distractor": "demand", "closeness": 2, "reasoning": "Incorrect -- a demand is a forceful request or command for payment, which could describe a feudal levy, but demand emphasizes the commanding tone rather than the systematic, authorized nature of a formal tax." },
+        { "distractor": "requisition", "closeness": 2, "reasoning": "Incorrect -- a requisition is an official demand for specific supplies or goods needed for a purpose, but it focuses on claiming particular items, whereas a levy is a general assessment on property or persons to raise funds." },
+        { "distractor": "confiscation", "closeness": 2, "reasoning": "Incorrect -- confiscation is the forcible seizure of property by authority, which can involve taking money or valuables, but it implies seizing specific property items, whereas a levy is an imposed tax on people or property in general." },
+        { "distractor": "conscription", "closeness": 2, "reasoning": "Incorrect -- conscription is the compulsory enlistment of people into military service; while it is a compulsory imposition by feudal authority, it differs from a levy in that it conscripts people themselves rather than collecting money or goods." },
+        { "distractor": "donation", "closeness": 1, "reasoning": "Opposite -- a donation is a voluntary gift given willingly; it is the opposite of a levy, which is imposed by authority regardless of the giver's willingness." },
+        { "distractor": "remission", "closeness": 1, "reasoning": "Opposite -- remission is the cancellation or forgiveness of a debt or obligation; it is the opposite action of imposing a new levy." },
+        { "distractor": "forgiveness", "closeness": 1, "reasoning": "Opposite -- forgiveness is the cancellation of an obligation or debt owed, the opposite action from imposing a levy on subjects." }
+      ]
+    }
+  ]
+}

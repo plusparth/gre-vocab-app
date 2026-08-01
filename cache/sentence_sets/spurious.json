@@ -1,0 +1,185 @@
+{
+  "word": "spurious",
+  "sentenceSets": [
+    {
+      "sentence": "The spurious credential had gone unnoticed for years because no one had occasion to verify it.",
+      "answerChoices": [
+        {
+          "distractor": "false",
+          "closeness": 3,
+          "reasoning": "False means not true, but the sentence emphasizes the credential's *fake appearance* that escaped detection, not just falsity."
+        },
+        {
+          "distractor": "forged",
+          "closeness": 3,
+          "reasoning": "Forged means counterfeited, but spurious can be false without being intentionally created as a forgery."
+        },
+        {
+          "distractor": "fraudulent",
+          "closeness": 3,
+          "reasoning": "Fraudulent implies intentional deception for gain, but spurious indicates falseness without necessarily proving intent."
+        },
+        {
+          "distractor": "fake",
+          "closeness": 3,
+          "reasoning": "Fake means not genuine, but spurious emphasizes appearing genuine while actually being false."
+        },
+        {
+          "distractor": "fabricated",
+          "closeness": 2,
+          "reasoning": "Fabricated means invented or made up, but the sentence indicates the credential appeared genuine despite being false."
+        },
+        {
+          "distractor": "invented",
+          "closeness": 2,
+          "reasoning": "Invented means created from imagination, but the sentence emphasizes the credential's false *appearance* of legitimacy."
+        },
+        {
+          "distractor": "unsubstantiated",
+          "closeness": 2,
+          "reasoning": "Unsubstantiated means lacking proof, but spurious indicates the credential is *actually false*, not merely unproven."
+        },
+        {
+          "distractor": "questionable",
+          "closeness": 2,
+          "reasoning": "Questionable means open to doubt, but the sentence indicates the credential appeared legitimate, not questionable."
+        },
+        {
+          "distractor": "authentic",
+          "closeness": 1,
+          "reasoning": "Authentic means genuine and real; the opposite of a spurious credential."
+        },
+        {
+          "distractor": "legitimate",
+          "closeness": 1,
+          "reasoning": "Legitimate means genuine and valid; the opposite of a false credential that went undetected."
+        },
+        {
+          "distractor": "verified",
+          "closeness": 1,
+          "reasoning": "Verified means proven true; the opposite of a spurious credential that escaped verification."
+        }
+      ]
+    },
+    {
+      "sentence": "The spurious improvement lasted only hours before symptoms returned.",
+      "answerChoices": [
+        {
+          "distractor": "temporary",
+          "closeness": 3,
+          "reasoning": "Temporary means lasting a short time, but spurious indicates the improvement was *false*, not merely short-lived."
+        },
+        {
+          "distractor": "fleeting",
+          "closeness": 3,
+          "reasoning": "Fleeting means brief and passing, but the sentence indicates the improvement was *deceptive*, not just brief."
+        },
+        {
+          "distractor": "illusory",
+          "closeness": 3,
+          "reasoning": "Illusory means based on illusion or false perception, close to spurious, but spurious adds the sense of *appearing genuine*."
+        },
+        {
+          "distractor": "apparent",
+          "closeness": 3,
+          "reasoning": "Apparent means seeming to be true, but spurious indicates what appears true is actually false."
+        },
+        {
+          "distractor": "superficial",
+          "closeness": 2,
+          "reasoning": "Superficial means on the surface only, but the sentence indicates the improvement was *false*, not just surface-level."
+        },
+        {
+          "distractor": "transient",
+          "closeness": 2,
+          "reasoning": "Transient means lasting briefly, but spurious indicates falseness, not mere brevity."
+        },
+        {
+          "distractor": "ephemeral",
+          "closeness": 2,
+          "reasoning": "Ephemeral means lasting a very short time, but the sentence emphasizes falseness, not brief duration."
+        },
+        {
+          "distractor": "deceptive",
+          "closeness": 2,
+          "reasoning": "Deceptive means misleading, close to spurious, but spurious adds the sense of appearing genuine despite being false."
+        },
+        {
+          "distractor": "genuine",
+          "closeness": 1,
+          "reasoning": "Genuine means authentic and real; the opposite of a spurious improvement."
+        },
+        {
+          "distractor": "lasting",
+          "closeness": 1,
+          "reasoning": "Lasting means continuing over time; the opposite of an improvement that proved false within hours."
+        },
+        {
+          "distractor": "sustained",
+          "closeness": 1,
+          "reasoning": "Sustained means maintained over time; the opposite of spurious improvement that quickly reversed."
+        }
+      ]
+    },
+    {
+      "sentence": "The spurious connection between the two events was assumed rather than proven.",
+      "answerChoices": [
+        {
+          "distractor": "tenuous",
+          "closeness": 3,
+          "reasoning": "Tenuous means weak or thinly supported, but the sentence indicates a *false* connection, not merely weak."
+        },
+        {
+          "distractor": "unfounded",
+          "closeness": 3,
+          "reasoning": "Unfounded means lacking basis, but spurious indicates the connection is *actually false*, not merely unsupported."
+        },
+        {
+          "distractor": "unsubstantiated",
+          "closeness": 3,
+          "reasoning": "Unsubstantiated means lacking evidence, but the sentence indicates the connection is *false*, not merely unproven."
+        },
+        {
+          "distractor": "questionable",
+          "closeness": 3,
+          "reasoning": "Questionable means open to doubt, but the sentence indicates the connection appears valid while actually being false."
+        },
+        {
+          "distractor": "dubious",
+          "closeness": 2,
+          "reasoning": "Dubious means doubtful or questionable, but spurious indicates the connection is actually false, not merely doubtful."
+        },
+        {
+          "distractor": "circumstantial",
+          "closeness": 2,
+          "reasoning": "Circumstantial means based on indirect evidence, but spurious indicates the connection is false, not merely indirect."
+        },
+        {
+          "distractor": "imagined",
+          "closeness": 2,
+          "reasoning": "Imagined suggests created in the mind, but the sentence indicates the connection is assumed, not imagined."
+        },
+        {
+          "distractor": "speculative",
+          "closeness": 2,
+          "reasoning": "Speculative means based on conjecture, but spurious indicates the connection is actually false, not merely speculative."
+        },
+        {
+          "distractor": "genuine",
+          "closeness": 1,
+          "reasoning": "Genuine means authentic and real; the opposite of a spurious connection."
+        },
+        {
+          "distractor": "verifiable",
+          "closeness": 1,
+          "reasoning": "Verifiable means able to be proven true; the opposite of a spurious connection that is assumed rather than proven."
+        },
+        {
+          "distractor": "valid",
+          "closeness": 1,
+          "reasoning": "Valid means sound and justified; the opposite of a spurious connection that appears to exist without proof."
+        }
+      ]
+    }
+  ]
+}

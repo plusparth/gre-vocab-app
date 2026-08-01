@@ -1,0 +1,53 @@
+{
+  "word": "sufficient",
+  "sentenceSets": [
+    {
+      "sentence": "The evidence was sufficient to establish the general pattern but insufficient to prove the specific allegation.",
+      "answerChoices": [
+        { "distractor": "adequate", "closeness": 3, "reasoning": "'Adequate' means acceptable or satisfactory for a purpose, but the sentence shows the evidence met the need for establishing pattern—whether it's 'adequate' and 'sufficient' differ by nuance." },
+        { "distractor": "ample", "closeness": 3, "reasoning": "'Ample' means abundant or more than enough; the sentence shows evidence sufficient for one purpose but insufficient for another, suggesting not ample." },
+        { "distractor": "satisfactory", "closeness": 3, "reasoning": "'Satisfactory' means acceptable in quality; the sentence distinguishes between establishing a pattern and proving an allegation, so satisfaction varies by purpose." },
+        { "distractor": "complete", "closeness": 3, "reasoning": "'Complete' means whole or entire; the evidence shows a pattern but lacks specifics, so it's not complete for all purposes." },
+        { "distractor": "compelling", "closeness": 2, "reasoning": "Evidence might be compelling, but 'compelling' describes persuasiveness; the sentence shows the evidence is enough for establishing pattern but not for proving allegations." },
+        { "distractor": "extensive", "closeness": 2, "reasoning": "'Extensive' means broad in scope; the evidence establishes a pattern, but breadth doesn't tell us if it's sufficient for specific proof." },
+        { "distractor": "relevant", "closeness": 2, "reasoning": "The evidence is relevant to both pattern and allegation, but 'relevant' doesn't specify whether it's enough." },
+        { "distractor": "convincing", "closeness": 2, "reasoning": "Evidence might be convincing, but that's subjective; the sentence measures sufficiency for specific purposes, not persuasiveness." },
+        { "distractor": "insufficient", "closeness": 1, "reasoning": "The evidence is sufficient for establishing pattern; while insufficient for the allegation, the sentence contrasts these by starting with 'sufficient.'" },
+        { "distractor": "weak", "closeness": 1, "reasoning": "Evidence sufficient to establish a pattern is not weak; weakness would contradict its sufficiency." },
+        { "distractor": "vague", "closeness": 1, "reasoning": "Evidence sufficient to establish a pattern is not vague; vagueness would prevent establishing clear patterns." }
+      ]
+    },
+    {
+      "sentence": "The budget cuts were sufficient to reduce spending by the required percentage, though they compromised the program's ability to serve its full mandate.",
+      "answerChoices": [
+        { "distractor": "necessary", "closeness": 3, "reasoning": "The cuts are sufficient to meet the percentage target, but 'necessary' implies required or unavoidable, whereas the sentence suggests they came with unintended consequences." },
+        { "distractor": "adequate", "closeness": 3, "reasoning": "'Adequate' means satisfactory for purpose; while the cuts reduce spending adequately, the sentence shows problems with the result." },
+        { "distractor": "strategic", "closeness": 3, "reasoning": "The cuts might be strategic, but 'strategic' describes planning; the sentence shows they achieve the quantitative goal while compromising mandate." },
+        { "distractor": "appropriate", "closeness": 3, "reasoning": "'Appropriate' means suitable; the sentence implies the cuts, while meeting the percentage target, create problems inappropriate for a well-functioning program." },
+        { "distractor": "large", "closeness": 2, "reasoning": "The cuts are sufficient for the percentage reduction, but 'large' describes scale, not whether the amount meets a requirement." },
+        { "distractor": "harsh", "closeness": 2, "reasoning": "Cuts that compromise a program's mandate might be harsh, but 'harsh' describes impact, not whether they're sufficient." },
+        { "distractor": "substantial", "closeness": 2, "reasoning": "'Substantial' suggests significant in amount; the cuts are sufficient for the percentage, but size doesn't determine sufficiency." },
+        { "distractor": "timely", "closeness": 2, "reasoning": "The sentence addresses whether cuts are sufficient for a spending goal, not whether they occur at the right time." },
+        { "distractor": "insufficient", "closeness": 1, "reasoning": "The cuts are sufficient to reduce spending by the required percentage, so insufficient contradicts this." },
+        { "distractor": "excessive", "closeness": 1, "reasoning": "While the cuts compromise the mandate, they achieve the required percentage, so they're not excessive for that purpose." },
+        { "distractor": "inadequate", "closeness": 1, "reasoning": "The cuts meet the required percentage reduction, so they're not inadequate for that specific purpose." }
+      ]
+    },
+    {
+      "sentence": "The scholarship funding was sufficient to cover tuition and fees but left students to find their own resources for housing and meals.",
+      "answerChoices": [
+        { "distractor": "complete", "closeness": 3, "reasoning": "'Complete' means whole or entire; the funding covers some costs but students must find resources for others, so it's not complete." },
+        { "distractor": "comprehensive", "closeness": 3, "reasoning": "'Comprehensive' means including all or most things; the funding addresses tuition and fees but leaves housing and meals uncovered." },
+        { "distractor": "generous", "closeness": 3, "reasoning": "'Generous' means ample and lavish; the funding is sufficient for tuition and fees but requires students to cover living expenses elsewhere." },
+        { "distractor": "ample", "closeness": 3, "reasoning": "'Ample' means abundant or more than enough; the funding covers specific costs but leaves students with uncovered expenses." },
+        { "distractor": "abundant", "closeness": 2, "reasoning": "Abundant would suggest overflowing resources; the funding covers tuition and fees but is not abundant enough for all needs." },
+        { "distractor": "munificent", "closeness": 2, "reasoning": "'Munificent' means lavishly generous; the funding meets specific needs but students must find other resources." },
+        { "distractor": "limited", "closeness": 2, "reasoning": "The funding is sufficient for tuition and fees; 'limited' would suggest inadequacy, but it's sufficient for those costs." },
+        { "distractor": "restricted", "closeness": 2, "reasoning": "The funding covers specific expenses; 'restricted' implies constraints, which is true, but the sentence emphasizes sufficiency for certain purposes." },
+        { "distractor": "insufficient", "closeness": 1, "reasoning": "The funding is sufficient for tuition and fees; while insufficient for all needs, the sentence begins by stating sufficiency." },
+        { "distractor": "inadequate", "closeness": 1, "reasoning": "The funding adequately covers tuition and fees, contradicting inadequacy." },
+        { "distractor": "deficient", "closeness": 1, "reasoning": "The funding sufficiently covers specified costs, so it's not deficient for those purposes." }
+      ]
+    }
+  ]
+}

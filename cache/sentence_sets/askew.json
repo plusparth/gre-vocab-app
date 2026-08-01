@@ -1,0 +1,53 @@
+{
+  "word": "askew",
+  "sentenceSets": [
+    {
+      "sentence": "The portrait hung askew, slightly off-center in a way that bothered only the most observant visitors.",
+      "answerChoices": [
+        { "distractor": "tilted", "closeness": 3, "reasoning": "While 'tilted' means leaning to one side, the sentence emphasizes the off-center positioning ('askew,' 'slightly off-center'); tilting doesn't necessarily mean off-center." },
+        { "distractor": "crooked", "closeness": 3, "reasoning": "'Crooked' means bent or not straight; while the portrait is crooked, the sentence emphasizes it's at an angle, not necessarily bent out of shape." },
+        { "distractor": "slanted", "closeness": 3, "reasoning": "'Slanted' means leaning or angled; while closely related, the sentence emphasizes the visual disruption of being off-center, not just the angle." },
+        { "distractor": "misaligned", "closeness": 3, "reasoning": "'Misaligned' means not properly aligned; while applicable, it's more neutral than 'askew,' which carries a sense of something being slightly wrong or disturbing." },
+        { "distractor": "displaced", "closeness": 2, "reasoning": "'Displaced' means moved from its proper place; while the portrait is displaced, the sentence emphasizes the slight angle, not the displacement itself." },
+        { "distractor": "off-balance", "closeness": 2, "reasoning": "'Off-balance' suggests instability; while the portrait appears unbalanced, the sentence emphasizes positioning, not precariousness." },
+        { "distractor": "irregular", "closeness": 2, "reasoning": "'Irregular' means not following a pattern; while the portrait's positioning is irregular, the sentence emphasizes being at an angle." },
+        { "distractor": "uneven", "closeness": 2, "reasoning": "'Uneven' means not level or uniform; while the portrait is uneven in its hang, the sentence emphasizes the angled positioning." },
+        { "distractor": "centered", "closeness": 1, "reasoning": "Centered means positioned in the middle; it contradicts the off-center positioning the sentence describes." },
+        { "distractor": "straight", "closeness": 1, "reasoning": "Straight means not angled or bent; it contradicts the askew, off-center angle." },
+        { "distractor": "level", "closeness": 1, "reasoning": "Level means horizontal and even; it contradicts the tilted, angled positioning implied by 'askew.'" }
+      ]
+    },
+    {
+      "sentence": "The project went askew from its original timeline when the lead contractor fell ill and halted all work for six weeks.",
+      "answerChoices": [
+        { "distractor": "derailed", "closeness": 3, "reasoning": "'Derailed' means completely knocked off track; while the project deviated, the sentence shows a temporary delay, not complete derailment." },
+        { "distractor": "stalled", "closeness": 3, "reasoning": "'Stalled' means stopped or halted; while work halted, the sentence emphasizes the deviation from timeline ('went askew from'), not just the stoppage." },
+        { "distractor": "delayed", "closeness": 3, "reasoning": "'Delayed' means postponed or slowed; while the project was delayed, the sentence emphasizes deviation from the original timeline, not just postponement." },
+        { "distractor": "jeopardized", "closeness": 3, "reasoning": "'Jeopardized' means put at risk; while the project's success was at risk, the sentence focuses on deviation from timeline, not broader jeopardy." },
+        { "distractor": "compromised", "closeness": 2, "reasoning": "'Compromised' means weakened or reduced; while the project was compromised, the sentence emphasizes deviation from timeline." },
+        { "distractor": "hindered", "closeness": 2, "reasoning": "'Hindered' means obstructed or slowed; while work was hindered, the sentence emphasizes the timeline's deviation." },
+        { "distractor": "curtailed", "closeness": 2, "reasoning": "'Curtailed' means cut short or reduced; while work was curtailed, the sentence emphasizes deviation from the original plan, not reduction." },
+        { "distractor": "diverted", "closeness": 2, "reasoning": "'Diverted' means turned aside; while the project was diverted, the sentence emphasizes timeline deviation, not a change in direction." },
+        { "distractor": "accelerated", "closeness": 1, "reasoning": "Accelerated means sped up; it contradicts the halt and delay the sentence describes." },
+        { "distractor": "proceeded", "closeness": 1, "reasoning": "Proceeded means moved forward as planned; it contradicts the deviation and halt the sentence describes." },
+        { "distractor": "progressed", "closeness": 1, "reasoning": "Progressed means advanced according to plan; it contradicts the deviation from timeline." }
+      ]
+    },
+    {
+      "sentence": "He walked in with his tie askew, his collar unbuttoned, and his briefcase swinging loosely—telltale signs of a rushed morning.",
+      "answerChoices": [
+        { "distractor": "untied", "closeness": 3, "reasoning": "While 'untied' suggests the tie is loose, the sentence shows the tie is askew (at an angle), not necessarily untied or removed." },
+        { "distractor": "loosened", "closeness": 3, "reasoning": "'Loosened' means made less tight; while the tie may be loosened, 'askew' emphasizes that it's at an angle, not just loose." },
+        { "distractor": "disheveled", "closeness": 3, "reasoning": "'Disheveled' means untidy or disarrayed; while his appearance is disheveled, the sentence specifically describes askew positioning of the tie." },
+        { "distractor": "wrinkled", "closeness": 3, "reasoning": "'Wrinkled' means creased or rumpled; while his tie may be wrinkled, the sentence emphasizes the askew angle, not creasing." },
+        { "distractor": "crooked", "closeness": 2, "reasoning": "'Crooked' means bent or not straight; while the tie is crooked, the sentence emphasizes the angle ('askew'), not bent condition." },
+        { "distractor": "twisted", "closeness": 2, "reasoning": "'Twisted' means turned or wound; while the tie may be twisted, the sentence emphasizes its askew positioning." },
+        { "distractor": "tangled", "closeness": 2, "reasoning": "'Tangled' means knotted or snarled; the sentence shows the tie is simply askew, not tangled." },
+        { "distractor": "slipped", "closeness": 2, "reasoning": "'Slipped' means fell or shifted; while the tie shifted, the sentence emphasizes the resulting askew angle." },
+        { "distractor": "fastened", "closeness": 1, "reasoning": "Fastened means secured or attached properly; it contradicts the askew positioning and looseness the sentence describes." },
+        { "distractor": "knotted", "closeness": 1, "reasoning": "Knotted means tied firmly; it contradicts the askew, loose positioning." },
+        { "distractor": "arranged", "closeness": 1, "reasoning": "Arranged means placed in order; it contradicts the disheveled, askew state the sentence describes." }
+      ]
+    }
+  ]
+}

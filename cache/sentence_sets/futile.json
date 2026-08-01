@@ -1,0 +1,53 @@
+{
+  "word": "futile",
+  "sentenceSets": [
+    {
+      "sentence": "Every attempt to reach agreement proved futile; the parties were too far apart on the fundamental question.",
+      "answerChoices": [
+        { "distractor": "useless", "closeness": 3, "reasoning": "Useless describes something with no practical value, fitting the scenario of failed agreement attempts, but useless emphasizes lack of utility rather than the inevitable failure of achieving compromise." },
+        { "distractor": "unsuccessful", "closeness": 3, "reasoning": "Unsuccessful means failing to achieve goals, fitting the context of failed negotiations, but unsuccessful emphasizes the outcome while futile emphasizes the inherent impossibility from the start." },
+        { "distractor": "fruitless", "closeness": 3, "reasoning": "Fruitless means producing no results, very similar to futile in this context, but fruitless emphasizes the absence of fruit from effort rather than the predetermined failure of the attempt." },
+        { "distractor": "ineffectual", "closeness": 3, "reasoning": "Ineffectual means lacking effect or power to produce results, fitting the context, but ineffectual emphasizes the lack of force or influence rather than the fundamental incompatibility that makes agreement impossible." },
+        { "distractor": "hopeless", "closeness": 2, "reasoning": "Hopeless suggests despair and lack of hope, which fits the scenario, but hopeless addresses emotional resignation rather than the objective impossibility of bridging such wide disagreement." },
+        { "distractor": "vain", "closeness": 2, "reasoning": "Vain means wasted or futile, but vain also carries connotations of vanity and self-conceit that don't match the negotiation context in the sentence." },
+        { "distractor": "doomed", "closeness": 2, "reasoning": "Doomed suggests predetermined failure, fitting the sense of inevitable collapse, but doomed emphasizes a fate imposed by external circumstances rather than the internal incompatibility driving the negotiation failure." },
+        { "distractor": "pointless", "closeness": 2, "reasoning": "Pointless describes lacking purpose or meaning, fitting the sense of wasted effort, but pointless emphasizes the absence of reason rather than the absence of possible outcome." },
+        { "distractor": "productive", "closeness": 1, "reasoning": "Productive means generating useful results; the sentence describes attempts that achieved no progress toward agreement, making productive the opposite of what the negotiation attempts were." },
+        { "distractor": "successful", "closeness": 1, "reasoning": "Successful means achieving goals; the sentence explicitly states the attempts failed to reach agreement, making successful semantically opposed to the scenario." },
+        { "distractor": "worthwhile", "closeness": 1, "reasoning": "Worthwhile suggests value and worth in undertaking something; the sentence describes attempts that had no value in achieving the intended goal, making worthwhile opposed to the context." }
+      ]
+    },
+    {
+      "sentence": "Marcus spent hours trying to fix the antique clock, but each adjustment proved futile as the broken gears could not engage.",
+      "answerChoices": [
+        { "distractor": "bootless", "closeness": 3, "reasoning": "Bootless means without avail or futile, fitting the scenario exactly, but bootless is an archaic term that emphasizes futility as an outcome rather than an inherent property of the attempt." },
+        { "distractor": "abortive", "closeness": 3, "reasoning": "Abortive describes a failed attempt or miscarriage of effort, fitting the scenario of failed repairs, but abortive emphasizes the attempt being cut short rather than impossible from the outset." },
+        { "distractor": "inefficacious", "closeness": 3, "reasoning": "Inefficacious means lacking power to produce the desired effect, fitting the broken gears context, but it emphasizes the action's lack of power rather than its inevitable failure." },
+        { "distractor": "unproductive", "closeness": 3, "reasoning": "Unproductive means not generating results, fitting the scenario of failed adjustments, but unproductive emphasizes lack of output rather than the impossibility of repair due to structural damage." },
+        { "distractor": "misguided", "closeness": 2, "reasoning": "Misguided means poorly conceived or mistaken in approach, but the sentence shows that Marcus's adjustments were technically sound; the problem is the mechanical failure, not faulty reasoning." },
+        { "distractor": "inadequate", "closeness": 2, "reasoning": "Inadequate means not sufficient, but this suggests that more or better adjustments might succeed; the sentence states the gears cannot engage, indicating the problem exceeds what adjustments can address." },
+        { "distractor": "counterproductive", "closeness": 2, "reasoning": "Counterproductive means having an opposite effect to what was intended, but the sentence suggests the adjustments simply did not work rather than causing harm or worsening the problem." },
+        { "distractor": "wasteful", "closeness": 2, "reasoning": "Wasteful means using resources inefficiently, fitting the wasted hours, but wasteful criticizes the use of time and effort rather than describing the outcome's complete lack of success." },
+        { "distractor": "effective", "closeness": 1, "reasoning": "Effective means producing the desired result; the sentence explicitly states the adjustments did not fix the clock because the gears cannot engage, making effective the opposite of the scenario." },
+        { "distractor": "remedial", "closeness": 1, "reasoning": "Remedial suggests providing a cure or remedy; the sentence describes attempts that could not remedy the broken gears, making remedial opposed to the actual outcome." },
+        { "distractor": "restorative", "closeness": 1, "reasoning": "Restorative means restoring to a former state; the sentence describes attempts that could not restore the clock to working condition, making restorative opposed to what occurred." }
+      ]
+    },
+    {
+      "sentence": "The activist's futile protests outside city hall continued every day, though the zoning decision had already been finalized.",
+      "answerChoices": [
+        { "distractor": "unavailing", "closeness": 3, "reasoning": "Unavailing means producing no result or avail, very similar to futile, but unavailing emphasizes the absence of result more than the predetermined impossibility of changing a finalized decision." },
+        { "distractor": "hollow", "closeness": 3, "reasoning": "Hollow describes something empty or lacking substance, fitting a protest that cannot change a finalized decision, but hollow emphasizes the absence of authentic meaning rather than the inefficacy." },
+        { "distractor": "performative", "closeness": 3, "reasoning": "Performative describes actions done for effect or appearance, fitting a protest after a decision is finalized, but performative emphasizes the staging of the action rather than its complete lack of effect." },
+        { "distractor": "symbolic", "closeness": 3, "reasoning": "Symbolic describes something having symbolic meaning rather than practical effect, fitting the finalized decision scenario, but symbolic suggests the action has meaning even if not practical effect." },
+        { "distractor": "quixotic", "closeness": 2, "reasoning": "Quixotic describes idealistic but unrealistic pursuits, fitting the activist's continued protests, but quixotic emphasizes idealism in the face of reality rather than the inherent inability to achieve results." },
+        { "distractor": "obstinate", "closeness": 2, "reasoning": "Obstinate describes stubbornly persisting despite resistance, fitting the activist's continued daily protests, but obstinate describes a personality trait rather than describing the nature of the protesting action itself." },
+        { "distractor": "defiant", "closeness": 2, "reasoning": "Defiant describes openly resisting or challenging authority, fitting the protest context, but defiant describes the attitude and stance rather than the inevitable ineffectiveness of the protest." },
+        { "distractor": "persistent", "closeness": 2, "reasoning": "Persistent describes continuing despite obstacles, which fits the daily protests, but persistent is a neutral term that could describe either effective or ineffective continued action." },
+        { "distractor": "transformative", "closeness": 1, "reasoning": "Transformative means causing significant change, but the sentence states the zoning decision is already finalized, making transformative opposed to the activist's inability to change the decision." },
+        { "distractor": "influential", "closeness": 1, "reasoning": "Influential means having significant effect or power, but the sentence describes a finalized decision unaffected by the protests, making influential opposed to the activist's lack of effect." },
+        { "distractor": "impactful", "closeness": 1, "reasoning": "Impactful means making a strong effect or impression, but the sentence shows the protests have no impact on a decision already made, making impactful opposed to the scenario." }
+      ]
+    }
+  ]
+}

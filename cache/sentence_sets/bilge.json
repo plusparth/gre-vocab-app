@@ -1,0 +1,53 @@
+{
+  "word": "bilge",
+  "sentenceSets": [
+    {
+      "sentence": "The ship's bilge filled faster than the pumps could drain it, leaving the captain with little time.",
+      "answerChoices": [
+        { "distractor": "hull", "closeness": 3, "reasoning": "The hull is the ship's outer shell; the sentence describes water inside the ship that requires active pumping, indicating an internal collection point, not the exterior structure." },
+        { "distractor": "hold", "closeness": 3, "reasoning": "The hold is a cargo storage area; the sentence's focus on water accumulating and requiring urgent pumping suggests a natural drainage point, not a general storage space." },
+        { "distractor": "keel", "closeness": 3, "reasoning": "The keel is the ship's lowest support beam; water collects in a compartment above the keel in a space that fills rapidly and requires active pumping, not at the structural beam itself." },
+        { "distractor": "compartment", "closeness": 3, "reasoning": "While compartments exist on ships, the sentence specifies a particular location where water naturally accumulates due to a ship's design and requires urgent drainage, not a generic divided section." },
+        { "distractor": "ballast", "closeness": 2, "reasoning": "Ballast is intentional water stored for a ship's weight and stability; the sentence indicates unwanted water that accumulates and threatens the vessel if not removed." },
+        { "distractor": "tank", "closeness": 2, "reasoning": "A tank is a sealed container; the sentence describes water filling faster than pumps can manage, suggesting an open area where leakage naturally collects, not an enclosed sealed tank." },
+        { "distractor": "pump", "closeness": 2, "reasoning": "Pumps are the equipment used to solve the water problem; the sentence mentions them as tools for addressing the accumulation in the location named by the blank." },
+        { "distractor": "chamber", "closeness": 2, "reasoning": "A chamber is a general enclosed space found on ships; the sentence refers to a specific structural area with a defined function in water management, not just any enclosed room." },
+        { "distractor": "deck", "closeness": 1, "reasoning": "The deck is the ship's walking surface at the top; the sentence describes water collecting in the ship's lowest interior section requiring drainage, not the upper surface." },
+        { "distractor": "sail", "closeness": 1, "reasoning": "Sails are rigging used for wind propulsion and have no connection to water collection or drainage systems on a ship." },
+        { "distractor": "mast", "closeness": 1, "reasoning": "A mast is a vertical pole supporting sails; it plays no role in water accumulation or the pumping systems needed to manage ship drainage." }
+      ]
+    },
+    {
+      "sentence": "After filling the barrel to capacity, the cooper noticed the pronounced bilge had developed small cracks in the wood where tension was greatest.",
+      "answerChoices": [
+        { "distractor": "swell", "closeness": 3, "reasoning": "Swell describes the action or condition of expanding; the sentence refers to a named structural feature of the barrel, not the process of swelling itself." },
+        { "distractor": "expansion", "closeness": 3, "reasoning": "Expansion names the process of enlarging; the sentence identifies a specific part of the barrel, not the enlargement action." },
+        { "distractor": "protrusion", "closeness": 3, "reasoning": "Protrusion is any outward extension; the sentence refers to a specific technical feature of barrel construction with a recognized traditional name." },
+        { "distractor": "curve", "closeness": 3, "reasoning": "Curve describes the shape or bending; the sentence names a particular structural part where the wood curves, not the shape itself." },
+        { "distractor": "stave", "closeness": 2, "reasoning": "A stave is one of the wooden slats forming the barrel's walls; the sentence refers to the feature where the staves meet and curve outward, not an individual slat." },
+        { "distractor": "band", "closeness": 2, "reasoning": "Bands are metal or wooden hoops holding the barrel together; the sentence describes the wooden bulge where cracks developed, not the fasteners." },
+        { "distractor": "seam", "closeness": 2, "reasoning": "A seam is where two pieces join; the sentence mentions cracks in a specific swollen section, not the junction lines." },
+        { "distractor": "wood", "closeness": 2, "reasoning": "Wood is the material of the barrel; the sentence refers to a particular structural feature where cracks form, not the material itself." },
+        { "distractor": "cork", "closeness": 1, "reasoning": "A cork is the stopper sealing the barrel's opening; it has no relationship to the widest section where expansion creates stress." },
+        { "distractor": "bung", "closeness": 1, "reasoning": "A bung is the cork or plug closing the barrel; it serves a different function than the structural feature experiencing tension and cracking." },
+        { "distractor": "liquid", "closeness": 1, "reasoning": "Liquid is the contents inside the barrel; the sentence discusses the wooden structure, not what fills it." }
+      ]
+    },
+    {
+      "sentence": "Critics dismissed the commentator's segment as bilge after fact-checkers found no evidence for any of his central assertions.",
+      "answerChoices": [
+        { "distractor": "drivel", "closeness": 3, "reasoning": "Drivel means senseless or false talk; it fits the context of unsupported assertions, but the sentence's emphasis on the lack of evidence for specific claims suggests the false nature more directly." },
+        { "distractor": "tripe", "closeness": 3, "reasoning": "Tripe means nonsense or worthless content; while similar in meaning, the sentence's specific mention of fact-checkers finding no evidence points to a word for false content." },
+        { "distractor": "rubbish", "closeness": 3, "reasoning": "Rubbish means garbage or worthless material; though close in sense, the sentence's focus on factual investigation and unsubstantiated claims indicates a more specific term." },
+        { "distractor": "blather", "closeness": 3, "reasoning": "Blather means foolish talk; while plausible for unsupported statements, the sentence's emphasis on fact-checking and lack of evidence suggests a term more directly about false claims." },
+        { "distractor": "rant", "closeness": 2, "reasoning": "A rant is passionate or angry speech; one could rant about true facts expressed with emotion, so this doesn't capture the unsupported nature the sentence emphasizes." },
+        { "distractor": "tirade", "closeness": 2, "reasoning": "A tirade is an angry outburst; while the segment is dismissed, this word focuses on the tone and delivery rather than the falsity of the content." },
+        { "distractor": "diatribe", "closeness": 2, "reasoning": "A diatribe is a bitter critical attack; one could deliver a factually accurate diatribe, so this word doesn't necessarily convey the unsupported claims the sentence highlights." },
+        { "distractor": "rambling", "closeness": 2, "reasoning": "Rambling describes disorganized speech; while the segment may be disorganized, the sentence's focus on fact-checking finding no evidence points to a word about false content." },
+        { "distractor": "truth", "closeness": 1, "reasoning": "Truth is the opposite of the false claims that fact-checkers found no evidence for; this is directly contradictory to what the sentence describes." },
+        { "distractor": "fact", "closeness": 1, "reasoning": "A fact is verifiable information; the sentence states that fact-checkers found no evidence, making fact antithetical to the content described." },
+        { "distractor": "wisdom", "closeness": 1, "reasoning": "Wisdom is sound judgment and true knowledge; the sentence describes unsupported assertions, which is the opposite of wisdom." }
+      ]
+    }
+  ]
+}

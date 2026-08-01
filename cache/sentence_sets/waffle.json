@@ -1,0 +1,53 @@
+{
+  "word": "waffle",
+  "sentenceSets": [
+    {
+      "sentence": "At the brunch, the waffle arrived with maple syrup and fresh berries, though her companion had specifically requested French toast instead.",
+      "answerChoices": [
+        { "distractor": "pastry", "closeness": 3, "reasoning": "'Pastry' describes baked dough products; waffles are baked, but pastry is a broader category; the sentence specifically identifies the crisp cake of batter baked in a waffle iron." },
+        { "distractor": "pancake", "closeness": 3, "reasoning": "'Pancake' is similar flat griddle-cooked batter; while similar to waffles, the sentence specifically describes the crisp cake baked in a waffle iron." },
+        { "distractor": "crepe", "closeness": 3, "reasoning": "'Crepe' is a thin, delicate batter cake; while similar to waffles, the sentence describes the crisp cake baked in a waffle iron." },
+        { "distractor": "cake", "closeness": 3, "reasoning": "'Cake' is a baked confection; waffles are cake-like, but the sentence specifically describes the crisp cake baked in a waffle iron." },
+        { "distractor": "bread", "closeness": 2, "reasoning": "'Bread' is a baked grain product; waffles are baked, but the sentence identifies a specific crisp cake of batter." },
+        { "distractor": "dessert", "closeness": 2, "reasoning": "'Dessert' is a course eaten after meals; waffles are often desserts, but the sentence specifically identifies the crisp cake baked in a waffle iron." },
+        { "distractor": "delicacy", "closeness": 2, "reasoning": "'Delicacy' is a rare or special food; waffles can be special, but the sentence identifies the specific breakfast item." },
+        { "distractor": "confection", "closeness": 2, "reasoning": "'Confection' is a sweet prepared food; waffles are sweet, but the sentence specifically identifies the crisp cake of batter." },
+        { "distractor": "vegetable", "closeness": 1, "reasoning": "The item served is a waffle, a sweet baked cake of batter, not a savory vegetable." },
+        { "distractor": "beverage", "closeness": 1, "reasoning": "The waffle is a solid baked food item; 'beverage' describes a drink, the opposite category of food." },
+        { "distractor": "entree", "closeness": 1, "reasoning": "While waffles can be breakfast entrees, the sentence specifically refers to the crisp cake baked in a waffle iron, not a main course." }
+      ]
+    },
+    {
+      "sentence": "The child rejected the waffle because the texture was too bumpy, preferring smooth pancakes instead.",
+      "answerChoices": [
+        { "distractor": "toast", "closeness": 3, "reasoning": "'Toast' is browned bread; while it's a breakfast item, the sentence describes a crisp cake of batter, not toasted bread." },
+        { "distractor": "muffin", "closeness": 3, "reasoning": "'Muffin' is a baked cake; while similar to waffles, the sentence specifically describes the crisp cake baked in a waffle iron." },
+        { "distractor": "crepe", "closeness": 3, "reasoning": "'Crepe' is a thin delicate cake; while similar to waffles, the sentence describes the crisp cake with a bumpy grid texture from the iron." },
+        { "distractor": "omelet", "closeness": 3, "reasoning": "'Omelet' is a breakfast egg dish; while eaten at breakfast, the sentence describes a crisp cake of batter, not an egg preparation." },
+        { "distractor": "biscuit", "closeness": 2, "reasoning": "'Biscuit' is a baked bread product; while eaten at breakfast, the sentence identifies the specific crisp cake of batter." },
+        { "distractor": "donut", "closeness": 2, "reasoning": "'Donut' is a fried dough cake; while similar to waffles, the sentence identifies the crisp cake baked in a waffle iron." },
+        { "distractor": "scone", "closeness": 2, "reasoning": "'Scone' is a baked pastry; while similar, the sentence identifies the specific crisp cake with waffle texture." },
+        { "distractor": "frittata", "closeness": 2, "reasoning": "'Frittata' is a baked egg dish; while a breakfast item, the sentence describes a sweet cake of batter, not an egg preparation." },
+        { "distractor": "salad", "closeness": 1, "reasoning": "The child rejected a crisp cake of batter; 'salad' is a vegetable or fresh dish, in a different food category." },
+        { "distractor": "soup", "closeness": 1, "reasoning": "The rejected item is a waffle, a solid baked cake; 'soup' is a liquid, in a different food category." },
+        { "distractor": "pasta", "closeness": 1, "reasoning": "The waffle is a baked cake of batter; 'pasta' is a noodle-based dish, in a different food category." }
+      ]
+    },
+    {
+      "sentence": "The diner's signature dish was their waffle topped with whipped cream and seasonal fruit, which became famous throughout the city.",
+      "answerChoices": [
+        { "distractor": "sandwich", "closeness": 3, "reasoning": "'Sandwich' is assembled bread with fillings; while a signature dish, the sentence describes a crisp cake of batter baked in a waffle iron." },
+        { "distractor": "burger", "closeness": 3, "reasoning": "'Burger' is a ground meat patty in bread; while a popular diner item, the sentence describes a crisp cake of batter." },
+        { "distractor": "parfait", "closeness": 3, "reasoning": "'Parfait' is layered dessert; while it shares the toppings mentioned, the sentence describes the crisp cake baked in a waffle iron." },
+        { "distractor": "pie", "closeness": 3, "reasoning": "'Pie' is a baked dish with crust and filling; while a diner dessert, the sentence describes the crisp cake of batter." },
+        { "distractor": "quiche", "closeness": 2, "reasoning": "'Quiche' is a savory baked egg and cream dish; while served in similar settings, the sentence identifies the sweet crisp cake of batter." },
+        { "distractor": "crepe", "closeness": 2, "reasoning": "'Crepe' is a thin delicate cake; while similar, the sentence identifies the crisp cake baked in a waffle iron." },
+        { "distractor": "cake", "closeness": 2, "reasoning": "'Cake' is a baked confection; while similar, the sentence identifies the specific crisp cake baked in a waffle iron." },
+        { "distractor": "pudding", "closeness": 2, "reasoning": "'Pudding' is a smooth dessert; while a diner dessert, the sentence describes the crisp cake of batter." },
+        { "distractor": "steak", "closeness": 1, "reasoning": "The signature dish is a sweet waffle with cream and fruit; 'steak' is a savory meat dish, in a different food category." },
+        { "distractor": "fish", "closeness": 1, "reasoning": "The famous dish is a waffle with sweet toppings; 'fish' is a savory protein, in a different food category." },
+        { "distractor": "vegetable medley", "closeness": 1, "reasoning": "The signature waffle is topped with sweet cream and fruit; 'vegetable medley' is a savory side dish, in a different category." }
+      ]
+    }
+  ]
+}

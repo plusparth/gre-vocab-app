@@ -1,0 +1,185 @@
+{
+  "word": "solvent",
+  "sentenceSets": [
+    {
+      "sentence": "The organization remained technically solvent but operationally fragile, dependent on a cash flow that any disruption could interrupt.",
+      "answerChoices": [
+        {
+          "distractor": "liquid",
+          "closeness": 3,
+          "reasoning": "Liquid means having sufficient cash or liquid assets; while solvent requires having liquid assets, 'liquid' specifically refers to asset form, whereas 'solvent' means the ability to pay all debts."
+        },
+        {
+          "distractor": "stable",
+          "closeness": 3,
+          "reasoning": "Stable means firmly established and secure; while solvency suggests stability, the sentence emphasizes that the organization is 'operationally fragile,' so 'stable' contradicts the actual condition despite technical solvency."
+        },
+        {
+          "distractor": "profitable",
+          "closeness": 3,
+          "reasoning": "Profitable means making a profit; while solvent organizations may be profitable, 'profitable' refers to earning excess income, whereas 'solvent' refers to the ability to pay debts."
+        },
+        {
+          "distractor": "creditworthy",
+          "closeness": 3,
+          "reasoning": "Creditworthy means deserving of credit or trust for repayment; while solvency affects creditworthiness, 'creditworthy' is the lender's assessment, whereas 'solvent' is the objective ability to pay."
+        },
+        {
+          "distractor": "fiscal",
+          "closeness": 2,
+          "reasoning": "Fiscal means relating to finances; while solvency is a fiscal matter, 'fiscal' is a general descriptor of financial matters, not a specific financial condition."
+        },
+        {
+          "distractor": "viable",
+          "closeness": 2,
+          "reasoning": "Viable means capable of succeeding or working; while solvency contributes to viability, 'viable' is broader and less financially specific than 'solvent.'"
+        },
+        {
+          "distractor": "sustainable",
+          "closeness": 2,
+          "reasoning": "Sustainable means able to continue over time; while solvency supports sustainability, the sentence emphasizes that solvency alone doesn't ensure sustainability, so they are distinct."
+        },
+        {
+          "distractor": "secure",
+          "closeness": 2,
+          "reasoning": "Secure means protected from risk; while solvent organizations may be secure, the sentence describes an organization that is solvent but 'operationally fragile,' so 'secure' overstates the condition."
+        },
+        {
+          "distractor": "insolvent",
+          "closeness": 1,
+          "reasoning": "Insolvent means unable to pay debts; the organization is described as 'technically solvent,' the opposite of insolvent."
+        },
+        {
+          "distractor": "bankrupt",
+          "closeness": 1,
+          "reasoning": "Bankrupt means legally unable to pay debts; the organization remained solvent, the opposite of bankruptcy."
+        },
+        {
+          "distractor": "bankrupt",
+          "closeness": 1,
+          "reasoning": "Broke means having no money; the organization remained solvent and could pay debts, the opposite of broke."
+        }
+      ]
+    },
+    {
+      "sentence": "After years of mismanagement, the restaurant remained solvent only because the owner had injected personal savings to cover operational losses.",
+      "answerChoices": [
+        {
+          "distractor": "viable",
+          "closeness": 3,
+          "reasoning": "Viable means capable of working or succeeding; while the restaurant remained solvent, 'viable' suggests it can work independently, whereas solvency here depends on injections of personal savings."
+        },
+        {
+          "distractor": "stable",
+          "closeness": 3,
+          "reasoning": "Stable means firmly established and not changing; while technically solvent, the restaurant's need for personal savings shows it's unstable, so 'stable' contradicts the actual situation."
+        },
+        {
+          "distractor": "healthy",
+          "closeness": 3,
+          "reasoning": "Healthy means in good condition; while the restaurant is solvent, 'healthy' suggests overall good condition, whereas the text reveals it survives only through personal savings injections."
+        },
+        {
+          "distractor": "self-sufficient",
+          "closeness": 3,
+          "reasoning": "Self-sufficient means capable of supporting oneself; while solvent, the restaurant is not self-sufficient—it depends on the owner's personal savings."
+        },
+        {
+          "distractor": "profitable",
+          "closeness": 2,
+          "reasoning": "Profitable means making excess income; while the restaurant remained solvent, 'profitable' would indicate positive income, and the text indicates it experiences operational losses."
+        },
+        {
+          "distractor": "successful",
+          "closeness": 2,
+          "reasoning": "Successful means achieving desired results; while technically solvent, the restaurant's mismanagement and losses suggest it's not successful."
+        },
+        {
+          "distractor": "independent",
+          "closeness": 2,
+          "reasoning": "Independent means not dependent on others; the restaurant depends on the owner's personal savings, so it's not independent despite being solvent."
+        },
+        {
+          "distractor": "buoyant",
+          "closeness": 2,
+          "reasoning": "Buoyant means lively and confident; while solvent, the restaurant's situation (mismanagement and losses) suggests it's not buoyant."
+        },
+        {
+          "distractor": "bankrupt",
+          "closeness": 1,
+          "reasoning": "Bankrupt means unable to pay debts; the restaurant remained solvent, the opposite."
+        },
+        {
+          "distractor": "underwater",
+          "closeness": 1,
+          "reasoning": "Underwater means owing more than an asset is worth; the restaurant remained solvent, able to pay debts, the opposite."
+        },
+        {
+          "distractor": "defaulted",
+          "closeness": 1,
+          "reasoning": "Defaulted means failed to pay debts; the restaurant remained solvent, able to pay, the opposite."
+        }
+      ]
+    },
+    {
+      "sentence": "The investment firm's managers assured clients they were solvent and could meet their obligations, yet within months, frozen accounts revealed the funds were actually depleted.",
+      "answerChoices": [
+        {
+          "distractor": "legitimate",
+          "closeness": 3,
+          "reasoning": "Legitimate means lawful or genuine; while the managers claimed solvency, 'legitimate' refers to lawfulness, whereas 'solvent' specifically means able to pay debts."
+        },
+        {
+          "distractor": "trustworthy",
+          "closeness": 3,
+          "reasoning": "Trustworthy means deserving of trust; while the managers claimed solvency, 'trustworthy' is a character judgment, whereas 'solvent' is a financial fact about ability to pay."
+        },
+        {
+          "distractor": "honest",
+          "closeness": 3,
+          "reasoning": "Honest means truthful; while the managers claimed solvency, the text shows their claim was false, so 'honest' contradicts their actual behavior."
+        },
+        {
+          "distractor": "transparent",
+          "closeness": 3,
+          "reasoning": "Transparent means open and honest about operations; while managers claimed solvency, the frozen accounts later revealed the truth, showing they were not transparent."
+        },
+        {
+          "distractor": "secure",
+          "closeness": 2,
+          "reasoning": "Secure means protected from risk; the managers' false claims of solvency and the actual depletion of funds show the firm was not secure."
+        },
+        {
+          "distractor": "reliable",
+          "closeness": 2,
+          "reasoning": "Reliable means consistently good and trustworthy; the firm's false claims of solvency demonstrate it was not reliable."
+        },
+        {
+          "distractor": "credible",
+          "closeness": 2,
+          "reasoning": "Credible means worthy of belief; the firm's solvency claims were not credible, as later revealed."
+        },
+        {
+          "distractor": "reputable",
+          "closeness": 2,
+          "reasoning": "Reputable means having a good reputation; while it claimed solvency, the fraud revealed destroyed its reputation."
+        },
+        {
+          "distractor": "insolvent",
+          "closeness": 1,
+          "reasoning": "Insolvent means unable to pay debts; though claiming solvency, the firm was actually insolvent, the opposite."
+        },
+        {
+          "distractor": "fraudulent",
+          "closeness": 1,
+          "reasoning": "Fraudulent means deceptive or dishonest; the managers claimed solvency when funds were depleted—a fraudulent claim, not proof of actual solvency."
+        },
+        {
+          "distractor": "collapsed",
+          "closeness": 1,
+          "reasoning": "Collapsed means fallen or failed; while claiming solvency, the firm's frozen accounts and depleted funds indicate it collapsed financially."
+        }
+      ]
+    }
+  ]
+}

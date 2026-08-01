@@ -1,0 +1,53 @@
+{
+  "word": "torpid",
+  "sentenceSets": [
+    {
+      "sentence": "The organization had grown torpid, moving through its routines without the urgency that distinguished it from its more agile competitors.",
+      "answerChoices": [
+        { "distractor": "stagnant", "closeness": 3, "reasoning": "'Stagnant' means static or unmoving, fitting an organization that has slowed; however, 'stagnant' emphasizes lack of progress, while 'torpid' emphasizes sluggish, slow functioning despite movement." },
+        { "distractor": "sluggish", "closeness": 3, "reasoning": "'Sluggish' means slow-moving or lacking energy, which is exactly what 'torpid' means; the terms are virtually synonymous, making 'sluggish' a perfect trap." },
+        { "distractor": "lethargic", "closeness": 3, "reasoning": "'Lethargic' means lacking energy or enthusiasm, fitting the lack of urgency described; the distinction is that 'lethargic' emphasizes emotional exhaustion, while 'torpid' emphasizes slow functioning." },
+        { "distractor": "inert", "closeness": 3, "reasoning": "'Inert' means inactive or unmovable, fitting an organization without urgency; however, 'inert' suggests complete lack of movement, while 'torpid' suggests slow, sluggish movement." },
+        { "distractor": "complacent", "closeness": 2, "reasoning": "'Complacent' means self-satisfied and unconcerned, fitting an organization that has lost its edge; however, the sentence emphasizes slow functioning, not satisfaction with the status quo." },
+        { "distractor": "bureaucratic", "closeness": 2, "reasoning": "'Bureaucratic' means characterized by complex rules and procedures; while this can create slowness, the sentence emphasizes lack of urgency in execution, not procedural complexity." },
+        { "distractor": "ponderous", "closeness": 2, "reasoning": "'Ponderous' means slow and labored, fitting sluggish functioning; however, 'ponderous' often implies something heavy or difficult to move, while 'torpid' suggests slow due to lack of energy." },
+        { "distractor": "enervated", "closeness": 2, "reasoning": "'Enervated' means drained of strength or energy; while it fits the lack of urgency, the sentence emphasizes the sluggish functioning, not energy loss specifically." },
+        { "distractor": "vigorous", "closeness": 1, "reasoning": "The sentence explicitly contrasts the organization's lack of urgency with 'more agile competitors'; 'vigorous' means energetic and forceful, opposite to torpid." },
+        { "distractor": "dynamic", "closeness": 1, "reasoning": "'Dynamic' means characterized by energy and effective action; the sentence describes an organization without urgency, opposite to dynamic." },
+        { "distractor": "expeditious", "closeness": 1, "reasoning": "'Expeditious' means speedy and efficient; the sentence describes an organization moving without urgency, opposite to expeditious." }
+      ]
+    },
+    {
+      "sentence": "In winter, the bear enters a torpid state, its breathing shallow and metabolism slowed to conserve energy until spring returns.",
+      "answerChoices": [
+        { "distractor": "dormant", "closeness": 3, "reasoning": "'Dormant' means inactive or asleep, fitting the bear's winter state; the distinction is that 'dormant' suggests complete inactivity, while 'torpid' suggests slowed but continuing biological functioning." },
+        { "distractor": "hibernating", "closeness": 3, "reasoning": "'Hibernating' is the specific biological process the bear undergoes, and torpor is part of hibernation; however, 'hibernating' is more specific to this seasonal adaptation, while 'torpid' describes the physiological state." },
+        { "distractor": "lethargic", "closeness": 3, "reasoning": "'Lethargic' means sluggish and lacking energy, fitting the slowed state; however, 'lethargic' usually describes emotional exhaustion, while the sentence describes physiological slowing for survival." },
+        { "distractor": "sluggish", "closeness": 3, "reasoning": "'Sluggish' means slow-moving, exactly describing the slowed breathing and metabolism; the terms are so close that 'sluggish' could trap someone." },
+        { "distractor": "quiescent", "closeness": 2, "reasoning": "'Quiescent' means in a state of rest or inactivity, fitting the winter state; however, the sentence emphasizes ongoing physiological processes (breathing, metabolism), not complete rest." },
+        { "distractor": "somnolent", "closeness": 2, "reasoning": "'Somnolent' means drowsy or sleepy, fitting a state of reduced activity; however, the sentence describes specific physiological processes, not drowsiness." },
+        { "distractor": "comatose", "closeness": 2, "reasoning": "'Comatose' means in an unconscious or unresponsive state; while it fits deep sleep during hibernation, the sentence indicates the bear maintains bodily functions, not unconsciousness." },
+        { "distractor": "suspended", "closeness": 2, "reasoning": "'Suspended' means temporarily stopped, fitting the winter inactivity; however, the sentence specifies ongoing physiological slowing, not suspension of function." },
+        { "distractor": "active", "closeness": 1, "reasoning": "'Active' means energetic and functioning; the sentence describes shallow breathing and slowed metabolism, opposite to active functioning." },
+        { "distractor": "animated", "closeness": 1, "reasoning": "'Animated' means lively and energetic; the sentence describes the bear in a slowed state, opposite to animated." },
+        { "distractor": "alert", "closeness": 1, "reasoning": "'Alert' means aware and responsive; the sentence describes shallow breathing and slowed metabolism, opposite to alert responsiveness." }
+      ]
+    },
+    {
+      "sentence": "After months of depression, she felt entirely torpid, unable to muster the energy or motivation to engage with even her favorite activities.",
+      "answerChoices": [
+        { "distractor": "lethargic", "closeness": 3, "reasoning": "'Lethargic' means lacking energy and motivation, fitting her inability to engage; 'lethargic' is so close that it could trap someone, though 'torpid' emphasizes sluggish functioning while 'lethargic' emphasizes emotional exhaustion." },
+        { "distractor": "apathetic", "closeness": 3, "reasoning": "'Apathetic' means indifferent or unmotivated, fitting the lack of motivation described; however, 'apathetic' emphasizes not caring, while 'torpid' emphasizes sluggish inability to act." },
+        { "distractor": "enervated", "closeness": 3, "reasoning": "'Enervated' means drained of strength or energy, fitting her inability to muster energy; however, 'enervated' suggests energy loss, while 'torpid' suggests sluggish, slow functioning." },
+        { "distractor": "depressed", "closeness": 3, "reasoning": "'Depressed' describes her emotional state, and depression causes torpidity; however, 'depressed' describes the mood cause, not the sluggish functioning state." },
+        { "distractor": "disinterested", "closeness": 2, "reasoning": "'Disinterested' means unbiased or not having a stake, which is different from 'uninterested' (lacking interest); however, the sentence emphasizes inability to act, not lack of interest." },
+        { "distractor": "unmotivated", "closeness": 2, "reasoning": "'Unmotivated' means lacking drive or purpose, fitting her state; however, it emphasizes lack of motivation specifically, while 'torpid' emphasizes sluggish functioning overall." },
+        { "distractor": "exhausted", "closeness": 2, "reasoning": "'Exhausted' means very tired, fitting her inability to engage; however, 'exhausted' suggests acute fatigue, while 'torpid' suggests chronic sluggishness." },
+        { "distractor": "melancholic", "closeness": 2, "reasoning": "'Melancholic' means deeply sad or gloomy; while fitting the depression context, the sentence emphasizes lack of energy to act, not sadness specifically." },
+        { "distractor": "energetic", "closeness": 1, "reasoning": "The sentence describes her as unable to muster energy for activities; 'energetic' means full of energy, opposite to her state." },
+        { "distractor": "enthusiastic", "closeness": 1, "reasoning": "The sentence describes her as unable to engage even with favorite activities; 'enthusiastic' means showing keen interest, opposite to her torpid state." },
+        { "distractor": "vivacious", "closeness": 1, "reasoning": "'Vivacious' means lively and spirited; the sentence describes her as entirely torpid, unable to engage, opposite to vivacious." }
+      ]
+    }
+  ]
+}

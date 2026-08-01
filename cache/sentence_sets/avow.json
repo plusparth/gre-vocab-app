@@ -1,0 +1,53 @@
+{
+  "word": "avow",
+  "sentenceSets": [
+    {
+      "sentence": "He avowed his commitment to the cause even as others quietly abandoned it.",
+      "answerChoices": [
+        { "distractor": "claimed", "closeness": 3, "reasoning": "He claimed commitment, but 'claimed' can be insincere, whereas 'avowed' suggests sincere, formal declaration." },
+        { "distractor": "professed", "closeness": 3, "reasoning": "He professed commitment, closely related to 'avowed,' but 'professed' can be ambiguous about sincerity." },
+        { "distractor": "stated", "closeness": 3, "reasoning": "He stated his commitment, but 'stated' is neutral, whereas 'avowed' emphasizes solemn or emphatic declaration." },
+        { "distractor": "expressed", "closeness": 3, "reasoning": "He expressed commitment, but 'expressed' is general sharing, not the formal declaration of 'avowed.'" },
+        { "distractor": "announced", "closeness": 2, "reasoning": "He announced his commitment, but this emphasizes public notice, not the sincere declaration of avowal." },
+        { "distractor": "asserted", "closeness": 2, "reasoning": "He asserted commitment, but this emphasizes confident declaration, not the sincere avowal." },
+        { "distractor": "affirmed", "closeness": 2, "reasoning": "He affirmed his commitment, but 'affirmed' emphasizes positive confirmation, not the formal declaration." },
+        { "distractor": "vowed", "closeness": 2, "reasoning": "He vowed commitment, closely related to 'avowed,' but 'vowed' emphasizes solemn promise, not necessarily sincere declaration." },
+        { "distractor": "denied", "closeness": 1, "reasoning": "The opposite action; avowing commitment means declaring it, not denying it." },
+        { "distractor": "concealed", "closeness": 1, "reasoning": "The opposite behavior; avowing means openly declaring, not hiding or concealing." },
+        { "distractor": "abandoned", "closeness": 1, "reasoning": "The opposite; while others abandoned the cause, he avowed his commitment to it." }
+      ]
+    },
+    {
+      "sentence": "The scientist avowed her findings in the published paper, standing by the controversial research despite criticism.",
+      "answerChoices": [
+        { "distractor": "reported", "closeness": 3, "reasoning": "She reported the findings in the paper, but 'reported' is neutral presentation, whereas 'avowed' emphasizes sincere declaration." },
+        { "distractor": "presented", "closeness": 3, "reasoning": "She presented findings, but 'presented' is neutral sharing of information, not the sincere declaration of avowal." },
+        { "distractor": "published", "closeness": 3, "reasoning": "She published the findings, but this describes the act of making public, not the sincere declaration of avowal." },
+        { "distractor": "declared", "closeness": 3, "reasoning": "She declared her findings, but 'declared' is more general statement, not the sincere, emphatic avowal." },
+        { "distractor": "stated", "closeness": 2, "reasoning": "She stated her findings, but this is neutral information sharing, not sincere declaration." },
+        { "distractor": "professed", "closeness": 2, "reasoning": "She professed her findings, but this can be ambiguous about sincerity and emphasis." },
+        { "distractor": "claimed", "closeness": 2, "reasoning": "She claimed her findings, but 'claimed' can imply doubt, whereas 'avowed' emphasizes sincere conviction." },
+        { "distractor": "asserted", "closeness": 2, "reasoning": "She asserted findings confidently, but this emphasizes force, not the sincere declaration." },
+        { "distractor": "retracted", "closeness": 1, "reasoning": "The opposite action; avowing findings means standing by them, not retracting them." },
+        { "distractor": "disavowed", "closeness": 1, "reasoning": "The opposite declaration; disavowing means rejecting or denying, opposite to avowing." },
+        { "distractor": "concealed", "closeness": 1, "reasoning": "The opposite; avowing research means openly declaring it, not hiding or concealing it." }
+      ]
+    },
+    {
+      "sentence": "She avowed her love openly and repeatedly, unwilling to hide her feelings despite social convention.",
+      "answerChoices": [
+        { "distractor": "confessed", "closeness": 3, "reasoning": "She confessed her love, but 'confessed' implies admission of something previously hidden, not open avowal." },
+        { "distractor": "admitted", "closeness": 3, "reasoning": "She admitted her feelings, but 'admitted' suggests reluctant acknowledgment, not sincere, open declaration." },
+        { "distractor": "expressed", "closeness": 3, "reasoning": "She expressed her love, but this is general sharing, not the sincere, emphatic declaration of avowal." },
+        { "distractor": "declared", "closeness": 3, "reasoning": "She declared her love, but this is more neutral announcement, not the sincere emphasis of avowal." },
+        { "distractor": "stated", "closeness": 2, "reasoning": "She stated her love, but this is neutral information sharing, not sincere declaration." },
+        { "distractor": "proclaimed", "closeness": 2, "reasoning": "She proclaimed her love, but this emphasizes public announcement, not the sincere, emphatic avowal." },
+        { "distractor": "announced", "closeness": 2, "reasoning": "She announced her love, but this emphasizes public notice, not sincere avowal." },
+        { "distractor": "revealed", "closeness": 2, "reasoning": "She revealed her love, but 'revealed' suggests making previously unknown something public, not open avowal." },
+        { "distractor": "denied", "closeness": 1, "reasoning": "The opposite action; avowing love means openly declaring it, not denying it." },
+        { "distractor": "concealed", "closeness": 1, "reasoning": "The opposite behavior; avowing means openly declaring, not hiding or concealing feelings." },
+        { "distractor": "hid", "closeness": 1, "reasoning": "The opposite; avowing love means openly declaring it, not hiding it." }
+      ]
+    }
+  ]
+}

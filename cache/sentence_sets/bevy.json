@@ -1,0 +1,53 @@
+{
+  "word": "bevy",
+  "sentenceSets": [
+    {
+      "sentence": "A bevy of reporters waited outside the courthouse, each hoping to get the first statement.",
+      "answerChoices": [
+        { "distractor": "flock", "closeness": 3, "reasoning": "Both mean a group of people, but 'flock' more commonly refers to birds; when applied to people, it carries a slightly derogatory sense of uniform behavior, whereas 'bevy' suggests an assembled group with individual agency." },
+        { "distractor": "crowd", "closeness": 3, "reasoning": "Both refer to assembled people, but 'crowd' typically emphasizes the size and density of the gathering, whereas 'bevy' specifies a particular type of group (reporters/hunters/women) gathered with specific purpose." },
+        { "distractor": "throng", "closeness": 3, "reasoning": "Both mean a large group, but 'throng' emphasizes the density and movement of people pushing forward, whereas 'bevy' describes a cohesive group, particularly of a specified type." },
+        { "distractor": "swarm", "closeness": 3, "reasoning": "Both describe many people gathered closely, but 'swarm' implies coordinated movement toward a point, while 'bevy' describes a stationary or purposefully gathered group." },
+        { "distractor": "assembly", "closeness": 2, "reasoning": "Related but different—'assembly' implies a formal gathering or meeting, often organized in advance, whereas the sentence describes reporters gathered informally at a location." },
+        { "distractor": "contingent", "closeness": 2, "reasoning": "Related—'contingent' means a group that is part of a larger whole or sent for a specific purpose, but it emphasizes representation or a subset, not simply 'a group of.'" },
+        { "distractor": "delegation", "closeness": 2, "reasoning": "Wrong sense—'delegation' implies a formal group sent to represent others or conduct official business, whereas the sentence describes reporters gathered to cover an event." },
+        { "distractor": "cohort", "closeness": 2, "reasoning": "Wrong—'cohort' typically means a generation or group of people sharing a particular time period or characteristic; it does not fit reporters gathered at a courthouse." },
+        { "distractor": "individual", "closeness": 1, "reasoning": "Opposite—the sentence emphasizes a large group, not a single person." },
+        { "distractor": "solitary", "closeness": 1, "reasoning": "Opposite—'solitary' means alone, the opposite of a gathered group." },
+        { "distractor": "pair", "closeness": 1, "reasoning": "Opposite—'pair' means two people, while the sentence describes a large gathering." }
+      ]
+    },
+    {
+      "sentence": "A bevy of ducks paddled across the pond in perfect formation.",
+      "answerChoices": [
+        { "distractor": "school", "closeness": 3, "reasoning": "Both mean a group moving together, but 'school' typically refers to fish, not ducks; while both suggest organized movement, 'bevy' is the standard term for a group of ducks." },
+        { "distractor": "pod", "closeness": 3, "reasoning": "Both describe groups of animals, but 'pod' specifically refers to marine mammals like dolphins or whales, not ducks; while both emphasize togetherness, they are not interchangeable." },
+        { "distractor": "gaggle", "closeness": 3, "reasoning": "Both refer to groups of ducks or geese, but 'gaggle' specifically emphasizes a group on land, whereas 'bevy' applies more broadly to ducks whether on water or land." },
+        { "distractor": "formation", "closeness": 3, "reasoning": "Close—the sentence emphasizes organized movement in 'perfect formation,' and while 'formation' describes the arrangement, 'bevy' denotes the group itself, not their arrangement pattern." },
+        { "distractor": "flotilla", "closeness": 2, "reasoning": "Related but wrong—'flotilla' refers to a group of boats or ships, not animals; though it conveys organized movement together, it is for vessels not creatures." },
+        { "distractor": "squadron", "closeness": 2, "reasoning": "Wrong sense—'squadron' refers to military units, not groups of ducks." },
+        { "distractor": "cluster", "closeness": 2, "reasoning": "Wrong—'cluster' means a tight group or bunch, but it lacks the sense of organized movement that the sentence emphasizes." },
+        { "distractor": "group", "closeness": 2, "reasoning": "Too generic—'group' is extremely general and does not carry the specific connotation of a notable or distinguished gathering like 'bevy' does." },
+        { "distractor": "scattered", "closeness": 1, "reasoning": "Opposite—the sentence describes organized formation, while 'scattered' means dispersed randomly." },
+        { "distractor": "isolated", "closeness": 1, "reasoning": "Opposite—'isolated' suggests separation, the opposite of a gathered group." },
+        { "distractor": "alone", "closeness": 1, "reasoning": "Opposite—emphasizes solitude, contrary to a large group togetherness." }
+      ]
+    },
+    {
+      "sentence": "The new smartphone came with a bevy of features that distinguished it from competitors.",
+      "answerChoices": [
+        { "distractor": "array", "closeness": 3, "reasoning": "Both mean a collection of things, but 'array' emphasizes an arrangement or display of items, while 'bevy' emphasizes quantity and importance of a group, particularly people or collections with character." },
+        { "distractor": "suite", "closeness": 3, "reasoning": "Both refer to a set of related things, but 'suite' implies items that are coordinated or matched as a set, whereas 'bevy' emphasizes a variety of distinct items in one product." },
+        { "distractor": "arsenal", "closeness": 3, "reasoning": "Both describe a collection of items to be used, but 'arsenal' specifically refers to weapons or means of warfare, whereas the sentence describes consumer product features, making 'bevy' more fitting." },
+        { "distractor": "spectrum", "closeness": 3, "reasoning": "Both convey a range or variety, but 'spectrum' emphasizes a continuous range from one extreme to another, while 'bevy' describes a collection of distinct, enumerable items." },
+        { "distractor": "catalogue", "closeness": 2, "reasoning": "Wrong—'catalogue' refers to a listing or inventory of items, emphasizing documentation rather than the actual presence of features in the product." },
+        { "distractor": "inventory", "closeness": 2, "reasoning": "Wrong—similar to 'catalogue,' 'inventory' emphasizes a list or stock, not the actual features themselves." },
+        { "distractor": "repertoire", "closeness": 2, "reasoning": "Wrong—'repertoire' typically refers to a performer's or artist's set of works or skills, not product features; while both suggest a collection of capabilities, the context does not fit." },
+        { "distractor": "palette", "closeness": 2, "reasoning": "Wrong—'palette' suggests a range of colors or options available to choose from, but it is not the right term for product features." },
+        { "distractor": "void", "closeness": 1, "reasoning": "Opposite—'void' means absence or emptiness, opposite of a collection of features." },
+        { "distractor": "scarcity", "closeness": 1, "reasoning": "Opposite—'scarcity' means limited availability, opposite of 'a bevy of.'" },
+        { "distractor": "dearth", "closeness": 1, "reasoning": "Opposite—'dearth' means shortage or lack, opposite of having many features." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "warranted",
+  "sentenceSets": [
+    {
+      "sentence": "A more cautious response would have been warranted, but the opportunity cost of caution was also real.",
+      "answerChoices": [
+        { "distractor": "justified", "closeness": 3, "reasoning": "A cautious response would be justified, but 'justified' emphasizes having good reason; the sentence shows certainty about what would have been the right course." },
+        { "distractor": "appropriate", "closeness": 3, "reasoning": "'Appropriate' means suitable or fitting; a cautious response is appropriate, but the sentence emphasizes declaration of certainty that it would be right." },
+        { "distractor": "advisable", "closeness": 3, "reasoning": "'Advisable' means worth recommending; caution is advisable, but the sentence emphasizes the declaration of certainty with which one maintains caution would be right." },
+        { "distractor": "wise", "closeness": 3, "reasoning": "'Wise' means showing good judgment; caution would be wise, but the sentence emphasizes the declaration and certainty about what would be right." },
+        { "distractor": "prudent", "closeness": 2, "reasoning": "'Prudent' means exercising care; a cautious response is prudent, but the sentence emphasizes the declaration of certainty." },
+        { "distractor": "called for", "closeness": 2, "reasoning": "'Called for' suggests something is necessary; the sentence emphasizes the declaration that caution would have been the right course." },
+        { "distractor": "required", "closeness": 2, "reasoning": "'Required' means needed as an obligation; caution would be required, but the sentence emphasizes maintaining with certainty what would be right." },
+        { "distractor": "indicated", "closeness": 2, "reasoning": "'Indicated' suggests something is suggested by evidence; caution is indicated, but the sentence emphasizes the declaration of certainty." },
+        { "distractor": "contraindicated", "closeness": 1, "reasoning": "A cautious response would be warranted or declared as the right course; 'contraindicated' means advised against, the opposite of warranted." },
+        { "distractor": "discouraged", "closeness": 1, "reasoning": "A cautious response would be warranted or declared as right; 'discouraged' means urged against, opposite to warranted." },
+        { "distractor": "unjustified", "closeness": 1, "reasoning": "A cautious response would be warranted or declared as the right course; 'unjustified' means without good reason, opposite to warranted." }
+      ]
+    },
+    {
+      "sentence": "Given the evidence presented, the jury felt warranted in returning a guilty verdict, confident they had maintained certainty about the defendant's culpability.",
+      "answerChoices": [
+        { "distractor": "justified", "closeness": 3, "reasoning": "'Justified' means having good reason; the verdict is justified, but the sentence emphasizes the jury's certainty about declaring guilt." },
+        { "distractor": "confident", "closeness": 3, "reasoning": "'Confident' means feeling sure; the jury is confident, but the sentence emphasizes the declaration of certainty about guilt." },
+        { "distractor": "persuaded", "closeness": 3, "reasoning": "'Persuaded' means convinced by argument; the jury is persuaded by evidence, but the sentence emphasizes their certainty in declaring guilt." },
+        { "distractor": "convinced", "closeness": 3, "reasoning": "'Convinced' means certain or persuaded; the jury is convinced, but the sentence emphasizes the declaration of certainty about culpability." },
+        { "distractor": "comfortable", "closeness": 2, "reasoning": "'Comfortable' describes feeling at ease; the jury feels comfortable with their decision, but the sentence emphasizes their certainty in declaring guilt." },
+        { "distractor": "certain", "closeness": 2, "reasoning": "'Certain' means sure; the jury is certain about guilt, but the sentence emphasizes their declaration of certainty maintaining this certainty." },
+        { "distractor": "satisfied", "closeness": 2, "reasoning": "'Satisfied' means content with a result; the jury is satisfied, but the sentence emphasizes their certainty in declaring guilt." },
+        { "distractor": "assured", "closeness": 2, "reasoning": "'Assured' means confident; the jury is assured by the evidence, but the sentence emphasizes their declaration of certainty." },
+        { "distractor": "uncertain", "closeness": 1, "reasoning": "The jury felt warranted and confident in their guilty verdict; 'uncertain' means not sure, opposite to warranted." },
+        { "distractor": "doubtful", "closeness": 1, "reasoning": "The jury felt warranted declaring guilt with certainty; 'doubtful' means questioning, opposite to warranted." },
+        { "distractor": "hesitant", "closeness": 1, "reasoning": "The jury felt warranted and certain about declaring guilt; 'hesitant' means unwilling or uncertain, opposite to warranted." }
+      ]
+    },
+    {
+      "sentence": "The employee's complaint seemed trivial until the investigation revealed a pattern; her frustration had been warranted all along.",
+      "answerChoices": [
+        { "distractor": "justified", "closeness": 3, "reasoning": "'Justified' means having good reason; her frustration is justified, but the sentence emphasizes maintaining with certainty that her reaction was correct." },
+        { "distractor": "legitimate", "closeness": 3, "reasoning": "'Legitimate' means valid and lawful; her complaint is legitimate, but the sentence emphasizes the declaration of certainty about her frustration." },
+        { "distractor": "reasonable", "closeness": 3, "reasoning": "'Reasonable' means based on good judgment; her frustration is reasonable, but the sentence emphasizes the maintained certainty about it." },
+        { "distractor": "valid", "closeness": 3, "reasoning": "'Valid' means well-founded; her frustration is valid, but the sentence emphasizes the certainty about declaring it was justified." },
+        { "distractor": "understandable", "closeness": 2, "reasoning": "'Understandable' means comprehensible given circumstances; her frustration is understandable, but the sentence emphasizes certainty in declaring it justified." },
+        { "distractor": "founded", "closeness": 2, "reasoning": "'Founded' means based on solid ground; her frustration is founded on the pattern, but the sentence emphasizes maintaining certainty about its validity." },
+        { "distractor": "grounded", "closeness": 2, "reasoning": "'Grounded' means based on fact; her frustration is grounded, but the sentence emphasizes the declared certainty." },
+        { "distractor": "vindicated", "closeness": 2, "reasoning": "'Vindicated' means proved right; she is vindicated by the investigation, but the sentence emphasizes maintaining certainty her frustration was justified." },
+        { "distractor": "unfounded", "closeness": 1, "reasoning": "The investigation revealed her frustration had been warranted and justified; 'unfounded' means not based on fact, opposite to warranted." },
+        { "distractor": "baseless", "closeness": 1, "reasoning": "Investigation showed her frustration was warranted and justified; 'baseless' means without foundation, opposite to warranted." },
+        { "distractor": "invalid", "closeness": 1, "reasoning": "The investigation showed her frustration had been warranted and correct; 'invalid' means not well-founded, opposite to warranted." }
+      ]
+    }
+  ]
+}

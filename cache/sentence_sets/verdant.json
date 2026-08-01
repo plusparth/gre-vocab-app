@@ -1,0 +1,53 @@
+{
+  "word": "verdant",
+  "sentenceSets": [
+    {
+      "sentence": "The verdant optimism of the proposal's early champions gave way to something more cautious once the first implementation cycle produced results.",
+      "answerChoices": [
+        {"distractor": "naive", "closeness": 3, "reasoning": "Naive means showing lack of experience or judgment, which the optimism is, but verdant specifically suggests the green or fresh quality of emerging optimism, not naivete."},
+        {"distractor": "youthful", "closeness": 3, "reasoning": "Youthful means characteristic of youth or young in manner, which the optimism is, but verdant specifically refers to the green or fresh aspect."},
+        {"distractor": "innocent", "closeness": 3, "reasoning": "Innocent means free from guilt or naivete, which the optimism might be, but verdant specifically suggests the green or flourishing quality."},
+        {"distractor": "exuberant", "closeness": 3, "reasoning": "Exuberant means enthusiastically energetic or lively, which the optimism is, but does not capture the green or fresh quality that verdant implies."},
+        {"distractor": "hopeful", "closeness": 2, "reasoning": "Hopeful means feeling or inspiring hope, which the optimism is, but does not specifically capture the green or fresh aspect that verdant conveys."},
+        {"distractor": "enthusiastic", "closeness": 2, "reasoning": "Enthusiastic means showing intense interest or approval, which the champions are, but does not capture the green or fresh quality."},
+        {"distractor": "idealistic", "closeness": 2, "reasoning": "Idealistic means based on ideals rather than practical reality, which the optimism is, but does not specifically refer to the green or fresh quality."},
+        {"distractor": "unbridled", "closeness": 2, "reasoning": "Unbridled means uncontrolled or unrestricted, which the optimism is, but does not specifically capture the green or verdant quality."},
+        {"distractor": "cynical", "closeness": 1, "reasoning": "Cynical means distrusting human sincerity or motives, the opposite of verdant optimism."},
+        {"distractor": "jaded", "closeness": 1, "reasoning": "Jaded means tired or cynical after excessive experience, the opposite of verdant optimism that gives way to caution."},
+        {"distractor": "withered", "closeness": 1, "reasoning": "Withered means dried up or declined, the opposite of verdant, which refers to the green or flourishing aspect."}
+      ]
+    },
+    {
+      "sentence": "The verdant fields of the agricultural region produced abundant crops year after year, sustaining the community's prosperity.",
+      "answerChoices": [
+        {"distractor": "fertile", "closeness": 3, "reasoning": "Fertile means capable of producing abundant growth or crops, which the fields are, but verdant specifically refers to the quality of being green rather than fertile."},
+        {"distractor": "lush", "closeness": 3, "reasoning": "Lush means growing luxuriantly or abundantly, which the fields are, but verdant specifically refers to the green color, not luxuriance."},
+        {"distractor": "productive", "closeness": 3, "reasoning": "Productive means yielding abundant crops or results, which the fields are, but verdant specifically refers to the green aspect, not productivity."},
+        {"distractor": "thriving", "closeness": 3, "reasoning": "Thriving means growing or developing well, which the fields are, but verdant specifically refers to the green appearance."},
+        {"distractor": "abundant", "closeness": 2, "reasoning": "Abundant means existing in great quantity, which the crops are, but verdant specifically refers to the green color of the fields."},
+        {"distractor": "rich", "closeness": 2, "reasoning": "Rich means abundant in resources or fertility, which the fields are, but does not specifically refer to the green quality."},
+        {"distractor": "bountiful", "closeness": 2, "reasoning": "Bountiful means plentiful or abundant, which the fields are, but does not specifically refer to the green appearance."},
+        {"distractor": "cultivated", "closeness": 2, "reasoning": "Cultivated means prepared for crops or refined, which the fields are, but does not specifically refer to the green quality."},
+        {"distractor": "barren", "closeness": 1, "reasoning": "Barren means unable to produce crops or offspring, the opposite of verdant fields that produce abundant crops."},
+        {"distractor": "arid", "closeness": 1, "reasoning": "Arid means very dry, the opposite of verdant fields that are green and flourishing."},
+        {"distractor": "withered", "closeness": 1, "reasoning": "Withered means dried up or declined, the opposite of verdant fields that sustain community prosperity."}
+      ]
+    },
+    {
+      "sentence": "The verdant hillsides of the wine country attracted tourists from around the world, eager to experience the landscape's natural beauty.",
+      "answerChoices": [
+        {"distractor": "picturesque", "closeness": 3, "reasoning": "Picturesque means visually attractive or charming, which the hillsides are, but verdant specifically refers to the green quality."},
+        {"distractor": "scenic", "closeness": 3, "reasoning": "Scenic means displaying natural beauty or attractive views, which the hillsides do, but verdant specifically refers to the green appearance."},
+        {"distractor": "lush", "closeness": 3, "reasoning": "Lush means growing luxuriantly, which the hillsides are, but verdant specifically refers to the green color, not luxuriance."},
+        {"distractor": "beautiful", "closeness": 3, "reasoning": "Beautiful means pleasing to the eye or aesthetically attractive, which the hillsides are, but verdant specifically refers to the green quality."},
+        {"distractor": "alluring", "closeness": 2, "reasoning": "Alluring means powerfully attractive or tempting, which the hillsides are, but does not specifically refer to the green quality."},
+        {"distractor": "enchanting", "closeness": 2, "reasoning": "Enchanting means delightfully charming or appealing, which the hillsides are, but does not specifically refer to verdant green appearance."},
+        {"distractor": "appealing", "closeness": 2, "reasoning": "Appealing means attractive or interesting, which the hillsides are, but does not specifically refer to the green quality."},
+        {"distractor": "striking", "closeness": 2, "reasoning": "Striking means visually impressive or noticeable, which the hillsides are, but does not specifically refer to verdant green appearance."},
+        {"distractor": "barren", "closeness": 1, "reasoning": "Barren means bare or unable to support growth, the opposite of verdant green hillsides."},
+        {"distractor": "desolate", "closeness": 1, "reasoning": "Desolate means bare and lifeless, the opposite of verdant hillsides that attract tourists."},
+        {"distractor": "drab", "closeness": 1, "reasoning": "Drab means dull in color or appearance, the opposite of verdant green hillsides that attract tourists for their beauty."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "dissent",
+  "sentenceSets": [
+    {
+      "sentence": "She dissented from the majority opinion but was willing to implement the decision once it was made.",
+      "answerChoices": [
+        { "distractor": "disagreed", "closeness": 3, "reasoning": "Close trap -- 'disagreed' conveys the same idea of opposing a view, and the sentence structure fits perfectly, but it is less formal than 'dissent' and does not carry the institutional weight of formal disagreement." },
+        { "distractor": "objected", "closeness": 3, "reasoning": "Close trap -- 'objected' means raised an opposition, which fits the sentence, but it emphasizes immediate reactive opposition rather than the formal declaration of disagreement that 'dissent' implies." },
+        { "distractor": "protested", "closeness": 3, "reasoning": "Close trap -- 'protested' means expressed strong objection, which fits the sense of disagreement, but it suggests more vocal or emphatic resistance than the measured disagreement shown by her willingness to implement." },
+        { "distractor": "differed", "closeness": 3, "reasoning": "Close trap -- 'differed' means held a different view, which is nearly synonymous with dissent, but it is less formal and emphasizes personal variation rather than principled disagreement from an established position." },
+        { "distractor": "opposed", "closeness": 2, "reasoning": "Plausible but incorrect -- 'opposed' means actively resisted or worked against, which fits the idea of disagreement, but it suggests more active resistance than her demonstrated willingness to implement the decision." },
+        { "distractor": "resisted", "closeness": 2, "reasoning": "Plausible but incorrect -- 'resisted' implies pushing back or struggling against something, which contradicts the sentence's indication that she was willing to implement the decision." },
+        { "distractor": "questioned", "closeness": 2, "reasoning": "Plausible but incorrect -- 'questioned' means expressed doubt about something, but it is milder than disagreement and does not convey the formal opposition that 'dissent' implies." },
+        { "distractor": "contested", "closeness": 2, "reasoning": "Plausible but incorrect -- 'contested' means challenged or disputed the validity of something, but it is more confrontational than the measured stance shown by her willingness to comply." },
+        { "distractor": "assented", "closeness": 1, "reasoning": "Opposite meaning -- 'assented' means agreed or gave consent, which directly contradicts the idea of disagreeing with the majority opinion." },
+        { "distractor": "accepted", "closeness": 1, "reasoning": "Opposite meaning -- 'accepted' means approved or agreed to, which contradicts the sentence's indication that she held a different view from the majority." },
+        { "distractor": "endorsed", "closeness": 1, "reasoning": "Opposite meaning -- 'endorsed' means publicly supported or approved, which is the opposite of expressing disagreement." }
+      ]
+    },
+    {
+      "sentence": "Several board members dissented during the vote, arguing that the merger would damage the company's independence.",
+      "answerChoices": [
+        { "distractor": "demurred", "closeness": 3, "reasoning": "Close trap -- 'demurred' means objected or expressed doubts, which fits the context of disagreeing during a vote, but it emphasizes hesitation and reservation rather than the explicit opposition that 'dissent' conveys." },
+        { "distractor": "disputed", "closeness": 3, "reasoning": "Close trap -- 'disputed' means challenged the truth or validity of something, which fits the board members' opposition to the merger argument, but it emphasizes attacking a claim rather than registering formal disagreement on a vote." },
+        { "distractor": "wavered", "closeness": 3, "reasoning": "Close trap -- 'wavered' means showed doubt or uncertainty, which fits voting contexts, but it emphasizes indecision rather than the clear stance of dissent shown by the board members' stated opposition." },
+        { "distractor": "declined", "closeness": 3, "reasoning": "Close trap -- 'declined' means refused to participate or rejected a proposal, which fits voting scenarios, but it emphasizes non-participation or refusal rather than explicit disagreement expressed through argument." },
+        { "distractor": "abstained", "closeness": 2, "reasoning": "Plausible but incorrect -- 'abstained' means refrained from voting or participating, but the sentence shows board members actively arguing their position, not simply refraining from voting." },
+        { "distractor": "refrained", "closeness": 2, "reasoning": "Plausible but incorrect -- 'refrained' means held back or avoided, which might describe choosing not to vote, but the sentence emphasizes active opposition through argument rather than abstention." },
+        { "distractor": "recused", "closeness": 2, "reasoning": "Plausible but incorrect -- 'recused' means excused oneself from participation due to conflict of interest, but the sentence shows engaged board members making arguments rather than withdrawing." },
+        { "distractor": "yielded", "closeness": 2, "reasoning": "Plausible but incorrect -- 'yielded' means gave way or conceded, but the sentence shows board members standing firm in their opposition rather than yielding." },
+        { "distractor": "approved", "closeness": 1, "reasoning": "Opposite meaning -- 'approved' means gave official consent or endorsed, which contradicts the board members' explicit opposition to the merger." },
+        { "distractor": "endorsed", "closeness": 1, "reasoning": "Opposite meaning -- 'endorsed' means publicly supported or approved, which directly contradicts the members' argued opposition." },
+        { "distractor": "ratified", "closeness": 1, "reasoning": "Opposite meaning -- 'ratified' means officially confirmed or approved, which is the opposite of disagreeing during a vote." }
+      ]
+    },
+    {
+      "sentence": "While critics might dissent from the film's message, its artistic merit is undeniable.",
+      "answerChoices": [
+        { "distractor": "quarrel", "closeness": 3, "reasoning": "Close trap -- 'quarrel' means argue or dispute, which fits intellectual disagreement about the film's message, but it suggests interpersonal conflict rather than reasoned intellectual opposition." },
+        { "distractor": "cavil", "closeness": 3, "reasoning": "Close trap -- 'cavil' means make petty objections or quibble, which fits the idea of disagreeing, but it carries a dismissive tone suggesting trivial complaints rather than substantive disagreement." },
+        { "distractor": "quibble", "closeness": 3, "reasoning": "Close trap -- 'quibble' means find fault over small details, which describes intellectual opposition, but it emphasizes minor nitpicking rather than fundamental disagreement with the film's core message." },
+        { "distractor": "demur", "closeness": 3, "reasoning": "Close trap -- 'demur' means object or express doubt, which fits the idea of criticizing the message, but it emphasizes hesitation and reservation rather than the critical stance appropriate to art criticism." },
+        { "distractor": "critique", "closeness": 2, "reasoning": "Plausible but incorrect -- 'critique' means analyze and evaluate critically, which is related to disagreement, but it is broader and encompasses analysis beyond just dissenting from a message." },
+        { "distractor": "fault", "closeness": 2, "reasoning": "Plausible but incorrect -- 'fault' means find defects or blame, which describes critical opposition, but it emphasizes finding flaws rather than disagreeing with the film's central message or philosophy." },
+        { "distractor": "rebut", "closeness": 2, "reasoning": "Plausible but incorrect -- 'rebut' means argue against with counter-evidence, which implies a logical debate, but it is more specific to presenting counterarguments than expressing disagreement with artistic content." },
+        { "distractor": "naysay", "closeness": 2, "reasoning": "Plausible but incorrect -- 'naysay' means voice opposition or say no, which describes disagreement, but it is colloquial and less appropriate for serious art criticism than 'dissent.'" },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Opposite meaning -- 'praise' means express approval or commend, which is the opposite of disagreeing with the film's message." },
+        { "distractor": "champion", "closeness": 1, "reasoning": "Opposite meaning -- 'champion' means advocate for or support enthusiastically, which directly contradicts disagreeing with the film's message." },
+        { "distractor": "celebrate", "closeness": 1, "reasoning": "Opposite meaning -- 'celebrate' means honor or express joy about, which contradicts the idea of disagreeing with or criticizing the film." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "picayune",
+  "sentenceSets": [
+    {
+      "sentence": "The objection was picayune—technically valid but inconsequential to anything that actually mattered.",
+      "answerChoices": [
+        {"distractor": "trivial", "closeness": 3, "reasoning": "Trivial describes something of little importance, equally supported by the sentence's contrast between technical validity and actual consequence."},
+        {"distractor": "trifling", "closeness": 3, "reasoning": "Trifling means of little value or importance, fitting the objection that is inconsequential despite technical validity; this near-synonym traps through equal relevance."},
+        {"distractor": "petty", "closeness": 3, "reasoning": "Petty describes something small or of minor importance, fitting an inconsequential objection; this term is equally supported by the sentence context."},
+        {"distractor": "niggling", "closeness": 3, "reasoning": "Niggling describes trivial or petty matters, fitting an objection that is technically valid but inconsequential; this is a strong synonym trap."},
+        {"distractor": "pedantic", "closeness": 2, "reasoning": "Pedantic describes excessive focus on technical details, fitting the technically valid but inconsequential nature; however, pedantic emphasizes the obsessive nature more than mere insignificance."},
+        {"distractor": "quibbling", "closeness": 2, "reasoning": "Quibbling means making trivial objections, which fits; however, quibbling emphasizes the act of complaining rather than the insignificance of the complaint itself."},
+        {"distractor": "hairsplitting", "closeness": 2, "reasoning": "Hairsplitting describes excessive attention to minor distinctions, fitting technical validity; however, hairsplitting emphasizes the distinction-making rather than the consequence."},
+        {"distractor": "caviling", "closeness": 2, "reasoning": "Caviling means making petty objections, fitting the scenario; however, caviling emphasizes the fault-finding behavior rather than the objection's actual significance."},
+        {"distractor": "substantial", "closeness": 1, "reasoning": "Substantial means significant and important, directly contradicting the sentence's description of something inconsequential despite technical validity."},
+        {"distractor": "significant", "closeness": 1, "reasoning": "Significant means important or having meaning, directly opposite to the sentence's characterization of something that does not matter substantively."},
+        {"distractor": "weighty", "closeness": 1, "reasoning": "Weighty describes something of importance or consequence, contradicting the sentence's assertion that the objection is inconsequential despite being technically valid."}
+      ]
+    },
+    {
+      "sentence": "The homeowner's insurance claim was denied over picayune technicalities involving documentation that had no bearing on the property's actual damage.",
+      "answerChoices": [
+        {"distractor": "nominal", "closeness": 3, "reasoning": "Nominal means in name only or insignificant, fitting documentation technicalities that have no bearing on actual damage."},
+        {"distractor": "superficial", "closeness": 3, "reasoning": "Superficial describes surface-level matters without depth or substance, fitting technicalities that don't affect the actual damage claim."},
+        {"distractor": "minor", "closeness": 3, "reasoning": "Minor describes small or unimportant matters, fitting technicalities with no bearing on substantive damage; this near-synonym traps through equal relevance."},
+        {"distractor": "fussy", "closeness": 3, "reasoning": "Fussy describes excessive attention to trivial details, fitting documentation technicalities that are inconsequential to the actual claim."},
+        {"distractor": "procedural", "closeness": 2, "reasoning": "Procedural means relating to formal procedures, fitting technicalities involving documentation; however, procedural emphasizes the formal nature rather than insignificance."},
+        {"distractor": "bureaucratic", "closeness": 2, "reasoning": "Bureaucratic emphasizes rigid administrative procedures, fitting documentation technicalities; however, bureaucratic describes the type of obstacle rather than its actual importance."},
+        {"distractor": "formalistic", "closeness": 2, "reasoning": "Formalistic describes excessive adherence to form over substance, fitting documentation technicalities; however, it emphasizes the form-over-substance issue rather than mere insignificance."},
+        {"distractor": "technical", "closeness": 2, "reasoning": "Technical describes matters involving specific detailed knowledge or procedures; the sentence explicitly mentions technicalities, making this a plausible but redundant distractor."},
+        {"distractor": "material", "closeness": 1, "reasoning": "Material means relevant and important, directly contradicting the documentation technicalities that have no bearing on the actual damage."},
+        {"distractor": "substantive", "closeness": 1, "reasoning": "Substantive means significant and concerning real substance, opposite to technicalities that lack bearing on actual property damage."},
+        {"distractor": "relevant", "closeness": 1, "reasoning": "Relevant means related and important to the matter at hand; the sentence explicitly states the technicalities have no bearing, making them irrelevant, not relevant."}
+      ]
+    },
+    {
+      "sentence": "Her picayune complaints about the conference logistics overshadowed the genuinely innovative research presentations.",
+      "answerChoices": [
+        {"distractor": "captious", "closeness": 3, "reasoning": "Captious means tending to find fault, describing complaints that are trivial; this near-synonym traps through equal descriptive power."},
+        {"distractor": "nitpicking", "closeness": 3, "reasoning": "Nitpicking describes excessively focusing on trivial faults, perfectly describing complaints about logistics that overshadow substantive research."},
+        {"distractor": "querulous", "closeness": 3, "reasoning": "Querulous means complaining or whining, fitting complaints about logistics; this near-synonym is equally supported by the complaining behavior described."},
+        {"distractor": "finicky", "closeness": 3, "reasoning": "Finicky describes excessive pickiness about details, fitting complaints about conference logistics details that obscure the research."},
+        {"distractor": "frivolous", "closeness": 2, "reasoning": "Frivolous means not serious or trivial, fitting complaints that overshadow innovation; however, frivolous emphasizes lack of seriousness rather than pettiness about details."},
+        {"distractor": "fault-finding", "closeness": 2, "reasoning": "Fault-finding describes searching for faults, fitting the complaining behavior; however, it emphasizes the act of finding faults rather than the triviality of the complaints."},
+        {"distractor": "carping", "closeness": 2, "reasoning": "Carping means complaining peevishly, fitting the complaints about logistics; however, carping emphasizes the manner of complaining rather than the insignificance of issues."},
+        {"distractor": "grousing", "closeness": 2, "reasoning": "Grousing means complaining or grumbling, which fits the behavior; however, grousing is a general term for complaining rather than specifically about trivial matters."},
+        {"distractor": "constructive", "closeness": 1, "reasoning": "Constructive means intended to help or improve, directly contradicting complaints that overshadow and detract from the research presentations."},
+        {"distractor": "thoughtful", "closeness": 1, "reasoning": "Thoughtful describes careful consideration, opposite to complaints about logistics that overshadow the substance of the conference."},
+        {"distractor": "insightful", "closeness": 1, "reasoning": "Insightful describes observations of deep understanding, opposite to trivial complaints about logistics that obscure the innovations being presented."}
+      ]
+    }
+  ]
+}

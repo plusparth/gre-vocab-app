@@ -1,0 +1,53 @@
+{
+  "word": "assertive",
+  "sentenceSets": [
+    {
+      "sentence": "An assertive approach in the negotiations helped her secure terms more favorable than anyone had expected.",
+      "answerChoices": [
+        { "distractor": "aggressive", "closeness": 3, "reasoning": "While 'aggressive' describes forceful behavior, the sentence emphasizes bold confidence ('assertive'), which can achieve results without aggression or hostility." },
+        { "distractor": "forceful", "closeness": 3, "reasoning": "'Forceful' means powerful and compelling; while the approach is forceful, the sentence emphasizes confident boldness, not just raw force." },
+        { "distractor": "bold", "closeness": 3, "reasoning": "'Bold' means daring and courageous; while the approach is bold, 'assertive' adds the element of confident statement-making." },
+        { "distractor": "dominant", "closeness": 3, "reasoning": "'Dominant' means commanding or ruling; while she dominates negotiations, the sentence emphasizes assertiveness (confident statements), not dominance." },
+        { "distractor": "confident", "closeness": 2, "reasoning": "'Confident' means feeling sure; while the approach is confident, 'assertive' emphasizes bold expression and statement-making." },
+        { "distractor": "firm", "closeness": 2, "reasoning": "'Firm' means solid or unwavering; while the approach is firm, 'assertive' emphasizes bold confident statements." },
+        { "distractor": "strong", "closeness": 2, "reasoning": "'Strong' means powerful; while the approach is strong, 'assertive' emphasizes confident bold behavior." },
+        { "distractor": "demanding", "closeness": 2, "reasoning": "'Demanding' means insisting on something; while she demands, 'assertive' emphasizes confident bold expression." },
+        { "distractor": "passive", "closeness": 1, "reasoning": "Passive means accepting or yielding; it contradicts the bold, confident behavior that helped her succeed." },
+        { "distractor": "timid", "closeness": 1, "reasoning": "Timid means lacking confidence or boldness; it contradicts the assertive approach that achieved favorable terms." },
+        { "distractor": "submissive", "closeness": 1, "reasoning": "Submissive means yielding to authority; it contradicts the bold, confident approach the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "The assertive student raised her hand frequently, challenged ideas she disagreed with, and wasn't intimidated by the professor's expertise.",
+      "answerChoices": [
+        { "distractor": "aggressive", "closeness": 3, "reasoning": "While 'aggressive' describes hostile forceful behavior, the sentence shows bold confidence (challenging ideas) without hostility." },
+        { "distractor": "dominant", "closeness": 3, "reasoning": "'Dominant' means commanding or ruling; while she takes charge, the sentence emphasizes confident expression and boldness." },
+        { "distractor": "outspoken", "closeness": 3, "reasoning": "'Outspoken' means frank and candid; while she is outspoken, 'assertive' adds the confident boldness of her statements." },
+        { "distractor": "confrontational", "closeness": 3, "reasoning": "'Confrontational' means inclined to argue; while she challenges, the sentence shows confidence rather than mere confrontation." },
+        { "distractor": "confident", "closeness": 2, "reasoning": "'Confident' means feeling sure; while she is confident, 'assertive' emphasizes bold statement-making and behavior." },
+        { "distractor": "bold", "closeness": 2, "reasoning": "'Bold' means daring; while she is bold, 'assertive' adds the element of confident statements." },
+        { "distractor": "talkative", "closeness": 2, "reasoning": "'Talkative' means speaking a lot; while she speaks frequently, 'assertive' emphasizes the confident boldness of her statements." },
+        { "distractor": "analytical", "closeness": 2, "reasoning": "'Analytical' means examining carefully; while she analyzes and challenges, 'assertive' emphasizes the bold confident expression." },
+        { "distractor": "passive", "closeness": 1, "reasoning": "Passive means accepting or yielding; it contradicts raising her hand frequently and challenging the professor." },
+        { "distractor": "timid", "closeness": 1, "reasoning": "Timid means lacking boldness; it contradicts her frequent participation and willingness to challenge." },
+        { "distractor": "deferential", "closeness": 1, "reasoning": "Deferential means showing respect and submission; it contradicts her unwillingness to be intimidated by the professor." }
+      ]
+    },
+    {
+      "sentence": "His assertive insistence on his needs—refusing to cancel plans last-minute or accept criticism without pushback—earned him a reputation as difficult and inflexible.",
+      "answerChoices": [
+        { "distractor": "aggressive", "closeness": 3, "reasoning": "While 'aggressive' describes hostile behavior, the sentence shows bold assertion of needs without necessarily hostile intent." },
+        { "distractor": "stubborn", "closeness": 3, "reasoning": "'Stubborn' means refusing to change; while he is stubborn, the sentence emphasizes assertive expression of needs." },
+        { "distractor": "demanding", "closeness": 3, "reasoning": "'Demanding' means insisting on something; while he is demanding, 'assertive' emphasizes confident statement-making." },
+        { "distractor": "dominant", "closeness": 3, "reasoning": "'Dominant' means commanding; while he dominates, the sentence emphasizes assertiveness (confident statement-making)." },
+        { "distractor": "bold", "closeness": 2, "reasoning": "'Bold' means daring; while he is bold, 'assertive' emphasizes confident statements about his needs." },
+        { "distractor": "firm", "closeness": 2, "reasoning": "'Firm' means unwavering; while he is firm, 'assertive' emphasizes confident bold statements." },
+        { "distractor": "strong-willed", "closeness": 2, "reasoning": "'Strong-willed' means having determination; while he is strong-willed, 'assertive' emphasizes the bold expression." },
+        { "distractor": "arrogant", "closeness": 2, "reasoning": "'Arrogant' means excessively proud; while he may seem arrogant, the sentence emphasizes assertiveness (confidence), not arrogance." },
+        { "distractor": "passive", "closeness": 1, "reasoning": "Passive means accepting or yielding; it contradicts refusing to cancel plans and pushing back on criticism." },
+        { "distractor": "meek", "closeness": 1, "reasoning": "Meek means gentle and submissive; it contradicts his refusal to accommodate and pushback behavior." },
+        { "distractor": "accommodating", "closeness": 1, "reasoning": "Accommodating means willing to adapt; it contradicts his refusal to cancel plans or accept criticism without pushback." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "polymath",
+  "sentenceSets": [
+    {
+      "sentence": "The polymath's breadth of knowledge allowed him to draw connections between fields that specialists, working in isolation, could not have made.",
+      "answerChoices": [
+        { "distractor": "generalist", "closeness": 3, "reasoning": "Close but incorrect -- a 'generalist' has broad knowledge across fields, but unlike a polymath, may lack the deep expertise and truly encyclopedic command that enables cross-field insight." },
+        { "distractor": "scholar", "closeness": 3, "reasoning": "Close -- a 'scholar' is a learned person, but typically implies deep focus on one area rather than the spanning of multiple fields that allows drawing connections between them." },
+        { "distractor": "intellectual", "closeness": 3, "reasoning": "Close -- an 'intellectual' is a thoughtful, learned person, but the term doesn't necessarily imply the breadth across multiple specialized fields that makes bridge-building possible." },
+        { "distractor": "maven", "closeness": 3, "reasoning": "Close -- a 'maven' is an expert, but usually in a specific domain; the sentence emphasizes breadth of knowledge across multiple fields, not mastery of one." },
+        { "distractor": "expert", "closeness": 2, "reasoning": "Incorrect -- an 'expert' typically possesses deep knowledge in a narrow area, whereas the sentence stresses ability to connect across different specialist areas." },
+        { "distractor": "artisan", "closeness": 2, "reasoning": "Incorrect -- an 'artisan' is skilled but in craft or trade, not in the breadth of theoretical or academic knowledge needed to bridge fields." },
+        { "distractor": "prodigy", "closeness": 2, "reasoning": "Incorrect -- a 'prodigy' is exceptionally talented, often from youth, but doesn't specifically imply the wide-ranging encyclopedic knowledge across multiple domains." },
+        { "distractor": "virtuoso", "closeness": 2, "reasoning": "Incorrect -- a 'virtuoso' excels in a particular skill or art form, but doesn't necessarily span the multiple fields required for cross-disciplinary insight." },
+        { "distractor": "dunce", "closeness": 1, "reasoning": "Opposite -- a 'dunce' is someone of low intelligence, the opposite of someone with encyclopedic learning." },
+        { "distractor": "novice", "closeness": 1, "reasoning": "Opposite -- a 'novice' is a beginner, the opposite of someone with deep, broad knowledge." },
+        { "distractor": "charlatan", "closeness": 1, "reasoning": "Incorrect -- a 'charlatan' is a fraud or pretender to knowledge; completely opposite to someone genuinely encyclopedically learned." }
+      ]
+    },
+    {
+      "sentence": "The museum's curator was a polymath who could discourse knowledgeably on everything from Sumerian cuneiform to Renaissance oil-painting techniques.",
+      "answerChoices": [
+        { "distractor": "dilettante", "closeness": 3, "reasoning": "Close but incorrect -- a 'dilettante' has interests in multiple fields but pursues them superficially; the sentence emphasizes knowledgeable discourse, implying serious depth, not casual dabbling." },
+        { "distractor": "connoisseur", "closeness": 3, "reasoning": "Close -- a 'connoisseur' is knowledgeable about a particular area (art, wine, etc.), but the sentence requires someone versed across unrelated domains like ancient language and painting." },
+        { "distractor": "aesthete", "closeness": 3, "reasoning": "Close -- an 'aesthete' appreciates beauty and the arts, but doesn't necessarily have encyclopedic knowledge spanning ancient linguistics and technical painting methods." },
+        { "distractor": "erudite person", "closeness": 3, "reasoning": "Close -- an 'erudite person' is deeply learned, but often implies mastery of classical or literary knowledge rather than spanning both linguistic archaeology and visual arts." },
+        { "distractor": "custodian", "closeness": 2, "reasoning": "Incorrect -- a 'custodian' maintains or guards objects, but not necessarily the broad knowledge the sentence attributes to the curator." },
+        { "distractor": "collector", "closeness": 2, "reasoning": "Incorrect -- a 'collector' gathers items, but gathering art doesn't require encyclopedic knowledge across diverse unrelated fields." },
+        { "distractor": "preservationist", "closeness": 2, "reasoning": "Incorrect -- a 'preservationist' conserves historical materials, but doesn't require expertise spanning ancient languages and painting techniques." },
+        { "distractor": "antiquarian", "closeness": 2, "reasoning": "Incorrect -- an 'antiquarian' studies old books or artifacts, but the sentence emphasizes discourse across disparate fields, not historical collection." },
+        { "distractor": "illiterate", "closeness": 1, "reasoning": "Opposite -- an 'illiterate' person lacks knowledge and learning ability; the opposite of someone capable of knowledgeable discourse on multiple subjects." },
+        { "distractor": "ignoramus", "closeness": 1, "reasoning": "Opposite -- an 'ignoramus' is deeply uninformed; the direct opposite of someone knowledgeable across diverse fields." },
+        { "distractor": "recluse", "closeness": 1, "reasoning": "Incorrect -- a 'recluse' withdraws from society; irrelevant to knowledge acquisition or the ability to discourse on multiple subjects." }
+      ]
+    },
+    {
+      "sentence": "Unlike the typical researcher bound to one laboratory and one line of inquiry, the polymath moved between disciplines, absorbing methods and insights that transformed her approach.",
+      "answerChoices": [
+        { "distractor": "entrepreneur", "closeness": 3, "reasoning": "Close but incorrect -- an 'entrepreneur' moves between ventures but seeks profit; the sentence emphasizes intellectual absorption and methodological transformation, not business ventures." },
+        { "distractor": "wanderer", "closeness": 3, "reasoning": "Close -- a 'wanderer' moves between places and experiences, but lacks the implication of deliberate intellectual engagement with different fields that the sentence suggests." },
+        { "distractor": "nomad", "closeness": 3, "reasoning": "Close -- a 'nomad' travels and adapts to new environments, but the sentence stresses learning methods and insights across disciplines, not physical movement." },
+        { "distractor": "vagrant", "closeness": 3, "reasoning": "Close -- a 'vagrant' moves between locations without fixed roots, but suggests aimless wandering, whereas the sentence shows purposeful intellectual integration." },
+        { "distractor": "ambassador", "closeness": 2, "reasoning": "Incorrect -- an 'ambassador' moves between communities but represents them diplomatically; the sentence emphasizes intellectual integration, not diplomatic mediation." },
+        { "distractor": "mediator", "closeness": 2, "reasoning": "Incorrect -- a 'mediator' moves between parties to resolve disputes, not between intellectual disciplines to absorb methods." },
+        { "distractor": "bridge", "closeness": 2, "reasoning": "Incorrect -- while the sentence involves bridge-building intellectually, 'bridge' as a noun referring to a person is not a standard description." },
+        { "distractor": "liaison", "closeness": 2, "reasoning": "Incorrect -- a 'liaison' connects groups but for communication or coordination, not for absorbing and transforming intellectual methods." },
+        { "distractor": "specialist", "closeness": 1, "reasoning": "Opposite -- a 'specialist' is bound to one field, the opposite of someone moving between disciplines and absorbing diverse methods." },
+        { "distractor": "partisan", "closeness": 1, "reasoning": "Incorrect -- a 'partisan' is committed to one side or faction; irrelevant to the intellectual cross-disciplinary movement described." },
+        { "distractor": "purist", "closeness": 1, "reasoning": "Opposite -- a 'purist' strictly adheres to one tradition or method, whereas the sentence shows transformation through exposure to diverse approaches." }
+      ]
+    }
+  ]
+}

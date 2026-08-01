@@ -1,0 +1,53 @@
+{
+  "word": "tentative",
+  "sentenceSets": [
+    {
+      "sentence": "Her tentative endorsement was taken as something more definitive by those who had been waiting for any positive signal.",
+      "answerChoices": [
+        { "distractor": "qualified", "closeness": 3, "reasoning": "Qualified means conditional or limited, but the sentence emphasizes others misinterpreting the signal as stronger than it was, not the endorsement being conditional in its wording." },
+        { "distractor": "equivocal", "closeness": 3, "reasoning": "Equivocal means ambiguous or capable of being interpreted in multiple ways, yet the sentence suggests she gave a positive signal that was simply weaker than listeners assumed." },
+        { "distractor": "hesitant", "closeness": 3, "reasoning": "Hesitant describes showing reluctance or uncertainty, but the sentence's focus is on how her signal was received and interpreted, not on her manner of expressing it." },
+        { "distractor": "guarded", "closeness": 3, "reasoning": "Guarded means cautious and controlled in expression, yet the sentence reveals the issue as one of degree—her signal was positive but weaker, not withheld behind protective reserve." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "Ambiguous means unclear or open to multiple interpretations, but the sentence indicates her signal was clearly positive; it was only weaker in strength than the listeners wanted." },
+        { "distractor": "indirect", "closeness": 2, "reasoning": "Indirect means not going straight to the point, but the sentence shows she gave a direct endorsement, just with less conviction than listeners anticipated." },
+        { "distractor": "vague", "closeness": 2, "reasoning": "Vague means imprecise or unclear, but the sentence presents a clear positive signal that was simply measured rather than enthusiastic." },
+        { "distractor": "lukewarm", "closeness": 2, "reasoning": "Lukewarm means half-hearted or lacking enthusiasm, which comes close but emphasizes emotional temperature rather than the incompleteness the sentence suggests." },
+        { "distractor": "emphatic", "closeness": 1, "reasoning": "Emphatic means forceful and definitive, opposite to what the sentence describes as causing misinterpretation from listeners awaiting affirmation." },
+        { "distractor": "categorical", "closeness": 1, "reasoning": "Categorical means absolute and without qualification, contradicting the sentence's portrayal of an endorsement perceived as stronger than it actually was." },
+        { "distractor": "assertive", "closeness": 1, "reasoning": "Assertive means confident and forceful; the sentence requires the opposite—a weaker endorsement that listeners over-interpreted." }
+      ]
+    },
+    {
+      "sentence": "The committee's tentative agreement on the budget framework left several major questions unresolved, requiring a second round of negotiations before final approval.",
+      "answerChoices": [
+        { "distractor": "preliminary", "closeness": 3, "reasoning": "Preliminary means initial or first in order, but the sentence emphasizes incompleteness with unresolved questions, not merely that this is an early stage." },
+        { "distractor": "interim", "closeness": 3, "reasoning": "Interim means temporary or in-between, but the sentence's stress on unresolved questions and required further negotiation suggests something less than merely a temporary placeholder." },
+        { "distractor": "provisional", "closeness": 3, "reasoning": "Provisional means conditional and subject to change, yet the sentence frames the issue as incomplete rather than conditional on future events." },
+        { "distractor": "initial", "closeness": 3, "reasoning": "Initial means first, but the sentence emphasizes that many issues remained undecided, not simply that this was the beginning." },
+        { "distractor": "partial", "closeness": 2, "reasoning": "Partial means incomplete or only part of a whole, which is close, but the sentence's mention of unresolved questions and further rounds suggests more incompleteness than 'partial' captures." },
+        { "distractor": "rough", "closeness": 2, "reasoning": "Rough means approximate or lacking detail, but the sentence's focus on unresolved questions points to substantive disagreement rather than mere lack of polish." },
+        { "distractor": "loose", "closeness": 2, "reasoning": "Loose can mean not firmly fixed or not strict, but the sentence describes a framework with unresolved issues rather than something informally conceived." },
+        { "distractor": "experimental", "closeness": 2, "reasoning": "Experimental means test-based or exploratory, but the sentence describes an official committee agreement on a budget, not a trial or experiment." },
+        { "distractor": "confirmed", "closeness": 1, "reasoning": "Confirmed means firmly established or approved, the opposite of an agreement requiring further negotiation." },
+        { "distractor": "finalized", "closeness": 1, "reasoning": "Finalized means completed and concluded, contradicting the sentence's indication that major questions remained." },
+        { "distractor": "absolute", "closeness": 1, "reasoning": "Absolute means complete and unconditional, contrary to an agreement that left significant issues unresolved." }
+      ]
+    },
+    {
+      "sentence": "The scientist presented only tentative results from the ongoing study, cautioning the audience that further data collection might confirm or overturn every conclusion in her current report.",
+      "answerChoices": [
+        { "distractor": "preliminary", "closeness": 3, "reasoning": "Preliminary means first or initial, but the sentence's emphasis on the possibility of overturning conclusions suggests incompleteness regarding reliability, not just timing." },
+        { "distractor": "unfinished", "closeness": 3, "reasoning": "Unfinished means incomplete in execution, yet the sentence emphasizes that the conclusions might be proven wrong, not merely that the work wasn't done." },
+        { "distractor": "conditional", "closeness": 3, "reasoning": "Conditional implies dependent on other factors, but the sentence stresses the current conclusions' fragility rather than their dependence on specific conditions." },
+        { "distractor": "uncertain", "closeness": 3, "reasoning": "Uncertain means doubtful or not confident, but the sentence frames the issue as incompleteness in data, not the scientist's lack of confidence in her reasoning." },
+        { "distractor": "speculative", "closeness": 2, "reasoning": "Speculative means based on conjecture rather than evidence, but the sentence indicates the scientist has evidence—just not enough to finalize conclusions." },
+        { "distractor": "approximate", "closeness": 2, "reasoning": "Approximate means roughly correct, but the sentence's caution about overturning conclusions suggests qualitative uncertainty rather than quantitative imprecision." },
+        { "distractor": "suggested", "closeness": 2, "reasoning": "Suggested means proposed or indicated, but the sentence describes explicit scientific conclusions rather than mere suggestions." },
+        { "distractor": "inferred", "closeness": 2, "reasoning": "Inferred means drawn as a logical conclusion from evidence, which doesn't capture the incompleteness the sentence emphasizes." },
+        { "distractor": "proven", "closeness": 1, "reasoning": "Proven means definitively established as true, contradicting the scientist's caution that further data might overturn her conclusions." },
+        { "distractor": "definitive", "closeness": 1, "reasoning": "Definitive means final and conclusive, opposite to results that might be overturned with more data." },
+        { "distractor": "conclusive", "closeness": 1, "reasoning": "Conclusive means settling a matter decisively; the sentence explicitly warns against this interpretation of the results." }
+      ]
+    }
+  ]
+}

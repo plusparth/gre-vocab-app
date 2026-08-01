@@ -1,0 +1,53 @@
+{
+  "word": "sashayed",
+  "sentenceSets": [
+    {
+      "sentence": "She sashayed through the lobby in a flowing dress, turning heads with every deliberate step.",
+      "answerChoices": [
+        { "distractor": "walked", "closeness": 3, "reasoning": "Walked is the basic action, but lacks sashayed's connotation of intentional display and ostentatious movement." },
+        { "distractor": "glided", "closeness": 3, "reasoning": "Glided suggests smooth, effortless movement, but not the showy, attention-seeking quality that sashayed implies." },
+        { "distractor": "sauntered", "closeness": 3, "reasoning": "Sauntered means walking in a leisurely, confident way, close to sashayed but without the obvious attempt to attract notice." },
+        { "distractor": "strutted", "closeness": 3, "reasoning": "Strutted suggests proud, conspicuous walking, very close to sashayed, but with emphasis on pride rather than the fluid, dancelike motion." },
+        { "distractor": "promenaded", "closeness": 2, "reasoning": "Promenaded suggests a formal public walk, but not necessarily with the ostentatious flair that sashayed conveys." },
+        { "distractor": "paraded", "closeness": 2, "reasoning": "Paraded suggests displaying oneself, but implies more formality and directedness than sashayed's flowing quality." },
+        { "distractor": "swept", "closeness": 2, "reasoning": "Swept suggests rapid, grand movement, but may lack the deliberate, attention-seeking aspect of sashayed." },
+        { "distractor": "moved", "closeness": 2, "reasoning": "Moved is too general and doesn't capture the conspicuous, ostentatious quality of sashayed." },
+        { "distractor": "stumbled", "closeness": 1, "reasoning": "Stumbled means to trip or move clumsily, the opposite of sashayed's graceful, intentional movement." },
+        { "distractor": "shuffled", "closeness": 1, "reasoning": "Shuffled means to drag one's feet, the opposite of sashayed's confident, showy stride." },
+        { "distractor": "crept", "closeness": 1, "reasoning": "Crept means to move stealthily and quietly, the opposite of sashayed's conspicuous display." }
+      ]
+    },
+    {
+      "sentence": "The actor sashayed across the stage, milking the moment for maximum dramatic effect before delivering the line.",
+      "answerChoices": [
+        { "distractor": "strode", "closeness": 3, "reasoning": "Strode means walked with long, purposeful steps, but lacks the theatrical flair and showiness that sashayed conveys." },
+        { "distractor": "staggered", "closeness": 3, "reasoning": "Staggered suggests unsteady movement, whereas sashayed implies controlled, deliberate motion done for effect." },
+        { "distractor": "ambled", "closeness": 3, "reasoning": "Ambled means walked at a leisurely pace, but doesn't capture the ostentatious, attention-seeking quality." },
+        { "distractor": "paraded", "closeness": 3, "reasoning": "Paraded suggests displaying oneself, related to sashayed but less fluid and more formal in presentation." },
+        { "distractor": "danced", "closeness": 2, "reasoning": "Danced suggests rhythmic movement to music, related to sashayed's fluid motion but not necessarily ostentatious or attention-seeking." },
+        { "distractor": "twirled", "closeness": 2, "reasoning": "Twirled suggests spinning movement, which might accompany a sashay but isn't the primary action." },
+        { "distractor": "performed", "closeness": 2, "reasoning": "Performed describes acting, which is the context here, but doesn't specifically describe the manner of movement." },
+        { "distractor": "gestured", "closeness": 2, "reasoning": "Gestured means made expressive hand or body movements, which might accompany sashaying but is a different action." },
+        { "distractor": "rushed", "closeness": 1, "reasoning": "Rushed suggests hurried, quick movement, opposite to sashayed's deliberate, measured pace." },
+        { "distractor": "froze", "closeness": 1, "reasoning": "Froze means stopped moving entirely, the opposite of sashayed." },
+        { "distractor": "lurched", "closeness": 1, "reasoning": "Lurched suggests sudden, awkward movement, opposite to sashayed's fluid, intentional grace." }
+      ]
+    },
+    {
+      "sentence": "The politician sashayed into the room surrounded by aides, clearly savoring the power her position commanded.",
+      "answerChoices": [
+        { "distractor": "entered", "closeness": 3, "reasoning": "Entered is the basic action of coming in, but lacks the ostentatious, attention-seeking quality that sashayed implies." },
+        { "distractor": "arrived", "closeness": 3, "reasoning": "Arrived means came to a place, but doesn't convey the conspicuous, theatrical manner that sashayed suggests." },
+        { "distractor": "marched", "closeness": 3, "reasoning": "Marched suggests moving with military precision and authority, related to sashayed but more rigid and formal." },
+        { "distractor": "emerged", "closeness": 3, "reasoning": "Emerged suggests came into view, but lacks the connotation of deliberate, ostentatious display." },
+        { "distractor": "swept", "closeness": 2, "reasoning": "Swept suggests grand, impressive movement, but may not convey the attention-seeking, showy aspect as clearly." },
+        { "distractor": "glided", "closeness": 2, "reasoning": "Glided suggests smooth movement, but not necessarily the conspicuous, ostentatious quality." },
+        { "distractor": "proceeded", "closeness": 2, "reasoning": "Proceeded suggests moving forward in a formal manner, but lacks the showy flair of sashayed." },
+        { "distractor": "waltzed", "closeness": 2, "reasoning": "Waltzed suggests flowing movement like the dance, close to sashayed but implies partnership or rhythm." },
+        { "distractor": "slipped", "closeness": 1, "reasoning": "Slipped suggests moving quietly and unnoticed, the opposite of sashayed's conspicuous display." },
+        { "distractor": "crept", "closeness": 1, "reasoning": "Crept means moved stealthily and quietly, opposite to sashayed's showy, attention-seeking nature." },
+        { "distractor": "fled", "closeness": 1, "reasoning": "Fled means ran away hastily, the opposite of sashayed's confident, deliberate movement." }
+      ]
+    }
+  ]
+}

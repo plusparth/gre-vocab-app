@@ -1,0 +1,53 @@
+{
+  "word": "attenuate",
+  "sentenceSets": [
+    {
+      "sentence": "Years of poor management had attenuated the firm's once-formidable reputation.",
+      "answerChoices": [
+        { "distractor": "diminished", "closeness": 3, "reasoning": "Both mean reduced in size or quality, but 'diminished' is general reduction, whereas 'attenuated' implies gradual weakening over time." },
+        { "distractor": "undermined", "closeness": 3, "reasoning": "Both describe damage to reputation, but 'undermined' suggests deliberate or subversive action, whereas 'attenuate' is gradual weakening from neglect." },
+        { "distractor": "eroded", "closeness": 3, "reasoning": "Both suggest gradual wearing away, but 'eroded' implies external forces wearing down, whereas 'attenuated' stresses the thinning and weakening process." },
+        { "distractor": "compromised", "closeness": 3, "reasoning": "The reputation is damaged, but 'compromised' suggests corruption or betrayal, whereas 'attenuate' is more neutral weakening." },
+        { "distractor": "degraded", "closeness": 2, "reasoning": "The reputation quality declined, but 'degraded' emphasizes disrespect or reduced rank, not the gradual thinning of reputation." },
+        { "distractor": "tarnished", "closeness": 2, "reasoning": "The reputation is damaged, but 'tarnished' suggests loss of lustre or honor, not the gradual weakening of authority." },
+        { "distractor": "weakened", "closeness": 2, "reasoning": "The reputation is weakened, but 'weakened' is more general than 'attenuated,' which implies gradual thinning." },
+        { "distractor": "impaired", "closeness": 2, "reasoning": "The reputation is damaged, but 'impaired' suggests sudden harm or dysfunction, not the gradual attenuation through mismanagement." },
+        { "distractor": "strengthened", "closeness": 1, "reasoning": "The opposite effect; years of poor management weakened, not strengthened, the firm's reputation." },
+        { "distractor": "restored", "closeness": 1, "reasoning": "The opposite action; the management caused decline, not restoration." },
+        { "distractor": "enhanced", "closeness": 1, "reasoning": "The opposite result; poor management made the reputation weaker, not enhanced." }
+      ]
+    },
+    {
+      "sentence": "The medicine was carefully diluted to attenuate its potency, reducing side effects while maintaining therapeutic benefit.",
+      "answerChoices": [
+        { "distractor": "moderate", "closeness": 3, "reasoning": "Both describe reducing intensity or severity, but 'moderate' suggests regulating to a middle level, while 'attenuate' emphasizes gradual weakening of strength." },
+        { "distractor": "mitigate", "closeness": 3, "reasoning": "Both reduce harmful effects, but 'mitigate' means lessen the severity or impact, whereas 'attenuate' specifically means thin or weaken the force." },
+        { "distractor": "dilute", "closeness": 3, "reasoning": "The dilution process is what attenuates the drug, but 'dilute' describes the method, not the effect of reduced potency." },
+        { "distractor": "dampen", "closeness": 3, "reasoning": "Both reduce intensity, but 'dampen' suggests suppressing or muting, whereas 'attenuate' implies the drug's active power is thinned." },
+        { "distractor": "regulate", "closeness": 2, "reasoning": "The dosage is regulated, but 'regulate' is broader than 'attenuate'; it means control, not specifically reduce force." },
+        { "distractor": "balance", "closeness": 2, "reasoning": "The dose is balanced between benefit and risk, but 'balance' emphasizes equilibrium, not the reduction of potency." },
+        { "distractor": "suppress", "closeness": 2, "reasoning": "Side effects are suppressed, but 'suppress' suggests blocking or containing, not weakening the drug's inherent strength." },
+        { "distractor": "neutralize", "closeness": 2, "reasoning": "One might try to neutralize side effects, but 'neutralize' implies canceling out, not the gradual weakening of potency." },
+        { "distractor": "intensify", "closeness": 1, "reasoning": "The opposite effect; the goal is to weaken potency, not intensify it." },
+        { "distractor": "amplify", "closeness": 1, "reasoning": "The opposite direction; the medicine's power is reduced, not amplified." },
+        { "distractor": "strengthen", "closeness": 1, "reasoning": "The opposite of the intent; the dilution weakens potency, not strengthens it." }
+      ]
+    },
+    {
+      "sentence": "Distance and time attenuate memories, so that events from decades ago feel increasingly distant and less vivid.",
+      "answerChoices": [
+        { "distractor": "fade", "closeness": 3, "reasoning": "Memories fade over time, similar to being attenuated, but 'fade' suggests loss of color or clarity, whereas 'attenuate' implies thinning of force." },
+        { "distractor": "blur", "closeness": 3, "reasoning": "Memories become blurry, but 'blur' emphasizes loss of definition or clarity, not the weakening of emotional impact." },
+        { "distractor": "diminish", "closeness": 3, "reasoning": "Memories diminish in impact, but 'diminish' is general reduction, not the specific thinning implied by attenuate." },
+        { "distractor": "weaken", "closeness": 3, "reasoning": "Memories weaken, but 'weaken' is a general descriptor, whereas 'attenuate' implies gradual thinning over time." },
+        { "distractor": "obscure", "closeness": 2, "reasoning": "Old memories become obscured by time, but 'obscure' means hide or darken, not specifically reduce force or intensity." },
+        { "distractor": "suppress", "closeness": 2, "reasoning": "Time might suppress memories, but 'suppress' suggests active blocking or unconscious repression, not natural attenuation." },
+        { "distractor": "distort", "closeness": 2, "reasoning": "Memories distort over time, but 'distort' implies misshaping, not the gradual weakening or thinning." },
+        { "distractor": "erase", "closeness": 2, "reasoning": "Distant memories seem erased, but 'erase' suggests complete removal, whereas 'attenuate' implies gradual weakening, not deletion." },
+        { "distractor": "sharpen", "closeness": 1, "reasoning": "The opposite effect; distance attenuates memories, making them less sharp, not sharper." },
+        { "distractor": "enhance", "closeness": 1, "reasoning": "The opposite; time weakens memory, not enhances it." },
+        { "distractor": "strengthen", "closeness": 1, "reasoning": "The opposite direction; passing time attenuates memory's force, not strengthens it." }
+      ]
+    }
+  ]
+}

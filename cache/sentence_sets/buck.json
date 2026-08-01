@@ -1,0 +1,53 @@
+{
+  "word": "buck",
+  "sentenceSets": [
+    {
+      "sentence": "She decided to buck the trend and invest in the sector everyone else was abandoning.",
+      "answerChoices": [
+        { "distractor": "resist", "closeness": 3, "reasoning": "Close -- 'resist' means to oppose or push back against something, which is related to bucking a trend, but it emphasizes opposition rather than the active, often courageous choice to go against prevailing direction." },
+        { "distractor": "defy", "closeness": 3, "reasoning": "Close -- 'defy' means to openly resist or challenge, which is similar to bucking, but it carries a more confrontational, aggressive tone than the pragmatic decision shown in the sentence." },
+        { "distractor": "contradict", "closeness": 3, "reasoning": "Close -- 'contradict' means to speak against or oppose, which is related to bucking a trend, but it emphasizes disagreement rather than the concrete action of moving in an opposite direction." },
+        { "distractor": "swim against", "closeness": 3, "reasoning": "Close -- this phrase is nearly synonymous with 'buck the trend', making it a strong distractor, but it is more metaphorical and less commonly used as a single verb than 'buck'." },
+        { "distractor": "challenge", "closeness": 2, "reasoning": "Incorrect -- 'challenge' means to confront or question, but it does not necessarily imply the action of moving in an opposite direction as 'buck' does." },
+        { "distractor": "question", "closeness": 2, "reasoning": "Incorrect -- 'question' means to express doubt, which may accompany bucking a trend but does not capture the decisive action of investing contrary to consensus." },
+        { "distractor": "ignore", "closeness": 2, "reasoning": "Incorrect -- 'ignore' means to disregard or pay no attention to, which is passive, whereas bucking a trend implies an active choice in an opposite direction." },
+        { "distractor": "undermine", "closeness": 2, "reasoning": "Incorrect -- 'undermine' means to weaken or subvert, which does not fit the context of making an investment decision." },
+        { "distractor": "follow", "closeness": 1, "reasoning": "Opposite -- 'follow' means to go in the same direction or imitate, the opposite of bucking a trend." },
+        { "distractor": "conform", "closeness": 1, "reasoning": "Opposite -- 'conform' means to comply with prevailing standards, contrary to the choice to buck the trend." },
+        { "distractor": "yield", "closeness": 1, "reasoning": "Incorrect -- 'yield' means to give way or surrender, the opposite of resisting or bucking a trend." }
+      ]
+    },
+    {
+      "sentence": "The committee decided to buck convention and hire the candidate without a graduate degree, focusing instead on demonstrated expertise.",
+      "answerChoices": [
+        { "distractor": "break", "closeness": 3, "reasoning": "Close -- 'break' can mean to violate or depart from rules or conventions, which fits the context, but it is broader and less specific than 'buck', which emphasizes active opposition." },
+        { "distractor": "shun", "closeness": 3, "reasoning": "Close -- 'shun' means to reject or avoid, which is related to departing from convention, but it emphasizes avoidance rather than the assertive choice to act contrary to established practice." },
+        { "distractor": "flout", "closeness": 3, "reasoning": "Close -- 'flout' means to openly disregard, which is similar to bucking convention, but it carries a more brazen, contemptuous tone than the rational hiring decision in the sentence." },
+        { "distractor": "overturn", "closeness": 3, "reasoning": "Close -- 'overturn' means to reverse or set aside, which is related to rejecting convention, but it emphasizes overturning an existing rule rather than the act of working against prevailing expectations." },
+        { "distractor": "abandon", "closeness": 2, "reasoning": "Incorrect -- 'abandon' means to give up or cease following, which could apply to convention but lacks the sense of actively working against it." },
+        { "distractor": "dismiss", "closeness": 2, "reasoning": "Incorrect -- 'dismiss' means to reject or send away, which is too passive compared to the assertive act of bucking convention." },
+        { "distractor": "disregard", "closeness": 2, "reasoning": "Incorrect -- 'disregard' means to pay no attention to, which is passive, whereas bucking convention implies an active choice against prevailing practice." },
+        { "distractor": "undervalue", "closeness": 2, "reasoning": "Incorrect -- 'undervalue' means to estimate below actual worth, which does not fit the context of making a hiring decision based on unconventional criteria." },
+        { "distractor": "respect", "closeness": 1, "reasoning": "Opposite -- 'respect' means to honor or follow standards, the opposite of bucking convention." },
+        { "distractor": "uphold", "closeness": 1, "reasoning": "Opposite -- 'uphold' means to maintain or support, contrary to the committee's decision to work against conventional hiring requirements." },
+        { "distractor": "endorse", "closeness": 1, "reasoning": "Incorrect -- 'endorse' means to support or approve, the opposite of bucking or departing from convention." }
+      ]
+    },
+    {
+      "sentence": "The young software engineer decided to buck the established protocols after discovering they slowed down critical system updates.",
+      "answerChoices": [
+        { "distractor": "circumvent", "closeness": 3, "reasoning": "Close -- 'circumvent' means to find a way around something, which is similar to bucking protocols, but it emphasizes evasion rather than the direct, assertive rejection of established procedures." },
+        { "distractor": "evade", "closeness": 3, "reasoning": "Close -- 'evade' means to escape or avoid, which could apply to the engineer's decision, but it suggests sneaking around rather than openly working against established protocols." },
+        { "distractor": "supersede", "closeness": 3, "reasoning": "Close -- 'supersede' means to replace or make obsolete, which is related to rejecting protocols, but it emphasizes substitution rather than the rebellious act of working against established procedures." },
+        { "distractor": "override", "closeness": 3, "reasoning": "Close -- 'override' means to set aside or disregard a rule, which fits the context, but it is more technical and less personal than the deliberate choice to buck protocols." },
+        { "distractor": "sabotage", "closeness": 2, "reasoning": "Incorrect -- 'sabotage' means to deliberately damage or undermine, which carries a malicious tone inappropriate to the engineer's justified concern about performance." },
+        { "distractor": "abandon", "closeness": 2, "reasoning": "Incorrect -- 'abandon' means to give up or cease following, which could describe leaving protocols but lacks the sense of acting against them." },
+        { "distractor": "ignore", "closeness": 2, "reasoning": "Incorrect -- 'ignore' means to pay no attention to, which is passive, whereas bucking protocols implies an active, deliberate choice." },
+        { "distractor": "violate", "closeness": 2, "reasoning": "Incorrect -- 'violate' means to break or infringe on a rule, which could apply but carries a legalistic tone less fitting than bucking." },
+        { "distractor": "follow", "closeness": 1, "reasoning": "Opposite -- 'follow' means to go along with or adhere to, the opposite of bucking established protocols." },
+        { "distractor": "enforce", "closeness": 1, "reasoning": "Opposite -- 'enforce' means to compel adherence to rules, the opposite of working against established protocols." },
+        { "distractor": "maintain", "closeness": 1, "reasoning": "Incorrect -- 'maintain' means to keep in place or preserve, the opposite of bucking against established procedures." }
+      ]
+    }
+  ]
+}

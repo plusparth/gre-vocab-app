@@ -1,0 +1,53 @@
+{
+  "word": "barren",
+  "sentenceSets": [
+    {
+      "sentence": "Despite years of effort, the negotiations remained barren, producing no agreement either side would accept.",
+      "answerChoices": [
+        { "distractor": "fruitless", "closeness": 3, "reasoning": "Both mean producing no results, but fruitless emphasizes lack of fruit or results, while barren emphasizes complete emptiness." },
+        { "distractor": "unproductive", "closeness": 3, "reasoning": "Both mean failing to produce results, but unproductive describes failing to create value, while barren describes complete lack of yield." },
+        { "distractor": "futile", "closeness": 3, "reasoning": "Both mean unsuccessful despite effort, but futile emphasizes that effort is pointless, while barren describes the desolate absence of results." },
+        { "distractor": "sterile", "closeness": 3, "reasoning": "Both mean incapable of producing, but sterile emphasizes lack of life or fertility, while barren emphasizes emptiness." },
+        { "distractor": "unsuccessful", "closeness": 2, "reasoning": "The negotiations failed to produce results, but unsuccessful just means not successful without barren's sense of desolate emptiness." },
+        { "distractor": "stalled", "closeness": 2, "reasoning": "The negotiations produced no results, but stalled means stopped or halted, not necessarily barren of results." },
+        { "distractor": "deadlocked", "closeness": 2, "reasoning": "Both describe negotiations stuck without progress, but deadlocked emphasizes the locked state, while barren emphasizes the lack of results." },
+        { "distractor": "impoverished", "closeness": 2, "reasoning": "The negotiations yielded no results, but impoverished refers to poverty or lacking resources." },
+        { "distractor": "bountiful", "closeness": 1, "reasoning": "The negotiations produced no agreement; bountiful describes abundant, plentiful yields." },
+        { "distractor": "fertile", "closeness": 1, "reasoning": "Negotiations remained barren producing nothing; fertile describes capable of producing abundantly." },
+        { "distractor": "constructive", "closeness": 1, "reasoning": "The negotiations were barren; constructive describes producing positive results." }
+      ]
+    },
+    {
+      "sentence": "The explorers found themselves in a barren landscape of rock and dust, where nothing grew and even insects seemed to avoid.",
+      "answerChoices": [
+        { "distractor": "desolate", "closeness": 3, "reasoning": "Both describe empty, unwelcoming places, but desolate emphasizes emotional loneliness and abandonment, while barren emphasizes lack of life or vegetation." },
+        { "distractor": "arid", "closeness": 3, "reasoning": "Both describe dry landscapes, but arid emphasizes dryness and lack of water, while barren emphasizes inability to support life." },
+        { "distractor": "stark", "closeness": 3, "reasoning": "Both describe harsh, empty landscapes, but stark emphasizes severity and emptiness of features, while barren emphasizes inability to produce life." },
+        { "distractor": "bleak", "closeness": 3, "reasoning": "Both describe unwelcoming places, but bleak emphasizes cold, harsh, and cheerless qualities, while barren emphasizes lifelessness." },
+        { "distractor": "uninhabited", "closeness": 2, "reasoning": "The landscape supports no life, but uninhabited means lacking inhabitants, not necessarily barren of all life." },
+        { "distractor": "featureless", "closeness": 2, "reasoning": "The landscape is described as rock and dust, suggesting it has features; featureless means having no distinguishing features." },
+        { "distractor": "arid", "closeness": 2, "reasoning": "While dry, the sentence emphasizes nothing growing, not just dryness." },
+        { "distractor": "wasteland", "closeness": 2, "reasoning": "A wasteland is barren, but wasteland often suggests human destruction, while barren simply describes inability to support life." },
+        { "distractor": "lush", "closeness": 1, "reasoning": "The barren landscape supports no growth; lush describes abundant vegetation." },
+        { "distractor": "fertile", "closeness": 1, "reasoning": "Nothing grows in the barren landscape; fertile describes land capable of producing vegetation." },
+        { "distractor": "verdant", "closeness": 1, "reasoning": "The landscape is barren; verdant describes green and vegetated." }
+      ]
+    },
+    {
+      "sentence": "The patient's medical history was largely barren of significant diseases until the diagnosis at age sixty, making the condition's sudden appearance shocking.",
+      "answerChoices": [
+        { "distractor": "devoid", "closeness": 3, "reasoning": "Both mean completely lacking, but devoid emphasizes absolute absence, while barren suggests a naturally empty state." },
+        { "distractor": "empty", "closeness": 3, "reasoning": "Both mean containing nothing, but empty is broader, while barren specifically describes inability to produce or yield." },
+        { "distractor": "sparse", "closeness": 3, "reasoning": "Both describe having few items, but sparse suggests scattered presence, while barren suggests complete absence." },
+        { "distractor": "bereft", "closeness": 3, "reasoning": "Both mean lacking or deprived, but bereft emphasizes deprivation and loss, while barren describes natural emptiness." },
+        { "distractor": "lacking", "closeness": 2, "reasoning": "The history lacked significant diseases, but lacking is broader and doesn't capture barren's sense of natural emptiness." },
+        { "distractor": "meager", "closeness": 2, "reasoning": "The medical history was sparse in events, but meager means scanty or inadequate in amount." },
+        { "distractor": "unremarkable", "closeness": 2, "reasoning": "The history contained few notable events, but unremarkable means not worthy of attention, not necessarily empty." },
+        { "distractor": "uneventful", "closeness": 2, "reasoning": "The history had few significant events, but uneventful means without notable occurrences, not describing the nature as barren." },
+        { "distractor": "rich", "closeness": 1, "reasoning": "The medical history was barren of diseases; rich describes full abundance." },
+        { "distractor": "abundant", "closeness": 1, "reasoning": "The history was barren of significant diseases; abundant describes plentiful." },
+        { "distractor": "prolific", "closeness": 1, "reasoning": "The history was barren; prolific means producing much or abundantly." }
+      ]
+    }
+  ]
+}

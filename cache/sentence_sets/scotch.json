@@ -1,0 +1,185 @@
+{
+  "word": "scotch",
+  "sentenceSets": [
+    {
+      "sentence": "The scotch highlands have long inspired painters and poets to capture their rugged beauty.",
+      "answerChoices": [
+        {
+          "distractor": "Irish",
+          "closeness": 3,
+          "reasoning": "Irish refers to Ireland, which is geographically close and shares cultural similarities with Scotland, but the sentence specifically mentions the highlands, a region distinctly known as part of Scotland, not Ireland."
+        },
+        {
+          "distractor": "Welsh",
+          "closeness": 3,
+          "reasoning": "Welsh refers to Wales, another Celtic nation within Britain, but the sentence names the 'highlands,' which are a defining geographical feature of Scotland, not Wales."
+        },
+        {
+          "distractor": "British",
+          "closeness": 3,
+          "reasoning": "British is broader and encompasses Scotland, but the sentence's reference to the highlands\u2014a specific regional geography\u2014requires a more precise national designation."
+        },
+        {
+          "distractor": "Celtic",
+          "closeness": 3,
+          "reasoning": "Celtic describes the broader cultural and linguistic heritage shared by Scotland, Ireland, and Wales, but it's too general; the sentence identifies a specific nation and its geographical features."
+        },
+        {
+          "distractor": "Nordic",
+          "closeness": 2,
+          "reasoning": "Nordic refers to Scandinavian regions; while Scotland shares northern latitude, it is not considered Nordic in cultural or political terms."
+        },
+        {
+          "distractor": "Alpine",
+          "closeness": 2,
+          "reasoning": "Alpine refers to mountains, and while Scotland has mountainous terrain, the term specifically denotes the Alps; 'scotch highlands' refers to a particular national region."
+        },
+        {
+          "distractor": "European",
+          "closeness": 2,
+          "reasoning": "European is even broader than British; while Scotland is in Europe, the sentence specifies a particular nation, not a continent."
+        },
+        {
+          "distractor": "Tropical",
+          "closeness": 1,
+          "reasoning": "Tropical describes hot, humid climates near the equator; the highlands are known for cool, temperate conditions."
+        },
+        {
+          "distractor": "Desert",
+          "closeness": 1,
+          "reasoning": "Desert refers to arid regions; the highlands are characterized by moisture, vegetation, and water systems."
+        },
+        {
+          "distractor": "Barren",
+          "closeness": 1,
+          "reasoning": "Barren suggests sparse plant life and desolation; the highlands are known for their vegetation and natural beauty that inspires poets and painters."
+        },
+        {
+          "distractor": "Tame",
+          "closeness": 2,
+          "reasoning": "Tame suggests domesticated or civilized landscapes; the highlands are described as rugged, implying untamed, wild terrain."
+        }
+      ]
+    },
+    {
+      "sentence": "His distinctive accent and manner revealed his scotch origins, even though he had lived in London for decades.",
+      "answerChoices": [
+        {
+          "distractor": "English",
+          "closeness": 3,
+          "reasoning": "English is the primary language and culture of London and southern Britain, creating a direct contrast to his distinctive accent that revealed non-English origins."
+        },
+        {
+          "distractor": "Irish",
+          "closeness": 3,
+          "reasoning": "Irish origins are also distinct from London's dominant culture, but the sentence refers to an accent and manner pattern most distinctively associated with Scotland."
+        },
+        {
+          "distractor": "Welsh",
+          "closeness": 3,
+          "reasoning": "Welsh origins would also produce a distinctive accent in London, but the sentence's pattern of accent persisting despite decades of residence is classically associated with Scottish speakers."
+        },
+        {
+          "distractor": "British",
+          "closeness": 3,
+          "reasoning": "British is too broad; while Scotland is part of Britain, London represents English British culture, so 'scotch' contrasts with London's regional identity."
+        },
+        {
+          "distractor": "European",
+          "closeness": 2,
+          "reasoning": "European is vague and continental; the sentence is about a distinction within the British Isles, not between Britain and continental Europe."
+        },
+        {
+          "distractor": "Foreign",
+          "closeness": 2,
+          "reasoning": "Foreign suggests non-British entirely; the sentence indicates he lived in London for decades, implying he's from within the British Isles."
+        },
+        {
+          "distractor": "Aristocratic",
+          "closeness": 2,
+          "reasoning": "Aristocratic describes social class rather than geographical origin; the sentence reveals regional identity through accent, not social status."
+        },
+        {
+          "distractor": "Rural",
+          "closeness": 1,
+          "reasoning": "Rural describes a lifestyle; the sentence is about national and regional identity revealed through accent."
+        },
+        {
+          "distractor": "Cosmopolitan",
+          "closeness": 1,
+          "reasoning": "Cosmopolitan suggests worldly sophistication; the sentence describes someone whose origins are distinctly revealed by accent, the opposite of blended identity."
+        },
+        {
+          "distractor": "Urban",
+          "closeness": 1,
+          "reasoning": "Urban describes city living; the sentence contrasts his origins (revealed by accent) with his current residence in London."
+        },
+        {
+          "distractor": "Modern",
+          "closeness": 2,
+          "reasoning": "Modern describes contemporary style or approach; the sentence is about geographical and cultural origins, not temporal characteristics."
+        }
+      ]
+    },
+    {
+      "sentence": "The scotch whisky distillery had been family-owned since the 1750s, each generation perfecting techniques passed down through the centuries.",
+      "answerChoices": [
+        {
+          "distractor": "Irish",
+          "closeness": 3,
+          "reasoning": "Ireland is also known for whiskey production, but the sentence refers specifically to whisky, which is the distinctive product of Scotland's distilling tradition."
+        },
+        {
+          "distractor": "Bourbon",
+          "closeness": 3,
+          "reasoning": "Bourbon whiskey is distinctively American; the sentence describes a family tradition dating to the 1750s in a location where scotch whisky became the established craft."
+        },
+        {
+          "distractor": "Welsh",
+          "closeness": 3,
+          "reasoning": "Welsh refers to Wales, which does not have the same historic whisky distilling tradition as Scotland; the sentence emphasizes generational perfection of distilling."
+        },
+        {
+          "distractor": "British",
+          "closeness": 3,
+          "reasoning": "British is too general; whisky distilling as a refined, generational craft is specifically associated with Scotland, not England or Wales."
+        },
+        {
+          "distractor": "Continental",
+          "closeness": 2,
+          "reasoning": "Continental suggests Europe; European brandy and wine traditions differ fundamentally from the specific technique-focused whisky tradition described."
+        },
+        {
+          "distractor": "Northern",
+          "closeness": 2,
+          "reasoning": "Northern merely indicates geography; the sentence requires a specific national identity tied to a distinct whisky-making tradition."
+        },
+        {
+          "distractor": "Highland",
+          "closeness": 2,
+          "reasoning": "Highland describes a geographical region, but the word required is the national adjective referring to the nation that produced the whisky-making craft."
+        },
+        {
+          "distractor": "Vintage",
+          "closeness": 1,
+          "reasoning": "Vintage describes age or era; the sentence requires an adjective denoting the origin nation of the whisky tradition."
+        },
+        {
+          "distractor": "Premium",
+          "closeness": 1,
+          "reasoning": "Premium describes quality or price level; the sentence requires an adjective denoting national origin, not quality assessment."
+        },
+        {
+          "distractor": "Ancient",
+          "closeness": 1,
+          "reasoning": "Ancient describes historical age; the sentence already specifies the date (1750s), and requires a national origin adjective."
+        },
+        {
+          "distractor": "Artisanal",
+          "closeness": 2,
+          "reasoning": "Artisanal describes handcrafted production; while this may apply, it doesn't identify the national origin that the sentence emphasizes."
+        }
+      ]
+    }
+  ]
+}

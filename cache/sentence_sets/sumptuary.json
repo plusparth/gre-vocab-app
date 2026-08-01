@@ -1,0 +1,53 @@
+{
+  "word": "sumptuary",
+  "sentenceSets": [
+    {
+      "sentence": "The informal sumptuary norms of the institution—expressed in assumptions about expense accounts and entertainment—communicated its values more clearly than any policy.",
+      "answerChoices": [
+        { "distractor": "moral", "closeness": 3, "reasoning": "Moral norms relate to ethics; the sentence describes norms about spending and expenditure, which are specifically sumptuary concerns." },
+        { "distractor": "social", "closeness": 3, "reasoning": "'Social' norms are broadly about behavior; the sentence specifically emphasizes norms about personal expenditure, which is sumptuary." },
+        { "distractor": "financial", "closeness": 3, "reasoning": "Financial norms relate to money management broadly; the sentence specifically describes norms about restraint in personal expenditure (sumptuary concerns)." },
+        { "distractor": "behavioral", "closeness": 3, "reasoning": "'Behavioral' norms are broadly about conduct; the sentence specifies norms about spending and expense restraint." },
+        { "distractor": "institutional", "closeness": 2, "reasoning": "The norms are institutional, but 'institutional' doesn't capture the specific sumptuary focus on expenditure restraint." },
+        { "distractor": "professional", "closeness": 2, "reasoning": "Professional norms exist in the institution, but the sentence emphasizes specific norms about personal spending." },
+        { "distractor": "cultural", "closeness": 2, "reasoning": "Cultural norms exist, but the sentence describes specific norms about sumptuary restraint in expenditure." },
+        { "distractor": "ethical", "closeness": 2, "reasoning": "Ethical norms relate to right conduct; the sentence describes norms about spending, which are sumptuary, not primarily ethical." },
+        { "distractor": "permissive", "closeness": 1, "reasoning": "Sumptuary norms restrain extravagance; permissive norms would encourage or allow spending freely." },
+        { "distractor": "indulgent", "closeness": 1, "reasoning": "Sumptuary norms discourage indulgence in luxury; indulgent norms would encourage it." },
+        { "distractor": "lavish", "closeness": 1, "reasoning": "Sumptuary norms restrict lavishness in spending; if norms were lavish, they'd encourage luxury spending." }
+      ]
+    },
+    {
+      "sentence": "The ancient sumptuary laws limited the elaborate clothing and jewelry that citizens could wear based on their social rank.",
+      "answerChoices": [
+        { "distractor": "dress codes", "closeness": 3, "reasoning": "Dress codes regulate what can be worn; sumptuary laws specifically regulate to prevent extravagance and enforce status distinctions." },
+        { "distractor": "fashion regulations", "closeness": 3, "reasoning": "Fashion regulations address clothing; sumptuary laws specifically regulate expenditure on clothing to prevent luxury." },
+        { "distractor": "status regulations", "closeness": 3, "reasoning": "Status regulations enforce hierarchy; sumptuary laws enforce both status and restrict spending on luxury goods." },
+        { "distractor": "class laws", "closeness": 3, "reasoning": "Class laws enforce hierarchy; sumptuary laws specifically prevent spending on luxury that might blur class distinctions." },
+        { "distractor": "moral codes", "closeness": 2, "reasoning": "Moral codes address ethical behavior; sumptuary laws specifically address spending restraint." },
+        { "distractor": "social rules", "closeness": 2, "reasoning": "Social rules govern conduct; sumptuary laws specifically govern personal expenditure." },
+        { "distractor": "trade restrictions", "closeness": 2, "reasoning": "Trade restrictions limit commerce; sumptuary laws limit personal purchase and display of luxury." },
+        { "distractor": "criminal statutes", "closeness": 2, "reasoning": "Sumptuary laws are statutes, but 'criminal' focuses on punishment; sumptuary laws focus on regulating expenditure." },
+        { "distractor": "freedom of dress laws", "closeness": 1, "reasoning": "Such laws would permit wearing whatever people want; sumptuary laws restrict based on rank and expenditure." },
+        { "distractor": "luxury subsidies", "closeness": 1, "reasoning": "Subsidies would encourage luxury purchases; sumptuary laws restrict them." },
+        { "distractor": "egalitarian rules", "closeness": 1, "reasoning": "Egalitarian rules promote equality; sumptuary laws enforce status hierarchies through expenditure restrictions." }
+      ]
+    },
+    {
+      "sentence": "Corporate sumptuary guidelines restricting executive travel and hotel accommodations faced resistance from senior leaders accustomed to luxury perks.",
+      "answerChoices": [
+        { "distractor": "ethical guidelines", "closeness": 3, "reasoning": "Ethical guidelines address right conduct; the sentence describes guidelines specifically about restraining luxury expenditure." },
+        { "distractor": "spending policies", "closeness": 3, "reasoning": "Spending policies regulate money use; sumptuary guidelines specifically regulate to prevent luxury and extravagance." },
+        { "distractor": "expense controls", "closeness": 3, "reasoning": "'Expense controls' generally restrict costs; sumptuary guidelines specifically target luxury and extravagance." },
+        { "distractor": "budget constraints", "closeness": 3, "reasoning": "Budget constraints limit total spending; sumptuary guidelines specifically restrict luxury expenditure." },
+        { "distractor": "governance rules", "closeness": 2, "reasoning": "Governance rules address organizational conduct; the sentence specifies rules about personal expenditure restraint." },
+        { "distractor": "financial policies", "closeness": 2, "reasoning": "Financial policies manage money; sumptuary guidelines specifically restrict luxury." },
+        { "distractor": "corporate rules", "closeness": 2, "reasoning": "Corporate rules govern conduct; the sentence describes specific sumptuary rules about restraining luxury." },
+        { "distractor": "compensation policies", "closeness": 2, "reasoning": "Compensation addresses pay and benefits; sumptuary guidelines specifically restrict how those benefits can be used for luxury." },
+        { "distractor": "luxury maximization guidelines", "closeness": 1, "reasoning": "Such guidelines would encourage luxury; sumptuary guidelines restrict it." },
+        { "distractor": "permissive policies", "closeness": 1, "reasoning": "Permissive policies would allow luxury spending; sumptuary guidelines restrict it." },
+        { "distractor": "indulgence promotions", "closeness": 1, "reasoning": "Such promotions would encourage luxury; sumptuary guidelines discourage extravagance." }
+      ]
+    }
+  ]
+}

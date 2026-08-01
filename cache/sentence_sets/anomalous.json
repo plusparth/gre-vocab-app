@@ -1,0 +1,53 @@
+{
+  "word": "anomalous",
+  "sentenceSets": [
+    {
+      "sentence": "The anomalous weather pattern baffled meteorologists who had no historical comparison to draw on.",
+      "answerChoices": [
+        { "distractor": "extreme", "closeness": 3, "reasoning": "Extreme describes intensity or severity, but not necessarily the deviation from expected patterns that the meteorologists lacked precedent for." },
+        { "distractor": "erratic", "closeness": 3, "reasoning": "Erratic means unpredictable or inconsistent, close to anomalous but suggests random change rather than deviation from established norms." },
+        { "distractor": "unprecedented", "closeness": 3, "reasoning": "Unprecedented means never done or known before, which could describe the weather pattern, but focuses on novelty rather than deviation from normal." },
+        { "distractor": "peculiar", "closeness": 3, "reasoning": "Peculiar means strange or distinctive, capturing the oddness but not necessarily implying deviation from expected patterns or norms." },
+        { "distractor": "severe", "closeness": 2, "reasoning": "Severe means intense or extreme in degree, but doesn't address whether the pattern deviates from normal weather cycles." },
+        { "distractor": "violent", "closeness": 2, "reasoning": "Violent describes forceful intensity, but the sentence's focus is on meteorologists lacking historical comparison, not on intensity." },
+        { "distractor": "sudden", "closeness": 2, "reasoning": "Sudden means happening unexpectedly or quickly, but doesn't capture the idea of deviation from established patterns." },
+        { "distractor": "localized", "closeness": 2, "reasoning": "Localized means confined to a particular area, which might contribute to the pattern being puzzling but doesn't explain the deviation from norms." },
+        { "distractor": "predictable", "closeness": 1, "reasoning": "Predictable means capable of being foreseen, opposite to weather that baffles meteorologists lacking comparison." },
+        { "distractor": "consistent", "closeness": 1, "reasoning": "Consistent means in agreement with established patterns, opposite to a pattern that deviates from historical data." },
+        { "distractor": "typical", "closeness": 1, "reasoning": "Typical means representative of a type or standard, opposite to the unusual deviation from normal patterns shown." }
+      ]
+    },
+    {
+      "sentence": "The student's anomalous performance—excelling in mathematics while failing every language arts assignment—puzzled his teachers who couldn't determine his actual ability level.",
+      "answerChoices": [
+        { "distractor": "inconsistent", "closeness": 3, "reasoning": "Inconsistent means lacking uniformity, which overlaps with anomalous but focuses on lack of agreement rather than deviation from expected patterns." },
+        { "distractor": "uneven", "closeness": 3, "reasoning": "Uneven means not uniform or balanced, capturing the disparity but not the sense of deviation from normal expectations." },
+        { "distractor": "contradictory", "closeness": 3, "reasoning": "Contradictory means conflicting or mutually opposed, which describes the performance difference but not necessarily deviation from expected norms." },
+        { "distractor": "surprising", "closeness": 3, "reasoning": "Surprising means causing surprise or astonishment, which captures the emotional response but not the technical meaning of deviation from normal." },
+        { "distractor": "misleading", "closeness": 2, "reasoning": "Misleading means giving false or confusing information, which the performance does, but doesn't explain why it puzzles teachers." },
+        { "distractor": "erratic", "closeness": 2, "reasoning": "Erratic means unpredictable, but the sentence shows a clear pattern (good math, poor language arts) rather than random variation." },
+        { "distractor": "unexpected", "closeness": 2, "reasoning": "Unexpected means not foreseen or anticipated, but the sentence's focus is on deviation from normal ability patterns, not just surprise." },
+        { "distractor": "rare", "closeness": 2, "reasoning": "Rare means occurring infrequently, but doesn't specifically address why the pattern deviates from what would be expected." },
+        { "distractor": "excellent", "closeness": 1, "reasoning": "Excellent means of outstanding quality, contradicted by the failing language arts assignments mentioned in the sentence." },
+        { "distractor": "balanced", "closeness": 1, "reasoning": "Balanced means well-proportioned or stable, opposite to the disparity and puzzlement shown in the sentence." },
+        { "distractor": "mediocre", "closeness": 1, "reasoning": "Mediocre means ordinary or average, contradicted by the excelling in mathematics shown in the sentence." }
+      ]
+    },
+    {
+      "sentence": "The genetic anomaly in the disease-resistant crop strain could not be explained by standard evolutionary theory, prompting researchers to investigate unexpected mechanisms.",
+      "answerChoices": [
+        { "distractor": "mutation", "closeness": 3, "reasoning": "Mutation describes a genetic change, but not necessarily one that deviates from expected or understood mechanisms." },
+        { "distractor": "variation", "closeness": 3, "reasoning": "Variation means difference or change within a population, but doesn't necessarily imply deviation from normal or expected patterns." },
+        { "distractor": "defect", "closeness": 3, "reasoning": "Defect means a flaw or imperfection, whereas the crop is disease-resistant, suggesting the genetic change is beneficial rather than flawed." },
+        { "distractor": "aberration", "closeness": 3, "reasoning": "Aberration means deviation from normal, very close to anomaly, but is more abstract than the concrete genetic phenomenon." },
+        { "distractor": "irregularity", "closeness": 2, "reasoning": "Irregularity means lack of uniformity, but doesn't specifically indicate deviation from theoretical expectations." },
+        { "distractor": "oddity", "closeness": 2, "reasoning": "Oddity means something strange or peculiar, but focuses on strangeness rather than deviation from expected mechanisms." },
+        { "distractor": "novelty", "closeness": 2, "reasoning": "Novelty means something new or previously unknown, but doesn't capture the sense of deviation from standard theory." },
+        { "distractor": "phenomenon", "closeness": 2, "reasoning": "Phenomenon means an observable fact or event, but is too general to convey the specific deviation from expectations." },
+        { "distractor": "advantage", "closeness": 1, "reasoning": "Advantage means a beneficial condition, and while the disease resistance is advantageous, the sentence emphasizes the unexplained deviation from theory." },
+        { "distractor": "commonality", "closeness": 1, "reasoning": "Commonality means a shared feature or characteristic, opposite to deviation from expected or standard patterns." },
+        { "distractor": "predictability", "closeness": 1, "reasoning": "Predictability means the quality of being foreseeable, opposite to a genetic change that cannot be explained by standard theory." }
+      ]
+    }
+  ]
+}

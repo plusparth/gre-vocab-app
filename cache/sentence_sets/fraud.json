@@ -1,0 +1,53 @@
+{
+  "word": "fraud",
+  "sentenceSets": [
+    {
+      "sentence": "The scheme was fraud of the most calculated kind, designed to mislead those least equipped to detect it.",
+      "answerChoices": [
+        { "distractor": "deception", "closeness": 3, "reasoning": "Close -- 'deception' is misleading someone by making them believe something false, which overlaps with fraud, but it is broader and does not necessarily involve the illegal misrepresentation for financial or personal gain." },
+        { "distractor": "hoax", "closeness": 3, "reasoning": "Close -- 'hoax' is a deceptive trick or false alarm, which fits the scheme, but it often implies harmless or public mischief rather than calculated, criminal misrepresentation." },
+        { "distractor": "subterfuge", "closeness": 3, "reasoning": "Close -- 'subterfuge' means deception or evasion by artifice, which fits deliberate misleading, but it emphasizes craftiness and evasion rather than the specific misrepresentation involving criminal intent." },
+        { "distractor": "ruse", "closeness": 3, "reasoning": "Close -- 'ruse' is a crafty stratagem or trick, which fits a calculated scheme, but it does not carry the sense of illegal deceit for gain that fraud implies." },
+        { "distractor": "illusion", "closeness": 2, "reasoning": "Incorrect -- 'illusion' is a false perception or appearance, which could deceive, but it does not convey the criminal intent and calculated misrepresentation." },
+        { "distractor": "pretense", "closeness": 2, "reasoning": "Incorrect -- 'pretense' is a false claim or appearance, which fits deception, but it is too general and may lack criminal intent." },
+        { "distractor": "fabrication", "closeness": 2, "reasoning": "Incorrect -- 'fabrication' is something invented or constructed falsely, which fits the scheme, but it emphasizes the making of false stories rather than criminal misrepresentation." },
+        { "distractor": "trap", "closeness": 2, "reasoning": "Incorrect -- 'trap' is a device or tactic to catch someone, which the scheme might function as, but it does not convey the criminal deceit." },
+        { "distractor": "honesty", "closeness": 1, "reasoning": "Opposite -- 'honesty' is truthfulness and integrity, the opposite of calculated deceit." },
+        { "distractor": "transparency", "closeness": 1, "reasoning": "Opposite -- 'transparency' means openness and clarity, contrary to the calculated misleading designed to obscure truth." },
+        { "distractor": "revelation", "closeness": 1, "reasoning": "Incorrect -- 'revelation' is an uncovering or disclosure of truth; clearly opposite to a calculated scheme designed to mislead." }
+      ]
+    },
+    {
+      "sentence": "The insurance investigator uncovered fraud in the claim when security footage showed the plaintiff had staged the accident.",
+      "answerChoices": [
+        { "distractor": "exaggeration", "closeness": 3, "reasoning": "Close -- 'exaggeration' is overstating or inflating claims, which could accompany fraud, but it emphasizes amplification rather than the deliberate staging and misrepresentation of facts." },
+        { "distractor": "fabrication", "closeness": 3, "reasoning": "Close -- 'fabrication' is making up false information, which describes staging an accident, but it emphasizes the invention of lies rather than the criminal intent to misrepresent for financial gain." },
+        { "distractor": "perjury", "closeness": 3, "reasoning": "Close -- 'perjury' is lying under oath, which could accompany insurance fraud, but it specifically refers to false testimony rather than the criminal misrepresentation of claims." },
+        { "distractor": "forgery", "closeness": 3, "reasoning": "Close -- 'forgery' is creating false documents, which could be part of insurance fraud, but it specifically refers to document falsification rather than the broader deceit of staging an event." },
+        { "distractor": "negligence", "closeness": 2, "reasoning": "Incorrect -- 'negligence' is failure to exercise care, which could result in an accident, but it is opposite to the deliberate staging that constitutes fraud." },
+        { "distractor": "error", "closeness": 2, "reasoning": "Incorrect -- 'error' is a mistake or inaccuracy, which could occur in a claim, but it lacks the deliberate intent to deceive." },
+        { "distractor": "accident", "closeness": 2, "reasoning": "Incorrect -- 'accident' is an unplanned, unintended event; the sentence describes staging, which is intentional, so accident is the opposite of what occurred." },
+        { "distractor": "misunderstanding", "closeness": 2, "reasoning": "Incorrect -- 'misunderstanding' is a failure to grasp correctly; it suggests unintentional confusion rather than deliberate criminal misrepresentation." },
+        { "distractor": "authenticity", "closeness": 1, "reasoning": "Opposite -- 'authenticity' means genuineness and truthfulness; directly contrary to the staged accident the investigator discovered." },
+        { "distractor": "legitimacy", "closeness": 1, "reasoning": "Opposite -- 'legitimacy' means validity and lawfulness; opposite to the criminal deception uncovered." },
+        { "distractor": "verification", "closeness": 1, "reasoning": "Incorrect -- 'verification' is confirming the truth of something; the security footage provided verification that contradicted the fraudulent claim." }
+      ]
+    },
+    {
+      "sentence": "The charity's founder was arrested for committing fraud by misrepresenting how donations were used, keeping millions while claiming to serve the impoverished.",
+      "answerChoices": [
+        { "distractor": "embezzlement", "closeness": 3, "reasoning": "Close -- 'embezzlement' is stealing money entrusted to one's care, which describes taking charity funds, but it emphasizes theft of positioned assets rather than the criminal misrepresentation of fund usage." },
+        { "distractor": "theft", "closeness": 3, "reasoning": "Close -- 'theft' is taking property without permission, which applies to the millions taken, but it emphasizes simple stealing rather than the added element of criminal misrepresentation about usage." },
+        { "distractor": "misappropriation", "closeness": 3, "reasoning": "Close -- 'misappropriation' is using something for wrong purposes, which describes using donations for personal gain, but it emphasizes improper use rather than the deliberate deception about how money was spent." },
+        { "distractor": "bribery", "closeness": 3, "reasoning": "Close -- 'bribery' is offering payment to corrupt someone's judgment, which could be part of a charity scheme, but it specifically involves corrupting officials rather than deceiving donors." },
+        { "distractor": "negligence", "closeness": 2, "reasoning": "Incorrect -- 'negligence' is careless failure to fulfill duties, which might result in misused funds, but it lacks the deliberate criminal intent implied by arrest." },
+        { "distractor": "incompetence", "closeness": 2, "reasoning": "Incorrect -- 'incompetence' is inability to perform properly, which could cause mismanagement, but it implies lack of skill rather than deliberate criminal deception." },
+        { "distractor": "inefficiency", "closeness": 2, "reasoning": "Incorrect -- 'inefficiency' is wasting resources or time, which might occur in a charity, but it does not convey deliberate misrepresentation or criminal intent." },
+        { "distractor": "corruption", "closeness": 2, "reasoning": "Incorrect -- 'corruption' is dishonest or illegal behavior, which applies broadly, but this is too general compared to the specific fraudulent misrepresentation described." },
+        { "distractor": "transparency", "closeness": 1, "reasoning": "Opposite -- 'transparency' means openness about operations and finances, contrary to the misrepresentation about how donations were actually used." },
+        { "distractor": "honesty", "closeness": 1, "reasoning": "Opposite -- 'honesty' is truthfulness, directly contrary to deliberate criminal misrepresentation of charitable activities." },
+        { "distractor": "philanthropy", "closeness": 1, "reasoning": "Incorrect -- 'philanthropy' is charitable giving and generosity; while the founder pretended to practice it, this word describes the opposite of what actually occurred." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "pith",
+  "sentenceSets": [
+    {
+      "sentence": "The pith of the argument could be stated in two sentences, which is why the book required four hundred pages to obscure it.",
+      "answerChoices": [
+        { "distractor": "essence", "closeness": 3, "reasoning": "Essence means the fundamental nature; while very close to pith in meaning, essence is more about intrinsic quality whereas pith emphasizes the core point that could be stated briefly." },
+        { "distractor": "heart", "closeness": 3, "reasoning": "Heart means the central or vital part; while similar to pith, heart is more metaphorically about emotional center whereas pith is the central logical point." },
+        { "distractor": "core", "closeness": 3, "reasoning": "Core means the central part; while nearly synonymous with pith, core is slightly more structural whereas pith emphasizes the distillable essence of an argument." },
+        { "distractor": "marrow", "closeness": 3, "reasoning": "Marrow means the innermost essential part; while it's a metaphor similar to pith, marrow is less commonly used for intellectual arguments and more abstract in connotation." },
+        { "distractor": "crux", "closeness": 2, "reasoning": "Crux means the decisive or most important point; while related to pith, crux emphasizes the critical decision point rather than the distillable essence." },
+        { "distractor": "kernel", "closeness": 2, "reasoning": "Kernel means the central or most important part; while similar, kernel often refers to seeds or core computations rather than the essence of an argument." },
+        { "distractor": "substance", "closeness": 2, "reasoning": "Substance means essential matter or content; while related, substance is broader than pith and doesn't capture the sense of brevity and concision." },
+        { "distractor": "gist", "closeness": 2, "reasoning": "Gist means the main point or substance; while similar to pith, gist is more casual and informal in tone than pith." },
+        { "distractor": "perimeter", "closeness": 1, "reasoning": "Perimeter means the outer boundary; it contradicts the sentence's description of the central essence or core of an argument." },
+        { "distractor": "detail", "closeness": 1, "reasoning": "Detail means a small or incidental fact; it contradicts the sentence's description of the main point that the book obscured with four hundred pages." },
+        { "distractor": "embellishment", "closeness": 1, "reasoning": "Embellishment means decorative addition or elaboration; it contradicts the sentence's portrayal of the essential core that was obscured by elaboration." }
+      ]
+    },
+    {
+      "sentence": "The pith of the tree trunk can be examined to determine its age and growing conditions.",
+      "answerChoices": [
+        { "distractor": "tissue", "closeness": 3, "reasoning": "Tissue means biological material; while pith is a type of tissue, calling it simply 'tissue' doesn't specifically identify the spongy central portion of the stem." },
+        { "distractor": "heartwood", "closeness": 3, "reasoning": "Heartwood means the dead wood at the center of a tree; while it occupies a similar central location to pith, heartwood is denser and differs functionally from the spongy pith." },
+        { "distractor": "wood", "closeness": 3, "reasoning": "Wood means the hard tissue of trees; while pith is found in trees, pith is spongy rather than hard wood, making this a trap for someone unfamiliar with plant anatomy." },
+        { "distractor": "cambium", "closeness": 3, "reasoning": "Cambium is the layer generating new growth in trees; while it's a tree component used in age determination, cambium forms rings outside the pith rather than being the pith itself." },
+        { "distractor": "fiber", "closeness": 2, "reasoning": "Fiber means threadlike structures in plant tissue; while pith contains cells, calling it 'fiber' mischaracterizes the spongy structure and organization." },
+        { "distractor": "rings", "closeness": 2, "reasoning": "Rings means the annual growth circles visible in wood; while tree rings are used to determine age like pith analysis, rings are the growth layers rather than the central tissue." },
+        { "distractor": "cells", "closeness": 2, "reasoning": "Cells means the basic units of tissue; while pith is composed of cells, the term is too generic to specifically identify the spongy central tissue." },
+        { "distractor": "layers", "closeness": 2, "reasoning": "Layers means stratified sections; while a tree trunk has multiple layers, this doesn't specifically identify the pith as the central spongy portion." },
+        { "distractor": "bark", "closeness": 1, "reasoning": "Bark means the outer protective covering; it contradicts the sentence's reference to examining the center of the tree trunk." },
+        { "distractor": "surface", "closeness": 1, "reasoning": "Surface means the outermost part; it contradicts the sentence's focus on examining the interior of the tree trunk." },
+        { "distractor": "exterior", "closeness": 1, "reasoning": "Exterior means the outer part; it contradicts the sentence's description of examining something within the tree trunk's interior." }
+      ]
+    },
+    {
+      "sentence": "The journalist's report lacked the pith necessary for impact; it was filled with tangential information and lacked a clear central message.",
+      "answerChoices": [
+        { "distractor": "vigor", "closeness": 3, "reasoning": "Vigor means energy and forcefulness; while it's related to impact and effectiveness, vigor emphasizes vitality rather than the essential core message." },
+        { "distractor": "punch", "closeness": 3, "reasoning": "Punch means force and impact; while very similar to pith in conveying effectiveness, punch emphasizes the striking quality rather than the essential distilled core." },
+        { "distractor": "power", "closeness": 3, "reasoning": "Power means strength and effectiveness; while related to pith's necessity for impact, power is broader than the essential concentrated message that pith conveys." },
+        { "distractor": "depth", "closeness": 3, "reasoning": "Depth means extent or profundity; while related to report quality, depth emphasizes thoroughness rather than the essential concise core that pith represents." },
+        { "distractor": "strength", "closeness": 2, "reasoning": "Strength means power or effectiveness; while related to impact, strength is broader than pith's specific meaning of the essential concentrated core." },
+        { "distractor": "clarity", "closeness": 2, "reasoning": "Clarity means lucidity and clearness; while related to effective communication, clarity emphasizes comprehensibility rather than the essential distilled message." },
+        { "distractor": "focus", "closeness": 2, "reasoning": "Focus means the central point of attention; while related to a clear message, focus emphasizes direction rather than the concentrated essence that pith represents." },
+        { "distractor": "directness", "closeness": 2, "reasoning": "Directness means straightforwardness; while it relates to clear messaging, directness emphasizes straightness of path rather than the essential concentrated core." },
+        { "distractor": "verbosity", "closeness": 1, "reasoning": "Verbosity means wordiness and excessive words; it describes the problem shown in the sentence but is opposite to what would create pith." },
+        { "distractor": "obscurity", "closeness": 1, "reasoning": "Obscurity means lack of clarity; while related to the sentence's description of the report lacking something, obscurity is a characteristic rather than the essence needed." },
+        { "distractor": "tangentiality", "closeness": 1, "reasoning": "Tangentiality means straying from the main point; it describes the problem mentioned in the sentence but is opposite to the concentrated essential message that pith provides." }
+      ]
+    }
+  ]
+}

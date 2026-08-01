@@ -1,0 +1,53 @@
+{
+  "word": "divine",
+  "sentenceSets": [
+    {
+      "sentence": "She seemed to divine his discomfort before he had said a word, adjusting her approach without being asked.",
+      "answerChoices": [
+        { "distractor": "perceive", "closeness": 3, "reasoning": "Close but incorrect -- 'perceive' means to become aware of through the senses; while divining involves perception, 'divine' specifically suggests sensing something without obvious evidence, whereas 'perceive' may imply direct sensory input." },
+        { "distractor": "intuit", "closeness": 3, "reasoning": "Close -- 'intuit' means to understand by intuition; this is nearly synonymous with 'divine,' though 'intuit' emphasizes spontaneous understanding whereas 'divine' suggests a more mysterious or perceptive insight." },
+        { "distractor": "sense", "closeness": 3, "reasoning": "Close -- 'sense' means to perceive or feel something; while divining involves sensing, 'sense' is broader and may suggest physical sensation whereas 'divine' emphasizes insight without obvious evidence." },
+        { "distractor": "discern", "closeness": 3, "reasoning": "Close -- 'discern' means to perceive or recognize; while she discerns his discomfort, 'divine' implies more mysterious or almost supernatural perception than the careful observation that 'discern' suggests." },
+        { "distractor": "guess", "closeness": 2, "reasoning": "Incorrect -- 'guess' means to form an opinion without certain knowledge; while she might guess, this implies uncertainty whereas 'divine' suggests confident, perceptive insight." },
+        { "distractor": "assume", "closeness": 2, "reasoning": "Incorrect -- 'assume' means to accept as true without proof; while she assumes something is wrong, this is a logical inference rather than the intuitive perception that 'divine' conveys." },
+        { "distractor": "deduce", "closeness": 2, "reasoning": "Incorrect -- 'deduce' means to reach a conclusion through reasoning; while she might deduce his discomfort, this emphasizes logical reasoning rather than intuitive perception." },
+        { "distractor": "infer", "closeness": 2, "reasoning": "Incorrect -- 'infer' means to conclude based on available evidence; while she infers discomfort, this is a logical process rather than the intuitive sensing that 'divine' suggests." },
+        { "distractor": "overlook", "closeness": 1, "reasoning": "Opposite -- 'overlook' means to fail to notice; this contradicts someone who senses his discomfort before he speaks." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Opposite -- 'ignore' means to pay no attention to; clearly wrong for someone who perceives and responds to his unspoken discomfort." },
+        { "distractor": "misread", "closeness": 1, "reasoning": "Opposite -- 'misread' means to interpret incorrectly; this contradicts someone who accurately divines his true emotional state." }
+      ]
+    },
+    {
+      "sentence": "The fortune teller claimed to divine the future from tarot cards, drawing gasps from audience members with her seemingly uncanny predictions.",
+      "answerChoices": [
+        { "distractor": "foretell", "closeness": 3, "reasoning": "Close but incorrect -- 'foretell' means to predict or announce beforehand; while the fortune teller foretells, 'divine' specifically suggests perceiving hidden truths or the future through mysterious insight rather than mere prediction." },
+        { "distractor": "prophesy", "closeness": 3, "reasoning": "Close -- 'prophesy' means to speak as a prophet; while she prophesies, 'divine' emphasizes the perceptive act of sensing or discerning the future rather than the delivery of prophecy." },
+        { "distractor": "predict", "closeness": 3, "reasoning": "Close -- 'predict' means to state what will happen in the future; while she predicts, 'divine' suggests a more mysterious or mystical discernment of hidden truths." },
+        { "distractor": "foresee", "closeness": 3, "reasoning": "Close -- 'foresee' means to see or know beforehand; while she foresees events, 'divine' emphasizes a more mystical or intuitive perception than the visual sense that 'foresee' suggests." },
+        { "distractor": "guess", "closeness": 2, "reasoning": "Incorrect -- 'guess' means to form an opinion without knowledge; while her predictions might be guesses, this lacks the sense of mystical insight or supernatural perception that 'divine' conveys." },
+        { "distractor": "conjure", "closeness": 2, "reasoning": "Incorrect -- 'conjure' means to create something from nothing or to summon by magic; while related to mysticism, it does not capture the specific act of perceiving hidden truths." },
+        { "distractor": "evoke", "closeness": 2, "reasoning": "Incorrect -- 'evoke' means to call forth or bring to mind; while the predictions evoke reactions, this does not capture the meaning of perceiving or discerning the future." },
+        { "distractor": "summon", "closeness": 2, "reasoning": "Incorrect -- 'summon' means to call upon or request to appear; while fortune telling might involve summoning spirits, the word does not capture the perception of the future." },
+        { "distractor": "conceal", "closeness": 1, "reasoning": "Opposite -- 'conceal' means to hide or keep secret; this contradicts someone who reveals predictions about the future." },
+        { "distractor": "obscure", "closeness": 1, "reasoning": "Opposite -- 'obscure' means to make unclear or hidden; clearly wrong for someone claiming to perceive and reveal the future." },
+        { "distractor": "doubt", "closeness": 1, "reasoning": "Opposite -- 'doubt' means to lack certainty; this contradicts claiming to have mystical insight into future events." }
+      ]
+    },
+    {
+      "sentence": "Through careful observation of market trends and consumer behavior, the analyst could divine which new products would succeed, earning her a reputation for uncanny accuracy.",
+      "answerChoices": [
+        { "distractor": "anticipate", "closeness": 3, "reasoning": "Close but incorrect -- 'anticipate' means to look forward to or expect; while she anticipates success, 'divine' suggests a more perceptive or almost mystical discernment based on observation rather than mere expectation." },
+        { "distractor": "foreshadow", "closeness": 3, "reasoning": "Close -- 'foreshadow' means to be a sign or warning of something to come; while market trends foreshadow success, 'divine' emphasizes the perceptive act of discerning outcomes rather than the trends themselves signaling change." },
+        { "distractor": "extrapolate", "closeness": 3, "reasoning": "Close -- 'extrapolate' means to estimate values beyond known data; while she extrapolates trends, 'divine' emphasizes intuitive or perceptive insight rather than mathematical extension of data." },
+        { "distractor": "prognosticate", "closeness": 3, "reasoning": "Close -- 'prognosticate' means to forecast or predict; while she prognosticates about products, 'divine' suggests a more mysterious or mystical perception rather than professional prediction based on analysis." },
+        { "distractor": "theorize", "closeness": 2, "reasoning": "Incorrect -- 'theorize' means to form a theory; while she might theorize about market behavior, this emphasizes intellectual construction rather than the intuitive perception that 'divine' conveys." },
+        { "distractor": "hypothesize", "closeness": 2, "reasoning": "Incorrect -- 'hypothesize' means to put forward a supposition; while she might hypothesize outcomes, this is a tentative suggestion rather than the confident discernment of 'divine'." },
+        { "distractor": "estimate", "closeness": 2, "reasoning": "Incorrect -- 'estimate' means to roughly calculate or assess; while she estimates success, this suggests approximation rather than the perceptive insight of 'divine'." },
+        { "distractor": "calculate", "closeness": 2, "reasoning": "Incorrect -- 'calculate' means to determine by arithmetic; while she calculates probabilities, this emphasizes mathematical operation rather than intuitive or perceptive discernment." },
+        { "distractor": "misjudge", "closeness": 1, "reasoning": "Opposite -- 'misjudge' means to form an incorrect judgment; this contradicts earning a reputation for uncanny accuracy." },
+        { "distractor": "underestimate", "closeness": 1, "reasoning": "Opposite -- 'underestimate' means to assess as lower in value; clearly wrong for someone with a reputation for accurate predictions." },
+        { "distractor": "misinterpret", "closeness": 1, "reasoning": "Opposite -- 'misinterpret' means to understand incorrectly; this contradicts someone whose insight into market outcomes proves consistently accurate." }
+      ]
+    }
+  ]
+}

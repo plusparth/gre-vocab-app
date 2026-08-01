@@ -1,0 +1,53 @@
+{
+  "word": "veritable",
+  "sentenceSets": [
+    {
+      "sentence": "The investigation turned up a veritable archive of documentation that no one had thought to preserve and everyone now wished had been destroyed.",
+      "answerChoices": [
+        {"distractor": "considerable", "closeness": 3, "reasoning": "Considerable means large in size or amount, which the archive is, but veritable specifically emphasizes being in fact a true thing rather than merely large."},
+        {"distractor": "substantial", "closeness": 3, "reasoning": "Substantial means of considerable amount or importance, which the archive is, but veritable emphasizes being truly or genuinely that thing."},
+        {"distractor": "extensive", "closeness": 3, "reasoning": "Extensive means covering a large area or scope, which the archive is, but veritable emphasizes being in fact what it seems rather than merely broad."},
+        {"distractor": "comprehensive", "closeness": 3, "reasoning": "Comprehensive means complete or covering all areas, which the archive is, but veritable emphasizes being truly what it appears to be."},
+        {"distractor": "abundant", "closeness": 2, "reasoning": "Abundant means existing in great quantity, which the documentation is, but veritable specifically emphasizes being in fact or genuinely."},
+        {"distractor": "copious", "closeness": 2, "reasoning": "Copious means abundant or plentiful, which the archive is, but does not specifically emphasize being in fact a true thing."},
+        {"distractor": "voluminous", "closeness": 2, "reasoning": "Voluminous means of great size or amount, which the archive is, but does not specifically capture the sense of being genuinely a true archive."},
+        {"distractor": "impressive", "closeness": 2, "reasoning": "Impressive means causing admiration or awe, which the archive is, but does not specifically refer to being in fact or genuinely."},
+        {"distractor": "fraudulent", "closeness": 1, "reasoning": "Fraudulent means involving deception or false, the opposite of veritable archive containing genuine documentation."},
+        {"distractor": "minimal", "closeness": 1, "reasoning": "Minimal means of the least size or amount, the opposite of a veritable archive of substantial documentation."},
+        {"distractor": "imaginary", "closeness": 1, "reasoning": "Imaginary means existing only in imagination, the opposite of a veritable archive of actual documentation."}
+      ]
+    },
+    {
+      "sentence": "The political scandal created a veritable firestorm of media coverage, with every news outlet competing to expose new layers of corruption.",
+      "answerChoices": [
+        {"distractor": "considerable", "closeness": 3, "reasoning": "Considerable means large in size or amount, which the media coverage is, but veritable emphasizes being in fact or genuinely that thing."},
+        {"distractor": "intense", "closeness": 3, "reasoning": "Intense means very strong or concentrated, which the coverage is, but veritable specifically emphasizes being truly or genuinely a firestorm."},
+        {"distractor": "substantial", "closeness": 3, "reasoning": "Substantial means of considerable importance or size, which the coverage is, but veritable emphasizes being in fact that thing."},
+        {"distractor": "massive", "closeness": 3, "reasoning": "Massive means very large or extensive, which the coverage is, but veritable emphasizes being genuinely that thing rather than merely large."},
+        {"distractor": "extensive", "closeness": 2, "reasoning": "Extensive means covering a large area or scope, which the media coverage is, but veritable specifically emphasizes being truly or genuinely."},
+        {"distractor": "feverish", "closeness": 2, "reasoning": "Feverish means characterized by excitement or activity, which the media coverage is, but does not specifically capture the sense of being genuinely a firestorm."},
+        {"distractor": "frenzied", "closeness": 2, "reasoning": "Frenzied means in a state of wild activity or excitement, which the coverage is, but does not specifically emphasize being in fact or genuinely."},
+        {"distractor": "relentless", "closeness": 2, "reasoning": "Relentless means continued without pause, which the coverage is, but does not specifically refer to being in fact or genuinely."},
+        {"distractor": "suppressed", "closeness": 1, "reasoning": "Suppressed means kept hidden or prevented from expression, the opposite of a veritable firestorm of media coverage."},
+        {"distractor": "minor", "closeness": 1, "reasoning": "Minor means small or of little importance, the opposite of a veritable firestorm creating massive media coverage."},
+        {"distractor": "imaginary", "closeness": 1, "reasoning": "Imaginary means existing only in imagination, the opposite of a veritable scandal creating genuine media frenzy."}
+      ]
+    },
+    {
+      "sentence": "The restaurant's new location in the historic district attracted a veritable flood of customers eager to dine in the restored vintage setting.",
+      "answerChoices": [
+        {"distractor": "steady", "closeness": 3, "reasoning": "Steady means continuous or flowing without interruption, which the customer flow is, but veritable emphasizes being in fact or genuinely a flood."},
+        {"distractor": "constant", "closeness": 3, "reasoning": "Constant means continuing without pause or interruption, which the customer traffic is, but veritable emphasizes being truly or genuinely."},
+        {"distractor": "considerable", "closeness": 3, "reasoning": "Considerable means large in size or amount, which the customer flow is, but veritable emphasizes being in fact that thing rather than merely large."},
+        {"distractor": "overwhelming", "closeness": 3, "reasoning": "Overwhelming means very large or impossible to resist, which the customer volume is, but veritable emphasizes being genuinely that thing."},
+        {"distractor": "substantial", "closeness": 2, "reasoning": "Substantial means of considerable size or amount, which the customer flow is, but veritable specifically emphasizes being in fact or genuinely."},
+        {"distractor": "impressive", "closeness": 2, "reasoning": "Impressive means causing admiration, which the customer numbers are, but does not specifically emphasize being genuinely or in fact."},
+        {"distractor": "significant", "closeness": 2, "reasoning": "Significant means having importance or noticeable impact, which the customer flow has, but does not specifically refer to being genuinely."},
+        {"distractor": "unprecedented", "closeness": 2, "reasoning": "Unprecedented means never done or known before, which the customer volume might be for the restaurant, but does not specifically capture veritable."},
+        {"distractor": "negligible", "closeness": 1, "reasoning": "Negligible means so small as to be insignificant, the opposite of a veritable flood of customers."},
+        {"distractor": "sparse", "closeness": 1, "reasoning": "Sparse means thin or not dense, the opposite of a veritable flood of customers attracted to the restaurant."},
+        {"distractor": "imaginary", "closeness": 1, "reasoning": "Imaginary means existing only in imagination, the opposite of a veritable flood of actual customers."}
+      ]
+    }
+  ]
+}

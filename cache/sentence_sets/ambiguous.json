@@ -1,0 +1,185 @@
+{
+  "word": "ambiguous",
+  "sentenceSets": [
+    {
+      "sentence": "Her ambiguous answer left reporters uncertain whether she was resigning or staying.",
+      "answerChoices": [
+        {
+          "distractor": "vague",
+          "closeness": 3,
+          "reasoning": "While 'vague' also describes unclear communication, it emphasizes lack of specificity or detail; here the problem is not vagueness but that the statement itself admits two competing interpretations\u2014a more fundamental dual meaning."
+        },
+        {
+          "distractor": "evasive",
+          "closeness": 3,
+          "reasoning": "An evasive answer intentionally dodges or avoids a direct response, which may produce uncertainty; however, 'ambiguous' indicates the statement itself genuinely permits two opposite meanings, not that she was deliberately sidestepping."
+        },
+        {
+          "distractor": "cryptic",
+          "closeness": 3,
+          "reasoning": "A cryptic answer is mysterious or difficult to decipher, leaving listeners confused; 'ambiguous' goes further to specify that the answer permits multiple definite interpretations, not just obscurity or puzzle-like quality."
+        },
+        {
+          "distractor": "muddled",
+          "closeness": 3,
+          "reasoning": "A muddled answer suggests confused or tangled thinking; 'ambiguous' refers not to confused communication but to a statement that admits two opposite, equally valid readings."
+        },
+        {
+          "distractor": "unclear",
+          "closeness": 2,
+          "reasoning": "Unclear describes a statement that is hard to understand, but 'ambiguous' implies the opposite\u2014the statement is perfectly clear in expressing two distinct rival meanings."
+        },
+        {
+          "distractor": "incoherent",
+          "closeness": 2,
+          "reasoning": "An incoherent answer doesn't hang together logically; 'ambiguous' describes a well-formed statement that is coherent but permits two different interpretations."
+        },
+        {
+          "distractor": "bland",
+          "closeness": 2,
+          "reasoning": "A bland answer is dull and uninteresting; the problem with the reporter's answer was not its lack of flavor but its simultaneous capacity to mean two opposite things."
+        },
+        {
+          "distractor": "candid",
+          "closeness": 2,
+          "reasoning": "Candid means frank and truthful; the reporters' uncertainty in the sentence signals exactly the opposite quality\u2014if the answer were candid, it would have resolved rather than created confusion."
+        },
+        {
+          "distractor": "terse",
+          "closeness": 1,
+          "reasoning": "Terse means brief or concise; a terse statement can still be clear and single in meaning; the issue here is not brevity but dual interpretation."
+        },
+        {
+          "distractor": "eloquent",
+          "closeness": 1,
+          "reasoning": "Eloquent describes articulate and persuasive language; the answer left reporters uncertain precisely because it lacked the clarity and force that eloquence provides."
+        },
+        {
+          "distractor": "concrete",
+          "closeness": 1,
+          "reasoning": "Concrete means specific and tangible; the sentence suggests the opposite\u2014the answer permitted two conflicting interpretations rather than pinpointing one concrete reality."
+        }
+      ]
+    },
+    {
+      "sentence": "The contract's ambiguous language made it impossible for either party to prove what terms had actually been agreed upon.",
+      "answerChoices": [
+        {
+          "distractor": "obscure",
+          "closeness": 3,
+          "reasoning": "Obscure language is dark or hidden from view; 'ambiguous' language is fully readable but permits more than one reasonable interpretation, a different defect."
+        },
+        {
+          "distractor": "opaque",
+          "closeness": 3,
+          "reasoning": "Opaque language lets little meaning shine through; 'ambiguous' language transmits meaning clearly but in two opposite directions, creating a different legal problem."
+        },
+        {
+          "distractor": "abstruse",
+          "closeness": 3,
+          "reasoning": "Abstruse refers to language that is difficult and dense, requiring scholarly effort to parse; 'ambiguous' language can be simple but susceptible to rival readings."
+        },
+        {
+          "distractor": "convoluted",
+          "closeness": 3,
+          "reasoning": "Convoluted language twists through multiple turns and is hard to follow; 'ambiguous' language may be straightforward but open to two equally valid interpretations."
+        },
+        {
+          "distractor": "imprecise",
+          "closeness": 2,
+          "reasoning": "Imprecise language lacks exactness; while this might cause confusion, 'ambiguous' specifies a scenario where two distinct, competing interpretations are both plausible."
+        },
+        {
+          "distractor": "literal",
+          "closeness": 2,
+          "reasoning": "Literal language adheres strictly to the basic meaning of words; 'ambiguous' language permits multiple meanings, often the opposite of a rigid literal reading."
+        },
+        {
+          "distractor": "pedantic",
+          "closeness": 2,
+          "reasoning": "Pedantic language is overly concerned with formal rules; an ambiguous contract might actually lack clarity precisely because it avoids pedantic specificity."
+        },
+        {
+          "distractor": "eloquent",
+          "closeness": 2,
+          "reasoning": "Eloquent language is artfully persuasive and clear; a contract requiring proof of intent needs clarity and single meaning, the opposite of what 'eloquent' suggests."
+        },
+        {
+          "distractor": "explicit",
+          "closeness": 1,
+          "reasoning": "Explicit language is stated outright and leaving nothing to inference; this is antithetical to ambiguous language that invites two rival interpretations."
+        },
+        {
+          "distractor": "definitive",
+          "closeness": 1,
+          "reasoning": "Definitive language settles a matter conclusively; 'ambiguous' language does the opposite by permitting dispute over what the parties intended."
+        },
+        {
+          "distractor": "straightforward",
+          "closeness": 1,
+          "reasoning": "Straightforward language follows a clear, direct path from speaker to meaning; 'ambiguous' language branches into two competing paths, creating the parties' dispute."
+        }
+      ]
+    },
+    {
+      "sentence": "The photographer's ambiguous use of shadow and light created multiple readings of the same scene\u2014was it melancholic or transcendent?",
+      "answerChoices": [
+        {
+          "distractor": "subtle",
+          "closeness": 3,
+          "reasoning": "Subtle technique is delicate and understated; the photograph's power lies not in quiet understatement but in the capacity to provoke two opposite emotional readings."
+        },
+        {
+          "distractor": "muted",
+          "closeness": 3,
+          "reasoning": "Muted describes toned-down or softened effects; 'ambiguous' describes a composition that invites two contrary interpretations, not merely a softened palette."
+        },
+        {
+          "distractor": "ineffective",
+          "closeness": 3,
+          "reasoning": "Ineffective technique fails to produce an intended effect; here the technique succeeds powerfully but by generating two opposite interpretations rather than one."
+        },
+        {
+          "distractor": "diffuse",
+          "closeness": 3,
+          "reasoning": "Diffuse refers to spread-out or unfocused application; 'ambiguous' refers to having two distinct rival meanings, not merely scattered or unfocused composition."
+        },
+        {
+          "distractor": "restrained",
+          "closeness": 2,
+          "reasoning": "Restrained technique holds back and avoids excess; while the photograph may involve restraint, 'ambiguous' captures its capacity to yield two opposite meanings."
+        },
+        {
+          "distractor": "naive",
+          "closeness": 2,
+          "reasoning": "Naive art is simple and unschooled; 'ambiguous' describes the deliberate or inherent openness to dual interpretation, not merely unsophisticated technique."
+        },
+        {
+          "distractor": "experimental",
+          "closeness": 2,
+          "reasoning": "Experimental technique tries new approaches; while the photograph may be experimental, 'ambiguous' specifies that its meanings split into two rival readings."
+        },
+        {
+          "distractor": "brilliant",
+          "closeness": 2,
+          "reasoning": "Brilliant technique dazzles and dominates viewer perception in one direction; 'ambiguous' invites the viewer to hold two opposite interpretations in tension."
+        },
+        {
+          "distractor": "clear",
+          "closeness": 1,
+          "reasoning": "Clear technique conveys one unified message; 'ambiguous' technique generates multiple rival messages, the opposite of clarity."
+        },
+        {
+          "distractor": "uniform",
+          "closeness": 1,
+          "reasoning": "Uniform technique maintains consistency in one direction; 'ambiguous' technique permits two distinct, even opposite visual and emotional readings."
+        },
+        {
+          "distractor": "literal",
+          "closeness": 1,
+          "reasoning": "Literal technique documents only what is present; 'ambiguous' technique opens the scene to interpretive possibilities including opposite emotional responses."
+        }
+      ]
+    }
+  ]
+}

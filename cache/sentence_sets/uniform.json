@@ -1,0 +1,53 @@
+{
+  "word": "uniform",
+  "sentenceSets": [
+    {
+      "sentence": "The uniform quality of the work across the team reflected strong standards and effective coordination.",
+      "answerChoices": [
+        { "distractor": "consistent", "closeness": 3, "reasoning": "Consistent means maintaining the same standard; uniform specifically emphasizes sameness or lack of variation, which is similar but consistent can have some variation." },
+        { "distractor": "standard", "closeness": 3, "reasoning": "Standard describes meeting a norm; uniform emphasizes all parts having the same form or quality, whereas standard focuses on meeting a benchmark." },
+        { "distractor": "equal", "closeness": 3, "reasoning": "Equal means the same in quantity or value; uniform means consistently the same in form or degree, which equals imply but is more specific about consistency." },
+        { "distractor": "identical", "closeness": 3, "reasoning": "Identical means exactly alike; uniform means not varying, which can be identical but doesn't necessarily mean absolutely identical." },
+        { "distractor": "regular", "closeness": 2, "reasoning": "Regular means occurring at predictable intervals; uniform means having the same form throughout, which regular can produce but is broader." },
+        { "distractor": "reliable", "closeness": 2, "reasoning": "Reliable means dependable; uniform describes consistency in form or quality, not just dependability." },
+        { "distractor": "steady", "closeness": 2, "reasoning": "Steady means continuous and unchanging; uniform emphasizes not varying in form or degree, which steady can suggest." },
+        { "distractor": "stable", "closeness": 2, "reasoning": "Stable means fixed and not changing; uniform emphasizes not varying, which stable can imply but is broader." },
+        { "distractor": "varied", "closeness": 1, "reasoning": "Varied means showing differences and variety, the opposite of uniform, which emphasizes lack of variation." },
+        { "distractor": "inconsistent", "closeness": 1, "reasoning": "Inconsistent means not keeping the same form or standard, the opposite of uniform." },
+        { "distractor": "different", "closeness": 1, "reasoning": "Different means not the same, the opposite of uniform, which emphasizes sameness and lack of variation." }
+      ]
+    },
+    {
+      "sentence": "The military academy required uniform appearance in all public settings, with strict regulations about hair, grooming, and dress.",
+      "answerChoices": [
+        { "distractor": "standardized", "closeness": 3, "reasoning": "Standardized means made consistent according to a norm; uniform means having the same form or appearance throughout." },
+        { "distractor": "regulated", "closeness": 3, "reasoning": "Regulated means controlled by rules; uniform describes the result of such regulation—consistent appearance." },
+        { "distractor": "identical", "closeness": 3, "reasoning": "Identical means exactly alike; uniform emphasizes the consistency requirement, though not necessarily absolute identical appearance." },
+        { "distractor": "prescribed", "closeness": 3, "reasoning": "Prescribed means required by rule; uniform describes the consistent appearance resulting from such prescriptions." },
+        { "distractor": "matching", "closeness": 2, "reasoning": "Matching means similar or alike; uniform emphasizes consistent appearance throughout, not just matching pairs." },
+        { "distractor": "coordinated", "closeness": 2, "reasoning": "Coordinated means arranged together in harmony; uniform emphasizes consistent form, which coordination can produce." },
+        { "distractor": "neat", "closeness": 2, "reasoning": "Neat means tidy; uniform emphasizes consistent appearance according to standards." },
+        { "distractor": "orderly", "closeness": 2, "reasoning": "Orderly means organized; uniform emphasizes consistent appearance throughout." },
+        { "distractor": "varied", "closeness": 1, "reasoning": "Varied means showing differences, the opposite of uniform, which emphasizes consistency." },
+        { "distractor": "casual", "closeness": 1, "reasoning": "Casual suggests relaxed without specific requirements; uniform emphasizes consistent prescribed appearance." },
+        { "distractor": "individualized", "closeness": 1, "reasoning": "Individualized means personalized differently for each person; uniform emphasizes consistent sameness, the opposite." }
+      ]
+    },
+    {
+      "sentence": "In mathematics, uniform convergence ensures that a sequence of functions converges with equal speed across an entire interval.",
+      "answerChoices": [
+        { "distractor": "consistent", "closeness": 3, "reasoning": "Consistent means maintaining the same standard; uniform specifically emphasizes the same behavior or property across the entire domain." },
+        { "distractor": "equal", "closeness": 3, "reasoning": "Equal means the same; uniform in mathematics specifically emphasizes the same rate of convergence across the interval." },
+        { "distractor": "continuous", "closeness": 3, "reasoning": "Continuous means without interruption; uniform convergence implies continuity but specifically requires same-speed convergence." },
+        { "distractor": "steady", "closeness": 3, "reasoning": "Steady means unchanging; uniform describes the same rate of convergence throughout the interval." },
+        { "distractor": "smooth", "closeness": 2, "reasoning": "Smooth describes regular behavior; uniform emphasizes the same rate of convergence across the domain." },
+        { "distractor": "regular", "closeness": 2, "reasoning": "Regular means occurring predictably; uniform emphasizes consistent behavior across the interval." },
+        { "distractor": "simultaneous", "closeness": 2, "reasoning": "Simultaneous means occurring at the same time; uniform convergence emphasizes consistent rate, not just same timing." },
+        { "distractor": "parallel", "closeness": 2, "reasoning": "Parallel means moving in same direction; uniform convergence emphasizes consistent rate of convergence." },
+        { "distractor": "non-uniform", "closeness": 1, "reasoning": "Non-uniform means not having the same form throughout, the opposite of uniform convergence." },
+        { "distractor": "variable", "closeness": 1, "reasoning": "Variable means changing across the domain, the opposite of uniform, which emphasizes consistency." },
+        { "distractor": "erratic", "closeness": 1, "reasoning": "Erratic means unpredictable; uniform emphasizes consistent behavior, the opposite." }
+      ]
+    }
+  ]
+}

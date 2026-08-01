@@ -1,0 +1,53 @@
+{
+  "word": "sanction",
+  "sentenceSets": [
+    {
+      "sentence": "The committee declined to sanction the proposal, citing procedural irregularities that the proponents considered pretextual.",
+      "answerChoices": [
+        { "distractor": "approve", "closeness": 3, "reasoning": "Means express formal approval; has the opposite meaning from 'sanction' in this context—the sentence shows the committee refusing approval, not giving it." },
+        { "distractor": "authorize", "closeness": 3, "reasoning": "Means give official power or permission; while the committee might authorize, the sentence shows them declining to sanction (refusing permission)." },
+        { "distractor": "endorse", "closeness": 3, "reasoning": "Means support or approve; essentially the opposite of declining to sanction—the sentence shows refusal of endorsement." },
+        { "distractor": "ratify", "closeness": 3, "reasoning": "Means officially confirm or approve; essentially the opposite of declining to sanction in this context." },
+        { "distractor": "permit", "closeness": 2, "reasoning": "Means allow; while refusing sanction prevents permission, the sentence requires the specific term for official approval (sanction)." },
+        { "distractor": "enable", "closeness": 2, "reasoning": "Means make possible; while refusing sanction prevents enabling, the sentence requires the term for formal approval." },
+        { "distractor": "accept", "closeness": 2, "reasoning": "Means receive favorably; while refusing sanction means not accepting, the sentence requires the specific term for formal approval." },
+        { "distractor": "validate", "closeness": 2, "reasoning": "Means confirm worth; while refusing sanction means not validating, the sentence requires the term for official authorization." },
+        { "distractor": "reject", "closeness": 1, "reasoning": "Means refuse or decline; synonymous with declining to sanction, making it an inadequate trap—both convey refusal." },
+        { "distractor": "condemn", "closeness": 1, "reasoning": "Means criticize severely; while the committee objects, the sentence focuses on refusing sanction, not condemning." },
+        { "distractor": "ban", "closeness": 1, "reasoning": "Means prohibit; while refusing sanction blocks action, the sentence requires the term for withholding approval." }
+      ]
+    },
+    {
+      "sentence": "Several countries imposed economic sanctions on the regime in response to human rights violations.",
+      "answerChoices": [
+        { "distractor": "penalties", "closeness": 3, "reasoning": "Means punishments; essentially synonymous with sanctions—both describe punitive measures in response to wrongdoing." },
+        { "distractor": "punishments", "closeness": 3, "reasoning": "Means consequences for wrongdoing; essentially synonymous with sanctions—both describe retaliatory measures." },
+        { "distractor": "measures", "closeness": 3, "reasoning": "Means actions taken; while sanctions are measures, the sentence requires the specific term for punitive economic measures." },
+        { "distractor": "embargoes", "closeness": 3, "reasoning": "Means trade prohibitions; while similar to sanctions, 'embargoes' specifically restrict trade, whereas sanctions are broader punitive measures." },
+        { "distractor": "restrictions", "closeness": 2, "reasoning": "Means limitations imposed; while sanctions restrict, the sentence requires the term for punitive measures, not just restrictions." },
+        { "distractor": "consequences", "closeness": 2, "reasoning": "Means results of actions; while sanctions are consequences, the sentence requires the specific term for imposed punitive measures." },
+        { "distractor": "retaliation", "closeness": 2, "reasoning": "Means revenge or reprisal; while sanctions are retaliatory, the sentence requires the term for formal economic measures." },
+        { "distractor": "boycotts", "closeness": 2, "reasoning": "Means refusal to buy or deal; while boycotts are sanctions-like, the sentence requires the term for government-imposed measures." },
+        { "distractor": "rewards", "closeness": 1, "reasoning": "Means positive consequences; directly opposite to sanctions, which are punitive measures." },
+        { "distractor": "aid", "closeness": 1, "reasoning": "Means assistance; opposite to sanctions that penalize and restrict." },
+        { "distractor": "support", "closeness": 1, "reasoning": "Means backing or assistance; opposite to the punitive sanctions imposed on the regime." }
+      ]
+    },
+    {
+      "sentence": "The board refused to sanction the merger despite strong pressure from major shareholders.",
+      "answerChoices": [
+        { "distractor": "approve", "closeness": 3, "reasoning": "Means express formal approval; has opposite meaning—the sentence shows the board refusing approval, not giving sanction." },
+        { "distractor": "authorize", "closeness": 3, "reasoning": "Means give official power or permission; essentially the opposite of refusing to sanction in this context." },
+        { "distractor": "endorse", "closeness": 3, "reasoning": "Means support or approve; essentially the opposite of refusing to sanction." },
+        { "distractor": "ratify", "closeness": 3, "reasoning": "Means officially confirm; essentially the opposite of refusing to sanction the merger." },
+        { "distractor": "permit", "closeness": 2, "reasoning": "Means allow; while refusing sanction prevents permission, the sentence requires the specific term for official board approval." },
+        { "distractor": "accept", "closeness": 2, "reasoning": "Means receive favorably; while refusing sanction means not accepting, the sentence requires the term for formal authorization." },
+        { "distractor": "validate", "closeness": 2, "reasoning": "Means confirm worth; while refusing sanction means not validating, the sentence requires the term for official approval." },
+        { "distractor": "support", "closeness": 2, "reasoning": "Means back or assist; while support would lead to sanction, the sentence shows the board refusing both." },
+        { "distractor": "forbid", "closeness": 1, "reasoning": "Means prohibit; while refusing sanction prevents the merger, the sentence focuses on withholding approval, not active prohibition." },
+        { "distractor": "reject", "closeness": 1, "reasoning": "Means refuse or decline; while refusing sanction is a form of rejection, 'reject' is too general and doesn't specify formal authority." },
+        { "distractor": "veto", "closeness": 1, "reasoning": "Means reject with authority; while similar to refusing sanction, the sentence emphasizes the formal approval process, not the forceful veto." }
+      ]
+    }
+  ]
+}

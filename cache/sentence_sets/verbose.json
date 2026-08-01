@@ -1,0 +1,53 @@
+{
+  "word": "verbose",
+  "sentenceSets": [
+    {
+      "sentence": "His verbose reports required editing before they could be shared with anyone who did not have extensive time to dedicate to them.",
+      "answerChoices": [
+        {"distractor": "detailed", "closeness": 3, "reasoning": "Detailed means comprehensive and thorough, which the reports are, but verbose specifically refers to using more words than necessary."},
+        {"distractor": "comprehensive", "closeness": 3, "reasoning": "Comprehensive means covering all areas or subjects completely, which the reports are, but verbose emphasizes excess words, not thoroughness."},
+        {"distractor": "lengthy", "closeness": 3, "reasoning": "Lengthy means long in duration or extent, which the reports are, but verbose specifically means using excess words, not merely being long."},
+        {"distractor": "expansive", "closeness": 3, "reasoning": "Expansive means covering a wide range or expressed at length, which the reports are, but does not specifically refer to unnecessary wordiness."},
+        {"distractor": "complicated", "closeness": 2, "reasoning": "Complicated means difficult to understand or complex, which the reports might be perceived as, but verbose specifically refers to wordiness."},
+        {"distractor": "tedious", "closeness": 2, "reasoning": "Tedious means slow and tiresome, which the reports appear to be, but does not specifically refer to excessive use of words."},
+        {"distractor": "complex", "closeness": 2, "reasoning": "Complex means consisting of many parts or complicated, which the reports might be, but verbose specifically refers to wordiness."},
+        {"distractor": "elaborate", "closeness": 2, "reasoning": "Elaborate means developed with great detail or complexity, which the reports are, but does not specifically emphasize unnecessary wordiness."},
+        {"distractor": "concise", "closeness": 1, "reasoning": "Concise means brief and clear, using few words efficiently, the opposite of verbose reports requiring editing due to length."},
+        {"distractor": "succinct", "closeness": 1, "reasoning": "Succinct means concise and to the point, the opposite of verbose reports containing more words than necessary."},
+        {"distractor": "pithy", "closeness": 1, "reasoning": "Pithy means concise and forcefully expressive, the opposite of verbose reports requiring editing for excessive length."}
+      ]
+    },
+    {
+      "sentence": "The contract's verbose language confused the parties involved, leading to disputes over meaning that could have been avoided with clearer wording.",
+      "answerChoices": [
+        {"distractor": "technical", "closeness": 3, "reasoning": "Technical means involving specialized knowledge or complex terminology, which the language might be, but verbose specifically refers to unnecessary wordiness."},
+        {"distractor": "complicated", "closeness": 3, "reasoning": "Complicated means difficult to understand or complex, which the language is, but verbose specifically emphasizes excess words, not complexity."},
+        {"distractor": "convoluted", "closeness": 3, "reasoning": "Convoluted means twisting or winding in a complex way, which the language is, but verbose specifically refers to wordiness, not convolution."},
+        {"distractor": "intricate", "closeness": 3, "reasoning": "Intricate means very complex or detailed, which the language is, but verbose emphasizes excessive words rather than complexity."},
+        {"distractor": "ambiguous", "closeness": 2, "reasoning": "Ambiguous means open to more than one interpretation, which the language is, but verbose specifically refers to wordiness, not ambiguity."},
+        {"distractor": "obscure", "closeness": 2, "reasoning": "Obscure means unclear or not easily understood, which the language is, but does not specifically refer to excessive use of words."},
+        {"distractor": "dense", "closeness": 2, "reasoning": "Dense means closely compacted or difficult to understand, which the language might be, but does not specifically refer to wordiness."},
+        {"distractor": "opaque", "closeness": 2, "reasoning": "Opaque means not transparent or unclear in meaning, which the language is, but does not specifically emphasize unnecessary wordiness."},
+        {"distractor": "clear", "closeness": 1, "reasoning": "Clear means easy to understand or perceive, the opposite of verbose language that confuses parties."},
+        {"distractor": "concise", "closeness": 1, "reasoning": "Concise means brief and clear, using few words efficiently, the opposite of verbose contract language."},
+        {"distractor": "straightforward", "closeness": 1, "reasoning": "Straightforward means uncomplicated or direct, the opposite of verbose language that causes confusion."}
+      ]
+    },
+    {
+      "sentence": "The professor's verbose lectures filled the entire class period with explanation after explanation, leaving little time for questions from students.",
+      "answerChoices": [
+        {"distractor": "detailed", "closeness": 3, "reasoning": "Detailed means comprehensive and thorough, which the lectures are, but verbose specifically refers to using more words than necessary."},
+        {"distractor": "comprehensive", "closeness": 3, "reasoning": "Comprehensive means covering all areas or subjects completely, which the lectures are, but verbose emphasizes excess words, not complete coverage."},
+        {"distractor": "lengthy", "closeness": 3, "reasoning": "Lengthy means long in duration or extent, which the lectures are, but verbose specifically means using excess words, not merely being long."},
+        {"distractor": "exhaustive", "closeness": 3, "reasoning": "Exhaustive means thorough and covering all possibilities, which the lectures are, but does not specifically refer to unnecessary wordiness."},
+        {"distractor": "repetitive", "closeness": 2, "reasoning": "Repetitive means occurring or done repeatedly, which the lectures might be with repeated explanations, but does not specifically mean wordy."},
+        {"distractor": "tedious", "closeness": 2, "reasoning": "Tedious means slow and tiresome, which the lectures appear to be, but does not specifically refer to excess use of words."},
+        {"distractor": "protracted", "closeness": 2, "reasoning": "Protracted means drawn out or prolonged, which the lectures are, but does not specifically emphasize unnecessary wordiness."},
+        {"distractor": "interminable", "closeness": 2, "reasoning": "Interminable means seemingly endless, which the lectures appear to be, but does not specifically refer to excess words."},
+        {"distractor": "concise", "closeness": 1, "reasoning": "Concise means brief and clear, using few words efficiently, the opposite of verbose lectures that leave no time for questions."},
+        {"distractor": "terse", "closeness": 1, "reasoning": "Terse means brief and using few words, the opposite of verbose lectures."},
+        {"distractor": "succinct", "closeness": 1, "reasoning": "Succinct means concise and to the point, the opposite of verbose lectures that fill the entire class period with explanation."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "dudgeon",
+  "sentenceSets": [
+    {
+      "sentence": "He left the meeting in high dudgeon, slamming the door and refusing to answer calls for the rest of the day.",
+      "answerChoices": [
+        { "distractor": "indignation", "closeness": 3, "reasoning": "Close -- 'indignation' is anger at something perceived as unfair or disrespectful, which fits his departure, but emphasizes moral outrage rather than the offense or resentment component of dudgeon." },
+        { "distractor": "resentment", "closeness": 3, "reasoning": "Close -- 'resentment' is bitter displeasure at being treated unfairly, which fits his anger and withdrawal, but emphasizes the festering quality rather than the acute offense that sparked immediate departure." },
+        { "distractor": "pique", "closeness": 3, "reasoning": "Close -- 'pique' is irritation or annoyance, which fits his dramatic exit, but suggests a less serious or sustained anger than the emphatic rejection shown by slamming doors." },
+        { "distractor": "offense", "closeness": 3, "reasoning": "Close -- 'offense' describes feeling hurt or insulted, which fits his dramatic reaction, but emphasizes the hurt component rather than the indignant anger and refusal that characterize dudgeon." },
+        { "distractor": "displeasure", "closeness": 2, "reasoning": "Incorrect -- 'displeasure' is mild disapproval, but his slamming door and refusal to answer suggest much stronger emotion than mere displeasure." },
+        { "distractor": "umbrage", "closeness": 2, "reasoning": "Incorrect -- 'umbrage' is offense taken at something, but it is more passive; his behavior shows active, forceful anger rather than silent offense-taking." },
+        { "distractor": "annoyance", "closeness": 2, "reasoning": "Incorrect -- 'annoyance' is mild irritation, but his dramatic actions—slamming doors and refusing communication—indicate far stronger emotion." },
+        { "distractor": "frustration", "closeness": 2, "reasoning": "Incorrect -- 'frustration' results from being thwarted or unable to do something, but the sentence focuses on angry departure rather than blocked goals." },
+        { "distractor": "pleasure", "closeness": 1, "reasoning": "Opposite -- 'pleasure' means satisfaction or enjoyment; opposite to storming out and refusing calls." },
+        { "distractor": "contentment", "closeness": 1, "reasoning": "Opposite -- 'contentment' means satisfaction and peace; wrong for someone displaying angry rejection." },
+        { "distractor": "calm", "closeness": 1, "reasoning": "Opposite -- 'calm' means peaceful and composed; the opposite of slamming doors and refusing communication." }
+      ]
+    },
+    {
+      "sentence": "The celebrity took umbrage at the review, but the critic remained in high dudgeon about the actor's public attacks on her professional integrity.",
+      "answerChoices": [
+        { "distractor": "fury", "closeness": 3, "reasoning": "Close -- 'fury' is intense rage, which fits the critic's strong reaction to attacks, but emphasizes wild, uncontrolled anger rather than the dignified, righteous indignation of dudgeon." },
+        { "distractor": "wrath", "closeness": 3, "reasoning": "Close -- 'wrath' is intense anger, which fits resentment at attacks on integrity, but has a more formal, almost wrathful quality than the specific sense of offended dignity." },
+        { "distractor": "outrage", "closeness": 3, "reasoning": "Close -- 'outrage' is extreme anger at something considered grossly offensive, which fits her response to attacks, but emphasizes shocked offense rather than sustained resentment and indignation." },
+        { "distractor": "affront", "closeness": 3, "reasoning": "Close -- 'affront' is a deliberate insult or offense, which describes the actor's attacks, but refers to the offense itself rather than the critic's emotional state of affronted dignity." },
+        { "distractor": "bitterness", "closeness": 2, "reasoning": "Incorrect -- 'bitterness' is resentment that festers, but suggests a more passive, resigned emotion than the indignant firmness of dudgeon." },
+        { "distractor": "hostility", "closeness": 2, "reasoning": "Incorrect -- 'hostility' is open antagonism, but suggests active opposition rather than the feeling of being affronted and standing on wounded dignity." },
+        { "distractor": "animosity", "closeness": 2, "reasoning": "Incorrect -- 'animosity' is deep-seated hatred, but is more cold and lasting than the specific sense of righteous indignation at an offense." },
+        { "distractor": "resentment", "closeness": 2, "reasoning": "Incorrect -- 'resentment' is bitter displeasure, but the sentence emphasizes the critic's dignified stance rather than festering bitterness." },
+        { "distractor": "forgiveness", "closeness": 1, "reasoning": "Opposite -- 'forgiveness' means ceasing to feel anger at an offense; opposite to remaining in dudgeon." },
+        { "distractor": "reconciliation", "closeness": 1, "reasoning": "Opposite -- 'reconciliation' means resolving conflict and restoring harmony; wrong for a critic standing firm in affronted dignity." },
+        { "distractor": "appeasement", "closeness": 1, "reasoning": "Opposite -- 'appeasement' means pacifying or making concessions; opposite to holding firm in dudgeon about attacks on integrity." }
+      ]
+    },
+    {
+      "sentence": "Though invited to the ceremony as an honored guest, she arrived in such obvious dudgeon that her scowling presence dampened the festive mood.",
+      "answerChoices": [
+        { "distractor": "sullenness", "closeness": 3, "reasoning": "Close -- 'sullenness' is moody irritability and resentment, which fits the scowling and dampened mood, but emphasizes withdrawn moodiness rather than the indignant, affronted bearing of dudgeon." },
+        { "distractor": "petulance", "closeness": 3, "reasoning": "Close -- 'petulance' is childish sulkiness, which fits visible displeasure, but suggests pouting rather than the dignified anger and offense that characterize dudgeon." },
+        { "distractor": "peevishness", "closeness": 3, "reasoning": "Close -- 'peevishness' is irritable complaining, which fits her visible mood, but emphasizes querulous complaint rather than grave offense and indignation." },
+        { "distractor": "sourness", "closeness": 3, "reasoning": "Close -- 'sourness' is bad temper and gloominess, which fits dampening a festive mood, but emphasizes bitter mood rather than the specifically affronted indignation of dudgeon." },
+        { "distractor": "moodiness", "closeness": 2, "reasoning": "Incorrect -- 'moodiness' is changeable emotional state, but does not convey the sense of sustained, dignified offense and resentment." },
+        { "distractor": "gloominess", "closeness": 2, "reasoning": "Incorrect -- 'gloominess' is sadness or darkness of mood, but does not address the sense of offended indignation." },
+        { "distractor": "irritability", "closeness": 2, "reasoning": "Incorrect -- 'irritability' is a tendency to be easily annoyed, but is more general and does not convey the specific sense of affronted dignity." },
+        { "distractor": "aloofness", "closeness": 2, "reasoning": "Incorrect -- 'aloofness' is distant detachment, but does not convey the active emotion and visible offense of scowling in dudgeon." },
+        { "distractor": "cheerfulness", "closeness": 1, "reasoning": "Opposite -- 'cheerfulness' is a happy, bright mood; opposite to scowling and dampening a festive atmosphere." },
+        { "distractor": "graciousness", "closeness": 1, "reasoning": "Opposite -- 'graciousness' is courteous kindness; wrong for someone whose presence dampens the mood at a ceremony." },
+        { "distractor": "delight", "closeness": 1, "reasoning": "Opposite -- 'delight' means joy or pleasure; opposite to arriving in dudgeon and scowling." }
+      ]
+    }
+  ]
+}

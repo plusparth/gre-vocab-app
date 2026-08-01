@@ -1,0 +1,53 @@
+{
+  "word": "libel",
+  "sentenceSets": [
+    {
+      "sentence": "The magazine faced a lawsuit after publishing what the actor claimed was a libel accusing him of financial fraud without substantiation.",
+      "answerChoices": [
+        { "distractor": "defamation", "closeness": 3, "reasoning": "Close but incorrect -- 'defamation' is the general legal concept of damaging someone's reputation through false statements, which includes both libel (written) and slander (spoken), but is broader than libel specifically." },
+        { "distractor": "slander", "closeness": 3, "reasoning": "Close -- 'slander' is false spoken statement damaging reputation, which is the oral equivalent of libel, but differs in that it is spoken rather than published." },
+        { "distractor": "calumny", "closeness": 3, "reasoning": "Close -- 'calumny' is deliberate false accusation or misrepresentation, which damages reputation like libel, but is more general and doesn't specifically require publication." },
+        { "distractor": "falsehood", "closeness": 3, "reasoning": "Close -- 'falsehood' is a false statement, which the libel is, but doesn't specifically indicate the legal concept of damaging published false statements." },
+        { "distractor": "lie", "closeness": 2, "reasoning": "Incorrect -- a 'lie' is simply a false statement, but doesn't carry the legal significance of damaging reputation or the requirement of publication." },
+        { "distractor": "accusation", "closeness": 2, "reasoning": "Incorrect -- an 'accusation' is a claim that someone has done something wrong, but doesn't necessarily involve false or damaging statements." },
+        { "distractor": "charge", "closeness": 2, "reasoning": "Incorrect -- a 'charge' is a formal allegation, but doesn't specifically involve false published statements damaging reputation." },
+        { "distractor": "rumor", "closeness": 2, "reasoning": "Incorrect -- a 'rumor' is unverified information, but doesn't specifically involve published false statements damaging reputation." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Opposite -- 'praise' is favorable comment, opposite to damaging published statements about someone." },
+        { "distractor": "commendation", "closeness": 1, "reasoning": "Opposite -- 'commendation' is expressing approval, opposite to the damaging accusations of libel." },
+        { "distractor": "compliment", "closeness": 1, "reasoning": "Opposite -- a 'compliment' is a favorable comment, opposite to the damaging false accusations of libel." }
+      ]
+    },
+    {
+      "sentence": "The newspaper's libel about the mayor's corruption was later retracted after an investigation failed to substantiate any of the claims.",
+      "answerChoices": [
+        { "distractor": "criticism", "closeness": 3, "reasoning": "Close but incorrect -- 'criticism' is negative judgment or comment, but doesn't necessarily involve false damaging statements requiring legal retraction." },
+        { "distractor": "exposé", "closeness": 3, "reasoning": "Close -- an 'exposé' is a revelation of something discreditable, which could damage reputation, but emphasizes truth-telling rather than false statements." },
+        { "distractor": "indictment", "closeness": 3, "reasoning": "Close -- an 'indictment' is a formal accusation, but is a legal document rather than a published false statement damaging reputation." },
+        { "distractor": "denunciation", "closeness": 3, "reasoning": "Close -- 'denunciation' is public condemnation, which could damage reputation, but doesn't specifically require false publication." },
+        { "distractor": "smear", "closeness": 2, "reasoning": "Incorrect -- a 'smear' is a damaging attack on reputation, but is a broader term not limited to published false statements." },
+        { "distractor": "attack", "closeness": 2, "reasoning": "Incorrect -- an 'attack' is aggressive criticism, but doesn't specifically involve published false statements damaging reputation." },
+        { "distractor": "slur", "closeness": 2, "reasoning": "Incorrect -- a 'slur' is a damaging or insulting remark, but doesn't specifically require publication or falsity." },
+        { "distractor": "insult", "closeness": 2, "reasoning": "Incorrect -- an 'insult' is a remark expressing disrespect, but doesn't necessarily involve false published statements." },
+        { "distractor": "endorsement", "closeness": 1, "reasoning": "Opposite -- an 'endorsement' is a statement of approval, opposite to damaging published false statements." },
+        { "distractor": "approval", "closeness": 1, "reasoning": "Opposite -- 'approval' is favorable judgment, opposite to damaging published accusations of wrongdoing." },
+        { "distractor": "validation", "closeness": 1, "reasoning": "Opposite -- 'validation' is confirmation or endorsement, opposite to the damaging false accusations of libel." }
+      ]
+    },
+    {
+      "sentence": "The blogger risked a libel suit by publishing unfounded allegations about a celebrity's personal life on her platform.",
+      "answerChoices": [
+        { "distractor": "gossip", "closeness": 3, "reasoning": "Close but incorrect -- 'gossip' is informal talk about people, which could be damaging, but doesn't carry the legal weight of libel or necessarily require publication in formal media." },
+        { "distractor": "hearsay", "closeness": 3, "reasoning": "Close -- 'hearsay' is information from someone else, which could be false and damaging, but emphasizes the origin of information rather than the formal legal publication of false statements." },
+        { "distractor": "innuendo", "closeness": 3, "reasoning": "Close -- 'innuendo' is an indirect hint or suggestion, which can be damaging, but is subtler than the direct false accusations required for legal libel." },
+        { "distractor": "speculation", "closeness": 3, "reasoning": "Close -- 'speculation' is conjecture or guessing, which could harm reputation, but doesn't involve the firm false statements characteristic of libel." },
+        { "distractor": "revelation", "closeness": 2, "reasoning": "Incorrect -- a 'revelation' is disclosure of information, which could be damaging, but emphasizes revealing truth rather than publishing false statements." },
+        { "distractor": "disclosure", "closeness": 2, "reasoning": "Incorrect -- 'disclosure' is the act of revealing information, but doesn't specifically involve false published statements." },
+        { "distractor": "commentary", "closeness": 2, "reasoning": "Incorrect -- 'commentary' is explanation or discussion, but doesn't necessarily involve false damaging statements." },
+        { "distractor": "observation", "closeness": 2, "reasoning": "Incorrect -- an 'observation' is a remark or comment, but doesn't specifically involve false published statements damaging reputation." },
+        { "distractor": "tribute", "closeness": 1, "reasoning": "Opposite -- a 'tribute' is an expression of respect or admiration, opposite to damaging false published accusations." },
+        { "distractor": "flattery", "closeness": 1, "reasoning": "Opposite -- 'flattery' is excessive praise, opposite to damaging false statements about someone." },
+        { "distractor": "adulation", "closeness": 1, "reasoning": "Opposite -- 'adulation' is extreme admiration, opposite to the damaging accusations of libel." }
+      ]
+    }
+  ]
+}

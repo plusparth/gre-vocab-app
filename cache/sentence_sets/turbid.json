@@ -1,0 +1,53 @@
+{
+  "word": "turbid",
+  "sentenceSets": [
+    {
+      "sentence": "The turbid complexity of the documentation was either a feature or a bug, depending on one's theory of what had motivated its preparation.",
+      "answerChoices": [
+        { "distractor": "opaque", "closeness": 3, "reasoning": "Opaque (not transparent or clear) is similar but focuses on impermeability rather than the roiled, muddied quality the sentence associates with intentional obfuscation." },
+        { "distractor": "convoluted", "closeness": 3, "reasoning": "Convoluted (complex and hard to follow) shares difficulty in understanding but emphasizes intricacy rather than the muddied confusion." },
+        { "distractor": "impenetrable", "closeness": 3, "reasoning": "Impenetrable (impossible to understand or enter) is close but suggests complete blockage rather than the muddied, unclear quality." },
+        { "distractor": "obscure", "closeness": 3, "reasoning": "Obscure (not clearly expressed or easily understood) is similar but does not convey the image of roiled sediment that turbid evokes." },
+        { "distractor": "dense", "closeness": 2, "reasoning": "Dense (tightly compacted or difficult to penetrate) emphasizes thickness but misses the muddied, unclear quality." },
+        { "distractor": "cryptic", "closeness": 2, "reasoning": "Cryptic (mysterious and difficult to understand) involves obscurity but suggests intentional coding rather than muddied confusion." },
+        { "distractor": "arcane", "closeness": 2, "reasoning": "Arcane (understood by few people) involves obscurity but emphasizes specialized knowledge rather than muddied confusion." },
+        { "distractor": "clear", "closeness": 1, "reasoning": "Clear (easy to understand or see through) is the opposite of turbid muddiness." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "Transparent (allowing light to pass through) is opposite to the roiled opacity." },
+        { "distractor": "pellucid", "closeness": 1, "reasoning": "Pellucid (clearly expressed and easily understood) is the opposite of turbid confusion." },
+        { "distractor": "lucid", "closeness": 1, "reasoning": "Lucid (clear and easy to understand) opposes the muddied quality." }
+      ]
+    },
+    {
+      "sentence": "The river's turbid appearance after the heavy rains prevented swimmers from seeing the bottom, creating an uneasy sense of hidden danger.",
+      "answerChoices": [
+        { "distractor": "murky", "closeness": 3, "reasoning": "Murky (dark and gloomy or unclear) is very close to turbid but emphasizes darkness more than the roiled sediment." },
+        { "distractor": "cloudy", "closeness": 3, "reasoning": "Cloudy (filled with or darkened by clouds) shares haziness but is less specific to water roiled with sediment." },
+        { "distractor": "muddy", "closeness": 3, "reasoning": "Muddy (covered with or resembling mud) overlaps with turbid but emphasizes the mud more than the roiling sediment." },
+        { "distractor": "opaque", "closeness": 3, "reasoning": "Opaque (not allowing light to pass through) captures lack of visibility but misses the sense of movement and disturbance." },
+        { "distractor": "discolored", "closeness": 2, "reasoning": "Discolored (changed in color) involves altered appearance but not necessarily the roiled quality." },
+        { "distractor": "dark", "closeness": 2, "reasoning": "Dark (lacking light) describes low visibility but not the turbidity from sediment." },
+        { "distractor": "brackish", "closeness": 2, "reasoning": "Brackish (slightly salty, or discolored) may result from roiling but does not describe the turbidity itself." },
+        { "distractor": "crystalline", "closeness": 1, "reasoning": "Crystalline (clear and transparent) is opposite to the muddied, roiled appearance." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "Transparent (allowing clear sight through) is contrary to the obscured visibility." },
+        { "distractor": "limpid", "closeness": 1, "reasoning": "Limpid (clear and still) is opposite to the roiled, turbulent quality." },
+        { "distractor": "pellucid", "closeness": 1, "reasoning": "Pellucid (translucently clear) is the opposite of turbid muddiness." }
+      ]
+    },
+    {
+      "sentence": "The witness's account was rendered turbid by contradictions, half-remembered details, and emotional reaction, making it difficult to extract a coherent narrative.",
+      "answerChoices": [
+        { "distractor": "incoherent", "closeness": 3, "reasoning": "Incoherent (not logical or clearly expressed) overlaps but emphasizes lack of logical connection rather than the roiled, muddied quality from mixed sediment." },
+        { "distractor": "unreliable", "closeness": 3, "reasoning": "Unreliable (not able to be trusted) is close but focuses on trustworthiness rather than the muddied, unclear quality." },
+        { "distractor": "ambiguous", "closeness": 3, "reasoning": "Ambiguous (open to more than one interpretation) involves unclear meaning but not the roiled, sediment-like confusion." },
+        { "distractor": "garbled", "closeness": 3, "reasoning": "Garbled (confused or distorted beyond recognition) emphasizes distortion but misses the sense of roiled, muddied sediment." },
+        { "distractor": "confused", "closeness": 2, "reasoning": "Confused (bewildered and lacking clarity) is related but less specific to the image of muddied sediment." },
+        { "distractor": "contradictory", "closeness": 2, "reasoning": "Contradictory (mutually opposed) emphasizes logical opposition but not the muddied quality." },
+        { "distractor": "vague", "closeness": 2, "reasoning": "Vague (not clearly expressed) involves imprecision but not the roiled confusion." },
+        { "distractor": "lucid", "closeness": 1, "reasoning": "Lucid (clear and coherent) is opposite to the muddied, roiled nature." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "Transparent (clearly expressed) opposes the obscuring quality of turbidity." },
+        { "distractor": "articulate", "closeness": 1, "reasoning": "Articulate (clearly expressed) is the opposite of muddied confusion." },
+        { "distractor": "precise", "closeness": 1, "reasoning": "Precise (exact and accurate) is opposite to the roiled imprecision." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "word": "analgesic",
+  "sentenceSets": [
+    {
+      "sentence": "The doctor prescribed a mild analgesic to manage the patient's discomfort after the procedure.",
+      "answerChoices": [
+        {
+          "distractor": "stimulant",
+          "closeness": 3,
+          "reasoning": "A stimulant increases alertness and energy; the doctor prescribed something to manage discomfort, not to stimulate or energize."
+        },
+        {
+          "distractor": "sedative",
+          "closeness": 3,
+          "reasoning": "A sedative induces calm or sleep; while it might ease discomfort, the purpose here is to reduce pain sensation, not induce sedation."
+        },
+        {
+          "distractor": "antibiotic",
+          "closeness": 3,
+          "reasoning": "An antibiotic fights bacterial infection; the prescription is to manage discomfort, not to treat infection."
+        },
+        {
+          "distractor": "laxative",
+          "closeness": 3,
+          "reasoning": "A laxative promotes bowel movements; the purpose is to manage pain-related discomfort, not digestive function."
+        },
+        {
+          "distractor": "antihistamine",
+          "closeness": 2,
+          "reasoning": "An antihistamine treats allergic reactions; the prescription is for managing pain and discomfort, not allergies."
+        },
+        {
+          "distractor": "antacid",
+          "closeness": 2,
+          "reasoning": "An antacid neutralizes stomach acid; managing post-procedure discomfort involves pain relief, not acid neutralization."
+        },
+        {
+          "distractor": "bronchodilator",
+          "closeness": 2,
+          "reasoning": "A bronchodilator opens airways; the prescription is to manage pain-related discomfort, not respiratory issues."
+        },
+        {
+          "distractor": "stimulant",
+          "closeness": 2,
+          "reasoning": "A stimulant increases activity; prescribed pain management contradicts stimulation, which would heighten sensation."
+        },
+        {
+          "distractor": "emetic",
+          "closeness": 1,
+          "reasoning": "An emetic induces vomiting; managing discomfort involves pain relief, not triggering vomiting."
+        },
+        {
+          "distractor": "diuretic",
+          "closeness": 1,
+          "reasoning": "A diuretic increases urine output; managing post-procedure discomfort involves pain relief, not fluid management."
+        },
+        {
+          "distractor": "vasoconstrictor",
+          "closeness": 1,
+          "reasoning": "A vasoconstrictor narrows blood vessels; managing discomfort with pain relief is different from controlling blood vessel diameter."
+        }
+      ]
+    },
+    {
+      "sentence": "Athletes often take an analgesic before intense training sessions to minimize pain from muscle soreness and inflammation.",
+      "answerChoices": [
+        {
+          "distractor": "steroid",
+          "closeness": 3,
+          "reasoning": "Steroids enhance muscle growth and performance; while both may be taken by athletes, an analgesic specifically reduces pain sensation."
+        },
+        {
+          "distractor": "vitamin",
+          "closeness": 3,
+          "reasoning": "Vitamins provide nutritional supplementation; the purpose of the substance is to reduce pain, not provide nutrients."
+        },
+        {
+          "distractor": "stimulant",
+          "closeness": 3,
+          "reasoning": "A stimulant increases alertness and energy; the purpose is to manage pain, not to energize."
+        },
+        {
+          "distractor": "protein supplement",
+          "closeness": 3,
+          "reasoning": "A protein supplement aids muscle recovery through nutrition; the purpose here is to reduce pain sensation, not to build muscle."
+        },
+        {
+          "distractor": "anti-inflammatory",
+          "closeness": 2,
+          "reasoning": "An anti-inflammatory reduces inflammation; while some analgesics are anti-inflammatory, 'analgesic' specifically emphasizes pain reduction."
+        },
+        {
+          "distractor": "muscle relaxant",
+          "closeness": 2,
+          "reasoning": "A muscle relaxant reduces muscle tension; while this might help soreness, the specific purpose is reducing pain sensation, not muscle relaxation."
+        },
+        {
+          "distractor": "prophylactic",
+          "closeness": 2,
+          "reasoning": "A prophylactic prevents disease; while athletes might take preventive measures, 'analgesic' specifies pain management, not disease prevention."
+        },
+        {
+          "distractor": "performance enhancer",
+          "closeness": 2,
+          "reasoning": "A performance enhancer improves athletic output; taking pain relief minimizes sensation, not enhancing performance capability."
+        },
+        {
+          "distractor": "decongestant",
+          "closeness": 1,
+          "reasoning": "A decongestant clears nasal passages; athletes taking pain management suggests pain relief, not respiratory support."
+        },
+        {
+          "distractor": "energizer",
+          "closeness": 1,
+          "reasoning": "An energizer boosts vitality; taking something to minimize pain is different from something meant to energize."
+        },
+        {
+          "distractor": "hallucinogen",
+          "closeness": 1,
+          "reasoning": "A hallucinogen alters perception and consciousness; an analgesic reduces pain sensation without altering consciousness or hallucinations."
+        }
+      ]
+    },
+    {
+      "sentence": "The hospital established a protocol requiring nurses to offer an analgesic to all patients upon admission, prioritizing pain management.",
+      "answerChoices": [
+        {
+          "distractor": "anesthetic",
+          "closeness": 3,
+          "reasoning": "An anesthetic produces loss of sensation, often for surgery; an analgesic reduces pain while maintaining consciousness\u2014different purposes."
+        },
+        {
+          "distractor": "stimulant",
+          "closeness": 3,
+          "reasoning": "A stimulant increases alertness; the protocol prioritizes pain management, not stimulation or alertness."
+        },
+        {
+          "distractor": "tranquilizer",
+          "closeness": 3,
+          "reasoning": "A tranquilizer calms anxiety; while related to comfort, the focus is specifically on pain relief for all patients."
+        },
+        {
+          "distractor": "laxative",
+          "closeness": 3,
+          "reasoning": "A laxative treats constipation; the protocol prioritizes pain management upon admission, not digestive support."
+        },
+        {
+          "distractor": "sedative",
+          "closeness": 2,
+          "reasoning": "A sedative induces sleep or calm; while sedation might ease discomfort, the protocol specifically prioritizes pain management."
+        },
+        {
+          "distractor": "antibiotic",
+          "closeness": 2,
+          "reasoning": "An antibiotic treats infection; the protocol aims to manage pain, not necessarily treat infection."
+        },
+        {
+          "distractor": "vaccine",
+          "closeness": 2,
+          "reasoning": "A vaccine prevents disease; the hospital protocol prioritizes immediate pain management upon admission, not disease prevention."
+        },
+        {
+          "distractor": "poison",
+          "closeness": 2,
+          "reasoning": "A poison causes harm; prioritizing pain management for patients contradicts offering poison."
+        },
+        {
+          "distractor": "placebo",
+          "closeness": 1,
+          "reasoning": "A placebo has no active ingredient; a genuine protocol to manage pain involves actual pain-relieving medication."
+        },
+        {
+          "distractor": "irritant",
+          "closeness": 1,
+          "reasoning": "An irritant causes discomfort; the protocol prioritizes pain management, the opposite of introducing irritants."
+        },
+        {
+          "distractor": "stimulant",
+          "closeness": 1,
+          "reasoning": "A stimulant increases activity; pain management involves reducing sensation, not stimulating nervous system activity."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "word": "standing",
+  "sentenceSets": [
+    {
+      "sentence": "The standing wheat swayed in the wind before harvest.",
+      "answerChoices": [
+        {
+          "distractor": "upright",
+          "closeness": 3,
+          "reasoning": "Upright means vertical or erect, but the sentence indicates grain *not yet cut*, not merely upright position."
+        },
+        {
+          "distractor": "uncut",
+          "closeness": 3,
+          "reasoning": "Uncut means not yet divided or severed, very close to standing, but standing emphasizes the grain still in the field."
+        },
+        {
+          "distractor": "unharvested",
+          "closeness": 3,
+          "reasoning": "Unharvested means not yet gathered, very close, but standing indicates the grain is still growing in the field."
+        },
+        {
+          "distractor": "erect",
+          "closeness": 3,
+          "reasoning": "Erect means upright or vertical, but the sentence indicates grain *not yet cut*, not position."
+        },
+        {
+          "distractor": "vertical",
+          "closeness": 2,
+          "reasoning": "Vertical means in an up-down direction, but the sentence indicates the grain's state, not orientation."
+        },
+        {
+          "distractor": "mature",
+          "closeness": 2,
+          "reasoning": "Mature means fully grown, but the sentence indicates the grain is *still in the field*, not necessarily mature."
+        },
+        {
+          "distractor": "intact",
+          "closeness": 2,
+          "reasoning": "Intact means unbroken or complete, but the sentence indicates grain in the field before harvest, not general intactness."
+        },
+        {
+          "distractor": "growing",
+          "closeness": 2,
+          "reasoning": "Growing means increasing in size, but standing wheat may not still be actively growing as harvest approaches."
+        },
+        {
+          "distractor": "harvested",
+          "closeness": 1,
+          "reasoning": "Harvested means gathered and cut; the opposite of standing wheat before harvest."
+        },
+        {
+          "distractor": "cut",
+          "closeness": 1,
+          "reasoning": "Cut means severed or divided; the opposite of standing grain still in the field."
+        },
+        {
+          "distractor": "fallen",
+          "closeness": 1,
+          "reasoning": "Fallen means knocked down; the opposite of standing wheat swaying upright."
+        }
+      ]
+    },
+    {
+      "sentence": "Standing weeds overtook the garden after the homeowner moved away.",
+      "answerChoices": [
+        {
+          "distractor": "overgrown",
+          "closeness": 3,
+          "reasoning": "Overgrown means covered with excess growth, but the sentence indicates *uncut weeds* rather than the result of excess growth."
+        },
+        {
+          "distractor": "wild",
+          "closeness": 3,
+          "reasoning": "Wild means growing uncultivated, but the sentence indicates weeds that are *not yet cut*, not wild growth."
+        },
+        {
+          "distractor": "unwanted",
+          "closeness": 3,
+          "reasoning": "Unwanted means not desired, but the sentence indicates weeds that are *not yet removed*, not merely unwanted."
+        },
+        {
+          "distractor": "tall",
+          "closeness": 3,
+          "reasoning": "Tall means of great height, but standing weeds are still rooted in the ground, not merely tall."
+        },
+        {
+          "distractor": "unchecked",
+          "closeness": 2,
+          "reasoning": "Unchecked means not controlled or stopped, but the sentence indicates weeds that are *standing*, not merely unchecked."
+        },
+        {
+          "distractor": "neglected",
+          "closeness": 2,
+          "reasoning": "Neglected means not cared for, but the sentence indicates the *state of the weeds*, not neglect of care."
+        },
+        {
+          "distractor": "perennial",
+          "closeness": 2,
+          "reasoning": "Perennial means lasting multiple years, but standing refers to the current state, not the type of weed."
+        },
+        {
+          "distractor": "rampant",
+          "closeness": 2,
+          "reasoning": "Rampant means flourishing or unchecked, but the sentence indicates weeds that are *standing*, not flourishing."
+        },
+        {
+          "distractor": "cleared",
+          "closeness": 1,
+          "reasoning": "Cleared means removed or cleaned; the opposite of standing weeds overtaking the garden."
+        },
+        {
+          "distractor": "removed",
+          "closeness": 1,
+          "reasoning": "Removed means taken away; the opposite of weeds standing in the neglected garden."
+        },
+        {
+          "distractor": "controlled",
+          "closeness": 1,
+          "reasoning": "Controlled means managed or kept in check; the opposite of standing weeds that overtook the garden."
+        }
+      ]
+    },
+    {
+      "sentence": "The standing timber in the protected forest was estimated to be centuries old.",
+      "answerChoices": [
+        {
+          "distractor": "tall",
+          "closeness": 3,
+          "reasoning": "Tall means of great height, but standing timber refers to trees *not yet cut*, not their height."
+        },
+        {
+          "distractor": "uncut",
+          "closeness": 3,
+          "reasoning": "Uncut means not yet divided or severed, very close to standing, but standing indicates trees still rooted in forest."
+        },
+        {
+          "distractor": "living",
+          "closeness": 3,
+          "reasoning": "Living means alive, but standing timber indicates trees *still growing in their place*, not merely alive."
+        },
+        {
+          "distractor": "mature",
+          "closeness": 3,
+          "reasoning": "Mature means fully grown, but standing indicates trees *not yet harvested*, not merely grown."
+        },
+        {
+          "distractor": "ancient",
+          "closeness": 2,
+          "reasoning": "Ancient means very old, but the sentence uses centuries old as the measure, not ancient as a descriptor."
+        },
+        {
+          "distractor": "pristine",
+          "closeness": 2,
+          "reasoning": "Pristine means pure and unspoiled, but the sentence indicates timber *not yet harvested*, not pristine condition."
+        },
+        {
+          "distractor": "intact",
+          "closeness": 2,
+          "reasoning": "Intact means unbroken or complete, but the sentence indicates timber *still in the forest*, not general integrity."
+        },
+        {
+          "distractor": "protected",
+          "closeness": 2,
+          "reasoning": "Protected means kept safe from harm, but the sentence uses 'protected forest' as context, not to describe the timber."
+        },
+        {
+          "distractor": "harvested",
+          "closeness": 1,
+          "reasoning": "Harvested means gathered or cut; the opposite of standing timber still in the forest."
+        },
+        {
+          "distractor": "felled",
+          "closeness": 1,
+          "reasoning": "Felled means cut down; the opposite of standing trees in a protected forest."
+        },
+        {
+          "distractor": "processed",
+          "closeness": 1,
+          "reasoning": "Processed means converted for use; the opposite of standing timber in its natural state in the forest."
+        }
+      ]
+    }
+  ]
+}

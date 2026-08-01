@@ -1,0 +1,53 @@
+{
+  "word": "pied",
+  "sentenceSets": [
+    {
+      "sentence": "The pied magpie's black and white feathers made it one of the most recognizable birds in the region.",
+      "answerChoices": [
+        { "distractor": "bicolored", "closeness": 3, "reasoning": "Though bicolored means two colors, magpies display more than two shades including gray, suggesting the plumage is more complex than a simple two-color pattern." },
+        { "distractor": "particolored", "closeness": 3, "reasoning": "Though particolored means having different colors, it typically refers to items sewn from different-colored pieces rather than a naturally occurring plumage pattern." },
+        { "distractor": "variegated", "closeness": 3, "reasoning": "Though variegated means having different colors, the sentence emphasizes the bold, clearly defined contrast rather than a subtle variety of different hues." },
+        { "distractor": "motley", "closeness": 3, "reasoning": "While motley means mixed colors, it typically suggests a haphazard or confused assortment rather than the organized and distinctive pattern that the magpie's plumage displays." },
+        { "distractor": "patterned", "closeness": 2, "reasoning": "While patterned indicates a design or arrangement, the sentence specifically emphasizes the colors themselves rather than an abstract pattern." },
+        { "distractor": "colorful", "closeness": 2, "reasoning": "Though colorful suggests multiple colors, the sentence emphasizes the specific contrast of black and white rather than bright or varied colors." },
+        { "distractor": "iridescent", "closeness": 2, "reasoning": "While iridescent refers to colors that shift with viewing angle, the sentence describes a static black and white coloring that does not change." },
+        { "distractor": "dotted", "closeness": 2, "reasoning": "Though dotted indicates scattered marks, the sentence shows large continuous patches of black and white rather than small scattered dots." },
+        { "distractor": "achromatic", "closeness": 1, "reasoning": "While achromatic technically describes colorless or black and white, the sentence emphasizes the visual distinctness and recognizability of the bird's colors." },
+        { "distractor": "unadorned", "closeness": 1, "reasoning": "The sentence describes the bird as recognizable specifically because of its marked coloring, opposite to plain or unadorned appearance." },
+        { "distractor": "one-colored", "closeness": 1, "reasoning": "The sentence specifically emphasizes two distinct colors in the feathers, opposite to a single uniform color." }
+      ]
+    },
+    {
+      "sentence": "The pied tulips, with their petals displaying bright red and white in patches, were the most prized specimens in the garden.",
+      "answerChoices": [
+        { "distractor": "multi-colored", "closeness": 3, "reasoning": "Though multi-colored means many colors, the sentence specifies exactly two contrasting colors in a particular arrangement rather than multiple varied hues." },
+        { "distractor": "banded", "closeness": 3, "reasoning": "Though banded indicates color stripes or bands in rows, the sentence emphasizes patches—irregular sections—rather than linear bands across the petals." },
+        { "distractor": "blotched", "closeness": 3, "reasoning": "While blotched means having irregular patches of color, the sentence emphasizes the beauty and preciousness of the pattern, suggesting organized appearance rather than messy blotches." },
+        { "distractor": "embroidered", "closeness": 3, "reasoning": "Though embroidered suggests decorative patterning, the sentence refers to the flowers' natural petal coloring rather than applied needlework or decoration." },
+        { "distractor": "vibrant", "closeness": 2, "reasoning": "Though vibrant suggests bright colors, the sentence emphasizes the specific color pattern and contrast rather than the intensity of the brightness." },
+        { "distractor": "showy", "closeness": 2, "reasoning": "While showy means striking in appearance, the sentence focuses on the specific color arrangement in patches rather than general showiness or display." },
+        { "distractor": "decorative", "closeness": 2, "reasoning": "Though decorative suggests ornamental quality, the sentence refers to the natural appearance of the flowers rather than applied decoration." },
+        { "distractor": "vivacious", "closeness": 2, "reasoning": "Though vivacious can suggest lively appearance, the sentence emphasizes the color pattern and arrangement rather than liveliness or energy." },
+        { "distractor": "monochrome", "closeness": 1, "reasoning": "The sentence shows red and white coloring displayed in patches, directly opposite to a single uniform color." },
+        { "distractor": "dull", "closeness": 1, "reasoning": "The sentence describes prized specimens with bright red and white coloring, opposite to dull or muted tones." },
+        { "distractor": "somber", "closeness": 1, "reasoning": "The sentence emphasizes bright red and white coloring, opposite to dark, gloomy, or serious-toned colors." }
+      ]
+    },
+    {
+      "sentence": "Her pied cloak, sewn from scraps of different-colored wool, had been mended so many times that almost no original cloth remained.",
+      "answerChoices": [
+        { "distractor": "checkered", "closeness": 3, "reasoning": "Though checkered indicates multiple colors in a pattern, the sentence describes random scraps sewn together rather than the regular, symmetrical pattern that checkered implies." },
+        { "distractor": "patchwork", "closeness": 3, "reasoning": "While patchwork means made from patches, the sentence adds that the cloak is multicolored and heavily mended, suggesting more complexity than simply being patchwork." },
+        { "distractor": "streaked", "closeness": 3, "reasoning": "Though streaked suggests color marks or stains, the sentence describes deliberately sewn pieces of different-colored wool rather than streaks or stains." },
+        { "distractor": "rickety", "closeness": 3, "reasoning": "Though rickety suggests wear and structural weakness, the sentence focuses on the multicolored composition from scraps rather than on deterioration or fragility." },
+        { "distractor": "pieced", "closeness": 2, "reasoning": "While pieced means made from pieces, the sentence specifies both the multicolored nature and the extensive mending rather than just assembly from pieces." },
+        { "distractor": "woven", "closeness": 2, "reasoning": "Though woven indicates a method of cloth construction, the sentence specifies that the cloak is sewn from scraps rather than woven together." },
+        { "distractor": "frayed", "closeness": 2, "reasoning": "While frayed suggests worn edges or unraveling, the sentence emphasizes the multicolored scraps and mending rather than edge wear." },
+        { "distractor": "dilapidated", "closeness": 2, "reasoning": "Though dilapidated means broken down or deteriorated, the sentence focuses on the multicolored composition and mending rather than deterioration." },
+        { "distractor": "whole", "closeness": 1, "reasoning": "The sentence describes a cloak made from scraps and mended many times, opposite to an intact or complete garment." },
+        { "distractor": "intact", "closeness": 1, "reasoning": "The sentence emphasizes that the cloak has been mended repeatedly, indicating it is not intact or unchanged." },
+        { "distractor": "pristine", "closeness": 1, "reasoning": "The sentence describes an aged garment made from scraps and heavily mended, opposite to perfect or unmarked condition." }
+      ]
+    }
+  ]
+}

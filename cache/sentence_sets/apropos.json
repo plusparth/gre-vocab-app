@@ -4,49 +4,181 @@
     {
       "sentence": "Apropos of nothing, he suddenly announced he would be leaving the company at the end of the month.",
       "answerChoices": [
-        { "distractor": "pertinent", "closeness": 3, "reasoning": "The phrase 'of nothing' signals the remark had no connection to any prior topic, but 'pertinent' is an adjective that cannot grammatically complete the phrase 'pertinent of nothing' the way 'apropos of nothing' does as a set phrase." },
-        { "distractor": "regardless", "closeness": 3, "reasoning": "The sentence shows a spontaneous announcement disconnected from context, and 'regardless of nothing' sounds similar in structure, but 'regardless' signals indifference to obstacles rather than lack of contextual relevance." },
-        { "distractor": "heedless", "closeness": 3, "reasoning": "The abrupt, unexpected nature of the announcement could suggest inattentiveness, making 'heedless' tempting, but 'heedless of nothing' is not an idiomatic phrase and the sentence shows no sign of careless disregard for others." },
-        { "distractor": "irrespective", "closeness": 3, "reasoning": "'Irrespective of nothing' mimics the structure superficially, but 'irrespective' means without regard to conditions, not without connection to what was being discussed." },
-        { "distractor": "suddenly", "closeness": 2, "reasoning": "The word 'suddenly' already appears in the sentence as a separate adverb, so substituting it for 'apropos' would be redundant and alter the grammatical role being filled at the start of the sentence." },
-        { "distractor": "incidentally", "closeness": 2, "reasoning": "'Incidentally of nothing' is not grammatical; 'incidentally' introduces a tangential remark but not one that is pointedly disconnected from all prior context." },
-        { "distractor": "coincidentally", "closeness": 2, "reasoning": "'Coincidentally of nothing' is not idiomatic and 'coincidentally' implies a chance connection to something, whereas the sentence explicitly marks the announcement as having no connection at all." },
-        { "distractor": "inexplicably", "closeness": 2, "reasoning": "The announcement does seem unexplained, but 'inexplicably of nothing' is not grammatical, and 'inexplicably' addresses the absence of a reason rather than the absence of conversational context." },
-        { "distractor": "consequently", "closeness": 1, "reasoning": "'Consequently' signals a result following from prior events, the opposite of what the sentence conveys — an announcement arising from nothing prior." },
-        { "distractor": "deliberately", "closeness": 1, "reasoning": "'Deliberately of nothing' is not grammatical, and the word signals intentionality rather than irrelevance to context." },
-        { "distractor": "tersely", "closeness": 1, "reasoning": "'Tersely' describes manner of speaking, not the relationship of an utterance to its conversational context, and cannot grammatically precede 'of nothing'." }
+        {
+          "distractor": "regarding",
+          "closeness": 3,
+          "reasoning": "Both introduce a topic of discussion, but regarding indicates connection to something, while apropos suggests something introduced without clear connection."
+        },
+        {
+          "distractor": "concerning",
+          "closeness": 3,
+          "reasoning": "Both introduce a subject, but concerning implies it's relevant to what was being discussed, while apropos suggests disconnection."
+        },
+        {
+          "distractor": "about",
+          "closeness": 3,
+          "reasoning": "Both introduce a topic, but about suggests it connects to prior discussion, while apropos shows sudden introduction."
+        },
+        {
+          "distractor": "regarding",
+          "closeness": 3,
+          "reasoning": "Both introduce subjects, but regarding suggests relevance to prior discussion, while apropos shows unrelated introduction."
+        },
+        {
+          "distractor": "pertaining",
+          "closeness": 2,
+          "reasoning": "Pertaining shows connection, but apropos of nothing emphasizes lack of prior connection."
+        },
+        {
+          "distractor": "relating",
+          "closeness": 2,
+          "reasoning": "Relating shows connection to something, but apropos of nothing emphasizes being unrelated."
+        },
+        {
+          "distractor": "touching",
+          "closeness": 2,
+          "reasoning": "Touching means concerning or addressing, but apropos of nothing emphasizes sudden disconnection."
+        },
+        {
+          "distractor": "speaking",
+          "closeness": 2,
+          "reasoning": "Speaking of introduces related topics, but apropos of nothing emphasizes the lack of connection."
+        },
+        {
+          "distractor": "ignoring",
+          "closeness": 1,
+          "reasoning": "Ignoring means disregarding; apropos of nothing shows him bringing up the topic despite lack of connection."
+        },
+        {
+          "distractor": "connected",
+          "closeness": 1,
+          "reasoning": "Connected implies relationship; apropos of nothing emphasizes the sudden introduction was unrelated."
+        },
+        {
+          "distractor": "logical",
+          "closeness": 1,
+          "reasoning": "Logical means reasoned; apropos of nothing suggests his announcement was abrupt and seemingly illogical."
+        }
       ]
     },
     {
-      "sentence": "The professor's digression into nineteenth-century postal routes seemed anything but apropos during a lecture on modern logistics software.",
+      "sentence": "His comment about budget cuts was very apropos given that the board had just announced quarterly earnings were down by thirty percent.",
       "answerChoices": [
-        { "distractor": "timely", "closeness": 3, "reasoning": "The sentence contrasts historical trivia with the stated lecture topic, but 'timely' targets the wrong dimension — it questions whether something arrived at the right moment rather than whether it relates to the subject at hand." },
-        { "distractor": "germane", "closeness": 3, "reasoning": "'Germane' is nearly synonymous in the sense of relevance to a topic, and substituting it keeps the sentence grammatical and meaningful, yet the sentence's contrast between Victorian postal history and modern software would rule out 'germane' on the same grounds as 'apropos'." },
-        { "distractor": "relevant", "closeness": 3, "reasoning": "The sentence's contrast between historical postal routes and modern software directly concerns relevance, making 'relevant' a strong trap, but the broader contextual fitness — not just topical match — that 'apropos' conveys is missing from 'relevant'." },
-        { "distractor": "opportune", "closeness": 3, "reasoning": "'Opportune' captures the timeliness dimension of appropriateness, but the sentence critiques the digression for its irrelevance to the subject, not for occurring at an inconvenient moment." },
-        { "distractor": "coherent", "closeness": 2, "reasoning": "A digression into postal routes might seem incoherent, but 'coherent' addresses internal logical consistency, not whether a topic fits the context of a particular lecture." },
-        { "distractor": "illuminating", "closeness": 2, "reasoning": "The sentence suggests the digression lacked usefulness in context, and 'illuminating' addresses whether something sheds light on the topic, but the complaint is about connection to subject matter, not explanatory value." },
-        { "distractor": "systematic", "closeness": 2, "reasoning": "A rambling digression might be called unsystematic, but 'systematic' addresses method and order, not the fit between a topic and its occasion." },
-        { "distractor": "engaging", "closeness": 2, "reasoning": "The sentence focuses on relevance rather than audience interest, so 'engaging' addresses a different quality entirely." },
-        { "distractor": "profound", "closeness": 1, "reasoning": "'Profound' evaluates depth of insight and would make 'anything but profound' a different kind of critique — about intellectual substance, not contextual fit." },
-        { "distractor": "verbose", "closeness": 1, "reasoning": "'Verbose' describes excessive length of speech, not the relationship between a topic and its context." },
-        { "distractor": "contentious", "closeness": 1, "reasoning": "'Contentious' implies dispute or controversy, which has no bearing on whether a digression fits the subject of the lecture." }
+        {
+          "distractor": "relevant",
+          "closeness": 3,
+          "reasoning": "Both show connection to the topic, but relevant is general connection, while apropos means both relevant and opportune."
+        },
+        {
+          "distractor": "timely",
+          "closeness": 3,
+          "reasoning": "Both suggest good timing, but timely means well-timed generally, while apropos means both relevant and opportune for the moment."
+        },
+        {
+          "distractor": "pertinent",
+          "closeness": 3,
+          "reasoning": "Both show connection to the topic, but pertinent is general relevance, while apropos emphasizes opportune timing."
+        },
+        {
+          "distractor": "suitable",
+          "closeness": 3,
+          "reasoning": "Both show appropriateness, but suitable is general fit, while apropos means relevant and opportune."
+        },
+        {
+          "distractor": "sensible",
+          "closeness": 2,
+          "reasoning": "Sensible means reasonable, but apropos emphasizes being both relevant and opportune."
+        },
+        {
+          "distractor": "wise",
+          "closeness": 2,
+          "reasoning": "Wise means judicious, but apropos emphasizes both relevance and opportune timing."
+        },
+        {
+          "distractor": "prescient",
+          "closeness": 2,
+          "reasoning": "Prescient means foreseeing, but apropos means relevant and opportune to the moment."
+        },
+        {
+          "distractor": "thoughtful",
+          "closeness": 2,
+          "reasoning": "Thoughtful means considerate, but apropos emphasizes relevance and opportune timing."
+        },
+        {
+          "distractor": "irrelevant",
+          "closeness": 1,
+          "reasoning": "Irrelevant means not connected; the sentence shows his comment apropos, directly relevant to announced earnings."
+        },
+        {
+          "distractor": "untimely",
+          "closeness": 1,
+          "reasoning": "Untimely means poorly timed; the sentence shows his comment apropos, well-timed to the earnings announcement."
+        },
+        {
+          "distractor": "premature",
+          "closeness": 1,
+          "reasoning": "Premature means too early; the sentence shows his comment apropos, at the opportune moment."
+        }
       ]
     },
     {
-      "sentence": "Her choice to open the eulogy with a joke struck the mourners as oddly apropos — he had, after all, spent his life insisting that laughter was the only honest response to grief.",
+      "sentence": "The witness's testimony about the defendant's character was deemed apropos to the sentencing decision, even though it addressed personal qualities rather than the specific crime.",
       "answerChoices": [
-        { "distractor": "fitting", "closeness": 3, "reasoning": "'Fitting' is a close synonym in the sense of appropriateness, but the second clause specifically grounds the choice in the deceased's lifelong philosophy, a nuance of both relevance and occasion that 'apropos' captures more precisely than the generic 'fitting'." },
-        { "distractor": "apt", "closeness": 3, "reasoning": "'Apt' shares the sense of being well-suited to circumstances and is grammatically substitutable, but the sentence's contrast of an unexpected choice with a context that ultimately justifies it calls for a word that implies both relevance and timeliness, which 'apropos' carries more fully." },
-        { "distractor": "poignant", "closeness": 3, "reasoning": "A joke at a eulogy about grief could easily feel emotionally moving, and 'poignant' is plausible, but the mourners' reaction is described as noticing contextual appropriateness — not emotional resonance — so 'poignant' misreads what the sentence says they found 'oddly' true." },
-        { "distractor": "audacious", "closeness": 3, "reasoning": "Opening a eulogy with a joke is bold, making 'audacious' tempting, but the second clause explains that the gesture was justified by the man's philosophy, so the mourners recognized suitability rather than daring." },
-        { "distractor": "incongruous", "closeness": 2, "reasoning": "'Incongruous' means out of place, which is roughly the opposite of what the mourners recognized; 'oddly apropos' means surprisingly suitable, not surprisingly out of place." },
-        { "distractor": "irreverent", "closeness": 2, "reasoning": "A joke at a eulogy could be called irreverent, but the sentence explains that the gesture was ultimately validated by the man's own values, making the mourners' reaction one of recognition rather than disapproval." },
-        { "distractor": "sincere", "closeness": 2, "reasoning": "'Sincere' addresses authenticity of feeling, not whether the choice was suited to the occasion and the man's character as the sentence establishes." },
-        { "distractor": "deliberate", "closeness": 2, "reasoning": "'Deliberate' would describe the choice as intentional, but the sentence is concerned with whether the choice was contextually appropriate — a different quality." },
-        { "distractor": "morbid", "closeness": 1, "reasoning": "'Morbid' implies an unhealthy fixation on death or gloom, the opposite tone of what the sentence describes — a life-affirming choice validated by the man's philosophy of laughter." },
-        { "distractor": "perfunctory", "closeness": 1, "reasoning": "'Perfunctory' means carried out with minimal effort or care, suggesting indifference, whereas the sentence describes a choice that was recognized as deeply suited to the man and the occasion." },
-        { "distractor": "obtuse", "closeness": 1, "reasoning": "'Obtuse' means slow to understand or needlessly complicated, and has no bearing on whether a rhetorical choice fits its occasion." }
+        {
+          "distractor": "admissible",
+          "closeness": 3,
+          "reasoning": "Both refer to what is allowed in court, but admissible means allowed by legal rules, while apropos means relevant and appropriate."
+        },
+        {
+          "distractor": "applicable",
+          "closeness": 3,
+          "reasoning": "Both describe something that applies, but applicable is general applicability, while apropos means relevant and opportune."
+        },
+        {
+          "distractor": "appropriate",
+          "closeness": 3,
+          "reasoning": "Both describe fitness, but appropriate is general suitability, while apropos emphasizes being relevant and opportune."
+        },
+        {
+          "distractor": "germane",
+          "closeness": 3,
+          "reasoning": "Both mean relevant and appropriate, and these are near-synonyms; both indicate connection to the matter at hand."
+        },
+        {
+          "distractor": "significant",
+          "closeness": 2,
+          "reasoning": "Significant means important, but apropos means both relevant and appropriate to the context."
+        },
+        {
+          "distractor": "material",
+          "closeness": 2,
+          "reasoning": "Material means relevant legally, but apropos emphasizes being both relevant and opportune."
+        },
+        {
+          "distractor": "valid",
+          "closeness": 2,
+          "reasoning": "Valid means sound or acceptable, but apropos emphasizes being relevant and opportune."
+        },
+        {
+          "distractor": "permissible",
+          "closeness": 2,
+          "reasoning": "Permissible means allowed, but apropos means relevant and appropriate to the matter."
+        },
+        {
+          "distractor": "irrelevant",
+          "closeness": 1,
+          "reasoning": "Irrelevant means not connected; the sentence describes testimony deemed apropos to the sentencing decision."
+        },
+        {
+          "distractor": "inadmissible",
+          "closeness": 1,
+          "reasoning": "Inadmissible means not allowed in court; the sentence shows testimony deemed apropos by the court."
+        },
+        {
+          "distractor": "excluded",
+          "closeness": 1,
+          "reasoning": "Excluded means left out; the sentence describes the testimony as apropos and included in the sentencing decision."
+        }
       ]
     }
   ]

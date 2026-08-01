@@ -1,0 +1,53 @@
+{
+  "word": "dwindle",
+  "sentenceSets": [
+    {
+      "sentence": "Support for the project dwindled as costs rose and progress stalled month after month.",
+      "answerChoices": [
+        { "distractor": "wavered", "closeness": 3, "reasoning": "Close -- 'wavered' means to become uncertain or unsteady, but it emphasizes hesitation; support that dwindles decreases continuously rather than fluctuating uncertainly." },
+        { "distractor": "eroded", "closeness": 3, "reasoning": "Close -- 'eroded' also describes something gradually wearing away, but it emphasizes the loss of material or substance; dwindle more directly captures the steady reduction in quantity or intensity." },
+        { "distractor": "faded", "closeness": 3, "reasoning": "Close -- 'faded' suggests a gradual disappearance, but typically of intensity or visibility; dwindle specifically describes a reduction in amount or extent." },
+        { "distractor": "diminished", "closeness": 3, "reasoning": "Close -- 'diminished' means became smaller, which is nearly synonymous with dwindled, but it can apply to a single reduction; dwindle implies a continuing, progressive decline." },
+        { "distractor": "stalled", "closeness": 2, "reasoning": "Incorrect -- 'stalled' means came to a halt; the sentence mentions stalled progress separately, and support that stalls stops outright rather than declining gradually." },
+        { "distractor": "reversed", "closeness": 2, "reasoning": "Incorrect -- 'reversed' implies a direction change or turning backward; it does not capture the sense of steady reduction." },
+        { "distractor": "faltered", "closeness": 2, "reasoning": "Incorrect -- 'faltered' means stumbled or lost momentum briefly; it suggests interruption rather than continuous decline." },
+        { "distractor": "soured", "closeness": 2, "reasoning": "Incorrect -- 'soured' means turned negative or unpleasant; it describes a change in quality rather than a reduction in amount." },
+        { "distractor": "surged", "closeness": 1, "reasoning": "Opposite -- 'surged' means increased or rose suddenly; it is contrary to the meaning of dwindled." },
+        { "distractor": "solidified", "closeness": 1, "reasoning": "Opposite -- 'solidified' means became firm or permanent; it contradicts the idea of support gradually decreasing." },
+        { "distractor": "accelerated", "closeness": 1, "reasoning": "Incorrect -- 'accelerated' means increased speed or intensity; it is opposite to dwindling support." }
+      ]
+    },
+    {
+      "sentence": "As the neighborhood aged and wealthier residents moved to the suburbs, the once-thriving downtown continued to dwindle into quieter streets and empty storefronts.",
+      "answerChoices": [
+        { "distractor": "decay", "closeness": 3, "reasoning": "Close -- 'decay' describes deterioration and decline, which accompanies dwindling vitality, but focuses on physical degradation rather than the reduction of activity and presence." },
+        { "distractor": "contract", "closeness": 3, "reasoning": "Close -- 'contract' means to decrease in size or extent, which is nearly synonymous with dwindled; both suggest shrinkage, but dwindle implies a gradual fading whereas contract can suggest a more defined boundary change." },
+        { "distractor": "languish", "closeness": 3, "reasoning": "Close -- 'languish' means to decline or suffer from neglect, which fits the image of empty storefronts, but emphasizes stagnation and suffering rather than the steady reduction in vitality." },
+        { "distractor": "wither", "closeness": 3, "reasoning": "Close -- 'wither' suggests gradual death or decay, which parallels dwindling; however, it emphasizes the loss of health or vigor more than the reduction in size or activity." },
+        { "distractor": "falter", "closeness": 2, "reasoning": "Incorrect -- 'falter' means to stumble or weaken temporarily; it suggests a loss of confidence rather than a continuous reduction in size or vitality." },
+        { "distractor": "slump", "closeness": 2, "reasoning": "Incorrect -- 'slump' describes a sudden drop or collapse, often temporary; dwindle emphasizes a gradual, ongoing process." },
+        { "distractor": "fade", "closeness": 2, "reasoning": "Incorrect -- 'fade' emphasizes loss of intensity or visibility; while similar, it does not capture the sense of active decline in substance and presence." },
+        { "distractor": "collapse", "closeness": 2, "reasoning": "Incorrect -- 'collapse' implies a sudden failure; the sentence stresses the gradually emptying downtown, not a sudden crash." },
+        { "distractor": "flourish", "closeness": 1, "reasoning": "Opposite -- 'flourish' means to thrive or prosper; it directly contradicts the description of declining vitality." },
+        { "distractor": "proliferate", "closeness": 1, "reasoning": "Opposite -- 'proliferate' means to increase rapidly; it is contrary to the image of fewer residents and empty storefronts." },
+        { "distractor": "revitalize", "closeness": 1, "reasoning": "Incorrect -- 'revitalize' means to restore energy or vigor; it contradicts the sense of a neighborhood losing its vitality." }
+      ]
+    },
+    {
+      "sentence": "The board remained confident in the CEO despite revenue dwindling for two consecutive years.",
+      "answerChoices": [
+        { "distractor": "declining", "closeness": 3, "reasoning": "Close -- 'declining' is nearly synonymous with dwindling, both describing reduction; however, dwindle emphasizes steady, continuous decrease, while declining can describe a single downward movement." },
+        { "distractor": "slipping", "closeness": 3, "reasoning": "Close -- 'slipping' suggests gradual loss or deterioration, but it often implies carelessness or lack of control; dwindle describes a reduction without that connotation of negligence." },
+        { "distractor": "falling", "closeness": 3, "reasoning": "Close -- 'falling' describes movement downward, which fits revenue reduction, but it is less specific about the gradual nature and can imply a more dramatic drop." },
+        { "distractor": "flagging", "closeness": 3, "reasoning": "Close -- 'flagging' means losing strength or becoming less vigorous, which applies to revenue, but it emphasizes weariness rather than the systematic reduction in quantity." },
+        { "distractor": "stagnating", "closeness": 2, "reasoning": "Incorrect -- 'stagnating' means becoming stuck or unchanging; it implies flat performance rather than active reduction." },
+        { "distractor": "halting", "closeness": 2, "reasoning": "Incorrect -- 'halting' means stopping or coming to a pause; it does not capture the sense of continuous reduction." },
+        { "distractor": "wavering", "closeness": 2, "reasoning": "Incorrect -- 'wavering' suggests hesitation or fluctuation rather than a consistent downward trend." },
+        { "distractor": "plateauing", "closeness": 2, "reasoning": "Incorrect -- 'plateauing' means reaching a flat level; it does not convey the progressive reduction of revenue." },
+        { "distractor": "soaring", "closeness": 1, "reasoning": "Opposite -- 'soaring' means rising sharply; it contradicts the context of declining revenue." },
+        { "distractor": "recovering", "closeness": 1, "reasoning": "Opposite -- 'recovering' means regaining strength or amount; it is contrary to diminishing revenue." },
+        { "distractor": "stabilizing", "closeness": 1, "reasoning": "Incorrect -- 'stabilizing' means becoming stable; it contradicts the idea of continuous reduction in revenue." }
+      ]
+    }
+  ]
+}

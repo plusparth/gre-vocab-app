@@ -1,0 +1,53 @@
+{
+  "word": "volatile",
+  "sentenceSets": [
+    {
+      "sentence": "The market was sufficiently volatile that decisions made on reliable data in the morning had become uncertain by afternoon.",
+      "answerChoices": [
+        { "distractor": "unpredictable", "closeness": 3, "reasoning": "The market is unpredictable, but 'unpredictable' emphasizes lack of foreknowledge; the sentence shows rapid and unexpected change." },
+        { "distractor": "unstable", "closeness": 3, "reasoning": "'Unstable' describes lack of steadiness; the market is unstable, but the sentence emphasizes rapid or unexpected change that undermines earlier decisions." },
+        { "distractor": "erratic", "closeness": 3, "reasoning": "'Erratic' means moving unpredictably; the market moves erratically, but the sentence emphasizes rapid unexpected change that makes morning data obsolete by afternoon." },
+        { "distractor": "turbulent", "closeness": 3, "reasoning": "'Turbulent' describes chaotic or stormy conditions; the market is turbulent, but the sentence emphasizes rapid unexpected change specifically." },
+        { "distractor": "cyclical", "closeness": 2, "reasoning": "'Cyclical' describes repeating patterns; markets have cycles, but the sentence shows rapid unexpected changes, not predictable cycles." },
+        { "distractor": "fluctuating", "closeness": 2, "reasoning": "'Fluctuating' describes rising and falling movement; the market fluctuates, but the sentence emphasizes the speed and unexpectedness of change." },
+        { "distractor": "uncertain", "closeness": 2, "reasoning": "The market is uncertain, but 'uncertain' emphasizes lack of sure knowledge; the sentence shows rapid and unexpected change causing decisions to become questionable." },
+        { "distractor": "risky", "closeness": 2, "reasoning": "'Risky' describes high danger of loss; the market is risky, but the sentence emphasizes rapid unexpected change, not risk level." },
+        { "distractor": "stable", "closeness": 1, "reasoning": "The market undergoes rapid unexpected change making morning data uncertain by afternoon, the opposite of the steadiness and consistency that 'stable' implies." },
+        { "distractor": "predictable", "closeness": 1, "reasoning": "Decisions based on reliable morning data become uncertain by afternoon; 'predictable' means foreseeable, the opposite of unexpected rapid change." },
+        { "distractor": "consistent", "closeness": 1, "reasoning": "The market changes rapidly and unexpectedly throughout the day; 'consistent' means staying the same, opposite to the described volatility." }
+      ]
+    },
+    {
+      "sentence": "The teenager's volatile moods could shift from cheerful to angry within moments, making family interactions exhausting and unpredictable.",
+      "answerChoices": [
+        { "distractor": "intense", "closeness": 3, "reasoning": "The teenager's emotions are intense, but 'intense' emphasizes strength; the sentence shows rapid unexpected change in mood." },
+        { "distractor": "unstable", "closeness": 3, "reasoning": "'Unstable' describes lack of steadiness in emotions; the teenager's emotions are unstable, but the sentence emphasizes rapid unexpected change." },
+        { "distractor": "unpredictable", "closeness": 3, "reasoning": "The moods are unpredictable, but 'unpredictable' emphasizes inability to foresee; the sentence shows rapid unexpected change." },
+        { "distractor": "erratic", "closeness": 3, "reasoning": "'Erratic' means moving unpredictably; the teenager's moods are erratic, but the sentence emphasizes rapid unexpected change specifically." },
+        { "distractor": "moody", "closeness": 2, "reasoning": "'Moody' describes frequent changes in mood; the teenager is moody, but the sentence emphasizes the rapid and unexpected nature of shifts." },
+        { "distractor": "temperamental", "closeness": 2, "reasoning": "'Temperamental' describes prone to changeable moods; the teenager is temperamental, but the sentence emphasizes rapid unexpected change." },
+        { "distractor": "reactive", "closeness": 2, "reasoning": "'Reactive' describes responding emotionally; the teenager responds emotionally, but the sentence emphasizes rapid unexpected shifts in mood." },
+        { "distractor": "emotional", "closeness": 2, "reasoning": "'Emotional' describes experiencing strong feelings; the teenager is emotional, but the sentence emphasizes rapid unexpected change in feelings." },
+        { "distractor": "calm", "closeness": 1, "reasoning": "The teenager's moods shift rapidly and unexpectedly from cheerful to angry, the opposite of the serenity and composure that 'calm' implies." },
+        { "distractor": "steady", "closeness": 1, "reasoning": "The teenager's moods change rapidly and unexpectedly; 'steady' means remaining consistent, opposite to the rapid mood shifts described." },
+        { "distractor": "constant", "closeness": 1, "reasoning": "The teenager's moods shift from cheerful to angry within moments; 'constant' means unchanging, the opposite of rapid unexpected change." }
+      ]
+    },
+    {
+      "sentence": "The region experienced volatile weather throughout the spring, with sudden thunderstorms alternating unpredictably with clear sunny days, keeping farmers anxious about their crops.",
+      "answerChoices": [
+        { "distractor": "severe", "closeness": 3, "reasoning": "The weather can be severe, but 'severe' emphasizes intensity; the sentence shows rapid and unexpected change between conditions." },
+        { "distractor": "turbulent", "closeness": 3, "reasoning": "'Turbulent' describes stormy or chaotic conditions; the weather is turbulent, but the sentence emphasizes rapid unexpected change between extremes." },
+        { "distractor": "erratic", "closeness": 3, "reasoning": "'Erratic' describes moving unpredictably; the weather moves erratically, but the sentence shows rapid unexpected change specifically." },
+        { "distractor": "unstable", "closeness": 3, "reasoning": "'Unstable' describes lack of steadiness; the weather is unstable, but the sentence emphasizes rapid unexpected alternation between conditions." },
+        { "distractor": "unsettled", "closeness": 2, "reasoning": "'Unsettled' describes disorderly or changeable weather; the weather is unsettled, but the sentence emphasizes rapid unexpected changes." },
+        { "distractor": "harsh", "closeness": 2, "reasoning": "'Harsh' describes severe or bitter conditions; storms are harsh, but the sentence shows rapid unexpected change, not harsh conditions." },
+        { "distractor": "unpredictable", "closeness": 2, "reasoning": "The weather is unpredictable, but 'unpredictable' emphasizes inability to foresee; the sentence shows rapid unexpected change." },
+        { "distractor": "treacherous", "closeness": 2, "reasoning": "'Treacherous' describes dangerous deception; the weather may be dangerous, but the sentence emphasizes rapid unexpected change." },
+        { "distractor": "temperate", "closeness": 1, "reasoning": "The region experiences sudden thunderstorms alternating unpredictably with clear sunny days; 'temperate' means mild and moderate, opposite to rapid extreme changes." },
+        { "distractor": "stable", "closeness": 1, "reasoning": "The weather alternates rapidly and unpredictably between thunderstorms and sunny days; 'stable' means steady and consistent, opposite to the change described." },
+        { "distractor": "settled", "closeness": 1, "reasoning": "The weather changes rapidly and unexpectedly between storms and clear skies; 'settled' means calm and stable, opposite to the volatility described." }
+      ]
+    }
+  ]
+}

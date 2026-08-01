@@ -1,0 +1,53 @@
+{
+  "word": "rhetorical",
+  "sentenceSets": [
+    {
+      "sentence": "The rhetorical question she posed had an answer, and everyone in the room knew it, which made the silence that followed pointed.",
+      "answerChoices": [
+        { "distractor": "unanswerable", "closeness": 3, "reasoning": "A rhetorical question might seem unanswerable on its surface, but unanswerable describes something impossible to answer, whereas a rhetorical question is specifically one whose answer is understood." },
+        { "distractor": "leading", "closeness": 3, "reasoning": "A rhetorical question guides the listener toward an answer, fitting leading, but leading describes questions that guide toward a particular viewpoint, not the specifically persuasive rhetorical intent." },
+        { "distractor": "provocative", "closeness": 3, "reasoning": "Her question provokes thought and reaction, but provocative means tending to arouse feeling or reaction, not specifically the persuasive function of a rhetorical question." },
+        { "distractor": "pointed", "closeness": 3, "reasoning": "The silence was pointed, meaning sharp or directed, and her question is pointed too, but pointed describes something with a clear intent or emphasis, not the rhetorical device." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "A rhetorical question might have surface ambiguity, but ambiguous means having multiple possible meanings, whereas rhetorical questions have a clear intended answer." },
+        { "distractor": "hypothetical", "closeness": 2, "reasoning": "A rhetorical question might pose a scenario, but hypothetical means based on a suggested idea rather than proven, not the persuasive function of rhetoric." },
+        { "distractor": "open-ended", "closeness": 2, "reasoning": "A question might seem open-ended at first, but open-ended means allowing multiple responses, whereas rhetorical questions have an implied specific answer." },
+        { "distractor": "indirect", "closeness": 2, "reasoning": "A rhetorical question expresses something indirectly, but indirect simply means not straight or direct, not the persuasive force of rhetorical questions." },
+        { "distractor": "obvious", "closeness": 1, "reasoning": "While the answer is known to everyone, obvious describes something evident or self-evident, not the persuasive technique of rhetorical questions." },
+        { "distractor": "literal", "closeness": 1, "reasoning": "A rhetorical question is meant to persuade, not to be taken literally; literal would mean accepting surface meaning without persuasive intent." },
+        { "distractor": "genuine", "closeness": 1, "reasoning": "A rhetorical question is not genuine inquiry but strategic persuasion; genuine would mean truly seeking an answer." }
+      ]
+    },
+    {
+      "sentence": "His rhetorical strategy during the debate was to frame all opposition as elitist, creating a false dichotomy that oversimplified complex policy differences.",
+      "answerChoices": [
+        { "distractor": "argumentative", "closeness": 3, "reasoning": "His strategy involves making arguments, fitting argumentative, but argumentative simply means given to arguing, not describing the persuasive communicative techniques he employed." },
+        { "distractor": "persuasive", "closeness": 3, "reasoning": "His strategy aims to persuade listeners, but persuasive simply means convincing or compelling, not the specific formal communicative techniques of rhetoric." },
+        { "distractor": "deceptive", "closeness": 3, "reasoning": "His strategy creates false dichotomies to mislead, but deceptive means intended to deceive, focusing on the intent to fool rather than the communicative techniques used." },
+        { "distractor": "manipulative", "closeness": 3, "reasoning": "His strategy manipulates perception through framing, but manipulative describes the intent to control, not the formal techniques of rhetoric or persuasive communication." },
+        { "distractor": "tactical", "closeness": 2, "reasoning": "His strategy is carefully planned for effect, but tactical describes strategic planning for advantage, not the formal communicative techniques of rhetoric." },
+        { "distractor": "strategic", "closeness": 2, "reasoning": "His approach follows a strategy, but strategic describes careful planning, not the formal art of persuasive communication." },
+        { "distractor": "calculated", "closeness": 2, "reasoning": "His approach is deliberate and planned, but calculated emphasizes careful consideration, not the communicative techniques of rhetoric." },
+        { "distractor": "sneaky", "closeness": 2, "reasoning": "His approach conceals oversimplification through framing, but sneaky means stealthy or underhand, not describing persuasive communicative techniques." },
+        { "distractor": "honest", "closeness": 1, "reasoning": "His strategy creates false dichotomies and oversimplifies; honest would mean truthful and straightforward presentation, the opposite." },
+        { "distractor": "nuanced", "closeness": 1, "reasoning": "His approach oversimplifies complex differences; nuanced would mean recognizing subtlety and complexity, the opposite." },
+        { "distractor": "straightforward", "closeness": 1, "reasoning": "He frames opposition through oversimplification; straightforward would mean direct and clear without manipulation, the opposite." }
+      ]
+    },
+    {
+      "sentence": "The article relied on rhetorical flourishes and vivid imagery to create emotional impact rather than providing empirical evidence for its central claims.",
+      "answerChoices": [
+        { "distractor": "literary", "closeness": 3, "reasoning": "Flourishes and vivid imagery are literary techniques, but literary describes writing that employs imaginative aesthetic qualities, not specifically the persuasive techniques of rhetoric." },
+        { "distractor": "stylistic", "closeness": 3, "reasoning": "Flourishes and imagery are stylistic choices, but stylistic describes manner of expression, not the persuasive communicative techniques that rhetoric emphasizes." },
+        { "distractor": "expressive", "closeness": 3, "reasoning": "The imagery expresses emotion powerfully, but expressive means conveying feeling or meaning, not the persuasive techniques of rhetoric." },
+        { "distractor": "ornamental", "closeness": 3, "reasoning": "Flourishes are decorative language elements, but ornamental describes purely decorative elements, not the persuasive function of rhetorical techniques." },
+        { "distractor": "descriptive", "closeness": 2, "reasoning": "The imagery describes situations vividly, but descriptive means portraying details, not the persuasive techniques of rhetoric." },
+        { "distractor": "evocative", "closeness": 2, "reasoning": "The imagery evokes emotion in readers, but evocative simply means stirring feeling or memory, not the formal communicative techniques of rhetoric." },
+        { "distractor": "emotive", "closeness": 2, "reasoning": "The imagery creates emotional impact, but emotive describes something that arouses emotion, not the formal techniques of rhetoric." },
+        { "distractor": "poetic", "closeness": 2, "reasoning": "The flourishes use poetic language, but poetic describes literary expression with aesthetic qualities, not specifically persuasive techniques." },
+        { "distractor": "rigorous", "closeness": 1, "reasoning": "The article relies on flourishes rather than evidence; rigorous would mean thorough and careful use of evidence, the opposite." },
+        { "distractor": "empirical", "closeness": 1, "reasoning": "The article explicitly lacks empirical evidence; empirical would mean based on observation and data." },
+        { "distractor": "rational", "closeness": 1, "reasoning": "The article relies on emotional imagery rather than rational argument; rational would mean based on reason and logic." }
+      ]
+    }
+  ]
+}

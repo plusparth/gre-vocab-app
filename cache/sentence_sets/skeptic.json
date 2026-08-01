@@ -1,0 +1,53 @@
+{
+  "word": "skeptic",
+  "sentenceSets": [
+    {
+      "sentence": "Even the most committed skeptic in the room found it difficult to maintain the objection against the evidence she presented.",
+      "answerChoices": [
+        { "distractor": "cynic", "closeness": 3, "reasoning": "Cynic is close but differs in that a cynic distrusts human motives or sincerity, while a skeptic questions the validity of claims regardless of intent." },
+        { "distractor": "doubter", "closeness": 3, "reasoning": "Doubter expresses general uncertainty or lack of conviction, but skeptic specifically denotes someone who questions and demands evidence systematically." },
+        { "distractor": "critic", "closeness": 3, "reasoning": "Critic evaluates or judges, but does not necessarily demand evidence or employ systematic doubt as a skeptic does." },
+        { "distractor": "disbeliever", "closeness": 3, "reasoning": "Disbeliever refuses to accept something as true, but skeptic maintains openness to evidence, whereas a disbeliever has already rejected the claim." },
+        { "distractor": "dissenter", "closeness": 2, "reasoning": "Dissenter disagrees with the prevailing view, but doesn't necessarily demand rigorous evidence as skepticism requires." },
+        { "distractor": "opponent", "closeness": 2, "reasoning": "Opponent resists or contests a position, but skeptic implies a methodical questioning approach rather than straightforward opposition." },
+        { "distractor": "objector", "closeness": 2, "reasoning": "Objector formally disagrees, but skeptic emphasizes the demand for evidence rather than mere disagreement." },
+        { "distractor": "challenger", "closeness": 2, "reasoning": "Challenger contests something, but may do so on other grounds besides demanding systematic evidence as skeptics do." },
+        { "distractor": "believer", "closeness": 1, "reasoning": "Believer accepts claims as true, the opposite of skeptic who demands evidence and maintains doubt." },
+        { "distractor": "convert", "closeness": 1, "reasoning": "Convert accepts a new belief or position, contrary to skeptic who resists quick acceptance without evidence." },
+        { "distractor": "advocate", "closeness": 1, "reasoning": "Advocate supports a position actively, opposite to skeptic who questions and maintains doubt about claims." }
+      ]
+    },
+    {
+      "sentence": "The skeptic arrived at the séance prepared to expose the medium's tricks, yet left unsettled when each obvious technique produced unexplainable phenomena.",
+      "answerChoices": [
+        { "distractor": "unbeliever", "closeness": 3, "reasoning": "Unbeliever rejects something as untrue, while skeptic maintains openness to evidence—the séance left the skeptic genuinely unsettled, not simply unbelieving." },
+        { "distractor": "pessimist", "closeness": 3, "reasoning": "Pessimist expects negative outcomes, but skeptic's focus is on demanding evidence rather than having a negative worldview." },
+        { "distractor": "agnostic", "closeness": 3, "reasoning": "Agnostic claims that certain things are unknowable, while skeptic questions the validity of specific claims through evidence." },
+        { "distractor": "iconoclast", "closeness": 3, "reasoning": "Iconoclast attacks traditional beliefs or institutions, while skeptic simply questions through evidence without necessarily being antiestablishment." },
+        { "distractor": "rationalist", "closeness": 2, "reasoning": "Rationalist trusts in reason and logic above all, but skeptic may remain genuinely uncertain even when logic cannot explain phenomena." },
+        { "distractor": "materialist", "closeness": 2, "reasoning": "Materialist believes only in physical matter, whereas skeptic is open to evidence but questions the explanation." },
+        { "distractor": "pragmatist", "closeness": 2, "reasoning": "Pragmatist focuses on practical results, while skeptic is concerned with truth and evidence regardless of practical utility." },
+        { "distractor": "empiricist", "closeness": 2, "reasoning": "Empiricist trusts in observed experience, but skeptic may doubt what has been observed if it seems implausible." },
+        { "distractor": "true believer", "closeness": 1, "reasoning": "True believer accepts claims readily without demanding evidence, opposite to skeptic's demanding verification." },
+        { "distractor": "mystic", "closeness": 1, "reasoning": "Mystic seeks spiritual or transcendent truth through intuition, contrary to skeptic's demand for evidence and systematic questioning." },
+        { "distractor": "naive observer", "closeness": 1, "reasoning": "Naive observer accepts appearances without critical scrutiny, opposite to the systematic questioning that defines skeptic." }
+      ]
+    },
+    {
+      "sentence": "A skeptic would normally dismiss such claims out of hand, but the specificity of the predictions and their subsequent accuracy forced a re-evaluation.",
+      "answerChoices": [
+        { "distractor": "realist", "closeness": 3, "reasoning": "Realist deals with facts as they exist, but realist doesn't necessarily demand the rigorous evidence that skeptic does." },
+        { "distractor": "hardliner", "closeness": 3, "reasoning": "Hardliner maintains an inflexible position, while skeptic's position is flexible and responsive to evidence." },
+        { "distractor": "purist", "closeness": 3, "reasoning": "Purist adheres strictly to principles, whereas skeptic may compromise principles when evidence demands re-evaluation." },
+        { "distractor": "ideologue", "closeness": 3, "reasoning": "Ideologue is committed to a system of ideas regardless of evidence, opposite to skeptic who adjusts based on evidence." },
+        { "distractor": "fault-finder", "closeness": 2, "reasoning": "Fault-finder looks for things wrong with something, whereas skeptic questions validity of claims more broadly." },
+        { "distractor": "naysayer", "closeness": 2, "reasoning": "Naysayer says no to things automatically, while skeptic remains open to evidence and will change stance when warranted." },
+        { "distractor": "pedant", "closeness": 2, "reasoning": "Pedant insists on precision in details, but this doesn't necessarily involve the evidence-based questioning of skeptic." },
+        { "distractor": "literalist", "closeness": 2, "reasoning": "Literalist interprets strictly according to precise meaning, whereas skeptic questions truthfulness and validity more broadly." },
+        { "distractor": "true believer", "closeness": 1, "reasoning": "True believer readily accepts claims without evidence, opposite to skeptic who demands proof before acceptance." },
+        { "distractor": "gullible person", "closeness": 1, "reasoning": "Gullible person easily believes false claims, the opposite of skeptic who demands evidence and maintains doubt." },
+        { "distractor": "faithful follower", "closeness": 1, "reasoning": "Faithful follower accepts beliefs on trust, contrary to skeptic's demand for evidence-based verification." }
+      ]
+    }
+  ]
+}

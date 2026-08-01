@@ -1,0 +1,53 @@
+{
+  "word": "astringent",
+  "sentenceSets": [
+    {
+      "sentence": "Her astringent criticism, though painful to hear, forced the team to confront real weaknesses.",
+      "answerChoices": [
+        { "distractor": "acerbic", "closeness": 3, "reasoning": "Both describe harsh or sharp speech that causes discomfort, but 'acerbic' emphasizes biting wit or sarcasm, whereas 'astringent' suggests a bracing, tightening effect that reveals truth." },
+        { "distractor": "bitter", "closeness": 3, "reasoning": "Criticism can be bitter and harsh, but 'bitter' emphasizes resentment or anger, whereas 'astringent' suggests a more clinically severe honesty." },
+        { "distractor": "cutting", "closeness": 3, "reasoning": "Both describe sharp, wounding words, but 'cutting' emphasizes cruelty or intent to harm, while 'astringent' is severe but aimed at improvement." },
+        { "distractor": "scathing", "closeness": 3, "reasoning": "Both describe harsh criticism, but 'scathing' implies destructive contempt, whereas 'astringent' is painful but constructive, forcing confrontation with real issues." },
+        { "distractor": "harsh", "closeness": 2, "reasoning": "The criticism is definitely harsh, but 'harsh' is a general term for severity, lacking the specific quality of being tightening or bracing." },
+        { "distractor": "blunt", "closeness": 2, "reasoning": "The criticism is direct and unfiltered, but 'blunt' emphasizes lack of tact, not the tightening, clarifying effect of 'astringent' feedback." },
+        { "distractor": "severe", "closeness": 2, "reasoning": "The criticism is severe, but 'severe' focuses on intensity of harshness, not the specific quality of forcing confrontation or tight focus on truth." },
+        { "distractor": "unflinching", "closeness": 2, "reasoning": "The criticism shows no compromise, but 'unflinching' describes the tone of delivery, not the effect of tightening or constricting." },
+        { "distractor": "gentle", "closeness": 1, "reasoning": "The opposite of the harsh effect; the sentence explicitly says the criticism is painful, not gentle or soft." },
+        { "distractor": "vague", "closeness": 1, "reasoning": "The criticism forces confrontation with real weaknesses, implying specificity and clarity, the opposite of being vague or unclear." },
+        { "distractor": "soothing", "closeness": 1, "reasoning": "The opposite effect described; the criticism is painful to hear, not soothing or comforting." }
+      ]
+    },
+    {
+      "sentence": "The astringent wine left a dry, puckering sensation on the taster's tongue, revealing its high tannin content.",
+      "answerChoices": [
+        { "distractor": "tannic", "closeness": 3, "reasoning": "Describes wines with tannins causing mouth-drying sensations, but 'tannic' is more technical and specific, while 'astringent' captures the bodily sensation of tightening." },
+        { "distractor": "bitter", "closeness": 3, "reasoning": "Wines with high tannins can taste bitter, and both describe unpleasant taste, but 'bitter' emphasizes flavor while 'astringent' emphasizes the tightening physical sensation." },
+        { "distractor": "sour", "closeness": 3, "reasoning": "Both describe unpleasant wine characteristics, but 'sour' refers to acidity and taste, whereas 'astringent' refers to the drying, puckering sensation." },
+        { "distractor": "harsh", "closeness": 3, "reasoning": "Describes wines with aggressive characteristics, but 'harsh' is a general term for intensity, while 'astringent' specifically describes the drying effect." },
+        { "distractor": "aged", "closeness": 2, "reasoning": "The wine might be aged, which could contribute to tannin content, but 'aged' describes the wine's history, not the sensory quality of tightening." },
+        { "distractor": "robust", "closeness": 2, "reasoning": "High-tannin wines are often robust, but 'robust' describes fullness of body or flavor intensity, not the specific sensation of drying." },
+        { "distractor": "intense", "closeness": 2, "reasoning": "The tannin content creates intensity, but 'intense' is a general descriptor, not specific to the puckering, drying sensation." },
+        { "distractor": "complex", "closeness": 2, "reasoning": "Wines with character might be complex, but the sentence focuses on the tannin effect, not the layered flavors suggesting complexity." },
+        { "distractor": "smooth", "closeness": 1, "reasoning": "The opposite sensation; the sentence describes puckering and dryness, not the smooth mouthfeel that would be smooth." },
+        { "distractor": "sweet", "closeness": 1, "reasoning": "The opposite of the described sensation; the high tannin content creates dryness and puckering, not sweetness." },
+        { "distractor": "refined", "closeness": 1, "reasoning": "While quality wines are refined, the sentence emphasizes the rough physical sensation of puckering, not refinement or elegance." }
+      ]
+    },
+    {
+      "sentence": "The astringent lotion applied to the wound's edges helped stop the bleeding by contracting the surrounding tissue.",
+      "answerChoices": [
+        { "distractor": "styptic", "closeness": 3, "reasoning": "Styptic agents stop bleeding by constricting blood vessels, exactly what 'astringent' does medically, but 'styptic' is a more technical term." },
+        { "distractor": "cauterizing", "closeness": 3, "reasoning": "Both stop bleeding through tissue contraction, but 'cauterizing' uses heat to seal tissue, whereas 'astringent' uses chemical constriction." },
+        { "distractor": "coagulating", "closeness": 3, "reasoning": "Coagulating stops bleeding by thickening blood, but 'astringent' stops it by contracting tissue, a different mechanism." },
+        { "distractor": "tightening", "closeness": 3, "reasoning": "Describes the effect of constriction, but is too general; 'astringent' specifically refers to the chemical substance causing that effect." },
+        { "distractor": "antiseptic", "closeness": 2, "reasoning": "Both are wound treatments, but 'antiseptic' kills bacteria, whereas 'astringent' contracts tissue to stop bleeding." },
+        { "distractor": "protective", "closeness": 2, "reasoning": "The lotion protects the wound, but 'protective' describes a shielding function, not the contracting mechanism." },
+        { "distractor": "absorbent", "closeness": 2, "reasoning": "The lotion might absorb fluids, but 'absorbent' doesn't capture the active mechanism of tissue contraction." },
+        { "distractor": "soothing", "closeness": 2, "reasoning": "The lotion might provide relief, but 'soothing' describes comfort, not the tissue-contracting function that stops bleeding." },
+        { "distractor": "dilating", "closeness": 1, "reasoning": "The opposite effect; 'astringent' causes contraction, while 'dilating' would widen blood vessels and increase bleeding." },
+        { "distractor": "dissolving", "closeness": 1, "reasoning": "The lotion strengthens tissue temporarily, not dissolves it; 'dissolving' is incompatible with stopping bleeding." },
+        { "distractor": "numbing", "closeness": 1, "reasoning": "While a wound lotion might numb pain, the sentence describes stopping bleeding through tissue contraction, not anesthetic effect." }
+      ]
+    }
+  ]
+}

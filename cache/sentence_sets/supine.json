@@ -1,0 +1,53 @@
+{
+  "word": "supine",
+  "sentenceSets": [
+    {
+      "sentence": "His supine acceptance of decisions he privately disagreed with raised questions about whether his objections had been genuine.",
+      "answerChoices": [
+        { "distractor": "passive", "closeness": 3, "reasoning": "'Passive' means not actively participating; while his acceptance is passive, 'supine' emphasizes a lying back or submissive quality." },
+        { "distractor": "compliant", "closeness": 3, "reasoning": "'Compliant' means obedient and yielding; while he's compliant, 'supine' emphasizes the specifically submissive or prostrate quality." },
+        { "distractor": "acquiescent", "closeness": 3, "reasoning": "'Acquiescent' means silently accepting; while he accepts quietly, 'supine' emphasizes the lying-down quality metaphorically." },
+        { "distractor": "resigned", "closeness": 3, "reasoning": "'Resigned' means accepting something undesirable; while he's resigned, 'supine' adds the quality of lying back or submitting." },
+        { "distractor": "tolerant", "closeness": 2, "reasoning": "He tolerates the decisions, but 'tolerant' describes attitude of endurance; 'supine' describes the quality of passive submission." },
+        { "distractor": "uncritical", "closeness": 2, "reasoning": "He doesn't criticize the decisions, but 'uncritical' describes absence of judgment; 'supine' describes the submissive quality." },
+        { "distractor": "indifferent", "closeness": 2, "reasoning": "He might seem indifferent, but raising questions suggests concern; 'supine' describes the submission despite disagreement." },
+        { "distractor": "quiet", "closeness": 2, "reasoning": "He accepts quietly, but 'quiet' describes silence; 'supine' describes the prostrate or submissive quality." },
+        { "distractor": "resistant", "closeness": 1, "reasoning": "His supine acceptance shows no resistance despite private disagreement." },
+        { "distractor": "assertive", "closeness": 1, "reasoning": "Supine acceptance is the opposite of assertive action." },
+        { "distractor": "defiant", "closeness": 1, "reasoning": "Supine submission contradicts defiant opposition." }
+      ]
+    },
+    {
+      "sentence": "The patient lay supine on the examination table, the doctor noting the position was necessary for the procedure.",
+      "answerChoices": [
+        { "distractor": "prone", "closeness": 3, "reasoning": "'Prone' means lying face down; 'supine' means lying face up—they are opposite physical positions." },
+        { "distractor": "recumbent", "closeness": 3, "reasoning": "'Recumbent' means lying down but doesn't specify direction; supine is specifically lying on back or face upward." },
+        { "distractor": "horizontal", "closeness": 3, "reasoning": "'Horizontal' describes the plane of the body; while supine is horizontal, 'horizontal' doesn't specify the face-up position." },
+        { "distractor": "vertical", "closeness": 3, "reasoning": "'Vertical' means standing up; while the patient is supine (horizontal), vertical would describe standing." },
+        { "distractor": "seated", "closeness": 2, "reasoning": "'Seated' means sitting down; the patient is lying down, not sitting." },
+        { "distractor": "upright", "closeness": 2, "reasoning": "'Upright' means standing or sitting; the patient is supine or lying down." },
+        { "distractor": "kneeling", "closeness": 2, "reasoning": "'Kneeling' describes a position on knees; the patient is lying down." },
+        { "distractor": "twisted", "closeness": 2, "reasoning": "'Twisted' describes a contorted position; supine is a specific straight position." },
+        { "distractor": "standing", "closeness": 1, "reasoning": "Supine means lying down, not standing." },
+        { "distractor": "inverted", "closeness": 1, "reasoning": "Supine means lying face up; inverted would mean upside down." },
+        { "distractor": "curled", "closeness": 1, "reasoning": "Supine means lying back in an extended position, not curled up." }
+      ]
+    },
+    {
+      "sentence": "The army's supine response to the invasion—failing to mobilize forces or mount any initial resistance—shocked observers who had expected a forceful defense.",
+      "answerChoices": [
+        { "distractor": "passive", "closeness": 3, "reasoning": "'Passive' means not taking active action; the army's response is passive, but 'supine' emphasizes the debased or submissive quality." },
+        { "distractor": "weak", "closeness": 3, "reasoning": "'Weak' describes insufficient strength; the response is weak, but 'supine' emphasizes the quality of lying back or lacking vigor." },
+        { "distractor": "negligent", "closeness": 3, "reasoning": "'Negligent' means failing to take care; while the army is negligent, 'supine' emphasizes a debased submissive quality beyond carelessness." },
+        { "distractor": "inadequate", "closeness": 3, "reasoning": "'Inadequate' means insufficient for the purpose; the response is inadequate, but 'supine' emphasizes the supine or prostrate quality." },
+        { "distractor": "sluggish", "closeness": 2, "reasoning": "'Sluggish' means slow to respond; the army is slow, but 'sluggish' describes pace, not the submissive quality." },
+        { "distractor": "indifferent", "closeness": 2, "reasoning": "The army might seem indifferent, but 'indifferent' describes lack of concern; 'supine' describes submission or lying back." },
+        { "distractor": "reluctant", "closeness": 2, "reasoning": "The army might be reluctant to act, but 'reluctant' describes unwillingness; 'supine' describes the prostrate submission." },
+        { "distractor": "unprepared", "closeness": 2, "reasoning": "The army might be unprepared, but 'unprepared' describes lack of readiness; 'supine' describes the submissive response." },
+        { "distractor": "vigorous", "closeness": 1, "reasoning": "The army's supine response shows no vigor or energy." },
+        { "distractor": "spirited", "closeness": 1, "reasoning": "A supine response lacks the spirit or courage expected." },
+        { "distractor": "forceful", "closeness": 1, "reasoning": "Supine response means not forceful; the sentence contrasts it with expected forceful defense." }
+      ]
+    }
+  ]
+}

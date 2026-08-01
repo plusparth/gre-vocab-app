@@ -1,0 +1,53 @@
+{
+  "word": "trivial",
+  "sentenceSets": [
+    {
+      "sentence": "The objection was trivial relative to the scale of what was being proposed, but it consumed most of the meeting's available time.",
+      "answerChoices": [
+        { "distractor": "minor", "closeness": 3, "reasoning": "'Minor' means smaller in importance or scope, fitting an objection relative to a large proposal; however, 'minor' just means smaller, while 'trivial' emphasizes lack of worth." },
+        { "distractor": "insignificant", "closeness": 3, "reasoning": "'Insignificant' means unimportant or lacking significance, fitting an objection that's unimportant relative to the proposal; 'insignificant' is very close to 'trivial.'" },
+        { "distractor": "trifling", "closeness": 3, "reasoning": "'Trifling' means lacking in significance or solid worth, fitting an objection of little importance; 'trifling' is virtually synonymous with 'trivial.'" },
+        { "distractor": "petty", "closeness": 3, "reasoning": "'Petty' means small and of little importance, fitting an objection consumed out of proportion to its importance; the distinction is that 'petty' has connotations of meanness, while 'trivial' is more neutral." },
+        { "distractor": "negligible", "closeness": 2, "reasoning": "'Negligible' means so small as to be negligible, fitting a small objection; however, 'negligible' emphasizes smallness more than lack of worth." },
+        { "distractor": "inconsequential", "closeness": 2, "reasoning": "'Inconsequential' means unimportant; while fitting the objection, it's too directly synonymous." },
+        { "distractor": "small", "closeness": 2, "reasoning": "'Small' means little in size or scope; while fitting the relative size of the objection, it doesn't capture the lack of worth." },
+        { "distractor": "secondary", "closeness": 2, "reasoning": "'Secondary' means of less importance; while fitting a lesser objection, it doesn't capture the full sense of lacking importance." },
+        { "distractor": "significant", "closeness": 1, "reasoning": "'Significant' means important or notable; the sentence describes the objection as trivial relative to the proposal, opposite to significant." },
+        { "distractor": "substantial", "closeness": 1, "reasoning": "'Substantial' means considerable in importance; the sentence describes a trivial objection, opposite to substantial." },
+        { "distractor": "crucial", "closeness": 1, "reasoning": "'Crucial' means critical or essential; the sentence describes a trivial objection that distracted from a major proposal, opposite to crucial." }
+      ]
+    },
+    {
+      "sentence": "Their arguments over trivial matters—who did the dishes, whose turn it was to take out the trash—masked deeper incompatibilities.",
+      "answerChoices": [
+        { "distractor": "minor", "closeness": 3, "reasoning": "'Minor' means of lesser importance, fitting arguments over unimportant household tasks; however, 'minor' just means smaller, while 'trivial' emphasizes lack of worth." },
+        { "distractor": "trifling", "closeness": 3, "reasoning": "'Trifling' means lacking in significance or worth, fitting arguments over unimportant domestic chores; 'trifling' is virtually synonymous with 'trivial.'" },
+        { "distractor": "petty", "closeness": 3, "reasoning": "'Petty' means small and of little importance, fitting arguments over household chores; however, 'petty' has connotations of meanness and pettiness, while 'trivial' is more neutral." },
+        { "distractor": "insignificant", "closeness": 3, "reasoning": "'Insignificant' means unimportant, fitting arguments over dishes and trash; 'insignificant' is very close to 'trivial.'" },
+        { "distractor": "superficial", "closeness": 2, "reasoning": "'Superficial' means on the surface without depth; while the arguments mask deeper issues, 'superficial' describes depth rather than importance." },
+        { "distractor": "shallow", "closeness": 2, "reasoning": "'Shallow' means lacking depth; while fitting surface-level arguments, it emphasizes shallowness rather than lack of importance." },
+        { "distractor": "routine", "closeness": 2, "reasoning": "'Routine' means ordinary or regular; while household tasks are routine, the sentence emphasizes their lack of importance, not their regularity." },
+        { "distractor": "mundane", "closeness": 2, "reasoning": "'Mundane' means ordinary and everyday; while fitting household tasks, it describes ordinariness rather than lack of importance." },
+        { "distractor": "essential", "closeness": 1, "reasoning": "'Essential' means absolutely necessary or important; the sentence describes arguments over trivial matters, opposite to essential." },
+        { "distractor": "fundamental", "closeness": 1, "reasoning": "'Fundamental' means basic and essential; the sentence describes trivial arguments that mask the fundamental incompatibilities, opposite to fundamental." },
+        { "distractor": "important", "closeness": 1, "reasoning": "'Important' means of great significance; the sentence describes trivial matters masking deeper issues, opposite to important." }
+      ]
+    },
+    {
+      "sentence": "For an expert in the field, the puzzle that had stumped novices was entirely trivial and solved in minutes.",
+      "answerChoices": [
+        { "distractor": "easy", "closeness": 3, "reasoning": "'Easy' means not difficult or requiring little effort, fitting a puzzle solved in minutes by an expert; however, 'easy' is subjective and depends on skill, while 'trivial' emphasizes lack of worth." },
+        { "distractor": "simple", "closeness": 3, "reasoning": "'Simple' means not complex; while fitting a puzzle easily solved, 'simple' describes complexity, not importance or worth." },
+        { "distractor": "elementary", "closeness": 3, "reasoning": "'Elementary' means basic or easy; while fitting a puzzle easy for an expert, it emphasizes being basic rather than lacking importance." },
+        { "distractor": "inconsequential", "closeness": 3, "reasoning": "'Inconsequential' means unimportant; fitting a puzzle lacking real difficulty, this is very close to 'trivial.'" },
+        { "distractor": "minor", "closeness": 2, "reasoning": "'Minor' means of lesser importance; while fitting an unimportant puzzle, it just means smaller." },
+        { "distractor": "trifling", "closeness": 2, "reasoning": "'Trifling' means lacking significance; while very close to 'trivial,' it's used as a near-synonym here." },
+        { "distractor": "manageable", "closeness": 2, "reasoning": "'Manageable' means able to be handled; while fitting a solvable puzzle, it doesn't capture the sense of lack of importance." },
+        { "distractor": "straightforward", "closeness": 2, "reasoning": "'Straightforward' means direct and uncomplicated; while fitting a puzzle solved easily, it emphasizes simplicity rather than lack of worth." },
+        { "distractor": "challenging", "closeness": 1, "reasoning": "'Challenging' means difficult and requiring effort; the sentence describes the puzzle as entirely trivial and solved in minutes, opposite to challenging." },
+        { "distractor": "formidable", "closeness": 1, "reasoning": "'Formidable' means inspiring awe or dread because of impressiveness; the sentence describes the puzzle as trivial, opposite to formidable." },
+        { "distractor": "profound", "closeness": 1, "reasoning": "'Profound' means very deep or significant; the sentence describes the puzzle as trivial to an expert, opposite to profound." }
+      ]
+    }
+  ]
+}

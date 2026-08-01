@@ -1,0 +1,53 @@
+{
+  "word": "antecedent",
+  "sentenceSets": [
+    {
+      "sentence": "Understanding the antecedent conditions is essential to explaining why the crisis occurred when it did.",
+      "answerChoices": [
+        { "distractor": "causal", "closeness": 3, "reasoning": "Causal means relating to cause, overlapping with antecedent, but focuses on cause-and-effect rather than preceding temporal conditions." },
+        { "distractor": "precipitating", "closeness": 3, "reasoning": "Precipitating means bringing about or causing to happen, close to antecedent but emphasizes the triggering action rather than prior conditions." },
+        { "distractor": "initial", "closeness": 3, "reasoning": "Initial means first or at the beginning, which overlaps with antecedent's temporal aspect but doesn't necessarily convey causative conditions." },
+        { "distractor": "preliminary", "closeness": 3, "reasoning": "Preliminary means introductory or preparatory, describing prior events but not necessarily the conditions that led to the crisis." },
+        { "distractor": "underlying", "closeness": 2, "reasoning": "Underlying means forming a base or foundation, which antecedent conditions often do, but doesn't specifically mean preceding in time." },
+        { "distractor": "contextual", "closeness": 2, "reasoning": "Contextual means providing circumstances or setting, which antecedent conditions supply, but is broader than specifically prior conditions." },
+        { "distractor": "background", "closeness": 2, "reasoning": "Background means the circumstances or setting, which antecedent conditions provide, but doesn't specifically emphasize temporal precedence." },
+        { "distractor": "historical", "closeness": 2, "reasoning": "Historical means relating to past events, overlapping with antecedent but focusing on the past generally rather than specifically preceding conditions." },
+        { "distractor": "concurrent", "closeness": 1, "reasoning": "Concurrent means happening at the same time, opposite to antecedent which refers to conditions that precede." },
+        { "distractor": "consequential", "closeness": 1, "reasoning": "Consequential means following as a result, opposite to antecedent which refers to prior rather than resulting conditions." },
+        { "distractor": "subsequent", "closeness": 1, "reasoning": "Subsequent means coming after in time, opposite to antecedent conditions which occur before the crisis." }
+      ]
+    },
+    {
+      "sentence": "The therapist traced the patient's anxiety back to antecedent trauma from childhood, identifying the source of current emotional patterns.",
+      "answerChoices": [
+        { "distractor": "original", "closeness": 3, "reasoning": "Original means first in time or order, which the childhood trauma is, but doesn't convey the causal relationship to current patterns." },
+        { "distractor": "root", "closeness": 3, "reasoning": "Root means the fundamental source or origin, very similar to antecedent but is more metaphorical than temporal." },
+        { "distractor": "foundational", "closeness": 3, "reasoning": "Foundational means serving as a base or foundation, which the trauma is, but doesn't necessarily specify prior temporal placement." },
+        { "distractor": "primary", "closeness": 3, "reasoning": "Primary means first in importance or order, overlapping with antecedent but focusing on importance rather than precedence." },
+        { "distractor": "formative", "closeness": 2, "reasoning": "Formative means shaping or having a major influence on development, which the trauma is, but doesn't specifically mean preceding." },
+        { "distractor": "decisive", "closeness": 2, "reasoning": "Decisive means having the power to decide an outcome, which the trauma has, but focuses on influence rather than temporal precedence." },
+        { "distractor": "seminal", "closeness": 2, "reasoning": "Seminal means originating or resulting from, which the trauma is, but doesn't specifically convey it preceded the current patterns." },
+        { "distractor": "significant", "closeness": 2, "reasoning": "Significant means important or meaningful, which the childhood trauma is, but doesn't specifically indicate temporal precedence." },
+        { "distractor": "recent", "closeness": 1, "reasoning": "Recent means happening not long ago, opposite to childhood trauma which occurred in the distant past." },
+        { "distractor": "current", "closeness": 1, "reasoning": "Current means happening now or at present, opposite to antecedent events which preceded the present emotional patterns." },
+        { "distractor": "temporary", "closeness": 1, "reasoning": "Temporary means lasting only a short time, opposite to antecedent childhood trauma which has lasting effects." }
+      ]
+    },
+    {
+      "sentence": "The sociologist argued that discriminatory laws were an antecedent to centuries of wealth disparity between different populations.",
+      "answerChoices": [
+        { "distractor": "contributing", "closeness": 3, "reasoning": "Contributing means helping to cause something, which antecedent laws do, but describes their role rather than their temporal precedence." },
+        { "distractor": "foundational", "closeness": 3, "reasoning": "Foundational means serving as a base or foundation, which the laws are, but doesn't specifically convey temporal precedence." },
+        { "distractor": "establishing", "closeness": 3, "reasoning": "Establishing means creating or instituting, which the discriminatory laws do, but doesn't convey the specific sense of preceding conditions." },
+        { "distractor": "initiating", "closeness": 3, "reasoning": "Initiating means beginning or starting, which the laws do, but focuses on the act of beginning rather than preceding temporal position." },
+        { "distractor": "catalyzing", "closeness": 2, "reasoning": "Catalyzing means serving as a catalyst for change, which the laws did, but focuses on triggering rather than preceding conditions." },
+        { "distractor": "enabling", "closeness": 2, "reasoning": "Enabling means making possible or facilitating, which the laws did, but doesn't specifically indicate temporal precedence." },
+        { "distractor": "perpetuating", "closeness": 2, "reasoning": "Perpetuating means continuing or maintaining, which the laws did, but suggests ongoing action rather than prior conditions." },
+        { "distractor": "influencing", "closeness": 2, "reasoning": "Influencing means affecting or having an effect on, which the laws did, but is too general to specifically mean antecedent." },
+        { "distractor": "resulting", "closeness": 1, "reasoning": "Resulting means occurring as a consequence, opposite to antecedent which refers to prior causes rather than resulting events." },
+        { "distractor": "following", "closeness": 1, "reasoning": "Following means coming after in time, opposite to antecedent laws which preceded the wealth disparity." },
+        { "distractor": "responding", "closeness": 1, "reasoning": "Responding means acting in reaction to something, opposite to antecedent which refers to what precedes rather than what reacts." }
+      ]
+    }
+  ]
+}

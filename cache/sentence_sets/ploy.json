@@ -1,0 +1,53 @@
+{
+  "word": "ploy",
+  "sentenceSets": [
+    {
+      "sentence": "The generous initial concession was a ploy to secure something more significant in return.",
+      "answerChoices": [
+        { "distractor": "tactic", "closeness": 3, "reasoning": "A tactic is a strategic move, but it lacks the implication of deception that makes the concession suspicious rather than simply strategic." },
+        { "distractor": "stratagem", "closeness": 3, "reasoning": "A stratagem is a calculated scheme, but it is equally general and doesn't necessarily convey the manipulative intent of luring someone into a trap." },
+        { "distractor": "gambit", "closeness": 3, "reasoning": "A gambit is an opening move, but the sentence emphasizes what was gained later, not the mechanics of the initial concession as a chess-like opening." },
+        { "distractor": "ruse", "closeness": 3, "reasoning": "A ruse is a deceptive trick, yet the sentence does not establish that the concession was false—only that it was calculated to lead to something larger." },
+        { "distractor": "scheme", "closeness": 2, "reasoning": "A scheme is a plan or plot, but it is less specific and does not capture the theatrical or stagey quality implied by offering a generous concession as bait." },
+        { "distractor": "maneuver", "closeness": 2, "reasoning": "A maneuver is a planned movement or action, but it does not emphasize the psychological manipulation of the other party the way the sentence implies." },
+        { "distractor": "expedient", "closeness": 2, "reasoning": "An expedient is a means to an end, but it focuses on convenience rather than on the deceptive or calculated nature of yielding something upfront." },
+        { "distractor": "venture", "closeness": 1, "reasoning": "A venture is a risky undertaking or business enterprise, which does not fit the context of a calculated concession designed to manipulate." },
+        { "distractor": "bluff", "closeness": 1, "reasoning": "A bluff is a false threat or pretense, but the sentence describes a real concession given, not a false claim or empty threat." },
+        { "distractor": "pretext", "closeness": 1, "reasoning": "A pretext is a false reason, but the sentence implies the concession itself is real; only its purpose is hidden, not its existence." },
+        { "distractor": "boon", "closeness": 1, "reasoning": "A boon is a benefit or blessing granted freely, which contradicts the manipulative intent established by the phrase 'to secure something more significant in return.'" }
+      ]
+    },
+    {
+      "sentence": "The startup's free trial period was a ploy to build user momentum before launching the paid tier.",
+      "answerChoices": [
+        { "distractor": "stratagem", "closeness": 3, "reasoning": "A stratagem is a calculated scheme, yet the free trial is more casual and customer-facing than a stratagem, which suggests hidden maneuvering." },
+        { "distractor": "gambit", "closeness": 3, "reasoning": "A gambit is an opening move designed to gain advantage, but it is typically associated with games or negotiation, not with attracting users through incentives." },
+        { "distractor": "tactic", "closeness": 3, "reasoning": "A tactic is a method of achieving something, but the sentence emphasizes the deceptive or manipulative dimension rather than just the method itself." },
+        { "distractor": "gimmick", "closeness": 3, "reasoning": "A gimmick is a clever device or attraction, yet it carries a pejorative sense of being superficial or a cheap trick, whereas the free trial is a genuine business tool." },
+        { "distractor": "scheme", "closeness": 2, "reasoning": "A scheme is a plan, but it suggests something underhand or conspiracy, whereas the free trial is a transparent and widely-used business model." },
+        { "distractor": "ruse", "closeness": 2, "reasoning": "A ruse is a deceptive trick, but the free trial is openly offered and acknowledged, not a hidden deception." },
+        { "distractor": "expedient", "closeness": 2, "reasoning": "An expedient is a convenient means to an end, but it does not convey the calculated psychological manipulation of offering something free to create habit." },
+        { "distractor": "hook", "closeness": 1, "reasoning": "A hook is a device for catching or attracting, which is metaphorically close, but it is too informal and suggests entrapment rather than a legitimate business model." },
+        { "distractor": "subterfuge", "closeness": 1, "reasoning": "Subterfuge is deception through concealment, but the free trial is openly disclosed to users, so it cannot be a concealment." },
+        { "distractor": "feint", "closeness": 1, "reasoning": "A feint is a deceptive movement in combat or sports, which does not fit the business context of attracting users to a software platform." },
+        { "distractor": "incentive", "closeness": 1, "reasoning": "An incentive is a reward or motivation, but it describes the offer itself rather than the cunning or deceptive purpose behind it as the blank requires." }
+      ]
+    },
+    {
+      "sentence": "His seemingly casual remarks about the competitor's product were a calculated ploy to undermine their credibility.",
+      "answerChoices": [
+        { "distractor": "stratagem", "closeness": 3, "reasoning": "A stratagem is a calculated scheme, but it lacks the connotation of subtle, indirect undermining that the 'seemingly casual' phrasing emphasizes." },
+        { "distractor": "gambit", "closeness": 3, "reasoning": "A gambit is an opening move, yet it suggests more explicit positioning than the passive-seeming comments that mask an aggressive intent." },
+        { "distractor": "maneuver", "closeness": 3, "reasoning": "A maneuver is a planned move, but it does not capture the deceptive presentation of the remarks as casual when they are actually targeted." },
+        { "distractor": "ruse", "closeness": 3, "reasoning": "A ruse is a deceptive trick, yet it is too broad and does not specifically denote the manipulative social performance of appearing casual." },
+        { "distractor": "scheme", "closeness": 2, "reasoning": "A scheme is a plan, but it suggests conspiratorial plotting rather than the subtle, surface-level deception of casual talk with hidden purpose." },
+        { "distractor": "subterfuge", "closeness": 2, "reasoning": "Subterfuge is deception through concealment, yet the remarks themselves are made openly; only their intent is concealed, not their utterance." },
+        { "distractor": "pretext", "closeness": 2, "reasoning": "A pretext is a false reason, but the sentence does not establish that the remarks are untrue, only that they serve a hidden agenda." },
+        { "distractor": "barb", "closeness": 1, "reasoning": "A barb is a hurtful remark or a sharp projecting point, but it suggests direct hostility rather than the calculated, seemingly casual appearance required." },
+        { "distractor": "innuendo", "closeness": 1, "reasoning": "Innuendo is an indirect or subtle reference, but it focuses on the form of the remark rather than its status as a deliberate manipulative maneuver." },
+        { "distractor": "candor", "closeness": 1, "reasoning": "Candor is frankness or honesty, which directly contradicts the calculated and deceptive nature of the seemingly casual remarks." },
+        { "distractor": "observation", "closeness": 1, "reasoning": "An observation is a remark or notice, but it lacks entirely the connotation of deliberate manipulation and hidden intent that the sentence requires." }
+      ]
+    }
+  ]
+}

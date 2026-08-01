@@ -1,0 +1,53 @@
+{
+  "word": "row",
+  "sentenceSets": [
+    {
+      "sentence": "Every morning, the crew would row across the harbor before the tide shifted, making their return journey considerably easier.",
+      "answerChoices": [
+        { "distractor": "sail", "closeness": 3, "reasoning": "Both propel a boat, but 'sail' uses wind-filled canvas rather than oars; the sentence emphasizes the timing advantage of tidal movement, suggesting active human propulsion, not wind dependency." },
+        { "distractor": "paddle", "closeness": 3, "reasoning": "Both propel with human-powered implements in water, but 'paddle' uses loose hand-held oars in kayaks or canoes, whereas the sentence's formal crew context and tide calculation suggest oars used in rowing proper." },
+        { "distractor": "drift", "closeness": 3, "reasoning": "Describes movement with currents without active propulsion; the sentence shows deliberate timing based on tide shifts, implying intentional propulsion, not passive drifting." },
+        { "distractor": "navigate", "closeness": 3, "reasoning": "Means to steer or find direction; while crews do navigate, the sentence's emphasis on crossing the harbor with tidal timing requires specifying the propulsion method, which 'navigate' does not." },
+        { "distractor": "glide", "closeness": 2, "reasoning": "Means to move smoothly and effortlessly; the sentence emphasizes crew work and tidal planning, suggesting deliberate propulsion effort rather than effortless movement." },
+        { "distractor": "traverse", "closeness": 2, "reasoning": "Means to cross from one side to another; while accurate for the action, it doesn't specify the propulsion method that the sentence's context (harbor crossing by crew) requires." },
+        { "distractor": "journey", "closeness": 2, "reasoning": "Means to travel; the sentence requires a verb that specifies how the crossing is accomplished, not merely that a journey is undertaken." },
+        { "distractor": "transit", "closeness": 2, "reasoning": "Means to pass through or travel via; like 'journey,' it describes travel in general but doesn't specify the oar-based propulsion method." },
+        { "distractor": "anchor", "closeness": 1, "reasoning": "Means to secure a boat in place; directly opposite to the action of actively crossing the harbor that the sentence describes." },
+        { "distractor": "dock", "closeness": 1, "reasoning": "Means to secure a boat at a mooring; opposite to the outbound crossing motion required by the sentence." },
+        { "distractor": "beach", "closeness": 1, "reasoning": "Means to run a boat ashore; opposite to the morning departure and harbor crossing that the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "The elderly couple decided to row out to the island where they had spent their honeymoon fifty years earlier.",
+      "answerChoices": [
+        { "distractor": "sail", "closeness": 3, "reasoning": "Both transport a boat to the destination, but 'sail' requires wind and no oars; the intimate, personal journey to a cherished memory location suggests the quiet, human-powered effort of rowing." },
+        { "distractor": "paddle", "closeness": 3, "reasoning": "Both use human-powered implements in water, but 'paddle' is associated with smaller vessels like kayaks, while the sentence's tone (elderly couple's sentimental journey) suggests a traditional rowboat suitable for oars." },
+        { "distractor": "kayak", "closeness": 3, "reasoning": "Describes propelling a kayak specifically; while similar to rowing in method, the sentence's nostalgic context suggests a traditional rowboat, not a modern kayak." },
+        { "distractor": "cruise", "closeness": 3, "reasoning": "Describes travel by boat without specifying propulsion method; the couple's deliberate choice to return to a meaningful location on their own power (via oars) suggests active engagement, not leisurely cruising." },
+        { "distractor": "travel", "closeness": 2, "reasoning": "Describes movement from place to place; the sentence requires specification of the water-based propulsion method, not just the general concept of travel." },
+        { "distractor": "venture", "closeness": 2, "reasoning": "Means to undertake a journey or risk; while applicable to their sentimental trip, it's too general and doesn't capture the specific method of reaching the island." },
+        { "distractor": "voyage", "closeness": 2, "reasoning": "Describes a long journey by sea; while appropriate for water travel, it suggests larger-scale exploration, whereas the sentence emphasizes a personal, intimate return to a remembered place." },
+        { "distractor": "journey", "closeness": 2, "reasoning": "Means to travel; like 'venture' and 'voyage,' it's too general and doesn't specify the oar-based propulsion the sentence implies." },
+        { "distractor": "fly", "closeness": 1, "reasoning": "Describes aerial propulsion; directly opposite method of transportation to the water-based journey the sentence describes." },
+        { "distractor": "drive", "closeness": 1, "reasoning": "Describes propulsion by motor vehicle; incompatible with reaching an island, which requires water-based transport." },
+        { "distractor": "walk", "closeness": 1, "reasoning": "Describes movement on foot; incompatible with reaching an island separated by water." }
+      ]
+    },
+    {
+      "sentence": "In competitive regattas, athletes row with such precision and power that spectators can feel the boat surge forward with each coordinated stroke.",
+      "answerChoices": [
+        { "distractor": "paddle", "closeness": 3, "reasoning": "Both propel with human-powered implements, but 'paddle' lacks the formality and coordinated strength of competitive rowing; the sentence emphasizes the precision and power that only oar-based rowing provides." },
+        { "distractor": "sprint", "closeness": 3, "reasoning": "Describes moving at high speed; while the sentence shows rapid boat movement, 'sprint' names the result (speed) rather than the specific propulsion technique (oars in coordinated strokes)." },
+        { "distractor": "thrust", "closeness": 3, "reasoning": "Means to propel forcefully forward; similar to the sentence's emphasis on power and surge, but 'thrust' is a general action, not the specific technique of synchronized oar strokes." },
+        { "distractor": "accelerate", "closeness": 3, "reasoning": "Means to increase speed; the sentence shows the sensation of surge with each stroke, but 'accelerate' describes the speed change itself, not the rowing action that causes it." },
+        { "distractor": "drive", "closeness": 2, "reasoning": "Means to propel or move forcefully; while applicable to the power generated, it's too general and doesn't capture the specific synchronized oar technique of competitive rowing." },
+        { "distractor": "push", "closeness": 2, "reasoning": "Means to exert force in a direction; part of rowing's mechanics, but lacks the coordinated rhythmic quality and specificity that 'row' conveys in a regatta context." },
+        { "distractor": "propel", "closeness": 2, "reasoning": "Means to move forward or drive; too general a term; the sentence requires the specific technique of synchronized oar strokes, not just generic propulsion." },
+        { "distractor": "pull", "closeness": 2, "reasoning": "Means to exert force toward oneself; one component of rowing, but insufficient alone; the sentence requires the complete, coordinated rowing technique." },
+        { "distractor": "brake", "closeness": 1, "reasoning": "Means to slow or stop; opposite of the forward surge and power that the sentence emphasizes in the competitive rowing performance." },
+        { "distractor": "coast", "closeness": 1, "reasoning": "Means to move without powered propulsion; opposite of the active, powerful rowing effort that generates the surge described in the sentence." },
+        { "distractor": "drift", "closeness": 1, "reasoning": "Means to move without controlled action; opposite of the precision and coordinated effort that the sentence attributes to competitive athletes." }
+      ]
+    }
+  ]
+}

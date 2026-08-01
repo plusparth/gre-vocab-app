@@ -1,0 +1,53 @@
+{
+  "word": "unfeigned",
+  "sentenceSets": [
+    {
+      "sentence": "The unfeigned surprise on his face confirmed that he had not been told what was about to happen.",
+      "answerChoices": [
+        { "distractor": "genuine", "closeness": 3, "reasoning": "Genuine means authentic and real; unfeigned specifically means not pretended or false, which is similar but emphasizes the absence of pretense." },
+        { "distractor": "authentic", "closeness": 3, "reasoning": "Authentic means real and genuine; unfeigned specifically emphasizes the absence of pretense or hypocrisy." },
+        { "distractor": "sincere", "closeness": 3, "reasoning": "Sincere means honest and truthful; unfeigned specifically emphasizes the absence of false pretense in expression." },
+        { "distractor": "real", "closeness": 3, "reasoning": "Real means actually existing; unfeigned specifically means not pretended, which is a subset of being real." },
+        { "distractor": "true", "closeness": 2, "reasoning": "True means in accordance with fact; unfeigned specifically means not pretended or hypocritical." },
+        { "distractor": "honest", "closeness": 2, "reasoning": "Honest means truthful; unfeigned specifically refers to not pretending or being false in expression." },
+        { "distractor": "transparent", "closeness": 2, "reasoning": "Transparent means easily perceived; unfeigned specifically means not pretended, which can be transparent but isn't necessarily." },
+        { "distractor": "unmistakable", "closeness": 2, "reasoning": "Unmistakable means clear and obvious; unfeigned specifically means not pretended, not just obvious." },
+        { "distractor": "feigned", "closeness": 1, "reasoning": "Feigned means pretended or faked, the direct opposite of unfeigned." },
+        { "distractor": "false", "closeness": 1, "reasoning": "False means not true or genuine, the opposite of unfeigned, which is real and genuine." },
+        { "distractor": "hypocritical", "closeness": 1, "reasoning": "Hypocritical means pretending to have beliefs one doesn't hold, the opposite of unfeigned genuineness." }
+      ]
+    },
+    {
+      "sentence": "The actor's unfeigned tears during the funeral scene moved the audience because they recognized the emotional authenticity rather than technique.",
+      "answerChoices": [
+        { "distractor": "real", "closeness": 3, "reasoning": "Real means actually existing; unfeigned specifically means not pretended, which emphasizes the absence of acting or false performance." },
+        { "distractor": "authentic", "closeness": 3, "reasoning": "Authentic means genuine; unfeigned specifically emphasizes the absence of pretense in the emotional expression." },
+        { "distractor": "heartfelt", "closeness": 3, "reasoning": "Heartfelt means deeply sincere; unfeigned specifically means not pretended, which heartfelt implies but emphasizes emotion rather than absence of pretense." },
+        { "distractor": "sincere", "closeness": 3, "reasoning": "Sincere means genuinely felt; unfeigned specifically means not pretended or hypocritical." },
+        { "distractor": "moving", "closeness": 2, "reasoning": "Moving means emotionally affecting; unfeigned specifically means not pretended, which can be moving but isn't the defining characteristic." },
+        { "distractor": "touching", "closeness": 2, "reasoning": "Touching means emotionally affecting; unfeigned specifically refers to not pretending, which may or may not be touching." },
+        { "distractor": "honest", "closeness": 2, "reasoning": "Honest means truthful; unfeigned specifically refers to not pretending in emotional expression." },
+        { "distractor": "transparent", "closeness": 2, "reasoning": "Transparent means easily perceived; unfeigned refers to not pretending, which can appear transparent but isn't the core meaning." },
+        { "distractor": "feigned", "closeness": 1, "reasoning": "Feigned means pretended or faked, the direct opposite of unfeigned." },
+        { "distractor": "acted", "closeness": 1, "reasoning": "Acted means performed artificially, the opposite of unfeigned tears, which are genuinely felt." },
+        { "distractor": "artificial", "closeness": 1, "reasoning": "Artificial means made or produced by human craft, the opposite of unfeigned, which is naturally genuine." }
+      ]
+    },
+    {
+      "sentence": "The scholar's unfeigned admiration for her intellectual opponents, even those who disagreed with her conclusions, earned her respect across ideological lines.",
+      "answerChoices": [
+        { "distractor": "genuine", "closeness": 3, "reasoning": "Genuine means authentic and real; unfeigned specifically means not pretended or performed for show." },
+        { "distractor": "authentic", "closeness": 3, "reasoning": "Authentic means truly representative; unfeigned specifically emphasizes the absence of false pretense." },
+        { "distractor": "sincere", "closeness": 3, "reasoning": "Sincere means felt genuinely; unfeigned specifically means not feigned or hypocritical." },
+        { "distractor": "true", "closeness": 3, "reasoning": "True means in accordance with fact; unfeigned means not pretended, which true can imply but is broader." },
+        { "distractor": "honest", "closeness": 2, "reasoning": "Honest means truthful; unfeigned specifically refers to not pretending or being false." },
+        { "distractor": "straightforward", "closeness": 2, "reasoning": "Straightforward means direct and honest; unfeigned specifically refers to not pretending." },
+        { "distractor": "transparent", "closeness": 2, "reasoning": "Transparent means easily understood; unfeigned refers to not pretending, which can be transparent but isn't necessarily." },
+        { "distractor": "principled", "closeness": 2, "reasoning": "Principled means guided by moral principles; unfeigned refers to not pretending, which can follow from principles but isn't the core meaning." },
+        { "distractor": "feigned", "closeness": 1, "reasoning": "Feigned means pretended, the direct opposite of unfeigned." },
+        { "distractor": "fake", "closeness": 1, "reasoning": "Fake means false or imitation, the opposite of unfeigned, which is genuine." },
+        { "distractor": "hypocritical", "closeness": 1, "reasoning": "Hypocritical means pretending to have beliefs one doesn't hold, the opposite of unfeigned honesty." }
+      ]
+    }
+  ]
+}

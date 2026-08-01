@@ -1,0 +1,53 @@
+{
+  "word": "subsidy",
+  "sentenceSets": [
+    {
+      "sentence": "The subsidy had distorted the market in ways that its beneficiaries had come to treat as natural conditions rather than policy choices.",
+      "answerChoices": [
+        { "distractor": "grant", "closeness": 3, "reasoning": "A grant is money given for a specific purpose; the sentence shows money distorting markets, but subsidy specifically emphasizes financial support to keep prices or income artificially affected." },
+        { "distractor": "donation", "closeness": 3, "reasoning": "A donation is money given as a gift; the sentence shows financial support distorting markets, but subsidy is government support affecting economics." },
+        { "distractor": "aid", "closeness": 3, "reasoning": "Aid is financial support given in hardship; the sentence shows government support, but subsidy specifically refers to economic market manipulation." },
+        { "distractor": "relief", "closeness": 3, "reasoning": "Relief is assistance given in difficulty; the sentence shows financial support, but subsidy specifically refers to ongoing economic support affecting market conditions." },
+        { "distractor": "allowance", "closeness": 2, "reasoning": "An allowance is a regular sum given; the sentence shows financial support distorting markets, but subsidy emphasizes economic policy effects." },
+        { "distractor": "stipend", "closeness": 2, "reasoning": "A stipend is a regular allowance or salary; the sentence shows support distorting markets, but subsidy emphasizes economic effects." },
+        { "distractor": "endowment", "closeness": 2, "reasoning": "An endowment is a sum of money given for support; the sentence shows distortion of markets, but subsidy emphasizes government economic policy." },
+        { "distractor": "contribution", "closeness": 2, "reasoning": "A contribution is a gift or payment; the sentence shows financial support, but subsidy emphasizes government market-affecting support." },
+        { "distractor": "tax", "closeness": 1, "reasoning": "A tax is money required to be paid to government; the sentence describes a subsidy given by government, the opposite of taxation." },
+        { "distractor": "fine", "closeness": 1, "reasoning": "A fine is a penalty payment; the sentence describes a subsidy as government support, the opposite of punishment." },
+        { "distractor": "fee", "closeness": 1, "reasoning": "A fee is a charge for a service; the sentence describes a subsidy as government money given, opposite to payment for services." }
+      ]
+    },
+    {
+      "sentence": "The government provided a subsidy to farmers to help them cope with falling crop prices and maintain their income.",
+      "answerChoices": [
+        { "distractor": "loan", "closeness": 3, "reasoning": "A loan is money lent that must be repaid; the sentence shows government financial support, but subsidy is given without repayment requirement." },
+        { "distractor": "grant", "closeness": 3, "reasoning": "A grant is money given for specific purposes; the sentence shows government support, but subsidy specifically refers to ongoing support to maintain prices or income." },
+        { "distractor": "aid", "closeness": 3, "reasoning": "Aid is assistance given; the sentence shows government financial support, but subsidy is specifically market-affecting support." },
+        { "distractor": "assistance", "closeness": 3, "reasoning": "Assistance is help given in difficulty; the sentence shows financial help, but subsidy emphasizes government economic support." },
+        { "distractor": "payment", "closeness": 2, "reasoning": "A payment is money given for services or goods; the sentence shows support, but subsidy is government support without reciprocal service." },
+        { "distractor": "compensation", "closeness": 2, "reasoning": "Compensation is payment given for loss or service; the sentence shows government support to farmers, but subsidy is ongoing support." },
+        { "distractor": "reimbursement", "closeness": 2, "reasoning": "Reimbursement is money returned for expenses; the sentence shows government support, but subsidy is economic market support." },
+        { "distractor": "allowance", "closeness": 2, "reasoning": "An allowance is a regular amount given; the sentence shows support to farmers, but subsidy specifically refers to economic policy support." },
+        { "distractor": "tax", "closeness": 1, "reasoning": "A tax is money required to be paid; the sentence describes government providing subsidy, the opposite of collecting taxes." },
+        { "distractor": "fine", "closeness": 1, "reasoning": "A fine is a penalty payment; the sentence describes a subsidy to help farmers, the opposite of punishment." },
+        { "distractor": "charge", "closeness": 1, "reasoning": "A charge is a cost or payment required; the sentence describes government providing subsidy, the opposite of charging farmers." }
+      ]
+    },
+    {
+      "sentence": "Without the arts subsidy, the theater would have closed, eliminating the only cultural venue in the rural community.",
+      "answerChoices": [
+        { "distractor": "grant", "closeness": 3, "reasoning": "A grant is money given for specific purposes; the sentence shows government financial support preventing closure, but subsidy specifically emphasizes ongoing support." },
+        { "distractor": "donation", "closeness": 3, "reasoning": "A donation is money given as a gift; the sentence shows financial support, but subsidy is government economic support." },
+        { "distractor": "funding", "closeness": 3, "reasoning": "Funding is money provided for a purpose; the sentence shows support preventing closure, but subsidy specifically refers to government support." },
+        { "distractor": "endowment", "closeness": 3, "reasoning": "An endowment is money given for support; the sentence shows financial support, but subsidy emphasizes government economic support." },
+        { "distractor": "sponsorship", "closeness": 2, "reasoning": "Sponsorship is support given by a sponsor; the sentence shows financial support, but subsidy emphasizes government support." },
+        { "distractor": "patronage", "closeness": 2, "reasoning": "Patronage is support given by patrons; the sentence shows financial support, but subsidy is government support." },
+        { "distractor": "aid", "closeness": 2, "reasoning": "Aid is assistance given; the sentence shows support preventing closure, but subsidy emphasizes government economic support." },
+        { "distractor": "allowance", "closeness": 2, "reasoning": "An allowance is money regularly given; the sentence shows support preventing closure, but subsidy emphasizes government economic policy." },
+        { "distractor": "debt", "closeness": 1, "reasoning": "A debt is money owed; the sentence describes a subsidy that prevents closure, the opposite of debt." },
+        { "distractor": "loss", "closeness": 1, "reasoning": "A loss is money spent without return; the sentence describes a subsidy preventing closure, implying financial preservation." },
+        { "distractor": "deficit", "closeness": 1, "reasoning": "A deficit is shortage or shortfall; the sentence describes a subsidy preventing closure, implying financial support, not deficit." }
+      ]
+    }
+  ]
+}

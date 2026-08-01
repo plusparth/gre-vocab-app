@@ -1,0 +1,53 @@
+{
+  "word": "divulge",
+  "sentenceSets": [
+    {
+      "sentence": "The attorney refused to divulge the contents of the settlement, citing a confidentiality clause both parties had signed.",
+      "answerChoices": [
+        { "distractor": "reveal", "closeness": 3, "reasoning": "Close -- 'reveal' means to uncover or make visible, fitting the sense of disclosing information, but it is more general and does not specifically convey the deliberate act of making something publicly known." },
+        { "distractor": "disclose", "closeness": 3, "reasoning": "Close -- 'disclose' means to reveal or make known, nearly synonymous with divulge, but it is slightly more formal and less often implies the act of making something previously secret widely known." },
+        { "distractor": "expose", "closeness": 3, "reasoning": "Close -- 'expose' means to lay open or uncover, fitting the context of sharing settlement details, but it carries a stronger connotation of unveiling something problematic rather than simply making information known." },
+        { "distractor": "broadcast", "closeness": 3, "reasoning": "Close -- 'broadcast' means to spread widely or publicly announce, which fits the sense of making information known, but it implies intentional and wide dissemination rather than simply speaking or telling the truth." },
+        { "distractor": "explain", "closeness": 2, "reasoning": "Incorrect -- 'explain' means to make clear or describe in detail, but does not convey the sense of sharing confidential or previously hidden information." },
+        { "distractor": "mention", "closeness": 2, "reasoning": "Incorrect -- 'mention' means to speak of briefly or refer to, but lacks the sense of deliberately or significantly sharing private information." },
+        { "distractor": "betray", "closeness": 2, "reasoning": "Incorrect -- 'betray' means to reveal in a disloyal manner, but the attorney's refusal prevents such action; moreover, it implies emotional betrayal rather than simply sharing information." },
+        { "distractor": "leak", "closeness": 2, "reasoning": "Incorrect -- 'leak' means to allow secret information to escape, but it implies unintentional or illicit disclosure rather than deliberate sharing." },
+        { "distractor": "conceal", "closeness": 1, "reasoning": "Opposite -- 'conceal' means to hide or keep secret, the direct opposite of divulging information." },
+        { "distractor": "withhold", "closeness": 1, "reasoning": "Opposite -- 'withhold' means to refuse to give or share, the opposite of making information known." },
+        { "distractor": "suppress", "closeness": 1, "reasoning": "Incorrect -- 'suppress' means to prevent something from being known or shown; it is opposite in intent to divulging information." }
+      ]
+    },
+    {
+      "sentence": "The whistleblower agreed to divulge the company's tax evasion scheme to journalists on the condition that her identity would remain protected.",
+      "answerChoices": [
+        { "distractor": "expose", "closeness": 3, "reasoning": "Close -- 'expose' means to reveal something discreditable, which the tax evasion scheme is, but it emphasizes the negative nature of what is revealed rather than the act of making information known." },
+        { "distractor": "disclose", "closeness": 3, "reasoning": "Close -- 'disclose' means to make known or reveal, nearly synonymous with divulge, but it is slightly more formal and can apply to any revelation rather than specifically making a secret widely known." },
+        { "distractor": "share", "closeness": 3, "reasoning": "Close -- 'share' means to impart or make known, fitting the whistleblower's action, but it is more general and does not convey the sense of bringing hidden wrongdoing to light." },
+        { "distractor": "report", "closeness": 3, "reasoning": "Close -- 'report' means to give an account of, which the whistleblower is doing to journalists, but it emphasizes the formal documentation of information rather than the deliberate revelation of a secret." },
+        { "distractor": "inform", "closeness": 2, "reasoning": "Incorrect -- 'inform' means to give information to someone, but does not capture the sense of bringing secret or hidden information to public attention." },
+        { "distractor": "testify", "closeness": 2, "reasoning": "Incorrect -- 'testify' means to give sworn evidence, which may happen but is not what the whistleblower is initially agreeing to do with journalists." },
+        { "distractor": "confess", "closeness": 2, "reasoning": "Incorrect -- 'confess' means to admit to wrongdoing, but the whistleblower is revealing another's misconduct, not her own." },
+        { "distractor": "announce", "closeness": 2, "reasoning": "Incorrect -- 'announce' means to make something known publicly, but does not specifically convey the sense of revealing something previously hidden or secret." },
+        { "distractor": "conceal", "closeness": 1, "reasoning": "Opposite -- 'conceal' means to hide or keep secret, the direct opposite of revealing a company's illegal scheme." },
+        { "distractor": "protect", "closeness": 1, "reasoning": "Opposite -- 'protect' means to keep safe, opposite to the whistleblower's act of exposing the company's wrongdoing." },
+        { "distractor": "defend", "closeness": 1, "reasoning": "Incorrect -- 'defend' means to protect or argue for, opposite to revealing harmful company practices." }
+      ]
+    },
+    {
+      "sentence": "Despite weeks of interrogation, the resistance fighter refused to divulge the location of the underground network, protecting her comrades from capture.",
+      "answerChoices": [
+        { "distractor": "admit", "closeness": 3, "reasoning": "Close -- 'admit' means to acknowledge or confess, which would involve revealing information, but it emphasizes personal acceptance or concession rather than specifically making something known to others." },
+        { "distractor": "tell", "closeness": 3, "reasoning": "Close -- 'tell' means to communicate information to someone, fitting the sense of sharing details about the network, but it is more colloquial and does not convey the significance of revealing a dangerous secret." },
+        { "distractor": "communicate", "closeness": 3, "reasoning": "Close -- 'communicate' means to share or exchange information, but it is too general and does not capture the specific sense of revealing something that must be kept hidden." },
+        { "distractor": "betray", "closeness": 3, "reasoning": "Close -- 'betray' means to reveal someone's secrets treacherously, but it emphasizes disloyalty and betrayal rather than the act of simply sharing information." },
+        { "distractor": "leak", "closeness": 2, "reasoning": "Incorrect -- 'leak' means to allow secret information to escape, but it implies unintentional or accidental disclosure rather than deliberate revelation under interrogation." },
+        { "distractor": "reveal", "closeness": 2, "reasoning": "Incorrect -- 'reveal' means to make visible or known, but does not capture the sense of deliberately sharing something dangerous or secret in response to pressure." },
+        { "distractor": "unearth", "closeness": 2, "reasoning": "Incorrect -- 'unearth' means to dig up or discover, but it focuses on finding something rather than deliberately sharing it with others." },
+        { "distractor": "clarify", "closeness": 2, "reasoning": "Incorrect -- 'clarify' means to make clear or explain, but does not convey the sense of revealing hidden or dangerous information." },
+        { "distractor": "conceal", "closeness": 1, "reasoning": "Opposite -- 'conceal' means to hide or keep secret, the direct opposite of what the fighter refuses to do despite interrogation." },
+        { "distractor": "safeguard", "closeness": 1, "reasoning": "Opposite -- 'safeguard' means to protect from harm, which is the fighter's goal in refusing to reveal the network location." },
+        { "distractor": "withstand", "closeness": 1, "reasoning": "Incorrect -- 'withstand' means to resist or endure, which the fighter does, but it does not mean revealing information." }
+      ]
+    }
+  ]
+}

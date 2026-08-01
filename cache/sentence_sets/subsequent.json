@@ -1,0 +1,53 @@
+{
+  "word": "subsequent",
+  "sentenceSets": [
+    {
+      "sentence": "The subsequent investigation confirmed the initial finding but revealed complications that changed its significance.",
+      "answerChoices": [
+        { "distractor": "secondary", "closeness": 3, "reasoning": "Secondary means second in order; the sentence shows an investigation that came after the initial one, but subsequent specifically emphasizes the temporal ordering." },
+        { "distractor": "following", "closeness": 3, "reasoning": "Following means coming after; the sentence shows an investigation that came after, but subsequent is more formal and specific about the ordering." },
+        { "distractor": "later", "closeness": 3, "reasoning": "Later means coming after in time; the sentence shows an investigation after the initial one, but subsequent is more formal." },
+        { "distractor": "ensuing", "closeness": 3, "reasoning": "Ensuing means following in time; the sentence shows an investigation that came after, but subsequent and ensuing are nearly synonymous." },
+        { "distractor": "next", "closeness": 2, "reasoning": "Next means immediately following; the sentence shows an investigation after the initial one, but subsequent is broader and doesn't require immediacy." },
+        { "distractor": "consequent", "closeness": 2, "reasoning": "Consequent means following as a result; the sentence shows an investigation following, but subsequent doesn't necessarily imply causal relationship." },
+        { "distractor": "future", "closeness": 2, "reasoning": "Future means yet to come; the sentence shows an investigation that came after, but subsequent is more specific about ordering." },
+        { "distractor": "continuing", "closeness": 2, "reasoning": "Continuing means prolonging or ongoing; the sentence shows a separate investigation after the initial, not a continuation." },
+        { "distractor": "initial", "closeness": 1, "reasoning": "Initial means first or beginning; the sentence describes the subsequent investigation that came after the initial finding, the opposite." },
+        { "distractor": "previous", "closeness": 1, "reasoning": "Previous means coming before; the sentence describes the subsequent investigation that came after, the opposite of previous." },
+        { "distractor": "prior", "closeness": 1, "reasoning": "Prior means earlier or before; the sentence shows a subsequent investigation coming after, the opposite of prior." }
+      ]
+    },
+    {
+      "sentence": "In the weeks subsequent to the announcement, the company stock price doubled due to investor enthusiasm.",
+      "answerChoices": [
+        { "distractor": "following", "closeness": 3, "reasoning": "Following means coming after; the sentence shows weeks after the announcement, but subsequent is more formal." },
+        { "distractor": "after", "closeness": 3, "reasoning": "After means following in time; the sentence shows time period after announcement, but subsequent is more formal." },
+        { "distractor": "later", "closeness": 3, "reasoning": "Later means at a time in the future; the sentence shows weeks after announcement, but subsequent is more formal." },
+        { "distractor": "ensuing", "closeness": 3, "reasoning": "Ensuing means following in time; the sentence shows weeks after announcement, and ensuing and subsequent are nearly synonymous." },
+        { "distractor": "succeeding", "closeness": 2, "reasoning": "Succeeding means following or coming after; the sentence shows weeks after announcement, but subsequent is more specific." },
+        { "distractor": "next", "closeness": 2, "reasoning": "Next means immediately following; the sentence shows weeks after announcement, but subsequent doesn't require immediacy." },
+        { "distractor": "continuing", "closeness": 2, "reasoning": "Continuing means ongoing or prolonged; the sentence shows a time period after announcement, not a continuation." },
+        { "distractor": "future", "closeness": 2, "reasoning": "Future means yet to come; the sentence shows weeks after announcement, but subsequent is more specific about ordering." },
+        { "distractor": "concurrent", "closeness": 1, "reasoning": "Concurrent means happening at the same time; the sentence shows weeks after the announcement, not concurrent with it." },
+        { "distractor": "prior", "closeness": 1, "reasoning": "Prior means earlier or before; the sentence describes weeks subsequent to announcement, the opposite of prior." },
+        { "distractor": "previous", "closeness": 1, "reasoning": "Previous means coming before; the sentence shows subsequent weeks after announcement, the opposite of previous." }
+      ]
+    },
+    {
+      "sentence": "The subsequent chapters of the book developed themes that were only hinted at in the introduction.",
+      "answerChoices": [
+        { "distractor": "following", "closeness": 3, "reasoning": "Following means coming after; the sentence shows chapters that came after the introduction, but subsequent is more formal." },
+        { "distractor": "later", "closeness": 3, "reasoning": "Later means coming after in sequence; the sentence shows chapters after the introduction, but subsequent is more formal." },
+        { "distractor": "next", "closeness": 3, "reasoning": "Next means immediately following; the sentence shows chapters after introduction, but subsequent doesn't require immediacy." },
+        { "distractor": "ensuing", "closeness": 3, "reasoning": "Ensuing means following in time; the sentence shows chapters after introduction, and ensuing and subsequent are nearly synonymous." },
+        { "distractor": "successive", "closeness": 2, "reasoning": "Successive means following in sequence; the sentence shows chapters after introduction, but subsequent is more general about ordering." },
+        { "distractor": "advancing", "closeness": 2, "reasoning": "Advancing means moving forward; the sentence shows chapters developing themes further, but subsequent emphasizes ordering, not development." },
+        { "distractor": "continuing", "closeness": 2, "reasoning": "Continuing means going on; the sentence shows chapters after introduction, but subsequent emphasizes ordering specifically." },
+        { "distractor": "future", "closeness": 2, "reasoning": "Future means yet to come; the sentence shows chapters after introduction, but subsequent is more specific about ordering in the text." },
+        { "distractor": "introductory", "closeness": 1, "reasoning": "Introductory means serving as an introduction; the sentence describes subsequent chapters that developed themes hinted at in the introduction, opposite." },
+        { "distractor": "preliminary", "closeness": 1, "reasoning": "Preliminary means coming before; the sentence shows subsequent chapters after the introduction, the opposite of preliminary." },
+        { "distractor": "initial", "closeness": 1, "reasoning": "Initial means first; the sentence describes subsequent chapters coming after the introduction, the opposite of initial." }
+      ]
+    }
+  ]
+}

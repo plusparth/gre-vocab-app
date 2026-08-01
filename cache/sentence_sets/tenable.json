@@ -1,0 +1,53 @@
+{
+  "word": "tenable",
+  "sentenceSets": [
+    {
+      "sentence": "Her position remained tenable only if the initial assumption held, and the initial assumption was precisely what was being challenged.",
+      "answerChoices": [
+        { "distractor": "indefensible", "closeness": 3, "reasoning": "Indefensible means not defensible but the sentence shows her position was tenable conditionally." },
+        { "distractor": "incoherent", "closeness": 3, "reasoning": "Incoherent means lacking logical connection but the sentence shows a logically structured position." },
+        { "distractor": "unsound", "closeness": 3, "reasoning": "Unsound means not based on solid reasoning but the sentence shows a position that was defensible if assumptions held." },
+        { "distractor": "contradictory", "closeness": 3, "reasoning": "Contradictory means incompatible but the sentence shows a logically consistent position, though dependent on an assumption." },
+        { "distractor": "irrational", "closeness": 2, "reasoning": "Irrational means not based on reason but the sentence shows a logically structured, though challenged, position." },
+        { "distractor": "illogical", "closeness": 2, "reasoning": "Illogical means not based on logic but the sentence shows logical dependence on an assumption." },
+        { "distractor": "absurd", "closeness": 2, "reasoning": "Absurd means ridiculous or unreasonable but the sentence shows a reasoned position." },
+        { "distractor": "untenable", "closeness": 2, "reasoning": "Untenable is the opposite but the sentence shows the position was tenable conditionally." },
+        { "distractor": "unassailable", "closeness": 1, "reasoning": "Unassailable means impossible to attack; the sentence shows the position was vulnerable to challenge." },
+        { "distractor": "inevitable", "closeness": 1, "reasoning": "Inevitable means certain to occur; the sentence concerns defensibility of a logical position." },
+        { "distractor": "absolute", "closeness": 1, "reasoning": "Absolute means unconditional; the sentence shows her position was dependent on a specific assumption." }
+      ]
+    },
+    {
+      "sentence": "The lawyer argued that her client's tenable defense rested on proving a crucial alibi, which eyewitness testimony could either strengthen or destroy.",
+      "answerChoices": [
+        { "distractor": "weak", "closeness": 3, "reasoning": "Weak means lacking strength; tenable defense is defensible and can be sustained." },
+        { "distractor": "fragile", "closeness": 3, "reasoning": "Fragile means easily broken but the sentence shows a defensible position resting on specific evidence." },
+        { "distractor": "implausible", "closeness": 3, "reasoning": "Implausible means not believable; tenable means capable of being maintained as defensible." },
+        { "distractor": "baseless", "closeness": 3, "reasoning": "Baseless means without foundation but the sentence shows a defense resting on specific evidence." },
+        { "distractor": "questionable", "closeness": 2, "reasoning": "Questionable means subject to doubt but tenable defense is defensible and reasonable." },
+        { "distractor": "problematic", "closeness": 2, "reasoning": "Problematic means causing difficulty but the sentence shows a defensible position." },
+        { "distractor": "uncertain", "closeness": 2, "reasoning": "Uncertain means not sure but tenable means capable of being held and defended." },
+        { "distractor": "precarious", "closeness": 2, "reasoning": "Precarious means unstable but the sentence shows a logically defensible position." },
+        { "distractor": "irrefutable", "closeness": 1, "reasoning": "Irrefutable means impossible to disprove but the sentence shows testimony could destroy the defense." },
+        { "distractor": "airtight", "closeness": 1, "reasoning": "Airtight means perfect and impenetrable but the sentence shows vulnerability to testimony." },
+        { "distractor": "infallible", "closeness": 1, "reasoning": "Infallible means cannot fail but the sentence shows the defense rests on contingent alibi evidence." }
+      ]
+    },
+    {
+      "sentence": "The literary critic's tenable interpretation of the poem was one among several valid readings, though disagreement about symbolism made scholarly consensus impossible.",
+      "answerChoices": [
+        { "distractor": "ridiculous", "closeness": 3, "reasoning": "Ridiculous means laughable or absurd; the sentence shows the interpretation was defensible." },
+        { "distractor": "invalid", "closeness": 3, "reasoning": "Invalid means not valid but the sentence describes the interpretation as tenable and valid." },
+        { "distractor": "unconvincing", "closeness": 3, "reasoning": "Unconvincing means not persuasive but the sentence shows a valid and defensible interpretation." },
+        { "distractor": "arbitrary", "closeness": 3, "reasoning": "Arbitrary means without logical reason but the sentence shows a defensible, reasoned reading." },
+        { "distractor": "idiosyncratic", "closeness": 2, "reasoning": "Idiosyncratic means peculiar to an individual but the sentence shows a defensible scholarly position." },
+        { "distractor": "subjective", "closeness": 2, "reasoning": "Subjective means based on personal feelings but tenable implies defensible reasoning, not purely subjective." },
+        { "distractor": "controversial", "closeness": 2, "reasoning": "Controversial means disputed but does not convey defensibility; tenable is defensible." },
+        { "distractor": "speculative", "closeness": 2, "reasoning": "Speculative means based on guessing but tenable interpretation is reasoned and defensible." },
+        { "distractor": "definitive", "closeness": 1, "reasoning": "Definitive means final and conclusive but the sentence shows one of several valid readings." },
+        { "distractor": "unanimous", "closeness": 1, "reasoning": "Unanimous means complete agreement but the sentence shows disagreement made consensus impossible." },
+        { "distractor": "authoritative", "closeness": 1, "reasoning": "Authoritative means final authority but the sentence shows one among several valid interpretations." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "scapegoat",
+  "sentenceSets": [
+    {
+      "sentence": "He served as the scapegoat for failures that had been distributed across several levels of the organization, none of which was held to account.",
+      "answerChoices": [
+        { "distractor": "target", "closeness": 3, "reasoning": "Target means someone selected for criticism, related to scapegoat but not emphasizing the injustice and misdirection of blame." },
+        { "distractor": "fall guy", "closeness": 3, "reasoning": "Fall guy means someone taking blame for others' crimes or mistakes, very close to scapegoat, making it a strong trap." },
+        { "distractor": "culprit", "closeness": 3, "reasoning": "Culprit means the person responsible for wrongdoing, which a scapegoat appears to be but actually isn't." },
+        { "distractor": "patsy", "closeness": 3, "reasoning": "Patsy means someone set up to take blame, nearly identical to scapegoat, making it a direct synonym." },
+        { "distractor": "offender", "closeness": 2, "reasoning": "Offender means someone who has committed an offense, which a scapegoat is falsely accused of being." },
+        { "distractor": "villain", "closeness": 2, "reasoning": "Villain means an evil person, which a scapegoat is portrayed as but actually isn't." },
+        { "distractor": "perpetrator", "closeness": 2, "reasoning": "Perpetrator means someone who commits a crime, which a scapegoat is blamed for but didn't commit." },
+        { "distractor": "suspect", "closeness": 2, "reasoning": "Suspect means someone thought to be guilty, which a scapegoat is falsely treated as." },
+        { "distractor": "innocent", "closeness": 1, "reasoning": "Innocent means not guilty, which a scapegoat actually is, but scapegoat emphasizes the unjust blaming." },
+        { "distractor": "hero", "closeness": 1, "reasoning": "Hero means someone admired for courage, opposite to scapegoat who is blamed." },
+        { "distractor": "defender", "closeness": 1, "reasoning": "Defender means someone who protects others, opposite to scapegoat who bears blame." }
+      ]
+    },
+    {
+      "sentence": "The popular girl became the scapegoat for the school's bullying problem when administrators needed to show action.",
+      "answerChoices": [
+        { "distractor": "symbol", "closeness": 3, "reasoning": "Symbol means something representing an idea or quality, which a scapegoat becomes, but symbol doesn't imply blame." },
+        { "distractor": "exemplar", "closeness": 3, "reasoning": "Exemplar means a person serving as an example, which a scapegoat is, but exemplar is positive while scapegoat is negative." },
+        { "distractor": "lightning rod", "closeness": 3, "reasoning": "Lightning rod means something that attracts criticism and blame, very similar to scapegoat, making it a trap." },
+        { "distractor": "focal point", "closeness": 3, "reasoning": "Focal point means the center of attention, which a scapegoat is, but doesn't necessarily imply blame." },
+        { "distractor": "representative", "closeness": 2, "reasoning": "Representative means someone standing for a group, which a scapegoat may be, but not emphasizing the blame." },
+        { "distractor": "embodiment", "closeness": 2, "reasoning": "Embodiment means a physical manifestation, which a scapegoat is forced to be, but lacks the element of blame." },
+        { "distractor": "example", "closeness": 2, "reasoning": "Example means something serving as a model or instance, which a scapegoat is, but not necessarily a negative one." },
+        { "distractor": "issue", "closeness": 2, "reasoning": "Issue means a matter or problem, which bullying is, but it's not a person bearing the blame." },
+        { "distractor": "advocate", "closeness": 1, "reasoning": "Advocate means someone who supports a cause, opposite to scapegoat who is blamed." },
+        { "distractor": "ally", "closeness": 1, "reasoning": "Ally means a friend or supporter, opposite to scapegoat who is isolated through blame." },
+        { "distractor": "mentor", "closeness": 1, "reasoning": "Mentor means a guide or teacher, opposite to scapegoat who is targeted for blame." }
+      ]
+    },
+    {
+      "sentence": "In attempts to contain the scandal, management made the junior associate a scapegoat, firing him despite clear evidence of senior involvement.",
+      "answerChoices": [
+        { "distractor": "sacrificial lamb", "closeness": 3, "reasoning": "Sacrificial lamb means someone sacrificed for others' benefit, nearly identical to scapegoat, making it a trap answer." },
+        { "distractor": "whipping boy", "closeness": 3, "reasoning": "Whipping boy means someone bearing blame for others, very similar to scapegoat, making it a strong distractor." },
+        { "distractor": "dupe", "closeness": 3, "reasoning": "Dupe means someone deceived or tricked, which a scapegoat is, but dupe emphasizes the deception." },
+        { "distractor": "pawn", "closeness": 3, "reasoning": "Pawn means someone manipulated by others, which a scapegoat is, but pawn emphasizes helplessness." },
+        { "distractor": "victim", "closeness": 2, "reasoning": "Victim means someone harmed or injured, which a scapegoat is, but victim is more general." },
+        { "distractor": "martyr", "closeness": 2, "reasoning": "Martyr means someone who suffers for a cause, which a scapegoat may seem, but martyr implies willing sacrifice." },
+        { "distractor": "casualty", "closeness": 2, "reasoning": "Casualty means someone killed or injured, which a scapegoat's dismissal resembles, but casualty is more physical." },
+        { "distractor": "collateral damage", "closeness": 2, "reasoning": "Collateral damage means unintended harm, which a scapegoat experiences, but emphasizes unintentional harm." },
+        { "distractor": "beneficiary", "closeness": 1, "reasoning": "Beneficiary means someone who benefits, opposite to scapegoat who suffers from blame." },
+        { "distractor": "perpetrator", "closeness": 1, "reasoning": "Perpetrator means the actual wrongdoer, opposite to scapegoat who is falsely blamed." },
+        { "distractor": "conspirator", "closeness": 1, "reasoning": "Conspirator means someone involved in a plot, opposite to scapegoat who is external to the actual wrongdoing." }
+      ]
+    }
+  ]
+}

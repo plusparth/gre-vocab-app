@@ -1,0 +1,53 @@
+{
+  "word": "lethargy",
+  "sentenceSets": [
+    {
+      "sentence": "After weeks of illness, a deep lethargy had settled over the patient, making even sitting upright feel exhausting.",
+      "answerChoices": [
+        { "distractor": "fatigue", "closeness": 3, "reasoning": "Close but incorrect -- 'fatigue' is physical tiredness from exertion, whereas 'lethargy' is a state of abnormal sluggishness and apathy that persists even without activity." },
+        { "distractor": "exhaustion", "closeness": 3, "reasoning": "Close -- 'exhaustion' is extreme tiredness from use or effort, but lethargy is a deeper state of sluggishness and lack of motivation beyond mere physical tiredness." },
+        { "distractor": "weariness", "closeness": 3, "reasoning": "Close -- 'weariness' is tiredness and lack of energy, similar to lethargy, but emphasizes tiredness from exertion rather than an abnormal state of sluggish inactivity." },
+        { "distractor": "drowsiness", "closeness": 3, "reasoning": "Close -- 'drowsiness' is sleepiness or inclination to sleep, which is related to lethargy, but emphasizes sleep-inducing sensations rather than overall sluggishness." },
+        { "distractor": "weakness", "closeness": 2, "reasoning": "Incorrect -- 'weakness' means lack of physical strength, but doesn't capture the psychological state of apathy and sluggish inactivity." },
+        { "distractor": "debility", "closeness": 2, "reasoning": "Incorrect -- 'debility' is physical weakness or infirmity, but is narrower than the sluggish inactivity and apathy of lethargy." },
+        { "distractor": "malaise", "closeness": 2, "reasoning": "Incorrect -- 'malaise' is a general feeling of discomfort or uneasiness, but is less specific than the sluggishness and inactivity that define lethargy." },
+        { "distractor": "lassitude", "closeness": 2, "reasoning": "Incorrect -- 'lassitude' means lack of energy and enthusiasm, similar to lethargy, but emphasizes emotional weariness rather than sluggish inactivity." },
+        { "distractor": "vigor", "closeness": 1, "reasoning": "Opposite -- 'vigor' means physical strength and vitality, the opposite of the sluggishness and weakness of lethargy." },
+        { "distractor": "energy", "closeness": 1, "reasoning": "Opposite -- 'energy' means active force and vitality, opposite to the abnormal inactivity and sluggishness of lethargy." },
+        { "distractor": "alertness", "closeness": 1, "reasoning": "Opposite -- 'alertness' means being awake and aware, opposite to the drowsiness and sluggish inactivity of lethargy." }
+      ]
+    },
+    {
+      "sentence": "The city council's lethargy in addressing the pothole crisis frustrated commuters who feared damage to their vehicles.",
+      "answerChoices": [
+        { "distractor": "negligence", "closeness": 3, "reasoning": "Close but incorrect -- 'negligence' is failure to exercise proper care in a specific duty, whereas 'lethargy' is a general state of sluggish apathy affecting decision-making and action." },
+        { "distractor": "indifference", "closeness": 3, "reasoning": "Close -- 'indifference' means lack of concern or interest, which could describe the council's attitude, but emphasizes emotional detachment rather than sluggish inaction." },
+        { "distractor": "inaction", "closeness": 3, "reasoning": "Close -- 'inaction' means failure to act, which the council demonstrates, but doesn't carry the sense of sluggish apathy and reluctance that lethargy implies." },
+        { "distractor": "apathy", "closeness": 3, "reasoning": "Close -- 'apathy' means lack of emotion or concern, which could describe the council's attitude, but emphasizes emotional numbness rather than the sluggish slowness of lethargy." },
+        { "distractor": "procrastination", "closeness": 2, "reasoning": "Incorrect -- 'procrastination' is deliberate delaying of action, whereas lethargy is sluggish, passive slowness rather than intentional postponement." },
+        { "distractor": "delay", "closeness": 2, "reasoning": "Incorrect -- 'delay' simply means postponement, but doesn't capture the sluggish, listless quality that defines lethargy." },
+        { "distractor": "bureaucracy", "closeness": 2, "reasoning": "Incorrect -- 'bureaucracy' refers to complex organizational procedures, but doesn't describe the emotional state of sluggish inaction." },
+        { "distractor": "stalling", "closeness": 2, "reasoning": "Incorrect -- 'stalling' means deliberate delaying, whereas lethargy is passive and sluggish rather than intentional." },
+        { "distractor": "efficiency", "closeness": 1, "reasoning": "Opposite -- 'efficiency' means swift, effective action, the opposite of the sluggish inaction and apathy of lethargy." },
+        { "distractor": "promptness", "closeness": 1, "reasoning": "Opposite -- 'promptness' means quick action, the opposite of the sluggish, sluggish nature of lethargy." },
+        { "distractor": "urgency", "closeness": 1, "reasoning": "Opposite -- 'urgency' is the quality of requiring immediate action, opposite to the sluggish apathy of lethargy." }
+      ]
+    },
+    {
+      "sentence": "The athlete's declining performance was attributed not to injury but to psychological lethargy, a loss of competitive hunger.",
+      "answerChoices": [
+        { "distractor": "complacency", "closeness": 3, "reasoning": "Close but incorrect -- 'complacency' is self-satisfied contentment, which could cause declining performance, but emphasizes satisfaction rather than sluggish inactivity and apathy." },
+        { "distractor": "malaise", "closeness": 3, "reasoning": "Close -- 'malaise' is general discomfort or uneasiness, but is less specific than the psychological sluggishness and loss of motivation implied by lethargy." },
+        { "distractor": "ennui", "closeness": 3, "reasoning": "Close -- 'ennui' is world-weary listlessness and lack of excitement, which fits the loss of competitive hunger, but emphasizes fashionable world-weariness rather than the sluggish inactivity of lethargy." },
+        { "distractor": "burnout", "closeness": 3, "reasoning": "Close -- 'burnout' is exhaustion from overwork, which can cause loss of competitive drive, but is a specific condition rather than the general sluggish apathy of lethargy." },
+        { "distractor": "fatigue", "closeness": 2, "reasoning": "Incorrect -- 'fatigue' is physical tiredness, but the sentence specifies psychological rather than physical causes of the athlete's decline." },
+        { "distractor": "exhaustion", "closeness": 2, "reasoning": "Incorrect -- 'exhaustion' is extreme tiredness, but the sentence indicates a psychological rather than physical condition." },
+        { "distractor": "depression", "closeness": 2, "reasoning": "Incorrect -- 'depression' is a clinical mental state, whereas lethargy is a broader state of sluggish apathy and inactivity." },
+        { "distractor": "melancholy", "closeness": 2, "reasoning": "Incorrect -- 'melancholy' is a state of sadness, but doesn't specifically relate to loss of competitive drive or motivation." },
+        { "distractor": "passion", "closeness": 1, "reasoning": "Opposite -- 'passion' is intense emotional drive and enthusiasm, the opposite of the loss of competitive hunger and apathy of lethargy." },
+        { "distractor": "motivation", "closeness": 1, "reasoning": "Opposite -- 'motivation' is the driving force to act, opposite to the lack of competitive hunger and apathy implied by psychological lethargy." },
+        { "distractor": "vigor", "closeness": 1, "reasoning": "Opposite -- 'vigor' is active strength and enthusiasm, opposite to the sluggish apathy and loss of drive implied by lethargy." }
+      ]
+    }
+  ]
+}

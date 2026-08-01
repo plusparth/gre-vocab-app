@@ -1,0 +1,53 @@
+{
+  "word": "sap",
+  "sentenceSets": [
+    {
+      "sentence": "The maple trees yielded an abundant sap that was collected in early spring, before the weather grew too warm.",
+      "answerChoices": [
+        { "distractor": "resin", "closeness": 3, "reasoning": "Resin is a sticky substance from plants, but it hardens and is used for different purposes; sap flows freely and is transformed into syrup through boiling." },
+        { "distractor": "pitch", "closeness": 3, "reasoning": "Pitch is a dense, dark substance from certain trees, but lacks the seasonal aspect and direct food-producing potential that sap offers." },
+        { "distractor": "latex", "closeness": 3, "reasoning": "Latex is a milky fluid from some plants, but it's not the primary nutrient-conducting fluid like sap, and appears in different plant species." },
+        { "distractor": "nectar", "closeness": 3, "reasoning": "Nectar is a sweet plant fluid made by flowers to attract pollinators, not the water-and-nutrient transport fluid that sap represents." },
+        { "distractor": "juice", "closeness": 2, "reasoning": "Juice is a liquid extracted from plants and fruits, but refers specifically to cells' contents, not the vascular fluid that circulates through the tree." },
+        { "distractor": "extract", "closeness": 2, "reasoning": "Extract is a concentrated substance derived from plants, but it's a processed product rather than the raw fluid flowing inside the tree." },
+        { "distractor": "oil", "closeness": 2, "reasoning": "Oil is a liquid substance found in plants, but it's separate from the water-based transport system that makes sap essential to the tree's biology." },
+        { "distractor": "pulp", "closeness": 2, "reasoning": "Pulp is the soft, moist part of fruit or plant tissue, not the circulating fluid responsible for nutrient distribution." },
+        { "distractor": "stem", "closeness": 1, "reasoning": "A stem is the woody structure of the plant itself, not a fluid within it." },
+        { "distractor": "bark", "closeness": 1, "reasoning": "Bark is the outer protective layer of a tree, not the fluid beneath it." },
+        { "distractor": "root", "closeness": 1, "reasoning": "A root is part of the plant structure used for absorption, not the fluid transported through the plant." }
+      ]
+    },
+    {
+      "sentence": "The injury to the tree's bark allowed insects to penetrate and gradually sap its vigor over the coming seasons.",
+      "answerChoices": [
+        { "distractor": "drain", "closeness": 3, "reasoning": "Drain means to remove liquid, but it implies quick depletion; sap as a verb suggests a slower, progressive weakening of strength." },
+        { "distractor": "deplete", "closeness": 3, "reasoning": "Deplete means to use up resources, but it's more abrupt and mechanical than sap's connotation of gradual enfeeblement." },
+        { "distractor": "exhaust", "closeness": 3, "reasoning": "Exhaust suggests complete use of something's energy, whereas sap implies a gradual siphoning away that leaves some vitality intact." },
+        { "distractor": "erode", "closeness": 3, "reasoning": "Erode suggests wearing away by external action, but sap implies an internal process of slow vitality loss." },
+        { "distractor": "weaken", "closeness": 2, "reasoning": "Weaken is a general term for loss of strength, but sap specifically implies a hostile, parasitic draining rather than mere reduction." },
+        { "distractor": "diminish", "closeness": 2, "reasoning": "Diminish means to make smaller or less important, but it lacks sap's connotation of insidious, ongoing energy depletion." },
+        { "distractor": "reduce", "closeness": 2, "reasoning": "Reduce means to make smaller in amount, but it's neutral and doesn't carry sap's sense of malicious or parasitic extraction." },
+        { "distractor": "impair", "closeness": 2, "reasoning": "Impair suggests damaging function, but not necessarily the slow vitality loss that sap conveys over time." },
+        { "distractor": "destroy", "closeness": 1, "reasoning": "Destroy means to ruin completely and quickly, opposite to sap's gradual, slow-moving process." },
+        { "distractor": "repair", "closeness": 1, "reasoning": "Repair means to fix or restore, the opposite of sap's meaning of weakening." },
+        { "distractor": "strengthen", "closeness": 1, "reasoning": "Strengthen means to make stronger, the direct opposite of sap's meaning of siphoning away vigor." }
+      ]
+    },
+    {
+      "sentence": "The parasite's relentless activity would sap the host's ability to mount an immune response before winter.",
+      "answerChoices": [
+        { "distractor": "compromise", "closeness": 3, "reasoning": "Compromise can mean to weaken or impair, but usually implies a negotiated settlement or a temporary reduction, not the progressive exhaustion sap describes." },
+        { "distractor": "jeopardize", "closeness": 3, "reasoning": "Jeopardize means to put at risk, but sap suggests actual energy loss occurring, not merely the threat of loss." },
+        { "distractor": "undermine", "closeness": 3, "reasoning": "Undermine means to weaken the foundation or basis, but it's often more sudden or structural than sap's gradual siphoning effect." },
+        { "distractor": "sabotage", "closeness": 3, "reasoning": "Sabotage implies deliberate disruption or destruction, whereas sap here describes an organic, parasitic process that weakens naturally." },
+        { "distractor": "impede", "closeness": 2, "reasoning": "Impede means to slow or obstruct progress, but not necessarily to diminish the underlying capacity itself." },
+        { "distractor": "curtail", "closeness": 2, "reasoning": "Curtail means to reduce or limit, but it's often a deliberate action rather than the insidious process sap suggests." },
+        { "distractor": "hinder", "closeness": 2, "reasoning": "Hinder means to obstruct or make difficult, but sap implies loss of internal resources, not external obstacles." },
+        { "distractor": "suppress", "closeness": 2, "reasoning": "Suppress means to prevent or inhibit, but not necessarily to extract or progressively consume." },
+        { "distractor": "bolster", "closeness": 1, "reasoning": "Bolster means to strengthen or support, the opposite of sap's meaning of draining." },
+        { "distractor": "enhance", "closeness": 1, "reasoning": "Enhance means to improve or make better, opposite to sap's meaning of weakening." },
+        { "distractor": "fortify", "closeness": 1, "reasoning": "Fortify means to strengthen, the direct opposite of sap's meaning of gradually depleting." }
+      ]
+    }
+  ]
+}

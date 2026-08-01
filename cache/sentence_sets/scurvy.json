@@ -1,0 +1,185 @@
+{
+  "word": "scurvy",
+  "sentenceSets": [
+    {
+      "sentence": "Sailors on long voyages developed scurvy due to the lack of fresh fruits and vegetables, their teeth loosening and gums bleeding as the disease progressed.",
+      "answerChoices": [
+        {
+          "distractor": "gangrene",
+          "closeness": 3,
+          "reasoning": "Gangrene is tissue death from infection or loss of blood supply, which can affect sailors but is caused by different mechanisms; the sentence specifies lack of fresh produce and symptoms of gum disease."
+        },
+        {
+          "distractor": "dysentery",
+          "closeness": 3,
+          "reasoning": "Dysentery is an intestinal infection causing severe diarrhea, which affected sailors but results from bacterial infection, not vitamin deficiency; the sentence emphasizes dental and gum symptoms."
+        },
+        {
+          "distractor": "beriberi",
+          "closeness": 3,
+          "reasoning": "Beriberi is a vitamin B1 deficiency disease, sharing the nutritional origin with scurvy, but causes nerve damage and heart issues, not the gum and dental bleeding described."
+        },
+        {
+          "distractor": "malaria",
+          "closeness": 3,
+          "reasoning": "Malaria is a parasitic disease transmitted by mosquitoes, affecting tropical sailors, but the sentence specifies deficiency from lacking fresh produce, not parasite infection."
+        },
+        {
+          "distractor": "pellagra",
+          "closeness": 2,
+          "reasoning": "Pellagra is a niacin deficiency disease causing skin and mental symptoms; like scurvy, it's a nutritional deficiency, but the sentence describes dental and gum symptoms specific to scurvy."
+        },
+        {
+          "distractor": "anemia",
+          "closeness": 2,
+          "reasoning": "Anemia is a blood condition often from iron deficiency; while sailors could develop it, the sentence specifically describes dental symptoms and vitamin C deficiency effects."
+        },
+        {
+          "distractor": "plague",
+          "closeness": 2,
+          "reasoning": "Plague is a bacterial infection causing swollen lymph nodes and death; while sailors faced infectious diseases, the sentence describes a nutritional deficiency disease."
+        },
+        {
+          "distractor": "rickets",
+          "closeness": 1,
+          "reasoning": "Rickets is a vitamin D deficiency causing bone deformation; though a nutritional deficiency like scurvy, it affects bone structure, not gum and tooth symptoms described."
+        },
+        {
+          "distractor": "fever",
+          "closeness": 1,
+          "reasoning": "Fever is elevated body temperature from infection; scurvy is a nutritional deficiency characterized by bleeding gums and loose teeth, not fever."
+        },
+        {
+          "distractor": "obesity",
+          "closeness": 1,
+          "reasoning": "Obesity is excess body weight; scurvy is a disease from nutritional deficiency causing tissue breakdown, the opposite of obesity's condition."
+        },
+        {
+          "distractor": "health",
+          "closeness": 2,
+          "reasoning": "Health is good physical condition; scurvy is a disease causing bleeding gums and loose teeth\u2014a state of disease and deterioration."
+        }
+      ]
+    },
+    {
+      "sentence": "The naval physician recognized the telltale symptoms of scurvy in the crew: bleeding gums and discolored bruises that spread across the skin despite no apparent injury.",
+      "answerChoices": [
+        {
+          "distractor": "leprosy",
+          "closeness": 3,
+          "reasoning": "Leprosy causes skin discoloration and nerve damage, which might produce marks on skin, but it's a bacterial infection, not a vitamin deficiency; the sentence emphasizes spontaneous bruising without injury."
+        },
+        {
+          "distractor": "measles",
+          "closeness": 3,
+          "reasoning": "Measles causes skin rash and fever; while it produces visible skin symptoms, it's a viral infection, not the vitamin C deficiency and spontaneous bleeding that scurvy causes."
+        },
+        {
+          "distractor": "hemophilia",
+          "closeness": 3,
+          "reasoning": "Hemophilia is a bleeding disorder where blood doesn't clot, causing bruising and spontaneous bleeding; while scurvy shares these symptoms, hemophilia is a genetic disorder, not nutritional deficiency."
+        },
+        {
+          "distractor": "porphyria",
+          "closeness": 3,
+          "reasoning": "Porphyria causes skin sensitivity and purple bruising, but it's a metabolic disorder, not a vitamin deficiency; the sentence emphasizes dietary causes through lack of fresh produce."
+        },
+        {
+          "distractor": "syphilis",
+          "closeness": 2,
+          "reasoning": "Syphilis causes various skin symptoms and was common on ships, but it's a bacterial infection transmitted sexually, not a nutritional deficiency."
+        },
+        {
+          "distractor": "typhoid",
+          "closeness": 2,
+          "reasoning": "Typhoid is a bacterial infection causing fever and rash; while sailors faced it, the sentence describes symptoms of vitamin C deficiency, not bacterial infection."
+        },
+        {
+          "distractor": "influenza",
+          "closeness": 2,
+          "reasoning": "Influenza is a viral respiratory disease that might affect sailors, but it causes fever and respiratory symptoms, not the spontaneous gum bleeding and bruising of scurvy."
+        },
+        {
+          "distractor": "insomnia",
+          "closeness": 1,
+          "reasoning": "Insomnia is lack of sleep; scurvy is a disease causing bleeding gums and spontaneous bruising\u2014physical symptoms, not a sleep disorder."
+        },
+        {
+          "distractor": "depression",
+          "closeness": 1,
+          "reasoning": "Depression is a mental condition; scurvy produces visible physical symptoms like bleeding gums and bruising, not psychological symptoms."
+        },
+        {
+          "distractor": "exhaustion",
+          "closeness": 1,
+          "reasoning": "Exhaustion is fatigue; while scurvy might cause fatigue, the physician recognizes the specific physical symptoms of bleeding gums and bruising."
+        },
+        {
+          "distractor": "success",
+          "closeness": 2,
+          "reasoning": "Success is achievement; scurvy is a disease causing deterioration and death if untreated, the opposite of success."
+        }
+      ]
+    },
+    {
+      "sentence": "By the end of the voyage, lack of vitamin C had ravaged the crew with scurvy, leaving them unable to work and vulnerable to death from minor wounds.",
+      "answerChoices": [
+        {
+          "distractor": "exhaustion",
+          "closeness": 3,
+          "reasoning": "Exhaustion from long labor affects sailors and compromises their ability to work, fitting the inability context, but exhaustion is fatigue, not a vitamin C deficiency disease with bleeding symptoms."
+        },
+        {
+          "distractor": "infection",
+          "closeness": 3,
+          "reasoning": "Infection can cause death from minor wounds through sepsis, but infection is a bacterial attack on the body, not a vitamin deficiency disease."
+        },
+        {
+          "distractor": "malnutrition",
+          "closeness": 3,
+          "reasoning": "Malnutrition is general underfeeding and can cause severe health effects, but it's a broad category; the sentence specifies scurvy, a particular vitamin C deficiency disease."
+        },
+        {
+          "distractor": "plague",
+          "closeness": 3,
+          "reasoning": "Plague causes death and debilitation, fitting the vulnerability to death from minor wounds, but it's a bacterial infection, not nutritional deficiency from lack of vitamin C."
+        },
+        {
+          "distractor": "mutiny",
+          "closeness": 2,
+          "reasoning": "Mutiny would render a crew unable to work, but it's a rebellion, not a disease; the sentence describes vulnerability to death from wounds, not insubordination."
+        },
+        {
+          "distractor": "dehydration",
+          "closeness": 2,
+          "reasoning": "Dehydration weakens sailors, but it's water loss, not vitamin C deficiency; the sentence specifies fresh fruit and vegetable lack as the cause."
+        },
+        {
+          "distractor": "amnesia",
+          "closeness": 2,
+          "reasoning": "Amnesia is memory loss that might incapacitate individuals, but it doesn't explain vulnerability to death from minor wounds or relate to vitamin deficiency."
+        },
+        {
+          "distractor": "strength",
+          "closeness": 1,
+          "reasoning": "Strength enables work and resistance to disease; scurvy causes weakness and vulnerability, the opposite of strength."
+        },
+        {
+          "distractor": "recovery",
+          "closeness": 1,
+          "reasoning": "Recovery is regaining health and function; the sentence describes ravaging disease leaving crew unable to work and vulnerable to death."
+        },
+        {
+          "distractor": "immunity",
+          "closeness": 1,
+          "reasoning": "Immunity is resistance to disease; scurvy causes vulnerability and inability to recover from minor wounds, the opposite of immunity."
+        },
+        {
+          "distractor": "fortune",
+          "closeness": 2,
+          "reasoning": "Fortune is luck or fate; scurvy is a specific disease caused by vitamin C deficiency, not a matter of chance."
+        }
+      ]
+    }
+  ]
+}

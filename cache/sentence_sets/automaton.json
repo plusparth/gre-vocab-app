@@ -1,0 +1,53 @@
+{
+  "word": "automaton",
+  "sentenceSets": [
+    {
+      "sentence": "The workers felt increasingly like automatons, performing identical tasks with no sense of larger purpose.",
+      "answerChoices": [
+        { "distractor": "robots", "closeness": 3, "reasoning": "Workers feel mechanical like robots, but 'robots' emphasizes mechanical nature, whereas 'automaton' emphasizes loss of agency and individuality." },
+        { "distractor": "machines", "closeness": 3, "reasoning": "Workers feel like machines in repetitive work, but 'machines' describes mechanical function, not the automaton's sense of lost humanity." },
+        { "distractor": "drones", "closeness": 3, "reasoning": "Workers work like drones without purpose, but 'drone' emphasizes mindless repetition, whereas 'automaton' emphasizes lack of agency." },
+        { "distractor": "tools", "closeness": 3, "reasoning": "Workers feel used like tools, but 'tools' emphasizes instrumental use, not specifically the automaton's loss of agency." },
+        { "distractor": "units", "closeness": 2, "reasoning": "Workers are treated as units in a system, but 'units' emphasizes categorization, not the automaton's sense of lost humanity." },
+        { "distractor": "cogs", "closeness": 2, "reasoning": "Workers are like cogs in a machine, but this emphasizes mechanical replacement, not the automaton's sense of lost purpose." },
+        { "distractor": "laborers", "closeness": 2, "reasoning": "Workers are laborers doing repetitive work, but 'laborer' is a neutral job description, not specifically automaton." },
+        { "distractor": "participants", "closeness": 2, "reasoning": "Workers participate in the work, but 'participant' suggests active involvement, opposite to automaton's lack of agency." },
+        { "distractor": "individuals", "closeness": 1, "reasoning": "The opposite condition; automatons lack individual agency and purpose, whereas individuals possess them." },
+        { "distractor": "creators", "closeness": 1, "reasoning": "The opposite role; workers feel like automatons lacking purpose, not creators giving purpose to their work." },
+        { "distractor": "thinkers", "closeness": 1, "reasoning": "The opposite quality; automatons perform tasks without thought, whereas thinkers engage intellectually." }
+      ]
+    },
+    {
+      "sentence": "The actor's automaton-like performance, devoid of genuine emotion or spontaneity, drew criticism from reviewers.",
+      "answerChoices": [
+        { "distractor": "wooden", "closeness": 3, "reasoning": "The performance is wooden and stiff, but 'wooden' emphasizes awkwardness, not specifically the automaton's quality of mechanical repetition." },
+        { "distractor": "robotic", "closeness": 3, "reasoning": "The performance is robotic and mechanical, closely related to 'automaton,' but 'robotic' emphasizes mechanical quality, not loss of humanity." },
+        { "distractor": "lifeless", "closeness": 3, "reasoning": "The performance is lifeless and dull, but 'lifeless' emphasizes lack of vitality, not the automaton's mechanical quality." },
+        { "distractor": "monotone", "closeness": 3, "reasoning": "The performance lacks variety in delivery, but 'monotone' emphasizes uniformity of sound, not the automaton's quality." },
+        { "distractor": "mechanical", "closeness": 2, "reasoning": "The performance is mechanical and rigid, but 'mechanical' describes the delivery, not specifically automaton quality." },
+        { "distractor": "stiff", "closeness": 2, "reasoning": "The performance is stiff and constrained, but 'stiff' describes physical rigidity, not automaton quality." },
+        { "distractor": "dull", "closeness": 2, "reasoning": "The performance is dull and uninspired, but 'dull' describes interest level, not automaton quality." },
+        { "distractor": "flat", "closeness": 2, "reasoning": "The performance is flat with no emotional range, but 'flat' emphasizes lack of emotional variation, not automaton quality." },
+        { "distractor": "animated", "closeness": 1, "reasoning": "The opposite quality; an automaton performance lacks animation and life." },
+        { "distractor": "spirited", "closeness": 1, "reasoning": "The opposite quality; automaton performance lacks spirit and genuine emotion." },
+        { "distractor": "passionate", "closeness": 1, "reasoning": "The opposite quality; automaton performance lacks passion and spontaneity." }
+      ]
+    },
+    {
+      "sentence": "She went through her morning routine like an automaton, unaware of her surroundings as she moved mechanically from task to task.",
+      "answerChoices": [
+        { "distractor": "habitually", "closeness": 3, "reasoning": "She acts out of habit mechanically, but 'habitually' describes the repeated nature, not the automaton's quality of lost awareness." },
+        { "distractor": "mechanically", "closeness": 3, "reasoning": "She moves mechanically, but 'mechanically' describes the manner, not specifically the automaton quality of unconsciousness." },
+        { "distractor": "robotically", "closeness": 3, "reasoning": "She acts robotically without awareness, but 'robotically' emphasizes mechanical quality, not the automaton's unconscious motion." },
+        { "distractor": "thoughtlessly", "closeness": 3, "reasoning": "She acts without thought, but 'thoughtlessly' emphasizes lack of reflection, not specifically automaton quality." },
+        { "distractor": "unconsciously", "closeness": 2, "reasoning": "She acts unconsciously from habit, but 'unconsciously' describes awareness level, not specifically automaton quality." },
+        { "distractor": "mindlessly", "closeness": 2, "reasoning": "She acts without mind or attention, but 'mindlessly' emphasizes lack of engagement, not automaton quality." },
+        { "distractor": "passively", "closeness": 2, "reasoning": "She acts passively without engaging, but 'passively' emphasizes lack of agency, not specifically automaton." },
+        { "distractor": "automatically", "closeness": 2, "reasoning": "She acts automatically from routine, but 'automatically' emphasizes automatic response, not specifically automaton quality." },
+        { "distractor": "attentively", "closeness": 1, "reasoning": "The opposite state; automaton movements are unaware and unattentive." },
+        { "distractor": "consciously", "closeness": 1, "reasoning": "The opposite awareness; acting like an automaton involves unconscious motion, not conscious engagement." },
+        { "distractor": "deliberately", "closeness": 1, "reasoning": "The opposite intention; automaton action lacks deliberate choice and awareness." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "mannered",
+  "sentenceSets": [
+    {
+      "sentence": "His mannered speech in formal settings gave way to a more direct register when the conversation moved to substance.",
+      "answerChoices": [
+        { "distractor": "formal", "closeness": 3, "reasoning": "Formal describes adherence to ceremonial conventions in formal settings, making it plausible, but it lacks the connotation of affectation or artificiality that mannered implies." },
+        { "distractor": "affected", "closeness": 3, "reasoning": "Affected and mannered both describe artificially cultivated behavior, making it tempting, but affected emphasizes pretentious intention more directly than mannered's focus on formalized behavioral patterns." },
+        { "distractor": "stilted", "closeness": 3, "reasoning": "Stilted describes unnaturally formal speech like mannered does, making it attractive, but it emphasizes awkward rigidity rather than the ceremonial adherence to manner that mannered conveys." },
+        { "distractor": "refined", "closeness": 3, "reasoning": "Refined could fit a formal setting and suggests cultivated speech, making it seem appropriate, but it emphasizes elegance and cultural cultivation rather than the artificial quality of mannered." },
+        { "distractor": "eloquent", "closeness": 2, "reasoning": "Eloquent modifies formal speech and would fit in formal settings, but it describes persuasive quality rather than the formal or affected manner that mannered implies." },
+        { "distractor": "articulate", "closeness": 2, "reasoning": "Articulate describes clear speech which fits formal settings, but misses the sense of affectation or adherence to formalized conventions that mannered conveys." },
+        { "distractor": "pompous", "closeness": 2, "reasoning": "Pompous describes grandiose formality which could fit the formal setting, but emphasizes self-importance and vanity rather than the formalized behavioral manner of mannered." },
+        { "distractor": "verbose", "closeness": 2, "reasoning": "Verbose describes excessive wordiness which could appear in formal speech, but doesn't capture the formal manner or affectation that mannered implies." },
+        { "distractor": "casual", "closeness": 1, "reasoning": "Casual directly contradicts the formal-setting context and is semantically opposite to the sentence's established formality." },
+        { "distractor": "careless", "closeness": 1, "reasoning": "Careless contradicts the deliberate formality implied by the sentence's mention of formal settings and the contrast with direct register." },
+        { "distractor": "incoherent", "closeness": 1, "reasoning": "Incoherent describes lack of clarity or sense, which is unrelated to the formal-versus-direct manner contrast the sentence establishes." }
+      ]
+    },
+    {
+      "sentence": "The actress's overly mannered performance, full of exaggerated gestures, contrasted sharply with her co-star's naturalistic approach.",
+      "answerChoices": [
+        { "distractor": "theatrical", "closeness": 3, "reasoning": "Theatrical and mannered both describe overly dramatic performance style, making it a strong trap, but theatrical emphasizes the dramatic presentation itself rather than the formalized affectation that mannered conveys." },
+        { "distractor": "contrived", "closeness": 3, "reasoning": "Contrived is a near-synonym implying artificial construction, making it tempting, but it emphasizes deliberate fabrication more directly than mannered, which implies adherence to formalized behavioral patterns." },
+        { "distractor": "artificial", "closeness": 3, "reasoning": "Artificial and mannered both suggest unnatural quality, making this plausible, but artificial emphasizes the fake or unreal whereas mannered emphasizes adherence to formalized patterns of behavior." },
+        { "distractor": "histrionic", "closeness": 3, "reasoning": "Histrionic describes exaggerated dramatic emotion very similarly to overly mannered performance, making it attractive, but it emphasizes emotional intensity rather than formalized mannerism." },
+        { "distractor": "emphatic", "closeness": 2, "reasoning": "Emphatic describes strong, forceful expression which could apply to exaggerated gestures, but doesn't carry the sense of affectation or formalized mannerism that mannered implies." },
+        { "distractor": "expressive", "closeness": 2, "reasoning": "Expressive describes strong emotional communication; while an overly mannered performance might be expressive, this word misses the connotation of artificiality that mannered conveys." },
+        { "distractor": "grandiose", "closeness": 2, "reasoning": "Grandiose describes ambitious or impressive scale which could apply to exaggerated performance, but emphasizes scope rather than the formalized, affected quality of mannered." },
+        { "distractor": "ostentatious", "closeness": 2, "reasoning": "Ostentatious describes showy display related to exaggerated performance, making it plausible, but it emphasizes attention-seeking rather than the formalized behavioral patterns of mannered style." },
+        { "distractor": "spontaneous", "closeness": 1, "reasoning": "Spontaneous is semantically opposite to mannered; it suggests unplanned, natural behavior rather than the formalized, deliberate quality of mannered performance." },
+        { "distractor": "understated", "closeness": 1, "reasoning": "Understated directly opposes overly mannered performance; it suggests restraint and simplicity rather than excessive formalization and exaggerated gestures." },
+        { "distractor": "subdued", "closeness": 1, "reasoning": "Subdued implies muted or restrained behavior, which opposes the exaggerated, mannered quality explicitly described in the sentence." }
+      ]
+    },
+    {
+      "sentence": "The diplomat's mannered courtesy masked an impatient temperament, which colleagues learned to interpret over time.",
+      "answerChoices": [
+        { "distractor": "studied", "closeness": 3, "reasoning": "Studied implies deliberate, carefully considered behavior similar to mannered courtesy, making it tempting, but it emphasizes calculation more directly than the formal mannerism conveyed by mannered." },
+        { "distractor": "calculated", "closeness": 3, "reasoning": "Calculated and mannered both suggest deliberate artificiality, making it a strong trap, but calculated emphasizes strategic computation whereas mannered emphasizes adherence to ceremonial forms." },
+        { "distractor": "stiff", "closeness": 3, "reasoning": "Stiff describes rigid, uncomfortable formality similar to mannered courtesy, making it plausible, but it emphasizes lack of ease rather than the deliberate adherence to formal behavioral patterns." },
+        { "distractor": "circumspect", "closeness": 3, "reasoning": "Circumspect describes careful, cautious behavior that could mask impatience, making it attractive, but it emphasizes prudent restraint rather than the formal mannerism that mannered implies." },
+        { "distractor": "courtly", "closeness": 2, "reasoning": "Courtly describes refined, ceremonial behavior related to mannered courtesy and would fit the diplomatic context, but it carries a more positive connotation of elegance whereas mannered here suggests affectation." },
+        { "distractor": "measured", "closeness": 2, "reasoning": "Measured describes controlled, deliberate pace and tone which relates to mannered courtesy, but doesn't capture the sense of formalized behavioral patterns as directly as mannered." },
+        { "distractor": "deliberate", "closeness": 2, "reasoning": "Deliberate describes intentional action which applies to mannered courtesy, but emphasizes conscious choice rather than adherence to formalized social conventions." },
+        { "distractor": "reserved", "closeness": 2, "reasoning": "Reserved describes restrained, guarded behavior that could mask impatience, but it doesn't capture the formal quality of manner that mannered implies." },
+        { "distractor": "genuine", "closeness": 1, "reasoning": "Genuine is semantically opposite to mannered; it suggests sincerity and authenticity rather than the formalized, artificial courtesy that masks the diplomat's true temperament." },
+        { "distractor": "authentic", "closeness": 1, "reasoning": "Authentic opposes mannered by suggesting true expression rather than the formalized behavioral patterns and affectation that mannered courtesy implies." },
+        { "distractor": "unguarded", "closeness": 1, "reasoning": "Unguarded suggests open, unrestrained behavior, which opposes the formal, controlled courtesy (mannered) that the diplomat maintains despite impatience." }
+      ]
+    }
+  ]
+}

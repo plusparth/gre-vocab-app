@@ -1,0 +1,53 @@
+{
+  "word": "belfry",
+  "sentenceSets": [
+    {
+      "sentence": "Pigeons had nested in the belfry for so long that the bells could no longer be rung.",
+      "answerChoices": [
+        { "distractor": "steeple", "closeness": 3, "reasoning": "Both are parts of a church structure, but steeple is the pointed roof covering the tower, while belfry is the chamber inside that holds the bells." },
+        { "distractor": "bell tower", "closeness": 3, "reasoning": "Belfry is essentially a bell tower chamber; these overlap significantly but belfry specifically refers to the chamber holding bells." },
+        { "distractor": "tower", "closeness": 3, "reasoning": "Both are tall structures, but tower is broader, while belfry is specifically the chamber in a church tower that holds bells." },
+        { "distractor": "chamber", "closeness": 3, "reasoning": "Both refer to enclosed rooms, but chamber is general, while belfry is specifically a chamber that holds bells." },
+        { "distractor": "loft", "closeness": 2, "reasoning": "A belfry may be a high loft, but loft refers to any upper floor or room, not specifically a bell chamber." },
+        { "distractor": "attic", "closeness": 2, "reasoning": "A belfry is a high enclosed space, but attic refers to the space below a roof, not specifically a bell chamber." },
+        { "distractor": "turret", "closeness": 2, "reasoning": "A belfry is a vertical structure, but turret is a narrow tower-like projection, while belfry is a chamber." },
+        { "distractor": "spire", "closeness": 2, "reasoning": "A spire is a pointed top of a tower, but belfry is the chamber inside holding the bells." },
+        { "distractor": "foundation", "closeness": 1, "reasoning": "Pigeons nested in the belfry high up; foundation refers to the base structure." },
+        { "distractor": "basement", "closeness": 1, "reasoning": "The belfry is high in a church; basement is underground or below ground level." },
+        { "distractor": "threshold", "closeness": 1, "reasoning": "The belfry is a high chamber; threshold refers to an entrance or boundary." }
+      ]
+    },
+    {
+      "sentence": "The restoration team carefully removed bird nests and debris from the medieval belfry, revealing ornate wooden bell-hanging mechanisms beneath.",
+      "answerChoices": [
+        { "distractor": "clock tower", "closeness": 3, "reasoning": "Both are tower structures in churches, but a clock tower houses a clock mechanism, while a belfry holds bells." },
+        { "distractor": "cupola", "closeness": 3, "reasoning": "Both are structures at the top of buildings, but a cupola is a small rounded roof or turret, while belfry is a chamber for bells." },
+        { "distractor": "bell chamber", "closeness": 3, "reasoning": "Belfry essentially means bell chamber; these are nearly synonymous." },
+        { "distractor": "vault", "closeness": 3, "reasoning": "Both refer to enclosed chambers, but vault emphasizes secure storage, while belfry is specifically a chamber for bells." },
+        { "distractor": "crypt", "closeness": 2, "reasoning": "Both are enclosed chambers in churches, but crypt is underground for burial, while belfry is high up for bells." },
+        { "distractor": "nave", "closeness": 2, "reasoning": "Both are parts of a church, but nave is the main worship space, not a bell chamber." },
+        { "distractor": "chancel", "closeness": 2, "reasoning": "Both are church structures, but chancel is an interior part for clergy, not a bell chamber." },
+        { "distractor": "transept", "closeness": 2, "reasoning": "Both are parts of a church, but transept is a cross section of the interior, not a bell chamber." },
+        { "distractor": "vestry", "closeness": 1, "reasoning": "A belfry holds bells high up; a vestry is where clergy prepare for service." },
+        { "distractor": "burial site", "closeness": 1, "reasoning": "The belfry is a bell chamber; burial site is a place for interring the dead." },
+        { "distractor": "altar", "closeness": 1, "reasoning": "The belfry is high in the church structure; altar is the focal point of worship." }
+      ]
+    },
+    {
+      "sentence": "From the belfry of the old monastery, the monk rang the bells each morning to summon the brothers to prayer.",
+      "answerChoices": [
+        { "distractor": "tower", "closeness": 3, "reasoning": "Both refer to tall structures, but tower is broader, while belfry specifically refers to the chamber that holds and houses bells." },
+        { "distractor": "bell tower", "closeness": 3, "reasoning": "Belfry is essentially the chamber within a bell tower; these overlap but belfry is more specific." },
+        { "distractor": "steeple", "closeness": 3, "reasoning": "Both are parts of church architecture, but steeple is the pointed spire covering the tower, while belfry is the chamber holding bells." },
+        { "distractor": "battlement", "closeness": 3, "reasoning": "Both are high structures, but battlement refers to a fortified wall structure, while belfry refers to a bell chamber." },
+        { "distractor": "rampart", "closeness": 2, "reasoning": "Both are high fortified structures, but rampart is defensive, while belfry is a bell chamber." },
+        { "distractor": "parapet", "closeness": 2, "reasoning": "Both are high architectural features, but parapet is a defensive wall, while belfry is a bell chamber." },
+        { "distractor": "platform", "closeness": 2, "reasoning": "A belfry is an elevated structure, but platform emphasizes a flat raised surface." },
+        { "distractor": "gallery", "closeness": 2, "reasoning": "Both can be high places in a structure, but gallery emphasizes a viewing or decorative space." },
+        { "distractor": "basement", "closeness": 1, "reasoning": "The monk rang bells from the high belfry; basement is underground." },
+        { "distractor": "cloister", "closeness": 1, "reasoning": "The belfry is in the monastery; cloister is a covered walk in the grounds." },
+        { "distractor": "refectory", "closeness": 1, "reasoning": "The monk rang bells from the belfry; refectory is the dining hall." }
+      ]
+    }
+  ]
+}

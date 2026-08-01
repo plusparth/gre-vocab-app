@@ -1,0 +1,53 @@
+{
+  "word": "tonic",
+  "sentenceSets": [
+    {
+      "sentence": "The unexpected success had a tonic effect on the team, restoring confidence that months of setbacks had eroded.",
+      "answerChoices": [
+        { "distractor": "cathartic", "closeness": 3, "reasoning": "A cathartic effect brings emotional release and relief, similar to how the success restores confidence; however, 'cathartic' emphasizes cleansing and purging negative emotions, while 'tonic' emphasizes building up and restoring positive qualities." },
+        { "distractor": "curative", "closeness": 3, "reasoning": "'Curative' means healing or restorative, fitting the sense of recovery in the sentence; the distinction is that 'curative' addresses ailments directly, while 'tonic' suggests invigoration and strengthening of overall vitality." },
+        { "distractor": "remedial", "closeness": 3, "reasoning": "'Remedial' means corrective or healing, fitting the restoration of confidence; however, 'remedial' often suggests fixing what was wrong, while 'tonic' suggests actively building up and invigorating." },
+        { "distractor": "restorative", "closeness": 3, "reasoning": "'Restorative' means bringing back to a former state, which perfectly fits restoring confidence; 'restorative' and 'tonic' are so close that 'restorative' could trap someone, though 'tonic' has more emphasis on invigoration than on returning to baseline." },
+        { "distractor": "stimulating", "closeness": 2, "reasoning": "'Stimulating' means exciting or rousing, and the success does stimulate the team; however, the sentence emphasizes restoration of lost confidence, not just excitement or arousal." },
+        { "distractor": "uplifting", "closeness": 2, "reasoning": "'Uplifting' means raising spirits or morale, fitting the effect described; however, 'uplifting' emphasizes emotional elevation, while 'tonic' suggests a deeper restoration of strength and vitality." },
+        { "distractor": "encouraging", "closeness": 2, "reasoning": "'Encouraging' means promoting confidence or effort, fitting the restored confidence in the sentence; however, 'encouraging' is more about inspiration to act, while 'tonic' is about invigoration and recovery." },
+        { "distractor": "invigorating", "closeness": 2, "reasoning": "'Invigorating' means giving energy or strength, fitting the restoration effect; however, 'invigorating' emphasizes active energy, while 'tonic' suggests a restorative quality that builds vitality." },
+        { "distractor": "damaging", "closeness": 1, "reasoning": "The sentence explicitly states the success 'had a tonic effect,' meaning positive impact; 'damaging' is the opposite of what the sentence describes." },
+        { "distractor": "demoralizing", "closeness": 1, "reasoning": "The sentence describes restoration of confidence after setbacks; 'demoralizing' would mean destroying confidence, which is the opposite of the effect described." },
+        { "distractor": "depressing", "closeness": 1, "reasoning": "The sentence shows the success lifting the team after setbacks; 'depressing' would mean lowering spirits, which is opposite to the tonic effect described." }
+      ]
+    },
+    {
+      "sentence": "Her morning run had become a tonic for her mental health, clearing her mind and lifting her spirits in ways that no pill could replicate.",
+      "answerChoices": [
+        { "distractor": "panacea", "closeness": 3, "reasoning": "A panacea is a cure-all for all problems, and the sentence suggests the run addresses mental health comprehensively; the distinction is that 'panacea' claims to solve everything, while 'tonic' suggests restoration and invigoration specifically." },
+        { "distractor": "remedy", "closeness": 3, "reasoning": "A remedy is a cure or solution to a problem, fitting the mental health benefit described; however, 'remedy' suggests fixing a specific ailment, while 'tonic' suggests general invigoration and wellness." },
+        { "distractor": "therapy", "closeness": 3, "reasoning": "'Therapy' is treatment for mental or physical health, fitting perfectly; the distinction is that 'therapy' is a structured treatment, while 'tonic' suggests a natural, restorative activity." },
+        { "distractor": "treatment", "closeness": 3, "reasoning": "'Treatment' means care or therapy for an ailment, fitting the mental health context; however, 'treatment' is more formal and clinical, while 'tonic' suggests something more natural and revitalizing." },
+        { "distractor": "regimen", "closeness": 2, "reasoning": "'Regimen' is a set routine for health, and the sentence describes a regular morning practice; however, 'regimen' emphasizes the discipline and routine, while 'tonic' emphasizes the restorative effect." },
+        { "distractor": "antidote", "closeness": 2, "reasoning": "'Antidote' counters a poison or harmful substance, and the run counters stress and mental fatigue; however, 'antidote' is more specific to counteracting a poison, while 'tonic' suggests general restoration." },
+        { "distractor": "palliative", "closeness": 2, "reasoning": "'Palliative' means easing symptoms without curing, fitting the temporary relief the run provides; however, the sentence suggests sustained mental health benefits, not just symptom relief." },
+        { "distractor": "stimulant", "closeness": 2, "reasoning": "'Stimulant' provides energy or excitement, fitting the 'lifting spirits' aspect; however, 'stimulant' suggests artificial or temporary boost, while the sentence implies natural, sustained invigoration." },
+        { "distractor": "placebo", "closeness": 1, "reasoning": "A placebo is an inert substance with no real effect; the sentence describes real, tangible mental health benefits from the run, making 'placebo' incompatible." },
+        { "distractor": "sedative", "closeness": 1, "reasoning": "A sedative calms or depresses the central nervous system; the sentence describes something that lifts spirits and clears the mind, which is opposite to sedation." },
+        { "distractor": "intoxicant", "closeness": 1, "reasoning": "An intoxicant impairs judgment and cognition; the sentence describes something that clears the mind, which is the opposite effect." }
+      ]
+    },
+    {
+      "sentence": "The tax cut proved to be an economic tonic, reviving consumer spending and investment after years of recession and market stagnation.",
+      "answerChoices": [
+        { "distractor": "stimulus", "closeness": 3, "reasoning": "A stimulus encourages economic activity and spending, fitting the tax cut's reviving effect perfectly; 'stimulus' is so similar that it could trap someone, though 'tonic' emphasizes broader invigoration while 'stimulus' suggests direct encouragement." },
+        { "distractor": "remedy", "closeness": 3, "reasoning": "'Remedy' fixes a problem, fitting the recovery from recession; however, 'remedy' suggests addressing a specific ailment, while 'tonic' suggests restoring overall economic vitality." },
+        { "distractor": "boost", "closeness": 3, "reasoning": "'Boost' means to increase or enhance, fitting the reviving effect described; however, 'boost' is more colloquial and suggests a temporary lift, while 'tonic' suggests lasting invigoration." },
+        { "distractor": "injection", "closeness": 3, "reasoning": "'Injection' refers to adding capital or resources into an economy, fitting the tax cut's effect; however, 'injection' is more formal/technical and suggests external addition, while 'tonic' is broader." },
+        { "distractor": "measure", "closeness": 2, "reasoning": "'Measure' is a course of action, fitting a tax cut as a policy; however, 'measure' is too general—the sentence emphasizes the reviving, restorative effect of the policy." },
+        { "distractor": "incentive", "closeness": 2, "reasoning": "'Incentive' encourages action, and a tax cut does provide incentive to spend; however, the sentence emphasizes restoration of economic health, not just incentivizing behavior." },
+        { "distractor": "relief", "closeness": 2, "reasoning": "'Relief' means easing of burden, and tax cuts provide tax relief; however, the sentence emphasizes economic revival and recovery, not just burden reduction." },
+        { "distractor": "intervention", "closeness": 2, "reasoning": "'Intervention' is government action to affect an economy, fitting a tax cut; however, 'intervention' is neutral about effect, while 'tonic' emphasizes positive, invigorating effect." },
+        { "distractor": "penalty", "closeness": 1, "reasoning": "A penalty is a punishment or fine; the sentence describes something that revives the economy, which is opposite to the negative effect of a penalty." },
+        { "distractor": "burden", "closeness": 1, "reasoning": "A burden is something that weighs down or hinders; the sentence describes something that revives and restores, which is opposite to burdening." },
+        { "distractor": "constraint", "closeness": 1, "reasoning": "A constraint restricts or limits; the sentence describes tax cuts that free up spending, which is opposite to imposing constraints." }
+      ]
+    }
+  ]
+}

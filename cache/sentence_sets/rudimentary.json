@@ -1,0 +1,53 @@
+{
+  "word": "rudimentary",
+  "sentenceSets": [
+    {
+      "sentence": "Her rudimentary understanding of the technical system was sufficient for the decisions she needed to make but insufficient for the questions she was now being asked.",
+      "answerChoices": [
+        { "distractor": "elementary", "closeness": 3, "reasoning": "Both mean foundational and basic; very close to the sentence's meaning, but the sentence contrasts 'sufficient for some decisions' with 'insufficient for other questions,' suggesting a gap between what she knows and what's needed—'rudimentary' captures this incompleteness better." },
+        { "distractor": "fundamental", "closeness": 3, "reasoning": "Means relating to basic principles; while similar to rudimentary, 'fundamental' emphasizes the core importance of principles, whereas the sentence shows her knowledge lacks depth for complex questions." },
+        { "distractor": "basic", "closeness": 3, "reasoning": "Means simple and foundational; essentially synonymous with rudimentary, but the sentence's contrast between sufficient and insufficient knowledge requires distinguishing basic knowledge from knowledge adequate to specific depths." },
+        { "distractor": "superficial", "closeness": 3, "reasoning": "Means shallow and surface-level; while conveying shallowness, 'superficial' suggests awareness without substance, whereas the sentence shows she possesses genuine knowledge but only at an introductory level." },
+        { "distractor": "limited", "closeness": 2, "reasoning": "Means restricted in scope or extent; while capturing that her knowledge has bounds, 'limited' is too general—it doesn't specify that the limits relate to basic principles versus advanced concepts." },
+        { "distractor": "incomplete", "closeness": 2, "reasoning": "Means not finished or whole; while her knowledge is incomplete, the sentence distinguishes knowledge that is adequate for simple decisions but inadequate for complex questions—not merely unfinished." },
+        { "distractor": "cursory", "closeness": 2, "reasoning": "Means hasty and not thorough; while her knowledge is not thorough, 'cursory' suggests haste, whereas the sentence indicates deliberate but shallow mastery." },
+        { "distractor": "shallow", "closeness": 2, "reasoning": "Means lacking depth; similar to the sentence's implication that her knowledge doesn't extend to deeper levels, but less specific than 'rudimentary' about being at the foundational level." },
+        { "distractor": "expert", "closeness": 1, "reasoning": "Means highly knowledgeable and skilled; directly opposite to the basic level of understanding that the sentence describes." },
+        { "distractor": "comprehensive", "closeness": 1, "reasoning": "Means complete and covering everything; opposite to the knowledge that is described as sufficient for some decisions but insufficient for others." },
+        { "distractor": "advanced", "closeness": 1, "reasoning": "Means at a higher or complex level; opposite to the foundational, basic level of understanding that she possesses." }
+      ]
+    },
+    {
+      "sentence": "The hikers' rudimentary knowledge of wilderness survival—how to find water and build a shelter—saved them when they were stranded overnight.",
+      "answerChoices": [
+        { "distractor": "basic", "closeness": 3, "reasoning": "Means foundational and simple; essentially synonymous with rudimentary, but the sentence specifies the knowledge as precisely what was needed (water and shelter), suggesting a focused essential knowledge rather than just 'basic' generality." },
+        { "distractor": "primitive", "closeness": 3, "reasoning": "Means original and unrefined; while similar in describing elementary techniques, 'primitive' suggests lack of development, whereas the sentence shows their knowledge was exactly suited to the emergency—adequate, not merely primitive." },
+        { "distractor": "essential", "closeness": 3, "reasoning": "Means fundamentally important; while the survival knowledge was essential, the sentence emphasizes it was rudimentary (basic), not that it was absolutely necessary—the emphasis is on the level, not the criticality." },
+        { "distractor": "elementary", "closeness": 3, "reasoning": "Means simple and foundational; very close in meaning, but the sentence frames the knowledge as practical survival skills, whereas 'elementary' might suggest textbook basics." },
+        { "distractor": "practical", "closeness": 2, "reasoning": "Means applicable to real situations; the knowledge was practical, but the sentence requires describing how basic or foundational it was, not how applicable." },
+        { "distractor": "minimal", "closeness": 2, "reasoning": "Means the least amount needed; while their knowledge might have been minimal, the sentence emphasizes it as rudimentary (basic principles), not just the quantity of knowledge." },
+        { "distractor": "improvised", "closeness": 2, "reasoning": "Means created without preparation; while the hikers may have improvised, the sentence describes knowledge they possessed before the emergency, not improvisation during it." },
+        { "distractor": "crude", "closeness": 2, "reasoning": "Means unrefined and rough; while their techniques might be crude, the sentence emphasizes basic knowledge, not rough or unpolished execution." },
+        { "distractor": "sophisticated", "closeness": 1, "reasoning": "Means complex and refined; directly opposite to the basic, foundational survival knowledge the sentence describes." },
+        { "distractor": "advanced", "closeness": 1, "reasoning": "Means at a high level; opposite to the foundational knowledge that saved the stranded hikers." },
+        { "distractor": "expert", "closeness": 1, "reasoning": "Means highly skilled and knowledgeable; opposite to the basic survival knowledge that the sentence attributes to the hikers." }
+      ]
+    },
+    {
+      "sentence": "The ancient pottery shows only rudimentary attempts at decoration, suggesting the artisans of that era had not yet developed sophisticated techniques.",
+      "answerChoices": [
+        { "distractor": "primitive", "closeness": 3, "reasoning": "Means original and unrefined; very close to rudimentary, but 'primitive' emphasizes the stage of development as early/original, whereas the sentence frames it as a starting point before 'sophisticated techniques' were invented." },
+        { "distractor": "simple", "closeness": 3, "reasoning": "Means not complex; while the sentence shows simple decoration, 'simple' doesn't capture the idea of rudimentary as a stage of development or foundational level—'simple' is more about lack of complexity." },
+        { "distractor": "basic", "closeness": 3, "reasoning": "Means foundational and elementary; essentially synonymous, but the sentence's historical context (artisans had not yet developed sophisticated techniques) emphasizes development over time, which 'basic' alone doesn't capture." },
+        { "distractor": "elementary", "closeness": 3, "reasoning": "Means simple and foundational; very close in meaning to rudimentary, but the sentence's comparative frame (rudimentary now, sophisticated later) emphasizes the developmental progression rather than just elementary nature." },
+        { "distractor": "crude", "closeness": 2, "reasoning": "Means unrefined and rough; while the decoration was crude, the sentence emphasizes that the techniques were at a foundational stage of development, not merely that execution was rough." },
+        { "distractor": "unsophisticated", "closeness": 2, "reasoning": "Means lacking refinement; while the sentence contrasts rudimentary attempts with sophisticated techniques, 'unsophisticated' is merely the opposite state, lacking the sense of developmental progression." },
+        { "distractor": "unpolished", "closeness": 2, "reasoning": "Means not refined or perfected; describes the quality of the decoration but not the foundational stage of technique development that 'rudimentary' emphasizes." },
+        { "distractor": "rough", "closeness": 2, "reasoning": "Means lacking smoothness or finesse; while the decoration was likely rough, the sentence requires a term that indicates basic, foundational techniques, not just rough execution." },
+        { "distractor": "intricate", "closeness": 1, "reasoning": "Means complex with many details; directly opposite to the simple, foundational decoration attempts the sentence describes." },
+        { "distractor": "ornate", "closeness": 1, "reasoning": "Means elaborately and richly decorated; opposite to the rudimentary, basic decoration shown by the ancient pottery." },
+        { "distractor": "refined", "closeness": 1, "reasoning": "Means elegant and skillfully made; opposite to the rudimentary techniques that the sentence attributes to the ancient artisans who had not yet developed sophistication." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "pandemic",
+  "sentenceSets": [
+    {
+      "sentence": "The pandemic of complacency that had settled over the industry was diagnosed only after the disruption had already arrived.",
+      "answerChoices": [
+        { "distractor": "epidemic", "closeness": 3, "reasoning": "Close -- 'epidemic' refers to a disease or condition spreading over a wide area, similar to pandemic's geographic scope, but epidemic typically affects a region rather than multiple continents or countries." },
+        { "distractor": "plague", "closeness": 3, "reasoning": "Close -- 'plague' is a widespread affliction, which fits the metaphor of complacency spreading, but plague typically implies sudden, acute severity rather than pandemic's sustained, population-wide prevalence." },
+        { "distractor": "scourge", "closeness": 3, "reasoning": "Close -- 'scourge' is a persistent affliction or cause of suffering that affects many, similar to the pandemic complacency, but scourge emphasizes punishment or punishment-like severity rather than the clinical spread." },
+        { "distractor": "contagion", "closeness": 3, "reasoning": "Close -- 'contagion' is the spreading of something from person to person, which applies to the complacency spreading through the industry, but contagion emphasizes the mechanism of transmission rather than the scale or population-wide nature." },
+        { "distractor": "crisis", "closeness": 2, "reasoning": "Incorrect -- 'crisis' is an urgent, critical moment, which the complacency creates, but crisis doesn't necessarily imply the wide geographic spread characteristic of pandemic." },
+        { "distractor": "catastrophe", "closeness": 2, "reasoning": "Incorrect -- 'catastrophe' is a disastrous event, which the complacency leads to, but it doesn't capture the population-wide, sustained prevalence of a pandemic." },
+        { "distractor": "trend", "closeness": 2, "reasoning": "Incorrect -- 'trend' is a prevailing tendency or fashion, which complacency might be, but trend is temporary and fashion-based rather than the serious, systemic spread of pandemic." },
+        { "distractor": "syndrome", "closeness": 2, "reasoning": "Incorrect -- 'syndrome' is a group of signs or symptoms occurring together, which might describe the complacency's effects, but syndrome is a pattern rather than a spreading condition." },
+        { "distractor": "cure", "closeness": 1, "reasoning": "Opposite -- a 'cure' is a remedy or solution, opposite to the pandemic complacency that harmed the industry." },
+        { "distractor": "immunity", "closeness": 1, "reasoning": "Opposite -- 'immunity' is resistance to infection or harm, the opposite of being affected by pandemic complacency." },
+        { "distractor": "localized", "closeness": 1, "reasoning": "Incorrect -- 'localized' means restricted to a limited area, contradicting pandemic's wide geographic span." }
+      ]
+    },
+    {
+      "sentence": "The pandemic spread of antibiotic-resistant bacteria across hospitals worldwide prompted urgent research into alternative treatments.",
+      "answerChoices": [
+        { "distractor": "universal", "closeness": 3, "reasoning": "Close -- 'universal' means occurring everywhere, which is similar to pandemic's worldwide reach, but universal suggests totality across all contexts, whereas pandemic emphasizes the span across regions." },
+        { "distractor": "global", "closeness": 3, "reasoning": "Close -- 'global' means worldwide or relating to the whole world, which aligns with pandemic's geographic scope, but global is a spatial descriptor whereas pandemic emphasizes the widespread nature affecting a population." },
+        { "distractor": "rampant", "closeness": 3, "reasoning": "Close -- 'rampant' means flourishing or spreading unchecked, which describes the bacteria's spread, but rampant doesn't necessarily imply the multi-country, population-affecting scale." },
+        { "distractor": "endemic", "closeness": 3, "reasoning": "Close -- 'endemic' describes something native to and widespread within a particular region, which resembles pandemic's spread, but endemic is region-specific whereas pandemic spans multiple countries or continents." },
+        { "distractor": "widespread", "closeness": 2, "reasoning": "Incorrect -- 'widespread' means existing over a large area, but it's a general spatial descriptor; pandemic specifies the scale affecting a significant population." },
+        { "distractor": "prolific", "closeness": 2, "reasoning": "Incorrect -- 'prolific' means producing much or many, which the bacteria do, but it emphasizes production rather than geographic or population-based spreading." },
+        { "distractor": "rapid", "closeness": 2, "reasoning": "Incorrect -- 'rapid' means occurring quickly, which the spread may be, but it describes speed rather than the wide geographic scope." },
+        { "distractor": "severe", "closeness": 2, "reasoning": "Incorrect -- 'severe' means serious or intense, which describes the threat, but it's a descriptor of intensity rather than geographic or population-based scope." },
+        { "distractor": "contained", "closeness": 1, "reasoning": "Opposite -- 'contained' means restricted or controlled, the opposite of pandemic spread across worldwide hospitals." },
+        { "distractor": "localized", "closeness": 1, "reasoning": "Opposite -- 'localized' means restricted to a specific location, contradicting the worldwide spread." },
+        { "distractor": "isolated", "closeness": 1, "reasoning": "Incorrect -- 'isolated' means separate or alone, opposite to the connected, worldwide spread." }
+      ]
+    },
+    {
+      "sentence": "The pandemic nature of social media addiction meant that young people across continents struggled with identical problems despite their vastly different cultures.",
+      "answerChoices": [
+        { "distractor": "pervasive", "closeness": 3, "reasoning": "Close -- 'pervasive' means present throughout an entire area or group, which aligns with the addiction's spread, but pervasive emphasizes saturation within a space rather than the multi-continent, population-affecting scope." },
+        { "distractor": "ubiquitous", "closeness": 3, "reasoning": "Close -- 'ubiquitous' means present everywhere at once, which fits the addiction's scope, but ubiquitous emphasizes omnipresence as a quality whereas pandemic specifies a spreading condition affecting populations." },
+        { "distractor": "systematic", "closeness": 3, "reasoning": "Close -- 'systematic' means occurring throughout a system, which describes how the addiction affects youth across cultures, but systematic emphasizes method or organization rather than the geographic and population-scale spreading." },
+        { "distractor": "sweeping", "closeness": 3, "reasoning": "Close -- 'sweeping' means extending over a wide area or affecting many, similar to pandemic's scope, but sweeping suggests a general, broad application rather than the clinical sense of spreading through populations." },
+        { "distractor": "common", "closeness": 2, "reasoning": "Incorrect -- 'common' means occurring frequently or shared by many, which the addiction is, but common doesn't capture the sense of spreading across continents and populations." },
+        { "distractor": "prevalent", "closeness": 2, "reasoning": "Incorrect -- 'prevalent' means widespread or common, which the addiction is, but it's a state descriptor rather than emphasizing the spreading across multiple countries." },
+        { "distractor": "chronic", "closeness": 2, "reasoning": "Incorrect -- 'chronic' means persistent over time, which addiction is, but chronic emphasizes duration rather than geographic or population-scale scope." },
+        { "distractor": "epidemic", "closeness": 2, "reasoning": "Incorrect -- 'epidemic' is similar to pandemic but typically limited to a region; the sentence specifies 'across continents,' implying a larger scale." },
+        { "distractor": "unique", "closeness": 1, "reasoning": "Opposite -- 'unique' means being one of a kind, opposite to the identical problems affecting youth across continents." },
+        { "distractor": "regional", "closeness": 1, "reasoning": "Opposite -- 'regional' means limited to a specific region, contradicting the multi-continent scope." },
+        { "distractor": "singular", "closeness": 1, "reasoning": "Incorrect -- 'singular' means one or unique, opposite to the shared, widespread nature described." }
+      ]
+    }
+  ]
+}

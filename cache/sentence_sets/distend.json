@@ -1,0 +1,53 @@
+{
+  "word": "distend",
+  "sentenceSets": [
+    {
+      "sentence": "The balloon distended slowly as the gas filled it, until the skin was nearly translucent.",
+      "answerChoices": [
+        { "distractor": "inflated", "closeness": 3, "reasoning": "Inflated means filled with air, creating expansion very similar to distended, but emphasizes the process of filling rather than the resulting stretched state." },
+        { "distractor": "expanded", "closeness": 3, "reasoning": "Expanded means increased in size, capturing the growth of the balloon much like distended, but is more general and less specific to stretching." },
+        { "distractor": "enlarged", "closeness": 3, "reasoning": "Enlarged means made bigger, accurately describing the balloon's growth, but emphasizes the size change rather than the stretching from internal pressure." },
+        { "distractor": "swelled", "closeness": 3, "reasoning": "Swelled means became swollen or puffed up, very close to distended, but often implies a less gradual or less controlled expansion than the sentence depicts." },
+        { "distractor": "stretched", "closeness": 2, "reasoning": "Stretched means pulled out or extended, capturing the skin's response to internal pressure, but implies external pulling rather than pressure from within." },
+        { "distractor": "extended", "closeness": 2, "reasoning": "Extended means made longer or larger, describing growth but lacking the specific sense of filling and stretching from internal pressure." },
+        { "distractor": "billowed", "closeness": 2, "reasoning": "Billowed means puffed out or swelled in waves, fitting the balloon's shape but suggesting undulating waves rather than steady expansion." },
+        { "distractor": "ballooned", "closeness": 2, "reasoning": "Ballooned means expanded rapidly like a balloon, very close but is more commonly used figuratively for sudden growth and may imply faster expansion than distended." },
+        { "distractor": "deflated", "closeness": 1, "reasoning": "Deflated means lost air and collapsed, the opposite of distended, which requires the balloon to fill and expand." },
+        { "distractor": "shrank", "closeness": 1, "reasoning": "Shrank means became smaller, directly opposite to the enlargement that distended describes." },
+        { "distractor": "contracted", "closeness": 1, "reasoning": "Contracted means became smaller or tighter, the opposite of the stretching and expansion caused by distending." }
+      ]
+    },
+    {
+      "sentence": "After the surgery, her abdomen distended significantly, alarming the medical team who rushed her back to the operating room.",
+      "answerChoices": [
+        { "distractor": "bloated", "closeness": 3, "reasoning": "Bloated means swollen or puffed with gas, very close to distended in meaning, but carries a connotation of digestive discomfort rather than surgical urgency." },
+        { "distractor": "puffed", "closeness": 3, "reasoning": "Puffed means became puffy or swollen, capturing the swelling closely, but is lighter and less clinical than distended in a medical context." },
+        { "distractor": "bulged", "closeness": 3, "reasoning": "Bulged means protruded or swelled outward, describing the visible expansion, but emphasizes the outward protrusion rather than the stretching of tissue." },
+        { "distractor": "protruded", "closeness": 3, "reasoning": "Protruded means stuck out prominently, capturing the swelling's visibility, but refers to the outward extension rather than the internal pressure causing it." },
+        { "distractor": "hardened", "closeness": 2, "reasoning": "Hardened means became rigid or firm, relating to the post-surgical condition that might alarm doctors, but describes rigidity rather than the swelling." },
+        { "distractor": "tightened", "closeness": 2, "reasoning": "Tightened means became taut or constricted, suggesting tension but opposite in direction to the relaxation of tissue that accompanies swelling." },
+        { "distractor": "compressed", "closeness": 2, "reasoning": "Compressed means squeezed or pressed, describing internal pressure but implying external force rather than internal expansion." },
+        { "distractor": "pinched", "closeness": 2, "reasoning": "Pinched means squeezed or constricted tightly, opposite to the outward expansion that distended conveys and suggesting pain rather than swelling." },
+        { "distractor": "collapsed", "closeness": 1, "reasoning": "Collapsed means fell inward or gave way, the opposite of distended expansion, and would not alarm doctors in the context of post-surgical swelling." },
+        { "distractor": "shriveled", "closeness": 1, "reasoning": "Shriveled means became dried and smaller, directly opposite to the enlargement and swelling that distended describes." },
+        { "distractor": "receded", "closeness": 1, "reasoning": "Receded means went back or withdrew, opposite to the forward expansion implied by distended, and would be a positive sign rather than alarming." }
+      ]
+    },
+    {
+      "sentence": "The river distended during the monsoon season, its engorged channels threatening the villages that nestled along its course.",
+      "answerChoices": [
+        { "distractor": "overflowed", "closeness": 3, "reasoning": "Overflowed means flowed over the banks, capturing the water's expansion, but focuses on the spilling out rather than the initial swelling from internal pressure." },
+        { "distractor": "surged", "closeness": 3, "reasoning": "Surged means moved with sudden force and volume, describing the powerful expansion of water, but emphasizes the rushing movement rather than the stretching of channels." },
+        { "distractor": "burst", "closeness": 3, "reasoning": "Burst means broke open suddenly, relating to over-expansion, but implies a catastrophic rupture rather than the gradual distension described in the sentence." },
+        { "distractor": "gushed", "closeness": 3, "reasoning": "Gushed means flowed forth forcefully and abundantly, capturing the water's power, but emphasizes rapid outpouring rather than the widening of the channel itself." },
+        { "distractor": "inundated", "closeness": 2, "reasoning": "Inundated means flooded or covered with water, describing the result of swelling but not the swelling itself." },
+        { "distractor": "flooded", "closeness": 2, "reasoning": "Flooded means covered with an excess of water, capturing the danger but not specifically the swelling that causes the flooding." },
+        { "distractor": "erupted", "closeness": 2, "reasoning": "Erupted means broke out or burst forth violently, suggesting sudden release but lacking the sense of gradual expansion from internal pressure." },
+        { "distractor": "ruptured", "closeness": 2, "reasoning": "Ruptured means broke open, implying damage to the channel rather than natural swelling, and suggests permanent damage rather than seasonal variation." },
+        { "distractor": "subsided", "closeness": 1, "reasoning": "Subsided means went down or decreased, the opposite of the swelling that distended describes during the monsoon." },
+        { "distractor": "dwindled", "closeness": 1, "reasoning": "Dwindled means became gradually smaller, directly opposite to the expansion implied by distended." },
+        { "distractor": "diminished", "closeness": 1, "reasoning": "Diminished means decreased in size or importance, the opposite of the expansion and growing threat that distended conveys." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "baroque",
+  "sentenceSets": [
+    {
+      "sentence": "The baroque decoration overwhelmed the room—gilded surfaces competed with painted ceilings for attention.",
+      "answerChoices": [
+        { "distractor": "opulent", "closeness": 3, "reasoning": "Both suggest rich and lavish visual display, but opulent emphasizes costliness and luxury, while baroque emphasizes ornate complexity and dramatic contrast." },
+        { "distractor": "ornate", "closeness": 3, "reasoning": "Both describe heavily decorated surfaces, but ornate emphasizes decoration itself, while baroque emphasizes the complex, dramatic style with tension between elements." },
+        { "distractor": "flamboyant", "closeness": 3, "reasoning": "Both suggest showy and bold visual expression, but flamboyant emphasizes boldness and showiness, while baroque emphasizes dramatic movement and contrasting elements." },
+        { "distractor": "lavish", "closeness": 3, "reasoning": "Both suggest costly and impressive display, but lavish emphasizes abundance and expense, while baroque emphasizes complex forms and dramatic contrast." },
+        { "distractor": "decorative", "closeness": 2, "reasoning": "Baroque decoration is decorative, but decorative merely means ornamented without the specific sense of dramatic complexity and contrasting elements." },
+        { "distractor": "grandiose", "closeness": 2, "reasoning": "Both suggest impressively large display, but grandiose emphasizes scale and pretentiousness, while baroque emphasizes complex forms and dramatic movement." },
+        { "distractor": "elaborate", "closeness": 2, "reasoning": "Both describe complex designs, but elaborate emphasizes intricacy and detail, while baroque emphasizes dramatic contrast and tension." },
+        { "distractor": "embellished", "closeness": 2, "reasoning": "The surfaces are embellished, but embellished merely means decorated, without the sense of dramatic tension baroque conveys." },
+        { "distractor": "austere", "closeness": 1, "reasoning": "Baroque decoration overwhelms with richness; austere describes severe simplicity." },
+        { "distractor": "minimalist", "closeness": 1, "reasoning": "The room is filled with competing ornamental elements; minimalist emphasizes reduction to essentials." },
+        { "distractor": "restrained", "closeness": 1, "reasoning": "The baroque style competes for attention through complexity; restrained describes self-controlled simplicity." }
+      ]
+    },
+    {
+      "sentence": "The composer's later symphonies were baroque in their construction, featuring multiple melodies and instruments in dramatic conflict rather than harmonic unity.",
+      "answerChoices": [
+        { "distractor": "complex", "closeness": 3, "reasoning": "Both describe intricate structures, but complex merely means consisting of many parts, while baroque emphasizes the dramatic tension and contrasting elements within that complexity." },
+        { "distractor": "polyphonic", "closeness": 3, "reasoning": "Both involve multiple melodic lines, but polyphonic specifically refers to musical technique of combining melodies, while baroque describes a broader artistic style with dramatic contrast." },
+        { "distractor": "intricate", "closeness": 3, "reasoning": "Both describe detailed complexity, but intricate emphasizes complexity of design, while baroque emphasizes dramatic movement and contrasting elements." },
+        { "distractor": "contrapuntal", "closeness": 3, "reasoning": "Both involve combining different musical lines, but contrapuntal is a specific musical technique, while baroque describes a broader stylistic approach with drama and tension." },
+        { "distractor": "multilayered", "closeness": 2, "reasoning": "The symphonies have multiple layers, but multilayered describes the structure without baroque's sense of dramatic contrast." },
+        { "distractor": "discordant", "closeness": 2, "reasoning": "The melodies are in conflict, but discordant means harsh and unpleasant, while baroque's conflict is dramatic and intentional." },
+        { "distractor": "ornamental", "closeness": 2, "reasoning": "Baroque music can be ornamental, but ornamental refers to decoration, not to the dramatic conflict of elements." },
+        { "distractor": "unconventional", "closeness": 2, "reasoning": "The construction differs from harmonic unity, but unconventional merely means not following usual patterns." },
+        { "distractor": "harmonious", "closeness": 1, "reasoning": "The symphonies feature dramatic conflict between instruments; harmonious describes unity and agreement." },
+        { "distractor": "streamlined", "closeness": 1, "reasoning": "The composition is complex with multiple melodies in conflict; streamlined describes simplified efficiency." },
+        { "distractor": "consonant", "closeness": 1, "reasoning": "The instruments are in dramatic conflict; consonant describes agreement and harmony." }
+      ]
+    },
+    {
+      "sentence": "Her baroque prose style delighted some readers with its swirling elaborations and surprising juxtapositions but frustrated others seeking clear communication.",
+      "answerChoices": [
+        { "distractor": "flowery", "closeness": 3, "reasoning": "Both describe richly ornamental language, but flowery emphasizes decorative language, while baroque emphasizes complex forms and dramatic contrasts." },
+        { "distractor": "verbose", "closeness": 3, "reasoning": "Both involve elaborate expression, but verbose means using more words than necessary, while baroque describes a specific style with dramatic tension and complex forms." },
+        { "distractor": "convoluted", "closeness": 3, "reasoning": "Both describe complicated expression, but convoluted emphasizes twisting complexity and difficulty of understanding, while baroque emphasizes deliberate dramatic effect and artistic tension." },
+        { "distractor": "ornamental", "closeness": 3, "reasoning": "Both describe decorated language, but ornamental emphasizes added embellishment, while baroque emphasizes complex contrasts and dramatic movement." },
+        { "distractor": "lyrical", "closeness": 2, "reasoning": "The prose is elaborate, but lyrical refers to musical or songlike quality, not necessarily baroque's dramatic contrast." },
+        { "distractor": "archaic", "closeness": 2, "reasoning": "The prose is complex, but archaic means old-fashioned or out of date, not necessarily baroque." },
+        { "distractor": "poetic", "closeness": 2, "reasoning": "The prose is elaborate, but poetic refers to qualities associated with poetry, not specifically baroque style." },
+        { "distractor": "affected", "closeness": 2, "reasoning": "The style may be ornate, but affected means artificially assumed, while baroque can be a deliberate artistic choice." },
+        { "distractor": "simple", "closeness": 1, "reasoning": "The prose features swirling elaborations and juxtapositions; simple describes lack of complexity." },
+        { "distractor": "direct", "closeness": 1, "reasoning": "The style frustrated those seeking clear communication; direct describes straightforward expression." },
+        { "distractor": "lucid", "closeness": 1, "reasoning": "The baroque style includes complex juxtapositions; lucid describes clear and easily understood expression." }
+      ]
+    }
+  ]
+}

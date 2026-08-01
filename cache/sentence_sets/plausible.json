@@ -1,0 +1,53 @@
+{
+  "word": "plausible",
+  "sentenceSets": [
+    {
+      "sentence": "The explanation was plausible in the absence of better information, which is precisely the condition the explanation had been designed to maintain.",
+      "answerChoices": [
+        { "distractor": "credible", "closeness": 3, "reasoning": "Close -- 'credible' means worthy of belief or trust, which fits the surface reasonableness of the explanation, but it emphasizes genuine trustworthiness rather than mere appearance of reasonableness in the absence of alternatives." },
+        { "distractor": "convincing", "closeness": 3, "reasoning": "Close -- 'convincing' means persuasive or compelling, which the plausible explanation achieves, but it emphasizes the actual persuasive power rather than the deceptive appearance of reasonableness." },
+        { "distractor": "probable", "closeness": 3, "reasoning": "Close -- 'probable' means likely to happen or be true, which fits the context of an explanation that appears sound, but it emphasizes likelihood based on evidence rather than mere surface plausibility." },
+        { "distractor": "tenable", "closeness": 3, "reasoning": "Close -- 'tenable' means defensible or able to be maintained as a position, which describes the surface acceptability of the explanation, but it focuses on argumentative defensibility rather than deceptive surface reasonableness." },
+        { "distractor": "logical", "closeness": 2, "reasoning": "Incorrect -- 'logical' means following rules of reasoning; while the explanation may appear logical, this does not capture the sense of superficial reasonableness designed to obscure better alternatives." },
+        { "distractor": "valid", "closeness": 2, "reasoning": "Incorrect -- 'valid' means sound and justified by evidence; the explanation's validity is questioned by the sentence's implication of deception." },
+        { "distractor": "rational", "closeness": 2, "reasoning": "Incorrect -- 'rational' means based on reason; an explanation can appear rational without being actually sound." },
+        { "distractor": "coherent", "closeness": 2, "reasoning": "Incorrect -- 'coherent' means logically consistent and clear; the explanation is not necessarily coherent, only superficially reasonable." },
+        { "distractor": "dubious", "closeness": 1, "reasoning": "Opposite -- 'dubious' means doubtful or questionable; this contradicts the apparent reasonableness the sentence assigns to the explanation." },
+        { "distractor": "refutable", "closeness": 1, "reasoning": "Opposite -- 'refutable' means able to be disproven; while plausible explanations may be refutable, the term emphasizes the likelihood of disproof rather than surface reasonableness." },
+        { "distractor": "speculative", "closeness": 1, "reasoning": "Incorrect -- 'speculative' means based on conjecture rather than facts; while the explanation might be speculative, this fails to capture the deceptive semblance of soundness." }
+      ]
+    },
+    {
+      "sentence": "The detective acknowledged that while the suspect's alibi seemed plausible on first hearing, closer examination of the timeline revealed inconsistencies.",
+      "answerChoices": [
+        { "distractor": "reasonable", "closeness": 3, "reasoning": "Close -- 'reasonable' means fair and sensible, which the alibi appears initially, but it emphasizes actual fairness and sense rather than the deceptive surface plausibility that closer examination undermines." },
+        { "distractor": "believable", "closeness": 3, "reasoning": "Close -- 'believable' means able to be accepted as true, which the alibi initially seems to be, but emphasizes actual veracity rather than merely appearing reasonable without deeper scrutiny." },
+        { "distractor": "superficial", "closeness": 3, "reasoning": "Close -- 'superficial' means shallow or on the surface, which captures the \"first hearing\" aspect, but it is a negative judgment rather than the initially attractive quality of the alibi." },
+        { "distractor": "apparent", "closeness": 3, "reasoning": "Close -- 'apparent' means seeming to be true on the surface, which fits the initial impression of the alibi, but it is more neutral in tone than 'plausible' and does not necessarily imply the deceptive quality." },
+        { "distractor": "possible", "closeness": 2, "reasoning": "Incorrect -- 'possible' means capable of happening; while the alibi is possible, this does not convey the apparent reasonableness that makes it initially seem sound." },
+        { "distractor": "feasible", "closeness": 2, "reasoning": "Incorrect -- 'feasible' means capable of being done or achieved; the alibi's feasibility differs from its initial plausibility." },
+        { "distractor": "consistent", "closeness": 2, "reasoning": "Incorrect -- 'consistent' means in agreement without contradiction; the alibi is explicitly revealed to lack consistency." },
+        { "distractor": "trustworthy", "closeness": 2, "reasoning": "Incorrect -- 'trustworthy' means reliable and honest; while the alibi seems so initially, closer examination suggests the opposite." },
+        { "distractor": "obviously false", "closeness": 1, "reasoning": "Opposite -- this phrase describes something clearly untrue, the opposite of an alibi that seems plausible on first hearing." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "Incorrect -- 'transparent' means clear and easy to see through; an alibi that is obviously transparent as a lie would not seem plausible initially." },
+        { "distractor": "incoherent", "closeness": 1, "reasoning": "Incorrect -- 'incoherent' means unclear or illogical; an incoherent alibi would not initially seem plausible." }
+      ]
+    },
+    {
+      "sentence": "The startup's business model was plausible enough to attract investors, yet three years later the promised profits had never materialized.",
+      "answerChoices": [
+        { "distractor": "viable", "closeness": 3, "reasoning": "Close -- 'viable' means capable of working or succeeding in practice, which the model appeared to be, but the subsequent failure of the model shows it was not actually viable." },
+        { "distractor": "feasible", "closeness": 3, "reasoning": "Close -- 'feasible' means possible to accomplish or implement, which the model seemed to be, but actual failure undermines the claim of feasibility." },
+        { "distractor": "sound", "closeness": 3, "reasoning": "Close -- 'sound' means solid and well-reasoned, which the model appeared on the surface, but the divergence from promised results suggests the underlying reasoning was flawed." },
+        { "distractor": "promising", "closeness": 3, "reasoning": "Close -- 'promising' means showing signs of future success, which attracted investors, but the failure to deliver undermines any genuine promise." },
+        { "distractor": "attractive", "closeness": 2, "reasoning": "Incorrect -- 'attractive' means appealing or interesting; while the model was attractive to investors, this does not convey the specific sense of seeming reasonable or workable." },
+        { "distractor": "novel", "closeness": 2, "reasoning": "Incorrect -- 'novel' means new or original; while the model may have been novel, this does not explain why investors found it plausible." },
+        { "distractor": "ambitious", "closeness": 2, "reasoning": "Incorrect -- 'ambitious' means aiming high; an ambitious business model need not be plausible." },
+        { "distractor": "lucrative", "closeness": 2, "reasoning": "Incorrect -- 'lucrative' means profitable; while the model promised lucrative returns, calling it lucrative before profits were realized would be premature." },
+        { "distractor": "obviously flawed", "closeness": 1, "reasoning": "Opposite -- if the model were obviously flawed, it would not have attracted investors." },
+        { "distractor": "failing", "closeness": 1, "reasoning": "Opposite -- 'failing' means not succeeding, which is the actual outcome, not the initial appearance that attracted investment." },
+        { "distractor": "impractical", "closeness": 1, "reasoning": "Incorrect -- 'impractical' means not suitable for actual use; an impractical model would not plausibly attract investors initially." }
+      ]
+    }
+  ]
+}

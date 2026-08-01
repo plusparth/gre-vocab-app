@@ -1,0 +1,53 @@
+{
+  "word": "lax",
+  "sentenceSets": [
+    {
+      "sentence": "The lax enforcement of the policy created the impression that it was optional, which made rigorous compliance harder to justify.",
+      "answerChoices": [
+        { "distractor": "slack", "closeness": 3, "reasoning": "Close -- 'slack' means loose or not tightly drawn, which can describe lax enforcement, but it more commonly refers to physical looseness rather than the casual administration of rules." },
+        { "distractor": "lenient", "closeness": 3, "reasoning": "Close -- 'lenient' means mild or merciful in punishment, which could result from lax enforcement, but it emphasizes compassion or mercy rather than careless disregard of a rule." },
+        { "distractor": "casual", "closeness": 3, "reasoning": "Close -- 'casual' means unconcerned or occurring by chance, which fits the inconsistent enforcement, but it emphasizes nonchalance rather than loose or open administration." },
+        { "distractor": "negligent", "closeness": 3, "reasoning": "Close -- 'negligent' means failing to care for or pay attention to something, which applies to enforcement, but it emphasizes failing in duty rather than the looseness or openness of the approach." },
+        { "distractor": "loose", "closeness": 2, "reasoning": "Incorrect -- 'loose' refers to physical looseness or lack of tightness, but when applied to rules, it does not specifically convey the laxness or lack of enforcement." },
+        { "distractor": "informal", "closeness": 2, "reasoning": "Incorrect -- 'informal' means without ceremony or formality, but it does not necessarily convey the sense of weak or lacking enforcement." },
+        { "distractor": "inconsistent", "closeness": 2, "reasoning": "Incorrect -- 'inconsistent' means varying or unreliable, which might describe lax enforcement, but it does not specifically convey loose or open administration." },
+        { "distractor": "unclear", "closeness": 2, "reasoning": "Incorrect -- 'unclear' means not easily understood, but it does not convey the sense of weak or loose enforcement." },
+        { "distractor": "strict", "closeness": 1, "reasoning": "Opposite -- 'strict' means demanding rigid adherence to rules, the opposite of lax enforcement." },
+        { "distractor": "rigorous", "closeness": 1, "reasoning": "Opposite -- 'rigorous' means thorough and careful, which contradicts the lax approach to enforcement described in the sentence." },
+        { "distractor": "vigilant", "closeness": 1, "reasoning": "Opposite -- 'vigilant' means watchful and attentive, the opposite of the careless enforcement depicted." }
+      ]
+    },
+    {
+      "sentence": "The organization's lax attitude toward data security allowed employees to share sensitive information through unsecured channels without fear of consequences.",
+      "answerChoices": [
+        { "distractor": "permissive", "closeness": 3, "reasoning": "Close -- 'permissive' means allowing or tolerating much, which fits the attitude enabling unsecured information sharing, but it emphasizes allowing rather than being loose or open-minded." },
+        { "distractor": "indulgent", "closeness": 3, "reasoning": "Close -- 'indulgent' means allowing oneself or others to enjoy something without restraint, which applies to the lack of consequences, but it emphasizes self-gratification rather than loose oversight." },
+        { "distractor": "complacent", "closeness": 3, "reasoning": "Close -- 'complacent' means satisfied and unconcerned, which could describe the organization's outlook, but it emphasizes smugness rather than loose or open disregard." },
+        { "distractor": "careless", "closeness": 3, "reasoning": "Close -- 'careless' means not concerned with consequences or details, which fits the attitude allowing risky behavior, but it emphasizes thoughtlessness rather than loose or open standards." },
+        { "distractor": "lenient", "closeness": 2, "reasoning": "Incorrect -- 'lenient' means mild or merciful, which might characterize lack of consequences, but does not convey loose or open oversight." },
+        { "distractor": "relaxed", "closeness": 2, "reasoning": "Incorrect -- 'relaxed' means free from tension or restraint, but it does not specifically convey the sense of dangerous oversight." },
+        { "distractor": "trusting", "closeness": 2, "reasoning": "Incorrect -- 'trusting' means having confidence or faith, which could underlie the attitude, but does not convey negligence regarding security." },
+        { "distractor": "easygoing", "closeness": 2, "reasoning": "Incorrect -- 'easygoing' means unconcerned or undemanding, which might describe the organizational culture, but does not specifically convey lax attitude toward important matters." },
+        { "distractor": "stringent", "closeness": 1, "reasoning": "Opposite -- 'stringent' means very strict or severe, which is the opposite of the lax attitude that allowed risky behavior." },
+        { "distractor": "strict", "closeness": 1, "reasoning": "Opposite -- 'strict' means demanding rigid adherence, which contradicts the permissive approach to data security." },
+        { "distractor": "meticulous", "closeness": 1, "reasoning": "Opposite -- 'meticulous' means showing great attention to detail, the opposite of the lax oversight that allowed security breaches." }
+      ]
+    },
+    {
+      "sentence": "The judge criticized the prosecutor for his lax preparation, noting that key witnesses were not called and crucial documents were not examined before trial.",
+      "answerChoices": [
+        { "distractor": "inadequate", "closeness": 3, "reasoning": "Close -- 'inadequate' means not sufficient or not meeting requirements, which describes the preparation, but it emphasizes insufficiency rather than loose or open negligence." },
+        { "distractor": "halfhearted", "closeness": 3, "reasoning": "Close -- 'halfhearted' means done without enthusiasm or full effort, which fits the lack of thorough preparation, but it emphasizes lack of commitment rather than loose oversight." },
+        { "distractor": "sloppy", "closeness": 3, "reasoning": "Close -- 'sloppy' means done in a careless or messy manner, which fits poor preparation, but it emphasizes messiness and carelessness rather than the open, loose approach." },
+        { "distractor": "superficial", "closeness": 3, "reasoning": "Close -- 'superficial' means concerned with surface appearances rather than depth, which applies to inadequate preparation, but it emphasizes lack of depth rather than loose or open disregard." },
+        { "distractor": "negligent", "closeness": 2, "reasoning": "Incorrect -- 'negligent' means failing to give proper care or attention, which is close to the concept but emphasizes failure in duty rather than the looseness or openness." },
+        { "distractor": "rushed", "closeness": 2, "reasoning": "Incorrect -- 'rushed' means hurried, which might describe the preparation but does not necessarily convey the lax or loose quality." },
+        { "distractor": "disorganized", "closeness": 2, "reasoning": "Incorrect -- 'disorganized' means not arranged in an orderly way, which might characterize the preparation, but does not specifically convey laxness." },
+        { "distractor": "unprepared", "closeness": 2, "reasoning": "Incorrect -- 'unprepared' means not ready, which describes the outcome, but does not specifically capture the lax or loose approach." },
+        { "distractor": "thorough", "closeness": 1, "reasoning": "Opposite -- 'thorough' means careful and complete, the opposite of the lax preparation criticized in the sentence." },
+        { "distractor": "meticulous", "closeness": 1, "reasoning": "Opposite -- 'meticulous' means showing great attention to detail, which contradicts the lax preparation described." },
+        { "distractor": "conscientious", "closeness": 1, "reasoning": "Opposite -- 'conscientious' means careful and diligent, the opposite of the loose, open negligence in preparation." }
+      ]
+    }
+  ]
+}

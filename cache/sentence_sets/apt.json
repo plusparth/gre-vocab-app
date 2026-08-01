@@ -4,49 +4,181 @@
     {
       "sentence": "Her metaphor was so apt that several audience members copied it down word for word.",
       "answerChoices": [
-        { "distractor": "vivid", "closeness": 3, "reasoning": "The audience's act of copying the metaphor suggests they found it useful and well-matched to its subject, but 'vivid' would mean it created a striking mental image — an aesthetic quality separate from how well it fit its purpose." },
-        { "distractor": "precise", "closeness": 3, "reasoning": "A metaphor copied down for later use might be prized for its exactness, but 'precise' emphasizes accuracy of detail, whereas the sentence focuses on how well-suited the metaphor was to its occasion." },
-        { "distractor": "memorable", "closeness": 3, "reasoning": "Something worth writing down is presumably memorable, but the impulse to record the metaphor immediately suggests it felt perfectly matched to its subject rather than merely striking enough to stick in memory." },
-        { "distractor": "felicitous", "closeness": 3, "reasoning": "'Felicitous' is nearly synonymous in the sense of being well-chosen and pleasing, but it carries a more literary and less common connotation of happily appropriate, making it a harder trap for most test-takers." },
-        { "distractor": "eloquent", "closeness": 2, "reasoning": "Audience members copying down a phrase suggests it was well expressed, but 'eloquent' describes the quality of expression itself rather than how well the metaphor fit the idea it was meant to illustrate." },
-        { "distractor": "striking", "closeness": 2, "reasoning": "'Striking' explains why something catches attention, not why it is copied for future reference — the sentence implies the metaphor was useful and well-fitted, not merely dramatic." },
-        { "distractor": "original", "closeness": 2, "reasoning": "A phrase worth recording might be original, but originality is not what the sentence establishes — it establishes fitness for purpose, which is what prompted the audience's response." },
-        { "distractor": "persuasive", "closeness": 2, "reasoning": "Audience members copying down a metaphor might be persuaded by the argument, but the sentence focuses on the quality of the metaphor itself rather than its rhetorical effect on beliefs." },
-        { "distractor": "trite", "closeness": 1, "reasoning": "'Trite' means overused and lacking originality, which directly contradicts the enthusiastic response from the audience." },
-        { "distractor": "arcane", "closeness": 1, "reasoning": "'Arcane' means obscure or esoteric; an audience copying something down suggests widespread recognition of its value, not that it was bewilderingly specialized." },
-        { "distractor": "insipid", "closeness": 1, "reasoning": "'Insipid' means dull and lacking character, the opposite of a metaphor compelling enough that multiple listeners immediately wrote it down." }
+        {
+          "distractor": "clever",
+          "closeness": 3,
+          "reasoning": "Both describe effective language, but clever emphasizes wit, while apt emphasizes perfect fitting to convey meaning."
+        },
+        {
+          "distractor": "striking",
+          "closeness": 3,
+          "reasoning": "Both describe memorable language, but striking emphasizes impact, while apt emphasizes precise fitting."
+        },
+        {
+          "distractor": "vivid",
+          "closeness": 3,
+          "reasoning": "Both describe effective language, but vivid emphasizes clarity and vividness, while apt emphasizes appropriateness."
+        },
+        {
+          "distractor": "fitting",
+          "closeness": 3,
+          "reasoning": "Both describe appropriateness, but fitting is generally suitable, while apt emphasizes being unusually well-suited."
+        },
+        {
+          "distractor": "insightful",
+          "closeness": 2,
+          "reasoning": "Insightful means showing deep understanding, but apt emphasizes being perfectly suited to express something."
+        },
+        {
+          "distractor": "perceptive",
+          "closeness": 2,
+          "reasoning": "Perceptive shows keen observation, but apt emphasizes being perfectly fitting."
+        },
+        {
+          "distractor": "eloquent",
+          "closeness": 2,
+          "reasoning": "Eloquent means expressive and fluent, but apt emphasizes being perfectly fitted to convey the meaning."
+        },
+        {
+          "distractor": "poetic",
+          "closeness": 2,
+          "reasoning": "Poetic means beautiful and expressive, but apt emphasizes precise fitting rather than aesthetic beauty."
+        },
+        {
+          "distractor": "clumsy",
+          "closeness": 1,
+          "reasoning": "Clumsy means awkward; the sentence shows her metaphor was apt, copied by audience members."
+        },
+        {
+          "distractor": "inapt",
+          "closeness": 1,
+          "reasoning": "Inapt means not well-suited; the sentence describes her metaphor as apt, worthy of copying."
+        },
+        {
+          "distractor": "confusing",
+          "closeness": 1,
+          "reasoning": "Confusing means unclear; the sentence shows her metaphor was apt and memorable enough to copy."
+        }
       ]
     },
     {
-      "sentence": "The recruiter noted that her background in both engineering and law made her particularly apt for the regulatory compliance role.",
+      "sentence": "The architect's description of the building's design principles proved apt when critics later praised exactly those features he had emphasized.",
       "answerChoices": [
-        { "distractor": "qualified", "closeness": 3, "reasoning": "The sentence lists specific dual credentials as evidence for the candidate's suitability, and 'qualified' fits grammatically, but it tends to describe meeting formal requirements rather than the natural fit of preparation and capability that 'apt' conveys." },
-        { "distractor": "suited", "closeness": 3, "reasoning": "'Suited' is nearly interchangeable here and grammatically fits 'particularly suited for,' but the sentence emphasizes the candidate's preparation and capacity rather than a simple match of characteristics, a distinction 'apt' captures with its sense of readiness and fitness." },
-        { "distractor": "prepared", "closeness": 3, "reasoning": "Having backgrounds in two relevant fields does suggest preparation, but 'particularly prepared for' stresses readiness from prior training rather than the overall fitness and capacity to perform well that 'apt' implies." },
-        { "distractor": "destined", "closeness": 3, "reasoning": "The combination of engineering and law might seem to point inevitably toward compliance work, making 'destined' tempting, but the recruiter's note is a professional assessment of suitability, not a statement about fate." },
-        { "distractor": "available", "closeness": 2, "reasoning": "A recruiter's note concerns the candidate's fitness, not her availability; 'available' addresses scheduling and status rather than capability or preparation." },
-        { "distractor": "ambitious", "closeness": 2, "reasoning": "The sentence focuses on the candidate's background as evidence of fitness, not on her drive or aspirations." },
-        { "distractor": "credentialed", "closeness": 2, "reasoning": "The candidate does have credentials, but 'credentialed' emphasizes formal certification whereas the sentence highlights how her dual expertise makes her naturally well-fitted for the role's demands." },
-        { "distractor": "experienced", "closeness": 2, "reasoning": "'Experienced' would note her track record of past work, but the sentence identifies the combination of two fields of knowledge — not years of practice — as the basis for her suitability." },
-        { "distractor": "ineligible", "closeness": 1, "reasoning": "'Ineligible' means disqualified, the direct opposite of what the recruiter's positive assessment conveys." },
-        { "distractor": "reluctant", "closeness": 1, "reasoning": "'Reluctant' describes an attitude of unwillingness, which the sentence gives no indication of and which contradicts the recruiter's favorable assessment." },
-        { "distractor": "redundant", "closeness": 1, "reasoning": "'Redundant' means superfluous or unnecessary, directly contradicting the recruiter's conclusion that this candidate's background is exactly what the role calls for." }
+        {
+          "distractor": "prescient",
+          "closeness": 3,
+          "reasoning": "Both describe correct prediction of future events, but prescient means foreseeing, while apt means perfectly suited."
+        },
+        {
+          "distractor": "accurate",
+          "closeness": 3,
+          "reasoning": "Both describe correctness, but accurate means factually true, while apt means perfectly suited to the situation."
+        },
+        {
+          "distractor": "insightful",
+          "closeness": 3,
+          "reasoning": "Both show understanding, but insightful means perceiving deeply, while apt means perfectly suited."
+        },
+        {
+          "distractor": "vindicated",
+          "closeness": 3,
+          "reasoning": "Both show being proven right, but vindicated means cleared of blame, while apt means perfectly suited."
+        },
+        {
+          "distractor": "wise",
+          "closeness": 2,
+          "reasoning": "Wise means judicious, but apt emphasizes being perfectly suited to the situation."
+        },
+        {
+          "distractor": "astute",
+          "closeness": 2,
+          "reasoning": "Astute means keen and sharp, but apt emphasizes being perfectly suited rather than simply intelligent."
+        },
+        {
+          "distractor": "sound",
+          "closeness": 2,
+          "reasoning": "Sound means solid and reliable, but apt emphasizes perfect suitedness to the context."
+        },
+        {
+          "distractor": "judicious",
+          "closeness": 2,
+          "reasoning": "Judicious means showing good judgment, but apt emphasizes being perfectly suited."
+        },
+        {
+          "distractor": "misguided",
+          "closeness": 1,
+          "reasoning": "Misguided means given bad direction; critics praised the architect's emphasis, proving it apt."
+        },
+        {
+          "distractor": "irrelevant",
+          "closeness": 1,
+          "reasoning": "Irrelevant means not connected; critics praised exactly the features he emphasized, proving them apt."
+        },
+        {
+          "distractor": "erroneous",
+          "closeness": 1,
+          "reasoning": "Erroneous means incorrect; critics praised his design principles, proving them apt."
+        }
       ]
     },
     {
-      "sentence": "Children raised in multilingual households are often apt to switch languages mid-sentence without losing the thread of their thought.",
+      "sentence": "She was apt to lose her keys repeatedly, a habit so consistent that her friends began leaving spare copies on her desk.",
       "answerChoices": [
-        { "distractor": "inclined", "closeness": 3, "reasoning": "'Inclined' is grammatically substitutable and suggests a tendency, but the sentence points to a natural facility rooted in upbringing rather than a mere disposition toward a behavior." },
-        { "distractor": "prone", "closeness": 3, "reasoning": "'Prone to' fits grammatically and suggests a tendency, but 'prone' often carries a slightly negative connotation of susceptibility, whereas the sentence frames the code-switching as a skill born of environment." },
-        { "distractor": "liable", "closeness": 3, "reasoning": "'Liable to' also indicates tendency and is grammatically interchangeable, but it typically implies risk of an unwanted outcome, whereas the sentence describes an ability the children have developed." },
-        { "distractor": "quick", "closeness": 3, "reasoning": "Children who switch languages without losing their thought might be described as quick at doing so, but 'quick' emphasizes speed rather than the natural readiness and capacity that 'apt' conveys in this context." },
-        { "distractor": "forced", "closeness": 2, "reasoning": "The sentence credits upbringing in multilingual environments for the behavior, suggesting it arises naturally — 'forced to' would imply external compulsion rather than natural ease." },
-        { "distractor": "taught", "closeness": 2, "reasoning": "'Taught to' would imply formal instruction, but the sentence attributes the skill to the multilingual household environment, not explicit lessons." },
-        { "distractor": "reluctant", "closeness": 2, "reasoning": "'Reluctant to' would mean the children resist switching languages, which directly contradicts the sentence's description of them doing so fluidly." },
-        { "distractor": "unlikely", "closeness": 2, "reasoning": "'Unlikely to' would reverse the meaning — the sentence says this behavior is typical, not rare." },
-        { "distractor": "forbidden", "closeness": 1, "reasoning": "'Forbidden to' would mean the children are prohibited from code-switching, the opposite of what the sentence describes as a natural ability they possess." },
-        { "distractor": "oblivious", "closeness": 1, "reasoning": "'Oblivious' describes unawareness and cannot complete the phrase 'oblivious to switch' grammatically; it also implies the wrong relationship between the children and the behavior." },
-        { "distractor": "averse", "closeness": 1, "reasoning": "'Averse to' would mean they have a strong dislike of switching languages, directly contradicting the ease and fluency the sentence describes." }
+        {
+          "distractor": "prone",
+          "closeness": 3,
+          "reasoning": "Both describe tendency toward something, but prone suggests vulnerability to harm, while apt simply means inclined to."
+        },
+        {
+          "distractor": "inclined",
+          "closeness": 3,
+          "reasoning": "Both describe likelihood of action, and these are near-synonyms; both mean having a natural tendency."
+        },
+        {
+          "distractor": "likely",
+          "closeness": 3,
+          "reasoning": "Both describe probability, but likely is general probability, while apt emphasizes natural tendency."
+        },
+        {
+          "distractor": "disposed",
+          "closeness": 3,
+          "reasoning": "Both describe tendency, but disposed emphasizes being influenced, while apt emphasizes natural tendency."
+        },
+        {
+          "distractor": "habitual",
+          "closeness": 2,
+          "reasoning": "Habitual means formed by habit, but apt emphasizes natural tendency rather than learned habit."
+        },
+        {
+          "distractor": "persistent",
+          "closeness": 2,
+          "reasoning": "Persistent means continuing despite difficulty, but apt describes the tendency itself."
+        },
+        {
+          "distractor": "chronic",
+          "closeness": 2,
+          "reasoning": "Chronic means persistent and recurring, but apt emphasizes natural tendency."
+        },
+        {
+          "distractor": "compulsive",
+          "closeness": 2,
+          "reasoning": "Compulsive means driven by impulse, but apt simply describes tendency without psychological force."
+        },
+        {
+          "distractor": "reluctant",
+          "closeness": 1,
+          "reasoning": "Reluctant means unwilling; she was apt to lose keys repeatedly, showing regular tendency."
+        },
+        {
+          "distractor": "averse",
+          "closeness": 1,
+          "reasoning": "Averse means opposed to; she was apt to lose keys, showing consistent tendency."
+        },
+        {
+          "distractor": "careful",
+          "closeness": 1,
+          "reasoning": "Careful means taking precautions; she was apt to lose keys repeatedly, the opposite."
+        }
       ]
     }
   ]

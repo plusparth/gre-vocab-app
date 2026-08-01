@@ -1,0 +1,53 @@
+{
+  "word": "tangential",
+  "sentenceSets": [
+    {
+      "sentence": "The lengthy tangential discussion consumed the time available for the central question.",
+      "answerChoices": [
+        { "distractor": "circular", "closeness": 3, "reasoning": "Circular means going around in loops without progress, but tangential specifically means touching only lightly on the edges; the sentence shows a discussion that wanders away, not repeats itself." },
+        { "distractor": "roundabout", "closeness": 3, "reasoning": "Roundabout means taking a long, indirect route, but it implies still heading toward the destination; tangential goes off to the edges and doesn't return to the central question." },
+        { "distractor": "tedious", "closeness": 3, "reasoning": "Tedious means boring or long-winded, but the sentence's problem is specifically that the discussion is off-topic and peripheral, not necessarily that it's tiresome in delivery." },
+        { "distractor": "digressive", "closeness": 3, "reasoning": "Digressive means wandering from the main topic, but tangential more specifically means touching only lightly on related matters, not necessarily wandering into completely unrelated subjects." },
+        { "distractor": "verbose", "closeness": 2, "reasoning": "Verbose means using excessive words, but the issue here is the topic itself—the peripheral nature of the discussion—not merely the quantity of words." },
+        { "distractor": "superfluous", "closeness": 2, "reasoning": "Superfluous means unnecessary or excessive, but it doesn't capture the specific sense of touching peripherally on related matters rather than hitting the main subject." },
+        { "distractor": "irrelevant", "closeness": 2, "reasoning": "Irrelevant means having no bearing on the matter, but tangential suggests touching the edge or periphery, not complete lack of connection." },
+        { "distractor": "convoluted", "closeness": 2, "reasoning": "Convoluted means twisted or complicated, but tangential specifically describes the direction of the discussion away from the center, not its complexity." },
+        { "distractor": "urgent", "closeness": 1, "reasoning": "Urgent means requiring immediate attention; the sentence shows a discussion that wastes available time, so it has no sense of urgency or pressing importance." },
+        { "distractor": "focused", "closeness": 1, "reasoning": "Focused means concentrating on a particular point; the sentence explicitly shows the opposite—a discussion that wanders away from the central question." },
+        { "distractor": "essential", "closeness": 1, "reasoning": "Essential means absolutely necessary and central; tangential describes what is peripheral and incidental, which is the opposite of essential." }
+      ]
+    },
+    {
+      "sentence": "The author's tangential remarks about local folklore added color to the narrative but didn't advance the main plot.",
+      "answerChoices": [
+        { "distractor": "marginal", "closeness": 3, "reasoning": "Marginal means at the edge or of lesser importance, but tangential more specifically implies touching only lightly or incidentally on a topic, rather than simply being unimportant." },
+        { "distractor": "supplementary", "closeness": 3, "reasoning": "Supplementary means added to complete something, but tangential remarks are more peripheral—they don't complement or complete the main narrative as supplementary material would." },
+        { "distractor": "incidental", "closeness": 3, "reasoning": "Incidental means occurring as a minor consequence, and while the definition of tangential includes this, in context the sentence emphasizes that the remarks deviate from and don't contribute to the main story." },
+        { "distractor": "parenthetical", "closeness": 3, "reasoning": "Parenthetical remarks are set apart from the main text, but tangential implies a sidetrack or peripheral touch, not necessarily something formally set apart." },
+        { "distractor": "ornamental", "closeness": 2, "reasoning": "Ornamental means decorative, but tangential remarks are described as off-topic rather than decorative elements intentionally added for aesthetic enhancement." },
+        { "distractor": "gratuitous", "closeness": 2, "reasoning": "Gratuitous means unnecessary or unwarranted, but tangential remarks might be interesting even if off-topic; the focus is on their peripheral relationship, not on whether they're warranted." },
+        { "distractor": "whimsical", "closeness": 2, "reasoning": "Whimsical means playful or fanciful, but the sentence doesn't convey whether the folklore remarks are playful; it emphasizes they're peripheral to the plot." },
+        { "distractor": "extraneous", "closeness": 2, "reasoning": "Extraneous means not essential and coming from outside, but tangential suggests touching the edges of what matters, not being entirely foreign to the narrative." },
+        { "distractor": "fundamental", "closeness": 1, "reasoning": "Fundamental means serving as a base or core; the sentence explicitly shows the remarks don't advance the main plot, so they're not fundamental to the story." },
+        { "distractor": "pivotal", "closeness": 1, "reasoning": "Pivotal means central and crucial, but the sentence shows these remarks add only color and don't advance the central action." },
+        { "distractor": "vital", "closeness": 1, "reasoning": "Vital means essential and necessary; the sentence shows the remarks are ancillary, not essential to the narrative's progression." }
+      ]
+    },
+    {
+      "sentence": "His tangential comment about his daughter's soccer game surprised no one at the corporate board meeting; he always found ways to veer off course.",
+      "answerChoices": [
+        { "distractor": "irrelevant", "closeness": 3, "reasoning": "Irrelevant means having no connection to the matter at hand, but tangential suggests the comment touches the edges or has some minimal relation, not zero connection." },
+        { "distractor": "inappropriate", "closeness": 3, "reasoning": "Inappropriate means unsuitable for the context, but tangential describes the logical or topical direction of the comment, not whether it's proper for the setting." },
+        { "distractor": "offhand", "closeness": 3, "reasoning": "Offhand means casual or not carefully planned, but tangential specifically describes the topic's relation to the meeting's purpose, not the tone or manner of delivery." },
+        { "distractor": "frivolous", "closeness": 3, "reasoning": "Frivolous means lacking seriousness or importance, but tangential describes the path of thought away from the central subject, not the degree of seriousness." },
+        { "distractor": "evasive", "closeness": 2, "reasoning": "Evasive means attempting to avoid or escape, but tangential means touching peripherally, not necessarily attempting to dodge an issue." },
+        { "distractor": "tangible", "closeness": 2, "reasoning": "Tangible means concrete and perceivable, but the sentence requires an adjective describing the comment's relation to the meeting's topic, and tangible doesn't fit that need." },
+        { "distractor": "random", "closeness": 2, "reasoning": "Random means without pattern or plan, but tangential describes a specific type of off-topic remark, not necessarily an unpredictable or aimless one." },
+        { "distractor": "superficial", "closeness": 2, "reasoning": "Superficial means shallow or on the surface, but tangential describes the direction away from the central topic, not the depth of engagement." },
+        { "distractor": "crucial", "closeness": 1, "reasoning": "Crucial means critically important; the sentence shows the comment was off-topic and veered away from important business, not contributing crucial insights." },
+        { "distractor": "pertinent", "closeness": 1, "reasoning": "Pertinent means directly relevant to the matter in question; the sentence shows the opposite—a comment that wandered away from the meeting's agenda." },
+        { "distractor": "coherent", "closeness": 1, "reasoning": "Coherent means logical and consistent; while the comment might be logically structured, the sentence's point is that it wandered off-topic, not about its logical coherence." }
+      ]
+    }
+  ]
+}

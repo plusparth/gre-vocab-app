@@ -45,7 +45,8 @@
         { "distractor": "praise", "closeness": 2, "reasoning": "Reviewers mention melancholy, which might be a form of praise for emotional depth, but the sentence is specifically about assigning a quality or meaning, not about evaluating the work's merits." },
         { "distractor": "deny", "closeness": 1, "reasoning": "The reviewers do the opposite of denying — they are applying the quality of melancholy to the paintings; 'deny' directly contradicts this." },
         { "distractor": "ignore", "closeness": 1, "reasoning": "The reviewers explicitly engage with the emotional quality of the paintings; 'ignore' is the opposite of what the sentence describes." },
-        { "distractor": "document", "closeness": 1, "reasoning": "'Document' implies recording factual information, which is entirely the wrong semantic field for an interpretive act of reading emotional meaning into artwork." }
+        { "distractor": "document", "closeness": 1, "reasoning": "'Document' implies recording factual information, which is entirely the wrong semantic field for an interpretive act of reading emotional meaning into artwork." },
+        { "distractor": "obscure", "closeness": 1, "reasoning": "The reviewers are making the emotional quality of the paintings visible and explicit through their interpretations; 'obscure' means to make unclear, which is the opposite action." }
       ]
     }
   ]

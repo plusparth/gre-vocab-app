@@ -1,0 +1,53 @@
+{
+  "word": "veracity",
+  "sentenceSets": [
+    {
+      "sentence": "She was valued precisely for her veracity, which made her assessments more useful than those of more diplomatic colleagues.",
+      "answerChoices": [
+        {"distractor": "honesty", "closeness": 3, "reasoning": "Honesty means freedom from deception or fraud, which she demonstrates, but veracity specifically refers to adherence to factual truth rather than general honesty."},
+        {"distractor": "truthfulness", "closeness": 3, "reasoning": "Truthfulness means commitment to telling the truth, which she exhibits, but does not specifically capture the factual accuracy aspect that veracity emphasizes."},
+        {"distractor": "integrity", "closeness": 3, "reasoning": "Integrity means moral principles and honesty, which she possesses, but veracity specifically refers to factual accuracy, not general moral character."},
+        {"distractor": "frankness", "closeness": 3, "reasoning": "Frankness means openness and directness in speech, which she demonstrates, but veracity specifically refers to conformity with truth and fact."},
+        {"distractor": "directness", "closeness": 2, "reasoning": "Directness means straightforwardness and lack of evasion, which she displays, but does not specifically refer to factual accuracy."},
+        {"distractor": "candor", "closeness": 2, "reasoning": "Candor means honest and frank expression, which she shows, but veracity specifically emphasizes factual accuracy over candid expression."},
+        {"distractor": "sincerity", "closeness": 2, "reasoning": "Sincerity means genuineness or authentic feeling, which she may possess, but does not specifically refer to factual accuracy."},
+        {"distractor": "objectivity", "closeness": 2, "reasoning": "Objectivity means freedom from bias or personal feelings, which her assessments demonstrate, but veracity specifically emphasizes conformity with truth."},
+        {"distractor": "deception", "closeness": 1, "reasoning": "Deception means deliberate misleading or fraud, the opposite of veracity or truthfulness."},
+        {"distractor": "dishonesty", "closeness": 1, "reasoning": "Dishonesty means lack of truthfulness or fraud, the opposite of veracity."},
+        {"distractor": "falsehood", "closeness": 1, "reasoning": "Falsehood means untruth or what is false, the opposite of veracity or conformity with truth."}
+      ]
+    },
+    {
+      "sentence": "Questioning the veracity of the historical record, the scholar conducted extensive archival research to verify claims that others had accepted without scrutiny.",
+      "answerChoices": [
+        {"distractor": "authenticity", "closeness": 3, "reasoning": "Authenticity means genuineness or originality, which relates to the historical record, but veracity specifically refers to truthfulness or accuracy."},
+        {"distractor": "reliability", "closeness": 3, "reasoning": "Reliability means ability to be trusted or dependable, which the record's veracity concerns, but does not specifically refer to factual accuracy."},
+        {"distractor": "accuracy", "closeness": 3, "reasoning": "Accuracy means freedom from error or correctness, which veracity addresses, but does not capture the specific sense of conformity with truth and fact."},
+        {"distractor": "legitimacy", "closeness": 3, "reasoning": "Legitimacy means being valid or justified, which the record's veracity might establish, but does not specifically refer to truthfulness."},
+        {"distractor": "credibility", "closeness": 2, "reasoning": "Credibility means ability to be believed, which the record's veracity affects, but does not specifically refer to factual truth or accuracy."},
+        {"distractor": "soundness", "closeness": 2, "reasoning": "Soundness means being based on reasoning and evidence, which veracity requires, but does not specifically capture conformity with truth."},
+        {"distractor": "validity", "closeness": 2, "reasoning": "Validity means being well-founded or justified, which the record's veracity would establish, but does not specifically refer to truthfulness."},
+        {"distractor": "provenance", "closeness": 2, "reasoning": "Provenance means source or origin, which might affect veracity, but specifically refers to the origin of documents."},
+        {"distractor": "falseness", "closeness": 1, "reasoning": "Falseness means being untrue or incorrect, the opposite of veracity or truthfulness."},
+        {"distractor": "unreliability", "closeness": 1, "reasoning": "Unreliability means not able to be trusted, the opposite of veracity in historical records."},
+        {"distractor": "fabrication", "closeness": 1, "reasoning": "Fabrication means something made up or false, the opposite of veracity or truthful accuracy."}
+      ]
+    },
+    {
+      "sentence": "The witness's veracity was established when the defendant's own records confirmed the details she had testified to under cross-examination.",
+      "answerChoices": [
+        {"distractor": "credibility", "closeness": 3, "reasoning": "Credibility means ability to be believed, which is established for the witness, but veracity specifically refers to factual truthfulness or accuracy."},
+        {"distractor": "reliability", "closeness": 3, "reasoning": "Reliability means ability to be trusted or dependable, which is established for the witness, but veracity specifically refers to conformity with truth and fact."},
+        {"distractor": "trustworthiness", "closeness": 3, "reasoning": "Trustworthiness means deserving of trust, which is established for the witness, but veracity specifically emphasizes factual accuracy and truthfulness."},
+        {"distractor": "integrity", "closeness": 3, "reasoning": "Integrity means moral principles and honesty, which is established for the witness, but veracity specifically refers to conformity with fact and truth."},
+        {"distractor": "sincerity", "closeness": 2, "reasoning": "Sincerity means genuineness or authentic feeling, which the witness demonstrates, but veracity specifically emphasizes factual accuracy."},
+        {"distractor": "candor", "closeness": 2, "reasoning": "Candor means honest and frank expression, which the witness shows, but veracity specifically refers to conformity with truth and fact."},
+        {"distractor": "authenticity", "closeness": 2, "reasoning": "Authenticity means genuineness or realness, which is established for the witness's testimony, but veracity specifically emphasizes factual accuracy."},
+        {"distractor": "accuracy", "closeness": 2, "reasoning": "Accuracy means freedom from error or correctness, which is demonstrated for the witness's testimony, but veracity more broadly refers to truthfulness."},
+        {"distractor": "perjury", "closeness": 1, "reasoning": "Perjury means giving false testimony under oath, the opposite of the witness's veracity confirmed by defendant's records."},
+        {"distractor": "deception", "closeness": 1, "reasoning": "Deception means deliberate misleading, the opposite of veracity or truthfulness."},
+        {"distractor": "falsehood", "closeness": 1, "reasoning": "Falsehood means untruth, the opposite of veracity confirmed when testimony matches the defendant's own records."}
+      ]
+    }
+  ]
+}

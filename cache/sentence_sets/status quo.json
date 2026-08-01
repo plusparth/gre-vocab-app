@@ -1,0 +1,53 @@
+{
+  "word": "status quo",
+  "sentenceSets": [
+    {
+      "sentence": "Defending the status quo had become the organization's primary activity, which made it less capable of responding when the status quo changed.",
+      "answerChoices": [
+        { "distractor": "precedent", "closeness": 3, "reasoning": "Precedent refers to an earlier example or established rule, whereas status quo describes the current existing state of affairs." },
+        { "distractor": "tradition", "closeness": 3, "reasoning": "Tradition describes established customs from the past, whereas status quo refers specifically to the current existing state of affairs." },
+        { "distractor": "status", "closeness": 3, "reasoning": "Status alone refers to position or rank, whereas status quo specifically indicates the existing state of affairs as opposed to any particular entity's position." },
+        { "distractor": "establishment", "closeness": 3, "reasoning": "The establishment refers to existing institutions and power structures, whereas status quo describes the current state more broadly." },
+        { "distractor": "orthodoxy", "closeness": 2, "reasoning": "Orthodoxy describes officially accepted belief, whereas status quo describes the existing state of affairs which may or may not align with orthodox views." },
+        { "distractor": "norm", "closeness": 2, "reasoning": "Norm describes what is expected or typical, whereas status quo refers to the actual existing state rather than what is considered normal." },
+        { "distractor": "convention", "closeness": 2, "reasoning": "Convention describes accepted social practice, whereas status quo describes the current existing state of affairs." },
+        { "distractor": "order", "closeness": 2, "reasoning": "Order refers to arrangement or organization, whereas status quo specifically indicates the current existing state." },
+        { "distractor": "reform", "closeness": 1, "reasoning": "Reform describes improvement or change from the existing state, which contradicts the maintenance of status quo." },
+        { "distractor": "change", "closeness": 1, "reasoning": "Change means alteration from the current state, whereas status quo specifically means the existing state is preserved." },
+        { "distractor": "revolution", "closeness": 1, "reasoning": "Revolution describes fundamental transformation, the opposite of the maintenance of the current state that status quo represents." }
+      ]
+    },
+    {
+      "sentence": "The committee was divided between those who wanted to preserve the status quo and those seeking systemic reform.",
+      "answerChoices": [
+        { "distractor": "current situation", "closeness": 3, "reasoning": "Current situation describes what exists now, but status quo specifically implies resistance to change and maintenance of the present state." },
+        { "distractor": "existing order", "closeness": 3, "reasoning": "Existing order describes the current arrangement, whereas status quo emphasizes the desire to maintain it unchanged." },
+        { "distractor": "system", "closeness": 3, "reasoning": "System describes organized structure, whereas status quo refers to the current state of that system." },
+        { "distractor": "arrangement", "closeness": 3, "reasoning": "Arrangement describes how things are organized, whereas status quo refers to the current state of affairs as a whole." },
+        { "distractor": "baseline", "closeness": 2, "reasoning": "Baseline describes a starting point for measurement, whereas status quo refers to the existing state that some want to maintain." },
+        { "distractor": "position", "closeness": 2, "reasoning": "Position describes location or stance, whereas status quo refers to the existing state of affairs more broadly." },
+        { "distractor": "precedent", "closeness": 2, "reasoning": "Precedent refers to past examples, whereas status quo focuses on the present existing state." },
+        { "distractor": "equilibrium", "closeness": 2, "reasoning": "Equilibrium describes balance between forces, whereas status quo simply means the existing state regardless of balance." },
+        { "distractor": "progress", "closeness": 1, "reasoning": "Progress means advancement forward, which contradicts the preservation of status quo." },
+        { "distractor": "transformation", "closeness": 1, "reasoning": "Transformation describes fundamental change, which is incompatible with the maintenance of status quo." },
+        { "distractor": "disruption", "closeness": 1, "reasoning": "Disruption means interruption or disturbance, whereas status quo refers to continuous maintenance of the existing state." }
+      ]
+    },
+    {
+      "sentence": "The court was reluctant to overturn the legal status quo without clear evidence that it had caused measurable harm.",
+      "answerChoices": [
+        { "distractor": "precedent", "closeness": 3, "reasoning": "Precedent refers to previously decided cases, whereas status quo in legal contexts means the currently established state of law and practice." },
+        { "distractor": "ruling", "closeness": 3, "reasoning": "Ruling describes a specific decision, whereas status quo refers to the overall existing state of legal affairs." },
+        { "distractor": "legislation", "closeness": 3, "reasoning": "Legislation describes enacted law, whereas status quo refers to the current existing legal and practical state." },
+        { "distractor": "doctrine", "closeness": 3, "reasoning": "Doctrine describes established principle, whereas status quo refers to the current practical state of affairs in courts." },
+        { "distractor": "standard", "closeness": 2, "reasoning": "Standard describes established criterion, whereas status quo refers to the actual existing practice." },
+        { "distractor": "protocol", "closeness": 2, "reasoning": "Protocol describes procedures to follow, whereas status quo refers to the current existing state." },
+        { "distractor": "jurisprudence", "closeness": 2, "reasoning": "Jurisprudence describes legal theory and philosophy, whereas status quo refers to the actual current legal state." },
+        { "distractor": "practice", "closeness": 2, "reasoning": "Practice describes how things are done, whereas status quo emphasizes that the current state should remain unchanged." },
+        { "distractor": "innovation", "closeness": 1, "reasoning": "Innovation describes introduction of new things, which contradicts the preservation of status quo." },
+        { "distractor": "revolution", "closeness": 1, "reasoning": "Revolution describes fundamental overthrow and change, the opposite of maintaining status quo." },
+        { "distractor": "reform", "closeness": 1, "reasoning": "Reform means systematic change and improvement, contrary to the preservation of the current state that status quo implies." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "superfluous",
+  "sentenceSets": [
+    {
+      "sentence": "The additional documentation was superfluous in the judgment of everyone who reviewed it, but no one had the authority to declare it optional.",
+      "answerChoices": [
+        { "distractor": "unnecessary", "closeness": 3, "reasoning": "'Unnecessary' means not needed; the documentation is unnecessary, and very similar to superfluous, but 'superfluous' adds the sense of excess beyond what's needed." },
+        { "distractor": "excessive", "closeness": 3, "reasoning": "'Excessive' means more than adequate; the documentation is excessive, but 'superfluous' specifically means exceeding what is sufficient." },
+        { "distractor": "redundant", "closeness": 3, "reasoning": "'Redundant' means repeating something already available; the documentation might repeat, but 'superfluous' means exceeding what's sufficient." },
+        { "distractor": "extraneous", "closeness": 3, "reasoning": "'Extraneous' means not essential or from outside; the documentation is extraneous, but 'superfluous' means extra beyond what's needed." },
+        { "distractor": "optional", "closeness": 2, "reasoning": "The sentence explicitly states no one could declare it optional, so while superfluous it cannot be called optional." },
+        { "distractor": "verbose", "closeness": 2, "reasoning": "'Verbose' means using many words; documentation might be wordy, but 'superfluous' describes excess quantity." },
+        { "distractor": "irrelevant", "closeness": 2, "reasoning": "'Irrelevant' means not related to the matter; superfluous documentation might be relevant but excessive." },
+        { "distractor": "cumbersome", "closeness": 2, "reasoning": "'Cumbersome' means burdensome and awkward; the documentation might be burdensome, but that's a different property than being excess." },
+        { "distractor": "essential", "closeness": 1, "reasoning": "Superfluous means exceeding what's necessary; essential means absolutely needed." },
+        { "distractor": "adequate", "closeness": 1, "reasoning": "Superfluous exceeds sufficiency; adequate means just enough." },
+        { "distractor": "minimal", "closeness": 1, "reasoning": "Superfluous exceeds what's needed; minimal means bare minimum." }
+      ]
+    },
+    {
+      "sentence": "The speaker's superfluous comments about his own accomplishments distracted from the key message and annoyed the audience.",
+      "answerChoices": [
+        { "distractor": "excessive", "closeness": 3, "reasoning": "The comments are excessive in quantity and focus, but 'excessive' is broader; 'superfluous' means exceeding what's sufficient for the message." },
+        { "distractor": "unnecessary", "closeness": 3, "reasoning": "The comments are unnecessary for the key message, but 'superfluous' emphasizes exceeding what's sufficient." },
+        { "distractor": "redundant", "closeness": 3, "reasoning": "The comments might repeat points, but 'redundant' describes repetition; 'superfluous' means exceeding what's needed." },
+        { "distractor": "tangential", "closeness": 3, "reasoning": "'Tangential' means beside the main point; the comments are tangential, but 'superfluous' means excessive or extra." },
+        { "distractor": "boastful", "closeness": 2, "reasoning": "The comments show boasting, but 'boastful' describes attitude, not whether they exceed sufficiency." },
+        { "distractor": "irrelevant", "closeness": 2, "reasoning": "The comments might be irrelevant to the message, but 'irrelevant' means unrelated, while 'superfluous' means excess." },
+        { "distractor": "verbose", "closeness": 2, "reasoning": "The comments might be wordy, but 'verbose' describes style, not whether they exceed what's needed." },
+        { "distractor": "inappropriate", "closeness": 2, "reasoning": "The comments are inappropriate for the context, but 'inappropriate' describes suitability, not excess." },
+        { "distractor": "essential", "closeness": 1, "reasoning": "Superfluous means exceeding what's necessary; essential means absolutely needed." },
+        { "distractor": "required", "closeness": 1, "reasoning": "Superfluous comments exceed what's required; they're not required." },
+        { "distractor": "relevant", "closeness": 1, "reasoning": "Comments that distract from the key message are not relevant to it." }
+      ]
+    },
+    {
+      "sentence": "The proposal included superfluous sections covering tangential historical context that added bulk without informing the decision-making process.",
+      "answerChoices": [
+        { "distractor": "unnecessary", "closeness": 3, "reasoning": "The sections are unnecessary for decision-making, and very similar to superfluous, but 'superfluous' emphasizes exceeding sufficiency." },
+        { "distractor": "excessive", "closeness": 3, "reasoning": "The sections are excessive in quantity and scope, but 'excessive' is broader than 'superfluous,' which means exceeding what's needed." },
+        { "distractor": "extraneous", "closeness": 3, "reasoning": "'Extraneous' means not essential; while these sections are not essential, 'superfluous' means exceeding what's sufficient." },
+        { "distractor": "tangential", "closeness": 3, "reasoning": "'Tangential' describes the sections as beside the main point, and they cover tangential context, but 'superfluous' means exceeding necessity." },
+        { "distractor": "verbose", "closeness": 2, "reasoning": "The sections might be wordy, but 'verbose' describes style, not whether they exceed what's needed." },
+        { "distractor": "irrelevant", "closeness": 2, "reasoning": "Tangential context might be irrelevant, but 'irrelevant' means unrelated; 'superfluous' means extra beyond necessity." },
+        { "distractor": "distracting", "closeness": 2, "reasoning": "The sections distract from the main purpose, but 'distracting' describes effect, not whether they're extra." },
+        { "distractor": "redundant", "closeness": 2, "reasoning": "The sections might repeat existing information, but 'redundant' describes repetition, not excess." },
+        { "distractor": "essential", "closeness": 1, "reasoning": "Superfluous means exceeding what's necessary; essential means absolutely needed for the process." },
+        { "distractor": "concise", "closeness": 1, "reasoning": "Superfluous sections add bulk; concise writing uses minimal words." },
+        { "distractor": "focused", "closeness": 1, "reasoning": "Superfluous tangential sections lack focus on the decision-making purpose." }
+      ]
+    }
+  ]
+}

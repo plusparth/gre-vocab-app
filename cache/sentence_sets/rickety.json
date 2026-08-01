@@ -1,0 +1,53 @@
+{
+  "word": "rickety",
+  "sentenceSets": [
+    {
+      "sentence": "The old horse had rickety legs from inadequate nutrition during its youth, leaving it unable to perform the strenuous work expected on the ranch.",
+      "answerChoices": [
+        { "distractor": "spindly", "closeness": 3, "reasoning": "Rickety legs from nutritional deficiency would be thin and weak, fitting spindly, but spindly describes thin and fragile appearance without necessarily implying disease or injury." },
+        { "distractor": "frail", "closeness": 3, "reasoning": "Rickety condition makes the horse weak and delicate, but frail simply describes a weak or delicate state, not the specific bone disease (rickets) that rickety implies." },
+        { "distractor": "feeble", "closeness": 3, "reasoning": "The rickety legs prevent strenuous work, showing feebleness, but feeble describes weakness generally, not the skeletal condition of rickets." },
+        { "distractor": "unstable", "closeness": 3, "reasoning": "Rickety legs would be unstable when bearing weight, but unstable simply describes lack of steadiness, not the bone deformation from rickets." },
+        { "distractor": "arthritic", "closeness": 2, "reasoning": "Rickets can cause joint problems resembling arthritis, but arthritic specifically indicates inflammation of joints from arthritis, not the bone softening of rickets." },
+        { "distractor": "crippled", "closeness": 2, "reasoning": "Rickety condition disables the horse, but crippled emphasizes being severely disabled or lamed, whereas rickety refers to a specific nutritional disease." },
+        { "distractor": "lame", "closeness": 2, "reasoning": "The rickety horse cannot work effectively, and lameness prevents strenuous work, but lame emphasizes limping or inability to walk properly, not rickets specifically." },
+        { "distractor": "damaged", "closeness": 2, "reasoning": "Rickety legs are compromised, but damaged emphasizes harm or injury, not the specific disease or nutritional deficiency that causes rickets." },
+        { "distractor": "robust", "closeness": 1, "reasoning": "The horse has rickety legs from nutritional deficiency; robust would mean strong and healthy, opposite to rickety." },
+        { "distractor": "sturdy", "closeness": 1, "reasoning": "Rickety legs prevent strenuous work; sturdy would mean strong and solidly built, opposite to rickety." },
+        { "distractor": "vigorous", "closeness": 1, "reasoning": "The rickety condition leaves the horse unable to perform strenuous work; vigorous would mean energetic and strong, opposite to rickety." }
+      ]
+    },
+    {
+      "sentence": "The antique furniture dealer avoided the rickety chair, knowing its weakened joints posed a safety risk to potential customers.",
+      "answerChoices": [
+        { "distractor": "wobbly", "closeness": 3, "reasoning": "A rickety chair would wobble unsteadily, and wobbly describes unsteady movement, but wobbly emphasizes the unstable movement, not the weakened structure from rickets." },
+        { "distractor": "creaky", "closeness": 3, "reasoning": "An old chair with weakened joints makes creaking sounds, but creaky simply describes the sounds made, not the structural condition causing them." },
+        { "distractor": "fragile", "closeness": 3, "reasoning": "Rickety joints are fragile and weak, but fragile emphasizes delicacy and fragility generally, not the disease-related weakening of rickets." },
+        { "distractor": "deteriorating", "closeness": 3, "reasoning": "Rickety joints show age and decay, but deteriorating describes gradual decline, not the specific bone condition of rickets." },
+        { "distractor": "decrepit", "closeness": 2, "reasoning": "A rickety chair is old and weakened, and decrepit means worn out by old age, but decrepit emphasizes overall degradation, not rickets specifically." },
+        { "distractor": "unstable", "closeness": 2, "reasoning": "Rickety joints make the chair unsafe, but unstable simply describes lack of steadiness, not the skeletal condition." },
+        { "distractor": "broken", "closeness": 2, "reasoning": "Rickety joints are compromised, but broken implies fracture or complete failure, whereas rickety indicates weakened condition." },
+        { "distractor": "weakened", "closeness": 2, "reasoning": "Rickety joints are weakened from rickets, but weakened is a general descriptor of reduced strength, not the specific disease." },
+        { "distractor": "reliable", "closeness": 1, "reasoning": "The rickety chair poses safety risk; reliable would mean dependable and safe, opposite to rickety." },
+        { "distractor": "sturdy", "closeness": 1, "reasoning": "The chair is rickety and unsafe; sturdy would mean strong and solidly constructed, opposite." },
+        { "distractor": "sound", "closeness": 1, "reasoning": "Rickety joints pose safety risks; sound would mean in good condition and solid, opposite to rickety." }
+      ]
+    },
+    {
+      "sentence": "The child's rickety posture and stunted growth alarmed the pediatrician, who recognized the telltale signs of malnutrition and disease.",
+      "answerChoices": [
+        { "distractor": "bent", "closeness": 3, "reasoning": "Rickets causes bent or curved bones and posture, fitting bent, but bent simply describes curved or angled form, not the specific disease causing it." },
+        { "distractor": "twisted", "closeness": 3, "reasoning": "Rickety bones become deformed, but twisted describes rotated or contorted shape, not the skeletal disease of rickets." },
+        { "distractor": "crooked", "closeness": 3, "reasoning": "Rickets deforms the skeleton into crooked angles, but crooked simply describes being not straight, not the disease process." },
+        { "distractor": "hunched", "closeness": 3, "reasoning": "Severe rickets can cause spinal curvature, but hunched describes the posture specifically, not the disease." },
+        { "distractor": "weak", "closeness": 2, "reasoning": "Rickety posture reflects weakness from rickets, but weak simply describes lack of strength, not the specific disease." },
+        { "distractor": "frail", "closeness": 2, "reasoning": "A child with rickets appears frail, but frail emphasizes delicacy and fragility, not the skeletal disease." },
+        { "distractor": "deformed", "closeness": 2, "reasoning": "Rickets causes deformation, but deformed simply describes misshapen form, not the nutritional disease causing it." },
+        { "distractor": "emaciated", "closeness": 2, "reasoning": "Malnutrition causes both rickets and thinness, but emaciated specifically describes extreme thinness, not the bone disease." },
+        { "distractor": "healthy", "closeness": 1, "reasoning": "The child shows rickety posture from malnutrition and disease; healthy would mean in good condition, opposite." },
+        { "distractor": "robust", "closeness": 1, "reasoning": "The child has rickety symptoms from malnutrition; robust would mean strong and vigorous, opposite." },
+        { "distractor": "vigorous", "closeness": 1, "reasoning": "Rickets and malnutrition create rickety symptoms; vigorous would mean energetic and strong, opposite." }
+      ]
+    }
+  ]
+}

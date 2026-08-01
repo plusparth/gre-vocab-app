@@ -1,0 +1,53 @@
+{
+  "word": "litany",
+  "sentenceSets": [
+    {
+      "sentence": "He offered a litany of grievances at the exit interview, none of which had been raised while he could have been answered.",
+      "answerChoices": [
+        { "distractor": "catalog", "closeness": 3, "reasoning": "A catalog is a systematic list of items, very similar to a litany of grievances in describing an enumerated collection." },
+        { "distractor": "inventory", "closeness": 3, "reasoning": "An inventory is a complete list of items, nearly identical to a litany, fitting a comprehensive set of complaints." },
+        { "distractor": "series", "closeness": 3, "reasoning": "A series is a sequence of connected items, very similar to a litany in describing multiple related grievances." },
+        { "distractor": "sequence", "closeness": 3, "reasoning": "A sequence is an ordered succession of items, fitting the enumerated complaints similar to a litany." },
+        { "distractor": "tirade", "closeness": 3, "reasoning": "A tirade is a long angry speech of complaints, very similar to a litany of grievances, nearly synonymous." },
+        { "distractor": "enumeration", "closeness": 2, "reasoning": "An enumeration is the act of listing items one by one, fitting the itemization of grievances, but is more formal than litany." },
+        { "distractor": "complaint", "closeness": 2, "reasoning": "A complaint is an expression of dissatisfaction, fitting the grievances, but refers to one issue rather than a series." },
+        { "distractor": "grievance", "closeness": 2, "reasoning": "A grievance is a specific complaint, fitting the items mentioned, but refers to individual issues rather than the collected series." },
+        { "distractor": "lament", "closeness": 2, "reasoning": "A lament is an expression of sorrow or regret, fitting the emotional tone, but emphasizes mourning rather than itemized complaints." },
+        { "distractor": "sermon", "closeness": 1, "reasoning": "A sermon is a religious address, which doesn't fit the context of an exit interview's itemized grievances." },
+        { "distractor": "hymn", "closeness": 1, "reasoning": "A hymn is a religious song, which is entirely wrong for describing a list of workplace complaints." }
+      ]
+    },
+    {
+      "sentence": "The critic's litany of complaints about the film—bad pacing, shallow characters, derivative plot—seemed to leave out any mention of what worked.",
+      "answerChoices": [
+        { "distractor": "diatribe", "closeness": 3, "reasoning": "A diatribe is a critical speech full of complaints, very similar to a litany of criticisms, fitting the harsh review." },
+        { "distractor": "barrage", "closeness": 3, "reasoning": "A barrage is a rapid series of things, very similar to a litany in describing a succession of complaints." },
+        { "distractor": "rant", "closeness": 3, "reasoning": "A rant is an angry tirade of speech, nearly synonymous with a litany of complaints in this context." },
+        { "distractor": "sequence", "closeness": 2, "reasoning": "A sequence is an ordered succession, fitting the enumerated complaints, but doesn't emphasize the critical or negative tone." },
+        { "distractor": "series", "closeness": 2, "reasoning": "A series is a connected sequence, fitting the multiple criticisms, but is more neutral and doesn't convey the harsh critical nature." },
+        { "distractor": "critique", "closeness": 2, "reasoning": "A critique is a critical assessment, fitting the review, but doesn't emphasize the itemized, successive nature of the complaints." },
+        { "distractor": "monologue", "closeness": 2, "reasoning": "A monologue is a long speech by one person, fitting the critic's words, but doesn't specifically denote the itemized criticism." },
+        { "distractor": "discourse", "closeness": 2, "reasoning": "Discourse is a formal discussion, fitting the critical analysis, but is too formal and general for the specific nature of itemized complaints." },
+        { "distractor": "narrative", "closeness": 2, "reasoning": "A narrative is a story or account, which could describe the critic's review, but doesn't convey the itemized list of specific complaints." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Praise is approval or commendation, the opposite direction from the critical complaints, making it clearly wrong." },
+        { "distractor": "commendation", "closeness": 1, "reasoning": "Commendation is official praise or approval, the opposite of criticism, contradicting the harsh nature of the review." }
+      ]
+    },
+    {
+      "sentence": "Year after year, the CEO repeated the same litany of promises about innovation and growth, yet the company remained stagnant.",
+      "answerChoices": [
+        { "distractor": "account", "closeness": 3, "reasoning": "An account is a narrative or description of events, fitting repeated statements, though it doesn't emphasize the itemized nature as much as litany." },
+        { "distractor": "invocation", "closeness": 3, "reasoning": "An invocation is a calling upon or summoning, fitting repeated calls or appeals about innovation and growth." },
+        { "distractor": "supplication", "closeness": 3, "reasoning": "A supplication is a humble request or prayer, fitting repeated appeals or promises, though different in tone." },
+        { "distractor": "petition", "closeness": 3, "reasoning": "A petition is a formal request, fitting repeated appeals to employees or investors about the company's direction." },
+        { "distractor": "plea", "closeness": 2, "reasoning": "A plea is an urgent request, fitting the repeated promises, but doesn't capture the formulaic, itemized nature of litany." },
+        { "distractor": "appeal", "closeness": 2, "reasoning": "An appeal is a request or call for support, fitting repeated promises, but is more general than the structured recitation of litany." },
+        { "distractor": "mantra", "closeness": 2, "reasoning": "A mantra is a repeated word or phrase, fitting the yearly repetition, but is usually shorter and more focused than a litany." },
+        { "distractor": "refrain", "closeness": 2, "reasoning": "A refrain is a repeated line or phrase, fitting the recurring promises, but typically refers to musical or poetic repetition." },
+        { "distractor": "chant", "closeness": 2, "reasoning": "A chant is a repeated word or phrase, fitting the repetition, but suggests rhythmic recitation rather than itemized statements." },
+        { "distractor": "action", "closeness": 1, "reasoning": "Action is doing something, the opposite of merely repeating promises, contradicting the disconnect between words and results." },
+        { "distractor": "accomplishment", "closeness": 1, "reasoning": "An accomplishment is a completed deed, the opposite of the empty promises described, making it clearly wrong." }
+      ]
+    }
+  ]
+}

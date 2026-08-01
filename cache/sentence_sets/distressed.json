@@ -1,0 +1,53 @@
+{
+  "word": "distressed",
+  "sentenceSets": [
+    {
+      "sentence": "The distressed assets were sold at a fraction of their value, a loss the organization would feel for years.",
+      "answerChoices": [
+        { "distractor": "depreciated", "closeness": 3, "reasoning": "While depreciated means decreased in value, which is related, it describes a price change rather than the condition of assets in economic difficulty." },
+        { "distractor": "liquidated", "closeness": 3, "reasoning": "Liquidated means sold or converted to cash, but refers to the action taken rather than the economic condition of the assets themselves." },
+        { "distractor": "damaged", "closeness": 3, "reasoning": "Damaged refers to physical harm, but the passage is about economic value decline, not physical deterioration of the assets." },
+        { "distractor": "impaired", "closeness": 3, "reasoning": "Impaired suggests decreased function or quality, but doesn't specifically capture the economic hardship context of the assets in decline." },
+        { "distractor": "obsolete", "closeness": 2, "reasoning": "Obsolete means outdated, but the problem is economic value loss due to market conditions, not that the assets are old or outdated." },
+        { "distractor": "worthless", "closeness": 2, "reasoning": "Worthless means having no value at all, but the sentence indicates the assets retained some value as they were sold for 'a fraction.'" },
+        { "distractor": "devalued", "closeness": 2, "reasoning": "Devalued indicates a reduction in monetary value, but lacks the sense of the assets being in distressed economic condition." },
+        { "distractor": "encumbered", "closeness": 2, "reasoning": "Encumbered means burdened with debt or legal obligations, which is unrelated to the asset's reduced economic value." },
+        { "distractor": "restored", "closeness": 1, "reasoning": "Restored means returned to good condition, which contradicts the economic decline described in the passage." },
+        { "distractor": "appreciated", "closeness": 1, "reasoning": "Appreciated means increased in value, opposite to assets sold at a significantly reduced price." },
+        { "distractor": "pristine", "closeness": 1, "reasoning": "Pristine means in perfect condition, opposite to assets experiencing economic hardship and decline." }
+      ]
+    },
+    {
+      "sentence": "The distressed company cut its workforce by half in an attempt to survive the market collapse.",
+      "answerChoices": [
+        { "distractor": "troubled", "closeness": 3, "reasoning": "Troubled indicates problems but is too vague and doesn't specifically convey the economic hardship that drives the workforce reduction." },
+        { "distractor": "struggling", "closeness": 3, "reasoning": "Struggling suggests difficulty but doesn't specifically denote the economic hardship of a company facing a market collapse." },
+        { "distractor": "failing", "closeness": 3, "reasoning": "Failing suggests imminent collapse, but the company is taking action to survive, implying it still has viability." },
+        { "distractor": "beleaguered", "closeness": 3, "reasoning": "Beleaguered conveys being harassed or under strain, but doesn't specifically capture the economic difficulty driving the company's crisis." },
+        { "distractor": "insolvent", "closeness": 2, "reasoning": "Insolvent means unable to pay debts, which is extreme; the company is taking action to avoid this fate, not already in this condition." },
+        { "distractor": "weakened", "closeness": 2, "reasoning": "Weakened suggests reduced strength but doesn't specifically convey the economic hardship context of a market collapse." },
+        { "distractor": "embattled", "closeness": 2, "reasoning": "Embattled implies conflict or opposition, which doesn't capture the economic decline described in this situation." },
+        { "distractor": "imperiled", "closeness": 2, "reasoning": "Imperiled means in danger, which fits the crisis but lacks the specific economic dimension of the company's difficulty." },
+        { "distractor": "thriving", "closeness": 1, "reasoning": "Thriving means prospering and succeeding, opposite to a company forced to cut half its workforce." },
+        { "distractor": "stable", "closeness": 1, "reasoning": "Stable means steady and unchanging, opposite to a company experiencing market collapse." },
+        { "distractor": "robust", "closeness": 1, "reasoning": "Robust means strong and healthy, opposite to a company in crisis cutting workforce to survive." }
+      ]
+    },
+    {
+      "sentence": "Investors avoided distressed bonds issued by the failing corporation, fearing complete loss of their capital.",
+      "answerChoices": [
+        { "distractor": "risky", "closeness": 3, "reasoning": "Risky indicates general uncertainty, but the sentence emphasizes the economic decline of the bonds and issuer, not just abstract risk." },
+        { "distractor": "junk", "closeness": 3, "reasoning": "Junk bonds are low-grade securities, which is related but doesn't capture the specific economic distress of the issuing corporation." },
+        { "distractor": "precarious", "closeness": 3, "reasoning": "Precarious means dangerously insecure, which is related but doesn't specifically convey the economic hardship context of the situation." },
+        { "distractor": "volatile", "closeness": 3, "reasoning": "Volatile means unstable in value, but the sentence emphasizes the corporation's economic distress and failure, not just price fluctuation." },
+        { "distractor": "speculative", "closeness": 2, "reasoning": "Speculative means based on conjecture rather than established fact, but the sentence is about the corporation's actual economic decline." },
+        { "distractor": "illiquid", "closeness": 2, "reasoning": "Illiquid means difficult to sell or convert to cash, which is a property of certain bonds but doesn't capture the economic distress." },
+        { "distractor": "overvalued", "closeness": 2, "reasoning": "Overvalued means priced too high, but the context is about the economic distress of the issuer, not overpricing in the market." },
+        { "distractor": "unsecured", "closeness": 2, "reasoning": "Unsecured means lacking collateral backing, which is about bond structure, not the issuer's economic distress." },
+        { "distractor": "secure", "closeness": 1, "reasoning": "Secure means safe and protected, which contradicts investors' fear of complete capital loss." },
+        { "distractor": "guaranteed", "closeness": 1, "reasoning": "Guaranteed means assured to happen, opposite to investors' fear of potential loss from the corporation's economic difficulty." },
+        { "distractor": "solvent", "closeness": 1, "reasoning": "Solvent means able to pay debts, opposite to a failing corporation experiencing economic distress." }
+      ]
+    }
+  ]
+}

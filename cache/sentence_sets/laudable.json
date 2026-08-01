@@ -1,0 +1,53 @@
+{
+  "word": "laudable",
+  "sentenceSets": [
+    {
+      "sentence": "The initiative was laudable in its ambition but limited in its execution, achieving a fraction of what it had promised.",
+      "answerChoices": [
+        { "distractor": "commendable", "closeness": 3, "reasoning": "Close -- 'commendable' means worthy of praise, nearly identical to 'laudable,' but it is more frequently used in official or formal recognition contexts." },
+        { "distractor": "praiseworthy", "closeness": 3, "reasoning": "Close -- 'praiseworthy' means deserving of praise, which is virtually synonymous with 'laudable,' but it emphasizes the quality of deserving approval rather than the judgment itself." },
+        { "distractor": "admirable", "closeness": 3, "reasoning": "Close -- 'admirable' means worthy of admiration, which fits well with an ambitious initiative, but it emphasizes inspiring admiration rather than formal commendation." },
+        { "distractor": "respectable", "closeness": 3, "reasoning": "Close -- 'respectable' means worthy of respect, which could apply to a well-intentioned initiative, but it implies acceptability rather than the positive commendation that 'laudable' conveys." },
+        { "distractor": "decent", "closeness": 2, "reasoning": "Incorrect -- 'decent' means satisfactory or acceptable, but it suggests a lower bar of approval than the more emphatic commendation that 'laudable' implies." },
+        { "distractor": "reasonable", "closeness": 2, "reasoning": "Incorrect -- 'reasonable' means sensible or rational, which could describe an initiative's goals, but does not convey the sense of being worthy of praise." },
+        { "distractor": "ambitious", "closeness": 2, "reasoning": "Incorrect -- 'ambitious' means aiming high or having grand goals, which is mentioned in the sentence but is a different quality than being worthy of praise." },
+        { "distractor": "noteworthy", "closeness": 2, "reasoning": "Incorrect -- 'noteworthy' means deserving attention or consideration, but it does not necessarily imply approval or commendation." },
+        { "distractor": "contemptible", "closeness": 1, "reasoning": "Opposite -- 'contemptible' means deserving of scorn, the opposite of being worthy of praise." },
+        { "distractor": "deplorable", "closeness": 1, "reasoning": "Opposite -- 'deplorable' means deserving disapproval, which contradicts the positive judgment implied by 'laudable'." },
+        { "distractor": "negligible", "closeness": 1, "reasoning": "Opposite -- 'negligible' means too small or unimportant to matter, contradicting the sense that the initiative's ambition was noteworthy." }
+      ]
+    },
+    {
+      "sentence": "The young scientist's decision to pursue research in an underfunded field was laudable, even though it meant sacrificing financial security.",
+      "answerChoices": [
+        { "distractor": "honorable", "closeness": 3, "reasoning": "Close -- 'honorable' means characterized by integrity and virtue, which applies to the sacrifice made, but it emphasizes moral uprightness rather than being worthy of specific commendation." },
+        { "distractor": "noble", "closeness": 3, "reasoning": "Close -- 'noble' means showing high moral character or inspiring admiration, which fits a self-sacrificing choice, but it emphasizes greatness of character rather than approval for the specific decision." },
+        { "distractor": "commendable", "closeness": 3, "reasoning": "Close -- 'commendable' is nearly synonymous with 'laudable,' but it is more commonly used in formal evaluations or official settings." },
+        { "distractor": "meritorious", "closeness": 3, "reasoning": "Close -- 'meritorious' means deserving reward or recognition for achievement, which applies to the scientist's choice, but it focuses on earning reward rather than being worthy of praise." },
+        { "distractor": "courageous", "closeness": 2, "reasoning": "Incorrect -- 'courageous' means brave or fearless, which could describe the scientist's willingness to sacrifice, but it emphasizes bravery rather than the worthiness of the decision itself." },
+        { "distractor": "selfless", "closeness": 2, "reasoning": "Incorrect -- 'selfless' means concerned with others rather than oneself, which describes a quality of the scientist's action but not necessarily the approval it deserves." },
+        { "distractor": "idealistic", "closeness": 2, "reasoning": "Incorrect -- 'idealistic' means inspired by high ideals, which may characterize the scientist's motivation, but does not convey the element of being worthy of praise." },
+        { "distractor": "sincere", "closeness": 2, "reasoning": "Incorrect -- 'sincere' means genuine or heartfelt, which could apply to the scientist's commitment, but does not imply approval or commendation." },
+        { "distractor": "foolish", "closeness": 1, "reasoning": "Opposite -- 'foolish' means unwise or lacking good judgment, which contradicts the positive assessment of the decision." },
+        { "distractor": "reckless", "closeness": 1, "reasoning": "Opposite -- 'reckless' means dangerously careless, which contradicts the careful, principled nature of the scientist's decision." },
+        { "distractor": "misguided", "closeness": 1, "reasoning": "Opposite -- 'misguided' means based on wrong judgment, which contradicts the implication that the scientist's choice is worthy of approval." }
+      ]
+    },
+    {
+      "sentence": "The organization's effort to include perspectives from people with lived experience in its policy work was laudable, though it exposed significant gaps in representation.",
+      "answerChoices": [
+        { "distractor": "praiseworthy", "closeness": 3, "reasoning": "Close -- 'praiseworthy' means deserving of praise, nearly equivalent to 'laudable,' but it emphasizes the quality of being worthy of commendation rather than the specific judgment of approval." },
+        { "distractor": "creditable", "closeness": 3, "reasoning": "Close -- 'creditable' means bringing credit or honor, which applies to the organization's inclusive effort, but it emphasizes bringing credit to oneself rather than being worthy of approval." },
+        { "distractor": "admirable", "closeness": 3, "reasoning": "Close -- 'admirable' means inspiring admiration, which fits an inclusive approach, but it emphasizes the quality of inspiring admiration rather than formal commendation." },
+        { "distractor": "constructive", "closeness": 3, "reasoning": "Close -- 'constructive' means contributing positively or helpfully, which the effort does, but it emphasizes the practical benefit rather than being worthy of specific praise." },
+        { "distractor": "enlightened", "closeness": 2, "reasoning": "Incorrect -- 'enlightened' means showing advanced understanding or wisdom, which could characterize the organization's approach, but does not directly convey that it is worthy of praise." },
+        { "distractor": "progressive", "closeness": 2, "reasoning": "Incorrect -- 'progressive' means favorable to reform or advancement, which the effort represents, but does not necessarily imply moral approval." },
+        { "distractor": "inclusive", "closeness": 2, "reasoning": "Incorrect -- 'inclusive' means including all people or perspectives, which is what the effort accomplished, but it describes the nature of the action rather than its worthiness of commendation." },
+        { "distractor": "well-intentioned", "closeness": 2, "reasoning": "Incorrect -- 'well-intentioned' means having good intentions, which may be true of the effort, but does not convey that it is worthy of praise." },
+        { "distractor": "damaging", "closeness": 1, "reasoning": "Opposite -- 'damaging' means causing harm, which contradicts the positive judgment that the effort is worthy of praise." },
+        { "distractor": "counterproductive", "closeness": 1, "reasoning": "Opposite -- 'counterproductive' means having the opposite of the desired effect, which contradicts the approval implied by 'laudable'." },
+        { "distractor": "negligent", "closeness": 1, "reasoning": "Opposite -- 'negligent' means failing in duty or care, which contradicts the implication that the organization's effort is worthy of commendation." }
+      ]
+    }
+  ]
+}

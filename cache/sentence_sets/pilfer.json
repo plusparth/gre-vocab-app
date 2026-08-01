@@ -1,0 +1,53 @@
+{
+  "word": "pilfer",
+  "sentenceSets": [
+    {
+      "sentence": "Small amounts were pilfered over years, each too small to trigger the thresholds that would have initiated a formal review.",
+      "answerChoices": [
+        { "distractor": "embezzle", "closeness": 3, "reasoning": "While embezzling also involves stealing from an organization over time, it typically refers to larger systematic theft involving money or accounts rather than miscellaneous small amounts." },
+        { "distractor": "filch", "closeness": 3, "reasoning": "Though filch means to steal in small amounts, the sentence emphasizes exploiting administrative oversight rather than petty opportunistic theft." },
+        { "distractor": "purloin", "closeness": 3, "reasoning": "While purloin means to steal, it is more formal and literary than the mundane context of exploiting accounting thresholds." },
+        { "distractor": "pocket", "closeness": 3, "reasoning": "Though pocket means to take secretly, the sentence suggests systematic removal of items from a system rather than putting stolen goods into a pocket." },
+        { "distractor": "misappropriate", "closeness": 2, "reasoning": "While misappropriate means to use improperly, it typically applies to designated funds or resources rather than small unaccounted amounts below thresholds." },
+        { "distractor": "siphon", "closeness": 2, "reasoning": "Though siphon means to draw off gradually, it typically refers to money or liquid substances rather than multiple miscellaneous items." },
+        { "distractor": "appropriate", "closeness": 2, "reasoning": "Though appropriate can mean to take for oneself, it lacks the specific sense of exploiting administrative thresholds to avoid detection." },
+        { "distractor": "convert", "closeness": 2, "reasoning": "While convert can mean to take ownership of stolen property, it is typically used in formal legal contexts and lacks the sense of small systematic theft." },
+        { "distractor": "report", "closeness": 1, "reasoning": "The sentence describes concealing theft through small amounts below review thresholds, opposite to officially reporting to authorities." },
+        { "distractor": "disclose", "closeness": 1, "reasoning": "The sentence emphasizes that amounts were too small to trigger review, opposite to revealing or exposing the theft." },
+        { "distractor": "document", "closeness": 1, "reasoning": "The sentence states amounts were too small to trigger formal review, opposite to officially recording them in accounts." }
+      ]
+    },
+    {
+      "sentence": "Office employees pilfered supplies from the storeroom throughout the year—a pen here, a notepad there—with such frequency that inventory never matched the shipping records.",
+      "answerChoices": [
+        { "distractor": "swipe", "closeness": 3, "reasoning": "While swipe means to steal quickly, the sentence shows ongoing taking throughout the year rather than sudden, quick theft." },
+        { "distractor": "snatch", "closeness": 3, "reasoning": "Though snatch means to seize abruptly, the sentence emphasizes gradual taking of items one at a time rather than forceful grabbing." },
+        { "distractor": "abstract", "closeness": 3, "reasoning": "Though abstract can mean to remove, the sentence shows casual taking of mundane office supplies rather than the deliberate extraction that abstract implies." },
+        { "distractor": "commandeer", "closeness": 3, "reasoning": "While commandeer means to seize for one's use, it typically refers to larger items or official takeover rather than petty taking of small supplies." },
+        { "distractor": "borrow", "closeness": 2, "reasoning": "Though borrowing involves taking, the sentence shows permanent removal without returning (evidenced by inventory never matching), opposite to borrowing's expectation of return." },
+        { "distractor": "confiscate", "closeness": 2, "reasoning": "While confiscate means to seize, it typically refers to official taking by authorities rather than unauthorized employee theft." },
+        { "distractor": "requisition", "closeness": 2, "reasoning": "Though requisition means to formally request, the sentence describes unauthorized taking rather than following official requesting procedures." },
+        { "distractor": "hoard", "closeness": 2, "reasoning": "While hoarding involves gathering items, the sentence shows supplies taken for immediate use rather than accumulated storage." },
+        { "distractor": "purchase", "closeness": 1, "reasoning": "The sentence describes taking items without payment from the storeroom, opposite to buying through proper channels." },
+        { "distractor": "procure", "closeness": 1, "reasoning": "Though procure means to obtain, the sentence shows unauthorized taking rather than properly obtaining supplies through official means." },
+        { "distractor": "authorize", "closeness": 1, "reasoning": "The sentence describes unauthorized taking by employees, opposite to officially permitting or sanctioning the taking of supplies." }
+      ]
+    },
+    {
+      "sentence": "The archivist discovered that valuable manuscripts had been pilfered from the collection over decades, with each theft expertly disguised by the perpetrator's knowledge of cataloging procedures.",
+      "answerChoices": [
+        { "distractor": "sequester", "closeness": 3, "reasoning": "Though sequester means to set aside, it typically refers to official or legal seizure and isolation rather than secret theft." },
+        { "distractor": "conceal", "closeness": 3, "reasoning": "While conceal means to hide, the sentence shows the manuscripts were actually removed from the collection, not merely hidden within it." },
+        { "distractor": "secrete", "closeness": 3, "reasoning": "Though secrete means to hide or put away, the sentence emphasizes removal of items from the collection rather than hiding them in place." },
+        { "distractor": "withhold", "closeness": 3, "reasoning": "While withhold means to refuse to give, the sentence shows active removal of manuscripts rather than refusing access to items that remain." },
+        { "distractor": "catalog", "closeness": 2, "reasoning": "While cataloging involves recording items, the sentence shows manuscripts were removed from the collection, opposite to recording and maintaining them." },
+        { "distractor": "transfer", "closeness": 2, "reasoning": "Though transfer means to move items, the sentence emphasizes theft and secret removal rather than authorized moving between locations." },
+        { "distractor": "archive", "closeness": 2, "reasoning": "While archiving means to store in archives, the sentence describes items stolen and lost rather than properly stored and preserved." },
+        { "distractor": "relocate", "closeness": 2, "reasoning": "Though relocate means to move to a new place, the sentence emphasizes theft and concealment rather than official movement." },
+        { "distractor": "preserve", "closeness": 1, "reasoning": "The sentence describes valuable manuscripts stolen from the collection, opposite to keeping them safe and intact." },
+        { "distractor": "restore", "closeness": 1, "reasoning": "The sentence shows manuscripts removed and lost over decades, opposite to returning them or restoring the collection." },
+        { "distractor": "publish", "closeness": 1, "reasoning": "The sentence emphasizes manuscripts were hidden through the perpetrator's knowledge, opposite to making them public." }
+      ]
+    }
+  ]
+}

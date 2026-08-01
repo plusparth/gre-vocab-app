@@ -1,0 +1,53 @@
+{
+  "word": "verisimilar",
+  "sentenceSets": [
+    {
+      "sentence": "The account was verisimilar enough to be accepted without verification by those who had no reason to doubt it.",
+      "answerChoices": [
+        {"distractor": "plausible", "closeness": 3, "reasoning": "Plausible means appearing reasonable or probable, which the account is, but verisimilar specifically emphasizes the appearance of truth rather than reasonableness."},
+        {"distractor": "credible", "closeness": 3, "reasoning": "Credible means able to be believed, which the account is, but verisimilar specifically refers to having the appearance of truth."},
+        {"distractor": "believable", "closeness": 3, "reasoning": "Believable means capable of being believed, which the account is, but does not specifically capture the appearance of truth that verisimilar implies."},
+        {"distractor": "convincing", "closeness": 3, "reasoning": "Convincing means able to persuade belief, which the account is, but does not specifically refer to the appearance of truth."},
+        {"distractor": "reasonable", "closeness": 2, "reasoning": "Reasonable means fair or based on good sense, which the account appears to be, but verisimilar specifically emphasizes appearance of truth."},
+        {"distractor": "likely", "closeness": 2, "reasoning": "Likely means probable or apparently destined to be, which the account is, but does not specifically refer to the appearance of truth."},
+        {"distractor": "probable", "closeness": 2, "reasoning": "Probable means likely to happen or be true, which the account is, but does not specifically emphasize appearance of truth."},
+        {"distractor": "coherent", "closeness": 2, "reasoning": "Coherent means logical and consistent, which the account is, but does not specifically refer to having the appearance of truth."},
+        {"distractor": "false", "closeness": 1, "reasoning": "False means not true or incorrect, the opposite of verisimilar or having the appearance of truth."},
+        {"distractor": "unbelievable", "closeness": 1, "reasoning": "Unbelievable means not capable of being believed, the opposite of an account that is verisimilar and accepted without verification."},
+        {"distractor": "implausible", "closeness": 1, "reasoning": "Implausible means not seeming reasonable or probable, the opposite of verisimilar accounts accepted without verification."}
+      ]
+    },
+    {
+      "sentence": "The novelist's verisimilar portrayal of medieval life drew praise from historians, though the characters themselves were entirely fictional.",
+      "answerChoices": [
+        {"distractor": "realistic", "closeness": 3, "reasoning": "Realistic means resembling real life or actual experience, which the portrayal does, but verisimilar specifically refers to the appearance of truth."},
+        {"distractor": "authentic", "closeness": 3, "reasoning": "Authentic means genuine or true to original, which the portrayal is in detail, but verisimilar refers to the appearance rather than actual authenticity."},
+        {"distractor": "detailed", "closeness": 3, "reasoning": "Detailed means comprehensive and thorough, which the portrayal is, but verisimilar specifically refers to the appearance of truth, not detail."},
+        {"distractor": "accurate", "closeness": 3, "reasoning": "Accurate means free from error or correct, which the portrayal is regarding historical details, but verisimilar emphasizes appearance of truth."},
+        {"distractor": "vivid", "closeness": 2, "reasoning": "Vivid means producing strong impression or lifelike, which the portrayal is, but does not specifically refer to the appearance of truth."},
+        {"distractor": "convincing", "closeness": 2, "reasoning": "Convincing means able to persuade belief, which the portrayal is, but does not specifically emphasize the appearance of truth."},
+        {"distractor": "lifelike", "closeness": 2, "reasoning": "Lifelike means resembling real life, which the portrayal is, but does not specifically refer to the appearance of truth."},
+        {"distractor": "historical", "closeness": 2, "reasoning": "Historical means relating to history or historical events, which the portrayal accurately depicts, but does not specifically refer to verisimilar quality."},
+        {"distractor": "fictional", "closeness": 1, "reasoning": "Fictional means invented or imaginary, which the characters are, though the portrayal is verisimilar."},
+        {"distractor": "contrived", "closeness": 1, "reasoning": "Contrived means deliberately created or artificial, the opposite of a verisimilar portrayal that seems true to historical reality."},
+        {"distractor": "fabricated", "closeness": 1, "reasoning": "Fabricated means invented or made up, which the characters are, though the setting is verisimilar to medieval life."}
+      ]
+    },
+    {
+      "sentence": "The scammer's verisimilar persona—complete with convincing documentation and professional demeanor—convinced investors to part with substantial sums.",
+      "answerChoices": [
+        {"distractor": "credible", "closeness": 3, "reasoning": "Credible means able to be believed, which the persona is, but verisimilar specifically refers to the appearance of truth."},
+        {"distractor": "authentic", "closeness": 3, "reasoning": "Authentic means genuine or true, which the persona appears to be, but is actually deceptive—verisimilar emphasizes appearance."},
+        {"distractor": "convincing", "closeness": 3, "reasoning": "Convincing means able to persuade belief, which the persona is, but does not specifically capture the appearance of truth that verisimilar implies."},
+        {"distractor": "professional", "closeness": 3, "reasoning": "Professional means relating to a profession or conducted with competence, which the persona appears to be, but does not specifically refer to appearance of truth."},
+        {"distractor": "believable", "closeness": 2, "reasoning": "Believable means capable of being believed, which the persona is, but does not specifically refer to the appearance of truth."},
+        {"distractor": "plausible", "closeness": 2, "reasoning": "Plausible means appearing reasonable or probable, which the persona is, but does not specifically refer to appearance of truth."},
+        {"distractor": "impressive", "closeness": 2, "reasoning": "Impressive means causing admiration or awe, which the persona is, but does not specifically refer to the appearance of truth."},
+        {"distractor": "sophisticated", "closeness": 2, "reasoning": "Sophisticated means refined or cultured, which the persona appears to be, but does not specifically capture the appearance of truth."},
+        {"distractor": "fraudulent", "closeness": 1, "reasoning": "Fraudulent means deceptive or intended to deceive, which the persona actually is, though it appears verisimilar."},
+        {"distractor": "false", "closeness": 1, "reasoning": "False means not true or incorrect, which the persona is, though it appears verisimilar to truth."},
+        {"distractor": "deceptive", "closeness": 1, "reasoning": "Deceptive means intended to mislead, which the persona is, though it appears verisimilar to genuine professionalism."}
+      ]
+    }
+  ]
+}

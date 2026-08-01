@@ -1,0 +1,53 @@
+{
+  "word": "scanty",
+  "sentenceSets": [
+    {
+      "sentence": "The scanty documentation of the process made reconstruction difficult and accountability nearly impossible.",
+      "answerChoices": [
+        { "distractor": "limited", "closeness": 3, "reasoning": "Limited means restricted in amount, very close to scanty, but doesn't necessarily imply that the amount is inadequate." },
+        { "distractor": "sparse", "closeness": 3, "reasoning": "Sparse means thinly distributed or few, very close to scanty, making it a strong trap answer." },
+        { "distractor": "meager", "closeness": 3, "reasoning": "Meager means inadequate in amount, nearly identical to scanty, making it a direct synonym and strong distractor." },
+        { "distractor": "insufficient", "closeness": 3, "reasoning": "Insufficient means not enough, very close to scanty, but more formal and less commonly used for physical descriptions." },
+        { "distractor": "minimal", "closeness": 2, "reasoning": "Minimal means reduced to the least possible amount, related to scanty but suggesting deliberate reduction rather than inadequacy." },
+        { "distractor": "slim", "closeness": 2, "reasoning": "Slim can mean scant or small in amount, but is often used for physical dimensions or probability rather than documentation." },
+        { "distractor": "thin", "closeness": 2, "reasoning": "Thin can describe quantity or coverage, related to scanty, but more commonly refers to physical thickness." },
+        { "distractor": "sketchy", "closeness": 2, "reasoning": "Sketchy can mean incomplete or lacking detail, but usually suggests unreliability rather than mere insufficiency." },
+        { "distractor": "abundant", "closeness": 1, "reasoning": "Abundant means plentiful or in great quantity, the opposite of scanty." },
+        { "distractor": "extensive", "closeness": 1, "reasoning": "Extensive means large in amount or comprehensive, opposite to scanty." },
+        { "distractor": "copious", "closeness": 1, "reasoning": "Copious means abundant or plentiful, the opposite of scanty." }
+      ]
+    },
+    {
+      "sentence": "The refugees received only scanty rations, forcing them to eke out survival day by day.",
+      "answerChoices": [
+        { "distractor": "minimal", "closeness": 3, "reasoning": "Minimal means the smallest amount possible, very close to scanty, making it a strong trap answer." },
+        { "distractor": "meager", "closeness": 3, "reasoning": "Meager means inadequate in amount, nearly identical to scanty, both implying insufficiency." },
+        { "distractor": "reduced", "closeness": 3, "reasoning": "Reduced means made smaller, related to scanty but emphasizing the action of reduction rather than the state of inadequacy." },
+        { "distractor": "rationed", "closeness": 3, "reasoning": "Rationed means distributed in limited amounts, related to the context but not specifically describing how scanty the amounts are." },
+        { "distractor": "meager", "closeness": 3, "reasoning": "Meager means inadequate, nearly identical to scanty in meaning." },
+        { "distractor": "small", "closeness": 2, "reasoning": "Small means not large, but doesn't necessarily convey the inadequacy implied by scanty." },
+        { "distractor": "lean", "closeness": 2, "reasoning": "Lean can mean thin or lacking excess, but more often refers to meat or body composition." },
+        { "distractor": "bare", "closeness": 2, "reasoning": "Bare means stripped down or without covering, which might suggest scanty but often means completely empty." },
+        { "distractor": "generous", "closeness": 1, "reasoning": "Generous means given in large amounts or showing kindness, the opposite of scanty." },
+        { "distractor": "plentiful", "closeness": 1, "reasoning": "Plentiful means existing in large quantities, opposite to scanty." },
+        { "distractor": "lavish", "closeness": 1, "reasoning": "Lavish means luxurious and abundant, the opposite of scanty." }
+      ]
+    },
+    {
+      "sentence": "The author's scanty research was evident in the numerous factual errors that undermined the book's credibility.",
+      "answerChoices": [
+        { "distractor": "hasty", "closeness": 3, "reasoning": "Hasty means done quickly without careful thought, which often results in scanty research but isn't the same condition." },
+        { "distractor": "careless", "closeness": 3, "reasoning": "Careless means lacking care or attention, which can lead to scanty research but doesn't describe the research itself." },
+        { "distractor": "cursory", "closeness": 3, "reasoning": "Cursory means brief and superficial, very close to scanty in describing inadequate research." },
+        { "distractor": "shallow", "closeness": 3, "reasoning": "Shallow means lacking depth, related to scanty research but emphasizing lack of thoroughness." },
+        { "distractor": "sloppy", "closeness": 2, "reasoning": "Sloppy means careless or done badly, which might accompany scanty research but doesn't describe the research itself." },
+        { "distractor": "inadequate", "closeness": 2, "reasoning": "Inadequate means not sufficient, close to scanty but more emphasizing sufficiency than extent." },
+        { "distractor": "incomplete", "closeness": 2, "reasoning": "Incomplete means not finished, which scanty research is, but emphasizes the unfinished state." },
+        { "distractor": "unreliable", "closeness": 2, "reasoning": "Unreliable means not trustworthy, a consequence of scanty research but not the description of it." },
+        { "distractor": "thorough", "closeness": 1, "reasoning": "Thorough means complete and careful, opposite to scanty." },
+        { "distractor": "meticulous", "closeness": 1, "reasoning": "Meticulous means showing great attention to detail, opposite to scanty." },
+        { "distractor": "comprehensive", "closeness": 1, "reasoning": "Comprehensive means complete and including all relevant elements, opposite to scanty." }
+      ]
+    }
+  ]
+}

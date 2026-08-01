@@ -2,51 +2,183 @@
   "word": "apostate",
   "sentenceSets": [
     {
-      "sentence": "Once a devoted monk, he became an apostate when he renounced his vows and publicly denounced the monastery's teachings.",
+      "sentence": "Once a true believer, she became an apostate after the organization's financial misconduct came to light.",
       "answerChoices": [
-        { "distractor": "rebel", "closeness": 3, "reasoning": "Close -- 'rebel' means to resist authority; he did resist by renouncing vows, but apostate specifically denotes abandonment of a faith or ideology previously embraced." },
-        { "distractor": "dissident", "closeness": 3, "reasoning": "Close -- 'dissident' opposes a dominant group's views; while he opposed the monastery's teachings, apostate emphasizes the abandonment of his own previous commitment." },
-        { "distractor": "deserter", "closeness": 3, "reasoning": "Close -- 'deserter' abandons a commitment; he did abandon his monastic life, but apostate specifically indicates spiritual or ideological betrayal of a belief system." },
-        { "distractor": "heretic", "closeness": 3, "reasoning": "Close -- 'heretic' holds unorthodox beliefs; while he may be considered heretical, apostate emphasizes his specific act of renouncing and publicly denouncing previous teachings." },
-        { "distractor": "outsider", "closeness": 2, "reasoning": "Incorrect -- 'outsider' refers to someone external to a group; he had been an insider (monk) before renouncing his commitment." },
-        { "distractor": "traitor", "closeness": 2, "reasoning": "Incorrect -- 'traitor' betrays for external gain or allegiance; while he betrayed his vows, apostate emphasizes the rejection of belief rather than betrayal for gain." },
-        { "distractor": "criminal", "closeness": 2, "reasoning": "Incorrect -- 'criminal' violates laws; renouncing vows may violate religious law, but the focus is ideological abandonment, not criminality." },
-        { "distractor": "skeptic", "closeness": 2, "reasoning": "Incorrect -- 'skeptic' doubts claims; while he doubted the monastery's teachings, apostate indicates full abandonment and public denunciation." },
-        { "distractor": "believer", "closeness": 1, "reasoning": "Opposite -- 'believer' has faith; an apostate renounces and abandons the faith they previously held." },
-        { "distractor": "faithful", "closeness": 1, "reasoning": "Opposite -- 'faithful' means loyal to beliefs; an apostate publicly renounces the beliefs they were previously faithful to." },
-        { "distractor": "devotee", "closeness": 1, "reasoning": "Incorrect -- 'devotee' is deeply committed to something; he was initially a devotee (monk) but became an apostate through renunciation." }
+        {
+          "distractor": "skeptic",
+          "closeness": 3,
+          "reasoning": "Both doubt or reject beliefs, but a skeptic questions without necessarily having been a committed believer, while an apostate explicitly abandons former faith after being true to it."
+        },
+        {
+          "distractor": "heretic",
+          "closeness": 3,
+          "reasoning": "Both reject orthodox belief, but a heretic typically holds a different doctrine within the faith, while an apostate completely abandons and rejects the faith itself."
+        },
+        {
+          "distractor": "dissenter",
+          "closeness": 3,
+          "reasoning": "Both disagree with a group, but a dissenter may still belong to the group while disagreeing, while an apostate completely breaks with and renounces the group."
+        },
+        {
+          "distractor": "defector",
+          "closeness": 3,
+          "reasoning": "Both abandon a group, but a defector leaves to join another side, while an apostate specifically rejects the beliefs themselves, not just switching allegiance."
+        },
+        {
+          "distractor": "cynic",
+          "closeness": 2,
+          "reasoning": "A cynic distrusts motives and ideals generally, but an apostate specifically rejected a particular faith they once held, showing different origins of disbelief."
+        },
+        {
+          "distractor": "doubter",
+          "closeness": 2,
+          "reasoning": "A doubter questions beliefs without commitment, but an apostate explicitly abandoned deeply held convictions after discovering misconduct."
+        },
+        {
+          "distractor": "renegade",
+          "closeness": 2,
+          "reasoning": "A renegade abandons allegiance, but an apostate specifically renounces religious or ideological faith, not just group loyalty."
+        },
+        {
+          "distractor": "turncoat",
+          "closeness": 2,
+          "reasoning": "A turncoat switches sides for advantage, but an apostate renounces beliefs due to moral conviction, showing different motivation."
+        },
+        {
+          "distractor": "believer",
+          "closeness": 1,
+          "reasoning": "A believer accepts the faith; the sentence shows someone who rejected it after discovering misconduct, the opposite."
+        },
+        {
+          "distractor": "devotee",
+          "closeness": 1,
+          "reasoning": "A devotee is deeply committed to faith; the sentence shows someone who abandoned that faith, the opposite trajectory."
+        },
+        {
+          "distractor": "conservative",
+          "closeness": 1,
+          "reasoning": "A conservative maintains traditional beliefs; the sentence shows someone who broke with tradition and rejected their former beliefs."
+        }
       ]
     },
     {
-      "sentence": "The political apostate shocked his party when he switched sides and began campaigning for policies he had previously opposed.",
+      "sentence": "The apostate's testimony about the cult's practices was especially damaging because insiders knew she had only recently held the highest rank within the organization.",
       "answerChoices": [
-        { "distractor": "turncoat", "closeness": 3, "reasoning": "Close -- 'turncoat' switches allegiance; he did switch political allegiance, but apostate emphasizes the ideological reversal and abandonment of previous beliefs." },
-        { "distractor": "defector", "closeness": 3, "reasoning": "Close -- 'defector' abandons an organization; he abandoned his party, but apostate specifically emphasizes the ideological shift rather than organizational departure." },
-        { "distractor": "convert", "closeness": 3, "reasoning": "Close -- 'convert' adopts a new belief; he adopted new policies, but apostate emphasizes that he renounced what he previously believed, not merely converting." },
-        { "distractor": "opportunist", "closeness": 3, "reasoning": "Close -- 'opportunist' shifts for personal advantage; he may have been opportunistic, but apostate refers to the ideological shift and abandonment of previous commitments." },
-        { "distractor": "competitor", "closeness": 2, "reasoning": "Incorrect -- 'competitor' rivals in elections; while he competed against his former party, apostate describes ideological betrayal." },
-        { "distractor": "reformer", "closeness": 2, "reasoning": "Incorrect -- 'reformer' seeks to change an organization from within; he abandoned his party rather than reforming it." },
-        { "distractor": "moderate", "closeness": 2, "reasoning": "Incorrect -- 'moderate' seeks balance; while he may have become more moderate, apostate emphasizes the betrayal of previous beliefs." },
-        { "distractor": "activist", "closeness": 2, "reasoning": "Incorrect -- 'activist' campaigns for change; while he was active in campaigning, the focus is on ideological reversal." },
-        { "distractor": "loyalist", "closeness": 1, "reasoning": "Opposite -- 'loyalist' maintains allegiance; an apostate abandons and opposes previous allegiances." },
-        { "distractor": "adherent", "closeness": 1, "reasoning": "Opposite -- 'adherent' supports a cause or belief; an apostate publicly renounces support for previous beliefs." },
-        { "distractor": "partisan", "closeness": 1, "reasoning": "Incorrect -- 'partisan' strongly supports a party; he abandoned his party, making him the opposite of partisan." }
+        {
+          "distractor": "whistleblower",
+          "closeness": 3,
+          "reasoning": "Both expose secrets from within, but a whistleblower typically remains in the organization while exposing wrongdoing, while an apostate has renounced and abandoned the group entirely."
+        },
+        {
+          "distractor": "informant",
+          "closeness": 3,
+          "reasoning": "Both provide damaging information, but an informant may do so for gain or coercion, while an apostate renounces the group due to conviction."
+        },
+        {
+          "distractor": "insider",
+          "closeness": 3,
+          "reasoning": "Both have high-level knowledge, but an insider may remain within the organization, while an apostate has explicitly rejected and broken with it."
+        },
+        {
+          "distractor": "critic",
+          "closeness": 3,
+          "reasoning": "Both speak against the group, but a critic may question specific practices while remaining aligned, while an apostate renounces the entire faith."
+        },
+        {
+          "distractor": "defector",
+          "closeness": 2,
+          "reasoning": "Both leave the group, but a defector may join another similar organization, while an apostate renounces the ideology itself."
+        },
+        {
+          "distractor": "witness",
+          "closeness": 2,
+          "reasoning": "A witness testifies to facts, but an apostate specifically renounces beliefs and commits to rejecting the ideology they once held."
+        },
+        {
+          "distractor": "participant",
+          "closeness": 2,
+          "reasoning": "A participant engaged in the group's activities, but 'apostate' adds the crucial element of having renounced the faith, not just describing past involvement."
+        },
+        {
+          "distractor": "survivor",
+          "closeness": 2,
+          "reasoning": "A survivor endured the group's actions, but an apostate specifically renounced the group's beliefs, going beyond mere survival."
+        },
+        {
+          "distractor": "member",
+          "closeness": 1,
+          "reasoning": "A member belongs to the organization; the sentence describes someone who has renounced and abandoned it, the opposite status."
+        },
+        {
+          "distractor": "sympathizer",
+          "closeness": 1,
+          "reasoning": "A sympathizer supports the group; the sentence shows someone testifying against it after renouncing it, the opposite."
+        },
+        {
+          "distractor": "loyalist",
+          "closeness": 1,
+          "reasoning": "A loyalist remains committed to the group; the sentence describes someone who rejected the group's beliefs and practices."
+        }
       ]
     },
     {
-      "sentence": "The philosopher became an apostate to her earlier materialism when new research led her to embrace metaphysical questions she had long dismissed.",
+      "sentence": "After the apostate philosopher published his critique of the school's central tenets, several students questioned whether their entire education had been based on flawed premises.",
       "answerChoices": [
-        { "distractor": "convert", "closeness": 3, "reasoning": "Close -- 'convert' adopts a new belief; she did embrace new ideas, but apostate emphasizes her renunciation of materialist beliefs rather than mere adoption of new ones." },
-        { "distractor": "revisionist", "closeness": 3, "reasoning": "Close -- 'revisionist' rethinks previous positions; she reconsidered her position, but apostate suggests a deeper rejection of her former ideology." },
-        { "distractor": "doubter", "closeness": 3, "reasoning": "Close -- 'doubter' questions beliefs; she questioned materialism, but apostate indicates full abandonment and public renunciation of previous beliefs." },
-        { "distractor": "skeptic", "closeness": 3, "reasoning": "Close -- 'skeptic' expresses doubt; while she became skeptical of materialism, apostate emphasizes the active renunciation of a comprehensive belief system." },
-        { "distractor": "student", "closeness": 2, "reasoning": "Incorrect -- 'student' learns from teachers; while she was influenced by research, apostate describes ideological abandonment, not learning." },
-        { "distractor": "pragmatist", "closeness": 2, "reasoning": "Incorrect -- 'pragmatist' focuses on practical results; her shift involved embracing theoretical concerns, not pragmatism." },
-        { "distractor": "relativist", "closeness": 2, "reasoning": "Incorrect -- 'relativist' believes all views are equally valid; she made a definitive shift from materialism to metaphysics." },
-        { "distractor": "agnostic", "closeness": 2, "reasoning": "Incorrect -- 'agnostic' claims uncertainty about unknowable matters; she actively embraced metaphysical questions." },
-        { "distractor": "materialist", "closeness": 1, "reasoning": "Opposite -- 'materialist' adheres to materialism; she became an apostate to materialism, rejecting it." },
-        { "distractor": "dogmatist", "closeness": 1, "reasoning": "Opposite -- 'dogmatist' rigidly maintains beliefs; she abandoned her rigid materialist position as an apostate." },
-        { "distractor": "empiricist", "closeness": 1, "reasoning": "Incorrect -- 'empiricist' relies on sensory evidence; she shifted toward metaphysics, which goes beyond empiricism." }
+        {
+          "distractor": "dissident",
+          "closeness": 3,
+          "reasoning": "Both openly reject orthodoxy, but a dissident may still consider themselves within the tradition while objecting to current practice, while an apostate renounces the entire system."
+        },
+        {
+          "distractor": "rebel",
+          "closeness": 3,
+          "reasoning": "Both resist authority, but a rebel may seek reform, while an apostate renounces and abandons the belief system itself."
+        },
+        {
+          "distractor": "renegade",
+          "closeness": 3,
+          "reasoning": "Both abandon allegiance, but a renegade may seek advantage elsewhere, while an apostate specifically renounces and rejects the ideology."
+        },
+        {
+          "distractor": "challenger",
+          "closeness": 3,
+          "reasoning": "Both question orthodoxy, but a challenger may work to reform the system from within, while an apostate renounces it entirely."
+        },
+        {
+          "distractor": "skeptic",
+          "closeness": 2,
+          "reasoning": "A skeptic doubts tenets, but an apostate specifically renounced them after previously accepting and studying them deeply."
+        },
+        {
+          "distractor": "critic",
+          "closeness": 2,
+          "reasoning": "A critic evaluates flaws, but an apostate both rejects the system and had previously been deeply committed to it."
+        },
+        {
+          "distractor": "outsider",
+          "closeness": 2,
+          "reasoning": "An outsider never belonged to the school; an apostate distinctly had been part of it before renouncing it."
+        },
+        {
+          "distractor": "detractor",
+          "closeness": 2,
+          "reasoning": "A detractor speaks against something generally; an apostate specifically renounces a system they once studied and accepted."
+        },
+        {
+          "distractor": "founder",
+          "closeness": 1,
+          "reasoning": "A founder created and established the school's philosophy; an apostate rejected it after studying it, the opposite role."
+        },
+        {
+          "distractor": "orthodox",
+          "closeness": 1,
+          "reasoning": "Orthodox thinkers uphold and defend core tenets; an apostate renounces the school's central beliefs."
+        },
+        {
+          "distractor": "adherent",
+          "closeness": 1,
+          "reasoning": "An adherent commits to the school's teachings; an apostate published a critique renouncing them."
+        }
       ]
     }
   ]

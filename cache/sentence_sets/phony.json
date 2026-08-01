@@ -1,0 +1,53 @@
+{
+  "word": "phony",
+  "sentenceSets": [
+    {
+      "sentence": "The art dealer's assurance that the painting was authentic proved phony once the laboratory testing revealed modern synthetic pigments.",
+      "answerChoices": [
+        {"distractor": "artificial", "closeness": 3, "reasoning": "The laboratory discovered synthetic pigments, which are artificial, but an assurance or claim cannot itself be artificial; only materials and manufacturing methods can be artificial."},
+        {"distractor": "fraudulent", "closeness": 3, "reasoning": "While the assurance was proven false, fraudulent specifically implies intentional criminal deception or dishonest conduct, which the sentence does not establish regarding the dealer's knowledge or intent."},
+        {"distractor": "counterfeit", "closeness": 3, "reasoning": "Counterfeit describes forged or imitation objects, not false claims or assurances; one does not say an assurance is counterfeit, only that goods or paintings are counterfeited."},
+        {"distractor": "forged", "closeness": 3, "reasoning": "While forged describes falsified documents or artworks in authentication contexts, the sentence focuses on the falseness of the verbal assurance, not on whether the painting's documentation was forged."},
+        {"distractor": "spurious", "closeness": 2, "reasoning": "Spurious means not genuine, and the modern pigments support this; however, spurious has a more academic tone than the straightforward contradiction shown by the lab results."},
+        {"distractor": "suspect", "closeness": 2, "reasoning": "The lab testing raises the assurance to something more than suspect; it provides definitive proof through physical evidence, moving beyond mere suspicion."},
+        {"distractor": "dubious", "closeness": 2, "reasoning": "The assurance becomes dubious or doubtful based on the lab evidence, but dubious suggests uncertainty, whereas the concrete discovery of modern pigments constitutes definitive proof."},
+        {"distractor": "imitation", "closeness": 2, "reasoning": "An imitation or copy would explain the modern pigments, but imitation emphasizes a copied object rather than the truthfulness of the assurance itself."},
+        {"distractor": "genuine", "closeness": 1, "reasoning": "The laboratory testing proved the painting's materials are not genuine or original, directly contradicting what genuine would mean in this authentication context."},
+        {"distractor": "authentic", "closeness": 1, "reasoning": "The sentence explicitly begins by stating the dealer claimed authenticity; the lab testing disproved this claim, making authentic the direct opposite of what the assurance proved to be."},
+        {"distractor": "legitimate", "closeness": 1, "reasoning": "Finding modern synthetic pigments instead of authentic materials proves the painting is not legitimate, making this word contradictory to the test findings."}
+      ]
+    },
+    {
+      "sentence": "His phony enthusiasm for the project barely concealed his resentment about being reassigned to a less prestigious team.",
+      "answerChoices": [
+        {"distractor": "feigned", "closeness": 3, "reasoning": "Feigned enthusiasm means deliberately false enthusiasm, equally supported by the sentence's evidence that he is hiding real resentment behind a false façade."},
+        {"distractor": "insincere", "closeness": 3, "reasoning": "Insincere enthusiasm describes a lack of genuine feeling, equally fitting his display of interest that barely conceals true resentment; this is a strong synonym trap."},
+        {"distractor": "affected", "closeness": 3, "reasoning": "Affected means artificially adopted or put-on, describing enthusiasm that is performed rather than felt; the sentence supports this equally well."},
+        {"distractor": "forced", "closeness": 3, "reasoning": "Forced enthusiasm fits the scenario of someone compelled to show interest despite hidden negative feelings; the sentence evidence supports this as well as the correct answer."},
+        {"distractor": "reluctant", "closeness": 2, "reasoning": "While his reluctance is evident from the hidden resentment, reluctant describes unwillingness to participate, not the false enthusiasm itself that barely conceals his true feelings."},
+        {"distractor": "grudging", "closeness": 2, "reasoning": "Grudging suggests giving with ill will, which fits the resentment, but describes the emotional tone of his participation rather than the false enthusiasm being displayed."},
+        {"distractor": "halfhearted", "closeness": 2, "reasoning": "Halfhearted enthusiasm could describe his lack of genuine engagement with the project, but fails to capture the deliberate deception of enthusiasm that conceals rather than just lacks commitment."},
+        {"distractor": "unenthusiastic", "closeness": 2, "reasoning": "Unenthusiastic describes lacking enthusiasm, but this word choice suggests he shows no enthusiasm, whereas the sentence indicates he shows enthusiasm, though false."},
+        {"distractor": "sincere", "closeness": 1, "reasoning": "Sincere enthusiasm would indicate genuine interest and approval of the reassignment, directly contradicting the resentment that the sentence indicates he harbors."},
+        {"distractor": "genuine", "closeness": 1, "reasoning": "Genuine enthusiasm would reflect actual positive feelings about the reassignment, but the sentence clearly shows his actual feeling is resentment, not approval."},
+        {"distractor": "true", "closeness": 1, "reasoning": "True enthusiasm would mean his actual emotions align with the project interest, but the sentence establishes that his actual emotion is resentment about the change."}
+      ]
+    },
+    {
+      "sentence": "The consultant's phony credentials—a diploma from a nonexistent university—unraveled during the background check.",
+      "answerChoices": [
+        {"distractor": "forged", "closeness": 3, "reasoning": "A forged diploma from a nonexistent university fits the scenario perfectly; forged is nearly synonymous with phony and equally supported by the evidence of the background check revealing the fakery."},
+        {"distractor": "fabricated", "closeness": 3, "reasoning": "Fabricated credentials made up by the consultant fit the scenario equally well; this near-synonym is a strong trap for those with vocabulary knowledge."},
+        {"distractor": "fictitious", "closeness": 3, "reasoning": "A fictitious university and diploma match the sentence perfectly; fictitious is nearly synonymous with phony and equally trapped in context."},
+        {"distractor": "bogus", "closeness": 3, "reasoning": "Bogus credentials match the scenario of a diploma from a nonexistent university; this is a colloquial near-synonym that traps through equal contextual support."},
+        {"distractor": "questionable", "closeness": 2, "reasoning": "The credentials are certainly questionable, but questionable implies they are open to doubt, whereas the background check revealed them as definitively false rather than merely doubtful."},
+        {"distractor": "unverified", "closeness": 2, "reasoning": "Unverified credentials could describe those from an obscure university, but unverified means not yet confirmed, while the check revealed them as affirmatively false and impossible."},
+        {"distractor": "unsubstantiated", "closeness": 2, "reasoning": "Unsubstantiated means lacking supporting evidence, but the background check did not simply fail to find evidence; it affirmatively discovered a nonexistent university."},
+        {"distractor": "deceptive", "closeness": 2, "reasoning": "While the credentials were deceptive in intent, deceptive describes the intent to mislead, whereas phony describes the false nature of the credentials themselves."},
+        {"distractor": "credible", "closeness": 1, "reasoning": "Credible credentials would be believed and verifiable; the background check proved the opposite, making this directly contradictory to what unraveled."},
+        {"distractor": "legitimate", "closeness": 1, "reasoning": "Legitimate credentials would be authentic and from a real university; the nonexistent university directly demonstrates they cannot be legitimate."},
+        {"distractor": "verified", "closeness": 1, "reasoning": "Verified credentials would be confirmed as authentic during a background check, but the check disproved them, making this contrary to what the scenario describes."}
+      ]
+    }
+  ]
+}

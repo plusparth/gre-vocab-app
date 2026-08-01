@@ -2,51 +2,183 @@
   "word": "apostle",
   "sentenceSets": [
     {
-      "sentence": "As an apostle of free market economics, the economist traveled the world advocating for deregulation and privatization.",
+      "sentence": "He became an apostle for renewable energy, giving hundreds of talks in schools and community centers.",
       "answerChoices": [
-        { "distractor": "critic", "closeness": 3, "reasoning": "Close -- 'critic' evaluates and judges; the economist was advocating for a position, not critiquing others' views." },
-        { "distractor": "skeptic", "closeness": 3, "reasoning": "Close -- 'skeptic' doubts claims; the economist was confidently advocating for free markets, not expressing doubt." },
-        { "distractor": "scholar", "closeness": 3, "reasoning": "Close -- 'scholar' studies topics intellectually; while the economist may be scholarly, apostle emphasizes zealous advocacy and spreading a doctrine." },
-        { "distractor": "analyst", "closeness": 3, "reasoning": "Close -- 'analyst' examines and explains; the economist advocated for specific policies, not merely analyzed them." },
-        { "distractor": "professor", "closeness": 2, "reasoning": "Incorrect -- 'professor' teaches in an academic setting; the sentence emphasizes traveling the world to advocate, not academic teaching." },
-        { "distractor": "consultant", "closeness": 2, "reasoning": "Incorrect -- 'consultant' provides expert advice; the economist was zealously spreading an ideology, not offering consultation." },
-        { "distractor": "interpreter", "closeness": 2, "reasoning": "Incorrect -- 'interpreter' explains meaning; the sentence describes advocating for a doctrine, not interpreting it." },
-        { "distractor": "commentator", "closeness": 2, "reasoning": "Incorrect -- 'commentator' provides commentary; the economist actively advocated policies, not merely commented on them." },
-        { "distractor": "opponent", "closeness": 1, "reasoning": "Opposite -- 'opponent' opposes a position; the economist was an apostle who advocated for free markets." },
-        { "distractor": "detractor", "closeness": 1, "reasoning": "Opposite -- 'detractor' criticizes and disparages; the economist zealously promoted free markets." },
-        { "distractor": "adversary", "closeness": 1, "reasoning": "Incorrect -- 'adversary' is an opponent; the economist was promoting a doctrine, not opposing one." }
+        {
+          "distractor": "advocate",
+          "closeness": 3,
+          "reasoning": "Both push for a cause, but an advocate supports through argument while an apostle actively campaigns with zealous, missionary-like commitment across multiple venues."
+        },
+        {
+          "distractor": "proponent",
+          "closeness": 3,
+          "reasoning": "Both support an idea, but a proponent endorses it generally, while an apostle evangelizes and spreads it actively, as shown by giving hundreds of talks."
+        },
+        {
+          "distractor": "ambassador",
+          "closeness": 3,
+          "reasoning": "Both represent a cause, but an ambassador is typically official, while an apostle spreads belief with zealous, grass-roots missionary dedication."
+        },
+        {
+          "distractor": "champion",
+          "closeness": 3,
+          "reasoning": "Both enthusiastically promote a cause, but a champion may do so competitively, while an apostle spreads their belief through missionary-like dedication and outreach."
+        },
+        {
+          "distractor": "promoter",
+          "closeness": 2,
+          "reasoning": "A promoter actively markets something, but an apostle goes beyond promotion with zealous, missionary-like conviction and personal commitment to spreading the message."
+        },
+        {
+          "distractor": "activist",
+          "closeness": 2,
+          "reasoning": "An activist works for change, but an apostle combines activism with missionary-like zeal and the commitment to spreading belief across communities."
+        },
+        {
+          "distractor": "supporter",
+          "closeness": 2,
+          "reasoning": "A supporter backs a cause generally, but an apostle actively evangelizes and spreads commitment through dedicated outreach, as shown by the hundreds of talks."
+        },
+        {
+          "distractor": "contributor",
+          "closeness": 2,
+          "reasoning": "A contributor helps advance a cause, but an apostle specifically spreads belief with missionary-like conviction through direct engagement."
+        },
+        {
+          "distractor": "skeptic",
+          "closeness": 1,
+          "reasoning": "A skeptic doubts renewable energy; the sentence shows someone committed to promoting it, the opposite perspective."
+        },
+        {
+          "distractor": "opponent",
+          "closeness": 1,
+          "reasoning": "An opponent argues against renewable energy; the sentence shows someone dedicated to spreading support for it."
+        },
+        {
+          "distractor": "neutral observer",
+          "closeness": 1,
+          "reasoning": "A neutral observer reports without bias; the sentence shows someone actively campaigning with missionary-like conviction."
+        }
       ]
     },
     {
-      "sentence": "Martin Luther King Jr. was an apostle of nonviolent resistance, spreading the doctrine of civil disobedience to millions.",
+      "sentence": "The company found an unexpected apostle in its most critical customer, who now recommended the product to everyone in her professional network despite its previous failings.",
       "answerChoices": [
-        { "distractor": "leader", "closeness": 3, "reasoning": "Close -- 'leader' guides others; King was a leader, but apostle emphasizes his role as a messenger and preacher of a specific doctrine." },
-        { "distractor": "reformer", "closeness": 3, "reasoning": "Close -- 'reformer' seeks institutional change; King was a reformer, but apostle emphasizes his role as a devoted advocate spreading a specific philosophy." },
-        { "distractor": "strategist", "closeness": 3, "reasoning": "Close -- 'strategist' plans action; King employed strategic approaches, but apostle emphasizes his role as a doctrinal messenger." },
-        { "distractor": "politician", "closeness": 3, "reasoning": "Close -- 'politician' engages in governance; King influenced politics, but apostle emphasizes spreading a doctrine of faith and philosophy." },
-        { "distractor": "activist", "closeness": 2, "reasoning": "Incorrect -- 'activist' works for change; while King was an activist, apostle specifically emphasizes spreading a doctrine or philosophy." },
-        { "distractor": "organizer", "closeness": 2, "reasoning": "Incorrect -- 'organizer' coordinates movements; King organized movements, but apostle emphasizes doctrinal preaching and spreading." },
-        { "distractor": "speaker", "closeness": 2, "reasoning": "Incorrect -- 'speaker' addresses audiences; while King was a great speaker, apostle means more than eloquent expression." },
-        { "distractor": "visionary", "closeness": 2, "reasoning": "Incorrect -- 'visionary' imagines future possibilities; while King was visionary, apostle emphasizes spreading a specific existing doctrine." },
-        { "distractor": "opponent", "closeness": 1, "reasoning": "Opposite -- 'opponent' opposes a cause; King was an apostle devoted to spreading nonviolence." },
-        { "distractor": "cynic", "closeness": 1, "reasoning": "Opposite -- 'cynic' distrusts human goodness; King was an apostle of faith in human capacity for change." },
-        { "distractor": "pragmatist", "closeness": 1, "reasoning": "Incorrect -- 'pragmatist' focuses on practical results; King was devoted to a philosophical and moral doctrine." }
+        {
+          "distractor": "convert",
+          "closeness": 3,
+          "reasoning": "Both changed from opposition to support, but a convert merely accepts a belief, while an apostle actively spreads it with evangelistic commitment."
+        },
+        {
+          "distractor": "advocate",
+          "closeness": 3,
+          "reasoning": "Both actively support something, but an advocate may do so from reasoned preference, while an apostle evangelizes with zealous, missionary-like conviction."
+        },
+        {
+          "distractor": "promoter",
+          "closeness": 3,
+          "reasoning": "Both actively spread word about something, but an apostle combines active promotion with zealous dedication similar to religious conversion and commitment."
+        },
+        {
+          "distractor": "enthusiast",
+          "closeness": 3,
+          "reasoning": "Both are passionate about something, but an enthusiast expresses personal enjoyment, while an apostle actively evangelizes with missionary-like zeal to others."
+        },
+        {
+          "distractor": "ally",
+          "closeness": 2,
+          "reasoning": "An ally supports the company, but an apostle specifically spreads belief with evangelistic fervor across her entire professional network."
+        },
+        {
+          "distractor": "supporter",
+          "closeness": 2,
+          "reasoning": "A supporter backs the product, but an apostle actively evangelizes and spreads commitment as this customer does throughout her network."
+        },
+        {
+          "distractor": "ambassador",
+          "closeness": 2,
+          "reasoning": "An ambassador represents the brand, but an apostle combines representation with zealous, missionary-like commitment to spreading the message."
+        },
+        {
+          "distractor": "user",
+          "closeness": 2,
+          "reasoning": "A user employs the product, but an apostle actively evangelizes it to others with zealous commitment, going beyond mere use."
+        },
+        {
+          "distractor": "critic",
+          "closeness": 1,
+          "reasoning": "A critic would evaluate failings negatively; the sentence shows someone who now enthusiastically recommends the product, the opposite."
+        },
+        {
+          "distractor": "skeptic",
+          "closeness": 1,
+          "reasoning": "A skeptic doubts the product's value; the sentence shows someone recommending it throughout her network with newfound enthusiasm."
+        },
+        {
+          "distractor": "detractor",
+          "closeness": 1,
+          "reasoning": "A detractor speaks against something; the sentence shows the previous critical customer now actively promoting it to others."
+        }
       ]
     },
     {
-      "sentence": "The early apostles of the environmental movement preached the gospel of conservation to skeptical audiences, planting seeds for future activism.",
+      "sentence": "Environmental apostles traveled from country to country, documenting climate impacts and inspiring local movements despite having no official mandate or institutional backing.",
       "answerChoices": [
-        { "distractor": "pioneers", "closeness": 3, "reasoning": "Close -- 'pioneers' lead into new territory; early environmentalists were pioneers, but apostle emphasizes their role as doctrinal messengers preaching a cause." },
-        { "distractor": "founders", "closeness": 3, "reasoning": "Close -- 'founders' establish something new; they founded the movement, but apostle emphasizes spreading gospel and doctrine rather than establishing structure." },
-        { "distractor": "crusaders", "closeness": 3, "reasoning": "Close -- 'crusaders' advocate passionately; they were crusaders, but apostle specifically emphasizes preaching and spreading a doctrine to others." },
-        { "distractor": "propagandists", "closeness": 3, "reasoning": "Close -- 'propagandists' spread ideas; they spread environmentalism, but apostle connotes sincere belief and spreading good news, not mere propaganda." },
-        { "distractor": "lobbyists", "closeness": 2, "reasoning": "Incorrect -- 'lobbyists' seek political influence; the sentence emphasizes preaching to audiences and planting seeds for future activism." },
-        { "distractor": "researchers", "closeness": 2, "reasoning": "Incorrect -- 'researchers' study and investigate; the sentence describes messengers preaching a doctrine, not conducting research." },
-        { "distractor": "politicians", "closeness": 2, "reasoning": "Incorrect -- 'politicians' seek political power; the sentence describes spreading a gospel and philosophy to audiences." },
-        { "distractor": "bureaucrats", "closeness": 2, "reasoning": "Incorrect -- 'bureaucrats' administer rules; the sentence describes preaching a doctrine, not administering systems." },
-        { "distractor": "opponents", "closeness": 1, "reasoning": "Opposite -- 'opponents' oppose environmentalism; the apostles preached and advocated for conservation." },
-        { "distractor": "deniers", "closeness": 1, "reasoning": "Opposite -- 'deniers' reject environmental concerns; apostles were spreading the message of conservation." },
-        { "distractor": "skeptics", "closeness": 1, "reasoning": "Incorrect -- 'skeptics' doubt the cause; apostles preached with conviction to skeptical audiences." }
+        {
+          "distractor": "ambassadors",
+          "closeness": 3,
+          "reasoning": "Both represent a cause internationally, but ambassadors typically have official backing, while apostles spread their message with zealous dedication independent of institutional authority."
+        },
+        {
+          "distractor": "missionaries",
+          "closeness": 3,
+          "reasoning": "Both spread belief with zealous commitment across borders, but 'missionaries' typically has religious connotation, while 'apostles' can apply to ideological or environmental zeal."
+        },
+        {
+          "distractor": "advocates",
+          "closeness": 3,
+          "reasoning": "Both promote a cause internationally, but advocates may work through formal channels, while apostles inspire through personal zealous commitment and grassroots mobilization."
+        },
+        {
+          "distractor": "activists",
+          "closeness": 3,
+          "reasoning": "Both work for environmental change, but activists often organize campaigns, while apostles inspire through zealous personal commitment without institutional structure."
+        },
+        {
+          "distractor": "representatives",
+          "closeness": 2,
+          "reasoning": "Representatives officially stand for an organization, but apostles act independently with zealous personal commitment, as shown by lacking institutional backing."
+        },
+        {
+          "distractor": "educators",
+          "closeness": 2,
+          "reasoning": "Educators teach environmental science, but apostles combine education with zealous evangelistic commitment to inspire local movements."
+        },
+        {
+          "distractor": "documentarians",
+          "closeness": 2,
+          "reasoning": "Documentarians record information objectively, but apostles combine documentation with zealous commitment to inspire action and movements."
+        },
+        {
+          "distractor": "journalists",
+          "closeness": 2,
+          "reasoning": "Journalists report news impartially, but apostles travel with zealous dedication to inspire local movements, showing different commitment levels."
+        },
+        {
+          "distractor": "bureaucrats",
+          "closeness": 1,
+          "reasoning": "Bureaucrats work within institutional structures; the sentence emphasizes these apostles lack official mandate or institutional backing."
+        },
+        {
+          "distractor": "skeptics",
+          "closeness": 1,
+          "reasoning": "Skeptics doubt environmental concerns; the sentence describes people dedicated to documenting impacts and inspiring movements."
+        },
+        {
+          "distractor": "profiteers",
+          "closeness": 1,
+          "reasoning": "Profiteers pursue financial gain; the sentence describes people traveling without institutional backing, suggesting ideological not financial motivation."
+        }
       ]
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "word": "obscurity",
+  "sentenceSets": [
+    {
+      "sentence": "The startup's initial obscurity actually worked to its advantage, allowing it to refine its product without constant media scrutiny.",
+      "answerChoices": [
+        { "distractor": "anonymity", "closeness": 3, "reasoning": "Close -- 'anonymity' means a lack of name or identity, but the sentence implies gradual lack of attention over time as the startup develops, not merely being unnamed." },
+        { "distractor": "obscureness", "closeness": 3, "reasoning": "Close -- 'obscureness' is a near-synonym, but it emphasizes difficulty in understanding rather than the lack of attention that allowed development." },
+        { "distractor": "concealment", "closeness": 3, "reasoning": "Close -- 'concealment' involves hiding intentionally; the sentence suggests organic lack of attention rather than deliberate secrecy." },
+        { "distractor": "opacity", "closeness": 3, "reasoning": "Close -- 'opacity' means lack of clarity or transparency, but the sentence refers to lack of attention and visibility rather than lack of comprehensibility." },
+        { "distractor": "privacy", "closeness": 2, "reasoning": "Incorrect -- 'privacy' emphasizes protection from intrusion; the sentence focuses on lack of public notice rather than guardianship of information." },
+        { "distractor": "seclusion", "closeness": 2, "reasoning": "Incorrect -- 'seclusion' implies deliberate isolation; the startup's condition was incidental rather than sought." },
+        { "distractor": "vagueness", "closeness": 2, "reasoning": "Incorrect -- 'vagueness' refers to unclear communication or understanding; the sentence concerns lack of public awareness." },
+        { "distractor": "ambiguity", "closeness": 2, "reasoning": "Incorrect -- 'ambiguity' means something can be interpreted multiple ways; the sentence is about lack of recognition, not multiple interpretations." },
+        { "distractor": "renown", "closeness": 1, "reasoning": "Opposite -- 'renown' means widespread fame; clearly contradictory to a situation described as advantageous precisely because of lack of attention." },
+        { "distractor": "prominence", "closeness": 1, "reasoning": "Opposite -- 'prominence' means standing out notably; the opposite of the low profile that benefited the startup." },
+        { "distractor": "clarity", "closeness": 1, "reasoning": "Incorrect -- 'clarity' refers to lucidity and understanding; it has no connection to being unknown or unnoticed." }
+      ]
+    },
+    {
+      "sentence": "Scholars spent decades studying the historical figure until recent archival discoveries lifted him from historical obscurity.",
+      "answerChoices": [
+        { "distractor": "insignificance", "closeness": 3, "reasoning": "Close -- 'insignificance' means lacking importance, but the sentence contrasts with 'lifting' him via new evidence, implying his actual importance was overlooked rather than absent." },
+        { "distractor": "obscureness", "closeness": 3, "reasoning": "Close -- 'obscureness' is near-synonymous but emphasizes difficulty in understanding; the sentence is specifically about being forgotten or unknown to historians." },
+        { "distractor": "anonymity", "closeness": 3, "reasoning": "Close -- 'anonymity' means nameless or unidentified; the sentence implies the figure was known but neglected, not that he had no name." },
+        { "distractor": "neglect", "closeness": 3, "reasoning": "Close -- 'neglect' means failing to attend to something; while archives were neglected, the sentence structure indicates the figure himself had sunk into obscurity." },
+        { "distractor": "oblivion", "closeness": 2, "reasoning": "Incorrect -- 'oblivion' is complete forgetting or extinction; while related to obscurity, the sentence implies the figure was known but overlooked." },
+        { "distractor": "irrelevance", "closeness": 2, "reasoning": "Incorrect -- 'irrelevance' means lacking importance or connection; the sentence treats the problem as one of visibility, not pertinence." },
+        { "distractor": "obscenity", "closeness": 2, "reasoning": "Incorrect -- 'obscenity' refers to offensive or crude content; it has no connection to being unknown or unnoticed." },
+        { "distractor": "opacity", "closeness": 2, "reasoning": "Incorrect -- 'opacity' means lack of transparency or understanding; the sentence concerns a person being unrecognized, not being hard to comprehend." },
+        { "distractor": "fame", "closeness": 1, "reasoning": "Opposite -- 'fame' is widespread recognition; clearly contrary to being in obscurity before the archival discoveries." },
+        { "distractor": "prominence", "closeness": 1, "reasoning": "Opposite -- 'prominence' means standing out notably; the opposite state that lifting from obscurity would achieve." },
+        { "distractor": "lucidity", "closeness": 1, "reasoning": "Incorrect -- 'lucidity' means clarity of mind or expression; unrelated to the visibility of historical figures." }
+      ]
+    },
+    {
+      "sentence": "The poet's work descended into obscurity for nearly two centuries, only to be rediscovered by modern critics who found unexpected relevance.",
+      "answerChoices": [
+        { "distractor": "oblivion", "closeness": 3, "reasoning": "Close -- 'oblivion' means total forgetting; while similar, the sentence implies the work still existed and could be rediscovered, not absolute erasure." },
+        { "distractor": "obscurity", "closeness": 3, "reasoning": "Tautology -- same word, but included to test comprehension; legitimately, the sentence refers to falling out of public consciousness." },
+        { "distractor": "anonymity", "closeness": 3, "reasoning": "Close -- 'anonymity' emphasizes being unidentified; the sentence suggests the work was known but forgotten, not that authorship was unclear." },
+        { "distractor": "disrepute", "closeness": 3, "reasoning": "Close -- 'disrepute' means having a bad reputation; while obscurity might lead to disrepute, the sentence emphasizes lack of attention rather than negative regard." },
+        { "distractor": "desuetude", "closeness": 2, "reasoning": "Incorrect -- 'desuetude' means falling out of use; it could apply to works, but it emphasizes cessation of practice rather than being unknown." },
+        { "distractor": "neglect", "closeness": 2, "reasoning": "Incorrect -- 'neglect' implies someone failed to attend; the sentence treats the descent as passive and historical." },
+        { "distractor": "irrelevance", "closeness": 2, "reasoning": "Incorrect -- 'irrelevance' means lacking importance; the sentence emphasizes lack of recognition rather than lack of importance." },
+        { "distractor": "obscenity", "closeness": 2, "reasoning": "Incorrect -- 'obscenity' refers to offensive content; completely unrelated to being forgotten or overlooked." },
+        { "distractor": "prominence", "closeness": 1, "reasoning": "Opposite -- 'prominence' means being widely noticed; contrary to descent into obscurity." },
+        { "distractor": "renown", "closeness": 1, "reasoning": "Opposite -- 'renown' means widespread fame and recognition; the opposite condition of the poet's work before rediscovery." },
+        { "distractor": "lucidity", "closeness": 1, "reasoning": "Incorrect -- 'lucidity' refers to mental clarity; has no relation to the visibility or recognition of literary works." }
+      ]
+    }
+  ]
+}

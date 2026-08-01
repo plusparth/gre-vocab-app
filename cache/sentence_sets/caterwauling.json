@@ -1,0 +1,53 @@
+{
+  "word": "caterwauling",
+  "sentenceSets": [
+    {
+      "sentence": "The caterwauling of the assembly drowned out the speaker, who eventually gave up trying to be heard.",
+      "answerChoices": [
+        { "distractor": "murmuring", "closeness": 3, "reasoning": "Murmuring is low-volume vocalization, but the sentence indicates noise loud enough to make speech impossible, opposite to murmured quiet." },
+        { "distractor": "whispers", "closeness": 3, "reasoning": "Whispers are quiet, subdued sounds, but the sentence shows the speaker gave up—implying sound too loud and overwhelming for them to overcome." },
+        { "distractor": "chatter", "closeness": 3, "reasoning": "Chattering is sustained vocalization, but typically implies social conversation rather than the disruptive, overwhelming noise drowning out a speaker." },
+        { "distractor": "jabbering", "closeness": 3, "reasoning": "Jabbering is rapid, incoherent speech, but suggests quick talk rather than the overwhelming acoustic volume needed to silence a speaker." },
+        { "distractor": "singing", "closeness": 2, "reasoning": "Singing involves loud vocalization but implies melody and coordination, not the chaotic disruptive noise that drowns out a speaker." },
+        { "distractor": "laughing", "closeness": 2, "reasoning": "Laughing is audible and can be disruptive, but conveys amusement or mockery rather than the serious, overwhelming vocal chaos suggested." },
+        { "distractor": "applauding", "closeness": 2, "reasoning": "Applauding is loud but involves clapping sounds, and expresses approval rather than drowning out speech with vocal noise." },
+        { "distractor": "shouting", "closeness": 2, "reasoning": "Shouting is loud vocalization but typically involves distinct words or exclamations, not the raw, overwhelming vocal noise implied." },
+        { "distractor": "rustling", "closeness": 1, "reasoning": "Rustling is a soft, whispering sound of fabric or leaves, too quiet and different in character to drown out a speaker." },
+        { "distractor": "ticking", "closeness": 1, "reasoning": "Ticking is a mechanical sound with no vocal element, unrelated to the human assembly or vocal noise drowning out speech." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence is the absence of sound, opposite to the overwhelming noise that forced the speaker to give up." }
+      ]
+    },
+    {
+      "sentence": "At the concert, the caterwauling of the out-of-tune backup singers nearly ruined the performance, forcing the conductor to gesture wildly for them to stop.",
+      "answerChoices": [
+        { "distractor": "humming", "closeness": 3, "reasoning": "Humming is a sustained vocal sound, but is typically softer and more controlled than the disruptive, chaotic sound that prompted the conductor's urgent gestures." },
+        { "distractor": "singing", "closeness": 3, "reasoning": "Singing is the expected activity for backup singers, but the sentence specifies they were out-of-tune and nearly ruined the performance, implying worse sound than proper singing." },
+        { "distractor": "droning", "closeness": 3, "reasoning": "Droning is sustained, monotonous vocalization, but lacks the specific harsh, piercing quality of out-of-tune vocal distress suggested by requiring the conductor's frantic gestures." },
+        { "distractor": "wailing", "closeness": 3, "reasoning": "Wailing is a loud, harsh cry, but typically expresses anguish or despair rather than the technical failure (being out-of-tune) the sentence emphasizes." },
+        { "distractor": "whispering", "closeness": 2, "reasoning": "Whispering is quiet vocalization that would be inaudible in a concert setting and wouldn't concern a conductor." },
+        { "distractor": "snoring", "closeness": 2, "reasoning": "Snoring is a harsh sound but occurs during sleep, entirely disconnected from a concert performance context." },
+        { "distractor": "squeaking", "closeness": 2, "reasoning": "Squeaking is a high-pitched sound but suggests accidental or instrumental squeaks rather than human vocal performance." },
+        { "distractor": "mumbling", "closeness": 2, "reasoning": "Mumbling is indistinct vocalization but lacks the volume and disruptiveness required to nearly ruin a concert and prompt frantic conducting." },
+        { "distractor": "groaning", "closeness": 1, "reasoning": "Groaning is a sound of pain or disapproval, not a vocal performance sound, and wouldn't occur from backup singers during a concert." },
+        { "distractor": "laughing", "closeness": 1, "reasoning": "Laughing expresses amusement or mockery, unrelated to the technical vocal failure of out-of-tune singers in a concert." },
+        { "distractor": "speaking", "closeness": 1, "reasoning": "Speaking involves words and intelligible speech, not the sustained harsh vocal sound of backup singers performing." }
+      ]
+    },
+    {
+      "sentence": "The caterwauling from the alley at midnight—a sound like no animal the residents could identify—went on for an hour before finally ceasing.",
+      "answerChoices": [
+        { "distractor": "growling", "closeness": 3, "reasoning": "Growling is a harsh animal sound, but the sentence emphasizes the unidentifiable quality ('like no animal they could identify'), suggesting something more unusual than typical growling." },
+        { "distractor": "howling", "closeness": 3, "reasoning": "Howling is a prolonged animal vocalization, but typically identifiable as a wolf or dog sound, whereas the sentence stresses the mystery of the source." },
+        { "distractor": "screeching", "closeness": 3, "reasoning": "Screeching is a high-pitched harsh sound, but usually identifiable by type (tires, metal), not mysterious like the sentence's unidentifiable sound." },
+        { "distractor": "shrieking", "closeness": 3, "reasoning": "Shrieking is a sharp, loud cry, but typically implies an identifiable source of distress, not the mysterious, unplaceable vocal sound in the sentence." },
+        { "distractor": "singing", "closeness": 2, "reasoning": "Singing from an alley at midnight would be odd, but the sentence's emphasis on mysterious, harsh vocal sound unfit for any known animal suggests worse than singing." },
+        { "distractor": "squealing", "closeness": 2, "reasoning": "Squealing is a high-pitched sound, but usually identifiable as coming from pigs or caused by friction, not mysterious and unidentifiable." },
+        { "distractor": "whining", "closeness": 2, "reasoning": "Whining is a high-pitched complaint sound, but more typical and identifiable than the bizarre, unidentifiable noise the sentence describes." },
+        { "distractor": "hissing", "closeness": 2, "reasoning": "Hissing is an animal sound, but too quiet to sustain for an hour and identifiable as a cat or snake, not mysterious." },
+        { "distractor": "banging", "closeness": 1, "reasoning": "Banging is a percussive sound, not the harsh vocal cry described in the sentence." },
+        { "distractor": "rattling", "closeness": 1, "reasoning": "Rattling is the sound of objects shaking, not a vocal sound from an animal or unidentified source." },
+        { "distractor": "splashing", "closeness": 1, "reasoning": "Splashing is the sound of liquid movement, unrelated to animal or vocal sounds in an alley." }
+      ]
+    }
+  ]
+}

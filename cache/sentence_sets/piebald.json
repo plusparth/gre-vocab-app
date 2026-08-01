@@ -1,0 +1,53 @@
+{
+  "word": "piebald",
+  "sentenceSets": [
+    {
+      "sentence": "The piebald horse trotted across the field, its brown and white patches creating a striking appearance that made it recognizable from great distances.",
+      "answerChoices": [
+        { "distractor": "spotted", "closeness": 3, "reasoning": "Though spotted horses have distinctive marks, the sentence emphasizes two large patches of distinct colors rather than multiple small spots scattered across the body." },
+        { "distractor": "dappled", "closeness": 3, "reasoning": "While dappled describes patches of color, it typically refers to softer, more subtle patterns than the bold, contrasting brown and white patches specifically described." },
+        { "distractor": "mottled", "closeness": 3, "reasoning": "Though mottled denotes patches, the sentence emphasizes two specific contrasting colors in clear definition rather than the blotchy, unclear pattern that mottled usually implies." },
+        { "distractor": "marked", "closeness": 3, "reasoning": "Though marked indicates distinctive coloring, the sentence specifically requires two distinct color patches of substantial size rather than simply distinctive marks." },
+        { "distractor": "striped", "closeness": 2, "reasoning": "The sentence describes patches or blocks of color, not the linear patterns that striped animals display." },
+        { "distractor": "brindle", "closeness": 2, "reasoning": "Though brindle is a color pattern, it refers to a weaving of colors typical in dogs and cattle rather than the large distinct patches described in this horse." },
+        { "distractor": "speckled", "closeness": 2, "reasoning": "The sentence shows two large recognizable patches of color, not the small scattered spots that speckled indicates." },
+        { "distractor": "flecked", "closeness": 2, "reasoning": "While flecked indicates marks, the sentence emphasizes large, recognizable patches of color rather than scattered small flecks." },
+        { "distractor": "uniform", "closeness": 1, "reasoning": "The sentence explicitly describes patches of two different colors, which directly contradicts a single uniform color." },
+        { "distractor": "monochromatic", "closeness": 1, "reasoning": "The sentence shows brown and white colors in distinct patches, opposite to a single-color appearance." },
+        { "distractor": "solid", "closeness": 1, "reasoning": "The sentence describes striking patches creating a distinctive appearance, opposite to a solid unchanging surface." }
+      ]
+    },
+    {
+      "sentence": "The piebald approach to healthcare mixed traditional medicine with modern pharmaceuticals, pleasing neither purists nor progressives.",
+      "answerChoices": [
+        { "distractor": "hybrid", "closeness": 3, "reasoning": "Though hybrid means combining two elements, the sentence emphasizes that the combination creates displeasure from both sides, suggesting incongruity rather than a functional synthesis." },
+        { "distractor": "eclectic", "closeness": 3, "reasoning": "While eclectic means drawing from various sources, the sentence emphasizes conflict between incompatible systems rather than simply gathering diverse elements." },
+        { "distractor": "amalgamated", "closeness": 3, "reasoning": "Though amalgamated means combined, the sentence shows the combination creates displeasure, indicating the elements are incongruous rather than smoothly merged." },
+        { "distractor": "mixed", "closeness": 3, "reasoning": "Though mixed means combined, the sentence emphasizes inherent conflict between traditional and modern approaches rather than simply putting them together." },
+        { "distractor": "composite", "closeness": 2, "reasoning": "While composite means made of parts, the sentence emphasizes the incongruity of the parts rather than their assembly into a single entity." },
+        { "distractor": "blended", "closeness": 2, "reasoning": "Though blended suggests smooth combination, the sentence shows the elements please neither faction, indicating they do not blend harmoniously." },
+        { "distractor": "synthesized", "closeness": 2, "reasoning": "While synthesized means combined into a coherent whole, the sentence shows the combination is incoherent and causes displeasure." },
+        { "distractor": "integrated", "closeness": 2, "reasoning": "Though integrated means unified into a system, the sentence shows disunity and displeasure, indicating the approaches have not become integrated." },
+        { "distractor": "homogeneous", "closeness": 1, "reasoning": "The sentence describes mixing traditional and modern approaches, directly opposite to uniform composition throughout." },
+        { "distractor": "consistent", "closeness": 1, "reasoning": "The sentence shows incompatible approaches being combined, opposite to following a single consistent approach." },
+        { "distractor": "standardized", "closeness": 1, "reasoning": "The sentence shows deviation from any standard approach, opposite to following established standards." }
+      ]
+    },
+    {
+      "sentence": "The piebald nature of the settlement—half-modern high-rises butting against century-old brick buildings—reflected decades of haphazard urban development.",
+      "answerChoices": [
+        { "distractor": "discordant", "closeness": 3, "reasoning": "Though discordant means lacking harmony, the sentence focuses on the physical appearance and architectural styles rather than on discord or disagreement between elements." },
+        { "distractor": "clashing", "closeness": 3, "reasoning": "While clashing suggests incompatibility in appearance, the sentence emphasizes the coexistence of different architectural periods rather than elements actively clashing." },
+        { "distractor": "fractured", "closeness": 3, "reasoning": "Though fractured means broken into parts, the sentence shows distinct old and new sections coexisting rather than a unified whole being broken." },
+        { "distractor": "mismatched", "closeness": 3, "reasoning": "While mismatched means unsuitably combined, the sentence emphasizes the haphazard development creating visual contrast rather than items being selected and poorly paired." },
+        { "distractor": "chaotic", "closeness": 2, "reasoning": "Though chaotic means disordered, the sentence shows the settlement reflects decades of development with a discernible pattern rather than pure disorder." },
+        { "distractor": "jumbled", "closeness": 2, "reasoning": "While jumbled means mixed confusedly, the sentence shows distinct architectural sections rather than confused mixing of elements." },
+        { "distractor": "disparate", "closeness": 2, "reasoning": "Though disparate means essentially different, the sentence emphasizes the visual contrast of architectural styles rather than the essential differences between things." },
+        { "distractor": "layered", "closeness": 2, "reasoning": "While layered suggests successive additions building cohesively, the sentence emphasizes incompatible architectural styles that don't harmonize." },
+        { "distractor": "harmonious", "closeness": 1, "reasoning": "The sentence describes high-rises butting against old brick buildings in an unattractive juxtaposition, opposite to harmonious architectural design." },
+        { "distractor": "orderly", "closeness": 1, "reasoning": "The sentence shows haphazard development creating a mixed appearance, directly opposite to orderly or carefully planned arrangement." },
+        { "distractor": "coherent", "closeness": 1, "reasoning": "The sentence describes incompatible architectural styles existing together, opposite to a coherent unified design." }
+      ]
+    }
+  ]
+}

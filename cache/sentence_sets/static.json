@@ -1,0 +1,53 @@
+{
+  "word": "static",
+  "sentenceSets": [
+    {
+      "sentence": "The architect designed the building to resist static loads by distributing weight evenly across the foundation.",
+      "answerChoices": [
+        { "distractor": "dynamic", "closeness": 3, "reasoning": "Dynamic loads involve movement and changing forces, whereas static loads are fixed forces that remain constant due to weight alone." },
+        { "distractor": "kinetic", "closeness": 3, "reasoning": "Kinetic refers to motion and moving bodies, whereas static describes forces exerted without movement." },
+        { "distractor": "vertical", "closeness": 3, "reasoning": "Vertical describes direction, whereas static in engineering refers to forces that are stationary and unchanging, independent of directional orientation." },
+        { "distractor": "compressive", "closeness": 3, "reasoning": "Compressive describes the type of force (pushing), whereas static refers to the unchanging nature of the force itself without motion." },
+        { "distractor": "structural", "closeness": 2, "reasoning": "Structural refers to the building itself, whereas static describes the nature of the loads acting upon the structure." },
+        { "distractor": "permanent", "closeness": 2, "reasoning": "Permanent means lasting or indefinite, whereas static in physics specifically means without motion, not necessarily forever." },
+        { "distractor": "constant", "closeness": 2, "reasoning": "Constant describes something unchanging over time, whereas static in engineering specifically means without motion from the start." },
+        { "distractor": "fixed", "closeness": 2, "reasoning": "Fixed means immobilized or secured, whereas static refers to forces exerted by weight without motion rather than objects being held in place." },
+        { "distractor": "fluctuating", "closeness": 1, "reasoning": "Fluctuating describes changing values, which is the opposite of static unchanging loads." },
+        { "distractor": "shifting", "closeness": 1, "reasoning": "Shifting implies movement or change in position, contrary to the motionless quality of static loads." },
+        { "distractor": "oscillating", "closeness": 1, "reasoning": "Oscillating describes repeated back-and-forth movement, the opposite of the still unchanging state that static implies." }
+      ]
+    },
+    {
+      "sentence": "The radio station encountered static interference that made it impossible to receive the broadcast clearly.",
+      "answerChoices": [
+        { "distractor": "noise", "closeness": 3, "reasoning": "Noise is unwanted sound in general, whereas static refers specifically to crackling or hissing interference caused by electrical or atmospheric disturbance." },
+        { "distractor": "distortion", "closeness": 3, "reasoning": "Distortion means the signal is warped or altered, whereas static is a particular type of overlaid crackling that obscures the original signal." },
+        { "distractor": "feedback", "closeness": 3, "reasoning": "Feedback is sound returning into a microphone, whereas static is interference from external electrical or atmospheric sources." },
+        { "distractor": "echo", "closeness": 3, "reasoning": "Echo is a delayed repetition of sound, whereas static is sustained crackling interference that does not involve repetition of the original signal." },
+        { "distractor": "fuzz", "closeness": 2, "reasoning": "Fuzz is distorted sound often intentionally applied, whereas static is unwanted atmospheric or electrical interference." },
+        { "distractor": "hum", "closeness": 2, "reasoning": "Hum is a low continuous sound often from electrical sources, whereas static is characterized by rapid irregular crackling." },
+        { "distractor": "glitch", "closeness": 2, "reasoning": "Glitch refers to a sudden malfunction, whereas static is sustained interference rather than a momentary problem." },
+        { "distractor": "disruption", "closeness": 2, "reasoning": "Disruption is a general term for interrupted operation, whereas static is a specific type of electromagnetic interference." },
+        { "distractor": "clarity", "closeness": 1, "reasoning": "Clarity describes a clear sound signal, which is the opposite of the interference that static represents." },
+        { "distractor": "reception", "closeness": 1, "reasoning": "Reception refers to successful signal capture, whereas static is the interference that prevents successful reception." },
+        { "distractor": "transmission", "closeness": 1, "reasoning": "Transmission is the sending of a signal, whereas static is external interference that undermines both transmission and reception." }
+      ]
+    },
+    {
+      "sentence": "The company criticized the proposal as static in its thinking, offering nothing new beyond what had already been tried unsuccessfully.",
+      "answerChoices": [
+        { "distractor": "conventional", "closeness": 3, "reasoning": "Conventional describes adherence to accepted norms, whereas static implies an absence of any movement or change from familiar territory." },
+        { "distractor": "conservative", "closeness": 3, "reasoning": "Conservative suggests caution and resistance to change, whereas static implies complete immobility rather than cautious incrementalism." },
+        { "distractor": "stagnant", "closeness": 3, "reasoning": "Stagnant implies decline or decay from inactivity, whereas static describes being fixed or motionless without necessarily implying deterioration." },
+        { "distractor": "unimaginative", "closeness": 3, "reasoning": "Unimaginative describes lack of creativity, whereas static refers more specifically to the absence of change or forward movement." },
+        { "distractor": "rigid", "closeness": 2, "reasoning": "Rigid suggests inflexible structure, whereas static emphasizes the lack of movement rather than structural resistance to flexibility." },
+        { "distractor": "predictable", "closeness": 2, "reasoning": "Predictable describes something familiar and expected, whereas static refers to being fixed or unchanged." },
+        { "distractor": "outdated", "closeness": 2, "reasoning": "Outdated means no longer current, whereas static describes something that hasn't advanced rather than something that was once fresh." },
+        { "distractor": "stale", "closeness": 2, "reasoning": "Stale suggests something that has lost freshness, whereas static implies it never moved from its original position." },
+        { "distractor": "innovative", "closeness": 1, "reasoning": "Innovative describes the creation of new ideas or methods, directly opposite to the unchanging quality implied by static." },
+        { "distractor": "dynamic", "closeness": 1, "reasoning": "Dynamic suggests active change and energetic movement, the opposite of the static immobility described." },
+        { "distractor": "progressive", "closeness": 1, "reasoning": "Progressive describes forward movement and continuous improvement, the opposite of the fixed motionlessness that static conveys." }
+      ]
+    }
+  ]
+}

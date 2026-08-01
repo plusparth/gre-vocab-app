@@ -1,0 +1,53 @@
+{
+  "word": "dross",
+  "sentenceSets": [
+    {
+      "sentence": "After sorting through the archive, she discarded the dross—duplicates, drafts, irrelevant correspondence—and kept what mattered.",
+      "answerChoices": [
+        { "distractor": "debris", "closeness": 3, "reasoning": "Close -- 'debris' refers to scattered broken fragments or waste, which fits discarded material, but it emphasizes broken or scattered remains rather than material deemed worthless or inferior." },
+        { "distractor": "refuse", "closeness": 3, "reasoning": "Close -- 'refuse' means rejected or discarded material, which fits what is thrown away, but it is a more general term for waste without the connotation of inferior quality mixed with valuable material." },
+        { "distractor": "clutter", "closeness": 3, "reasoning": "Close -- 'clutter' is unwanted or unnecessary items, which fits duplicates and drafts, but emphasizes disorder rather than the separation of worthless from valuable material." },
+        { "distractor": "rubbish", "closeness": 3, "reasoning": "Close -- 'rubbish' means waste or discarded matter, which fits what is thrown away, but is more colloquial and generic than the specific sense of inferior material mixed with valuable items." },
+        { "distractor": "remnants", "closeness": 2, "reasoning": "Incorrect -- 'remnants' refers to remaining pieces or fragments, but does not convey the sense of worthlessness or inferiority that motivates discarding." },
+        { "distractor": "residue", "closeness": 2, "reasoning": "Incorrect -- 'residue' means what remains after a process, but does not carry the meaning of worthless material that should be discarded." },
+        { "distractor": "surplus", "closeness": 2, "reasoning": "Incorrect -- 'surplus' means excess or extra, but does not convey inferiority; surplus may be valuable, just not immediately needed." },
+        { "distractor": "flotsam", "closeness": 2, "reasoning": "Incorrect -- 'flotsam' refers to wreckage or debris floating on water, but is too specific to maritime contexts and lacks the sense of valueless mixed with valuable." },
+        { "distractor": "treasure", "closeness": 1, "reasoning": "Opposite -- 'treasure' means something precious and valuable; the opposite of dross that is discarded." },
+        { "distractor": "keepsake", "closeness": 1, "reasoning": "Opposite -- 'keepsake' means something cherished and kept for sentimental value; opposite to what is discarded." },
+        { "distractor": "bounty", "closeness": 1, "reasoning": "Opposite -- 'bounty' means something valuable and abundant; clearly wrong in a context of discarding unwanted material." }
+      ]
+    },
+    {
+      "sentence": "The critic dismissed the artist's early work as dross, but scholars would later recognize even those pieces as bearing seeds of his mature genius.",
+      "answerChoices": [
+        { "distractor": "hackwork", "closeness": 3, "reasoning": "Close -- 'hackwork' refers to careless, inferior creative work, which fits dismissal, but emphasizes lack of skill or care rather than the specific sense of worthless material mixed with value." },
+        { "distractor": "dreck", "closeness": 3, "reasoning": "Close -- 'dreck' means trash or something of very poor quality, which fits dismissal, but is informal and more absolute in its condemnation than dross, which implies mixture." },
+        { "distractor": "mediocrity", "closeness": 3, "reasoning": "Close -- 'mediocrity' means ordinary or second-rate quality, which fits dismissal of early work, but emphasizes averageness rather than worthless waste mixed with valuable seed material." },
+        { "distractor": "trash", "closeness": 3, "reasoning": "Close -- 'trash' means worthless matter, which fits dismissal, but is more absolute and colloquial; dross suggests something mixed or partially valuable." },
+        { "distractor": "banality", "closeness": 2, "reasoning": "Incorrect -- 'banality' means unoriginal or trite expression, but does not necessarily convey worthlessness; banal work may be competent if uninspired." },
+        { "distractor": "pastiche", "closeness": 2, "reasoning": "Incorrect -- 'pastiche' means an artistic work imitating others' styles, but does not carry the sense of worthlessness or inferiority." },
+        { "distractor": "imitation", "closeness": 2, "reasoning": "Incorrect -- 'imitation' means a copy or reproduction, but does not inherently mean worthless; many imitations have value." },
+        { "distractor": "forgery", "closeness": 2, "reasoning": "Incorrect -- 'forgery' is a fraudulent fake, but this is about the artist's own work, not a false attribution." },
+        { "distractor": "masterpiece", "closeness": 1, "reasoning": "Opposite -- 'masterpiece' means a work of great skill or art; opposite to what critics initially dismiss." },
+        { "distractor": "opus", "closeness": 1, "reasoning": "Opposite -- 'opus' means a significant work or achievement; wrong for material the critic deemed worthless." },
+        { "distractor": "marvel", "closeness": 1, "reasoning": "Opposite -- 'marvel' means something wonderful and admirable; opposite to dross that is dismissed." }
+      ]
+    },
+    {
+      "sentence": "The river carried dross from the industrial zone—oil, metal shavings, chemical residue—making the water unsafe downstream.",
+      "answerChoices": [
+        { "distractor": "contaminants", "closeness": 3, "reasoning": "Close -- 'contaminants' are substances that pollute, which fits the oil and chemicals making water unsafe, but emphasizes pollution and toxicity rather than the mixed waste and inferior material." },
+        { "distractor": "sediment", "closeness": 3, "reasoning": "Close -- 'sediment' is fine particles suspended or settled in water, which fits material carried by the river, but does not convey the sense of industrial waste or inferiority." },
+        { "distractor": "effluent", "closeness": 3, "reasoning": "Close -- 'effluent' is liquid waste from industrial processes, which fits the context, but refers specifically to liquid discharge rather than the mixed solid and liquid waste of dross." },
+        { "distractor": "silt", "closeness": 3, "reasoning": "Close -- 'silt' is fine sediment deposited by water, which fits material carried downstream, but refers to natural erosion products rather than industrial waste and discarded material." },
+        { "distractor": "scrap", "closeness": 2, "reasoning": "Incorrect -- 'scrap' means leftover pieces of material, which fits metal shavings, but does not address the liquid pollution or the mix of waste types." },
+        { "distractor": "detritus", "closeness": 2, "reasoning": "Incorrect -- 'detritus' means loose fragments or waste from disintegration, but is more general and does not specifically convey the industrial pollution danger." },
+        { "distractor": "byproduct", "closeness": 2, "reasoning": "Incorrect -- 'byproduct' is a secondary product, but does not carry the sense of unwanted waste or danger that motivates the concern." },
+        { "distractor": "alloy", "closeness": 2, "reasoning": "Incorrect -- 'alloy' is a mixture of metals, but this refers to an intentional compound, not scattered industrial waste." },
+        { "distractor": "nutrient", "closeness": 1, "reasoning": "Opposite -- 'nutrient' means substance that nourishes; opposite to contaminating waste that makes water unsafe." },
+        { "distractor": "supply", "closeness": 1, "reasoning": "Opposite -- 'supply' means something provided or available for use; wrong for industrial waste making water unsafe." },
+        { "distractor": "resource", "closeness": 1, "reasoning": "Opposite -- 'resource' means something useful or valuable; opposite to dross that pollutes and endangers." }
+      ]
+    }
+  ]
+}

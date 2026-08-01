@@ -1,0 +1,53 @@
+{
+  "word": "bungle",
+  "sentenceSets": [
+    {
+      "sentence": "The attempt to patch the software only bungled the interface further, frustrating users across the platform.",
+      "answerChoices": [
+        { "distractor": "crash", "closeness": 3, "reasoning": "Crash means to fail suddenly; while the patch may have caused crashes, 'bungle' emphasizes the awkward, clumsy mishandling that made the interface worse." },
+        { "distractor": "corrupt", "closeness": 3, "reasoning": "Corrupt means to damage or make defective; the patch may have corrupted data, but 'bungle' specifically emphasizes the clumsy, awkward execution that worsened the interface." },
+        { "distractor": "break", "closeness": 3, "reasoning": "Break means to damage or render non-functional; while the patch broke features, 'bungle' emphasizes the clumsy, inept manner of attempting the fix." },
+        { "distractor": "impair", "closeness": 3, "reasoning": "Impair means to weaken or damage; the patch impaired functionality, but 'bungle' emphasizes the awkward, bungling manner of attempted repair." },
+        { "distractor": "deteriorate", "closeness": 2, "reasoning": "Deteriorate means to become worse; the interface deteriorated, but 'bungle' emphasizes the clumsy action of attempting to fix it." },
+        { "distractor": "degrade", "closeness": 2, "reasoning": "Degrade means to lower in quality; the patch degraded the interface, but 'bungle' emphasizes the awkward mishandling rather than the result." },
+        { "distractor": "sabotage", "closeness": 2, "reasoning": "Sabotage means to deliberately damage; while the outcome suggests sabotage, 'bungle' indicates clumsy accident rather than intentional harm." },
+        { "distractor": "complicate", "closeness": 2, "reasoning": "Complicate means to make more complex; the patch complicated the interface, but 'bungle' emphasizes inept execution rather than increased complexity." },
+        { "distractor": "improve", "closeness": 1, "reasoning": "Improve means to make better; the sentence explicitly states the patch made the interface 'worse,' the opposite of improvement." },
+        { "distractor": "enhance", "closeness": 1, "reasoning": "Enhance means to increase or improve; this contradicts the sentence's statement that the patch worsened the interface." },
+        { "distractor": "stabilize", "closeness": 1, "reasoning": "Stabilize means to make stable or secure; the patch caused frustration and worsening, opposite to stabilizing." }
+      ]
+    },
+    {
+      "sentence": "The inexperienced carpenter bungled the installation of the hardwood floor, leaving gaps and uneven sections that required expensive corrections.",
+      "answerChoices": [
+        { "distractor": "botch", "closeness": 3, "reasoning": "Botch means to perform badly and clumsily; it closely parallels 'bungle,' but 'bungle' emphasizes the awkward, fumbling manner more than the complete failure that 'botch' conveys." },
+        { "distractor": "mangle", "closeness": 3, "reasoning": "Mangle means to damage through rough or clumsy treatment; while the floor was mangled, 'bungle' emphasizes the inept execution of the installation process." },
+        { "distractor": "mishandle", "closeness": 3, "reasoning": "Mishandle means to handle incorrectly; the carpenter mishandled the installation, but 'bungle' emphasizes the clumsy, awkward manner of working." },
+        { "distractor": "fumble", "closeness": 3, "reasoning": "Fumble means to grope or handle clumsily; while the carpenter fumbled, 'fumble' emphasizes clumsy handling of materials rather than the bungling execution of a complex task." },
+        { "distractor": "damage", "closeness": 2, "reasoning": "Damage means to harm; the gaps and uneven sections are damage, but 'bungle' emphasizes the clumsy, awkward action that caused the damage." },
+        { "distractor": "deface", "closeness": 2, "reasoning": "Deface means to spoil the appearance; the floor's appearance was defaced, but 'bungle' emphasizes inept execution." },
+        { "distractor": "compromise", "closeness": 2, "reasoning": "Compromise means to weaken or reduce effectiveness; the installation's quality was compromised, but 'bungle' emphasizes the awkward manner of work." },
+        { "distractor": "mar", "closeness": 2, "reasoning": "Mar means to damage or spoil; the floor was marred, but 'bungle' emphasizes the clumsy execution rather than the imperfection itself." },
+        { "distractor": "complete", "closeness": 1, "reasoning": "Complete means to finish; the sentence implies the job was poorly executed, contradicting a simple completion." },
+        { "distractor": "perfect", "closeness": 1, "reasoning": "Perfect means to make flawless; this is opposite to gaps and uneven sections requiring expensive corrections." },
+        { "distractor": "refine", "closeness": 1, "reasoning": "Refine means to improve; this contradicts an installation with gaps and irregularities requiring costly repairs." }
+      ]
+    },
+    {
+      "sentence": "He bungled the apology to his friend, saying the wrong things and making the awkward situation even more tense.",
+      "answerChoices": [
+        { "distractor": "flub", "closeness": 3, "reasoning": "Flub means to fail or mess up; while the apology was flubbed, 'bungle' emphasizes the clumsy, awkward manner of attempting reconciliation." },
+        { "distractor": "blunder", "closeness": 3, "reasoning": "Blunder means to make a gross mistake; the apology contained blunders, but 'bungle' emphasizes the awkward execution rather than a discrete error." },
+        { "distractor": "stumble", "closeness": 3, "reasoning": "Stumble means to trip or falter; while his words stumbled, 'bungle' conveys more thoroughly awkward and clumsy handling of the entire apology." },
+        { "distractor": "misread", "closeness": 3, "reasoning": "Misread means to misinterpret; he may have misread the situation, but 'bungle' emphasizes the clumsy, awkward execution of the apology itself." },
+        { "distractor": "offend", "closeness": 2, "reasoning": "Offend means to cause displeasure; by saying wrong things, he offended further, but 'bungle' emphasizes the inept manner of apologizing." },
+        { "distractor": "confuse", "closeness": 2, "reasoning": "Confuse means to bewilder; the wrong words may confuse, but 'bungle' emphasizes the clumsiness of the apologetic effort." },
+        { "distractor": "alienate", "closeness": 2, "reasoning": "Alienate means to cause estrangement; the bungled apology alienated him further, but 'bungle' refers to the clumsy action itself." },
+        { "distractor": "worsen", "closeness": 2, "reasoning": "Worsen means to make worse; the situation worsened, but 'bungle' specifically emphasizes the awkward, inept manner of attempting to help." },
+        { "distractor": "fix", "closeness": 1, "reasoning": "Fix means to repair or resolve; the sentence shows he made things more tense, opposite to fixing the situation." },
+        { "distractor": "resolve", "closeness": 1, "reasoning": "Resolve means to settle or solve; the bungled apology made the situation more awkward, opposite to resolving it." },
+        { "distractor": "strengthen", "closeness": 1, "reasoning": "Strengthen means to make stronger; the bungled apology made the situation more tense, opposite to strengthening the relationship." }
+      ]
+    }
+  ]
+}

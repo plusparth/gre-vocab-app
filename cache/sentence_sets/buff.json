@@ -1,0 +1,53 @@
+{
+  "word": "buff",
+  "sentenceSets": [
+    {
+      "sentence": "A devoted history buff, he could recite dates and details that even professional historians found impressive.",
+      "answerChoices": [
+        { "distractor": "enthusiast", "closeness": 3, "reasoning": "Enthusiast describes someone with keen interest but lacks the connotation of deep expertise that buff implies—an enthusiast might just have recently discovered the subject." },
+        { "distractor": "fan", "closeness": 3, "reasoning": "Fan can describe casual admiration and interest but often suggests a more superficial attachment than buff, which implies serious study and accumulated knowledge." },
+        { "distractor": "devotee", "closeness": 3, "reasoning": "Devotee is very close and nearly synonymous, but emphasizes loyalty and commitment over the specific knowledge and command of detail that the sentence highlights." },
+        { "distractor": "scholar", "closeness": 3, "reasoning": "Scholar denotes academic training and institutional credentials, while buff typically describes self-taught or independently developed expertise without formal qualification." },
+        { "distractor": "connoisseur", "closeness": 2, "reasoning": "Connoisseur implies cultivated expertise and refined taste, but is often associated with the arts or luxury goods rather than historical knowledge." },
+        { "distractor": "aficionado", "closeness": 2, "reasoning": "Aficionado suggests passionate involvement but carries a more aesthetic or cultural flavor, often applied to art or performance rather than history specifically." },
+        { "distractor": "specialist", "closeness": 2, "reasoning": "Specialist describes someone trained in a particular field, but doesn't capture the amateur yet deeply knowledgeable nature of a buff." },
+        { "distractor": "collector", "closeness": 2, "reasoning": "Collector focuses on gathering items related to a subject rather than acquiring knowledge or expertise about it." },
+        { "distractor": "critic", "closeness": 1, "reasoning": "Critic emphasizes judgment and analysis of flaws, whereas buff simply denotes enthusiastic knowledge regardless of critical evaluation." },
+        { "distractor": "novice", "closeness": 1, "reasoning": "Novice means beginner or someone with minimal experience, the opposite of the deep expertise that buff conveys." },
+        { "distractor": "skeptic", "closeness": 1, "reasoning": "Skeptic denotes doubt and questioning, whereas buff implies genuine interest and belief in the subject." }
+      ]
+    },
+    {
+      "sentence": "Wine buffs gathered at the exclusive tasting event, debating the merits of different Bordeaux vintages with practiced discernment.",
+      "answerChoices": [
+        { "distractor": "connoisseurs", "closeness": 3, "reasoning": "Connoisseurs can describe refined taste judges, but buffs are enthusiasts who may lack formal training; the sentence's informal 'debating' suggests peer-level knowledge rather than expert status." },
+        { "distractor": "aficionados", "closeness": 3, "reasoning": "Aficionados share the sense of passionate involvement, but the term is more commonly applied to sports or arts; buff is more distinctly used for those deeply versed in subjects like wine." },
+        { "distractor": "experts", "closeness": 3, "reasoning": "Experts possess professional or certified knowledge, while buffs are devoted enthusiasts who may have deep knowledge without formal credentials or professional standing." },
+        { "distractor": "tasters", "closeness": 3, "reasoning": "Tasters describes people engaged in the immediate activity of tasting, but buffs are those with long-term accumulated knowledge, not necessarily those physically tasting at this moment." },
+        { "distractor": "merchants", "closeness": 2, "reasoning": "Merchants sell wine but are not necessarily enthusiasts; the sentence emphasizes knowledge and debate, not commercial interest." },
+        { "distractor": "collectors", "closeness": 2, "reasoning": "Collectors gather wine but the focus is on possession rather than the expertise and taste evaluation described in the sentence." },
+        { "distractor": "judges", "closeness": 2, "reasoning": "Judges suggest official capacity and formal evaluation criteria, while buffs simply have strong personal knowledge and opinions." },
+        { "distractor": "critics", "closeness": 2, "reasoning": "Critics focus on analysis and judgment of quality, whereas buffs are primarily driven by enthusiasm and familiarity." },
+        { "distractor": "novices", "closeness": 1, "reasoning": "Novices are beginners, whereas the sentence's emphasis on 'practiced discernment' indicates long experience." },
+        { "distractor": "dilettantes", "closeness": 1, "reasoning": "Dilettantes pursue interests superficially and amateurishly, opposite the serious knowledge the 'practiced discernment' implies." },
+        { "distractor": "drinkers", "closeness": 1, "reasoning": "Drinkers simply consume wine without necessarily possessing the knowledge and debate ability the sentence emphasizes." }
+      ]
+    },
+    {
+      "sentence": "She had been a jazz buff since her teenage years, attending hundreds of live concerts and visiting jazz clubs on every continent.",
+      "answerChoices": [
+        { "distractor": "musician", "closeness": 3, "reasoning": "Musicians perform jazz, but the sentence emphasizes concert attendance and club visits as a listener, not playing ability or participation in performance." },
+        { "distractor": "performer", "closeness": 3, "reasoning": "Performer describes someone who creates music, while the sentence focuses on someone who consumes and follows jazz as a devoted follower." },
+        { "distractor": "critic", "closeness": 3, "reasoning": "Critics formally analyze and judge music, while buffs are enthusiasts driven by personal passion rather than professional evaluation." },
+        { "distractor": "scholar", "closeness": 3, "reasoning": "Scholars study jazz systematically and academically, whereas buffs accumulate knowledge through experience and personal immersion." },
+        { "distractor": "fan", "closeness": 2, "reasoning": "Fans like jazz, but the sentence's emphasis on decades of dedicated attendance suggests deeper knowledge than casual fandom." },
+        { "distractor": "collector", "closeness": 2, "reasoning": "Collectors gather recordings or memorabilia, but the sentence emphasizes live attendance and experience rather than accumulating objects." },
+        { "distractor": "listener", "closeness": 2, "reasoning": "Listener describes the act of hearing music, but lacks the sustained passion and expertise implied by the decades of dedicated attendance." },
+        { "distractor": "attendee", "closeness": 2, "reasoning": "Attendee simply describes someone present at events, without conveying the deep knowledge and devoted interest spanning decades." },
+        { "distractor": "dealer", "closeness": 1, "reasoning": "Dealer suggests commercial or illicit involvement, entirely off-topic from someone dedicated to appreciating jazz." },
+        { "distractor": "casual", "closeness": 1, "reasoning": "Casual implies lack of commitment or seriousness, opposite to the decades-long dedication described in the sentence." },
+        { "distractor": "tourist", "closeness": 1, "reasoning": "Tourist suggests temporary or superficial engagement with a place, whereas the sentence describes habitual, lifelong pursuit across multiple continents." }
+      ]
+    }
+  ]
+}

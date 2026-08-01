@@ -1,0 +1,53 @@
+{
+  "word": "plethora",
+  "sentenceSets": [
+    {
+      "sentence": "A plethora of competing frameworks existed for analyzing the problem, none of which had achieved the consensus that would make it a standard.",
+      "answerChoices": [
+        { "distractor": "variety", "closeness": 3, "reasoning": "Close -- variety conveys diversity, but the sentence emphasizes quantity and excess leading to confusion; 'variety' can suggest richness, whereas the sentence treats multiple frameworks as a problem lacking consensus." },
+        { "distractor": "collection", "closeness": 3, "reasoning": "Close -- a collection is an assembled group, but it lacks the connotation of overabundance that the sentence implies; the sentence suggests the quantity itself is problematic." },
+        { "distractor": "array", "closeness": 3, "reasoning": "Close -- an array is an ordered or displayed group of items, fitting the multiple frameworks, but it emphasizes arrangement rather than excess or the inability to reach consensus." },
+        { "distractor": "set", "closeness": 3, "reasoning": "Close -- a set is a group of related items, but the sentence's concern centers on the quantity being so large that consensus cannot emerge; 'set' is neutral on whether quantity causes problems." },
+        { "distractor": "series", "closeness": 2, "reasoning": "Incorrect -- a series implies a sequence or progression; the sentence describes competing, unranked alternatives, not a linearly ordered progression." },
+        { "distractor": "spectrum", "closeness": 2, "reasoning": "Incorrect -- a spectrum is a range or continuum; the sentence describes discrete frameworks, not points along a continuous scale." },
+        { "distractor": "catalog", "closeness": 2, "reasoning": "Incorrect -- a catalog is a systematic list or inventory; the sentence presents frameworks that are unorganized and competing, not catalogued." },
+        { "distractor": "inventory", "closeness": 2, "reasoning": "Incorrect -- an inventory is a stock of items; the sentence emphasizes the problem created by quantity, not the mere fact of having items in stock." },
+        { "distractor": "scarcity", "closeness": 1, "reasoning": "Opposite -- scarcity means insufficiency or shortage; the sentence describes the opposite problem of having too many frameworks." },
+        { "distractor": "deficit", "closeness": 1, "reasoning": "Opposite -- a deficit is a lack or shortage; the sentence describes an excess, not a deficiency." },
+        { "distractor": "consensus", "closeness": 1, "reasoning": "Incorrect -- consensus means general agreement; the sentence explicitly states the frameworks 'none of which had achieved the consensus,' making consensus the opposite of what describes the frameworks." }
+      ]
+    },
+    {
+      "sentence": "After years of modest success, the company faced a plethora of acquisition offers, each demanding careful evaluation and threatening to distract from core operations.",
+      "answerChoices": [
+        { "distractor": "flood", "closeness": 3, "reasoning": "Close -- a flood implies overwhelming volume, but it emphasizes sudden inundation; the sentence's concern is the burden of evaluation and operational distraction, which requires selection among offers rather than passive overwhelm." },
+        { "distractor": "wave", "closeness": 3, "reasoning": "Close -- a wave conveys a surge, fitting the influx of offers, but it emphasizes the timing and momentum of arrival; the sentence focuses on the quantity creating a burden of decision-making." },
+        { "distractor": "stream", "closeness": 3, "reasoning": "Close -- a stream is a continuous flow of items, fitting multiple offers, but lacks the sense of problematic excess or the need to evaluate and choose among them." },
+        { "distractor": "number", "closeness": 3, "reasoning": "Close -- a number indicates quantity, and one could say 'a great number of offers,' but 'number' is generic and lacks the connotation of surplus creating operational strain." },
+        { "distractor": "queue", "closeness": 2, "reasoning": "Incorrect -- a queue is an ordered line of items awaiting processing; the sentence describes competing offers requiring evaluation, not items lined up in order." },
+        { "distractor": "cluster", "closeness": 2, "reasoning": "Incorrect -- a cluster is a group gathered together; while it fits multiple offers, it lacks the specific sense of excess creating burden." },
+        { "distractor": "batch", "closeness": 2, "reasoning": "Incorrect -- a batch is a group processed together; the sentence describes individual offers each demanding separate evaluation, not a unified batch." },
+        { "distractor": "sample", "closeness": 2, "reasoning": "Incorrect -- a sample is a subset used to represent a whole; the sentence describes actual offers requiring decision, not representative examples." },
+        { "distractor": "shortage", "closeness": 1, "reasoning": "Opposite -- a shortage means insufficient quantity; the sentence describes the opposite problem of excessive offers." },
+        { "distractor": "drought", "closeness": 1, "reasoning": "Opposite -- a drought is a prolonged lack; the sentence describes plenty of offers, the opposite of absence." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Incorrect -- silence means absence of communication; the sentence describes an active influx of offers, not quiet or lack of communication." }
+      ]
+    },
+    {
+      "sentence": "The student's essay suffered from a plethora of sources cited without synthesis, leaving the reader uncertain which ideas were the author's own.",
+      "answerChoices": [
+        { "distractor": "medley", "closeness": 3, "reasoning": "Close -- a medley is a mixture or hodgepodge, fitting the jumbled presentation of sources, but it emphasizes artistic combination rather than the problem of excessive unintegrated citations." },
+        { "distractor": "mélange", "closeness": 3, "reasoning": "Close -- a mélange is a mixture of diverse elements, fitting the diverse sources, but it lacks the specific connotation of harmful excess or the lack of synthetic effort." },
+        { "distractor": "compilation", "closeness": 3, "reasoning": "Close -- a compilation is an assembly of items from various sources, fitting multiple cited works, but it emphasizes the act of gathering rather than the analytical problem of unsynthesized material." },
+        { "distractor": "assortment", "closeness": 3, "reasoning": "Close -- an assortment is a varied collection, fitting the multiple sources, but it is neutral about whether the diversity creates a problem; the sentence emphasizes that lack of synthesis is a flaw." },
+        { "distractor": "bundle", "closeness": 2, "reasoning": "Incorrect -- a bundle is a tied or wrapped group; the sentence describes loosely accumulated sources without integration, not a packaged grouping." },
+        { "distractor": "aggregate", "closeness": 2, "reasoning": "Incorrect -- an aggregate is a combined mass; while it might fit multiple sources combined, it lacks the sense of problematic excess or unintegrated material." },
+        { "distractor": "accumulation", "closeness": 2, "reasoning": "Incorrect -- an accumulation emphasizes gathering over time; the sentence's focus is on the lack of synthesis of cited material, not on the temporal process of gathering." },
+        { "distractor": "jumble", "closeness": 2, "reasoning": "Incorrect -- a jumble is a confused mixture; while it might seem to fit disorganized sources, the sentence's specific complaint is lack of synthesis, not mere disorganization." },
+        { "distractor": "unity", "closeness": 1, "reasoning": "Opposite -- unity means cohesion or integration; the sentence explicitly identifies the absence of synthesis, which is the opposite of unity." },
+        { "distractor": "coherence", "closeness": 1, "reasoning": "Opposite -- coherence means logical connection or clarity; the sentence criticizes the lack of unified voice caused by unsynthesized sources, the opposite of coherence." },
+        { "distractor": "parsimony", "closeness": 1, "reasoning": "Incorrect -- parsimony means frugality or minimal use; the sentence describes excessive citation without synthesis, not restrained or economical use of sources." }
+      ]
+    }
+  ]
+}

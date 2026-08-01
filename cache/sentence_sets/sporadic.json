@@ -1,0 +1,185 @@
+{
+  "word": "sporadic",
+  "sentenceSets": [
+    {
+      "sentence": "The sporadic nature of the enforcement made compliance feel optional, which is precisely the culture that the policy was supposed to prevent.",
+      "answerChoices": [
+        {
+          "distractor": "inconsistent",
+          "closeness": 3,
+          "reasoning": "Inconsistent means not uniform or varying, but the sentence emphasizes *irregular intervals*, not merely lack of uniformity."
+        },
+        {
+          "distractor": "intermittent",
+          "closeness": 3,
+          "reasoning": "Intermittent means occurring at intervals with breaks, very close to sporadic, but sporadic adds randomness rather than regular intervals."
+        },
+        {
+          "distractor": "erratic",
+          "closeness": 3,
+          "reasoning": "Erratic means unpredictable and irregular, close to sporadic, but erratic emphasizes deviation from normal rather than irregular occurrence."
+        },
+        {
+          "distractor": "haphazard",
+          "closeness": 3,
+          "reasoning": "Haphazard means random or disorganized, but the sentence emphasizes *infrequent* enforcement, not merely disorganized."
+        },
+        {
+          "distractor": "random",
+          "closeness": 2,
+          "reasoning": "Random suggests no pattern, but sporadic indicates occasional or scattered occurrence within a context where it should be regular."
+        },
+        {
+          "distractor": "scattered",
+          "closeness": 2,
+          "reasoning": "Scattered indicates spread out, but the sentence emphasizes *infrequent* enforcement, not merely dispersed."
+        },
+        {
+          "distractor": "infrequent",
+          "closeness": 2,
+          "reasoning": "Infrequent means rare or uncommon, but sporadic adds the sense of *scattered in time*, not just rarity."
+        },
+        {
+          "distractor": "irregular",
+          "closeness": 2,
+          "reasoning": "Irregular means not regular or predictable, but the sentence emphasizes occasions of enforcement that are too few, not merely unpredictable."
+        },
+        {
+          "distractor": "constant",
+          "closeness": 1,
+          "reasoning": "Constant means continuous or steady; the opposite of sporadic enforcement that makes compliance feel optional."
+        },
+        {
+          "distractor": "systematic",
+          "closeness": 1,
+          "reasoning": "Systematic means organized and methodical; the opposite of sporadic and irregular enforcement."
+        },
+        {
+          "distractor": "rigorous",
+          "closeness": 1,
+          "reasoning": "Rigorous means thorough and exacting; the opposite of sporadic enforcement that fails to encourage compliance."
+        }
+      ]
+    },
+    {
+      "sentence": "Sporadic emails from the branch manager left the team unsure of priorities.",
+      "answerChoices": [
+        {
+          "distractor": "intermittent",
+          "closeness": 3,
+          "reasoning": "Intermittent means occurring at intervals, very close, but the sentence emphasizes the *result* (confusion about priorities), not the intervals themselves."
+        },
+        {
+          "distractor": "infrequent",
+          "closeness": 3,
+          "reasoning": "Infrequent means rare, but sporadic adds the sense of *scattered* or irregular timing, not just rarity."
+        },
+        {
+          "distractor": "erratic",
+          "closeness": 3,
+          "reasoning": "Erratic means unpredictable, but the sentence emphasizes scattered communication, not just unpredictability."
+        },
+        {
+          "distractor": "inconsistent",
+          "closeness": 3,
+          "reasoning": "Inconsistent means not uniform, but the sentence indicates *occasional* emails, not varied in nature."
+        },
+        {
+          "distractor": "irregular",
+          "closeness": 2,
+          "reasoning": "Irregular means not regular, but the sentence emphasizes scattered emails leading to confusion, not merely irregular timing."
+        },
+        {
+          "distractor": "scattered",
+          "closeness": 2,
+          "reasoning": "Scattered indicates spread out, but the sentence emphasizes the *effect* (confusion), not just dispersal."
+        },
+        {
+          "distractor": "random",
+          "closeness": 2,
+          "reasoning": "Random means without pattern, but the sentence indicates occasional communication, not merely random occurrence."
+        },
+        {
+          "distractor": "haphazard",
+          "closeness": 2,
+          "reasoning": "Haphazard means disorganized, but the sentence indicates scattered timing, not disorganized emails."
+        },
+        {
+          "distractor": "frequent",
+          "closeness": 1,
+          "reasoning": "Frequent means happening often; the opposite of sporadic emails that leave the team confused."
+        },
+        {
+          "distractor": "consistent",
+          "closeness": 1,
+          "reasoning": "Consistent means regular and uniform; the opposite of sporadic communication that creates confusion."
+        },
+        {
+          "distractor": "reliable",
+          "closeness": 1,
+          "reasoning": "Reliable means dependable; the opposite of sporadic emails that leave priorities unclear."
+        }
+      ]
+    },
+    {
+      "sentence": "Sporadic headaches throughout the week eventually sent her to a neurologist.",
+      "answerChoices": [
+        {
+          "distractor": "intermittent",
+          "closeness": 3,
+          "reasoning": "Intermittent means occurring at intervals, very close to sporadic, but sporadic emphasizes *scattered randomness* rather than alternating presence and absence."
+        },
+        {
+          "distractor": "occasional",
+          "closeness": 3,
+          "reasoning": "Occasional means happening now and then, but sporadic adds the sense of *scattered* occurrence, not just now-and-then."
+        },
+        {
+          "distractor": "erratic",
+          "closeness": 3,
+          "reasoning": "Erratic means unpredictably varying, but the sentence indicates scattered headaches, not unpredictable behavior."
+        },
+        {
+          "distractor": "infrequent",
+          "closeness": 3,
+          "reasoning": "Infrequent means rare, but sporadic adds the sense of *scattered throughout the week*, not just rarity."
+        },
+        {
+          "distractor": "random",
+          "closeness": 2,
+          "reasoning": "Random means without pattern, but the sentence indicates scattered headaches throughout the week, not purely random."
+        },
+        {
+          "distractor": "scattered",
+          "closeness": 2,
+          "reasoning": "Scattered indicates spread out, but the sentence emphasizes the *result* (seeking medical attention), not just dispersal."
+        },
+        {
+          "distractor": "inconsistent",
+          "closeness": 2,
+          "reasoning": "Inconsistent means not uniform, but the sentence indicates scattered headaches, not varying in nature."
+        },
+        {
+          "distractor": "irregular",
+          "closeness": 2,
+          "reasoning": "Irregular means not regular, but the sentence emphasizes the *effect* (concern leading to medical visit), not irregular timing."
+        },
+        {
+          "distractor": "constant",
+          "closeness": 1,
+          "reasoning": "Constant means continuous; the opposite of sporadic headaches that occur at intervals."
+        },
+        {
+          "distractor": "chronic",
+          "closeness": 1,
+          "reasoning": "Chronic means persistent over long periods; the opposite of sporadic headaches happening occasionally."
+        },
+        {
+          "distractor": "persistent",
+          "closeness": 1,
+          "reasoning": "Persistent means continuing steadily; the opposite of sporadic headaches at scattered intervals."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "tenacious",
+  "sentenceSets": [
+    {
+      "sentence": "A tenacious advocate for the program, she continued making the case after every other proponent had moved to other priorities.",
+      "answerChoices": [
+        { "distractor": "hesitant", "closeness": 3, "reasoning": "Hesitant means reluctant or uncertain; the sentence shows someone who persistently continued advocacy after others abandoned it." },
+        { "distractor": "flexible", "closeness": 3, "reasoning": "Flexible means willing to change; the sentence shows someone who stubbornly held to the program cause." },
+        { "distractor": "fickle", "closeness": 3, "reasoning": "Fickle means prone to changing mind; the sentence shows someone who held fast to advocacy." },
+        { "distractor": "passive", "closeness": 3, "reasoning": "Passive means not actively involved; the sentence shows aggressive advocacy and persistent action." },
+        { "distractor": "casual", "closeness": 2, "reasoning": "Casual means not serious or committed; the sentence shows committed advocacy even after others moved on." },
+        { "distractor": "superficial", "closeness": 2, "reasoning": "Superficial means shallow engagement; the sentence shows deeply committed, persistent engagement." },
+        { "distractor": "apathetic", "closeness": 2, "reasoning": "Apathetic means lacking concern; the sentence shows passionate, persistent advocacy." },
+        { "distractor": "indifferent", "closeness": 2, "reasoning": "Indifferent means unconcerned; the sentence shows someone who valued and actively advocated." },
+        { "distractor": "yielding", "closeness": 1, "reasoning": "Yielding means giving way or surrendering; the sentence shows someone who held firm to advocacy." },
+        { "distractor": "expedient", "closeness": 1, "reasoning": "Expedient means pursuing convenience or advantage; the sentence shows persistence based on principle." },
+        { "distractor": "expedient", "closeness": 1, "reasoning": "Quitting means stopping effort but the sentence shows continued advocacy despite obstacles." }
+      ]
+    },
+    {
+      "sentence": "The tenacious journalist's grip on the investigation did not waver despite threats and official pressure to drop the story.",
+      "answerChoices": [
+        { "distractor": "loose", "closeness": 3, "reasoning": "Loose means not tight or holding firmly; the sentence shows a firm grip unaffected by threats." },
+        { "distractor": "wavering", "closeness": 3, "reasoning": "Wavering means uncertain or hesitant but the sentence explicitly shows grip 'did not waver.'" },
+        { "distractor": "reluctant", "closeness": 3, "reasoning": "Reluctant means unwilling but the sentence shows determined pursuit despite pressure." },
+        { "distractor": "timid", "closeness": 3, "reasoning": "Timid means fearful; the sentence shows persistence despite threats." },
+        { "distractor": "careless", "closeness": 2, "reasoning": "Careless means not careful but the sentence shows focused, sustained investigation." },
+        { "distractor": "half-hearted", "closeness": 2, "reasoning": "Half-hearted means lacking enthusiasm but the sentence shows determined persistence." },
+        { "distractor": "apologetic", "closeness": 2, "reasoning": "Apologetic means regretful but the sentence shows someone unaffected by external pressure." },
+        { "distractor": "complacent", "closeness": 2, "reasoning": "Complacent means self-satisfied but the sentence shows active, sustained investigation." },
+        { "distractor": "compliant", "closeness": 1, "reasoning": "Compliant means yielding to pressure but the sentence shows resistance to official pressure." },
+        { "distractor": "submissive", "closeness": 1, "reasoning": "Submissive means yielding to others; the sentence shows firm resistance to pressure." },
+        { "distractor": "obedient", "closeness": 1, "reasoning": "Obedient means following orders but the sentence shows defiance of pressure to abandon story." }
+      ]
+    },
+    {
+      "sentence": "The tenacious adhesive held the broken ceramic through years of use, proving that the repair would outlast expectations.",
+      "answerChoices": [
+        { "distractor": "slippery", "closeness": 3, "reasoning": "Slippery means not providing grip or friction; tenacious adhesive bonds firmly." },
+        { "distractor": "weak", "closeness": 3, "reasoning": "Weak means lacking strength but the sentence shows adhesive holding through years of use." },
+        { "distractor": "temporary", "closeness": 3, "reasoning": "Temporary means lasting briefly but the sentence shows adhesive enduring for years." },
+        { "distractor": "fleeting", "closeness": 3, "reasoning": "Fleeting means passing quickly but the sentence shows adhesive maintaining bond durably." },
+        { "distractor": "fragile", "closeness": 2, "reasoning": "Fragile means easily broken but the sentence shows durable, long-lasting adhesion." },
+        { "distractor": "brittle", "closeness": 2, "reasoning": "Brittle means easily broken but the sentence shows adhesive surviving years of use." },
+        { "distractor": "loose", "closeness": 2, "reasoning": "Loose means not tight but the sentence shows firm adhesion through extended use." },
+        { "distractor": "ineffective", "closeness": 2, "reasoning": "Ineffective means not working but the sentence shows adhesive holding repair expectation." },
+        { "distractor": "soluble", "closeness": 1, "reasoning": "Soluble means able to dissolve but the sentence shows adhesive maintaining bond." },
+        { "distractor": "unstable", "closeness": 1, "reasoning": "Unstable means prone to change but the sentence shows stable adhesion." },
+        { "distractor": "perishable", "closeness": 1, "reasoning": "Perishable means subject to decay but the sentence shows durability over years." }
+      ]
+    }
+  ]
+}

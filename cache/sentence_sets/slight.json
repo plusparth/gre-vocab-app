@@ -1,0 +1,53 @@
+{
+  "word": "slight",
+  "sentenceSets": [
+    {
+      "sentence": "The ballet dancer's slight frame made her seem almost weightless as she moved across the stage with surprising strength and control.",
+      "answerChoices": [
+        { "distractor": "small", "closeness": 3, "reasoning": "Small describes limited dimensions, but slight specifically emphasizes a slim, delicate build rather than mere size." },
+        { "distractor": "petite", "closeness": 3, "reasoning": "Petite describes small stature, especially in women, but doesn't necessarily convey the delicate, slender quality of slight." },
+        { "distractor": "thin", "closeness": 3, "reasoning": "Thin describes lack of thickness, but slight emphasizes a graceful, delicate build more than just thinness." },
+        { "distractor": "lean", "closeness": 3, "reasoning": "Lean describes lacking fat, but doesn't necessarily convey the delicate, graceful quality of slight build." },
+        { "distractor": "narrow", "closeness": 2, "reasoning": "Narrow describes limited width, but doesn't specifically convey the overall delicate, slim build that slight implies." },
+        { "distractor": "slender", "closeness": 2, "reasoning": "Slender means gracefully thin, which is very close to slight but emphasizes grace more than delicacy." },
+        { "distractor": "trim", "closeness": 2, "reasoning": "Trim describes neat and slim appearance, but doesn't necessarily convey the delicate quality of slight build." },
+        { "distractor": "dainty", "closeness": 2, "reasoning": "Dainty means delicately small, which is close, but slight emphasizes the physical build rather than cuteness." },
+        { "distractor": "massive", "closeness": 1, "reasoning": "Massive means very large and solid, the opposite of the slight, delicate build described." },
+        { "distractor": "stout", "closeness": 1, "reasoning": "Stout means solidly built and heavy, contrary to the slim, delicate quality of slight." },
+        { "distractor": "burly", "closeness": 1, "reasoning": "Burly means heavily and solidly built, the opposite of the delicate, graceful slight build." }
+      ]
+    },
+    {
+      "sentence": "The actress had a slight build, yet her commanding presence on stage suggested an inner strength that contradicted her physical appearance.",
+      "answerChoices": [
+        { "distractor": "narrow", "closeness": 3, "reasoning": "Narrow describes limited width, but doesn't necessarily convey the overall delicate and slender quality of slight build." },
+        { "distractor": "diminutive", "closeness": 3, "reasoning": "Diminutive means very small, but doesn't necessarily convey the graceful, delicate quality of slight." },
+        { "distractor": "fragile", "closeness": 3, "reasoning": "Fragile means easily broken or delicate, which is close, but slight refers specifically to physical build." },
+        { "distractor": "puny", "closeness": 3, "reasoning": "Puny means small and weak, but carries negative connotations that slight doesn't necessarily have." },
+        { "distractor": "tiny", "closeness": 2, "reasoning": "Tiny means very small, but doesn't specifically convey the slender, delicate build implied by slight." },
+        { "distractor": "wispy", "closeness": 2, "reasoning": "Wispy means thin and light, which is close, but emphasizes insubstantiality rather than build." },
+        { "distractor": "wiry", "closeness": 2, "reasoning": "Wiry means thin but strong, which contradicts the physical delicacy of slight build." },
+        { "distractor": "skeletal", "closeness": 2, "reasoning": "Skeletal means extremely thin and bony, which is more negative and extreme than slight." },
+        { "distractor": "robust", "closeness": 1, "reasoning": "Robust means strong and solidly built, the opposite of the delicate, slight physical build." },
+        { "distractor": "husky", "closeness": 1, "reasoning": "Husky means solidly and heavily built, contrary to the slight, delicate build described." },
+        { "distractor": "heavyset", "closeness": 1, "reasoning": "Heavyset means solidly built with substantial weight, the opposite of the slim, delicate slight build." }
+      ]
+    },
+    {
+      "sentence": "The slight young man surprised everyone by winning the wrestling competition, proving that physical build was less important than technique and determination.",
+      "answerChoices": [
+        { "distractor": "young", "closeness": 3, "reasoning": "Young describes age, not physical build, though it may correlate with slimness in some cases." },
+        { "distractor": "short", "closeness": 3, "reasoning": "Short describes height, which is different from the slim, delicate build that slight specifically conveys." },
+        { "distractor": "small-framed", "closeness": 3, "reasoning": "Small-framed describes overall size, but doesn't necessarily convey the graceful, delicate quality of slight build." },
+        { "distractor": "undernourished", "closeness": 3, "reasoning": "Undernourished implies poor health and nutrition, whereas slight is a neutral description of physical build." },
+        { "distractor": "weedy", "closeness": 2, "reasoning": "Weedy suggests being thin and weak, which is more negative than the neutral description slight provides." },
+        { "distractor": "lanky", "closeness": 2, "reasoning": "Lanky means tall and thin, which doesn't match if the wrestler is described as young and winning." },
+        { "distractor": "gangly", "closeness": 2, "reasoning": "Gangly means awkwardly tall and thin, which contradicts the wrestling success implied in the sentence." },
+        { "distractor": "scrawny", "closeness": 2, "reasoning": "Scrawny means excessively thin and bony, which is more negative than the neutral slight build." },
+        { "distractor": "muscular", "closeness": 1, "reasoning": "Muscular means having well-developed muscles, the opposite of the slight, delicate build." },
+        { "distractor": "athletic", "closeness": 1, "reasoning": "Athletic describes strong, fit appearance, which contradicts the slight physical build described." },
+        { "distractor": "powerful", "closeness": 1, "reasoning": "Powerful suggests strength and substantial build, contrary to the slight, delicate physique." }
+      ]
+    }
+  ]
+}

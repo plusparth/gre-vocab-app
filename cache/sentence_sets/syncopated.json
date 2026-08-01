@@ -1,0 +1,53 @@
+{
+  "word": "syncopated",
+  "sentenceSets": [
+    {
+      "sentence": "The jazz trio's syncopated rhythms defied the listener's expectations, placing emphases where silence was anticipated and resting when the beat should strike.",
+      "answerChoices": [
+        { "distractor": "complex", "closeness": 3, "reasoning": "Complex rhythms are intricate but do not necessarily shift accents from expected places; the sentence emphasizes accent displacement ('emphases where silence was anticipated'), which is specific to syncopation." },
+        { "distractor": "irregular", "closeness": 3, "reasoning": "Irregular rhythms are unpredictable but lack the intentional accent shifting implied by 'defied expectations' in a musical context; the sentence shows deliberate rhythmic manipulation." },
+        { "distractor": "improvisational", "closeness": 3, "reasoning": "Improvisational music is spontaneous and unplanned but need not involve shifted accents; the sentence describes a specific rhythmic technique (accent placement), not free-form invention." },
+        { "distractor": "polyrhythmic", "closeness": 3, "reasoning": "Polyrhythmic involves multiple rhythms played simultaneously but does not necessarily shift accents from expected beats; the sentence emphasizes unexpected accent placement." },
+        { "distractor": "discordant", "closeness": 2, "reasoning": "Discordant means clashing or dissonant, relating to harmony; the sentence is about rhythm and accent placement, not harmonic clashes." },
+        { "distractor": "chaotic", "closeness": 2, "reasoning": "Chaotic implies disorder without pattern; the sentence shows intentional, skillful manipulation of accent placement by musicians." },
+        { "distractor": "frenetic", "closeness": 2, "reasoning": "Frenetic describes rapid, frenzied energy but does not specify the rhythmic displacement that 'defies expectations' through accent shifting." },
+        { "distractor": "uneven", "closeness": 2, "reasoning": "Uneven rhythm has varying lengths or intervals but does not necessarily describe the specific technique of shifting accents from expected places." },
+        { "distractor": "steady", "closeness": 1, "reasoning": "Steady rhythm maintains consistent tempo and expected accents; the sentence describes rhythm that defies listener expectations through shifted emphases, opposite of steady." },
+        { "distractor": "predictable", "closeness": 1, "reasoning": "Predictable rhythm follows expected patterns; the sentence emphasizes 'defied the listener's expectations,' indicating the opposite of predictable." },
+        { "distractor": "monotonous", "closeness": 1, "reasoning": "Monotonous rhythm lacks variety and interest; the sentence shows rhythmic complexity and intentional accent shifting that creates engagement." }
+      ]
+    },
+    {
+      "sentence": "Her speech was delivered in syncopated bursts, sentences clipped and fragmented, pausing at moments when continuity seemed most natural.",
+      "answerChoices": [
+        { "distractor": "staccato", "closeness": 3, "reasoning": "Staccato describes short, detached sounds or words but does not necessarily imply the displacement of pauses from natural points; the sentence shows pauses at unexpected moments." },
+        { "distractor": "halting", "closeness": 3, "reasoning": "Halting speech is hesitant and broken but may result from uncertainty; the sentence shows deliberate, controlled clipping 'delivered in bursts,' indicating intentional pacing manipulation." },
+        { "distractor": "clipped", "closeness": 3, "reasoning": "Clipped speech is cut short, but this describes the words themselves, not the overall rhythmic pattern; the sentence emphasizes the pattern of pauses disrupting natural continuity." },
+        { "distractor": "rushed", "closeness": 3, "reasoning": "Rushed speech is hurried but would accelerate continuity, not disrupt it; the sentence shows pauses breaking natural flow, creating disruption, not speed." },
+        { "distractor": "breathless", "closeness": 2, "reasoning": "Breathless delivery shows lack of pause for breath but implies urgency; the sentence shows controlled, deliberate disruption of continuity, not rapid delivery." },
+        { "distractor": "fragmented", "closeness": 2, "reasoning": "Fragmented speech is broken into pieces but describes incompleteness; the sentence emphasizes the timing of pauses ('pausing at moments when continuity seemed most natural'), not fragmentation of content." },
+        { "distractor": "disjointed", "closeness": 2, "reasoning": "Disjointed speech lacks connection between parts but does not specifically describe the deliberate displacement of pauses from expected moments." },
+        { "distractor": "abrupt", "closeness": 2, "reasoning": "Abrupt delivery is sudden and unexpected but need not involve the specific displacement of pauses from natural continuity points." },
+        { "distractor": "flowing", "closeness": 1, "reasoning": "Flowing speech moves smoothly without disruption; the sentence describes bursts and fragmentation that interrupt continuity." },
+        { "distractor": "continuous", "closeness": 1, "reasoning": "Continuous speech maintains unbroken progression; the sentence shows sentences 'clipped and fragmented' with strategic pauses." },
+        { "distractor": "smooth", "closeness": 1, "reasoning": "Smooth delivery is seamless and uninterrupted; the sentence emphasizes pauses that disrupt natural continuity." }
+      ]
+    },
+    {
+      "sentence": "The film's editing created a syncopated visual experience, cutting between scenes at moments that contradicted the audio's natural rhythm and pacing.",
+      "answerChoices": [
+        { "distractor": "jarring", "closeness": 3, "reasoning": "Jarring editing is startling and disturbing but describes the effect on the viewer; the sentence specifies the technique of cutting at moments that contradict the audio rhythm." },
+        { "distractor": "dissonant", "closeness": 3, "reasoning": "Dissonant editing clashes in tone or content but does not necessarily describe the specific temporal relationship with the audio rhythm; the sentence emphasizes rhythmic contradiction." },
+        { "distractor": "intentional", "closeness": 3, "reasoning": "Intentional editing is deliberate but does not describe the specific technique of cutting at moments that contradict audio pacing; the sentence emphasizes the mismatch." },
+        { "distractor": "experimental", "closeness": 3, "reasoning": "Experimental editing tries new techniques but does not necessarily involve cutting at moments that contradict audio rhythm; the sentence describes a specific rhythmic relationship." },
+        { "distractor": "rapid", "closeness": 2, "reasoning": "Rapid editing uses quick cuts but does not necessarily place them at moments contradicting the audio's rhythm; pacing is about speed, not about displaceme nt." },
+        { "distractor": "abrupt", "closeness": 2, "reasoning": "Abrupt cuts are sudden but do not necessarily relate to the audio's rhythm or pacing; the sentence emphasizes the contradiction between visual and audio timing." },
+        { "distractor": "unconventional", "closeness": 2, "reasoning": "Unconventional editing breaks normal patterns but does not specifically describe cutting at moments that contradict audio rhythm." },
+        { "distractor": "frenetic", "closeness": 2, "reasoning": "Frenetic editing is fast-paced and energetic but does not necessarily cut against the audio's rhythm; it could align with frantic audio." },
+        { "distractor": "smooth", "closeness": 1, "reasoning": "Smooth editing aligns cuts with natural transitions and audio pacing; the sentence describes cuts that contradict the audio's rhythm." },
+        { "distractor": "seamless", "closeness": 1, "reasoning": "Seamless editing hides cuts and maintains continuity with the audio track; the sentence shows deliberate contradiction between visual and audio pacing." },
+        { "distractor": "cohesive", "closeness": 1, "reasoning": "Cohesive editing unifies visual and audio elements; the sentence emphasizes cutting at moments that contradict the audio's natural rhythm." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "porous",
+  "sentenceSets": [
+    {
+      "sentence": "The porous boundary between the two responsibilities created ambiguity that each party resolved by assuming it fell to the other.",
+      "answerChoices": [
+        { "distractor": "vague", "closeness": 3, "reasoning": "Close but incorrect -- 'vague' means unclear or imprecise, which causes ambiguity, but doesn't specifically convey the sense of permeability and lack of definition that 'porous' implies." },
+        { "distractor": "blurred", "closeness": 3, "reasoning": "Close -- 'blurred' means indistinct or lacking clear definition, which creates ambiguity, but emphasizes lack of sharpness rather than the permeable, allowing-passage quality of 'porous'." },
+        { "distractor": "fuzzy", "closeness": 3, "reasoning": "Close -- 'fuzzy' means unclear or without sharp boundaries, which fits the ambiguity, but is more informal and suggests lack of clarity rather than permeability." },
+        { "distractor": "indefinite", "closeness": 3, "reasoning": "Close -- 'indefinite' means not clearly defined, which creates the ambiguity, but emphasizes lack of precision rather than the permeable nature allowing responsibilities to shift." },
+        { "distractor": "nebulous", "closeness": 2, "reasoning": "Incorrect -- 'nebulous' means hazy and cloud-like, which creates ambiguity, but lacks the sense of permeability and allowing one thing to pass into another." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "Incorrect -- 'ambiguous' directly means allowing multiple interpretations, but doesn't carry the specific sense of permeability that allows responsibilities to seep between parties." },
+        { "distractor": "murky", "closeness": 2, "reasoning": "Incorrect -- 'murky' means dark and unclear, which creates ambiguity, but doesn't convey permeability or the flow between one party's responsibilities and the other's." },
+        { "distractor": "uncertain", "closeness": 2, "reasoning": "Incorrect -- 'uncertain' means not sure or definite, but doesn't specifically imply the permeable quality that allows one thing to pass into another." },
+        { "distractor": "impermeable", "closeness": 1, "reasoning": "Opposite -- 'impermeable' means not allowing passage, opposite to the permeable quality that creates ambiguity between responsibilities." },
+        { "distractor": "rigid", "closeness": 1, "reasoning": "Opposite -- 'rigid' means fixed and inflexible, opposite to the permeable quality that allows responsibilities to shift and blend." },
+        { "distractor": "crystalline", "closeness": 1, "reasoning": "Opposite -- 'crystalline' means clear and well-defined, opposite to the permeable, ambiguous boundary that blurs responsibilities." }
+      ]
+    },
+    {
+      "sentence": "The porous rock allowed water to seep through slowly, nourishing the plant roots beneath the surface.",
+      "answerChoices": [
+        { "distractor": "absorbent", "closeness": 3, "reasoning": "Close but incorrect -- 'absorbent' means capable of soaking up liquid, which is related to water movement, but doesn't specifically convey the sense of tiny interconnected passages that allow permeation through the material." },
+        { "distractor": "permeable", "closeness": 3, "reasoning": "Close -- 'permeable' means allowing passage of fluids, which is very similar to 'porous', but is more technical and emphasizes allowing flow-through rather than the structure containing pores." },
+        { "distractor": "spongy", "closeness": 3, "reasoning": "Close -- 'spongy' describes a soft, porous material that absorbs liquid, but emphasizes softness and absorption rather than the specific structure of rock with interconnected pores." },
+        { "distractor": "friable", "closeness": 3, "reasoning": "Close -- 'friable' means easily crumbled or breaking apart, which rock can be, but emphasizes brittleness rather than the structure allowing water passage." },
+        { "distractor": "loose", "closeness": 2, "reasoning": "Incorrect -- 'loose' means not tightly packed, which allows water movement, but doesn't specifically imply the structural porosity that creates interconnected passages." },
+        { "distractor": "crumbly", "closeness": 2, "reasoning": "Incorrect -- 'crumbly' suggests easily breaking into pieces, but doesn't necessarily allow sustained water seepage as effectively as a porous structure." },
+        { "distractor": "granular", "closeness": 2, "reasoning": "Incorrect -- 'granular' means composed of small grains, which can allow water passage, but emphasizes particle composition rather than the pore structure itself." },
+        { "distractor": "sedimentary", "closeness": 2, "reasoning": "Incorrect -- 'sedimentary' describes the geological type of rock, but doesn't necessarily indicate porosity or water permeability." },
+        { "distractor": "dense", "closeness": 1, "reasoning": "Opposite -- 'dense' means tightly packed, opposite to the loose, pore-filled structure that allows water to seep through." },
+        { "distractor": "impermeable", "closeness": 1, "reasoning": "Opposite -- 'impermeable' means not allowing passage of fluids, opposite to the porous structure that allows water seepage." },
+        { "distractor": "solid", "closeness": 1, "reasoning": "Opposite -- 'solid' means without gaps or pores, opposite to the structure of porous rock that contains passages for water movement." }
+      ]
+    },
+    {
+      "sentence": "The porous membrane selectively filtered toxins while allowing beneficial nutrients to pass through intact.",
+      "answerChoices": [
+        { "distractor": "selective", "closeness": 3, "reasoning": "Close but incorrect -- 'selective' means choosing carefully based on criteria, which describes the filtering action, but doesn't convey the physical property of having pores that allows differential passage." },
+        { "distractor": "semi-permeable", "closeness": 3, "reasoning": "Close -- 'semi-permeable' means allowing passage of some substances while blocking others, which is nearly synonymous with 'porous' in this context, but emphasizes selective permeability as the defining feature." },
+        { "distractor": "filtering", "closeness": 3, "reasoning": "Close -- 'filtering' describes the action of separating substances, but refers to the process rather than the structural property that enables the filtering." },
+        { "distractor": "permeable", "closeness": 3, "reasoning": "Close -- 'permeable' means allowing passage of fluids, but doesn't specify the selective quality or the presence of pores that distinguish this specific membrane function." },
+        { "distractor": "absorbent", "closeness": 2, "reasoning": "Incorrect -- 'absorbent' means soaking up liquid, but doesn't capture the selective passage of some molecules while excluding others." },
+        { "distractor": "spongy", "closeness": 2, "reasoning": "Incorrect -- 'spongy' describes a soft texture, but implies absorption rather than the selective selective passage of nutrients while blocking toxins." },
+        { "distractor": "mesh-like", "closeness": 2, "reasoning": "Incorrect -- 'mesh-like' suggests a grid pattern, which allows passage, but doesn't specifically convey the chemical selectivity shown in the sentence." },
+        { "distractor": "woven", "closeness": 2, "reasoning": "Incorrect -- 'woven' describes a texture with interlocking threads, but doesn't imply the selective chemical function the sentence describes." },
+        { "distractor": "waterproof", "closeness": 1, "reasoning": "Opposite -- 'waterproof' means blocking passage of water, opposite to the property that allows nutrients to pass through the membrane." },
+        { "distractor": "impermeable", "closeness": 1, "reasoning": "Opposite -- 'impermeable' means not allowing passage, opposite to the selective passage described in the sentence." },
+        { "distractor": "solid", "closeness": 1, "reasoning": "Opposite -- 'solid' suggests no pores or passages, opposite to the porous structure that enables differential filtering." }
+      ]
+    }
+  ]
+}

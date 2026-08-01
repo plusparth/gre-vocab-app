@@ -1,0 +1,53 @@
+{
+  "word": "assay",
+  "sentenceSets": [
+    {
+      "sentence": "The geologist assayed the ore samples and confirmed the presence of commercially viable deposits.",
+      "answerChoices": [
+        { "distractor": "analyzed", "closeness": 3, "reasoning": "While 'analyzed' means to examine in detail, the sentence emphasizes testing specifically for certain components (viable deposits), not just general examination." },
+        { "distractor": "tested", "closeness": 3, "reasoning": "'Tested' means to try or assess; while the samples are tested, 'assayed' emphasizes chemical/scientific analysis for specific components." },
+        { "distractor": "examined", "closeness": 3, "reasoning": "'Examined' means to inspect; while the samples are examined, 'assayed' emphasizes chemical testing for specific components." },
+        { "distractor": "evaluated", "closeness": 3, "reasoning": "'Evaluated' means to assess or judge; while the samples are evaluated, 'assayed' emphasizes specific component testing." },
+        { "distractor": "surveyed", "closeness": 2, "reasoning": "'Surveyed' means to look over; while the geologist surveys, 'assayed' emphasizes precise chemical analysis." },
+        { "distractor": "inspected", "closeness": 2, "reasoning": "'Inspected' means to examine closely; while the samples are inspected, 'assayed' emphasizes specific chemical testing." },
+        { "distractor": "checked", "closeness": 2, "reasoning": "'Checked' means to verify; while the geologist checks, 'assayed' emphasizes precise chemical analysis for components." },
+        { "distractor": "measured", "closeness": 2, "reasoning": "'Measured' means to determine the size or extent; while components are measured, 'assayed' emphasizes chemical analysis specifically." },
+        { "distractor": "verified", "closeness": 1, "reasoning": "Verified means to confirm as true; while the geologist verifies results, 'assayed' emphasizes the testing process itself." },
+        { "distractor": "estimated", "closeness": 1, "reasoning": "Estimated means to roughly calculate; it contradicts the precision implied by assaying." },
+        { "distractor": "assumed", "closeness": 1, "reasoning": "Assumed means to accept without testing; it contradicts the analytical testing that assaying involves." }
+      ]
+    },
+    {
+      "sentence": "Before approving the new drug, the FDA assayed its effectiveness through rigorous clinical trials involving thousands of patients.",
+      "answerChoices": [
+        { "distractor": "tested", "closeness": 3, "reasoning": "'Tested' means to try or assess; while the drug is tested, 'assayed' emphasizes analyzing for specific components or effects." },
+        { "distractor": "evaluated", "closeness": 3, "reasoning": "'Evaluated' means to assess or judge; while the drug is evaluated, 'assayed' emphasizes specific analytical testing." },
+        { "distractor": "studied", "closeness": 3, "reasoning": "'Studied' means to examine carefully; while the drug is studied, 'assayed' emphasizes testing for specific effects or components." },
+        { "distractor": "examined", "closeness": 3, "reasoning": "'Examined' means to inspect; while the drug is examined, 'assayed' emphasizes analytical testing for specific effects." },
+        { "distractor": "scrutinized", "closeness": 2, "reasoning": "'Scrutinized' means to examine closely; while the drug is scrutinized, 'assayed' emphasizes specific analytical testing." },
+        { "distractor": "investigated", "closeness": 2, "reasoning": "'Investigated' means to inquire into; while the drug is investigated, 'assayed' emphasizes specific analytical testing." },
+        { "distractor": "monitored", "closeness": 2, "reasoning": "'Monitored' means to observe or track; while the drug is monitored in trials, 'assayed' emphasizes analyzing for specific components." },
+        { "distractor": "verified", "closeness": 2, "reasoning": "'Verified' means to confirm as true; while results are verified, 'assayed' emphasizes the testing process itself." },
+        { "distractor": "approved", "closeness": 1, "reasoning": "Approved means to accept or authorize; it's the outcome after assaying, not the analytical process itself." },
+        { "distractor": "assumed", "closeness": 1, "reasoning": "Assumed means to accept without testing; it contradicts the rigorous analytical testing that assaying involves." },
+        { "distractor": "trusted", "closeness": 1, "reasoning": "Trusted means to rely on; it contradicts the rigorous testing process—the opposite of blind trust." }
+      ]
+    },
+    {
+      "sentence": "The jeweler carefully assayed the metal to determine its purity and verify it contained the gold content claimed by the seller.",
+      "answerChoices": [
+        { "distractor": "tested", "closeness": 3, "reasoning": "'Tested' means to try or assess; while the metal is tested, 'assayed' emphasizes analytical testing for specific components (gold content)." },
+        { "distractor": "analyzed", "closeness": 3, "reasoning": "'Analyzed' means to examine in detail; while the metal is analyzed, 'assayed' emphasizes chemical analysis for specific components." },
+        { "distractor": "examined", "closeness": 3, "reasoning": "'Examined' means to inspect closely; while the metal is examined, 'assayed' emphasizes analytical testing for purity." },
+        { "distractor": "evaluated", "closeness": 3, "reasoning": "'Evaluated' means to assess; while the metal is evaluated, 'assayed' emphasizes specific analytical testing for gold content." },
+        { "distractor": "inspected", "closeness": 2, "reasoning": "'Inspected' means to examine; while the jeweler inspects, 'assayed' emphasizes precise chemical analysis." },
+        { "distractor": "checked", "closeness": 2, "reasoning": "'Checked' means to verify; while the jeweler checks, 'assayed' emphasizes precise chemical analysis." },
+        { "distractor": "measured", "closeness": 2, "reasoning": "'Measured' means to determine extent; while components are measured, 'assayed' emphasizes analytical testing specifically." },
+        { "distractor": "weighed", "closeness": 2, "reasoning": "'Weighed' means to determine mass; while the jeweler may weigh, 'assayed' emphasizes chemical analysis for purity." },
+        { "distractor": "verified", "closeness": 1, "reasoning": "Verified means to confirm as true; it's the outcome, not the analytical process itself." },
+        { "distractor": "trusted", "closeness": 1, "reasoning": "Trusted means to rely on without verification; it contradicts the need to assay and verify the claim." },
+        { "distractor": "assumed", "closeness": 1, "reasoning": "Assumed means to accept without testing; it contradicts the careful analytical assaying the jeweler performs." }
+      ]
+    }
+  ]
+}

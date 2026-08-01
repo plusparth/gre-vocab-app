@@ -1,0 +1,185 @@
+{
+  "word": "somatic",
+  "sentenceSets": [
+    {
+      "sentence": "The physician distinguished between somatic symptoms—muscle aches and fatigue—and psychological factors that might contribute to the patient's illness.",
+      "answerChoices": [
+        {
+          "distractor": "physical",
+          "closeness": 3,
+          "reasoning": "Physical means relating to the body; while somatic symptoms are physical, 'physical' is broader and can include external physical factors, whereas 'somatic' specifically refers to the body's tissues and organs."
+        },
+        {
+          "distractor": "corporeal",
+          "closeness": 3,
+          "reasoning": "Corporeal means having a body or being material; while somatic is corporeal, 'corporeal' is more philosophical and refers to the body's material nature, whereas 'somatic' is specifically medical/biological."
+        },
+        {
+          "distractor": "bodily",
+          "closeness": 3,
+          "reasoning": "Bodily means relating to the body; while somatic symptoms are bodily, 'bodily' is more general, whereas 'somatic' specifically refers to body tissues as distinguished from germline cells."
+        },
+        {
+          "distractor": "systemic",
+          "closeness": 3,
+          "reasoning": "Systemic means affecting the entire body or system; while somatic symptoms affect the body, 'systemic' specifically means spread throughout a system, whereas 'somatic' can refer to localized body tissue."
+        },
+        {
+          "distractor": "organic",
+          "closeness": 2,
+          "reasoning": "Organic means relating to living organisms or organs; while somatic refers to the body, 'organic' emphasizes living material and functional systems, whereas 'somatic' refers to body tissues as distinguished from germline."
+        },
+        {
+          "distractor": "visceral",
+          "closeness": 2,
+          "reasoning": "Visceral means relating to internal organs; while somatic symptoms can involve organs, 'visceral' specifically refers to internal organs, whereas 'somatic' refers more broadly to body tissues."
+        },
+        {
+          "distractor": "tangible",
+          "closeness": 2,
+          "reasoning": "Tangible means perceptible or real; while somatic symptoms are tangible, 'tangible' is more general and refers to anything that can be perceived or touched."
+        },
+        {
+          "distractor": "symptomatic",
+          "closeness": 2,
+          "reasoning": "Symptomatic means showing signs of disease; while the somatic symptoms indicate disease, 'symptomatic' refers to the manifestation of illness, not the body location."
+        },
+        {
+          "distractor": "mental",
+          "closeness": 1,
+          "reasoning": "Mental means relating to the mind; the sentence contrasts somatic symptoms with psychological factors, making mental the opposite domain."
+        },
+        {
+          "distractor": "psychological",
+          "closeness": 1,
+          "reasoning": "Psychological means relating to the mind or emotions; the sentence explicitly contrasts somatic symptoms with psychological factors."
+        },
+        {
+          "distractor": "emotional",
+          "closeness": 1,
+          "reasoning": "Emotional means relating to feelings; the sentence contrasts somatic (body) symptoms with psychological factors, of which emotion is a part."
+        }
+      ]
+    },
+    {
+      "sentence": "Rather than resorting to medication, the therapist recommended somatic practices like breathing exercises and progressive muscle relaxation to address the patient's anxiety.",
+      "answerChoices": [
+        {
+          "distractor": "physical",
+          "closeness": 3,
+          "reasoning": "Physical means relating to the body; while somatic practices involve the body, 'physical' can include external physical exercise, whereas 'somatic' specifically means working through bodily sensation and awareness."
+        },
+        {
+          "distractor": "kinesthetic",
+          "closeness": 3,
+          "reasoning": "Kinesthetic means relating to body movement and sensation; while somatic practices involve kinesthetic awareness, 'kinesthetic' emphasizes movement, whereas 'somatic' emphasizes awareness of bodily sensations."
+        },
+        {
+          "distractor": "bodily",
+          "closeness": 3,
+          "reasoning": "Bodily means relating to the body; while somatic practices are bodily, 'bodily' is more general, whereas 'somatic' specifically refers to awareness and regulation of bodily processes."
+        },
+        {
+          "distractor": "holistic",
+          "closeness": 3,
+          "reasoning": "Holistic means treating the whole person; while somatic practices can be holistic, 'holistic' emphasizes treating the whole being, whereas 'somatic' specifically focuses on bodily experience."
+        },
+        {
+          "distractor": "behavioral",
+          "closeness": 2,
+          "reasoning": "Behavioral means relating to behavior or conduct; while somatic practices involve behavioral changes, 'behavioral' refers to external actions, whereas 'somatic' emphasizes internal bodily experience."
+        },
+        {
+          "distractor": "alternative",
+          "closeness": 2,
+          "reasoning": "Alternative means different from the usual; while somatic practices are alternatives to medication, 'alternative' describes the approach, not the specific body-based nature."
+        },
+        {
+          "distractor": "therapeutic",
+          "closeness": 2,
+          "reasoning": "Therapeutic means having healing benefits; while somatic practices are therapeutic, 'therapeutic' describes the effect, not the body-focused method."
+        },
+        {
+          "distractor": "meditative",
+          "closeness": 2,
+          "reasoning": "Meditative means involving focused attention or mindfulness; while somatic practices can be meditative, 'meditative' emphasizes mental focus, whereas 'somatic' emphasizes bodily sensation."
+        },
+        {
+          "distractor": "pharmaceutical",
+          "closeness": 1,
+          "reasoning": "Pharmaceutical means relating to drugs or medication; the therapist specifically recommended somatic practices 'rather than resorting to medication,' the opposite."
+        },
+        {
+          "distractor": "cognitive",
+          "closeness": 1,
+          "reasoning": "Cognitive means relating to thinking and reasoning; somatic practices address bodily sensation and awareness, not cognitive thought processes."
+        },
+        {
+          "distractor": "mental",
+          "closeness": 1,
+          "reasoning": "Mental means relating to the mind; somatic practices work through the body, not through mental processes or thinking."
+        }
+      ]
+    },
+    {
+      "sentence": "In genetics, somatic mutations affect an organism's body cells but cannot be passed to offspring, whereas germline mutations can alter heredity.",
+      "answerChoices": [
+        {
+          "distractor": "genetic",
+          "closeness": 3,
+          "reasoning": "Genetic means relating to genes or heredity; while somatic mutations are genetic, 'genetic' is broader and includes both somatic and germline mutations."
+        },
+        {
+          "distractor": "acquired",
+          "closeness": 3,
+          "reasoning": "Acquired means obtained or developed after birth; while somatic mutations can be acquired, 'acquired' is less specific and doesn't distinguish somatic from germline mutations."
+        },
+        {
+          "distractor": "cellular",
+          "closeness": 3,
+          "reasoning": "Cellular means relating to cells; while somatic mutations affect body cells, 'cellular' is broader and can apply to any mutations in cells, including germline."
+        },
+        {
+          "distractor": "epigenetic",
+          "closeness": 3,
+          "reasoning": "Epigenetic means relating to non-DNA factors affecting gene expression; while somatic changes can be epigenetic, 'epigenetic' is distinct from somatic mutations and doesn't imply specific body tissue changes."
+        },
+        {
+          "distractor": "nonhereditary",
+          "closeness": 2,
+          "reasoning": "Nonhereditary means not inherited; while somatic mutations are nonhereditary, this term doesn't specify that they affect body cells, whereas 'somatic' specifically refers to body tissue."
+        },
+        {
+          "distractor": "environmental",
+          "closeness": 2,
+          "reasoning": "Environmental means caused by environmental factors; while somatic mutations can be caused by environmental factors, 'environmental' describes the cause, not the cellular location."
+        },
+        {
+          "distractor": "spontaneous",
+          "closeness": 2,
+          "reasoning": "Spontaneous means occurring without external cause; while some somatic mutations are spontaneous, 'spontaneous' describes the origin, not the body-cell distinction."
+        },
+        {
+          "distractor": "chromosomal",
+          "closeness": 2,
+          "reasoning": "Chromosomal means relating to chromosomes; while somatic mutations can be chromosomal, 'chromosomal' describes the type of mutation, not the body-cell location."
+        },
+        {
+          "distractor": "hereditary",
+          "closeness": 1,
+          "reasoning": "Hereditary means inherited or passed to offspring; the sentence emphasizes that somatic mutations 'cannot be passed to offspring,' the opposite of hereditary."
+        },
+        {
+          "distractor": "germline",
+          "closeness": 1,
+          "reasoning": "Germline means relating to reproductive cells; the sentence explicitly contrasts somatic mutations with germline mutations as opposite categories."
+        },
+        {
+          "distractor": "inherited",
+          "closeness": 1,
+          "reasoning": "Inherited means passed from parent to offspring; somatic mutations are not inherited, they affect only body cells, the opposite."
+        }
+      ]
+    }
+  ]
+}

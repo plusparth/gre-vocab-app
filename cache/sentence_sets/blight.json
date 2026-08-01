@@ -1,0 +1,53 @@
+{
+  "word": "blight",
+  "sentenceSets": [
+    {
+      "sentence": "Corruption had become a blight on the city's development, discouraging investment for a generation.",
+      "answerChoices": [
+        { "distractor": "scourge", "closeness": 3, "reasoning": "Scourge means a cause of great suffering, which fits corruption's harmful impact, but it emphasizes pain and suffering rather than the damaging effect on growth and investment." },
+        { "distractor": "stain", "closeness": 3, "reasoning": "Stain means a mark of dishonor, which fits corruption's reputational damage, but it suggests a surface mark rather than a deep, systemic disease harming development." },
+        { "distractor": "malaise", "closeness": 3, "reasoning": "Malaise means a sense of unease or disease, which corruption creates, but it describes a feeling rather than the active damage discouraging investment." },
+        { "distractor": "cancer", "closeness": 3, "reasoning": "Cancer is used metaphorically for something spreading destructively, which fits corruption, but it emphasizes rapid, uncontrolled spread rather than the specific effect on development and investment." },
+        { "distractor": "curse", "closeness": 2, "reasoning": "Curse suggests a condition bringing misfortune, which corruption does, but it's more mystical or inevitable-sounding than a specific disease damaging growth." },
+        { "distractor": "plague", "closeness": 2, "reasoning": "Plague means a widespread disease or calamity, which corruption causes, but it emphasizes sudden epidemic spread rather than systemic damage to development." },
+        { "distractor": "affliction", "closeness": 2, "reasoning": "Affliction means suffering or hardship, which corruption causes, but it focuses on pain experienced rather than damage to infrastructure or investment." },
+        { "distractor": "pestilence", "closeness": 2, "reasoning": "Pestilence means widespread disease or evil, which corruption is, but it's a more archaic, dramatic term that doesn't convey the specific economic/developmental impact." },
+        { "distractor": "blessing", "closeness": 1, "reasoning": "Blessing means a favorable circumstance, the opposite of what corruption represents; corruption discourages investment, not blesses development." },
+        { "distractor": "boon", "closeness": 1, "reasoning": "Boon means a timely benefit, the opposite of blight; a boon would encourage investment, not discourage it for a generation." },
+        { "distractor": "asset", "closeness": 1, "reasoning": "Asset means a useful thing or advantage, the opposite; corruption is not an asset but actively damages the city's development and investment climate." }
+      ]
+    },
+    {
+      "sentence": "Potato blight devastated Irish crops in the 1840s, destroying the primary food source for millions and triggering mass starvation.",
+      "answerChoices": [
+        { "distractor": "withering", "closeness": 3, "reasoning": "Withering means shriveling or dying, which crops experience in blight, but it describes the appearance of affected plants rather than a specific plant disease causing crop destruction." },
+        { "distractor": "infestation", "closeness": 3, "reasoning": "Infestation means an invasion by pests, which can destroy crops, but it's caused by living organisms (insects) rather than the disease condition blight represents." },
+        { "distractor": "famine", "closeness": 3, "reasoning": "Famine means widespread hunger and scarcity of food, which blight caused, but it's the result of crop failure, not the disease itself." },
+        { "distractor": "pestilence", "closeness": 3, "reasoning": "Pestilence means widespread disease, which blight is, but it's a general term for any epidemic or calamity rather than a specific plant disease." },
+        { "distractor": "rot", "closeness": 2, "reasoning": "Rot means decomposition of organic matter, which affected potatoes, but it's a general process of decay rather than the specific fungal disease condition." },
+        { "distractor": "decay", "closeness": 2, "reasoning": "Decay means gradual decomposition, which crops undergo during blight, but it's a general process rather than a disease marked by lesions and withering as the definition specifies." },
+        { "distractor": "lesion", "closeness": 2, "reasoning": "Lesion appears in the definition and means a sore or injury on plants, but it's a symptom of blight, not the disease itself." },
+        { "distractor": "contamination", "closeness": 2, "reasoning": "Contamination means pollutants or toxins, which could harm crops, but it's different from the biological disease process blight represents." },
+        { "distractor": "thriving", "closeness": 1, "reasoning": "Thriving means flourishing and growing well, the opposite of devastation; if crops were thriving, there would be no mass starvation." },
+        { "distractor": "abundance", "closeness": 1, "reasoning": "Abundance means plenty and ample supply, the opposite of blight's destruction; if crops had abundance, starvation would not occur." },
+        { "distractor": "prosperity", "closeness": 1, "reasoning": "Prosperity means wealth and well-being, the opposite of the devastation blight caused; prosperity would prevent, not trigger, mass starvation." }
+      ]
+    },
+    {
+      "sentence": "Self-doubt became a blight on his artistic career, causing him to abandon promising projects before completion.",
+      "answerChoices": [
+        { "distractor": "scourge", "closeness": 3, "reasoning": "Scourge means a cause of suffering, which self-doubt is, but it emphasizes pain and torment rather than the withering effect on artistic growth and project completion." },
+        { "distractor": "affliction", "closeness": 3, "reasoning": "Affliction means suffering or hardship, which self-doubt causes, but it focuses on the emotional pain rather than the active damage to career development." },
+        { "distractor": "curse", "closeness": 3, "reasoning": "Curse suggests a persistent condition of misfortune, which self-doubt is, but it's more mystical or inevitable-sounding than a disease actively destroying projects." },
+        { "distractor": "impediment", "closeness": 3, "reasoning": "Impediment means a barrier or obstacle, which self-doubt is, but it suggests a passive obstruction rather than an active disease process destroying projects." },
+        { "distractor": "weakness", "closeness": 2, "reasoning": "Weakness means lack of strength, which self-doubt involves, but it's a personal characteristic rather than a disease damaging the career itself." },
+        { "distractor": "burden", "closeness": 2, "reasoning": "Burden means something heavy carried or endured, which self-doubt is, but it suggests weight rather than an active disease destroying artistic work." },
+        { "distractor": "obstacle", "closeness": 2, "reasoning": "Obstacle means something blocking progress, which self-doubt is, but it describes passive blockage rather than active damage to projects like blight causes." },
+        { "distractor": "malaise", "closeness": 2, "reasoning": "Malaise means unease or a sense of disease, which self-doubt creates, but it's more psychological discomfort than a specific condition destroying career development." },
+        { "distractor": "catalyst", "closeness": 1, "reasoning": "Catalyst means something that causes change or initiates events; while self-doubt causes changes, it triggers destructive abandonment, not positive creative catalyst." },
+        { "distractor": "inspiration", "closeness": 1, "reasoning": "Inspiration means creative stimulus, the opposite of self-doubt's effect; inspiration would help complete projects, not cause abandonment." },
+        { "distractor": "confidence", "closeness": 1, "reasoning": "Confidence is the opposite of self-doubt; confidence would lead to completing projects, not abandoning promising ones." }
+      ]
+    }
+  ]
+}

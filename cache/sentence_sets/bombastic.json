@@ -1,0 +1,53 @@
+{
+  "word": "bombastic",
+  "sentenceSets": [
+    {
+      "sentence": "The bombastic opening statement alienated jurors who had expected precision, not theatrics.",
+      "answerChoices": [
+        { "distractor": "grandiose", "closeness": 3, "reasoning": "Close -- 'grandiose' means impressively large or ambitious, which fits elaborate theatrical language, but it emphasizes impressiveness rather than the specifically inflated, pretentious manner that alienates through excess." },
+        { "distractor": "overwrought", "closeness": 3, "reasoning": "Close -- 'overwrought' means excessively elaborate or emotional, which fits theatrical language, but it emphasizes emotional excess rather than the hollow pretension of 'bombastic'." },
+        { "distractor": "flamboyant", "closeness": 3, "reasoning": "Close -- 'flamboyant' means showy or theatrical, which fits the sentence's mention of theatrics, but it emphasizes stylistic display rather than the combination of inflated speech and emptiness." },
+        { "distractor": "histrionic", "closeness": 3, "reasoning": "Close -- 'histrionic' means overly dramatic or theatrical, which directly fits the sentence's reference to theatrics, but it emphasizes dramatic effect rather than the pretentious inflation that defines 'bombastic'." },
+        { "distractor": "pompous", "closeness": 2, "reasoning": "Incorrect -- 'pompous' means excessively dignified or self-important, which could describe the opening statement, but it emphasizes affected dignity rather than the theatrical emptiness mentioned in the sentence." },
+        { "distractor": "pretentious", "closeness": 2, "reasoning": "Incorrect -- 'pretentious' means claiming false importance, which could fit the alienating opening, but it does not specifically capture the theatrical quality that jurors rejected." },
+        { "distractor": "ostentatious", "closeness": 2, "reasoning": "Incorrect -- 'ostentatious' means showy display, which could describe the opening statement, but it emphasizes visual display rather than the quality of the speech or language." },
+        { "distractor": "rhetorical", "closeness": 2, "reasoning": "Incorrect -- 'rhetorical' simply means relating to persuasive language; it does not carry the negative connotations of inflated emptiness or theatricality." },
+        { "distractor": "measured", "closeness": 1, "reasoning": "Opposite -- 'measured' means careful and controlled, the opposite of theatrical speech that alienates jurors expecting precision." },
+        { "distractor": "understated", "closeness": 1, "reasoning": "Opposite -- 'understated' means restrained or subtle, the opposite of the theatrical excess that characterizes bombastic opening statements." },
+        { "distractor": "subdued", "closeness": 1, "reasoning": "Incorrect -- 'subdued' means quiet or suppressed, opposite to the theatrical and exaggerated tone the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "Critics dismissed the bombastic prose of the historical novel as more concerned with impressing readers than with historical accuracy.",
+      "answerChoices": [
+        { "distractor": "ornate", "closeness": 3, "reasoning": "Close -- 'ornate' means elaborately decorated with fancy language, which fits inflated prose, but it emphasizes elaborate embellishment rather than the hollow pretentiousness of 'bombastic'." },
+        { "distractor": "florid", "closeness": 3, "reasoning": "Close -- 'florid' means elaborately ornamental, which fits showy prose, but it emphasizes flowery elaboration rather than the empty inflation and lack of substance." },
+        { "distractor": "verbose", "closeness": 3, "reasoning": "Close -- 'verbose' means excessively wordy, which could fit over-elaborate prose, but it emphasizes quantity of words rather than the pretentious inflation without substance." },
+        { "distractor": "purple", "closeness": 3, "reasoning": "Close -- 'purple' (as in 'purple prose') means excessively ornate or flowery, which directly describes inflated writing style, but it is less specific about the pretentious intention to impress rather than inform." },
+        { "distractor": "grandiose", "closeness": 2, "reasoning": "Incorrect -- 'grandiose' means impressively large or ambitious, but it does not specifically convey the sense of deliberately inflated prose designed to impress." },
+        { "distractor": "overwritten", "closeness": 2, "reasoning": "Incorrect -- 'overwritten' means written with excess, which could describe the prose, but it lacks the sense of hollow pretension to impress readers." },
+        { "distractor": "hyperbolic", "closeness": 2, "reasoning": "Incorrect -- 'hyperbolic' means exaggerated, but it emphasizes distortion rather than the hollow pretentious inflation that characterizes bombastic language." },
+        { "distractor": "melodramatic", "closeness": 2, "reasoning": "Incorrect -- 'melodramatic' means overly emotional, which could describe the prose, but it does not fit the historical novel context or the sense of hollow pretension." },
+        { "distractor": "stark", "closeness": 1, "reasoning": "Opposite -- 'stark' means severely simple and plain, the opposite of ornate, pretentious prose." },
+        { "distractor": "austere", "closeness": 1, "reasoning": "Opposite -- 'austere' means severely simple or unadorned, opposed to the inflated, elaborate prose criticized by reviewers." },
+        { "distractor": "terse", "closeness": 1, "reasoning": "Incorrect -- 'terse' means brief and concise, the opposite of the elaborate, inflated language of bombastic prose." }
+      ]
+    },
+    {
+      "sentence": "The bombastic language in political speeches often disguises the lack of concrete policy details with grand promises.",
+      "answerChoices": [
+        { "distractor": "grandioquent", "closeness": 3, "reasoning": "Close -- 'grandiloquent' means using lofty or inflated language, which fits political speech, but it emphasizes elevated rhetoric rather than the specific emptiness disguising lack of substance." },
+        { "distractor": "magniloquent", "closeness": 3, "reasoning": "Close -- 'magniloquent' means speaking in a grand, impressive manner, which fits inflated political speech, but it emphasizes impressive delivery rather than hollow pretension." },
+        { "distractor": "grandstanding", "closeness": 3, "reasoning": "Close -- 'grandstanding' means engaging in showy, exaggerated behavior for effect, which fits political speech making grand promises, but it emphasizes performative behavior rather than the pretentious inflation of language." },
+        { "distractor": "rhetorical", "closeness": 3, "reasoning": "Close -- 'rhetorical' relates to persuasive language, which could describe political speech designed to move audiences, but it does not convey the negative sense of hollow inflation disguising lack of substance." },
+        { "distractor": "flowery", "closeness": 2, "reasoning": "Incorrect -- 'flowery' means elaborately ornamental, which could describe ornate political speech, but it emphasizes decorative language rather than the specifically empty pretension of bombast." },
+        { "distractor": "eloquent", "closeness": 2, "reasoning": "Incorrect -- 'eloquent' means fluent and persuasive, which could describe political speeches, but it emphasizes genuine persuasive power rather than hollow inflation." },
+        { "distractor": "expansive", "closeness": 2, "reasoning": "Incorrect -- 'expansive' means broad or elaborate, which could describe grand speech, but it lacks the negative connotation of pretentious emptiness." },
+        { "distractor": "effusive", "closeness": 2, "reasoning": "Incorrect -- 'effusive' means gushing or enthusiastic, which could describe political oratory, but it does not specifically convey the hollow inflation that disguises lack of policy." },
+        { "distractor": "measured", "closeness": 1, "reasoning": "Opposite -- 'measured' means careful and restrained, opposed to the inflated, grand language of political bombast." },
+        { "distractor": "laconic", "closeness": 1, "reasoning": "Opposite -- 'laconic' means brief and concise, the opposite of the elaborate, grandiose language that characterizes bombastic political speech." },
+        { "distractor": "candid", "closeness": 1, "reasoning": "Incorrect -- 'candid' means frank and honest, the opposite of the hollow, disguising language described in the sentence." }
+      ]
+    }
+  ]
+}

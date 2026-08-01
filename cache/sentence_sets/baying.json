@@ -1,0 +1,53 @@
+{
+  "word": "baying",
+  "sentenceSets": [
+    {
+      "sentence": "A pack of reporters was already baying for comment before the press release had even been issued.",
+      "answerChoices": [
+        { "distractor": "calling", "closeness": 3, "reasoning": "Both describe reporters making urgent sounds, but calling is neutral in tone, while baying suggests aggressive demanding." },
+        { "distractor": "clamoring", "closeness": 3, "reasoning": "Both describe urgent demanding noise, but clamoring emphasizes loud collective noise, while baying emphasizes the pack-like aggressive quality." },
+        { "distractor": "howling", "closeness": 3, "reasoning": "Both describe prolonged loud sounds, but howling is broader and can describe any prolonged sound, while baying suggests animalistic pack behavior." },
+        { "distractor": "demanding", "closeness": 3, "reasoning": "The reporters demand comment, but demanding describes the action, while baying describes the urgent collective vocalization." },
+        { "distractor": "shouting", "closeness": 2, "reasoning": "The reporters may shout, but shouting describes loud speech, while baying describes prolonged animal-like vocalization." },
+        { "distractor": "yelling", "closeness": 2, "reasoning": "The reporters may yell, but yelling is loud speech, while baying describes prolonged animal-like sound." },
+        { "distractor": "pursuing", "closeness": 2, "reasoning": "The reporters pursue a comment, but pursuing refers to chasing, while baying refers to vocalizing." },
+        { "distractor": "hounding", "closeness": 2, "reasoning": "The reporters hound for comment, but hounding emphasizes persistent pursuit, while baying emphasizes the vocalization." },
+        { "distractor": "praising", "closeness": 1, "reasoning": "The reporters demand comment aggressively; praising describes speaking favorably." },
+        { "distractor": "applauding", "closeness": 1, "reasoning": "The reporters bay for comment; applauding means showing approval." },
+        { "distractor": "remaining silent", "closeness": 1, "reasoning": "The reporters are baying noisily; remaining silent means not making sound." }
+      ]
+    },
+    {
+      "sentence": "The dogs were baying at the moon, their prolonged howls echoing across the quiet countryside.",
+      "answerChoices": [
+        { "distractor": "howling", "closeness": 3, "reasoning": "Both describe prolonged animal sounds, but howling is broader and can describe any prolonged sound, while baying emphasizes bark-like prolonged tones." },
+        { "distractor": "barking", "closeness": 3, "reasoning": "Both are dog vocalizations, but barking emphasizes sharp abrupt sounds, while baying emphasizes prolonged tones." },
+        { "distractor": "yelping", "closeness": 3, "reasoning": "Both are dog sounds, but yelping emphasizes sharp cries, while baying emphasizes prolonged tones." },
+        { "distractor": "wailing", "closeness": 3, "reasoning": "Both describe prolonged sounds, but wailing is broader, while baying specifically describes bark-like prolonged tones." },
+        { "distractor": "crying", "closeness": 2, "reasoning": "The dogs make sounds, but crying emphasizes emotional vocalization, not specifically animal sounds." },
+        { "distractor": "moaning", "closeness": 2, "reasoning": "The dogs make prolonged sounds, but moaning emphasizes low sounds of discomfort." },
+        { "distractor": "whining", "closeness": 2, "reasoning": "The dogs vocalize, but whining emphasizes high-pitched sounds, while baying emphasizes prolonged bark-like tones." },
+        { "distractor": "growling", "closeness": 2, "reasoning": "The dogs make sounds, but growling emphasizes low threatening sounds, not prolonged barking." },
+        { "distractor": "playing", "closeness": 1, "reasoning": "The dogs bay at the moon; playing means engaging in games or recreation." },
+        { "distractor": "sleeping", "closeness": 1, "reasoning": "The dogs are baying noisily; sleeping means resting quietly." },
+        { "distractor": "sniffing", "closeness": 1, "reasoning": "The dogs are baying; sniffing describes exploring by smell." }
+      ]
+    },
+    {
+      "sentence": "The crowd was baying for blood after the controversial decision, and the judge feared for his safety.",
+      "answerChoices": [
+        { "distractor": "calling", "closeness": 3, "reasoning": "Both describe vocalization expressing desire, but calling is neutral, while baying suggests aggressive pack-like demanding." },
+        { "distractor": "screaming", "closeness": 3, "reasoning": "Both describe loud vocalization of strong emotion, but screaming emphasizes the intensity of sound, while baying emphasizes pack-like aggression." },
+        { "distractor": "chanting", "closeness": 3, "reasoning": "Both describe crowd vocalization, but chanting emphasizes rhythmic organized sounds, while baying emphasizes aggressive uncontrolled vocalization." },
+        { "distractor": "protesting", "closeness": 3, "reasoning": "The crowd expresses disapproval, but protesting is a formal action, while baying describes the vocalization." },
+        { "distractor": "rioting", "closeness": 2, "reasoning": "The crowd becomes violent, but rioting describes violent action, while baying describes the aggressive vocalization." },
+        { "distractor": "raging", "closeness": 2, "reasoning": "The crowd is angry, but raging describes the emotional state, while baying describes vocalization." },
+        { "distractor": "threatening", "closeness": 2, "reasoning": "The crowd threatens, but threatening describes the act of intimidation, while baying describes vocalization." },
+        { "distractor": "jeering", "closeness": 2, "reasoning": "The crowd expresses disapproval, but jeering emphasizes mocking, while baying emphasizes aggressive pack-like sound." },
+        { "distractor": "praising", "closeness": 1, "reasoning": "The crowd bays for blood in anger; praising means expressing approval." },
+        { "distractor": "supporting", "closeness": 1, "reasoning": "The crowd bays against the judge; supporting means backing someone up." },
+        { "distractor": "defending", "closeness": 1, "reasoning": "The crowd bays for the judge's blood; defending means protecting." }
+      ]
+    }
+  ]
+}

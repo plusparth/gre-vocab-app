@@ -1,0 +1,53 @@
+{
+  "word": "table",
+  "sentenceSets": [
+    {
+      "sentence": "The committee voted to table the controversial motion, deciding they lacked sufficient information to act on it at this time.",
+      "answerChoices": [
+        { "distractor": "passed", "closeness": 3, "reasoning": "Passed means approved and enacted; the committee voted to table, which means postpone action, not pass the motion." },
+        { "distractor": "rejected", "closeness": 3, "reasoning": "Rejected means voted against decisively; tabling postpones the issue indefinitely, which is not the same as rejecting it outright." },
+        { "distractor": "amended", "closeness": 3, "reasoning": "Amended means modified the terms; tabling postpones the entire motion rather than revising it for reconsideration." },
+        { "distractor": "expedited", "closeness": 3, "reasoning": "Expedited means accelerated action; tabling means postponing action, the opposite of speeding it up." },
+        { "distractor": "debated", "closeness": 2, "reasoning": "Debated means discussed in detail; tabling stops discussion and sets the motion aside rather than engaging with it." },
+        { "distractor": "investigated", "closeness": 2, "reasoning": "Investigated means examined thoroughly; tabling postpones action rather than moving forward with investigation." },
+        { "distractor": "requested", "closeness": 2, "reasoning": "Requested means asked for something; tabling is a procedural action to postpone, not a request for information." },
+        { "distractor": "considered", "closeness": 2, "reasoning": "Considered means thought about; tabling prevents immediate consideration by setting the motion aside." },
+        { "distractor": "implemented", "closeness": 1, "reasoning": "Implemented means put into effect; tabling postpones the motion rather than putting any decision into effect." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Ignored means paid no attention; tabling formally postpones the motion, indicating serious consideration for future action." },
+        { "distractor": "finalized", "closeness": 1, "reasoning": "Finalized means concluded definitively; tabling leaves the matter open for later reconsideration, not final." }
+      ]
+    },
+    {
+      "sentence": "Rather than commit to a position on the divisive issue, the politician opted to table the discussion until after the election.",
+      "answerChoices": [
+        { "distractor": "advance", "closeness": 3, "reasoning": "Advance means move forward; tabling postpones the discussion rather than promoting it forward." },
+        { "distractor": "elevate", "closeness": 3, "reasoning": "Elevate means raise in priority; tabling lowers priority by pushing discussion into the future." },
+        { "distractor": "clarify", "closeness": 3, "reasoning": "Clarify means make clear; tabling avoids clarifying the position by postponing discussion." },
+        { "distractor": "expedite", "closeness": 3, "reasoning": "Expedite means speed up; tabling delays discussion rather than accelerating it." },
+        { "distractor": "revisit", "closeness": 2, "reasoning": "Revisit means return to later but with intent to engage; tabling may or may not lead to future engagement." },
+        { "distractor": "suspend", "closeness": 2, "reasoning": "Suspend means halt temporarily but is less specific about postponement; tabling is a formal postponement for a specific reason." },
+        { "distractor": "conceal", "closeness": 2, "reasoning": "Conceal means hide; tabling is a formal procedural action, not secretive concealment." },
+        { "distractor": "defer", "closeness": 2, "reasoning": "Defer means give way or postpone, which is close but lacks the formal procedural nature of tabling." },
+        { "distractor": "announce", "closeness": 1, "reasoning": "Announce means make public; tabling formally postpones discussion rather than making a public statement." },
+        { "distractor": "embrace", "closeness": 1, "reasoning": "Embrace means accept or adopt; tabling postpones the issue rather than accepting it." },
+        { "distractor": "resolve", "closeness": 1, "reasoning": "Resolve means settle or decide; tabling postpones resolution rather than settling the matter." }
+      ]
+    },
+    {
+      "sentence": "When the board tabled the proposal for further review, critics viewed it as a strategic delay to kill the initiative without appearing to oppose it directly.",
+      "answerChoices": [
+        { "distractor": "approved", "closeness": 3, "reasoning": "Approved means accepted; tabling postpones the proposal and suspends approval, opposite of approving it." },
+        { "distractor": "implemented", "closeness": 3, "reasoning": "Implemented means put into effect; tabling postpones the proposal rather than implementing it." },
+        { "distractor": "prioritized", "closeness": 3, "reasoning": "Prioritized means ranked as important; tabling removes the proposal from immediate consideration, opposite of prioritizing." },
+        { "distractor": "accelerated", "closeness": 3, "reasoning": "Accelerated means sped up; tabling delays the proposal, which critics viewed as strategic postponement." },
+        { "distractor": "evaluated", "closeness": 2, "reasoning": "Evaluated means assessed value but does not describe the postponement action; tabling is postponement pending further review." },
+        { "distractor": "questioned", "closeness": 2, "reasoning": "Questioned means asked about but does not describe the postponement action taken by the board." },
+        { "distractor": "documented", "closeness": 2, "reasoning": "Documented means recorded but does not describe the board's action; tabling is postponement, not recording." },
+        { "distractor": "monitored", "closeness": 2, "reasoning": "Monitored means watched over but does not describe the postponement action; tabling removes the proposal from active consideration." },
+        { "distractor": "promoted", "closeness": 1, "reasoning": "Promoted means advanced or publicized; tabling postpones the proposal, opposite of promoting it." },
+        { "distractor": "championed", "closeness": 1, "reasoning": "Championed means supported vigorously; tabling postpones the proposal, which critics saw as avoiding direct opposition." },
+        { "distractor": "finalized", "closeness": 1, "reasoning": "Finalized means concluded; tabling postpones the proposal for further review, leaving it open, not final." }
+      ]
+    }
+  ]
+}

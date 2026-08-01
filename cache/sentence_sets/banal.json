@@ -1,0 +1,53 @@
+{
+  "word": "banal",
+  "sentenceSets": [
+    {
+      "sentence": "The speech was banal, full of the same platitudes the audience had heard at every such event.",
+      "answerChoices": [
+        { "distractor": "tedious", "closeness": 3, "reasoning": "Both describe something unpleasant to experience, but tedious refers to something long and repetitive that tires the listener, while banal specifically refers to ideas themselves being unoriginal and tired." },
+        { "distractor": "hackneyed", "closeness": 3, "reasoning": "Both mean overused and stale, but hackneyed specifically suggests phrases that have been worn smooth by overuse, while banal is broader and encompasses any lack of originality." },
+        { "distractor": "uninspired", "closeness": 3, "reasoning": "Both describe lack of creativity, but uninspired means lacking imagination or spark, while banal specifically means the idea is trite and overused." },
+        { "distractor": "pedestrian", "closeness": 3, "reasoning": "Both suggest ordinariness and lack of distinction, but pedestrian emphasizes commonness or dullness, while banal emphasizes the staleness of overuse." },
+        { "distractor": "perfunctory", "closeness": 2, "reasoning": "Both describe something lacking genuine engagement, but perfunctory means done merely as a duty without care, while banal describes the content as unoriginal." },
+        { "distractor": "dull", "closeness": 2, "reasoning": "Both suggest lack of interest, but dull describes the effect on the audience, while banal specifically describes the nature of the ideas as lacking freshness." },
+        { "distractor": "verbose", "closeness": 2, "reasoning": "The sentence mentions platitudes, but verbose means using too many words, not that the words express unoriginal ideas." },
+        { "distractor": "generic", "closeness": 2, "reasoning": "Both suggest lacking distinction, but generic means lacking specific characteristics, while banal means the ideas are stale from overuse." },
+        { "distractor": "provocative", "closeness": 1, "reasoning": "The sentence describes platitudes the audience expected; provocative describes ideas that challenge or spark controversy." },
+        { "distractor": "profound", "closeness": 1, "reasoning": "Banal describes ideas lacking originality; profound describes ideas of great depth and significance." },
+        { "distractor": "eloquent", "closeness": 1, "reasoning": "While the speech may be well-delivered, banal describes lack of originality in content, not the quality of delivery." }
+      ]
+    },
+    {
+      "sentence": "The critic dismissed the novel's romantic storyline as banal, noting that the author had simply rearranged the elements of countless love stories that came before it.",
+      "answerChoices": [
+        { "distractor": "derivative", "closeness": 3, "reasoning": "Both describe something unoriginal, but derivative emphasizes that the work borrows heavily from other sources, while banal emphasizes the idea's tired and overused nature." },
+        { "distractor": "stale", "closeness": 3, "reasoning": "Both describe ideas worn out by repeated use, but stale emphasizes loss of freshness, while banal encompasses any lack of originality." },
+        { "distractor": "clichéd", "closeness": 3, "reasoning": "Both describe overused ideas, but clichéd refers specifically to phrases or themes that have become automatic expressions, while banal is broader." },
+        { "distractor": "imitative", "closeness": 3, "reasoning": "Both describe borrowing from others, but imitative emphasizes the act of copying, while banal describes the resulting idea as trite." },
+        { "distractor": "predictable", "closeness": 2, "reasoning": "Both describe something not surprising, but predictable means the audience can foresee what happens, while banal means the ideas themselves are unoriginal." },
+        { "distractor": "formulaic", "closeness": 2, "reasoning": "Both describe following a pattern, but formulaic means following a fixed structure or method, while banal means the idea is worn out." },
+        { "distractor": "simplistic", "closeness": 2, "reasoning": "Both might describe deficiency in a work, but simplistic means overly simple or lacking nuance, not necessarily unoriginal." },
+        { "distractor": "conventional", "closeness": 2, "reasoning": "Both describe following established patterns, but conventional means following custom, while banal means the ideas are tired." },
+        { "distractor": "innovative", "closeness": 1, "reasoning": "The critic finds the story rearranges existing elements; innovative means introducing new ideas or methods." },
+        { "distractor": "nuanced", "closeness": 1, "reasoning": "Banal emphasizes lack of originality; nuanced describes subtle and detailed treatment of a subject." },
+        { "distractor": "imaginative", "closeness": 1, "reasoning": "Banal describes ideas lacking originality; imaginative describes ideas showing creative thinking." }
+      ]
+    },
+    {
+      "sentence": "Her banal observations about the weather seemed designed only to fill awkward silences rather than to contribute anything of value to the conversation.",
+      "answerChoices": [
+        { "distractor": "superficial", "closeness": 3, "reasoning": "Both describe lack of depth, but superficial means lacking thorough treatment or going only skin-deep, while banal means the observation is trite and overused." },
+        { "distractor": "mundane", "closeness": 3, "reasoning": "Both describe ordinary matters, but mundane refers to everyday or routine subjects, while banal describes the idea about those subjects as unoriginal." },
+        { "distractor": "inconsequential", "closeness": 3, "reasoning": "Both describe something lacking value, but inconsequential means lacking importance or significance, while banal describes lack of originality." },
+        { "distractor": "insipid", "closeness": 3, "reasoning": "Both describe something dull and unpleasant, but insipid means lacking flavor or character, while banal specifically means worn out by overuse." },
+        { "distractor": "irrelevant", "closeness": 2, "reasoning": "Both suggest the observation fails to contribute value, but irrelevant means not pertinent to the situation, while banal means the observation is trite." },
+        { "distractor": "inane", "closeness": 2, "reasoning": "Both describe foolish or senseless remarks, but inane emphasizes stupidity, while banal emphasizes lack of originality." },
+        { "distractor": "tangential", "closeness": 2, "reasoning": "Both describe remarks that don't add value, but tangential means diverging from the main subject, while banal means the observation is stale." },
+        { "distractor": "awkward", "closeness": 2, "reasoning": "The context mentions filling silences, but awkward describes discomfort or clumsiness, not lack of originality." },
+        { "distractor": "witty", "closeness": 1, "reasoning": "The observation is described as unoriginal filler; witty describes clever and amusing remarks." },
+        { "distractor": "astute", "closeness": 1, "reasoning": "Banal describes lack of originality; astute describes keen and perceptive judgment." },
+        { "distractor": "articulate", "closeness": 1, "reasoning": "The speaker fills silences with trite observations; articulate describes clear and expressive speech." }
+      ]
+    }
+  ]
+}

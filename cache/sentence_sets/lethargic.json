@@ -1,0 +1,53 @@
+{
+  "word": "lethargic",
+  "sentenceSets": [
+    {
+      "sentence": "He seemed lethargic in the early part of the meeting, but his engagement sharpened when the key question arrived.",
+      "answerChoices": [
+        { "distractor": "distracted", "closeness": 3, "reasoning": "Close -- 'distracted' means not focused on what's happening, which could describe early-meeting behavior, but 'lethargic' emphasizes low energy and sluggishness, not divided attention." },
+        { "distractor": "apathetic", "closeness": 3, "reasoning": "Close -- 'apathetic' means indifferent or uncaring, which fits the inattention, but it emphasizes lack of concern rather than the physical or mental sluggishness that characterizes 'lethargic'." },
+        { "distractor": "disengaged", "closeness": 3, "reasoning": "Close -- 'disengaged' means not involved or participating, which describes the early behavior, but it refers to emotional withdrawal rather than lack of energy or mental sluggishness." },
+        { "distractor": "listless", "closeness": 3, "reasoning": "Close -- 'listless' means lacking energy or interest, which is very similar to 'lethargic', but it emphasizes a lack of liveliness rather than the drugged or sluggish sensation." },
+        { "distractor": "sluggish", "closeness": 2, "reasoning": "Incorrect -- 'sluggish' means slow to respond or act, which overlaps with 'lethargic', but the sentence shows him responding sharply once engaged, suggesting the issue was engagement level, not response speed." },
+        { "distractor": "bored", "closeness": 2, "reasoning": "Incorrect -- 'bored' means uninterested, which may accompany lethargy, but it does not capture the absence of energy and vitality." },
+        { "distractor": "tired", "closeness": 2, "reasoning": "Incorrect -- 'tired' means fatigued or weary, which could contribute to lethargy, but it is more specifically about physical exhaustion than the sluggishness of mind and body." },
+        { "distractor": "reserved", "closeness": 2, "reasoning": "Incorrect -- 'reserved' means cautious or holding back; while he may have been reserved initially, the sentence emphasizes low energy rather than restraint." },
+        { "distractor": "energetic", "closeness": 1, "reasoning": "Opposite -- 'energetic' means full of energy and vitality, the opposite of the sluggish state described in the early part." },
+        { "distractor": "vigorous", "closeness": 1, "reasoning": "Opposite -- 'vigorous' means strong and active, contrary to the lack of energy shown initially." },
+        { "distractor": "attentive", "closeness": 1, "reasoning": "Incorrect -- 'attentive' means focused and careful; while it describes his state after the key question, it contrasts with but does not mean the opposite of lethargy." }
+      ]
+    },
+    {
+      "sentence": "The patient's lethargic state had persisted for weeks despite the physician's attempts at various treatments.",
+      "answerChoices": [
+        { "distractor": "comatose", "closeness": 3, "reasoning": "Close -- 'comatose' means unconscious or unresponsive, which is an extreme form of lack of consciousness, but the sentence implies the patient is conscious; 'lethargic' allows for some awareness." },
+        { "distractor": "sedated", "closeness": 3, "reasoning": "Close -- 'sedated' means calmed or put into a sleep-like state by drugs, which could produce lethargy, but the sentence suggests a persisting condition despite treatment, not an induced state." },
+        { "distractor": "weak", "closeness": 3, "reasoning": "Close -- 'weak' means lacking strength, which can accompany lethargy, but it refers specifically to physical frailty, not the mental sluggishness and lack of energy." },
+        { "distractor": "debilitated", "closeness": 3, "reasoning": "Close -- 'debilitated' means weakened, which could result from lethargy, but it emphasizes loss of strength rather than the sluggish, low-energy state itself." },
+        { "distractor": "unconscious", "closeness": 2, "reasoning": "Incorrect -- 'unconscious' means not aware or awake; while extreme lethargy approaches this, a lethargic patient is typically still conscious." },
+        { "distractor": "disabled", "closeness": 2, "reasoning": "Incorrect -- 'disabled' means unable to function normally; while lethargy can disable someone, it refers to impairment of capacity rather than to the state of sluggish low energy." },
+        { "distractor": "paralyzed", "closeness": 2, "reasoning": "Incorrect -- 'paralyzed' means unable to move; while it might accompany extreme lethargy, it is a distinct physical condition." },
+        { "distractor": "bedridden", "closeness": 2, "reasoning": "Incorrect -- 'bedridden' means confined to bed; while a lethargic patient might be bedridden, the word refers to confinement rather than the state of lethargy." },
+        { "distractor": "vibrant", "closeness": 1, "reasoning": "Opposite -- 'vibrant' means full of energy and life, the opposite of the sluggish state described." },
+        { "distractor": "energetic", "closeness": 1, "reasoning": "Opposite -- 'energetic' means full of vitality, contrary to lethargy." },
+        { "distractor": "alert", "closeness": 1, "reasoning": "Opposite -- 'alert' means mentally sharp and responsive, the opposite of the sluggishness that characterizes lethargy." }
+      ]
+    },
+    {
+      "sentence": "The economy's lethargic growth in the aftermath of the crisis forced policymakers to extend stimulus measures longer than originally planned.",
+      "answerChoices": [
+        { "distractor": "stagnant", "closeness": 3, "reasoning": "Close -- 'stagnant' means no growth or activity, which describes economic conditions, but 'lethargic' implies slow movement, whereas 'stagnant' suggests complete cessation." },
+        { "distractor": "sluggish", "closeness": 3, "reasoning": "Close -- 'sluggish' means slow-moving, which fits economic growth, but it emphasizes slowness without the inherent lack of energy that 'lethargic' conveys." },
+        { "distractor": "weak", "closeness": 3, "reasoning": "Close -- 'weak' means lacking strength or force, which describes poor economic growth, but it is more general than 'lethargic', which implies an energy-draining sluggishness." },
+        { "distractor": "meager", "closeness": 3, "reasoning": "Close -- 'meager' means scanty or insufficient, which describes limited growth, but it emphasizes inadequate quantity rather than sluggish, low-energy movement." },
+        { "distractor": "declining", "closeness": 2, "reasoning": "Incorrect -- 'declining' means decreasing; the sentence specifies growth, not contraction, ruling out this distractor." },
+        { "distractor": "flat", "closeness": 2, "reasoning": "Incorrect -- 'flat' means no change or movement; while close to stagnant, it does not convey the sense of movement without energy." },
+        { "distractor": "depressed", "closeness": 2, "reasoning": "Incorrect -- 'depressed' means below normal levels; while it describes economic conditions, it does not specifically mean slow-moving or low-energy." },
+        { "distractor": "fragile", "closeness": 2, "reasoning": "Incorrect -- 'fragile' means easily broken or weak; while growth might be fragile, the word does not convey sluggishness." },
+        { "distractor": "robust", "closeness": 1, "reasoning": "Opposite -- 'robust' means strong and vigorous, the opposite of lethargic growth." },
+        { "distractor": "vigorous", "closeness": 1, "reasoning": "Opposite -- 'vigorous' means forceful and energetic, contrary to the sluggish, low-energy growth described." },
+        { "distractor": "brisk", "closeness": 1, "reasoning": "Opposite -- 'brisk' means quick and active, the opposite of the slow, energy-draining growth." }
+      ]
+    }
+  ]
+}

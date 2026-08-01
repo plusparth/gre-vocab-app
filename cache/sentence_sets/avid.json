@@ -1,0 +1,53 @@
+{
+  "word": "avid",
+  "sentenceSets": [
+    {
+      "sentence": "An avid reader since childhood, she consumed three or four books each week without effort.",
+      "answerChoices": [
+        { "distractor": "prolific", "closeness": 3, "reasoning": "She is prolific in reading output, but 'prolific' emphasizes quantity produced, whereas 'avid' emphasizes eager enthusiasm." },
+        { "distractor": "voracious", "closeness": 3, "reasoning": "She has voracious appetite for reading, closely related to 'avid,' but 'voracious' emphasizes insatiable hunger, not enthusiastic pursuit." },
+        { "distractor": "enthusiastic", "closeness": 3, "reasoning": "She is enthusiastic about reading, but 'enthusiastic' is broader excitement, whereas 'avid' emphasizes vigorous, eager pursuit." },
+        { "distractor": "devoted", "closeness": 3, "reasoning": "She is devoted to reading, but 'devoted' emphasizes loyalty and commitment, not the eager enthusiasm of avid." },
+        { "distractor": "habitual", "closeness": 2, "reasoning": "She reads habitually from childhood, but 'habitual' describes established routine, not the eager enthusiasm." },
+        { "distractor": "passionate", "closeness": 2, "reasoning": "She is passionate about reading, but 'passionate' emphasizes emotional intensity, not the vigorous eager pursuit." },
+        { "distractor": "dedicated", "closeness": 2, "reasoning": "She is dedicated to reading, but 'dedicated' emphasizes commitment, not the vigorous enthusiasm of avid." },
+        { "distractor": "keen", "closeness": 2, "reasoning": "She is keen about reading, but 'keen' emphasizes sharpness of interest, not the vigorous pursuit." },
+        { "distractor": "indifferent", "closeness": 1, "reasoning": "The opposite attitude; an avid reader is enthusiastically engaged, not indifferent." },
+        { "distractor": "reluctant", "closeness": 1, "reasoning": "The opposite attitude; avid enthusiasm contrasts with reluctant resistance." },
+        { "distractor": "disinterested", "closeness": 1, "reasoning": "The opposite state; avid pursuit shows strong interest, not disinterest." }
+      ]
+    },
+    {
+      "sentence": "The avid collector spent decades assembling a museum-quality collection of rare coins and stamps.",
+      "answerChoices": [
+        { "distractor": "passionate", "closeness": 3, "reasoning": "The collector is passionate about collecting, but 'passionate' emphasizes emotional intensity, not the vigorous eager pursuit." },
+        { "distractor": "devoted", "closeness": 3, "reasoning": "The collector is devoted to collecting, but 'devoted' emphasizes loyalty, not the eager enthusiasm of avid." },
+        { "distractor": "dedicated", "closeness": 3, "reasoning": "The collector is dedicated through decades of work, but 'dedicated' emphasizes commitment, not the vigorous enthusiasm." },
+        { "distractor": "keen", "closeness": 3, "reasoning": "The collector is keen about rare items, but 'keen' emphasizes sharpness of interest, not vigorous pursuit." },
+        { "distractor": "obsessed", "closeness": 2, "reasoning": "The collector might be obsessed with collecting, but 'obsessed' emphasizes compulsive focus, not enthusiastic avidity." },
+        { "distractor": "determined", "closeness": 2, "reasoning": "The collector is determined to build the collection, but 'determined' emphasizes resolve, not eager enthusiasm." },
+        { "distractor": "persistent", "closeness": 2, "reasoning": "The collector is persistent over decades, but 'persistent' emphasizes continuance, not the eager enthusiasm." },
+        { "distractor": "meticulous", "closeness": 2, "reasoning": "The collector is meticulous in selection, but this describes care, not the eager enthusiasm of avid." },
+        { "distractor": "casual", "closeness": 1, "reasoning": "The opposite attitude; spending decades building a museum-quality collection shows avid devotion, not casual interest." },
+        { "distractor": "indifferent", "closeness": 1, "reasoning": "The opposite attitude; an avid collector shows strong enthusiasm, not indifference." },
+        { "distractor": "reluctant", "closeness": 1, "reasoning": "The opposite approach; avid devotion over decades contrasts with reluctant, half-hearted effort." }
+      ]
+    },
+    {
+      "sentence": "The avid sports fan attended every home game, memorized statistics, and followed injury reports obsessively.",
+      "answerChoices": [
+        { "distractor": "enthusiastic", "closeness": 3, "reasoning": "The fan is enthusiastic about sports, but 'enthusiastic' is broader excitement, whereas 'avid' emphasizes vigorous, eager, continuous pursuit." },
+        { "distractor": "devoted", "closeness": 3, "reasoning": "The fan is devoted to the team, but 'devoted' emphasizes loyalty, not the vigorous eager enthusiasm." },
+        { "distractor": "passionate", "closeness": 3, "reasoning": "The fan is passionate about sports, but this emphasizes emotional intensity, not the vigorous, eager pursuit." },
+        { "distractor": "dedicated", "closeness": 3, "reasoning": "The fan is dedicated through attendance, but this emphasizes commitment, not the vigorous enthusiasm." },
+        { "distractor": "fanatical", "closeness": 2, "reasoning": "The fan borders on fanatical intensity, but 'fanatical' emphasizes obsessive extremism, not avid enthusiasm." },
+        { "distractor": "obsessed", "closeness": 2, "reasoning": "The fan follows statistics obsessively, but this emphasizes compulsive focus, not the vigorous enthusiasm of avid." },
+        { "distractor": "intense", "closeness": 2, "reasoning": "The fan is intense in devotion, but 'intense' emphasizes degree, not the vigorous, eager nature of avidity." },
+        { "distractor": "keen", "closeness": 2, "reasoning": "The fan is keen about sports, but this emphasizes sharpness of interest, not vigorous pursuit." },
+        { "distractor": "casual", "closeness": 1, "reasoning": "The opposite attitude; attending every game and following obsessively shows avid devotion, not casual interest." },
+        { "distractor": "indifferent", "closeness": 1, "reasoning": "The opposite attitude; an avid fan shows strong enthusiasm, not indifference." },
+        { "distractor": "disinterested", "closeness": 1, "reasoning": "The opposite state; avid pursuit shows strong interest and engagement, not disinterest." }
+      ]
+    }
+  ]
+}

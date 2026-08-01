@@ -1,0 +1,53 @@
+{
+  "word": "bolster",
+  "sentenceSets": [
+    {
+      "sentence": "The new data bolstered the case for the policy, giving wavering legislators cover to vote in favor.",
+      "answerChoices": [
+        { "distractor": "fortified", "closeness": 3, "reasoning": "Close -- 'fortified' means to strengthen or reinforce, which fits the idea of making the case stronger, but it emphasizes defensive strengthening rather than the supportive evidence that 'bolster' conveys." },
+        { "distractor": "validated", "closeness": 3, "reasoning": "Close -- 'validated' means to confirm or give credibility, which fits new data supporting a position, but it emphasizes verification rather than the active strengthening implied by 'bolster'." },
+        { "distractor": "consolidated", "closeness": 3, "reasoning": "Close -- 'consolidated' means to combine or unify, which could apply to strengthening support, but it emphasizes bringing things together rather than adding strength through new evidence." },
+        { "distractor": "substantiated", "closeness": 3, "reasoning": "Close -- 'substantiated' means to provide evidence for, which fits new data supporting a case, but it focuses on proving truth rather than actively strengthening an argument for political action." },
+        { "distractor": "endorsed", "closeness": 2, "reasoning": "Incorrect -- 'endorsed' means to publicly support or approve, but it refers to backing from people rather than the evidence-based strengthening implied by new data." },
+        { "distractor": "affirmed", "closeness": 2, "reasoning": "Incorrect -- 'affirmed' means to assert or confirm as true, which could describe accepting data, but it does not convey the sense of providing active support or strength." },
+        { "distractor": "corroborated", "closeness": 2, "reasoning": "Incorrect -- 'corroborated' means to confirm or support with evidence, which is similar to 'bolster' but emphasizes mutual verification rather than providing motivating support for legislative action." },
+        { "distractor": "reinforced", "closeness": 2, "reasoning": "Incorrect -- while 'reinforced' captures the sense of strengthening, it emphasizes structural or material support rather than the evidentiary backing implied by new data." },
+        { "distractor": "undermined", "closeness": 1, "reasoning": "Opposite -- 'undermined' means to weaken or erode; the opposite of what new supportive data does." },
+        { "distractor": "contradicted", "closeness": 1, "reasoning": "Opposite -- 'contradicted' means to assert the opposite, which is contrary to the data providing support for the policy." },
+        { "distractor": "obstructed", "closeness": 1, "reasoning": "Incorrect -- 'obstructed' means to block or impede; the opposite of data giving legislators cover to vote in favor." }
+      ]
+    },
+    {
+      "sentence": "The therapist sought to bolster her client's confidence by highlighting past successes and incremental progress.",
+      "answerChoices": [
+        { "distractor": "buoy", "closeness": 3, "reasoning": "Close -- 'buoy' means to keep afloat or sustain hopes, which fits lifting someone's spirits, but it emphasizes preventing collapse rather than actively building up confidence through evidence of achievement." },
+        { "distractor": "enliven", "closeness": 3, "reasoning": "Close -- 'enliven' means to make lively or animated, which could describe lifting confidence, but it emphasizes adding vitality rather than providing substantive support through documented progress." },
+        { "distractor": "embolden", "closeness": 3, "reasoning": "Close -- 'embolden' means to make courageous or bold, which fits increasing confidence, but it emphasizes psychological courage rather than the supportive building-up action of 'bolster'." },
+        { "distractor": "fortify", "closeness": 3, "reasoning": "Close -- 'fortify' means to strengthen or make more resilient, which fits the therapeutic goal, but it emphasizes making strong against challenges rather than building confidence through positive evidence." },
+        { "distractor": "motivate", "closeness": 2, "reasoning": "Incorrect -- 'motivate' means to inspire action, which is similar in effect but does not convey the sense of providing supporting evidence or foundation." },
+        { "distractor": "reassure", "closeness": 2, "reasoning": "Incorrect -- 'reassure' means to restore confidence through comfort or calm, which is related but lacks the active building-up quality of 'bolster'." },
+        { "distractor": "encourage", "closeness": 2, "reasoning": "Incorrect -- 'encourage' means to urge or give confidence, which is broader than the specific idea of using concrete successes to build up confidence." },
+        { "distractor": "inspire", "closeness": 2, "reasoning": "Incorrect -- 'inspire' means to fill with motivation or creativity, which does not carry the sense of using factual evidence to strengthen confidence." },
+        { "distractor": "demoralize", "closeness": 1, "reasoning": "Opposite -- 'demoralize' means to undermine morale or confidence; the opposite of what the therapist is trying to accomplish." },
+        { "distractor": "discourage", "closeness": 1, "reasoning": "Opposite -- 'discourage' means to dishearten; the opposite of building confidence through positive evidence of progress." },
+        { "distractor": "deflate", "closeness": 1, "reasoning": "Incorrect -- 'deflate' means to reduce or diminish, the opposite of bolstering confidence." }
+      ]
+    },
+    {
+      "sentence": "The additional research findings bolstered the argument that climate change required immediate policy intervention.",
+      "answerChoices": [
+        { "distractor": "undergirded", "closeness": 3, "reasoning": "Close -- 'undergirded' means to provide a base or foundation, which fits supporting an argument, but it emphasizes foundational support rather than the active strengthening that 'bolster' implies." },
+        { "distractor": "buttressed", "closeness": 3, "reasoning": "Close -- 'buttressed' means to provide structural support, which fits making an argument stronger, but it emphasizes architectural reinforcement rather than the evidential backing of research findings." },
+        { "distractor": "propped", "closeness": 3, "reasoning": "Close -- 'propped' means to support or hold up, which fits the idea of new findings supporting an argument, but it can suggest temporary or artificial support rather than substantive strengthening." },
+        { "distractor": "upheld", "closeness": 3, "reasoning": "Close -- 'upheld' means to support or confirm, which fits research backing an argument, but it emphasizes validation after the fact rather than actively strengthening the case with new evidence." },
+        { "distractor": "solidified", "closeness": 2, "reasoning": "Incorrect -- 'solidified' means to make solid or firm, which could describe making an argument stronger, but it emphasizes achieving certainty rather than actively supporting with new findings." },
+        { "distractor": "vindicated", "closeness": 2, "reasoning": "Incorrect -- 'vindicated' means to justify or prove right, which could describe what research findings do, but it emphasizes after-the-fact proof rather than active support." },
+        { "distractor": "sanctioned", "closeness": 2, "reasoning": "Incorrect -- 'sanctioned' means to give official approval, which does not fit the context of research findings supporting a climate argument." },
+        { "distractor": "confirmed", "closeness": 2, "reasoning": "Incorrect -- 'confirmed' means to verify or establish as true, which is related but does not capture the active sense of providing strength or support to an argument." },
+        { "distractor": "weakened", "closeness": 1, "reasoning": "Opposite -- 'weakened' means to reduce in strength; the opposite of what additional research findings do for an argument." },
+        { "distractor": "disputed", "closeness": 1, "reasoning": "Opposite -- 'disputed' means to challenge or question; the opposite of research supporting an argument for action." },
+        { "distractor": "refuted", "closeness": 1, "reasoning": "Incorrect -- 'refuted' means to prove wrong, the opposite of findings that support the need for policy intervention." }
+      ]
+    }
+  ]
+}

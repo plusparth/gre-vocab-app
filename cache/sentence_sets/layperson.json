@@ -1,0 +1,53 @@
+{
+  "word": "layperson",
+  "sentenceSets": [
+    {
+      "sentence": "A skilled communicator, she could explain the technical findings to a layperson without losing any of the precision that made them meaningful.",
+      "answerChoices": [
+        { "distractor": "novice", "closeness": 3, "reasoning": "Close -- 'novice' means a beginner or someone inexperienced, which overlaps with layperson, but it emphasizes lack of experience rather than lack of professional or specialized knowledge." },
+        { "distractor": "amateur", "closeness": 3, "reasoning": "Close -- 'amateur' means someone who engages in an activity without being paid or professional, which overlaps with layperson, but it emphasizes the non-professional status rather than lack of specialized knowledge." },
+        { "distractor": "outsider", "closeness": 3, "reasoning": "Close -- 'outsider' means someone not belonging to a particular group, which applies to a non-specialist, but it emphasizes exclusion from a group rather than lack of technical knowledge." },
+        { "distractor": "neophyte", "closeness": 3, "reasoning": "Close -- 'neophyte' means a beginner or someone newly initiated, which overlaps with layperson, but it emphasizes recent entry into a field rather than fundamental lack of specialized knowledge." },
+        { "distractor": "student", "closeness": 2, "reasoning": "Incorrect -- 'student' means someone learning a subject, which might be someone without expertise, but does not necessarily imply the non-professional status that 'layperson' conveys." },
+        { "distractor": "civilian", "closeness": 2, "reasoning": "Incorrect -- 'civilian' means someone not in the military or professional field, which might apply but is more specific to military contexts than the general concept of layperson." },
+        { "distractor": "bystander", "closeness": 2, "reasoning": "Incorrect -- 'bystander' means someone present but not directly involved, which does not necessarily describe lack of technical knowledge." },
+        { "distractor": "observer", "closeness": 2, "reasoning": "Incorrect -- 'observer' means someone who watches or notices, which could describe a non-specialist, but does not specifically convey lack of specialized knowledge." },
+        { "distractor": "expert", "closeness": 1, "reasoning": "Opposite -- 'expert' means someone with comprehensive knowledge in a field, the opposite of a layperson without specialized knowledge." },
+        { "distractor": "specialist", "closeness": 1, "reasoning": "Opposite -- 'specialist' means someone trained in a particular area, the opposite of a layperson unfamiliar with technical details." },
+        { "distractor": "professional", "closeness": 1, "reasoning": "Opposite -- 'professional' means someone engaged in a field as their occupation, which contrasts with a layperson." }
+      ]
+    },
+    {
+      "sentence": "The medical jargon used in the research paper was so dense that even an educated layperson would struggle to extract its key findings.",
+      "answerChoices": [
+        { "distractor": "novice", "closeness": 3, "reasoning": "Close -- 'novice' means a beginner, which overlaps with someone lacking medical knowledge, but it emphasizes inexperience in a field rather than lack of professional status." },
+        { "distractor": "stranger", "closeness": 3, "reasoning": "Close -- 'stranger' means someone unfamiliar with something, which applies to the medical field, but it emphasizes unfamiliarity rather than the lack of professional or specialized credentials." },
+        { "distractor": "civilian", "closeness": 3, "reasoning": "Close -- 'civilian' can mean someone outside a profession, but it is more commonly used in military contexts and does not as specifically convey unfamiliarity with specialized knowledge." },
+        { "distractor": "bystander", "closeness": 3, "reasoning": "Close -- 'bystander' means someone present but not involved, which could describe someone reading without professional knowledge, but emphasizes lack of involvement rather than lack of expertise." },
+        { "distractor": "observer", "closeness": 2, "reasoning": "Incorrect -- 'observer' means someone who watches or examines, but does not specifically convey lack of professional medical knowledge." },
+        { "distractor": "reader", "closeness": 2, "reasoning": "Incorrect -- 'reader' means someone who reads, but does not necessarily imply lack of expertise or professional standing." },
+        { "distractor": "student", "closeness": 2, "reasoning": "Incorrect -- 'student' means someone learning, which might apply, but could include medical students who do have professional knowledge." },
+        { "distractor": "amateur", "closeness": 2, "reasoning": "Incorrect -- 'amateur' means non-professional, but in the context of medical knowledge, this is less specific than layperson to describing someone unfamiliar with specialized terminology." },
+        { "distractor": "physician", "closeness": 1, "reasoning": "Opposite -- 'physician' means a trained medical doctor, the opposite of someone struggling with medical jargon." },
+        { "distractor": "specialist", "closeness": 1, "reasoning": "Opposite -- 'specialist' means someone with advanced knowledge in a field, which contradicts the struggle described in the sentence." },
+        { "distractor": "researcher", "closeness": 1, "reasoning": "Opposite -- 'researcher' means someone conducting scientific investigation, which would include familiarity with medical terminology and jargon." }
+      ]
+    },
+    {
+      "sentence": "The engineer explained the blueprint to a layperson using analogies and visual aids, avoiding the mathematical formulas that would have been opaque without years of training.",
+      "answerChoices": [
+        { "distractor": "novice", "closeness": 3, "reasoning": "Close -- 'novice' means a beginner lacking experience, which overlaps with someone unfamiliar with engineering concepts, but emphasizes inexperience rather than lack of professional training." },
+        { "distractor": "untrained", "closeness": 3, "reasoning": "Close -- 'untrained' means not educated or skilled in a field, which fits the context well, but emphasizes lack of formal training rather than the specific non-professional status." },
+        { "distractor": "amateur", "closeness": 3, "reasoning": "Close -- 'amateur' means non-professional, which fits the context, but emphasizes non-professional status rather than specifically lacking technical knowledge in this domain." },
+        { "distractor": "outsider", "closeness": 3, "reasoning": "Close -- 'outsider' means someone not belonging to a group, which applies to non-engineers, but emphasizes exclusion rather than lack of technical capability." },
+        { "distractor": "student", "closeness": 2, "reasoning": "Incorrect -- 'student' means someone learning, but could include engineering students with technical knowledge." },
+        { "distractor": "visitor", "closeness": 2, "reasoning": "Incorrect -- 'visitor' means someone present temporarily, which does not necessarily describe someone lacking technical knowledge." },
+        { "distractor": "observer", "closeness": 2, "reasoning": "Incorrect -- 'observer' means someone watching or examining, but does not necessarily imply lack of technical expertise." },
+        { "distractor": "listener", "closeness": 2, "reasoning": "Incorrect -- 'listener' means someone listening to an explanation, but does not specifically indicate lack of technical background." },
+        { "distractor": "engineer", "closeness": 1, "reasoning": "Opposite -- 'engineer' means a trained professional in engineering, the opposite of someone needing analogies to understand blueprints." },
+        { "distractor": "specialist", "closeness": 1, "reasoning": "Opposite -- 'specialist' means someone with expert knowledge in a field, which contrasts with the person unfamiliar with engineering concepts." },
+        { "distractor": "technician", "closeness": 1, "reasoning": "Opposite -- 'technician' means someone with technical training, which contradicts the need for simplified explanations using analogies." }
+      ]
+    }
+  ]
+}

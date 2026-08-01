@@ -1,0 +1,53 @@
+{
+  "word": "avert",
+  "sentenceSets": [
+    {
+      "sentence": "She tried to avert her eyes, but the scene was too striking to ignore completely.",
+      "answerChoices": [
+        { "distractor": "turn", "closeness": 3, "reasoning": "She turns her eyes away, but 'turn' is more general movement, not specifically averting or turning aside in avoidance." },
+        { "distractor": "shift", "closeness": 3, "reasoning": "She shifts her gaze, but 'shift' describes changing position, not specifically the avoidance of 'avert.'" },
+        { "distractor": "avoid", "closeness": 3, "reasoning": "She avoids looking, but 'avoid' emphasizes the goal, whereas 'avert' emphasizes the act of turning aside." },
+        { "distractor": "lower", "closeness": 3, "reasoning": "She lowers her eyes, but 'lower' describes the direction, not specifically the act of turning aside in avoidance." },
+        { "distractor": "glance", "closeness": 2, "reasoning": "She glances away, but 'glance' describes a brief look, not the act of turning aside." },
+        { "distractor": "look", "closeness": 2, "reasoning": "She looks away, but 'look' is generic for eye direction, not specifically the act of averting." },
+        { "distractor": "turn away", "closeness": 2, "reasoning": "She turns away from the scene, but this describes overall movement, not specifically the eye movement of averting." },
+        { "distractor": "hide", "closeness": 2, "reasoning": "She tries to hide from the scene, but 'hide' emphasizes concealment, not specifically eye movement." },
+        { "distractor": "confront", "closeness": 1, "reasoning": "The opposite action; averting means turning away from, not confronting directly." },
+        { "distractor": "stare", "closeness": 1, "reasoning": "The opposite behavior; averting means turning away from looking, not staring intently." },
+        { "distractor": "watch", "closeness": 1, "reasoning": "The opposite action; averting means turning away from looking, not watching the scene." }
+      ]
+    },
+    {
+      "sentence": "The government took swift action to avert a full-scale economic crisis by implementing emergency measures.",
+      "answerChoices": [
+        { "distractor": "prevent", "closeness": 3, "reasoning": "The government prevents the crisis, but 'prevent' emphasizes stopping something from happening, whereas 'avert' emphasizes turning aside a threat." },
+        { "distractor": "stop", "closeness": 3, "reasoning": "The government stops the crisis, but 'stop' is more forceful halting, whereas 'avert' emphasizes turning aside a threat." },
+        { "distractor": "avoid", "closeness": 3, "reasoning": "The government avoids full crisis, but 'avoid' emphasizes the outcome, whereas 'avert' emphasizes the act of turning aside." },
+        { "distractor": "ward", "closeness": 3, "reasoning": "The government wards off crisis, but 'ward' is more general repulsion, not specifically the turning aside of 'avert.'" },
+        { "distractor": "mitigate", "closeness": 2, "reasoning": "The government mitigates the crisis impact, but 'mitigate' emphasizes reducing severity, not averting the threat." },
+        { "distractor": "forestall", "closeness": 2, "reasoning": "The government forestalls crisis by acting early, but 'forestall' emphasizes preventing by advance action, not turning aside." },
+        { "distractor": "deflect", "closeness": 2, "reasoning": "The government deflects the crisis away from certain areas, but 'deflect' emphasizes redirecting, not turning aside." },
+        { "distractor": "intercept", "closeness": 2, "reasoning": "The government intercepts the crisis, but 'intercept' emphasizes stopping mid-course, not turning aside." },
+        { "distractor": "cause", "closeness": 1, "reasoning": "The opposite effect; averting a crisis means stopping it, not causing it." },
+        { "distractor": "allow", "closeness": 1, "reasoning": "The opposite action; averting means turning aside a threat, not allowing it to happen." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "The opposite approach; averting requires action to turn aside, not ignoring the threat." }
+      ]
+    },
+    {
+      "sentence": "The diplomat's skillful negotiation managed to avert a military conflict that seemed imminent just days before.",
+      "answerChoices": [
+        { "distractor": "prevent", "closeness": 3, "reasoning": "The diplomat prevents conflict, but 'prevent' emphasizes blocking it entirely, whereas 'avert' emphasizes turning aside an imminent threat." },
+        { "distractor": "avoid", "closeness": 3, "reasoning": "The diplomat avoids conflict, but 'avoid' emphasizes the outcome, whereas 'avert' emphasizes the act of turning aside." },
+        { "distractor": "stop", "closeness": 3, "reasoning": "The diplomat stops the conflict, but 'stop' is more forceful halting, whereas 'avert' emphasizes turning aside." },
+        { "distractor": "forestall", "closeness": 3, "reasoning": "The diplomat forestalls conflict by acting early, but 'forestall' emphasizes advance prevention, not turning aside." },
+        { "distractor": "resolve", "closeness": 2, "reasoning": "The diplomat resolves the underlying issues, but 'resolve' emphasizes solving problems, not averting the conflict itself." },
+        { "distractor": "negotiate", "closeness": 2, "reasoning": "The diplomat negotiates, but this describes the method, not the result of averting the conflict." },
+        { "distractor": "delay", "closeness": 2, "reasoning": "The diplomat might delay the conflict, but 'delay' emphasizes postponing, not fully turning aside." },
+        { "distractor": "moderate", "closeness": 2, "reasoning": "The diplomat moderates tensions, but this emphasizes reducing intensity, not averting the conflict." },
+        { "distractor": "provoke", "closeness": 1, "reasoning": "The opposite effect; diplomacy and negotiation avert conflict, not provoke it." },
+        { "distractor": "worsen", "closeness": 1, "reasoning": "The opposite result; averting a conflict improves the situation, not worsens it." },
+        { "distractor": "engage", "closeness": 1, "reasoning": "The opposite action; averting a military conflict means preventing it, not engaging in it." }
+      ]
+    }
+  ]
+}

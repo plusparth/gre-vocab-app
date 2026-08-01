@@ -1,0 +1,53 @@
+{
+  "word": "augment",
+  "sentenceSets": [
+    {
+      "sentence": "The grant augmented the institute's budget, allowing them to double the scope of the study.",
+      "answerChoices": [
+        { "distractor": "increased", "closeness": 3, "reasoning": "The grant increased the budget, but 'increased' is more general, whereas 'augmented' emphasizes enhancing or making greater in importance." },
+        { "distractor": "expanded", "closeness": 3, "reasoning": "The budget was expanded, but 'expanded' suggests growing size or scope, not necessarily the addition of funds." },
+        { "distractor": "amplified", "closeness": 3, "reasoning": "The funding effect is amplified through the study's scope, but 'amplified' emphasizes intensifying an existing signal, not adding to a budget." },
+        { "distractor": "enhanced", "closeness": 3, "reasoning": "The budget is enhanced by the grant, but 'enhanced' emphasizes improving quality, not necessarily making it greater in amount." },
+        { "distractor": "swelled", "closeness": 2, "reasoning": "The budget swelled with the grant funds, but 'swelled' emphasizes expansion, not the idea of making greater or more intense." },
+        { "distractor": "boosted", "closeness": 2, "reasoning": "The grant boosted the budget, but 'boosted' emphasizes sudden increase, not the cumulative augmentation." },
+        { "distractor": "supplemented", "closeness": 2, "reasoning": "The grant supplements the budget with additional funds, but 'supplemented' emphasizes adding something extra, not augmenting total capacity." },
+        { "distractor": "funded", "closeness": 2, "reasoning": "The study is funded by the grant, but 'funded' describes the provision of money, not the augmentation of existing budgets." },
+        { "distractor": "diminished", "closeness": 1, "reasoning": "The opposite effect; the grant makes the budget larger, not smaller." },
+        { "distractor": "reduced", "closeness": 1, "reasoning": "The opposite direction; the grant augments, not reduces, the institute's financial capacity." },
+        { "distractor": "cut", "closeness": 1, "reasoning": "The opposite effect; the grant increases resources, it doesn't cut them." }
+      ]
+    },
+    {
+      "sentence": "The country augmented its military forces by recruiting additional personnel and acquiring new equipment.",
+      "answerChoices": [
+        { "distractor": "strengthened", "closeness": 3, "reasoning": "The military is strengthened by these actions, but 'strengthened' emphasizes making more powerful, whereas 'augmented' emphasizes making greater in number or force." },
+        { "distractor": "expanded", "closeness": 3, "reasoning": "The military is expanded through recruitment and acquisition, but 'expanded' suggests growing size or scope, not necessarily making it more intense." },
+        { "distractor": "reinforced", "closeness": 3, "reasoning": "The military is reinforced with personnel and equipment, but 'reinforced' emphasizes strengthening existing positions, not making something greater." },
+        { "distractor": "mobilized", "closeness": 3, "reasoning": "The forces are mobilized for action, but 'mobilized' emphasizes activation and organization, not increasing size or capacity." },
+        { "distractor": "bolstered", "closeness": 2, "reasoning": "The military is bolstered by additions, but 'bolstered' emphasizes providing support or encouragement, not making something greater." },
+        { "distractor": "equipped", "closeness": 2, "reasoning": "The forces are equipped with new technology, but 'equipped' emphasizes providing tools, not augmenting capacity." },
+        { "distractor": "deployed", "closeness": 2, "reasoning": "Forces are deployed in action, but 'deployed' describes positioning, not augmenting or increasing size." },
+        { "distractor": "upgraded", "closeness": 2, "reasoning": "The military is upgraded through new equipment, but 'upgraded' emphasizes improving quality, not augmenting quantity." },
+        { "distractor": "diminished", "closeness": 1, "reasoning": "The opposite direction; augmentation increases military capacity, not diminishes it." },
+        { "distractor": "weakened", "closeness": 1, "reasoning": "The opposite effect; recruitment and new equipment strengthen, not weaken, military forces." },
+        { "distractor": "disbanded", "closeness": 1, "reasoning": "The opposite action; the country augments forces, not disbands them." }
+      ]
+    },
+    {
+      "sentence": "The artist augmented her paintings with mixed media elements, incorporating sculptures and found objects into the compositions.",
+      "answerChoices": [
+        { "distractor": "enhanced", "closeness": 3, "reasoning": "The paintings are enhanced by mixed media, but 'enhanced' emphasizes improving quality or beauty, not the additive process of augmentation." },
+        { "distractor": "embellished", "closeness": 3, "reasoning": "The paintings are embellished with additional elements, but 'embellished' suggests decorative addition, not augmenting the artistic vision." },
+        { "distractor": "enriched", "closeness": 3, "reasoning": "The work is enriched by mixed media, but 'enriched' emphasizes making more valuable or interesting, not making it greater in scope." },
+        { "distractor": "combined", "closeness": 3, "reasoning": "The artist combines paintings with sculpture, but 'combined' describes the merger of elements, not the augmentation of the original work." },
+        { "distractor": "decorated", "closeness": 2, "reasoning": "The paintings are decorated with objects, but 'decorated' emphasizes ornamental addition, not augmentation of artistic substance." },
+        { "distractor": "modified", "closeness": 2, "reasoning": "The paintings are modified through mixed media, but 'modified' describes changing form, not augmenting." },
+        { "distractor": "expanded", "closeness": 2, "reasoning": "The scope is expanded through mixed media integration, but 'expanded' emphasizes growing size, not augmentation." },
+        { "distractor": "unified", "closeness": 2, "reasoning": "The elements are unified into a single composition, but 'unified' emphasizes integration, not the augmentation process." },
+        { "distractor": "simplified", "closeness": 1, "reasoning": "The opposite effect; adding mixed media makes the work more complex, not simpler." },
+        { "distractor": "stripped", "closeness": 1, "reasoning": "The opposite action; augmenting adds elements, not strips them away." },
+        { "distractor": "reduced", "closeness": 1, "reasoning": "The opposite direction; augmentation makes the work greater, not smaller in scope." }
+      ]
+    }
+  ]
+}

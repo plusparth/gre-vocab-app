@@ -1,0 +1,53 @@
+{
+  "word": "saturate",
+  "sentenceSets": [
+    {
+      "sentence": "The market had been saturated by competing offerings, leaving no clear signal about which was preferable.",
+      "answerChoices": [
+        { "distractor": "flooded", "closeness": 3, "reasoning": "Flooded means overwhelmed with an abundance, very close to saturate, but emphasizes sudden overwhelming rather than reaching capacity." },
+        { "distractor": "congested", "closeness": 3, "reasoning": "Congested means too crowded or full, related to saturate but more about physical overcrowding than market supply." },
+        { "distractor": "overwhelmed", "closeness": 3, "reasoning": "Overwhelmed means overpowered or overcome, which saturation causes, but isn't the specific action of saturate." },
+        { "distractor": "glutted", "closeness": 3, "reasoning": "Glutted means supplied to excess, nearly identical to saturate, making it a strong trap." },
+        { "distractor": "swamped", "closeness": 2, "reasoning": "Swamped means overwhelmed or inundated, related to saturate but emphasizes being overwhelmed rather than reaching full capacity." },
+        { "distractor": "filled", "closeness": 2, "reasoning": "Filled means made full, related to saturate but not emphasizing the excessive abundance." },
+        { "distractor": "packed", "closeness": 2, "reasoning": "Packed means crowded or stuffed tightly, related to saturate but more physical than market-related." },
+        { "distractor": "oversupplied", "closeness": 2, "reasoning": "Oversupplied means given too much supply, related to saturate but emphasizing excess rather than reaching fullness." },
+        { "distractor": "depleted", "closeness": 1, "reasoning": "Depleted means exhausted or used up, the opposite of saturate." },
+        { "distractor": "drained", "closeness": 1, "reasoning": "Drained means emptied or exhausted, opposite to saturate's meaning of being filled." },
+        { "distractor": "scarce", "closeness": 1, "reasoning": "Scarce means insufficient in supply, the opposite of saturate." }
+      ]
+    },
+    {
+      "sentence": "The media campaign attempted to saturate every possible demographic with targeted advertising.",
+      "answerChoices": [
+        { "distractor": "reach", "closeness": 3, "reasoning": "Reach means to extend to or connect with, related to saturate but not emphasizing the completeness and overwhelming extent." },
+        { "distractor": "penetrate", "closeness": 3, "reasoning": "Penetrate means to cut through or get into, related to saturate but not emphasizing the complete filling or overwhelming." },
+        { "distractor": "permeate", "closeness": 3, "reasoning": "Permeate means to spread through or be present throughout, very close to saturate but suggests gradual spreading rather than overwhelming." },
+        { "distractor": "inundate", "closeness": 3, "reasoning": "Inundate means to overwhelm with a large quantity, very similar to saturate, making it a strong trap." },
+        { "distractor": "target", "closeness": 2, "reasoning": "Target means to aim at a specific group, which the campaign does, but not the same as saturating with messages." },
+        { "distractor": "bombard", "closeness": 2, "reasoning": "Bombard means to attack with questions or information, related to saturate but emphasizing assault rather than complete filling." },
+        { "distractor": "blanket", "closeness": 2, "reasoning": "Blanket can mean to cover completely, close to saturate but usually implies a single comprehensive action." },
+        { "distractor": "cover", "closeness": 2, "reasoning": "Cover means to extend over an area or to include, but doesn't specifically emphasize the overwhelming nature of saturation." },
+        { "distractor": "avoid", "closeness": 1, "reasoning": "Avoid means to stay away from or prevent, the opposite of saturate." },
+        { "distractor": "exclude", "closeness": 1, "reasoning": "Exclude means to keep out or leave out, the opposite of saturate's meaning of reaching completely." },
+        { "distractor": "neglect", "closeness": 1, "reasoning": "Neglect means to fail to give attention to, opposite to saturate." }
+      ]
+    },
+    {
+      "sentence": "The fabric must saturate with dye for several hours to achieve the desired color depth.",
+      "answerChoices": [
+        { "distractor": "soak", "closeness": 3, "reasoning": "Soak means to immerse in liquid, very close to saturate, but emphasizes the immersion process rather than complete absorption." },
+        { "distractor": "absorb", "closeness": 3, "reasoning": "Absorb means to take in or soak up, related to saturate but not emphasizing the reaching of full capacity." },
+        { "distractor": "permeate", "closeness": 3, "reasoning": "Permeate means to spread through thoroughly, very close to saturate but suggests spreading through rather than filling to capacity." },
+        { "distractor": "impregnate", "closeness": 3, "reasoning": "Impregnate means to fill or infuse thoroughly, very similar to saturate, making it a trap." },
+        { "distractor": "treat", "closeness": 2, "reasoning": "Treat means to apply a process or substance, which saturating with dye is, but more general than saturate." },
+        { "distractor": "immerse", "closeness": 2, "reasoning": "Immerse means to plunge into liquid, related to saturate but not emphasizing the chemical absorption." },
+        { "distractor": "steep", "closeness": 2, "reasoning": "Steep means to soak or infuse, related to saturate but often implies a shorter time period." },
+        { "distractor": "infuse", "closeness": 2, "reasoning": "Infuse means to fill or permeate, related to saturate but not emphasizing complete saturation." },
+        { "distractor": "drain", "closeness": 1, "reasoning": "Drain means to empty or remove liquid, the opposite of saturate." },
+        { "distractor": "dry", "closeness": 1, "reasoning": "Dry means to remove moisture, opposite to saturate's meaning of becoming full of liquid." },
+        { "distractor": "wring", "closeness": 1, "reasoning": "Wring means to squeeze out liquid, the opposite of saturate." }
+      ]
+    }
+  ]
+}

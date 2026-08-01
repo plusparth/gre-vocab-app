@@ -1,0 +1,53 @@
+{
+  "word": "antedate",
+  "sentenceSets": [
+    {
+      "sentence": "The inscription appeared to antedate the building by several centuries, suggesting the stone was reused.",
+      "answerChoices": [
+        { "distractor": "predate", "closeness": 3, "reasoning": "Predate means to exist before in time, nearly identical to antedate, but is more general and doesn't specifically imply chronological assignment." },
+        { "distractor": "precede", "closeness": 3, "reasoning": "Precede means to come before in time or order, close to antedate but doesn't specifically convey the act of assigning an earlier date." },
+        { "distractor": "originate", "closeness": 3, "reasoning": "Originate means to come into being, which the inscription did, but doesn't convey the sense of being older than something else." },
+        { "distractor": "postdate", "closeness": 3, "reasoning": "Postdate means to assign a date later than the actual date, directly opposite in meaning but uses the same date-assigning framework." },
+        { "distractor": "precondition", "closeness": 2, "reasoning": "Precondition means to prepare in advance, but doesn't relate to chronological dating or assignment of dates." },
+        { "distractor": "anticipate", "closeness": 2, "reasoning": "Anticipate means to foresee or expect beforehand, but doesn't convey the specific act of assigning an earlier date." },
+        { "distractor": "foreshadow", "closeness": 2, "reasoning": "Foreshadow means to indicate or warn of beforehand, but doesn't relate to chronological dating." },
+        { "distractor": "establish", "closeness": 2, "reasoning": "Establish means to set up or create, but doesn't specifically convey chronological dating or temporal relationships." },
+        { "distractor": "occur", "closeness": 1, "reasoning": "Occur means to take place or happen, but doesn't convey the act of assigning a date or temporal relationship." },
+        { "distractor": "modernize", "closeness": 1, "reasoning": "Modernize means to make modern or update, opposite to the sense of being ancient that antedate implies." },
+        { "distractor": "contemporize", "closeness": 1, "reasoning": "Contemporize means to make of the same time period, opposite to assigning an inscription to an earlier era." }
+      ]
+    },
+    {
+      "sentence": "The archaeologist's discovery proved that human settlement in the region antedated the accepted historical record by at least five thousand years.",
+      "answerChoices": [
+        { "distractor": "preceded", "closeness": 3, "reasoning": "Preceded means came before in time, which the settlement did, but doesn't convey the act of revising or reassigning chronological understanding." },
+        { "distractor": "predated", "closeness": 3, "reasoning": "Predated means existed before in time, nearly synonymous with antedate, but doesn't specifically emphasize the evidence-based chronological revision." },
+        { "distractor": "superseded", "closeness": 3, "reasoning": "Superseded means replaced or took the place of, which the discovery does to historical understanding, but doesn't specifically mean older in date." },
+        { "distractor": "invalidated", "closeness": 3, "reasoning": "Invalidated means made invalid or nullified, which the discovery does to the accepted record, but doesn't specifically mean older." },
+        { "distractor": "contradicted", "closeness": 2, "reasoning": "Contradicted means opposed or conflicted with, which the discovery does to accepted history, but doesn't emphasize temporal precedence." },
+        { "distractor": "challenged", "closeness": 2, "reasoning": "Challenged means questioned or disputed, which the evidence does to the historical record, but doesn't specifically convey older dating." },
+        { "distractor": "undermined", "closeness": 2, "reasoning": "Undermined means weakened or damaged, which the discovery does to accepted history, but doesn't specifically mean temporally prior." },
+        { "distractor": "revised", "closeness": 2, "reasoning": "Revised means changed or corrected, which the discovery causes to historical understanding, but doesn't specifically mean older." },
+        { "distractor": "confirmed", "closeness": 1, "reasoning": "Confirmed means verified or validated, opposite to the discovery revising and pushing back the dates of human settlement." },
+        { "distractor": "supported", "closeness": 1, "reasoning": "Supported means provided evidence for, which the discovery does, but opposite to antedating, which suggests contrary to previous acceptance." },
+        { "distractor": "modernized", "closeness": 1, "reasoning": "Modernized means made more recent or contemporary, opposite to settlement that antedates or goes back further in time." }
+      ]
+    },
+    {
+      "sentence": "The forger attempted to antedate the document to make it appear as though the contract had been signed years before the dispute actually began.",
+      "answerChoices": [
+        { "distractor": "backdate", "closeness": 3, "reasoning": "Backdate means to assign a date earlier than the true date, nearly identical to antedate, but may suggest more casual adjustment." },
+        { "distractor": "predate", "closeness": 3, "reasoning": "Predate means to exist before in time, which the forged document attempts to do, but doesn't convey the deliberate act of falsifying dates." },
+        { "distractor": "falsify", "closeness": 3, "reasoning": "Falsify means to make false or alter, which the forger does, but doesn't specifically refer to date manipulation." },
+        { "distractor": "fraudulently alter", "closeness": 3, "reasoning": "Fraudulently alter means to change dishonestly, which the forgery involves, but is too broad and doesn't specify date manipulation." },
+        { "distractor": "forge", "closeness": 2, "reasoning": "Forge means to create a false version, which the criminal does, but doesn't specifically address the dating of the document." },
+        { "distractor": "tamper", "closeness": 2, "reasoning": "Tamper means to interfere or make unauthorized changes, which the forger does, but doesn't specifically mean changing dates." },
+        { "distractor": "counterfeit", "closeness": 2, "reasoning": "Counterfeit means to make an illegal copy, which the forger does, but doesn't specifically address date manipulation." },
+        { "distractor": "misrepresent", "closeness": 2, "reasoning": "Misrepresent means to give a false or misleading impression, which the forgery does, but doesn't specifically mean dating." },
+        { "distractor": "validate", "closeness": 1, "reasoning": "Validate means to confirm or support, opposite to the fraudulent dating intended by the forger." },
+        { "distractor": "authenticate", "closeness": 1, "reasoning": "Authenticate means to prove genuine or true, opposite to the false dating the forger attempts." },
+        { "distractor": "certify", "closeness": 1, "reasoning": "Certify means to confirm officially, opposite to the fraudulent alteration the forger commits." }
+      ]
+    }
+  ]
+}

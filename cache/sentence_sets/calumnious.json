@@ -1,0 +1,53 @@
+{
+  "word": "calumnious",
+  "sentenceSets": [
+    {
+      "sentence": "The calumnious article was retracted within days, but the damage to her reputation proved lasting.",
+      "answerChoices": [
+        { "distractor": "inflammatory", "closeness": 3, "reasoning": "Both describe harmful speech, but 'inflammatory' means provoking anger or outrage, not necessarily making false claims; the article could be inflammatory and true, whereas the sentence emphasizes that it was false." },
+        { "distractor": "disparaging", "closeness": 3, "reasoning": "Both express disapproval or disrespect, but 'disparaging' means belittling without the specific element of falsehood that the sentence reveals through the word 'retracted.'" },
+        { "distractor": "scurrilous", "closeness": 3, "reasoning": "Both describe abusive language intended to harm, but 'scurrilous' emphasizes obscene or indecent language rather than the deliberate false claims the retraction suggests." },
+        { "distractor": "defamatory", "closeness": 3, "reasoning": "Both refer to harmful speech damaging reputation, but the sentence's use of 'retracted' hints at falsity specifically; 'defamatory' can apply to statements that are provably true but still damage reputation." },
+        { "distractor": "vicious", "closeness": 2, "reasoning": "Suggests cruel or malicious intent but doesn't carry the specific meaning of false misrepresentation that prompted the retraction." },
+        { "distractor": "libelous", "closeness": 2, "reasoning": "Refers to written defamation, which fits the article context, but doesn't necessarily imply the falsity and intent to harm that the word encompasses." },
+        { "distractor": "acidic", "closeness": 2, "reasoning": "Describes harsh or biting tone, but lacks the component of deliberate false claims that necessitated the retraction." },
+        { "distractor": "acerbic", "closeness": 2, "reasoning": "Means sharp or bitter in tone or manner, fitting a harsh article but not implying the false misrepresentation the sentence emphasizes." },
+        { "distractor": "laudatory", "closeness": 1, "reasoning": "This means praising or expressing approval, the opposite of what the sentence describes—the article caused lasting damage, not admiration." },
+        { "distractor": "circumspect", "closeness": 1, "reasoning": "Means cautious and careful, the opposite of the reckless spreading of false accusations shown in the sentence." },
+        { "distractor": "veridical", "closeness": 1, "reasoning": "Means truthful or accurate, directly contradicting the sentence's implication that the article contained false misrepresentation requiring retraction." }
+      ]
+    },
+    {
+      "sentence": "After the employee's calumnious remarks in the staff meeting, she was suspended pending an investigation into claims she could not substantiate.",
+      "answerChoices": [
+        { "distractor": "slanderous", "closeness": 3, "reasoning": "Both describe spoken accusations that harm reputation, but the sentence reveals through 'claims she could not substantiate' that falsity is central, whereas slander can technically be spoken truth." },
+        { "distractor": "vituperative", "closeness": 3, "reasoning": "Both describe harsh, abusive speech, but 'vituperative' emphasizes angry verbal abuse rather than the deliberate false accusations the sentence reveals." },
+        { "distractor": "invidious", "closeness": 3, "reasoning": "Both describe speech causing ill will or resentment, but 'invidious' comparisons don't require falsity or malicious intent in the same way." },
+        { "distractor": "insidious", "closeness": 3, "reasoning": "Both suggest harmful intent, but 'insidious' means subtly harmful or treacherous, not necessarily involving false misrepresentation." },
+        { "distractor": "denigrating", "closeness": 2, "reasoning": "Means criticizing or belittling unfairly, but doesn't necessarily imply the fabrication of false claims the investigation was examining." },
+        { "distractor": "contemptuous", "closeness": 2, "reasoning": "Expresses scorn or disdain but doesn't capture the specific falsehood element revealed by 'claims she could not substantiate.'" },
+        { "distractor": "reproachful", "closeness": 2, "reasoning": "Expresses disapproval, but may apply to true criticisms deserving of blame, not false accusations." },
+        { "distractor": "incisive", "closeness": 2, "reasoning": "Means keen or penetrating in analysis, which could be true and still damaging; doesn't imply the falsity the suspension investigation suggests." },
+        { "distractor": "temperate", "closeness": 1, "reasoning": "Means moderate and restrained, the opposite of harsh accusatory remarks made in a staff meeting." },
+        { "distractor": "taciturn", "closeness": 1, "reasoning": "Means habitually quiet or reserved, opposite to someone making loud accusations in a meeting." },
+        { "distractor": "felicitous", "closeness": 1, "reasoning": "Means well-suited or pleasing, the opposite of remarks that prompted suspension and investigation." }
+      ]
+    },
+    {
+      "sentence": "Historians debate whether medieval chroniclers recorded facts or merely repeated the calumnious gossip that their predecessors had preserved.",
+      "answerChoices": [
+        { "distractor": "apocryphal", "closeness": 3, "reasoning": "Both refer to stories of doubtful origin or authenticity, but 'apocryphal' emphasizes uncertain authorship or authenticity rather than the deliberate false misrepresentation of reputation the word conveys." },
+        { "distractor": "spurious", "closeness": 3, "reasoning": "Both describe something false or fake, but 'spurious' suggests being falsely claimed or imitated rather than specifically being malicious falsehoods intended to harm." },
+        { "distractor": "specious", "closeness": 3, "reasoning": "Both mean superficially plausible but wrong; however, 'specious' emphasizes deceptive appearance rather than malicious intent to damage reputation." },
+        { "distractor": "dubious", "closeness": 3, "reasoning": "Indicates doubt about truth or authenticity, but doesn't carry the element of malicious intent to harm reputation that the word specifically encodes." },
+        { "distractor": "erroneous", "closeness": 2, "reasoning": "Means containing mistakes or inaccuracies, but doesn't imply deliberate falsity or intent to damage someone's standing." },
+        { "distractor": "fallacious", "closeness": 2, "reasoning": "Means logically unsound or misleading, but doesn't necessarily involve false claims about a person's character or actions." },
+        { "distractor": "fabricated", "closeness": 2, "reasoning": "Means invented or made up, but doesn't specifically convey the element of deliberate damage to reputation." },
+        { "distractor": "embellished", "closeness": 2, "reasoning": "Means decorated or made more attractive/interesting through exaggeration, which may or may not involve the malicious misrepresentation the word requires." },
+        { "distractor": "corroborated", "closeness": 1, "reasoning": "Means confirmed or supported by evidence, the opposite of unsubstantiated gossip." },
+        { "distractor": "substantiated", "closeness": 1, "reasoning": "Means supported by evidence or facts, directly opposite to what the sentence implies about these stories lacking factual basis." },
+        { "distractor": "veracious", "closeness": 1, "reasoning": "Means truthful and accurate, the opposite of malicious falsehoods." }
+      ]
+    }
+  ]
+}

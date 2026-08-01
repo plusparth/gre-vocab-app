@@ -1,0 +1,53 @@
+{
+  "word": "lurid",
+  "sentenceSets": [
+    {
+      "sentence": "The lurid details of the scandal were amplified in the press far beyond any public interest they could have served.",
+      "answerChoices": [
+        { "distractor": "sensational", "closeness": 3, "reasoning": "Like lurid, sensational describes details that are vivid and shocking, creating confusion about which term better fits the context." },
+        { "distractor": "graphic", "closeness": 3, "reasoning": "Graphic similarly means explicit and disturbing; both words convey visceral detail about scandals, making it a strong trap." },
+        { "distractor": "shocking", "closeness": 3, "reasoning": "Both shock and disturb readers, and either could describe scandal details that provoke strong reactions." },
+        { "distractor": "scandalous", "closeness": 3, "reasoning": "While scandalous relates to the scandal subject, the distractor misses that lurid specifically describes the vivid, sensational quality of the details." },
+        { "distractor": "exaggerated", "closeness": 2, "reasoning": "The amplification suggests the details might be distorted, but exaggerated emphasizes falsification while lurid emphasizes sensational vividness." },
+        { "distractor": "inflammatory", "closeness": 2, "reasoning": "Could fit the provocation of scandal details, but inflammatory implies stirring anger rather than the inherent gruesomeness that lurid conveys." },
+        { "distractor": "unverified", "closeness": 2, "reasoning": "The amplification hints at questionable accuracy, tempting a reader to choose this, but unverified concerns truth while lurid concerns sensationalism." },
+        { "distractor": "obscene", "closeness": 2, "reasoning": "Related to offensive, disturbing content, but obscene lacks the vivid sensational quality that defines lurid." },
+        { "distractor": "accurate", "closeness": 1, "reasoning": "Contradicts the sentence's implication that amplified details are sensationalized rather than factually precise." },
+        { "distractor": "pertinent", "closeness": 1, "reasoning": "The sentence explicitly states the details lack public interest relevance, making pertinent the opposite of what the context requires." },
+        { "distractor": "mundane", "closeness": 1, "reasoning": "Directly opposes lurid; mundane means ordinary while the sentence describes details extreme enough to shock the public." }
+      ]
+    },
+    {
+      "sentence": "The tabloid's lurid account of the celebrity's breakdown drew criticism for exploiting personal tragedy for profit.",
+      "answerChoices": [
+        { "distractor": "salacious", "closeness": 3, "reasoning": "Salacious means sensational and titillating, very similar to lurid, and both fit accounts that exploit personal suffering." },
+        { "distractor": "garish", "closeness": 3, "reasoning": "Both describe something strikingly vivid and sensational, though garish emphasizes visual vividness more than gruesome subject matter." },
+        { "distractor": "vivid", "closeness": 3, "reasoning": "Both mean strikingly detailed and clear, making vivid a plausible but less specific alternative to lurid." },
+        { "distractor": "melodramatic", "closeness": 3, "reasoning": "Both suggest exaggeration for effect, though melodramatic emphasizes theatrical excess rather than gruesomeness." },
+        { "distractor": "controversial", "closeness": 2, "reasoning": "The drawing of criticism makes this seem plausible, but controversial describes conflict over the account rather than its sensational quality." },
+        { "distractor": "titillating", "closeness": 2, "reasoning": "Fits the exploitation angle, tempting readers to confuse it with lurid, but titillating emphasizes appeal rather than horror." },
+        { "distractor": "notorious", "closeness": 2, "reasoning": "Could pair with account, but notorious describes the account's fame rather than the vivid sensational quality of its content." },
+        { "distractor": "offensive", "closeness": 2, "reasoning": "Fits the criticism context, but offensive describes impact on sensibilities while lurid describes the inherent sensational quality." },
+        { "distractor": "subtle", "closeness": 1, "reasoning": "Directly opposite; the context suggests striking, obvious sensationalism, not understated coverage." },
+        { "distractor": "refined", "closeness": 1, "reasoning": "Opposes lurid; refined implies elegance and sophistication, while lurid is crude and sensational." },
+        { "distractor": "restrained", "closeness": 1, "reasoning": "The exploitation for profit implies uncontrolled sensationalism, making restrained an illogical opposite." }
+      ]
+    },
+    {
+      "sentence": "The photographer's exhibition displayed lurid images of industrial disasters, forcing viewers to confront the human cost of negligence.",
+      "answerChoices": [
+        { "distractor": "grotesque", "closeness": 3, "reasoning": "Both describe disturbing, shocking appearance, and both fit images of industrial disasters forcing viewers to confront tragedy." },
+        { "distractor": "harrowing", "closeness": 3, "reasoning": "Both evoke horror and distress, and harrowing images would similarly force confrontation with human suffering." },
+        { "distractor": "ghastly", "closeness": 3, "reasoning": "Both describe something horrifying; ghastly images of disasters would provoke the same reaction as lurid ones." },
+        { "distractor": "macabre", "closeness": 3, "reasoning": "Both evoke death and horror, and macabre images of disasters could similarly compel viewers to face mortality and suffering." },
+        { "distractor": "sensationalized", "closeness": 2, "reasoning": "Fits the exhibition display context, tempting readers, but sensationalized emphasizes media dramatization rather than the inherent disturbing quality." },
+        { "distractor": "exploitative", "closeness": 2, "reasoning": "Could modify the exhibition concept, but exploitative describes the photographer's intent rather than the visual impact of the images." },
+        { "distractor": "transgressive", "closeness": 2, "reasoning": "Fits the shocking nature of the display, but transgressive emphasizes rule-breaking rather than the horrifying sensationalism." },
+        { "distractor": "provocative", "closeness": 2, "reasoning": "Could work with exhibition, but provocative emphasizes the intellectual challenge rather than the visceral horror." },
+        { "distractor": "factual", "closeness": 1, "reasoning": "The forcing confrontation suggests visceral, emotional impact beyond mere factual documentation." },
+        { "distractor": "discreet", "closeness": 1, "reasoning": "Contradicts the public exhibition of striking images; lurid is showy and conspicuous." },
+        { "distractor": "honest", "closeness": 1, "reasoning": "While the exhibition may be honest, honest doesn't describe the sensational visual quality that lurid conveys." }
+      ]
+    }
+  ]
+}

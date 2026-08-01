@@ -1,0 +1,53 @@
+{
+  "word": "tangible",
+  "sentenceSets": [
+    {
+      "sentence": "The tangible benefits of the program were modest; the intangible ones, harder to measure, proved to be the justification that mattered.",
+      "answerChoices": [
+        { "distractor": "measurable", "closeness": 3, "reasoning": "Measurable means quantifiable, but the sentence explicitly contrasts tangible benefits (which can be perceived and measured) with intangible ones; the point is about physicality and perception, not just measurability." },
+        { "distractor": "concrete", "closeness": 3, "reasoning": "Concrete means solid and definite, overlapping with tangible, but in context the sentence emphasizes benefits one can physically perceive or touch, not just definiteness." },
+        { "distractor": "apparent", "closeness": 3, "reasoning": "Apparent means obvious or clearly visible, but tangible emphasizes the sense of touch and physical perception, not just visual obviousness." },
+        { "distractor": "verifiable", "closeness": 3, "reasoning": "Verifiable means capable of being proven true, but tangible specifically describes physical properties perceptible to the senses, not just provability." },
+        { "distractor": "material", "closeness": 2, "reasoning": "Material means physically substantial, which overlaps with tangible, but material can also mean relevant or important; the sentence requires the specific sense of perceivable by touch." },
+        { "distractor": "substantial", "closeness": 2, "reasoning": "Substantial means considerable in size or amount, but tangible specifically means capable of being perceived by touch, not merely being significant." },
+        { "distractor": "practical", "closeness": 2, "reasoning": "Practical means useful and realistic, but the sentence contrasts with intangible benefits; practical addresses utility, not the physical perception that tangible implies." },
+        { "distractor": "evident", "closeness": 2, "reasoning": "Evident means clearly seen or understood, but tangible emphasizes sensory perception, particularly touch, not just clarity or obviousness." },
+        { "distractor": "hypothetical", "closeness": 1, "reasoning": "Hypothetical means supposed or theoretical, which is opposite to tangible; the sentence contrasts tangible (real, perceivable) benefits with intangible ones." },
+        { "distractor": "abstract", "closeness": 1, "reasoning": "Abstract means not concrete or physical, which is the opposite of tangible; the sentence explicitly sets tangible against intangible (which approach the abstract)." },
+        { "distractor": "illusory", "closeness": 1, "reasoning": "Illusory means deceptive or unreal, which opposes tangible; the sentence describes tangible benefits as real and perceivable, not false or deceptive." }
+      ]
+    },
+    {
+      "sentence": "The victim needed tangible evidence—a hair sample, fibers from the suspect's clothing—not just witness testimony to prove guilt in court.",
+      "answerChoices": [
+        { "distractor": "documentary", "closeness": 3, "reasoning": "Documentary means recorded in writing or visual form, but the sentence emphasizes physical materials that can be examined and tested, not just recorded documentation." },
+        { "distractor": "objective", "closeness": 3, "reasoning": "Objective means not influenced by personal bias, but while tangible evidence is objective, the sentence requires a word emphasizing the physical, perceivable nature of evidence." },
+        { "distractor": "conclusive", "closeness": 3, "reasoning": "Conclusive means settling a question decisively, but tangible describes the nature of the evidence itself—physical and perceptible—not its ability to conclude a case." },
+        { "distractor": "corroborating", "closeness": 3, "reasoning": "Corroborating means supporting or confirming, but the sentence requires a word describing the physical nature of evidence, not just its role in supporting a case." },
+        { "distractor": "compelling", "closeness": 2, "reasoning": "Compelling means forceful and convincing, but the sentence emphasizes the type of evidence (physical), not how persuasive or convincing it is." },
+        { "distractor": "definitive", "closeness": 2, "reasoning": "Definitive means final and conclusive, but the sentence specifies evidence one can touch and examine, not just conclusive proof." },
+        { "distractor": "forensic", "closeness": 2, "reasoning": "Forensic means relating to scientific examination of evidence, but while forensic evidence is often tangible, the sentence requires the adjective describing touchable materials." },
+        { "distractor": "irrefutable", "closeness": 2, "reasoning": "Irrefutable means impossible to deny or disprove, but the sentence emphasizes the physical nature of evidence, not just its power to refute objections." },
+        { "distractor": "anecdotal", "closeness": 1, "reasoning": "Anecdotal means based on personal stories rather than facts, which opposes tangible; the sentence explicitly contrasts with witness testimony (anecdotal accounts)." },
+        { "distractor": "subjective", "closeness": 1, "reasoning": "Subjective means based on personal feelings or perspectives, which opposes tangible evidence; witness testimony is inherently subjective compared to physical evidence." },
+        { "distractor": "theoretical", "closeness": 1, "reasoning": "Theoretical means based on ideas rather than practical application, but the sentence emphasizes physical materials one can test and examine, not theoretical constructs." }
+      ]
+    },
+    {
+      "sentence": "The astronomer pointed to the telescope as tangible proof that the amateur scientist was serious about her observations.",
+      "answerChoices": [
+        { "distractor": "symbolic", "closeness": 3, "reasoning": "Symbolic means serving as a representation or sign, but the sentence describes the telescope as actual physical evidence, not merely a symbolic gesture of commitment." },
+        { "distractor": "demonstrable", "closeness": 3, "reasoning": "Demonstrable means capable of being shown or proven, but the sentence emphasizes the physical, perceivable nature of the proof, not just provability." },
+        { "distractor": "credible", "closeness": 3, "reasoning": "Credible means believable and trustworthy, but the sentence focuses on the telescope as a concrete object proving seriousness, not just the credibility of her claims." },
+        { "distractor": "compelling", "closeness": 3, "reasoning": "Compelling means forceful and persuasive, but tangible describes the nature of the proof—something you can see and touch—not how persuasive it is." },
+        { "distractor": "reliable", "closeness": 2, "reasoning": "Reliable means trustworthy and dependable, but the sentence describes a physical object, not the reliability of a person or instrument's performance." },
+        { "distractor": "authentic", "closeness": 2, "reasoning": "Authentic means genuine and real, but while authenticity is related, the sentence specifically emphasizes the physical, perceivable nature of proof." },
+        { "distractor": "empirical", "closeness": 2, "reasoning": "Empirical means based on observation and experience, but the sentence requires a word describing the nature of the proof itself, not the method of acquiring knowledge." },
+        { "distractor": "visible", "closeness": 2, "reasoning": "Visible means able to be seen, but tangible emphasizes not just sight but touch and physical perception; a hologram might be visible but not tangible." },
+        { "distractor": "negligible", "closeness": 1, "reasoning": "Negligible means insignificant or unimportant, but the sentence shows the telescope as important proof, not trivial evidence." },
+        { "distractor": "hypothetical", "closeness": 1, "reasoning": "Hypothetical means supposed or theoretical, which opposes tangible; the telescope is a real, physical object, not a hypothetical construct." },
+        { "distractor": "ephemeral", "closeness": 1, "reasoning": "Ephemeral means lasting only briefly, but the sentence shows the telescope as lasting, tangible proof of commitment, not fleeting evidence." }
+      ]
+    }
+  ]
+}

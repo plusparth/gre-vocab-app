@@ -1,0 +1,53 @@
+{
+  "word": "tarnish",
+  "sentenceSets": [
+    {
+      "sentence": "The controversy tarnished the organization's reputation in ways that a more transparent response might have contained.",
+      "answerChoices": [
+        { "distractor": "damaged", "closeness": 3, "reasoning": "Damaged means harmed or impaired, but tarnish specifically implies dulling or soiling the luster or reputation, not just harm; a reputation can be damaged in ways besides tarnishing." },
+        { "distractor": "harmed", "closeness": 3, "reasoning": "Harmed means injured or hurt, but tarnish carries the specific connotation of dulling something that was bright or untarnished, implying a previous luster." },
+        { "distractor": "undermined", "closeness": 3, "reasoning": "Undermined means weakened from beneath, but tarnish suggests soiling the surface or luster, not structural weakening." },
+        { "distractor": "compromised", "closeness": 3, "reasoning": "Compromised means weakened by concessions or corruption, but tarnish suggests dulling or soiling a previously bright reputation." },
+        { "distractor": "blemished", "closeness": 2, "reasoning": "Blemished means marked with a flaw, but the sentence emphasizes the soiling or dulling effect of the controversy, not just marking with a defect." },
+        { "distractor": "stained", "closeness": 2, "reasoning": "Stained means marked with a discoloring substance, but while similar to tarnish, the sentence suggests dulling luster, not staining with dirt or discoloration." },
+        { "distractor": "weakened", "closeness": 2, "reasoning": "Weakened means made less strong, but the sentence requires a word about reputation's luster or shine, not strength." },
+        { "distractor": "impaired", "closeness": 2, "reasoning": "Impaired means made worse or less effective, but tarnish specifically suggests dulling or soiling a previously lustrous reputation." },
+        { "distractor": "enhanced", "closeness": 1, "reasoning": "Enhanced means improved or strengthened, which is opposite to the negative effect of the controversy on reputation." },
+        { "distractor": "polished", "closeness": 1, "reasoning": "Polished means made smooth and shiny, which is the opposite of tarnishing; the sentence shows reputation being dulled, not brightened." },
+        { "distractor": "obscured", "closeness": 1, "reasoning": "Obscured means made unclear or hidden, but the controversy didn't hide the reputation; it dulled or soiled it, making it less bright." }
+      ]
+    },
+    {
+      "sentence": "The CEO's leaked emails tarnished her carefully cultivated image as a visionary leader, revealing instead a calculating executive focused on profit margins.",
+      "answerChoices": [
+        { "distractor": "undermined", "closeness": 3, "reasoning": "Undermined means weakened from beneath, but tarnish specifically conveys soiling or dulling a bright image; the emails didn't just weaken her position but dulled her polished reputation." },
+        { "distractor": "destroyed", "closeness": 3, "reasoning": "Destroyed means ruined completely, but tarnish suggests dulling or soiling what was bright, not complete ruin; the image is tarnished but not entirely destroyed." },
+        { "distractor": "exposed", "closeness": 3, "reasoning": "Exposed means revealed or uncovered, but tarnish describes the effect on her reputation, not just the act of revealing information." },
+        { "distractor": "shattered", "closeness": 3, "reasoning": "Shattered means broken into pieces, but tarnish implies dulling or soiling something previously bright, not shattering it completely." },
+        { "distractor": "compromised", "closeness": 2, "reasoning": "Compromised means weakened by corruption or concessions, but tarnish specifically suggests dulling the luster of a reputation." },
+        { "distractor": "discredited", "closeness": 2, "reasoning": "Discredited means shown to be untrustworthy, but the sentence emphasizes the contrast between the cultivated image and the revealed reality; tarnish captures this dulling of shine." },
+        { "distractor": "humiliated", "closeness": 2, "reasoning": "Humiliated means embarrassed or shamed, but tarnish describes the effect on her public image and reputation's luster, not the personal emotion." },
+        { "distractor": "disparaged", "closeness": 2, "reasoning": "Disparaged means spoke badly of or belittled, but the sentence shows her own words revealing her nature; tarnish describes how the revelation affects her image." },
+        { "distractor": "vindicated", "closeness": 1, "reasoning": "Vindicated means cleared of blame or proven right, which is opposite to the negative effect the leaked emails had on her reputation." },
+        { "distractor": "elevated", "closeness": 1, "reasoning": "Elevated means raised up or promoted, which contradicts the dulling effect that tarnish conveys; the emails did the opposite of elevating her." },
+        { "distractor": "substantiated", "closeness": 1, "reasoning": "Substantiated means proved or supported with evidence, but the consequence was dulling her image, not supporting claims; the opposite effect." }
+      ]
+    },
+    {
+      "sentence": "Years of minor scandals and inconsistent leadership tarnished what had once been a gleaming brand promise, until customers began shopping elsewhere.",
+      "answerChoices": [
+        { "distractor": "eroded", "closeness": 3, "reasoning": "Eroded means worn away gradually, but tarnish specifically suggests dulling or soiling the luster of something bright, not gradual wearing away." },
+        { "distractor": "diminished", "closeness": 3, "reasoning": "Diminished means made smaller or less intense, but tarnish implies dulling brightness or soiling a surface, not just reducing in size or intensity." },
+        { "distractor": "weakened", "closeness": 3, "reasoning": "Weakened means made less strong, but the sentence requires a word about the gleam or luster of the brand, not strength." },
+        { "distractor": "faded", "closeness": 3, "reasoning": "Faded means lost brightness gradually, which overlaps with tarnish, but tarnish more actively suggests soiling or dulling, not just gradual fading." },
+        { "distractor": "obscured", "closeness": 2, "reasoning": "Obscured means made unclear or hidden, but the sentence shows the brand promise still visible but dulled, not hidden or made unclear." },
+        { "distractor": "compromised", "closeness": 2, "reasoning": "Compromised means weakened or corrupted, but the sentence emphasizes the gradual dulling of the brand's shine through scandals." },
+        { "distractor": "stigmatized", "closeness": 2, "reasoning": "Stigmatized means marked as shameful, but tarnish suggests dulling the bright promise, not necessarily marking as shameful." },
+        { "distractor": "corrupted", "closeness": 2, "reasoning": "Corrupted means made morally wrong or impure, but the sentence focuses on the dulling of brand promise, not moral corruption." },
+        { "distractor": "polished", "closeness": 1, "reasoning": "Polished means made smooth and bright, which is the opposite of tarnish; the sentence shows the brand becoming duller, not shinier." },
+        { "distractor": "burnished", "closeness": 1, "reasoning": "Burnished means made shiny by polishing, which is opposite to tarnishing; the brand was becoming duller through scandals, not brighter." },
+        { "distractor": "legitimized", "closeness": 1, "reasoning": "Legitimized means made valid or credible, which is opposite to the negative effect of scandals; tarnish shows the brand losing its luster." }
+      ]
+    }
+  ]
+}

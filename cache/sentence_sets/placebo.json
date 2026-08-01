@@ -1,0 +1,53 @@
+{
+  "word": "placebo",
+  "sentenceSets": [
+    {
+      "sentence": "The intervention functioned as a placebo for the committee, providing the appearance of action without addressing the actual problem.",
+      "answerChoices": [
+        { "distractor": "decoy", "closeness": 3, "reasoning": "Close -- 'decoy' is something designed to mislead or divert attention, which fits the idea of false action, but it emphasizes deliberate deception rather than an inert gesture that appears therapeutic." },
+        { "distractor": "sham", "closeness": 3, "reasoning": "Close -- 'sham' means something false or pretended, which matches the appearance without substance, but it emphasizes conscious fraud rather than the specific idea of something therapeutically inert." },
+        { "distractor": "façade", "closeness": 3, "reasoning": "Close -- 'façade' means a deceptive appearance, which fits the false appearance described, but it does not capture the specific function of providing psychological comfort without real effect." },
+        { "distractor": "pretense", "closeness": 3, "reasoning": "Close -- 'pretense' means a false appearance or claim, which matches the sentence's idea of appearing to act, but it emphasizes dishonesty rather than the specific mechanism of psychological reassurance." },
+        { "distractor": "measure", "closeness": 2, "reasoning": "Incorrect -- 'measure' is a course of action or step, which the intervention is, but it does not convey that the intervention is merely apparent rather than substantive." },
+        { "distractor": "step", "closeness": 2, "reasoning": "Incorrect -- 'step' is an action taken; while the intervention is a step, the sentence emphasizes it is not a real or effective one." },
+        { "distractor": "initiative", "closeness": 2, "reasoning": "Incorrect -- 'initiative' is a beginning action or program; while the intervention is an initiative, the word does not suggest it lacks real efficacy." },
+        { "distractor": "formality", "closeness": 2, "reasoning": "Incorrect -- 'formality' is a necessary procedure or ceremony; while the intervention may be formal, this does not capture its function as providing false appearance of action." },
+        { "distractor": "remedy", "closeness": 1, "reasoning": "Opposite -- 'remedy' means an effective cure or solution; this contradicts the sentence's assertion that the intervention does not address the actual problem." },
+        { "distractor": "solution", "closeness": 1, "reasoning": "Opposite -- 'solution' is an answer or effective resolution; this contradicts the idea that the intervention only appears to act without real effect." },
+        { "distractor": "panacea", "closeness": 1, "reasoning": "Opposite -- 'panacea' is a universal cure; this contradicts the intervention's failure to address the actual problem." }
+      ]
+    },
+    {
+      "sentence": "The new security protocol was little more than a placebo for anxious employees, since sophisticated hackers could circumvent it within hours.",
+      "answerChoices": [
+        { "distractor": "theater", "closeness": 3, "reasoning": "Close -- 'theater' means false or pretended activity, which fits false security, but it emphasizes performative deception rather than the specific psychological effect of appearing protective." },
+        { "distractor": "illusion", "closeness": 3, "reasoning": "Close -- 'illusion' is a false appearance or perception, which fits the security being ineffective, but it does not emphasize the psychological comfort provided despite ineffectiveness." },
+        { "distractor": "ruse", "closeness": 3, "reasoning": "Close -- 'ruse' is a trick or stratagem, which fits something designed to deceive, but it implies intentional deception rather than the specific idea of psychological reassurance without real benefit." },
+        { "distractor": "mirage", "closeness": 3, "reasoning": "Close -- 'mirage' is something that appears but is not real, which fits the false sense of security, but it emphasizes the illusory nature rather than the psychological comfort function." },
+        { "distractor": "precaution", "closeness": 2, "reasoning": "Incorrect -- 'precaution' is a measure taken to prevent harm; while the protocol is meant as a precaution, the sentence emphasizes it provides no real protection." },
+        { "distractor": "safeguard", "closeness": 2, "reasoning": "Incorrect -- 'safeguard' is a protection or protection system; the sentence shows the protocol provides no real safeguard despite appearing to." },
+        { "distractor": "barrier", "closeness": 2, "reasoning": "Incorrect -- 'barrier' is something that prevents passage or harm; while the protocol attempts to be a barrier, it is ineffective." },
+        { "distractor": "filter", "closeness": 2, "reasoning": "Incorrect -- 'filter' is something that blocks unwanted elements; while the protocol attempts to filter threats, it is insufficient." },
+        { "distractor": "fortification", "closeness": 1, "reasoning": "Opposite -- 'fortification' is a strong defensive structure; this contradicts the protocol's lack of real security effectiveness." },
+        { "distractor": "armor", "closeness": 1, "reasoning": "Opposite -- 'armor' is protective covering; this contradicts the protocol's failure to provide real protection." },
+        { "distractor": "shield", "closeness": 1, "reasoning": "Opposite -- 'shield' is something that protects; this contradicts the vulnerability shown by hackers' ability to circumvent the protocol." }
+      ]
+    },
+    {
+      "sentence": "Critics argued that the government's initiative to address poverty was merely a placebo, offering programs that improved statistics without improving lives.",
+      "answerChoices": [
+        { "distractor": "gesture", "closeness": 3, "reasoning": "Close -- 'gesture' means a symbolic action, which fits something appearing to help without real effect, but it does not emphasize the specific psychological mechanism of false relief." },
+        { "distractor": "token", "closeness": 3, "reasoning": "Close -- 'token' means a superficial or symbolic gesture, which fits appearance without substance, but it does not capture the idea of psychological comfort provided by the false action." },
+        { "distractor": "window dressing", "closeness": 3, "reasoning": "Close -- 'window dressing' is superficial improvement in appearance, which fits the idea of improved statistics without improved reality, but it is a phrase rather than a single word." },
+        { "distractor": "lip service", "closeness": 3, "reasoning": "Close -- 'lip service' means insincere agreement or support, which fits the idea of appearing to address the problem, but it is a phrase and emphasizes insincerity rather than the psychological mechanism." },
+        { "distractor": "program", "closeness": 2, "reasoning": "Incorrect -- 'program' is a planned course of action; the sentence does not deny that programs exist, only that they lack real effect." },
+        { "distractor": "policy", "closeness": 2, "reasoning": "Incorrect -- 'policy' is a course of action or principle; while the initiative is policy, the word does not suggest its ineffectiveness." },
+        { "distractor": "strategy", "closeness": 2, "reasoning": "Incorrect -- 'strategy' is a plan of action; the sentence criticizes the strategy's ineffectiveness, but 'strategy' itself does not convey false appearance." },
+        { "distractor": "attempt", "closeness": 2, "reasoning": "Incorrect -- 'attempt' is an effort to do something; while the initiative is an attempt, the word does not suggest it fails to achieve real change." },
+        { "distractor": "solution", "closeness": 1, "reasoning": "Opposite -- 'solution' means an effective answer; this contradicts the argument that the initiative provides no real improvement." },
+        { "distractor": "remedy", "closeness": 1, "reasoning": "Opposite -- 'remedy' is an effective treatment or cure; this contradicts the critics' view that the initiative does not improve lives." },
+        { "distractor": "breakthrough", "closeness": 1, "reasoning": "Opposite -- 'breakthrough' means a significant discovery or progress; this contradicts the critics' argument that the initiative only appears effective." }
+      ]
+    }
+  ]
+}

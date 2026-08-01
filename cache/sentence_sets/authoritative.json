@@ -1,0 +1,53 @@
+{
+  "word": "authoritative",
+  "sentenceSets": [
+    {
+      "sentence": "She was the most authoritative voice on the subject, having studied it for more than twenty years.",
+      "answerChoices": [
+        { "distractor": "authoritarian", "closeness": 3, "reasoning": "She holds authority on the subject, but 'authoritarian' emphasizes demanding submission, not expertise-based authority." },
+        { "distractor": "knowledgeable", "closeness": 3, "reasoning": "She is knowledgeable from study, but 'knowledgeable' describes possessing information, not the recognized authority that makes pronouncements commanding respect." },
+        { "distractor": "expert", "closeness": 3, "reasoning": "She is an expert through study, but 'expert' describes skill level, not the authoritative position to speak with commanding respect." },
+        { "distractor": "learned", "closeness": 3, "reasoning": "She is learned from study, but 'learned' describes educational background, not authoritative standing." },
+        { "distractor": "credible", "closeness": 2, "reasoning": "She is credible due to experience, but 'credible' describes reliability, not the authoritative voice that commands attention." },
+        { "distractor": "competent", "closeness": 2, "reasoning": "She is competent from study, but 'competent' describes ability, not authoritative standing in a field." },
+        { "distractor": "experienced", "closeness": 2, "reasoning": "She is experienced with twenty years of study, but 'experienced' describes background, not authoritative recognized position." },
+        { "distractor": "respected", "closeness": 2, "reasoning": "She is respected for expertise, but 'respected' describes others' regard, not the authoritative voice itself." },
+        { "distractor": "ignorant", "closeness": 1, "reasoning": "The opposite quality; she has studied for twenty years, so she is not ignorant." },
+        { "distractor": "novice", "closeness": 1, "reasoning": "The opposite experience level; authoritative voice comes from extensive study, not inexperience." },
+        { "distractor": "unreliable", "closeness": 1, "reasoning": "The opposite quality; authoritative voice based on twenty years of study is reliable, not unreliable." }
+      ]
+    },
+    {
+      "sentence": "The report's authoritative tone convinced the board members to approve the proposal without significant objections.",
+      "answerChoices": [
+        { "distractor": "commanding", "closeness": 3, "reasoning": "The tone is commanding and forceful, but 'commanding' emphasizes imperious authority, not authoritative credibility." },
+        { "distractor": "assertive", "closeness": 3, "reasoning": "The tone is assertive and confident, but 'assertive' emphasizes forceful expression, not the authoritative credibility." },
+        { "distractor": "confident", "closeness": 3, "reasoning": "The tone is confident, but 'confident' describes the speaker's assurance, not the authoritative credibility that persuades." },
+        { "distractor": "convincing", "closeness": 3, "reasoning": "The tone is convincing, but 'convincing' describes the persuasive effect, not the authoritative basis for credibility." },
+        { "distractor": "forceful", "closeness": 2, "reasoning": "The tone is forceful in delivery, but 'forceful' emphasizes intensity, not authoritative credibility." },
+        { "distractor": "persuasive", "closeness": 2, "reasoning": "The tone is persuasive in effect, but 'persuasive' describes outcome, not the authoritative basis." },
+        { "distractor": "strong", "closeness": 2, "reasoning": "The tone is strong and firm, but 'strong' describes intensity, not specifically authoritative credibility." },
+        { "distractor": "impressive", "closeness": 2, "reasoning": "The tone impresses listeners, but 'impressive' describes effect, not the authoritative basis." },
+        { "distractor": "uncertain", "closeness": 1, "reasoning": "The opposite quality; authoritative tone conveys certainty and credibility, not uncertainty." },
+        { "distractor": "hesitant", "closeness": 1, "reasoning": "The opposite demeanor; authoritative tone is confident and clear, not hesitant." },
+        { "distractor": "weak", "closeness": 1, "reasoning": "The opposite quality; an authoritative tone that persuades is strong, not weak." }
+      ]
+    },
+    {
+      "sentence": "The agency issued an authoritative statement confirming new safety regulations after months of investigation and testing.",
+      "answerChoices": [
+        { "distractor": "official", "closeness": 3, "reasoning": "The statement is official from the agency, but 'official' describes the source of authority, not the credible, commanding nature." },
+        { "distractor": "definitive", "closeness": 3, "reasoning": "The statement is definitive after investigation, but 'definitive' describes finality of conclusion, not commanding credibility." },
+        { "distractor": "conclusive", "closeness": 3, "reasoning": "The statement is conclusive from testing, but 'conclusive' describes the evidence quality, not the authoritative credibility." },
+        { "distractor": "authoritarian", "closeness": 3, "reasoning": "The statement comes from authority, but 'authoritarian' implies demand for submission, not the credible pronouncement of 'authoritative.'" },
+        { "distractor": "mandatory", "closeness": 2, "reasoning": "The regulations are mandatory, but 'mandatory' describes binding status, not authoritative credibility." },
+        { "distractor": "binding", "closeness": 2, "reasoning": "The regulations are binding, but 'binding' describes legal force, not the authoritative basis." },
+        { "distractor": "regulatory", "closeness": 2, "reasoning": "The statement issues regulations, but 'regulatory' describes the function, not the authoritative credibility." },
+        { "distractor": "approved", "closeness": 2, "reasoning": "The statement has approval, but 'approved' describes endorsement, not the authoritative credibility." },
+        { "distractor": "tentative", "closeness": 1, "reasoning": "The opposite quality; authoritative statement after thorough investigation is definitive, not tentative." },
+        { "distractor": "unofficial", "closeness": 1, "reasoning": "The opposite source; an authoritative statement comes from the agency with established authority." },
+        { "distractor": "unproven", "closeness": 1, "reasoning": "The opposite basis; authoritative statement follows investigation and testing, not coming from an unproven source." }
+      ]
+    }
+  ]
+}

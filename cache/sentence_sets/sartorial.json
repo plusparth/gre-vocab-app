@@ -1,0 +1,53 @@
+{
+  "word": "sartorial",
+  "sentenceSets": [
+    {
+      "sentence": "His sartorial choices were noted in every profile written about him, a detail that he seemed simultaneously to cultivate and to find slightly absurd.",
+      "answerChoices": [
+        { "distractor": "fashion", "closeness": 3, "reasoning": "Fashion refers to the prevailing style, but sartorial specifically relates to tailoring and cut, not merely following what is currently stylish." },
+        { "distractor": "aesthetic", "closeness": 3, "reasoning": "Aesthetic relates to beauty and artistic taste generally, while sartorial specifically concerns the tailoring and fit of clothing." },
+        { "distractor": "stylistic", "closeness": 3, "reasoning": "Stylistic refers to manner and style broadly, while sartorial specifically pertains to tailored garments and the craft of tailoring." },
+        { "distractor": "vestmental", "closeness": 3, "reasoning": "Vestmental relates to clothing generally, but sartorial specifically involves tailored clothes and the art of tailoring." },
+        { "distractor": "wardrobe", "closeness": 2, "reasoning": "Wardrobe refers to one's collection of clothes, but doesn't specifically address tailoring or the craft aspect that sartorial implies." },
+        { "distractor": "dress", "closeness": 2, "reasoning": "Dress refers to clothing generally, but sartorial adds the specific dimension of tailoring and fit." },
+        { "distractor": "appearance", "closeness": 2, "reasoning": "Appearance refers to one's overall look, which includes but is not limited to sartorial choices." },
+        { "distractor": "personal", "closeness": 2, "reasoning": "Personal describes something belonging to an individual, but doesn't specifically relate to tailoring or clothing craftsmanship." },
+        { "distractor": "casual", "closeness": 1, "reasoning": "Casual describes informal clothing, which is not necessarily tailored and thus opposed to sartorial elegance." },
+        { "distractor": "unkempt", "closeness": 1, "reasoning": "Unkempt means messy and not carefully arranged, the opposite of the refined tailoring that sartorial implies." },
+        { "distractor": "slovenly", "closeness": 1, "reasoning": "Slovenly means untidy and careless about appearance, the opposite of sartorial refinement." }
+      ]
+    },
+    {
+      "sentence": "The ambassador's impeccable sartorial presentation was a deliberate signal of respect for the formal diplomatic occasion.",
+      "answerChoices": [
+        { "distractor": "grooming", "closeness": 3, "reasoning": "Grooming refers to personal cleanliness and arrangement of hair and appearance, related to but distinct from sartorial choices about tailored clothing." },
+        { "distractor": "bearing", "closeness": 3, "reasoning": "Bearing refers to posture and demeanor, which complement sartorial choices but are not the same as tailored dress." },
+        { "distractor": "etiquette", "closeness": 3, "reasoning": "Etiquette refers to rules of proper conduct, which sartorial choices reflect, but etiquette is broader than just clothing." },
+        { "distractor": "decorum", "closeness": 3, "reasoning": "Decorum means proper behavior and appearance, which includes sartorial choices but encompasses more than just tailoring." },
+        { "distractor": "attire", "closeness": 2, "reasoning": "Attire means clothing or outfit, which includes but is not specific to tailored garments the way sartorial is." },
+        { "distractor": "regalia", "closeness": 2, "reasoning": "Regalia refers to special ceremonial clothing, which may be tailored but specifically denotes official or ceremonial dress." },
+        { "distractor": "outfit", "closeness": 2, "reasoning": "Outfit means a set of clothes worn together, but doesn't specifically emphasize the tailoring quality." },
+        { "distractor": "costume", "closeness": 2, "reasoning": "Costume refers to clothing for a special purpose or role, which may or may not involve careful tailoring." },
+        { "distractor": "negligent", "closeness": 1, "reasoning": "Negligent means careless, the opposite of the careful sartorial attention implied in the sentence." },
+        { "distractor": "disheveled", "closeness": 1, "reasoning": "Disheveled means in disarray and untidy, opposite to impeccable sartorial presentation." },
+        { "distractor": "disrespectful", "closeness": 1, "reasoning": "Disrespectful means showing lack of regard, opposite to the respectful intention of careful sartorial presentation." }
+      ]
+    },
+    {
+      "sentence": "The designer's sartorial innovation in combining unconventional fabrics demonstrated that tailoring could evolve beyond tradition.",
+      "answerChoices": [
+        { "distractor": "textile", "closeness": 3, "reasoning": "Textile refers to woven or knitted fabric, the material of which clothes are made, but not the specific art of tailoring." },
+        { "distractor": "structural", "closeness": 3, "reasoning": "Structural refers to the framework or underlying form, while sartorial specifically relates to tailored garment construction." },
+        { "distractor": "craftsmanship", "closeness": 3, "reasoning": "Craftsmanship refers to skill in making things generally, while sartorial specifically concerns the skill of tailoring." },
+        { "distractor": "technical", "closeness": 3, "reasoning": "Technical refers to methods and procedures generally, while sartorial specifically refers to tailoring techniques." },
+        { "distractor": "artistic", "closeness": 2, "reasoning": "Artistic refers to creative expression generally, while sartorial specifically concerns the artistic application to tailored clothing." },
+        { "distractor": "design", "closeness": 2, "reasoning": "Design refers to the planning and arrangement of elements, which is part of sartorial work but encompasses broader applications." },
+        { "distractor": "construction", "closeness": 2, "reasoning": "Construction refers to building or assembling things generally, not specifically to the craft of tailoring." },
+        { "distractor": "approach", "closeness": 2, "reasoning": "Approach refers to a method or manner of dealing with something, but doesn't specifically relate to tailoring." },
+        { "distractor": "conservative", "closeness": 1, "reasoning": "Conservative means adhering to tradition and resistant to change, opposite to the innovation described in the sentence." },
+        { "distractor": "outdated", "closeness": 1, "reasoning": "Outdated means no longer current or relevant, opposite to the innovative quality described." },
+        { "distractor": "formulaic", "closeness": 1, "reasoning": "Formulaic means following a predetermined pattern without innovation, opposite to the novel approach described." }
+      ]
+    }
+  ]
+}

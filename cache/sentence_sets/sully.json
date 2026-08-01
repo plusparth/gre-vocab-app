@@ -1,0 +1,53 @@
+{
+  "word": "sully",
+  "sentenceSets": [
+    {
+      "sentence": "The disclosure sullied a reputation that had been built over decades by a record of work that the disclosure did not actually contradict.",
+      "answerChoices": [
+        { "distractor": "damaged", "closeness": 3, "reasoning": "'Damaged' means harmed; while the disclosure damages the reputation, 'sully' specifically emphasizes the tarnishing of something previously clean or unblemished." },
+        { "distractor": "impaired", "closeness": 3, "reasoning": "'Impaired' means weakened in function; the reputation is weakened, but 'sully' emphasizes defiling or tarnishing reputation, not just weakening it." },
+        { "distractor": "compromised", "closeness": 3, "reasoning": "'Compromised' means put at risk or weakened; while the reputation is at risk, 'sully' specifically emphasizes the staining or tarnishing quality." },
+        { "distractor": "tarnished", "closeness": 3, "reasoning": "'Tarnished' means dulled or diminished luster; while the disclosure tarnishes the reputation, 'sully' involves specifically soiling or defiling." },
+        { "distractor": "questioned", "closeness": 2, "reasoning": "The disclosure might raise questions, but 'questioned' describes doubt about credibility, not the soiling/tainting action of sullying." },
+        { "distractor": "criticized", "closeness": 2, "reasoning": "The disclosure might invite criticism, but 'criticized' describes judgment, not the act of soiling reputation." },
+        { "distractor": "weakened", "closeness": 2, "reasoning": "The reputation is weakened by the disclosure, but 'weakened' is broader than the specific sense of defiling." },
+        { "distractor": "undermined", "closeness": 2, "reasoning": "The disclosure undermines confidence in the reputation, but 'undermined' suggests structural weakening, not the specific act of tainting." },
+        { "distractor": "enhanced", "closeness": 1, "reasoning": "The disclosure harms the reputation; enhancing it would be the opposite effect." },
+        { "distractor": "validated", "closeness": 1, "reasoning": "The disclosure doesn't actually contradict the work record, so it doesn't validate; it sullies without justification." },
+        { "distractor": "purified", "closeness": 1, "reasoning": "Sullying taints or defiles; purifying would clean and restore, the opposite." }
+      ]
+    },
+    {
+      "sentence": "The scandal threatened to sully the entire industry's credibility, as journalists uncovered misconduct that implicated multiple major companies.",
+      "answerChoices": [
+        { "distractor": "stain", "closeness": 3, "reasoning": "'Stain' means mark with discoloration; while the scandal stains the industry, 'sully' specifically emphasizes the defiling or tarnishing of reputation." },
+        { "distractor": "taint", "closeness": 3, "reasoning": "'Taint' means contaminate; the scandal contaminates the industry, but 'sully' adds the specific sense of soiling or besmirching honor." },
+        { "distractor": "blemish", "closeness": 3, "reasoning": "'Blemish' means spot or flaw; the scandal creates a flaw in the industry's reputation, but 'sully' emphasizes the act of defiling." },
+        { "distractor": "damage", "closeness": 3, "reasoning": "The scandal damages the industry's credibility, but 'damage' is broader than the specific sense of soiling or defiling reputation." },
+        { "distractor": "expose", "closeness": 2, "reasoning": "Journalists expose the misconduct, but 'expose' describes revealing wrongdoing, not the act of defiling reputation." },
+        { "distractor": "embarrass", "closeness": 2, "reasoning": "The scandal embarrasses the industry, but that's the social response to exposure, not the act of sullying." },
+        { "distractor": "discredit", "closeness": 2, "reasoning": "The scandal discredits the industry, but 'discredit' emphasizes removing trust, not specifically the tainting action." },
+        { "distractor": "accuse", "closeness": 2, "reasoning": "The journalists' findings amount to accusation, but 'accuse' is formal charge; 'sully' describes the effect on reputation." },
+        { "distractor": "protect", "closeness": 1, "reasoning": "The scandal threatens to sully the industry's credibility; protecting it would prevent sullying." },
+        { "distractor": "vindicate", "closeness": 1, "reasoning": "Exposing misconduct that implicates companies doesn't vindicate them; it sullies their reputation." },
+        { "distractor": "restore", "closeness": 1, "reasoning": "A scandal sullies reputation; restoration would be the opposite action." }
+      ]
+    },
+    {
+      "sentence": "The plagiarism allegation would sully her academic record even if unproven, as the accusation alone would cast doubt on all her published work.",
+      "answerChoices": [
+        { "distractor": "mark", "closeness": 3, "reasoning": "'Mark' means make a visible impression; while the accusation marks her record, 'sully' specifically means to defile or tarnish with a stain." },
+        { "distractor": "spot", "closeness": 3, "reasoning": "'Spot' means notice or mark; the accusation creates a spot on her record, but 'sully' emphasizes the defiling quality." },
+        { "distractor": "blemish", "closeness": 3, "reasoning": "'Blemish' means create a flaw; while the accusation creates a flaw in her record, 'sully' emphasizes the soiling action." },
+        { "distractor": "compromise", "closeness": 3, "reasoning": "'Compromise' means put at risk; while the accusation compromises her work's credibility, 'sully' emphasizes the tainting action." },
+        { "distractor": "question", "closeness": 2, "reasoning": "The accusation raises questions about her work, but 'question' describes doubt, not the soiling of academic reputation." },
+        { "distractor": "undermine", "closeness": 2, "reasoning": "The accusation undermines confidence in her work, but 'undermine' describes structural weakening, not specific defilement." },
+        { "distractor": "discredit", "closeness": 2, "reasoning": "The accusation discredits her by raising doubt, but 'discredit' is broader than the specific sense of sullying." },
+        { "distractor": "challenge", "closeness": 2, "reasoning": "The accusation challenges the integrity of her work, but 'challenge' describes questioning, not the act of tainting." },
+        { "distractor": "honor", "closeness": 1, "reasoning": "A plagiarism accusation sullies her reputation; honoring it would affirm credibility." },
+        { "distractor": "vindicate", "closeness": 1, "reasoning": "An accusation of plagiarism doesn't vindicate; it sullies reputation." },
+        { "distractor": "cleanse", "closeness": 1, "reasoning": "Sullying taints or soils; cleansing would remove the stain." }
+      ]
+    }
+  ]
+}

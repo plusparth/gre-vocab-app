@@ -1,0 +1,53 @@
+{
+  "word": "tome",
+  "sentenceSets": [
+    {
+      "sentence": "The definitive tome on the subject ran to eight hundred pages and had been updated only twice in thirty years.",
+      "answerChoices": [
+        { "distractor": "treatise", "closeness": 3, "reasoning": "A treatise is a formal written work on a subject, fitting the 'definitive' authoritative work described; however, a treatise doesn't necessarily imply the physical weight and page count that 'tome' suggests." },
+        { "distractor": "manuscript", "closeness": 3, "reasoning": "A manuscript is written text, and the sentence could describe an authoritative manuscript; however, 'manuscript' typically refers to unpublished writing, while the sentence implies an established, published reference work." },
+        { "distractor": "compilation", "closeness": 3, "reasoning": "A compilation is a collection of works or materials on a subject, fitting the definitive, comprehensive nature described; however, 'compilation' suggests assembled pieces, while a 'tome' is typically a coherent single work." },
+        { "distractor": "reference", "closeness": 3, "reasoning": "A reference work provides authoritative information on a subject, fitting perfectly; however, 'reference' is more of a category than a physical object—the sentence describes a specific large book with page count." },
+        { "distractor": "text", "closeness": 2, "reasoning": "'Text' can mean a book or written work, fitting the sentence; however, 'text' is general and doesn't carry the sense of weight, substance, or definitive authority that 'tome' implies." },
+        { "distractor": "volume", "closeness": 2, "reasoning": "'Volume' means a bound book, fitting the physical object described; however, 'volume' is neutral about size or importance, while 'tome' implies a substantial, weighty work." },
+        { "distractor": "edition", "closeness": 2, "reasoning": "'Edition' refers to a particular printing of a work, and the sentence mentions 'updated,' fitting; however, the sentence is about the work itself, not a specific edition of it." },
+        { "distractor": "publication", "closeness": 2, "reasoning": "'Publication' is a work that has been published, fitting; however, it's too broad—the sentence describes a specific authoritative work, not just any published item." },
+        { "distractor": "article", "closeness": 1, "reasoning": "An article is a shorter written work, usually in a magazine or journal; the sentence describes something eight hundred pages long, making a short article incompatible." },
+        { "distractor": "summary", "closeness": 1, "reasoning": "A summary is a brief account of main points; the sentence describes an eight-hundred-page definitive work, which is the opposite of a summary." },
+        { "distractor": "abstract", "closeness": 1, "reasoning": "An abstract is a brief summary of a work; the sentence emphasizes length (eight hundred pages) and definitiveness, opposite to what an abstract represents." }
+      ]
+    },
+    {
+      "sentence": "She pulled a dusty tome from the bottom shelf, a bound volume on medieval heraldry that had belonged to the university library for over a century.",
+      "answerChoices": [
+        { "distractor": "manuscript", "closeness": 3, "reasoning": "A manuscript is a hand-written text, and the sentence's description of an old, dusty volume could fit; however, the phrase 'belonged to the university library' suggests a published, cataloged book, not an unpublished manuscript." },
+        { "distractor": "volume", "closeness": 3, "reasoning": "'Volume' means a bound book, exactly describing the physical object; the distinction is that 'volume' is neutral about size and age, while 'tome' implies a substantial, weighty work accumulated over time." },
+        { "distractor": "codex", "closeness": 3, "reasoning": "A codex is an ancient bound manuscript or book, fitting the historical context perfectly; 'codex' is so close that it could trap someone, though it often implies ancient origins more specifically than 'tome.'" },
+        { "distractor": "compilation", "closeness": 3, "reasoning": "A compilation is a collection of materials on a subject, fitting a specialized heraldry work; however, the sentence describes a single bound work, not an assembly of pieces." },
+        { "distractor": "copy", "closeness": 2, "reasoning": "'Copy' refers to one instance of a book, and the sentence describes a specific copy; however, 'copy' doesn't capture the sense of substance and age that the description conveys." },
+        { "distractor": "edition", "closeness": 2, "reasoning": "'Edition' refers to a particular printing or version, fitting a book in a library; however, the sentence emphasizes the book's physical nature and history, not its status as a particular edition." },
+        { "distractor": "reference", "closeness": 2, "reasoning": "'Reference' suggests a work used for looking up information, which a medieval heraldry book might be; however, the sentence emphasizes age and physical presence, not informational use." },
+        { "distractor": "text", "closeness": 2, "reasoning": "'Text' means a written work, fitting the object pulled from the shelf; however, it's too general—the sentence describes something with particular weight, age, and substance." },
+        { "distractor": "pamphlet", "closeness": 1, "reasoning": "A pamphlet is a thin booklet; the sentence describes something dusty and substantial that has belonged to a library for a century, which wouldn't be a thin pamphlet." },
+        { "distractor": "leaflet", "closeness": 1, "reasoning": "A leaflet is a single or small printed sheet; the sentence describes a bound volume, which is entirely different from a leaflet." },
+        { "distractor": "scroll", "closeness": 1, "reasoning": "A scroll is an ancient form of written text rolled up; the sentence describes a 'bound volume,' indicating pages in a book form, not a rolled scroll." }
+      ]
+    },
+    {
+      "sentence": "The explorer carried only three essential items on his expedition: a map, a compass, and a weathered tome containing centuries-old notes from previous travelers.",
+      "answerChoices": [
+        { "distractor": "journal", "closeness": 3, "reasoning": "A journal is a personal record or notebook, and a tome of previous travelers' notes could be journal-like; the distinction is that 'journal' typically implies one person's entries, while 'tome' suggests a substantial, accumulative record." },
+        { "distractor": "logbook", "closeness": 3, "reasoning": "A logbook records observations and events, fitting a record of previous travelers; 'logbook' is so similar that it could trap someone, though it often refers to ship records specifically." },
+        { "distractor": "manuscript", "closeness": 3, "reasoning": "A manuscript is handwritten text, fitting centuries-old notes; however, the sentence implies an organized, collected volume that has traveled with multiple explorers, rather than a single manuscript." },
+        { "distractor": "chronicle", "closeness": 3, "reasoning": "A chronicle is a historical narrative or record of events, fitting previous travelers' notes; the distinction is that 'chronicle' emphasizes historical narrative, while 'tome' emphasizes the physical book itself." },
+        { "distractor": "guide", "closeness": 2, "reasoning": "'Guide' could refer to a guidebook, fitting the practical information in previous notes; however, the sentence emphasizes notes from travelers, not an organized guide." },
+        { "distractor": "record", "closeness": 2, "reasoning": "'Record' is an account of facts or events, fitting the notes described; however, 'record' is too general—the sentence describes a specific physical book carried on expeditions." },
+        { "distractor": "archive", "closeness": 2, "reasoning": "'Archive' is a collection of documents, fitting accumulated travelers' notes; however, an archive is typically stationary in a location, while the sentence describes something carried on an expedition." },
+        { "distractor": "collection", "closeness": 2, "reasoning": "'Collection' suggests gathered items, fitting the accumulated notes; however, 'collection' is too broad—the sentence describes a single bound volume." },
+        { "distractor": "map", "closeness": 1, "reasoning": "The sentence explicitly lists 'map' as a separate item from this object; it cannot be the same thing." },
+        { "distractor": "compass", "closeness": 1, "reasoning": "The sentence explicitly lists 'compass' as a separate item from this object; they are distinct essential items." },
+        { "distractor": "legend", "closeness": 1, "reasoning": "'Legend' refers to an explanatory list of symbols (as on a map) or a story; while notes might contain information, 'legend' doesn't describe a substantive book of travelers' notes." }
+      ]
+    }
+  ]
+}

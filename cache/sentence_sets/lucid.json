@@ -1,0 +1,53 @@
+{
+  "word": "lucid",
+  "sentenceSets": [
+    {
+      "sentence": "Her lucid account of the technical problem allowed non-specialists to engage with the policy implications without getting lost.",
+      "answerChoices": [
+        { "distractor": "clear", "closeness": 3, "reasoning": "A clear account would help non-specialists, but clear is less precise than lucid, which emphasizes intellectual clarity specifically." },
+        { "distractor": "transparent", "closeness": 3, "reasoning": "While transparent suggests openness, it's less precise than lucid for describing an account that's understandable to laypeople." },
+        { "distractor": "coherent", "closeness": 3, "reasoning": "Coherent describes logical connection, but doesn't capture the clarity and intelligibility that enable non-specialist engagement." },
+        { "distractor": "pellucid", "closeness": 3, "reasoning": "This is nearly synonymous with lucid, describing crystal-clear communication, making it a strong trap answer." },
+        { "distractor": "detailed", "closeness": 2, "reasoning": "A detailed account provides information, but might overwhelm non-specialists; lucid adds the clarity that detail alone doesn't guarantee." },
+        { "distractor": "straightforward", "closeness": 2, "reasoning": "Straightforward suggests directness but not necessarily intellectual clarity; it could still confuse laypeople." },
+        { "distractor": "simple", "closeness": 2, "reasoning": "Simple accounts are easy to follow, but the sentence requires engagement with policy implications, demanding more than mere simplicity." },
+        { "distractor": "thorough", "closeness": 2, "reasoning": "Thorough coverage of the problem is present, but thoroughness doesn't guarantee non-specialists can actually understand it." },
+        { "distractor": "obscure", "closeness": 1, "reasoning": "An obscure account would confuse non-specialists, directly contradicting the sentence's meaning about facilitating engagement." },
+        { "distractor": "confusing", "closeness": 1, "reasoning": "A confusing account would prevent engagement with policy implications, opposite of the enabling effect described." },
+        { "distractor": "cryptic", "closeness": 1, "reasoning": "Cryptic meaning would be hidden, preventing non-specialists from understanding, opposite of the accessibility shown here." }
+      ]
+    },
+    {
+      "sentence": "The patient's lucid explanation of her symptoms gave the doctor the precise information needed for an accurate diagnosis.",
+      "answerChoices": [
+        { "distractor": "comprehensible", "closeness": 3, "reasoning": "While comprehensible means understandable, lucid specifically conveys mental clarity and coherence required for medical precision." },
+        { "distractor": "articulate", "closeness": 3, "reasoning": "Articulate describes clear speech, but doesn't capture the mental clarity and coherence that lucid conveys." },
+        { "distractor": "precise", "closeness": 3, "reasoning": "While precise means exact, lucid conveys the clarity and coherence of the explanation itself, not just its accuracy." },
+        { "distractor": "explicit", "closeness": 3, "reasoning": "Explicit means clearly stated, but doesn't capture the intellectual clarity and coherence that lucid provides." },
+        { "distractor": "succinct", "closeness": 2, "reasoning": "Succinct information is brief, but the sentence emphasizes explanation quality more than brevity." },
+        { "distractor": "methodical", "closeness": 2, "reasoning": "Methodical approach is organized, but doesn't necessarily convey the clarity and intelligibility emphasized here." },
+        { "distractor": "logical", "closeness": 2, "reasoning": "Logical explanation follows reason, but doesn't capture the immediate clarity and comprehensibility of lucid thinking." },
+        { "distractor": "organized", "closeness": 2, "reasoning": "Organization helps communication, but organized information might still be hard to understand without intellectual clarity." },
+        { "distractor": "vague", "closeness": 1, "reasoning": "Vague symptoms would confuse the doctor, opposite of giving the precise information needed for diagnosis." },
+        { "distractor": "ambiguous", "closeness": 1, "reasoning": "Ambiguous explanation creates doubt, opposite of the clear information that enables accurate diagnosis." },
+        { "distractor": "opaque", "closeness": 1, "reasoning": "Opaque meaning would prevent the doctor from obtaining precise information, opposite of what the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "His lucid writing style made complex philosophical concepts accessible to a general audience.",
+      "answerChoices": [
+        { "distractor": "plain", "closeness": 3, "reasoning": "Plain style might be simple, but doesn't capture the intellectual clarity needed to make complex philosophy accessible." },
+        { "distractor": "obvious", "closeness": 3, "reasoning": "Obvious doesn't describe writing style or clarity; it suggests something is already known rather than made clear." },
+        { "distractor": "manifest", "closeness": 3, "reasoning": "Manifest means clearly apparent, but it doesn't describe a writing style that clarifies complex concepts." },
+        { "distractor": "perspicuous", "closeness": 3, "reasoning": "This is nearly synonymous with lucid, both describing clear and easily understood communication, making it a strong trap." },
+        { "distractor": "informative", "closeness": 2, "reasoning": "Informative writing provides information, but doesn't guarantee the clarity needed to make complexity understandable." },
+        { "distractor": "accessible", "closeness": 2, "reasoning": "While accessible writing reaches an audience, it doesn't specifically convey the intellectual clarity that lucid does." },
+        { "distractor": "concise", "closeness": 2, "reasoning": "Concise writing is brief, but brevity doesn't necessarily make complex philosophical concepts comprehensible." },
+        { "distractor": "instructive", "closeness": 2, "reasoning": "Instructive writing teaches, but doesn't capture the clarity of thought that makes difficult concepts transparent." },
+        { "distractor": "convoluted", "closeness": 1, "reasoning": "Convoluted style would further confuse complex concepts, opposite of making them accessible to general readers." },
+        { "distractor": "dense", "closeness": 1, "reasoning": "Dense writing obscures meaning, opposite of the clarity needed to make philosophical concepts accessible." },
+        { "distractor": "murky", "closeness": 1, "reasoning": "Murky writing hides meaning, opposite of the clarity that makes complex ideas understandable." }
+      ]
+    }
+  ]
+}

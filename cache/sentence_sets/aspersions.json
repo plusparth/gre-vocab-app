@@ -1,0 +1,53 @@
+{
+  "word": "aspersions",
+  "sentenceSets": [
+    {
+      "sentence": "The unfounded aspersions cast on her character were eventually retracted in a public apology.",
+      "answerChoices": [
+        { "distractor": "doubts", "closeness": 3, "reasoning": "While 'doubts' means questions or uncertainties, the sentence emphasizes unfounded false charges made publicly, requiring a retraction." },
+        { "distractor": "criticisms", "closeness": 3, "reasoning": "'Criticisms' means disapproving comments; while aspersions are critical, the sentence emphasizes they are unfounded false charges to reputation." },
+        { "distractor": "accusations", "closeness": 3, "reasoning": "'Accusations' mean charges of wrongdoing; while aspersions are accusations, the sentence emphasizes they are unfounded and required public retraction." },
+        { "distractor": "allegations", "closeness": 3, "reasoning": "'Allegations' mean unproven claims; while similar, the sentence emphasizes they are unfounded false charges harming reputation." },
+        { "distractor": "suspicions", "closeness": 2, "reasoning": "'Suspicions' mean distrusts; while aspersions cause suspicion, the sentence emphasizes specific false damaging charges." },
+        { "distractor": "implications", "closeness": 2, "reasoning": "'Implications' mean suggested meanings; while aspersions imply wrongdoing, the sentence emphasizes false charges requiring retraction." },
+        { "distractor": "insinuations", "closeness": 2, "reasoning": "'Insinuations' mean hints at wrongdoing; while the aspersions insinuate, the sentence emphasizes they are direct damaging charges." },
+        { "distractor": "rumors", "closeness": 2, "reasoning": "'Rumors' mean unverified stories; while aspersions spread like rumors, the sentence emphasizes deliberate false charges requiring formal retraction." },
+        { "distractor": "compliments", "closeness": 1, "reasoning": "Compliments mean expressions of praise; they contradict damaging false charges requiring public retraction." },
+        { "distractor": "endorsements", "closeness": 1, "reasoning": "Endorsements mean expressions of support; they contradict unfounded damaging charges." },
+        { "distractor": "validations", "closeness": 1, "reasoning": "Validations mean confirmations as worthy; they contradict unfounded false charges to reputation." }
+      ]
+    },
+    {
+      "sentence": "For years, fellow board members whispered aspersions about the CEO's judgment, questioning whether she truly understood the company's core business.",
+      "answerChoices": [
+        { "distractor": "doubts", "closeness": 3, "reasoning": "While 'doubts' means questions, the sentence emphasizes whispered false damaging charges, not just private doubts." },
+        { "distractor": "criticisms", "closeness": 3, "reasoning": "'Criticisms' means disapproving comments; while the aspersions are critical, the sentence emphasizes whispered false charges to reputation." },
+        { "distractor": "suspicions", "closeness": 3, "reasoning": "'Suspicions' mean distrusts; while the aspersions create suspicion, the sentence emphasizes false damaging charges whispered over years." },
+        { "distractor": "concerns", "closeness": 3, "reasoning": "'Concerns' means worries or interests; while the board is concerned, the sentence emphasizes whispered false damaging charges, not just legitimate concerns." },
+        { "distractor": "reservations", "closeness": 2, "reasoning": "'Reservations' mean hesitations or doubts; while they have reservations, the sentence emphasizes spreading false damaging charges by whispering." },
+        { "distractor": "implications", "closeness": 2, "reasoning": "'Implications' mean suggested meanings; while aspersions imply wrongdoing, the sentence emphasizes deliberate false charges whispered." },
+        { "distractor": "insinuations", "closeness": 2, "reasoning": "'Insinuations' mean hints at wrongdoing; while the aspersions insinuate, the sentence emphasizes they are false damaging charges." },
+        { "distractor": "rumors", "closeness": 2, "reasoning": "'Rumors' mean unverified stories; while aspersions spread like rumors, the sentence emphasizes deliberate false charges." },
+        { "distractor": "accolades", "closeness": 1, "reasoning": "Accolades mean expressions of praise; they contradict whispered false damaging charges." },
+        { "distractor": "endorsements", "closeness": 1, "reasoning": "Endorsements mean expressions of support; they contradict damaging false charges." },
+        { "distractor": "praises", "closeness": 1, "reasoning": "Praises mean expressions of approval; they contradict whispered damaging false charges." }
+      ]
+    },
+    {
+      "sentence": "The attorney rejected the aspersions cast against her client's integrity, producing letters of recommendation and a spotless professional record.",
+      "answerChoices": [
+        { "distractor": "accusations", "closeness": 3, "reasoning": "'Accusations' mean charges of wrongdoing; while aspersions are accusations, the sentence shows they are false because the attorney produced evidence of integrity." },
+        { "distractor": "allegations", "closeness": 3, "reasoning": "'Allegations' mean unproven claims; while aspersions are unproven charges, the sentence shows them to be false given the client's record." },
+        { "distractor": "doubts", "closeness": 3, "reasoning": "While 'doubts' means questions, the sentence emphasizes false damaging charges to reputation requiring defense." },
+        { "distractor": "criticisms", "closeness": 3, "reasoning": "'Criticisms' means disapproving comments; while aspersions are critical, the sentence emphasizes they are false damaging charges." },
+        { "distractor": "suspicions", "closeness": 2, "reasoning": "'Suspicions' mean distrusts; while aspersions create suspicion, the sentence emphasizes they are false damaging charges." },
+        { "distractor": "implications", "closeness": 2, "reasoning": "'Implications' mean suggested meanings; while aspersions imply wrongdoing, the sentence shows they are directly false charges." },
+        { "distractor": "insinuations", "closeness": 2, "reasoning": "'Insinuations' mean hints at wrongdoing; while the aspersions insinuate, the sentence emphasizes they are false damaging charges." },
+        { "distractor": "rumors", "closeness": 2, "reasoning": "'Rumors' mean unverified stories; while aspersions spread like rumors, the sentence shows they are false given evidence." },
+        { "distractor": "endorsements", "closeness": 1, "reasoning": "Endorsements mean expressions of support; they contradict damaging false charges cast against the client." },
+        { "distractor": "validations", "closeness": 1, "reasoning": "Validations mean confirmations as worthy; the attorney defended against aspersions, not validating false charges." },
+        { "distractor": "compliments", "closeness": 1, "reasoning": "Compliments mean expressions of praise; they are the opposite of damaging false charges." }
+      ]
+    }
+  ]
+}

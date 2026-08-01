@@ -1,0 +1,53 @@
+{
+  "word": "tensile",
+  "sentenceSets": [
+    {
+      "sentence": "Steel's tensile strength made it the material of choice for bridges, as it could withstand both compression and the pulling forces that would shatter more brittle substances.",
+      "answerChoices": [
+        { "distractor": "elastic", "closeness": 3, "reasoning": "Elastic describes materials that return to original shape after deformation, but the sentence emphasizes resistance to pulling forces specifically, not just deformability." },
+        { "distractor": "ductile", "closeness": 3, "reasoning": "Ductile means capable of being drawn into thin wires, yet the sentence focuses on withstanding pulling forces in structural applications, a narrower application than general ductility." },
+        { "distractor": "flexible", "closeness": 3, "reasoning": "Flexible implies ability to bend without breaking, but the sentence stresses resistance to specific mechanical stress under load rather than mere bending capacity." },
+        { "distractor": "resilient", "closeness": 3, "reasoning": "Resilient suggests bouncing back from stress, but the sentence's emphasis on withstanding pulling forces in structural contexts implies something more rigid than true resilience." },
+        { "distractor": "malleable", "closeness": 2, "reasoning": "Malleable means capable of being shaped by hammering, but the sentence concerns performance under structural stress rather than workability in manufacturing." },
+        { "distractor": "rigid", "closeness": 2, "reasoning": "Rigid means stiff and inflexible, but the sentence requires a material that can endure forces while being deformable; rigidity alone wouldn't satisfy the requirement." },
+        { "distractor": "dense", "closeness": 2, "reasoning": "Dense means tightly packed, but the sentence addresses mechanical properties under stress, not mass or molecular packing." },
+        { "distractor": "durable", "closeness": 2, "reasoning": "Durable means long-lasting, but the sentence specifies a particular physical property—ability to withstand pulling forces—not general wear resistance." },
+        { "distractor": "brittle", "closeness": 1, "reasoning": "Brittle means easily broken or shattered, the opposite of what the sentence describes as steel's advantage over brittle materials." },
+        { "distractor": "weak", "closeness": 1, "reasoning": "Weak contradicts the sentence's emphasis on withstanding significant pulling forces in bridge construction." },
+        { "distractor": "porous", "closeness": 1, "reasoning": "Porous describes materials with tiny holes; it's unrelated to the mechanical property of resisting pulling forces." }
+      ]
+    },
+    {
+      "sentence": "The engineer tested the tensile properties of the composite material by gradually increasing the load until the sample finally snapped, allowing her to calculate the maximum stress it could endure.",
+      "answerChoices": [
+        { "distractor": "mechanical", "closeness": 3, "reasoning": "Mechanical describes properties related to physical forces generally, but the sentence specifies testing under increasing pulling forces until failure, not mechanical properties broadly." },
+        { "distractor": "structural", "closeness": 3, "reasoning": "Structural refers to how forces affect overall shape or integrity, but the sentence's detailed procedure of gradual loading until breakage emphasizes a specific pulling-force measurement." },
+        { "distractor": "material", "closeness": 3, "reasoning": "Material as an adjective means relevant or important, but in materials science refers to substance properties generally; the sentence requires a term for pulling-force resistance specifically." },
+        { "distractor": "physical", "closeness": 3, "reasoning": "Physical describes properties related to matter or mechanics generally, but the sentence's laboratory procedure and measurement of breaking point under load points to a more specific property." },
+        { "distractor": "thermal", "closeness": 2, "reasoning": "Thermal relates to heat and temperature, but the sentence describes testing under mechanical loading with no mention of heat effects." },
+        { "distractor": "elastic", "closeness": 2, "reasoning": "Elastic refers to return to original shape, but the sentence concludes with the sample snapping—a permanent failure, not elastic recovery." },
+        { "distractor": "compressive", "closeness": 2, "reasoning": "Compressive refers to forces that squeeze or push together, but the sentence's procedure of gradually increasing load until the sample breaks suggests pulling forces, not compression." },
+        { "distractor": "surface", "closeness": 2, "reasoning": "Surface properties describe characteristics of a material's outer layer, but the sentence's breaking-point measurement reveals internal strength rather than surface characteristics." },
+        { "distractor": "decorative", "closeness": 1, "reasoning": "Decorative relates to aesthetic appeal, completely unrelated to testing a material's resistance to mechanical stress." },
+        { "distractor": "optical", "closeness": 1, "reasoning": "Optical relates to light and vision; the sentence describes mechanical testing under load, not optical properties." },
+        { "distractor": "thermal", "closeness": 1, "reasoning": "Thermal relates to heat, which is not part of the laboratory procedure the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "Ceramics lack the tensile capacity of metals; while ceramics resist compression effectively, they shatter when subjected to pulling or bending forces that metals would simply deform under.",
+      "answerChoices": [
+        { "distractor": "compressive", "closeness": 3, "reasoning": "Compressive capacity refers to resisting pushing forces, but the sentence contrasts ceramics' compressive strength with their weakness to pulling forces—two different properties." },
+        { "distractor": "yield", "closeness": 3, "reasoning": "Yield strength describes the stress at which permanent deformation begins, but the sentence specifically contrasts pulling-force resistance between two materials rather than describing deformation onset." },
+        { "distractor": "shear", "closeness": 3, "reasoning": "Shear strength refers to resistance to forces that slide adjacent parts past each other, but the sentence focuses on pulling forces causing shattering versus deformation." },
+        { "distractor": "load-bearing", "closeness": 3, "reasoning": "Load-bearing capacity describes general ability to support weight, but the sentence specifies a particular type of force—pulling or bending—not weight generally." },
+        { "distractor": "structural", "closeness": 2, "reasoning": "Structural capacity describes overall ability to maintain form under forces, but the sentence examines a specific mechanical property differentiating pulling-force resistance." },
+        { "distractor": "impact", "closeness": 2, "reasoning": "Impact strength describes resistance to sudden forceful blows, but the sentence's scenario involves gradual pulling or bending, not impact." },
+        { "distractor": "brittle", "closeness": 2, "reasoning": "Brittle describes shattering behavior, which applies to ceramics, but the sentence needs a property describing pulling-force resistance specifically." },
+        { "distractor": "thermal", "closeness": 2, "reasoning": "Thermal capacity relates to heat resistance, unrelated to the mechanical forces the sentence describes." },
+        { "distractor": "density", "closeness": 1, "reasoning": "Density measures mass per volume, unrelated to resistance to pulling or bending forces." },
+        { "distractor": "flexibility", "closeness": 1, "reasoning": "Flexibility describes ability to bend without breaking; ceramics are not described as flexible in the sentence." },
+        { "distractor": "malleability", "closeness": 1, "reasoning": "Malleability describes ability to be hammered into shape, irrelevant to the pulling-force failure the sentence describes." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "behooves",
+  "sentenceSets": [
+    {
+      "sentence": "It behooves every voter to understand the policies being proposed before casting a ballot.",
+      "answerChoices": [
+        { "distractor": "befits", "closeness": 3, "reasoning": "Both mean it is proper or appropriate, but befits emphasizes what suits someone's status, while behooves emphasizes duty or advantage." },
+        { "distractor": "becomes", "closeness": 3, "reasoning": "Both suggest appropriateness, but becomes emphasizes fitting someone's role, while behooves emphasizes duty." },
+        { "distractor": "benefits", "closeness": 3, "reasoning": "Both relate to advantage, but benefits means the voter gains something, while behooves means it is to their advantage or duty." },
+        { "distractor": "serves", "closeness": 3, "reasoning": "Both describe advantage, but serves emphasizes usefulness, while behooves emphasizes obligation and advantage." },
+        { "distractor": "helps", "closeness": 2, "reasoning": "Understanding policies helps voters, but helps emphasizes usefulness, not duty." },
+        { "distractor": "assists", "closeness": 2, "reasoning": "Understanding assists voters, but assists emphasizes helping, not duty." },
+        { "distractor": "requires", "closeness": 2, "reasoning": "Understanding is required, but requires emphasizes obligation, while behooves emphasizes advantage." },
+        { "distractor": "obliges", "closeness": 2, "reasoning": "Voters are obliged to understand, but obliged emphasizes duty, while behooves emphasizes both duty and advantage." },
+        { "distractor": "prohibits", "closeness": 1, "reasoning": "It behooves voters to understand; prohibits means forbidding." },
+        { "distractor": "prevents", "closeness": 1, "reasoning": "It behooves voters to understand; prevents means stopping from happening." },
+        { "distractor": "discourages", "closeness": 1, "reasoning": "It behooves voters to understand; discourages means advising against." }
+      ]
+    },
+    {
+      "sentence": "It behooves the company to invest in employee training, since educated workers directly increase productivity and reduce costly mistakes.",
+      "answerChoices": [
+        { "distractor": "benefits", "closeness": 3, "reasoning": "The company benefits from training, but benefits describes gaining advantage, while behooves describes both duty and advantage." },
+        { "distractor": "serves", "closeness": 3, "reasoning": "Training serves the company's interests, but serves emphasizes usefulness, while behooves emphasizes obligation and advantage." },
+        { "distractor": "profits", "closeness": 3, "reasoning": "The company profits, but profits emphasizes financial gain, while behooves emphasizes both duty and advantage." },
+        { "distractor": "advantages", "closeness": 3, "reasoning": "Training gives advantage, but advantages is a noun describing benefit, while behooves describes it being to someone's advantage." },
+        { "distractor": "helps", "closeness": 2, "reasoning": "Training helps productivity, but helps emphasizes usefulness, not duty or advantage." },
+        { "distractor": "improves", "closeness": 2, "reasoning": "Training improves performance, but improves emphasizes making better, not duty." },
+        { "distractor": "requires", "closeness": 2, "reasoning": "Training may be required, but requires emphasizes obligation, while behooves emphasizes advantage." },
+        { "distractor": "promotes", "closeness": 2, "reasoning": "Training promotes productivity, but promotes emphasizes encouraging, not duty." },
+        { "distractor": "discourages", "closeness": 1, "reasoning": "It behooves the company to train; discourages means advising against." },
+        { "distractor": "prevents", "closeness": 1, "reasoning": "It behooves training; prevents means stopping." },
+        { "distractor": "inhibits", "closeness": 1, "reasoning": "It behooves training; inhibits means holding back." }
+      ]
+    },
+    {
+      "sentence": "As mentor, it behooves you to guide your apprentice toward mastery, since your guidance directly shapes their career trajectory.",
+      "answerChoices": [
+        { "distractor": "suits", "closeness": 3, "reasoning": "Guidance suits your role as mentor, but suits emphasizes fitting, while behooves emphasizes duty and advantage." },
+        { "distractor": "befits", "closeness": 3, "reasoning": "Guidance befits your position, but befits emphasizes what suits your status, while behooves emphasizes duty and advantage." },
+        { "distractor": "obliges", "closeness": 3, "reasoning": "You are obliged as mentor, but obliged emphasizes duty, while behooves emphasizes both duty and advantage." },
+        { "distractor": "requires", "closeness": 3, "reasoning": "Your role requires guidance, but requires emphasizes obligation, while behooves emphasizes both duty and advantage." },
+        { "distractor": "helps", "closeness": 2, "reasoning": "Mentoring helps the apprentice, but helps emphasizes usefulness, not duty." },
+        { "distractor": "assists", "closeness": 2, "reasoning": "Mentoring assists the apprentice, but assists emphasizes helping, not duty." },
+        { "distractor": "enables", "closeness": 2, "reasoning": "Mentoring enables success, but enables emphasizes making possible, not duty." },
+        { "distractor": "promotes", "closeness": 2, "reasoning": "Mentoring promotes growth, but promotes emphasizes encouraging, not duty." },
+        { "distractor": "relieves", "closeness": 1, "reasoning": "It behooves the mentor to guide; relieves means removing burden." },
+        { "distractor": "exempts", "closeness": 1, "reasoning": "It behooves the mentor; exempts means freeing from obligation." },
+        { "distractor": "absolves", "closeness": 1, "reasoning": "It behooves the mentor; absolves means freeing from responsibility." }
+      ]
+    }
+  ]
+}

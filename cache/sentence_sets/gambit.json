@@ -1,0 +1,53 @@
+{
+  "word": "gambit",
+  "sentenceSets": [
+    {
+      "sentence": "The opening gambit was intended to anchor the negotiation at a favorable point before serious discussion began.",
+      "answerChoices": [
+        { "distractor": "ploy", "closeness": 3, "reasoning": "Close — 'ploy' means a cunning plan or stratagem to achieve an objective, which fits the tactical move in negotiation, but it emphasizes deception or scheming; 'gambit' suggests a calculated opening move with acknowledged risk." },
+        { "distractor": "tactic", "closeness": 3, "reasoning": "Close — 'tactic' means a planned action or strategy to accomplish a goal, which fits the negotiating move, but it is more general; 'gambit' specifically refers to an initial calculated risk to establish advantage." },
+        { "distractor": "maneuver", "closeness": 3, "reasoning": "Close — 'maneuver' means a strategic action or movement, which fits the opening move, but it emphasizes skillful movement rather than risk; 'gambit' specifically involves a sacrificial element." },
+        { "distractor": "gamble", "closeness": 3, "reasoning": "Close — 'gamble' means a risky venture or bet, which fits the calculated risk aspect, but it emphasizes uncertainty; 'gambit' emphasizes a strategic opening that risks something for position." },
+        { "distractor": "strategy", "closeness": 2, "reasoning": "Incorrect — 'strategy' means an overall plan or approach, which the gambit serves, but it is broader; 'gambit' specifically refers to an opening move." },
+        { "distractor": "proposal", "closeness": 2, "reasoning": "Incorrect — 'proposal' means an offer or suggestion put forward, but it emphasizes the idea offered rather than the calculated positioning and risk inherent in a gambit." },
+        { "distractor": "demand", "closeness": 2, "reasoning": "Incorrect — 'demand' means an insistent request, but it carries authoritative force; 'gambit' suggests a strategic opening move rather than a forceful assertion." },
+        { "distractor": "concession", "closeness": 2, "reasoning": "Incorrect — 'concession' means giving way or yielding, which might accompany a gambit, but a gambit typically involves gaining advantage, not conceding." },
+        { "distractor": "stalling", "closeness": 1, "reasoning": "Opposite — 'stalling' means delaying or avoiding progress, whereas a gambit is an intentional strategic move to anchor and advance negotiation." },
+        { "distractor": "compromise", "closeness": 1, "reasoning": "Opposite — 'compromise' means meeting halfway or yielding mutually, whereas a gambit is a calculated move to establish a favorable position before genuine negotiation." },
+        { "distractor": "finale", "closeness": 1, "reasoning": "Incorrect — 'finale' means the final part or conclusion, the opposite of an opening move that begins discussion." }
+      ]
+    },
+    {
+      "sentence": "His opening gambit of sacrificing a pawn appeared reckless, but it opened crucial attacking lines that forced the opponent into a passive defense.",
+      "answerChoices": [
+        { "distractor": "sacrifice", "closeness": 3, "reasoning": "Close — 'sacrifice' means giving up something valuable, which the gambit involves, but it emphasizes the loss rather than the strategic purpose of the move; 'gambit' specifically means a deliberate sacrifice for positional advantage." },
+        { "distractor": "trap", "closeness": 3, "reasoning": "Close — 'trap' means a device or stratagem to catch an opponent, which the chess move might accomplish, but it emphasizes deception; 'gambit' emphasizes a calculated risk for strategic positioning." },
+        { "distractor": "provocation", "closeness": 3, "reasoning": "Close — 'provocation' means an action that angers or incites response, which the move accomplishes by forcing a response, but it emphasizes provoking reaction; 'gambit' emphasizes gaining positional advantage." },
+        { "distractor": "threat", "closeness": 3, "reasoning": "Close — 'threat' means a menace or indication of danger, which the attacking lines create, but it emphasizes danger to the opponent; 'gambit' emphasizes the strategic opening move itself." },
+        { "distractor": "move", "closeness": 2, "reasoning": "Incorrect — 'move' is too generic; it describes any chess action but lacks the specific meaning of a calculated sacrificial opening." },
+        { "distractor": "bluff", "closeness": 2, "reasoning": "Incorrect — 'bluff' means a deceptive action meant to intimidate, but gambit involves genuine strategic advantage rather than pure deception." },
+        { "distractor": "risk", "closeness": 2, "reasoning": "Incorrect — 'risk' means exposure to danger or loss, which the gambit involves, but it does not capture the strategic purpose or opening nature of the move." },
+        { "distractor": "experiment", "closeness": 2, "reasoning": "Incorrect — 'experiment' means a trial or test, but gambit emphasizes a calculated strategic move rather than uncertain trial." },
+        { "distractor": "defense", "closeness": 1, "reasoning": "Opposite — 'defense' is a protective response, whereas the sentence describes an opening aggressive move." },
+        { "distractor": "retreat", "closeness": 1, "reasoning": "Opposite — 'retreat' means withdrawal or moving backward, the opposite of an aggressive opening gambit that forces an opponent into passive defense." },
+        { "distractor": "convention", "closeness": 1, "reasoning": "Incorrect — 'convention' means established practice or tradition, whereas a gambit is a specific tactical opening move." }
+      ]
+    },
+    {
+      "sentence": "The company's aggressive pricing gambit was designed to undercut competitors and establish market dominance before they could respond.",
+      "answerChoices": [
+        { "distractor": "strategy", "closeness": 3, "reasoning": "Close — 'strategy' means a plan or approach to achieve goals, which the pricing gambit represents, but it is broader; 'gambit' specifically means an opening move that involves calculated risk for strategic advantage." },
+        { "distractor": "ploy", "closeness": 3, "reasoning": "Close — 'ploy' means a cunning plan or tactic, which fits the pricing move, but it emphasizes deceptive scheming; 'gambit' emphasizes calculated risk and strategic positioning." },
+        { "distractor": "assault", "closeness": 3, "reasoning": "Close — 'assault' means a forceful attack or onslaught, which the aggressive pricing represents, but it emphasizes force and harm; 'gambit' emphasizes calculated strategic advantage." },
+        { "distractor": "campaign", "closeness": 3, "reasoning": "Close — 'campaign' means an organized effort toward a goal, which the pricing initiative represents, but it emphasizes sustained effort; 'gambit' specifically means an opening move." },
+        { "distractor": "venture", "closeness": 2, "reasoning": "Incorrect — 'venture' means a risky undertaking or business enterprise, but it is broader; 'gambit' specifically refers to a tactical opening move in competition." },
+        { "distractor": "scheme", "closeness": 2, "reasoning": "Incorrect — 'scheme' means a plan or system, often with negative connotation, but 'gambit' is a neutral strategic term for an opening move." },
+        { "distractor": "promotion", "closeness": 2, "reasoning": "Incorrect — 'promotion' means advertising or advancing something, but it is less strategic than gambit; 'gambit' implies calculated risk for advantage." },
+        { "distractor": "investment", "closeness": 2, "reasoning": "Incorrect — 'investment' means commitment of resources for return, but it does not capture the competitive tactical nature of a gambit." },
+        { "distractor": "merger", "closeness": 1, "reasoning": "Incorrect — 'merger' means combining two entities, which differs fundamentally from pricing tactics to gain competitive advantage." },
+        { "distractor": "retreat", "closeness": 1, "reasoning": "Opposite — 'retreat' means withdrawal from competition, the opposite of an aggressive move designed to establish market dominance." },
+        { "distractor": "collaboration", "closeness": 1, "reasoning": "Incorrect — 'collaboration' means working together with competitors, the opposite of undercutting them to gain dominance." }
+      ]
+    }
+  ]
+}

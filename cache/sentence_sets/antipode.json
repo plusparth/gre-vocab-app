@@ -1,0 +1,53 @@
+{
+  "word": "antipode",
+  "sentenceSets": [
+    {
+      "sentence": "He traveled to the antipode of his hometown, as if distance itself could provide a fresh start.",
+      "answerChoices": [
+        { "distractor": "opposite", "closeness": 3, "reasoning": "Opposite means situated across from or contrary to, which antipode is geographically, but is too general for the specific geographical opposite point." },
+        { "distractor": "far side", "closeness": 3, "reasoning": "Far side means a distant location, which the antipode is, but doesn't convey the specific sense of diametrically opposite." },
+        { "distractor": "remote location", "closeness": 3, "reasoning": "Remote location means a distant place, fitting the travel context, but doesn't specify the diametrically opposite point." },
+        { "distractor": "extreme distance", "closeness": 3, "reasoning": "Extreme distance means very far away, which the antipode is, but doesn't identify the specific directional opposite." },
+        { "distractor": "elsewhere", "closeness": 2, "reasoning": "Elsewhere means in another place, which the antipode is, but is too vague and doesn't convey diametrically opposite." },
+        { "distractor": "alternate location", "closeness": 2, "reasoning": "Alternate location means a different place, fitting the travel context but not specifying the exact opposite position." },
+        { "distractor": "distant shore", "closeness": 2, "reasoning": "Distant shore means a faraway coast, fitting the travel sense but not capturing the specific antipodal relationship." },
+        { "distractor": "foreign land", "closeness": 2, "reasoning": "Foreign land means a country far from home, fitting the context but not specifically the diametrically opposite location." },
+        { "distractor": "hometown", "closeness": 1, "reasoning": "Hometown means one's birthplace or where one is from, opposite to where the person traveled to." },
+        { "distractor": "familiar place", "closeness": 1, "reasoning": "Familiar place means a well-known location, opposite to the journey seeking fresh start at a distant antipode." },
+        { "distractor": "nearby destination", "closeness": 1, "reasoning": "Nearby destination means a close location, opposite to the maximum distance the antipode represents." }
+      ]
+    },
+    {
+      "sentence": "The two cities seemed to be antipodes in every way—one ancient and conservative, the other modern and progressive—yet they were oddly dependent on each other economically.",
+      "answerChoices": [
+        { "distractor": "opposites", "closeness": 3, "reasoning": "Opposites means things that are contrary to each other, which the cities are culturally, but is more general than the geographical term antipode." },
+        { "distractor": "contrasts", "closeness": 3, "reasoning": "Contrasts means things strikingly different from each other, which the cities are, but doesn't convey the specific sense of being diametrically opposite." },
+        { "distractor": "foils", "closeness": 3, "reasoning": "Foils means contrasting things that enhance each other's qualities, similar to antipodes but more literary and less geographical." },
+        { "distractor": "counterparts", "closeness": 3, "reasoning": "Counterparts means things corresponding to each other, which the cities are, but doesn't emphasize opposition." },
+        { "distractor": "complements", "closeness": 2, "reasoning": "Complements means things that complete or enhance each other, which the cities economically are, but doesn't emphasize opposition." },
+        { "distractor": "rivals", "closeness": 2, "reasoning": "Rivals means competitors or adversaries, which the cities are culturally, but doesn't convey being diametrically opposite." },
+        { "distractor": "antagonists", "closeness": 2, "reasoning": "Antagonists means opponents or adversaries, which the cities are culturally, but is too dramatic and doesn't convey geographical opposition." },
+        { "distractor": "duplicates", "closeness": 2, "reasoning": "Duplicates means exact copies, opposite to the cities being opposites, but close in structure to the blank's usage." },
+        { "distractor": "neighbors", "closeness": 1, "reasoning": "Neighbors means places in proximity, opposite to the diametrically opposed positions the term antipodes suggests." },
+        { "distractor": "twins", "closeness": 1, "reasoning": "Twins means similar or identical things, opposite to antipodes which are maximally different and opposite." },
+        { "distractor": "equivalents", "closeness": 1, "reasoning": "Equivalents means things having equal value or significance, opposite to the opposing relationship antipodes imply." }
+      ]
+    },
+    {
+      "sentence": "When the explorer finally reached the antarctic antipode, she planted her flag at what she called 'the end of the world,' though it was merely the opposite pole from where she'd begun.",
+      "answerChoices": [
+        { "distractor": "endpoint", "closeness": 3, "reasoning": "Endpoint means a terminating point, fitting the 'end of the world' metaphor, but doesn't convey the specific antipodal relationship." },
+        { "distractor": "pole", "closeness": 3, "reasoning": "Pole means an extreme end of an axis, which the antipode is, but the sentence already uses pole, making this awkward as a synonym." },
+        { "distractor": "destination", "closeness": 3, "reasoning": "Destination means the place where something is headed, which the antipode is, but doesn't capture the geographical opposite sense." },
+        { "distractor": "far extremity", "closeness": 3, "reasoning": "Far extremity means a distant edge or end, which the antipode is, but doesn't convey the diametrically opposite meaning." },
+        { "distractor": "ultimate location", "closeness": 2, "reasoning": "Ultimate location means the final or extreme place, fitting the 'end of the world' reference, but not the antipodal meaning." },
+        { "distractor": "extreme region", "closeness": 2, "reasoning": "Extreme region means an area at the edge, which the antipode is, but doesn't specify the diametrically opposite meaning." },
+        { "distractor": "far point", "closeness": 2, "reasoning": "Far point means a distant location, fitting the journey but not specifying the opposite side relationship." },
+        { "distractor": "remote place", "closeness": 2, "reasoning": "Remote place means a distant location, fitting the context but not capturing the specific antipodal relationship." },
+        { "distractor": "beginning", "closeness": 1, "reasoning": "Beginning means the starting point, opposite to the endpoint of the journey described in the sentence." },
+        { "distractor": "home", "closeness": 1, "reasoning": "Home means one's origin point, opposite to the maximum distance reached at the antipode." },
+        { "distractor": "nearby place", "closeness": 1, "reasoning": "Nearby place means a close location, opposite to the extreme distance the antipode represents." }
+      ]
+    }
+  ]
+}

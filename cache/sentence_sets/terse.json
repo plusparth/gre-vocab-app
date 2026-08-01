@@ -1,0 +1,53 @@
+{
+  "word": "terse",
+  "sentenceSets": [
+    {
+      "sentence": "Her terse reply to the inquiry was interpreted as dismissal by the sender and as precision by those who knew her.",
+      "answerChoices": [
+        { "distractor": "curt", "closeness": 3, "reasoning": "Curt means rudely brief, but the sentence reveals that the same brevity could indicate precision for those who understood her style—not necessarily rudeness." },
+        { "distractor": "abrupt", "closeness": 3, "reasoning": "Abrupt means sudden or unexpected, yet the sentence shows her reply as a characteristic response, not an unexpected break in communication." },
+        { "distractor": "blunt", "closeness": 3, "reasoning": "Blunt means expressing something in a direct, often harsh way, but the sentence indicates her brevity could be read as precision rather than harshness by those who knew her." },
+        { "distractor": "laconic", "closeness": 3, "reasoning": "Laconic means using few words in a clever way, which is very close, but the sentence emphasizes both misinterpretation and proper interpretation—a matter of audience knowledge, not cleverness." },
+        { "distractor": "sparse", "closeness": 2, "reasoning": "Sparse means thinly distributed or scanty, which describes brevity but lacks the connotation of deliberate conciseness the sentence suggests." },
+        { "distractor": "limited", "closeness": 2, "reasoning": "Limited means restricted or confined, but the sentence emphasizes deliberate word choice, not mere constraint." },
+        { "distractor": "quiet", "closeness": 2, "reasoning": "Quiet means making little sound, but the sentence addresses the number of words used, not acoustic properties." },
+        { "distractor": "reserved", "closeness": 2, "reasoning": "Reserved means restrained or aloof, but the sentence's brevity is a stylistic choice, not necessarily emotional distance." },
+        { "distractor": "verbose", "closeness": 1, "reasoning": "Verbose means using many words or wordy; the sentence describes someone using few words, the opposite." },
+        { "distractor": "elaborate", "closeness": 1, "reasoning": "Elaborate means detailed and complex; the sentence shows brevity, not elaboration." },
+        { "distractor": "expansive", "closeness": 1, "reasoning": "Expansive means covering a wide range or communicative; the sentence indicates communication with few words." }
+      ]
+    },
+    {
+      "sentence": "The judge's terse instructions to the jury left no room for interpretation or additional explanation; every word counted and none were wasted on clarification or rhetorical flourish.",
+      "answerChoices": [
+        { "distractor": "strict", "closeness": 3, "reasoning": "Strict means rigid in interpretation or demanding compliance, but the sentence emphasizes the style of communication—few words—not rigidity of rules." },
+        { "distractor": "precise", "closeness": 3, "reasoning": "Precise means exact and accurate, which comes close given the emphasis on word choice, but the sentence stresses brevity and lack of waste, not precision in definition." },
+        { "distractor": "formal", "closeness": 3, "reasoning": "Formal means official or ceremonious, which might apply to courtroom language, but the sentence's emphasis is on conciseness, not formality." },
+        { "distractor": "severe", "closeness": 3, "reasoning": "Severe means strict or harsh in manner, but the sentence describes efficient use of language rather than harshness of tone." },
+        { "distractor": "clipped", "closeness": 2, "reasoning": "Clipped means shortened or cut short in speaking manner, which is close to terse, but conveys a somewhat different connotation of hurried delivery." },
+        { "distractor": "abbreviated", "closeness": 2, "reasoning": "Abbreviated means shortened or made concise, which is very close to terse, but emphasizes reduction rather than deliberate economy of expression." },
+        { "distractor": "cryptic", "closeness": 2, "reasoning": "Cryptic means mysterious or unclear, but the sentence emphasizes clarity through precise word choice, not obscurity." },
+        { "distractor": "concise", "closeness": 2, "reasoning": "Concise means expressing much in few words, which is very close to terse but emphasizes information density rather than the style of brevity." },
+        { "distractor": "wordy", "closeness": 1, "reasoning": "Wordy means using more words than necessary; the sentence explicitly contrasts this with the judge's approach." },
+        { "distractor": "rambling", "closeness": 1, "reasoning": "Rambling means talking at length without focus; the sentence shows no room for interpretation or unnecessary words." },
+        { "distractor": "florid", "closeness": 1, "reasoning": "Florid means flowery or ornate in language; the sentence emphasizes lack of rhetorical flourish." }
+      ]
+    },
+    {
+      "sentence": "The novelist's terse dialogue gave her characters impact without explanation, forcing readers to infer emotional subtext from what was left unsaid rather than what was spoken.",
+      "answerChoices": [
+        { "distractor": "sparse", "closeness": 3, "reasoning": "Sparse means thinly distributed, which describes brief dialogue, but the sentence emphasizes the stylistic effect of forcing inference rather than mere scarcity of words." },
+        { "distractor": "minimal", "closeness": 3, "reasoning": "Minimal means as small or few as possible, which captures brevity, but the sentence focuses on the literary effect of what's unsaid, not minimalism itself." },
+        { "distractor": "clipped", "closeness": 3, "reasoning": "Clipped means cut short, but the sentence emphasizes the artistic choice to convey emotional depth through brevity rather than merely shortened speech." },
+        { "distractor": "staccato", "closeness": 3, "reasoning": "Staccato describes short, disconnected utterances, which is close, but the sentence's focus is on subtext and inference rather than rhythm of speech." },
+        { "distractor": "understated", "closeness": 2, "reasoning": "Understated means expressed without emphasis or exaggeration, which is related but emphasizes restraint in expression rather than reduction of words." },
+        { "distractor": "implicit", "closeness": 2, "reasoning": "Implicit means understood though not directly expressed, which relates to the subtext but describes content rather than the brevity of dialogue." },
+        { "distractor": "eloquent", "closeness": 2, "reasoning": "Eloquent means fluent or expressive in speech, which contradicts the sparse dialogue but might be confused with the literary impact." },
+        { "distractor": "powerful", "closeness": 2, "reasoning": "Powerful means having great force or effect, which describes the dialogue's impact but not its stylistic brevity." },
+        { "distractor": "verbose", "closeness": 1, "reasoning": "Verbose means using many words or wordy; the sentence emphasizes brief dialogue, not verbose speech." },
+        { "distractor": "explanatory", "closeness": 1, "reasoning": "Explanatory means providing explanation; the sentence shows dialogue that forces readers to infer rather than explaining." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "Transparent means easily understood, but the sentence shows dialogue requiring inference of emotional subtext." }
+      ]
+    }
+  ]
+}

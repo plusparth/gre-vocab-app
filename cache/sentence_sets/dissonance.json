@@ -1,0 +1,53 @@
+{
+  "word": "dissonance",
+  "sentenceSets": [
+    {
+      "sentence": "There was a persistent dissonance between what the organization claimed to value and how it actually treated its staff.",
+      "answerChoices": [
+        { "distractor": "contradiction", "closeness": 3, "reasoning": "While contradiction implies direct opposition, the sentence shows conflict between ideals and practice rather than purely logical incompatibility." },
+        { "distractor": "inconsistency", "closeness": 3, "reasoning": "Close to the correct answer, but inconsistency is less about lack of agreement and more about not matching a pattern or standard." },
+        { "distractor": "hypocrisy", "closeness": 3, "reasoning": "Hypocrisy involves intentional moral deception, but the sentence only describes a gap between claims and actions without establishing conscious dishonesty." },
+        { "distractor": "duplicity", "closeness": 3, "reasoning": "Duplicity suggests calculated deception, but dissonance can exist without intentional malice; it's simply a lack of agreement." },
+        { "distractor": "discord", "closeness": 2, "reasoning": "Discord means disagreement or conflict, but is more general and doesn't capture the specific sense of internal contradiction between two sides." },
+        { "distractor": "disconnect", "closeness": 2, "reasoning": "Disconnect suggests a severing or separation, whereas dissonance emphasizes the uncomfortable coexistence of two opposing elements." },
+        { "distractor": "disparity", "closeness": 2, "reasoning": "Disparity means inequality or difference, but lacks the sense of active conflict between two positions that dissonance conveys." },
+        { "distractor": "variance", "closeness": 2, "reasoning": "Variance indicates deviation from a standard, but doesn't capture the jarring contrast between what is claimed and what is actually done." },
+        { "distractor": "alignment", "closeness": 1, "reasoning": "Alignment means agreement or proper positioning, which is the opposite of what the sentence describes." },
+        { "distractor": "resonance", "closeness": 1, "reasoning": "Resonance suggests harmony or agreement, the opposite of dissonance both literally and in figurative usage." },
+        { "distractor": "continuity", "closeness": 1, "reasoning": "Continuity refers to unbroken consistency across time, whereas the sentence describes a problematic gap or conflict." }
+      ]
+    },
+    {
+      "sentence": "The CEO's public statements about diversity and inclusion created a dissonance with the company's actual hiring practices, which remained unchanged after years of promised reform.",
+      "answerChoices": [
+        { "distractor": "rift", "closeness": 3, "reasoning": "A rift is a separation or division, and while it captures the gap between words and deeds, it doesn't convey the uncomfortable tension of disagreement as strongly." },
+        { "distractor": "schism", "closeness": 3, "reasoning": "Schism emphasizes permanent division or split, but dissonance is about lack of agreement without necessarily implying an irreparable break." },
+        { "distractor": "incongruity", "closeness": 3, "reasoning": "Incongruity means lack of correspondence or harmony, very close to dissonance, but is more neutral and less focused on the uncomfortable contrast." },
+        { "distractor": "mismatch", "closeness": 3, "reasoning": "Mismatch describes things that don't fit together, but lacks the sense of active conflict or jarring tension that dissonance implies." },
+        { "distractor": "chasm", "closeness": 2, "reasoning": "A chasm is a large gap, emphasizing distance rather than the specific sense of conflicting agreement that dissonance captures." },
+        { "distractor": "breach", "closeness": 2, "reasoning": "A breach is a gap or violation, but focuses more on the rupture itself than on the lack of agreement between two things." },
+        { "distractor": "friction", "closeness": 2, "reasoning": "Friction implies conflict or resistance, but is more about external clashes whereas dissonance emphasizes internal contradiction." },
+        { "distractor": "breakdown", "closeness": 2, "reasoning": "Breakdown suggests failure or collapse, which is more serious and implies malfunction rather than mere disagreement." },
+        { "distractor": "harmony", "closeness": 1, "reasoning": "Harmony means agreement or pleasing combination, the direct opposite of dissonance." },
+        { "distractor": "symmetry", "closeness": 1, "reasoning": "Symmetry suggests balanced correspondence or mirroring, which contradicts the asymmetry and disagreement depicted in the sentence." },
+        { "distractor": "coherence", "closeness": 1, "reasoning": "Coherence means logical consistency and unity, the opposite of the lack of agreement that dissonance describes." }
+      ]
+    },
+    {
+      "sentence": "Maria felt a growing dissonance in her marriage when her husband's avowed commitment to partnership contrasted sharply with his unwillingness to share household responsibilities.",
+      "answerChoices": [
+        { "distractor": "tension", "closeness": 3, "reasoning": "Tension can describe strained feelings in a relationship, but it's less specific about the clash between stated values and actual behavior than dissonance." },
+        { "distractor": "estrangement", "closeness": 3, "reasoning": "Estrangement suggests growing distance or alienation between people, but doesn't capture the sense of internal contradiction between commitment and action." },
+        { "distractor": "conflict", "closeness": 3, "reasoning": "Conflict indicates disagreement or struggle, but is broader and doesn't specifically highlight the gap between professed commitment and actual practice." },
+        { "distractor": "disaffection", "closeness": 3, "reasoning": "Disaffection means loss of affection or loyalty, which may result from dissonance but is more about the emotional withdrawal than the lack of agreement itself." },
+        { "distractor": "strain", "closeness": 2, "reasoning": "Strain describes stress or pressure in a relationship, but is less about the fundamental disagreement between words and deeds than dissonance is." },
+        { "distractor": "turbulence", "closeness": 2, "reasoning": "Turbulence suggests disturbance or upheaval, but is more about surface chaos than the deep contradiction that dissonance conveys." },
+        { "distractor": "alienation", "closeness": 2, "reasoning": "Alienation implies emotional separation or detachment, but doesn't specifically address the lack of agreement between stated and actual values." },
+        { "distractor": "rancor", "closeness": 2, "reasoning": "Rancor refers to bitter resentment, which might emerge from dissonance but is more focused on the emotional bitterness than the disagreement." },
+        { "distractor": "accord", "closeness": 1, "reasoning": "Accord means agreement or harmony, the opposite of dissonance in the context of a marriage conflict." },
+        { "distractor": "rapport", "closeness": 1, "reasoning": "Rapport means mutual understanding and connection, which directly contradicts the sense of disagreement that dissonance conveys." },
+        { "distractor": "intimacy", "closeness": 1, "reasoning": "Intimacy suggests closeness and deep connection, the opposite of the growing gap and disagreement implied by dissonance." }
+      ]
+    }
+  ]
+}

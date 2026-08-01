@@ -1,0 +1,53 @@
+{
+  "word": "supersede",
+  "sentenceSets": [
+    {
+      "sentence": "The new guidelines superseded the previous ones without acknowledging the conflict, leaving practitioners to guess which applied.",
+      "answerChoices": [
+        { "distractor": "replaced", "closeness": 3, "reasoning": "'Replaced' means put something new in place of the old; the new guidelines replace the old ones, but 'superseded' emphasizes official setting aside." },
+        { "distractor": "supplanted", "closeness": 3, "reasoning": "'Supplanted' means took the place of; while the guidelines are supplanted, 'superseded' emphasizes formal legal/official displacement." },
+        { "distractor": "overruled", "closeness": 3, "reasoning": "'Overruled' means rejected a decision; while the previous guidelines are effectively overruled, the sentence emphasizes setting aside by new guidance." },
+        { "distractor": "invalidated", "closeness": 3, "reasoning": "'Invalidated' means made no longer valid; the old guidelines are invalidated, but 'superseded' emphasizes being set aside by new authority." },
+        { "distractor": "contradicted", "closeness": 2, "reasoning": "The guidelines might contradict, but 'contradicted' describes opposing positions; 'superseded' means officially set aside." },
+        { "distractor": "undermined", "closeness": 2, "reasoning": "The new guidelines undermine the old ones, but 'undermined' suggests weakening, while 'superseded' means officially setting aside." },
+        { "distractor": "modified", "closeness": 2, "reasoning": "The guidelines are modified by new ones, but 'modified' means changed; 'superseded' means set aside entirely." },
+        { "distractor": "amended", "closeness": 2, "reasoning": "Guidelines might be amended, but 'amended' means altered; 'superseded' means set aside by new ones." },
+        { "distractor": "confirmed", "closeness": 1, "reasoning": "New guidelines superseding old ones doesn't confirm the old guidelines." },
+        { "distractor": "reinforced", "closeness": 1, "reasoning": "Superseding old guidelines with new ones doesn't reinforce the old guidance." },
+        { "distractor": "maintained", "closeness": 1, "reasoning": "Being superseded means being set aside, not maintained." }
+      ]
+    },
+    {
+      "sentence": "Digital payment systems have superseded cash as the preferred method of transaction in many developed economies.",
+      "answerChoices": [
+        { "distractor": "replaced", "closeness": 3, "reasoning": "'Replaced' means took the place of cash, and is very similar to 'superseded,' but the latter emphasizes official or natural displacement." },
+        { "distractor": "overtaken", "closeness": 3, "reasoning": "'Overtaken' means surpassed or caught up with; digital payments overtake cash, but 'superseded' emphasizes setting aside preference." },
+        { "distractor": "displaced", "closeness": 3, "reasoning": "'Displaced' means moved from position; cash is displaced, but 'displaced' is more passive than 'superseded.'" },
+        { "distractor": "outdated", "closeness": 3, "reasoning": "'Outdated' means no longer current; cash becomes outdated, but 'outdated' describes the state, not the act of supersession." },
+        { "distractor": "eliminated", "closeness": 2, "reasoning": "Digital payments eliminate cash usage, but 'eliminated' suggests removal, while 'superseded' means being set aside as preferred." },
+        { "distractor": "competed with", "closeness": 2, "reasoning": "Digital systems compete with cash, but 'competed with' describes ongoing rivalry, not replacement." },
+        { "distractor": "complemented", "closeness": 2, "reasoning": "Digital payments might complement cash, but the sentence shows they supersede it as preferred." },
+        { "distractor": "modernized", "closeness": 2, "reasoning": "Digital payments modernize transaction methods, but 'modernized' describes improvement, not supersession." },
+        { "distractor": "preserved", "closeness": 1, "reasoning": "Cash being superseded means it's not being preserved as the preferred method." },
+        { "distractor": "restored", "closeness": 1, "reasoning": "Superseding cash with digital systems doesn't restore cash's preference." },
+        { "distractor": "remained", "closeness": 1, "reasoning": "Being superseded as preferred method means cash hasn't remained the preferred transaction method." }
+      ]
+    },
+    {
+      "sentence": "The court's latest ruling superseded the earlier decision, establishing new precedent that would govern future cases on the issue.",
+      "answerChoices": [
+        { "distractor": "reversed", "closeness": 3, "reasoning": "'Reversed' means overturned a decision; the earlier ruling is reversed, but 'superseded' emphasizes being set aside by new authority." },
+        { "distractor": "overturned", "closeness": 3, "reasoning": "'Overturned' means rejected and invalidated; the earlier decision is overturned, but 'superseded' emphasizes replacement by new precedent." },
+        { "distractor": "vacated", "closeness": 3, "reasoning": "'Vacated' means emptied of force; the earlier ruling is vacated, but 'superseded' emphasizes being set aside by new decision." },
+        { "distractor": "contradicted", "closeness": 3, "reasoning": "'Contradicted' means opposed in content; the rulings might contradict, but 'superseded' means the old one is set aside." },
+        { "distractor": "modified", "closeness": 2, "reasoning": "A ruling might be modified, but 'modified' means changed; 'superseded' means entirely set aside by new precedent." },
+        { "distractor": "challenged", "closeness": 2, "reasoning": "The earlier ruling is challenged by the new one, but 'challenged' means questioned, not officially set aside." },
+        { "distractor": "influenced", "closeness": 2, "reasoning": "The new ruling influences future cases, but 'influenced' doesn't describe the relationship to the earlier decision." },
+        { "distractor": "amended", "closeness": 2, "reasoning": "A ruling might be amended, but 'amended' means altered; 'superseded' means set aside entirely." },
+        { "distractor": "affirmed", "closeness": 1, "reasoning": "Being superseded by a new ruling doesn't affirm the earlier decision." },
+        { "distractor": "upheld", "closeness": 1, "reasoning": "A superseded ruling is not upheld; it's set aside." },
+        { "distractor": "confirmed", "closeness": 1, "reasoning": "A new ruling superseding an earlier one doesn't confirm the earlier precedent." }
+      ]
+    }
+  ]
+}

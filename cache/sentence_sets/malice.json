@@ -1,0 +1,185 @@
+{
+  "word": "malice",
+  "sentenceSets": [
+    {
+      "sentence": "She could not determine whether the omission was malice or negligence, and the distinction mattered for what came next.",
+      "answerChoices": [
+        {
+          "distractor": "malevolence",
+          "closeness": 3,
+          "reasoning": "Malevolence (pure evil intent) is similar to malice, but the sentence contrasts with negligence, suggesting the question is about intentional harm versus accidental oversight."
+        },
+        {
+          "distractor": "spite",
+          "closeness": 3,
+          "reasoning": "Spite (petty desire to hurt) resembles malice, but it implies a more personal grudge, whereas the sentence focuses on an objective omission whose cause is unclear."
+        },
+        {
+          "distractor": "rancor",
+          "closeness": 3,
+          "reasoning": "Rancor (deep resentment) involves hostility like malice, but it emphasizes festering bitterness rather than deliberate harmful action."
+        },
+        {
+          "distractor": "enmity",
+          "closeness": 3,
+          "reasoning": "Enmity (open hostility between rivals) involves antagonism, but the sentence concerns a specific omission, not an ongoing feud."
+        },
+        {
+          "distractor": "indifference",
+          "closeness": 2,
+          "reasoning": "Indifference (lack of care) could explain why something was omitted, but it differs from malice by suggesting carelessness rather than deliberate intent."
+        },
+        {
+          "distractor": "carelessness",
+          "closeness": 2,
+          "reasoning": "Carelessness (lack of attention) is close to negligence and could explain an omission, but it emphasizes inattentiveness rather than deliberate harm."
+        },
+        {
+          "distractor": "inattention",
+          "closeness": 2,
+          "reasoning": "Inattention (failure to notice) overlaps with negligence as an explanation for the omission, but lacks the purposeful quality that malice implies."
+        },
+        {
+          "distractor": "oversight",
+          "closeness": 2,
+          "reasoning": "Oversight (accidental failure to notice or include) is explicitly about unintentional omission, similar to negligence, making it an adjacent concept to malice."
+        },
+        {
+          "distractor": "benevolence",
+          "closeness": 1,
+          "reasoning": "Benevolence (desire to do good) is the opposite of malice and would justify rather than explain a problematic omission."
+        },
+        {
+          "distractor": "sympathy",
+          "closeness": 1,
+          "reasoning": "Sympathy (compassionate concern) is emotionally opposite to malice and would motivate inclusion, not omission."
+        },
+        {
+          "distractor": "incompetence",
+          "closeness": 1,
+          "reasoning": "Incompetence (lack of ability) addresses failure to perform correctly, but doesn't capture the intentional harm implied by the malice-negligence contrast."
+        }
+      ]
+    },
+    {
+      "sentence": "The vandal's malice toward the community center became evident when windows were broken and walls were covered in hateful graffiti.",
+      "answerChoices": [
+        {
+          "distractor": "hostility",
+          "closeness": 3,
+          "reasoning": "Hostility (overt antagonism) is close to malice, but it describes a state of conflict rather than the deliberate intent to cause harm."
+        },
+        {
+          "distractor": "vindictiveness",
+          "closeness": 3,
+          "reasoning": "Vindictiveness (desire for revenge) involves intentional harm like malice, but implies retaliation for a past wrong rather than spontaneous harm."
+        },
+        {
+          "distractor": "animosity",
+          "closeness": 3,
+          "reasoning": "Animosity (strong personal dislike) is similar to malice, but emphasizes resentment rather than the active desire to cause pain or damage."
+        },
+        {
+          "distractor": "venom",
+          "closeness": 3,
+          "reasoning": "Venom (bitter, caustic quality) conveys malicious feeling, but is more abstract than the deliberate destructive action the sentence describes."
+        },
+        {
+          "distractor": "aggression",
+          "closeness": 2,
+          "reasoning": "Aggression (hostile or violent behavior) explains the vandalism, but emphasizes the aggressive action rather than the underlying intentional desire to harm."
+        },
+        {
+          "distractor": "contempt",
+          "closeness": 2,
+          "reasoning": "Contempt (scornful disregard) could motivate the vandalism, but suggests dismissive disdain rather than active desire to cause harm."
+        },
+        {
+          "distractor": "bitterness",
+          "closeness": 2,
+          "reasoning": "Bitterness (resentful discontent) is an emotional state that could fuel vandalism, but focuses on emotional suffering rather than intent to harm."
+        },
+        {
+          "distractor": "fury",
+          "closeness": 2,
+          "reasoning": "Fury (violent anger) would explain destructive behavior, but emphasizes uncontrolled emotion rather than deliberate, purposeful harm."
+        },
+        {
+          "distractor": "negligence",
+          "closeness": 1,
+          "reasoning": "Negligence (careless failure to act) contradicts the deliberate, intentional destruction the sentence clearly describes."
+        },
+        {
+          "distractor": "ignorance",
+          "closeness": 1,
+          "reasoning": "Ignorance (lack of knowledge) would excuse the vandalism, whereas the hateful graffiti reveals purposeful, informed harmful intent."
+        },
+        {
+          "distractor": "impulsiveness",
+          "closeness": 1,
+          "reasoning": "Impulsiveness (acting without forethought) suggests spontaneous action, but the extensive damage indicates deliberate, planned harm rather than momentary impulse."
+        }
+      ]
+    },
+    {
+      "sentence": "The lawyer argued that the defamatory statement revealed clear malice, distinguishing it from honest mistake or fair criticism.",
+      "answerChoices": [
+        {
+          "distractor": "falsehood",
+          "closeness": 3,
+          "reasoning": "Falsehood (an untrue statement) is part of defamation, but the sentence distinguishes between false statements (which could be honest mistakes) and malice (intent to harm)."
+        },
+        {
+          "distractor": "villainy",
+          "closeness": 3,
+          "reasoning": "Villainy (wickedness or evil conduct) involves harmful intent like malice, but is broader and less specific to the intentional nature of the false statement."
+        },
+        {
+          "distractor": "mendacity",
+          "closeness": 3,
+          "reasoning": "Mendacity (habitual dishonesty) addresses the false nature of the statement, but the sentence emphasizes intent to harm rather than mere untruthfulness."
+        },
+        {
+          "distractor": "perfidy",
+          "closeness": 3,
+          "reasoning": "Perfidy (deliberate treachery) involves intentional harm to someone's trust, but suggests betrayal rather than the specific intent to damage reputation."
+        },
+        {
+          "distractor": "deception",
+          "closeness": 2,
+          "reasoning": "Deception (deliberate misleading) involves intent to trick, but the sentence contrasts intentional harm (malice) with honest mistakes in understanding or expression."
+        },
+        {
+          "distractor": "slander",
+          "closeness": 2,
+          "reasoning": "Slander (spoken false statement damaging reputation) describes the act itself, but the sentence asks what intent drove the statement, not its form."
+        },
+        {
+          "distractor": "libel",
+          "closeness": 2,
+          "reasoning": "Libel (written false statement damaging reputation) is the mechanism of harm here, but the legal distinction the lawyer draws is about intent, not medium."
+        },
+        {
+          "distractor": "fraud",
+          "closeness": 2,
+          "reasoning": "Fraud (intentional deception for unlawful gain) involves deliberate harm, but typically implies personal financial benefit rather than pure intent to injure."
+        },
+        {
+          "distractor": "error",
+          "closeness": 1,
+          "reasoning": "Error (unintentional mistake) is explicitly what the sentence distinguishes from malice when calling something an 'honest mistake.'"
+        },
+        {
+          "distractor": "misunderstanding",
+          "closeness": 1,
+          "reasoning": "Misunderstanding (faulty interpretation) could explain a false statement, but represents accidental miscommunication rather than deliberate intent to harm."
+        },
+        {
+          "distractor": "mistake",
+          "closeness": 1,
+          "reasoning": "Mistake (an action producing an undesired result) is what an 'honest mistake' represents, the opposite of the malice the lawyer alleges."
+        }
+      ]
+    }
+  ]
+}

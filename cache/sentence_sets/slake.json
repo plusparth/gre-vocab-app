@@ -1,0 +1,53 @@
+{
+  "word": "slake",
+  "sentenceSets": [
+    {
+      "sentence": "The short-term concession slaked the most immediate pressure without addressing the structural condition that had produced it.",
+      "answerChoices": [
+        { "distractor": "eased", "closeness": 3, "reasoning": "Eased means made less severe or more manageable, but slaked specifically implies reducing thirst or urgent desire." },
+        { "distractor": "relieved", "closeness": 3, "reasoning": "Relieved means freed from something burdensome, but doesn't carry the specific connotation of satisfying an urgent need." },
+        { "distractor": "assuaged", "closeness": 3, "reasoning": "Assuaged means calmed or satisfied, which is close, but slaked specifically means to satisfy a desire or thirst." },
+        { "distractor": "soothed", "closeness": 3, "reasoning": "Soothed means calmed or lessened, but refers more to emotional comfort than satisfying an urgent material need." },
+        { "distractor": "mitigated", "closeness": 2, "reasoning": "Mitigated means made less severe, but doesn't carry the connotation of satisfying an urgent need as slaked does." },
+        { "distractor": "mollified", "closeness": 2, "reasoning": "Mollified means soothed or appeased, but emphasizes changing feelings rather than satisfying an urgent need." },
+        { "distractor": "pacified", "closeness": 2, "reasoning": "Pacified means calmed or quieted, but refers more to emotional states than satisfying thirst or urgent desire." },
+        { "distractor": "placated", "closeness": 2, "reasoning": "Placated means appeased or satisfied for the moment, but doesn't carry the specific meaning of reducing urgent desire." },
+        { "distractor": "intensified", "closeness": 1, "reasoning": "Intensified means made stronger or more severe, the opposite of the reduction implied by slaked." },
+        { "distractor": "aggravated", "closeness": 1, "reasoning": "Aggravated means made worse or more severe, contrary to the satisfaction and reduction that slaking provides." },
+        { "distractor": "exacerbated", "closeness": 1, "reasoning": "Exacerbated means worsened or made more acute, opposite to the subsiding of pressure that slaked represents." }
+      ]
+    },
+    {
+      "sentence": "After days in the desert, the traveler finally slaked his thirst at an oasis, though he knew the relief would be temporary.",
+      "answerChoices": [
+        { "distractor": "satisfied", "closeness": 3, "reasoning": "Satisfied means fulfilled or content, but doesn't specifically convey the quenching of thirst that slaked implies." },
+        { "distractor": "quenched", "closeness": 3, "reasoning": "Quenched means extinguished or satisfied (especially thirst), nearly synonymous with slaked but slightly more focused on thirst." },
+        { "distractor": "hydrated", "closeness": 3, "reasoning": "Hydrated means supplied with water, which is the effect of slaking thirst but not precisely the same word." },
+        { "distractor": "refreshed", "closeness": 3, "reasoning": "Refreshed means made fresh or renewed, but refers to the result rather than the act of slaking." },
+        { "distractor": "filled", "closeness": 2, "reasoning": "Filled describes making full, but doesn't specifically convey the satisfaction of urgent thirst like slaked does." },
+        { "distractor": "replenished", "closeness": 2, "reasoning": "Replenished means restored or refilled, but can apply to other needs beyond the specific satisfaction of thirst." },
+        { "distractor": "wetted", "closeness": 2, "reasoning": "Wetted means made wet, but doesn't convey the full sense of satisfying thirst implied by slaked." },
+        { "distractor": "dampened", "closeness": 2, "reasoning": "Dampened means made slightly wet, but is less specific about satisfying urgent thirst than slaked." },
+        { "distractor": "increased", "closeness": 1, "reasoning": "Increased means made greater, the opposite of the reduction in thirst that slaking accomplishes." },
+        { "distractor": "worsened", "closeness": 1, "reasoning": "Worsened means made worse, contrary to the relief and satisfaction provided by slaking thirst." },
+        { "distractor": "prolonged", "closeness": 1, "reasoning": "Prolonged means extended in length, opposite to the temporary satisfaction of slaking thirst." }
+      ]
+    },
+    {
+      "sentence": "The athlete's competitive hunger could not be slaked by a single victory; each win only intensified the desire for the next challenge.",
+      "answerChoices": [
+        { "distractor": "dampened", "closeness": 3, "reasoning": "Dampened means reduced or weakened, but doesn't carry the specific meaning of satisfying an urgent desire like slaked does." },
+        { "distractor": "stifled", "closeness": 3, "reasoning": "Stifled means suppressed or prevented, but doesn't convey the sense of satisfying or reducing an appetite." },
+        { "distractor": "diminished", "closeness": 3, "reasoning": "Diminished means made smaller or less intense, but doesn't specifically mean to satisfy an appetite or hunger." },
+        { "distractor": "curtailed", "closeness": 3, "reasoning": "Curtailed means cut short or reduced, but doesn't convey the specific meaning of satisfying hunger or desire." },
+        { "distractor": "suppressed", "closeness": 2, "reasoning": "Suppressed means held back or restrained, but doesn't convey the satisfaction that comes from slaking." },
+        { "distractor": "tempered", "closeness": 2, "reasoning": "Tempered means moderated or made less intense, but doesn't specifically mean satisfying an appetite." },
+        { "distractor": "controlled", "closeness": 2, "reasoning": "Controlled means managed or restrained, but doesn't convey the satisfaction implied by slaking." },
+        { "distractor": "restrained", "closeness": 2, "reasoning": "Restrained means held back, but doesn't necessarily convey the satisfaction of reducing an appetite." },
+        { "distractor": "enhanced", "closeness": 1, "reasoning": "Enhanced means improved or increased, the opposite of slaking, which reduces appetite or desire." },
+        { "distractor": "stimulated", "closeness": 1, "reasoning": "Stimulated means aroused or encouraged, the opposite of slaking, which would reduce competitive hunger." },
+        { "distractor": "fueled", "closeness": 1, "reasoning": "Fueled means supplied with energy or motivation, contrary to the reduction implied by slaking the athlete's hunger." }
+      ]
+    }
+  ]
+}

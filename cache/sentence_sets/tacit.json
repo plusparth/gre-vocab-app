@@ -1,0 +1,53 @@
+{
+  "word": "tacit",
+  "sentenceSets": [
+    {
+      "sentence": "There was a tacit understanding that the issue would not be raised in the presence of those most likely to be affected by it.",
+      "answerChoices": [
+        { "distractor": "explicit", "closeness": 3, "reasoning": "Explicit means stated directly and clearly; the sentence shows an understanding that was not raised or expressed in words, the opposite of explicit." },
+        { "distractor": "formal", "closeness": 3, "reasoning": "Formal means official and officially agreed upon; the sentence describes something understood without words or formal agreement." },
+        { "distractor": "written", "closeness": 3, "reasoning": "Written means recorded in text; the sentence shows something carried on without words, which would not be written down." },
+        { "distractor": "documented", "closeness": 3, "reasoning": "Documented means officially recorded; the sentence describes an understanding that remains unstated and unrecorded." },
+        { "distractor": "stated", "closeness": 2, "reasoning": "Stated means said or expressed; the sentence shows an understanding that would not be raised or spoken aloud." },
+        { "distractor": "announced", "closeness": 2, "reasoning": "Announced means publicly declared; the sentence shows something that would not be raised even in the presence of affected parties." },
+        { "distractor": "negotiated", "closeness": 2, "reasoning": "Negotiated means discussed to reach agreement; the sentence describes an understanding rather than an agreement reached through discussion." },
+        { "distractor": "agreed", "closeness": 2, "reasoning": "Agreed means consented to but typically through discussion; the sentence shows something understood without explicit agreement." },
+        { "distractor": "debated", "closeness": 1, "reasoning": "Debated means discussed in detail; the sentence shows an understanding that would not be raised or discussed." },
+        { "distractor": "contested", "closeness": 1, "reasoning": "Contested means disputed or challenged; the sentence shows an understanding that avoids conflict by not being raised." },
+        { "distractor": "questioned", "closeness": 1, "reasoning": "Questioned means asked about or challenged; the sentence describes something that would not be raised, indicating no questioning." }
+      ]
+    },
+    {
+      "sentence": "The teacher's tacit approval of the students' unconventional approach was communicated through nods and knowing glances rather than words.",
+      "answerChoices": [
+        { "distractor": "vocal", "closeness": 3, "reasoning": "Vocal means expressed through speech; the sentence shows approval communicated through physical signs (nods, glances), not words." },
+        { "distractor": "verbal", "closeness": 3, "reasoning": "Verbal means expressed in words; the sentence emphasizes approval without words, through body language." },
+        { "distractor": "proclaimed", "closeness": 3, "reasoning": "Proclaimed means announced publicly; the sentence shows approval communicated privately through nonverbal signs." },
+        { "distractor": "declared", "closeness": 3, "reasoning": "Declared means announced officially; the sentence describes approval shown through nods and glances, not official declaration." },
+        { "distractor": "stated", "closeness": 2, "reasoning": "Stated means said in words; the sentence shows approval communicated nonverbally through body language." },
+        { "distractor": "expressed", "closeness": 2, "reasoning": "Expressed means communicated but typically through words; the sentence specifies nonverbal communication through nods and glances." },
+        { "distractor": "signaled", "closeness": 2, "reasoning": "Signaled means made a sign but is less specific than showing through body language; the sentence emphasizes knowing glances and nods." },
+        { "distractor": "conveyed", "closeness": 2, "reasoning": "Conveyed means communicated but the sentence specifies physical nonverbal communication as the medium." },
+        { "distractor": "concealed", "closeness": 1, "reasoning": "Concealed means hidden; the sentence shows approval that is communicated, even if not verbally." },
+        { "distractor": "withheld", "closeness": 1, "reasoning": "Withheld means refused to give; the sentence shows approval that is communicated through physical signs." },
+        { "distractor": "denied", "closeness": 1, "reasoning": "Denied means refused to acknowledge; the sentence shows approval that is communicated through nods and knowing glances." }
+      ]
+    },
+    {
+      "sentence": "The old friends had developed such a tacit rapport that they could navigate complex social situations without any explicit discussion of their intentions.",
+      "answerChoices": [
+        { "distractor": "verbal", "closeness": 3, "reasoning": "Verbal means involving words; the sentence describes understanding without explicit discussion, opposite of verbal communication." },
+        { "distractor": "articulated", "closeness": 3, "reasoning": "Articulated means expressed clearly in words; the sentence shows understanding without explicit discussion of intentions." },
+        { "distractor": "overt", "closeness": 3, "reasoning": "Overt means open and observable; tacit rapport is unspoken and implicit, opposite of overt." },
+        { "distractor": "formalized", "closeness": 3, "reasoning": "Formalized means made official or structured; tacit rapport is informal and unspoken, not formalized." },
+        { "distractor": "learned", "closeness": 2, "reasoning": "Learned means studied or acquired through instruction but does not describe the wordless nature of their understanding." },
+        { "distractor": "developed", "closeness": 2, "reasoning": "Developed means grew over time but does not specify the unspoken nature of their rapport." },
+        { "distractor": "refined", "closeness": 2, "reasoning": "Refined means improved or perfected but does not describe the wordless quality of their understanding." },
+        { "distractor": "honed", "closeness": 2, "reasoning": "Honed means sharpened or perfected but does not specify communication without explicit discussion." },
+        { "distractor": "fractured", "closeness": 1, "reasoning": "Fractured means broken; the sentence describes a strong rapport that navigates situations smoothly." },
+        { "distractor": "strained", "closeness": 1, "reasoning": "Strained means tense or difficult; the sentence shows a rapport that enables smooth navigation of complex situations." },
+        { "distractor": "superficial", "closeness": 1, "reasoning": "Superficial means shallow; the sentence describes a deep rapport that allows wordless navigation of complex situations." }
+      ]
+    }
+  ]
+}

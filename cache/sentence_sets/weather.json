@@ -1,0 +1,185 @@
+{
+  "word": "weather",
+  "sentenceSets": [
+    {
+      "sentence": "The storm had passed, and the changing weather left clear skies overhead while the valley below remained shrouded in lingering fog.",
+      "answerChoices": [
+        {
+          "distractor": "climate",
+          "closeness": 3,
+          "reasoning": "Climate describes long-term atmospheric patterns of a region, but weather refers to immediate atmospheric conditions—the fog and clear skies are weather phenomena, not climate."
+        },
+        {
+          "distractor": "conditions",
+          "closeness": 3,
+          "reasoning": "Conditions is a general term for circumstances, but weather specifically means the atmospheric state with respect to heat, moisture, and storms."
+        },
+        {
+          "distractor": "season",
+          "closeness": 3,
+          "reasoning": "Season refers to periods of the year with characteristic conditions, but weather describes the immediate atmospheric state—the fog and clear skies of that moment."
+        },
+        {
+          "distractor": "atmosphere",
+          "closeness": 3,
+          "reasoning": "Atmosphere is the layer of gases surrounding Earth, but weather describes the immediate state of that atmosphere regarding heat, moisture, and cloudiness."
+        },
+        {
+          "distractor": "wind",
+          "closeness": 2,
+          "reasoning": "Wind is one component of atmospheric conditions, but weather encompasses the full state including heat, moisture, storms, and cloud patterns."
+        },
+        {
+          "distractor": "precipitation",
+          "closeness": 2,
+          "reasoning": "Precipitation refers specifically to rain or snow, but weather describes the broader atmospheric state including temperature, moisture, and cloudiness."
+        },
+        {
+          "distractor": "forecast",
+          "closeness": 2,
+          "reasoning": "Forecast means a prediction about atmospheric conditions, but weather refers to the actual current state of the atmosphere."
+        },
+        {
+          "distractor": "pattern",
+          "closeness": 2,
+          "reasoning": "Pattern suggests recurring sequences, but weather refers to the immediate atmospheric state and conditions."
+        },
+        {
+          "distractor": "location",
+          "closeness": 1,
+          "reasoning": "Location means a place or position, which has no relation to the atmospheric state described by weather."
+        },
+        {
+          "distractor": "terrain",
+          "closeness": 1,
+          "reasoning": "Terrain refers to the physical landscape and topography, distinct from weather which describes atmospheric conditions."
+        },
+        {
+          "distractor": "landscape",
+          "closeness": 1,
+          "reasoning": "Landscape refers to physical terrain and scenery, unrelated to weather which describes atmospheric heat, moisture, and storms."
+        }
+      ]
+    },
+    {
+      "sentence": "Sailors learned to read the weather, watching cloud formations and wind shifts to predict storms hours before traditional forecasts could.",
+      "answerChoices": [
+        {
+          "distractor": "climate",
+          "closeness": 3,
+          "reasoning": "Climate describes long-term atmospheric patterns, but weather refers to immediate atmospheric conditions—the cloud formations and wind shifts sailors observed to predict storms."
+        },
+        {
+          "distractor": "sky",
+          "closeness": 3,
+          "reasoning": "Sky is the visible upper atmosphere, but weather refers to the actual state of that atmosphere regarding heat, moisture, wind, and storms."
+        },
+        {
+          "distractor": "seas",
+          "closeness": 3,
+          "reasoning": "Seas refer to the ocean waters, but weather describes atmospheric conditions that affect the seas."
+        },
+        {
+          "distractor": "wind",
+          "closeness": 3,
+          "reasoning": "Wind is one component of atmospheric conditions, but weather encompasses the full state including temperature, moisture, and storm patterns."
+        },
+        {
+          "distractor": "nature",
+          "closeness": 2,
+          "reasoning": "Nature is too broad and vague; weather specifically refers to atmospheric conditions with respect to heat, moisture, and storms."
+        },
+        {
+          "distractor": "elements",
+          "closeness": 2,
+          "reasoning": "Elements refer broadly to natural forces, but weather has a specific meaning: the atmospheric state regarding heat, dryness, calm, and cloudiness."
+        },
+        {
+          "distractor": "environment",
+          "closeness": 2,
+          "reasoning": "Environment encompasses surroundings broadly, but weather specifically refers to atmospheric conditions."
+        },
+        {
+          "distractor": "phenomenon",
+          "closeness": 2,
+          "reasoning": "Phenomenon is a general term for observable events, but weather specifically refers to atmospheric state and conditions."
+        },
+        {
+          "distractor": "technique",
+          "closeness": 1,
+          "reasoning": "Technique refers to a method or skill, unrelated to weather which describes atmospheric conditions."
+        },
+        {
+          "distractor": "instrument",
+          "closeness": 1,
+          "reasoning": "Instrument refers to a tool, distinct from weather which describes atmospheric heat, moisture, and storms."
+        },
+        {
+          "distractor": "calculation",
+          "closeness": 1,
+          "reasoning": "Calculation refers to mathematical computation, unrelated to weather which is the atmospheric state."
+        }
+      ]
+    },
+    {
+      "sentence": "The harsh weather of the mountain winters—with heavy snow and bitter cold—made the pass treacherous for traders accustomed to milder climates.",
+      "answerChoices": [
+        {
+          "distractor": "terrain",
+          "closeness": 3,
+          "reasoning": "Terrain refers to the physical landscape and topography, but weather refers to the atmospheric state with respect to snow, cold, and storms."
+        },
+        {
+          "distractor": "environment",
+          "closeness": 3,
+          "reasoning": "Environment is too broad and vague; weather specifically refers to atmospheric conditions including temperature, precipitation, and wind."
+        },
+        {
+          "distractor": "climate",
+          "closeness": 3,
+          "reasoning": "Climate describes the long-term average atmospheric patterns of a region, but weather refers to the immediate conditions—the snow and cold at a particular time."
+        },
+        {
+          "distractor": "conditions",
+          "closeness": 3,
+          "reasoning": "Conditions is too general; weather specifically means the atmospheric state with respect to heat, moisture, storms, and cloudiness."
+        },
+        {
+          "distractor": "season",
+          "closeness": 2,
+          "reasoning": "Season refers to periods of the year, but weather describes the actual atmospheric conditions during those periods."
+        },
+        {
+          "distractor": "location",
+          "closeness": 2,
+          "reasoning": "Location refers to a place, but weather refers to the atmospheric state at that place."
+        },
+        {
+          "distractor": "landscape",
+          "closeness": 2,
+          "reasoning": "Landscape refers to physical scenery, distinct from weather which is the atmospheric state."
+        },
+        {
+          "distractor": "hazard",
+          "closeness": 2,
+          "reasoning": "Hazard means a danger or risk, but weather refers to atmospheric conditions that may create hazards."
+        },
+        {
+          "distractor": "path",
+          "closeness": 1,
+          "reasoning": "Path refers to a route or passage, distinct from weather which describes atmospheric heat, moisture, and storms."
+        },
+        {
+          "distractor": "altitude",
+          "closeness": 1,
+          "reasoning": "Altitude refers to height above sea level, not the atmospheric conditions or state that weather describes."
+        },
+        {
+          "distractor": "geography",
+          "closeness": 1,
+          "reasoning": "Geography refers to the physical features and locations of places, distinct from weather which is the atmospheric state."
+        }
+      ]
+    }
+  ]
+}

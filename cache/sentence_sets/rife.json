@@ -1,0 +1,53 @@
+{
+  "word": "rife",
+  "sentenceSets": [
+    {
+      "sentence": "Rumors were rife in the period before the announcement, most of them more alarming than the actual news turned out to be.",
+      "answerChoices": [
+        { "distractor": "widespread", "closeness": 3, "reasoning": "Rumors were widespread throughout the period, but widespread simply means distributed over a wide area, not necessarily the sense of prevailing to an increasing degree." },
+        { "distractor": "common", "closeness": 3, "reasoning": "Rumors were common during that period, but common means frequently occurring, not necessarily the sense of being prevalent and unpleasant that rife conveys." },
+        { "distractor": "prevalent", "closeness": 3, "reasoning": "Prevalent describes something widely existing or prevailing, and rife has this meaning, but prevalent is slightly more neutral, lacking rife's sense of being unpleasant and increasing." },
+        { "distractor": "abundant", "closeness": 3, "reasoning": "Rumors were abundant during the period, but abundant emphasizes plentiful quantity, not the sense of being disturbingly prevalent." },
+        { "distractor": "proliferating", "closeness": 2, "reasoning": "Rumors multiplied and spread, fitting proliferating, but proliferating emphasizes rapid multiplication, not the sense of being unpleasantly prevalent." },
+        { "distractor": "circulating", "closeness": 2, "reasoning": "Rumors circulated widely, but circulating emphasizes movement and spread, not the sense of being prevalent and unpleasant." },
+        { "distractor": "pervasive", "closeness": 2, "reasoning": "Rumors were pervasive, but pervasive means spreading throughout, not necessarily the sense of being unpleasantly increasing." },
+        { "distractor": "rampant", "closeness": 2, "reasoning": "Rumors were rampant, fitting growing uncontrolled spread, but rampant emphasizes unchecked growth, while rife emphasizes unpleasant prevalence." },
+        { "distractor": "scarce", "closeness": 1, "reasoning": "Rumors were rife and widespread; scarce would mean rare or in short supply, opposite." },
+        { "distractor": "silenced", "closeness": 1, "reasoning": "Rumors were rife and prevalent; silenced would mean suppressed or quieted, opposite." },
+        { "distractor": "dispelled", "closeness": 1, "reasoning": "Rumors were rife before the announcement; dispelled would mean removed or cleared away, opposite." }
+      ]
+    },
+    {
+      "sentence": "The refugee camp was rife with disease and malnutrition, overwhelming the few medical workers trying to provide care.",
+      "answerChoices": [
+        { "distractor": "filled", "closeness": 3, "reasoning": "The camp was filled with disease and suffering, but filled simply means containing a certain amount, not the sense of being disturbingly prevalent and increasing." },
+        { "distractor": "plagued", "closeness": 3, "reasoning": "The camp was plagued by disease, but plagued emphasizes being troubled or affected, not the sense of prevalence and increasing unpleasant conditions." },
+        { "distractor": "infested", "closeness": 3, "reasoning": "The camp was infested with disease, but infested emphasizes being overrun by pests or parasites, not the broader sense of unpleasant conditions being prevalent." },
+        { "distractor": "contaminated", "closeness": 3, "reasoning": "The conditions were contaminated with disease, but contaminated means made impure or polluted, not the sense of being prevalently unpleasant." },
+        { "distractor": "stricken", "closeness": 2, "reasoning": "The camp was stricken by disease, but stricken emphasizes being affected or devastated, not the sense of prevalence and increase." },
+        { "distractor": "ravaged", "closeness": 2, "reasoning": "Disease ravaged the camp, but ravaged emphasizes severe destructive damage, not the sense of being pervasively unpleasant." },
+        { "distractor": "epidemic", "closeness": 2, "reasoning": "Disease reached epidemic proportions, but epidemic emphasizes rapid spread of disease, not the broader sense of multiple unpleasant conditions being prevalent." },
+        { "distractor": "endemic", "closeness": 2, "reasoning": "Disease was endemic to the camp, but endemic means established in a place, not the sense of being increasingly prevalent and unpleasant." },
+        { "distractor": "healthy", "closeness": 1, "reasoning": "The camp is rife with disease and malnutrition; healthy would mean in good condition, opposite." },
+        { "distractor": "sanitary", "closeness": 1, "reasoning": "The camp is rife with disease; sanitary would mean clean and hygienic, opposite." },
+        { "distractor": "nourished", "closeness": 1, "reasoning": "The camp is rife with malnutrition; nourished would mean well-fed and healthy, opposite." }
+      ]
+    },
+    {
+      "sentence": "The investigation revealed that the department was rife with corruption, with officials systematically diverting public funds for personal gain.",
+      "answerChoices": [
+        { "distractor": "guilty", "closeness": 3, "reasoning": "Officials were guilty of corruption, but guilty describes being culpable for wrongdoing, not the sense of widespread prevalent conditions." },
+        { "distractor": "implicated", "closeness": 3, "reasoning": "Officials were implicated in corruption, but implicated means involved in wrongdoing, not the sense of conditions being pervasive and unpleasant." },
+        { "distractor": "compromised", "closeness": 3, "reasoning": "Officials were compromised by corruption, but compromised emphasizes being made less secure or reliable, not the sense of widespread prevalence." },
+        { "distractor": "tainted", "closeness": 3, "reasoning": "The department was tainted by corruption, but tainted emphasizes being stained or spoiled, not the sense of being pervasively prevalent." },
+        { "distractor": "saturated", "closeness": 2, "reasoning": "The department was saturated with corruption, but saturated emphasizes being completely soaked, not the sense of unpleasantly increasing prevalence." },
+        { "distractor": "riddled", "closeness": 2, "reasoning": "The department was riddled with corruption, but riddled emphasizes being full of holes or problems, not the specific sense of prevalent unpleasant conditions." },
+        { "distractor": "infested", "closeness": 2, "reasoning": "The department was infested with corruption, but infested emphasizes being overrun, not the sense of conditions being increasingly prevalent." },
+        { "distractor": "festering", "closeness": 2, "reasoning": "Corruption festered in the department, but festering emphasizes growing worse, not necessarily the sense of being widespread." },
+        { "distractor": "pristine", "closeness": 1, "reasoning": "The department is rife with corruption; pristine would mean pure and untainted, opposite." },
+        { "distractor": "ethical", "closeness": 1, "reasoning": "The department is rife with corruption; ethical would mean following moral principles, opposite." },
+        { "distractor": "honest", "closeness": 1, "reasoning": "Officials systematically diverted funds; honest would mean truthful and not deceptive, opposite of corruption." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "thwart",
+  "sentenceSets": [
+    {
+      "sentence": "The amendment was designed to thwart the provision it nominally complemented.",
+      "answerChoices": [
+        { "distractor": "undermine", "closeness": 3, "reasoning": "Undermine means to weaken gradually or at the foundation, but the sentence shows direct opposition despite nominal complementarity, not gradual weakening." },
+        { "distractor": "contradict", "closeness": 3, "reasoning": "Contradict means to assert the opposite, but the sentence describes hidden opposition within nominal support, not direct assertion of opposite position." },
+        { "distractor": "oppose", "closeness": 3, "reasoning": "Oppose means to confront or resist, which is close, but the sentence emphasizes defeating through nominal complementarity, adding a deceptive element." },
+        { "distractor": "subvert", "closeness": 3, "reasoning": "Subvert means to undermine or corrupt from within, which comes very close, but the sentence emphasizes defeating the provision through the amendment's false appearance of support." },
+        { "distractor": "hinder", "closeness": 2, "reasoning": "Hinder means to create difficulty or obstruct, but the sentence shows active defeat through deceptive amendment design, not mere hindrance." },
+        { "distractor": "weaken", "closeness": 2, "reasoning": "Weaken means to make less strong, but the sentence emphasizes defeating the provision's purpose, not merely weakening it." },
+        { "distractor": "complicate", "closeness": 2, "reasoning": "Complicate means to make more difficult, but the sentence's emphasis on nominal complementarity and actual opposition suggests direct defeat, not complication." },
+        { "distractor": "circumvent", "closeness": 2, "reasoning": "Circumvent means to go around or avoid by clever means, which relates to the deceptive nature but doesn't capture the active defeat." },
+        { "distractor": "support", "closeness": 1, "reasoning": "Support means to provide assistance or backing, opposite to what the amendment actually does despite its nominal appearance." },
+        { "distractor": "enhance", "closeness": 1, "reasoning": "Enhance means to improve or make better, opposite to defeating the provision." },
+        { "distractor": "facilitate", "closeness": 1, "reasoning": "Facilitate means to make easier or promote, opposite to the amendment's actual effect." }
+      ]
+    },
+    {
+      "sentence": "The senator introduced a procedural amendment specifically designed to thwart the bill's passage, knowing that her party lacked the votes for outright defeat and hoping to delay action indefinitely.",
+      "answerChoices": [
+        { "distractor": "delay", "closeness": 3, "reasoning": "Delay means to postpone or put off, but the sentence shows the senator attempting to defeat passage, with delay merely a tactic toward that goal." },
+        { "distractor": "stall", "closeness": 3, "reasoning": "Stall means to delay or come to a stop, which is close, but the sentence emphasizes preventing passage, not merely delaying it." },
+        { "distractor": "obstruct", "closeness": 3, "reasoning": "Obstruct means to block or prevent passage, which is close, but the sentence emphasizes defeating the bill's passage through procedural means, not mere blocking." },
+        { "distractor": "prevent", "closeness": 3, "reasoning": "Prevent means to stop something happening, which is very close to thwart, but the sentence specifies procedural opposition and lack of votes, suggesting a more tactical opposition." },
+        { "distractor": "filibuster", "closeness": 2, "reasoning": "Filibuster means to delay action through lengthy speech, but the sentence describes a procedural amendment, not extended speeches." },
+        { "distractor": "challenge", "closeness": 2, "reasoning": "Challenge means to contest or oppose, but the sentence emphasizes procedural tactics to prevent passage, not general opposition." },
+        { "distractor": "criticize", "closeness": 2, "reasoning": "Criticize means to find fault with, but the sentence's focus is on procedural tactics to prevent passage, not expression of disapproval." },
+        { "distractor": "investigate", "closeness": 2, "reasoning": "Investigate means to examine or inquire into, which is unrelated to the procedural tactics the sentence describes." },
+        { "distractor": "support", "closeness": 1, "reasoning": "Support means to provide assistance or backing, opposite to attempting to prevent the bill's passage." },
+        { "distractor": "expedite", "closeness": 1, "reasoning": "Expedite means to speed up or hasten, opposite to trying to prevent passage indefinitely." },
+        { "distractor": "promote", "closeness": 1, "reasoning": "Promote means to advance or encourage, opposite to defeating the bill." }
+      ]
+    },
+    {
+      "sentence": "Environmental regulations designed to thwart industrial pollution often angered factory owners, who saw them not as necessary protections but as deliberate attempts to make their operations unprofitable.",
+      "answerChoices": [
+        { "distractor": "limit", "closeness": 3, "reasoning": "Limit means to restrict or set bounds on, but the sentence emphasizes regulations working against industrial operations, not merely restricting activities." },
+        { "distractor": "constrain", "closeness": 3, "reasoning": "Constrain means to restrict or confine, which is close, but the sentence emphasizes defeating profitable operation, not merely constraining it." },
+        { "distractor": "discourage", "closeness": 3, "reasoning": "Discourage means to dissuade from or remove enthusiasm for, but the sentence shows regulations actively working against operations, not merely discouraging." },
+        { "distractor": "block", "closeness": 3, "reasoning": "Block means to obstruct or prevent passage, which is close, but the sentence emphasizes regulations making operations unprofitable rather than blocking them entirely." },
+        { "distractor": "reduce", "closeness": 2, "reasoning": "Reduce means to make smaller or fewer, but the sentence emphasizes regulations defeating operations' profitability, not merely reducing it." },
+        { "distractor": "suppress", "closeness": 2, "reasoning": "Suppress means to prevent or inhibit, but the sentence emphasizes conflict between regulations and profit, not general suppression." },
+        { "distractor": "criticize", "closeness": 2, "reasoning": "Criticize means to find fault with, but the sentence describes regulations' effect on operations, not expression of disapproval." },
+        { "distractor": "investigate", "closeness": 2, "reasoning": "Investigate means to examine or inquire into, which is unrelated to regulations making operations unprofitable." },
+        { "distractor": "support", "closeness": 1, "reasoning": "Support means to provide backing or assistance, opposite to regulations that factory owners view as defeating their profitability." },
+        { "distractor": "enable", "closeness": 1, "reasoning": "Enable means to make possible or provide means for, opposite to regulations designed to defeat operations." },
+        { "distractor": "facilitate", "closeness": 1, "reasoning": "Facilitate means to make easier or promote, opposite to regulations that owners saw as making operations unprofitable." }
+      ]
+    }
+  ]
+}

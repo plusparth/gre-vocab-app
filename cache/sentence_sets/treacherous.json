@@ -1,0 +1,53 @@
+{
+  "word": "treacherous",
+  "sentenceSets": [
+    {
+      "sentence": "The treacherous currents in the professional environment rewarded exactly the behaviors it publicly discouraged.",
+      "answerChoices": [
+        { "distractor": "deceptive", "closeness": 3, "reasoning": "'Deceptive' means misleading or dishonest, fitting an environment that rewards discouraged behaviors; however, 'deceptive' emphasizes false appearance, while 'treacherous' emphasizes betrayal of stated values." },
+        { "distractor": "duplicitous", "closeness": 3, "reasoning": "'Duplicitous' means deceitful and double-dealing, fitting an environment that contradicts its stated values; 'duplicitous' is so close that it could trap someone." },
+        { "distractor": "hypocritical", "closeness": 3, "reasoning": "'Hypocritical' means contradicting one's stated values, fitting an environment that rewards discouraged behaviors; however, 'hypocritical' emphasizes the contradiction, while 'treacherous' emphasizes betrayal of trust." },
+        { "distractor": "unreliable", "closeness": 3, "reasoning": "'Unreliable' means not dependable, and the environment is unreliable in rewarding the opposite of what it claims to discourage; 'unreliable' is very close to the meaning of 'treacherous.'" },
+        { "distractor": "corrupting", "closeness": 2, "reasoning": "'Corrupting' means degrading or morally compromising, fitting an environment that corrupts values; however, the sentence emphasizes inconsistency, not corruption per se." },
+        { "distractor": "toxic", "closeness": 2, "reasoning": "'Toxic' means poisonous or harmful to relationships, fitting a problematic environment; however, 'toxic' emphasizes harm, while 'treacherous' emphasizes betrayal." },
+        { "distractor": "underhanded", "closeness": 2, "reasoning": "'Underhanded' means deceitful or sneaky, fitting an environment with hidden agendas; however, the sentence emphasizes the overt contradiction rather than sneakiness." },
+        { "distractor": "perverse", "closeness": 2, "reasoning": "'Perverse' means contrary to what is expected or reasonable, fitting an environment that rewards the opposite of its stated values." },
+        { "distractor": "trustworthy", "closeness": 1, "reasoning": "'Trustworthy' means reliable and honest; the sentence describes an environment that betrays its stated values, opposite to trustworthy." },
+        { "distractor": "consistent", "closeness": 1, "reasoning": "'Consistent' means unchanging and reliable; the sentence describes an environment full of contradiction between words and rewards, opposite to consistent." },
+        { "distractor": "honorable", "closeness": 1, "reasoning": "'Honorable' means acting with integrity; the sentence describes an environment that rewards behaviors it publicly discourages, opposite to honorable." }
+      ]
+    },
+    {
+      "sentence": "Her treacherous friends had smiled in her presence while spreading vicious rumors behind her back, gaining her trust only to exploit it.",
+      "answerChoices": [
+        { "distractor": "disloyal", "closeness": 3, "reasoning": "'Disloyal' means not faithful to a person, fitting friends who betray through rumors; 'disloyal' is so close that it could trap someone, though it emphasizes lack of faithfulness rather than active betrayal." },
+        { "distractor": "faithless", "closeness": 3, "reasoning": "'Faithless' means lacking faith or trust in a relationship, fitting friends who betray trust; however, 'faithless' emphasizes lack of faith, while 'treacherous' emphasizes active betrayal." },
+        { "distractor": "deceitful", "closeness": 3, "reasoning": "'Deceitful' means dishonest and misleading, fitting friends who smile while spreading rumors; however, 'deceitful' emphasizes false appearance, while 'treacherous' emphasizes violation of trust." },
+        { "distractor": "untrustworthy", "closeness": 3, "reasoning": "'Untrustworthy' means not deserving of trust, exactly describing friends who gain trust only to exploit it; the terms are very close." },
+        { "distractor": "devious", "closeness": 2, "reasoning": "'Devious' means dishonest and calculated, fitting friends with hidden intentions; however, the sentence emphasizes the violation of trust, not just deceitfulness." },
+        { "distractor": "cunning", "closeness": 2, "reasoning": "'Cunning' means clever and deceptive, fitting the strategic rumor-spreading; however, it emphasizes cleverness, not the betrayal of trust." },
+        { "distractor": "manipulative", "closeness": 2, "reasoning": "'Manipulative' means controlling others through deceit, fitting friends who gain trust to exploit it; however, the sentence emphasizes active betrayal of stated friendship." },
+        { "distractor": "insincere", "closeness": 2, "reasoning": "'Insincere' means not genuine or honest, fitting friends who smile while spreading rumors; however, it emphasizes lack of genuine feeling rather than active betrayal." },
+        { "distractor": "loyal", "closeness": 1, "reasoning": "'Loyal' means faithful and devoted; the sentence describes friends who betray trust through rumors, opposite to loyal." },
+        { "distractor": "reliable", "closeness": 1, "reasoning": "'Reliable' means dependable; the sentence describes friends who exploit trust they gain, opposite to reliable." },
+        { "distractor": "sincere", "closeness": 1, "reasoning": "'Sincere' means genuine and honest; the sentence describes friends who smile falsely while spreading rumors, opposite to sincere." }
+      ]
+    },
+    {
+      "sentence": "The general's treacherous lieutenant secretly negotiated with the enemy while appearing loyal, preparing to undermine the final offensive from within.",
+      "answerChoices": [
+        { "distractor": "disloyal", "closeness": 3, "reasoning": "'Disloyal' means unfaithful, fitting a lieutenant negotiating with enemies; however, 'disloyal' emphasizes lack of loyalty, while 'treacherous' emphasizes active betrayal while appearing loyal." },
+        { "distractor": "traitorous", "closeness": 3, "reasoning": "'Traitorous' means involving betrayal of one's country or cause, fitting a lieutenant negotiating with enemies; 'traitorous' is so close that it could trap someone, though 'treacherous' is broader." },
+        { "distractor": "duplicitous", "closeness": 3, "reasoning": "'Duplicitous' means deceitful and double-dealing, fitting appearance of loyalty while negotiating with enemies; however, 'duplicitous' emphasizes deception, while 'treacherous' emphasizes betrayal of trust." },
+        { "distractor": "seditious", "closeness": 3, "reasoning": "'Seditious' means inciting rebellion against authority, fitting a lieutenant undermining the offensive from within; however, 'seditious' emphasizes incitement, while 'treacherous' emphasizes the betrayal." },
+        { "distractor": "subversive", "closeness": 2, "reasoning": "'Subversive' means working to undermine from within, fitting the lieutenant's activities; however, the sentence emphasizes the betrayal of trust, not just undermining." },
+        { "distractor": "conspiratorial", "closeness": 2, "reasoning": "'Conspiratorial' means involving secret planning with others, fitting secret negotiations with enemies; however, it emphasizes the conspiracy, not the betrayal of trust." },
+        { "distractor": "perfidious", "closeness": 2, "reasoning": "'Perfidious' means deliberately unfaithful, very close to 'treacherous'; however, 'perfidious' is more formal and emphasizes unfaithfulness specifically." },
+        { "distractor": "deceitful", "closeness": 2, "reasoning": "'Deceitful' means dishonest, fitting the appearance of loyalty while negotiating with enemies; however, it emphasizes deception, not the deeper betrayal." },
+        { "distractor": "loyal", "closeness": 1, "reasoning": "'Loyal' means faithful; the sentence describes a lieutenant negotiating with enemies, opposite to loyal." },
+        { "distractor": "faithful", "closeness": 1, "reasoning": "'Faithful' means true to duty or allegiance; the sentence describes someone undermining from within, opposite to faithful." },
+        { "distractor": "dependable", "closeness": 1, "reasoning": "'Dependable' means reliable and trustworthy; the sentence describes someone the general cannot rely on due to secret enemy negotiations, opposite to dependable." }
+      ]
+    }
+  ]
+}

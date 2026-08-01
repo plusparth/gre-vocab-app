@@ -1,0 +1,53 @@
+{
+  "word": "pillory",
+  "sentenceSets": [
+    {
+      "sentence": "He was pilloried in the press for a decision that, in context, had been defensible and, in isolation, was made to appear otherwise.",
+      "answerChoices": [
+        { "distractor": "denounce", "closeness": 3, "reasoning": "Though denounce means to publicly declare someone wrong, the sentence indicates the criticism was unfair because context was ignored, whereas denounce implies justified public condemnation." },
+        { "distractor": "vilify", "closeness": 3, "reasoning": "While vilify means to say harsh critical things, the sentence indicates the decision was actually defensible, suggesting the criticism was excessive rather than appropriate." },
+        { "distractor": "defame", "closeness": 3, "reasoning": "Though defame means to harm reputation, the sentence emphasizes public criticism in the press rather than specifically attempting to damage someone's reputation." },
+        { "distractor": "castigate", "closeness": 3, "reasoning": "While castigate means to reprimand harshly, the sentence shows criticism based on misrepresentation (isolation without context) rather than justified harsh judgment." },
+        { "distractor": "condemn", "closeness": 2, "reasoning": "Though condemn means to express disapproval, the sentence shows the criticism was based on incomplete information rather than a full evaluation of the decision." },
+        { "distractor": "censure", "closeness": 2, "reasoning": "While censure means to express official disapproval, the sentence describes press criticism, which is unofficial rather than formal censure." },
+        { "distractor": "criticize", "closeness": 2, "reasoning": "Though criticize means to express disapproval, the sentence emphasizes public shaming in the press rather than reasoned or technical criticism." },
+        { "distractor": "attack", "closeness": 2, "reasoning": "While attack can mean to criticize harshly, the sentence emphasizes unfair selective criticism (isolation) rather than a full or justified attack." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "The sentence describes harsh public criticism in the press, opposite to approval or commendation." },
+        { "distractor": "endorse", "closeness": 1, "reasoning": "The sentence shows the decision being publicly criticized and misrepresented, opposite to publicly supporting it." },
+        { "distractor": "defend", "closeness": 1, "reasoning": "The sentence describes criticism making the decision appear indefensible, opposite to providing support or justification." }
+      ]
+    },
+    {
+      "sentence": "The CEO was pilloried by investors for the company's poor quarterly earnings, despite market-wide recession affecting all competitors.",
+      "answerChoices": [
+        { "distractor": "berate", "closeness": 3, "reasoning": "Though berate means to scold harshly, the sentence shows organized public criticism by investors rather than direct personal scolding." },
+        { "distractor": "upbraid", "closeness": 3, "reasoning": "While upbraid means to scold, the sentence emphasizes collective investor criticism rather than a single person reprimanding." },
+        { "distractor": "chastise", "closeness": 3, "reasoning": "Though chastise means to reprimand, the sentence shows criticism of financial results rather than justified punishment for wrongdoing." },
+        { "distractor": "revile", "closeness": 3, "reasoning": "While revile means to use abusive language, the sentence describes financial criticism by investors rather than personal abuse." },
+        { "distractor": "blame", "closeness": 2, "reasoning": "Though blame means to hold responsible, the sentence shows investors criticizing despite economic factors outside the CEO's individual control." },
+        { "distractor": "fault", "closeness": 2, "reasoning": "While fault means to find error, the sentence suggests the criticism ignores broader market conditions affecting all competitors." },
+        { "distractor": "reproach", "closeness": 2, "reasoning": "Though reproach means to express disapproval, the sentence shows unfair criticism given the market-wide recession context." },
+        { "distractor": "scold", "closeness": 2, "reasoning": "While scold means to reprimand, the sentence emphasizes collective investor criticism rather than personal reprimanding." },
+        { "distractor": "commend", "closeness": 1, "reasoning": "The sentence describes harsh public criticism by investors, opposite to praising or approving." },
+        { "distractor": "vindicate", "closeness": 1, "reasoning": "The sentence shows the CEO criticized despite market-wide factors, opposite to proving decisions were justified." },
+        { "distractor": "exonerate", "closeness": 1, "reasoning": "The sentence describes public blame and criticism, opposite to clearing someone of responsibility." }
+      ]
+    },
+    {
+      "sentence": "The controversial statement was pilloried by social media users for weeks, with each retweet adding fuel to the outrage cycle.",
+      "answerChoices": [
+        { "distractor": "mock", "closeness": 3, "reasoning": "Though mock means to ridicule, the sentence emphasizes sustained public condemnation over weeks rather than lighthearted mockery or teasing." },
+        { "distractor": "deride", "closeness": 3, "reasoning": "While deride means to ridicule contemptuously, the sentence shows organized public outrage amplified through retweets rather than mocking contempt." },
+        { "distractor": "ridicule", "closeness": 3, "reasoning": "Though ridicule means to mock, the sentence emphasizes serious public outrage and amplification rather than joking or playful mockery." },
+        { "distractor": "jeer", "closeness": 3, "reasoning": "While jeer means to mock noisily, the sentence shows sustained public criticism over weeks rather than momentary jeering or heckling." },
+        { "distractor": "disparage", "closeness": 2, "reasoning": "While disparage means to speak negatively, the sentence emphasizes public outrage and organized retweets rather than private negative commentary." },
+        { "distractor": "belittle", "closeness": 2, "reasoning": "Though belittle means to make seem unimportant, the sentence shows public shaming and outrage amplification rather than diminishing importance." },
+        { "distractor": "diminish", "closeness": 2, "reasoning": "While diminish means to reduce or lessen, the sentence emphasizes public criticism adding fuel to outrage rather than reducing something." },
+        { "distractor": "denigrate", "closeness": 2, "reasoning": "Though denigrate means to criticize, the sentence shows public outrage amplified through retweets rather than simple negative criticism." },
+        { "distractor": "celebrate", "closeness": 1, "reasoning": "The sentence describes sustained public criticism and outrage, opposite to expressing approval or joy." },
+        { "distractor": "elevate", "closeness": 1, "reasoning": "The sentence shows public condemnation causing outrage, opposite to raising in esteem or importance." },
+        { "distractor": "honor", "closeness": 1, "reasoning": "The sentence describes public condemnation and outrage, opposite to showing respect or recognition." }
+      ]
+    }
+  ]
+}

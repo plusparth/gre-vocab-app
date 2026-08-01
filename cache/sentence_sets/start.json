@@ -1,0 +1,185 @@
+{
+  "word": "start",
+  "sentenceSets": [
+    {
+      "sentence": "The project started with a clear vision but lost direction within months.",
+      "answerChoices": [
+        {
+          "distractor": "began",
+          "closeness": 3,
+          "reasoning": "Began means started or commenced, very close to started, but the sentence emphasizes the *coming into being* with a clear vision."
+        },
+        {
+          "distractor": "commenced",
+          "closeness": 3,
+          "reasoning": "Commenced means formally began, but the sentence indicates the project's *coming into activity*, not formal commencement."
+        },
+        {
+          "distractor": "launched",
+          "closeness": 3,
+          "reasoning": "Launched means set in motion, but started emphasizes *coming into activity or operation* with clarity."
+        },
+        {
+          "distractor": "initiated",
+          "closeness": 3,
+          "reasoning": "Initiated means caused to begin, but the sentence indicates the project *came into being* with a vision."
+        },
+        {
+          "distractor": "opened",
+          "closeness": 2,
+          "reasoning": "Opened means made accessible or began, but started emphasizes *coming into operation*, not opening."
+        },
+        {
+          "distractor": "established",
+          "closeness": 2,
+          "reasoning": "Established means set up or founded, but the sentence indicates the project *came into being*, not permanent establishment."
+        },
+        {
+          "distractor": "created",
+          "closeness": 2,
+          "reasoning": "Created means made or brought into existence, but started emphasizes *coming into activity or operation*."
+        },
+        {
+          "distractor": "emerged",
+          "closeness": 2,
+          "reasoning": "Emerged means came into view or existence, but the sentence indicates the project *came into operation*, not emergence."
+        },
+        {
+          "distractor": "ended",
+          "closeness": 1,
+          "reasoning": "Ended means finished or ceased; the opposite of a project that started with a clear vision."
+        },
+        {
+          "distractor": "concluded",
+          "closeness": 1,
+          "reasoning": "Concluded means finished or ended; the opposite of a project that started at its beginning."
+        },
+        {
+          "distractor": "abandoned",
+          "closeness": 1,
+          "reasoning": "Abandoned means gave up on; the opposite of a project that started with a clear vision."
+        }
+      ]
+    },
+    {
+      "sentence": "The car wouldn't start on the cold morning.",
+      "answerChoices": [
+        {
+          "distractor": "crank",
+          "closeness": 3,
+          "reasoning": "Crank means to turn the engine by hand or to operate, but started indicates the engine *came into operation*, not cranking."
+        },
+        {
+          "distractor": "begin",
+          "closeness": 3,
+          "reasoning": "Begin means to start, but the sentence specifically indicates the *engine came into operation*."
+        },
+        {
+          "distractor": "turn on",
+          "closeness": 3,
+          "reasoning": "Turn on means to activate or switch on, but started indicates the engine *came into operation* mechanically."
+        },
+        {
+          "distractor": "fire",
+          "closeness": 3,
+          "reasoning": "Fire can mean to activate an engine, but started is the standard term for engine ignition."
+        },
+        {
+          "distractor": "ignite",
+          "closeness": 2,
+          "reasoning": "Ignite means to catch fire or set aflame, but started indicates the engine *came into operation*."
+        },
+        {
+          "distractor": "engage",
+          "closeness": 2,
+          "reasoning": "Engage means to connect or activate, but started specifically indicates the engine *came into operation*."
+        },
+        {
+          "distractor": "activate",
+          "closeness": 2,
+          "reasoning": "Activate means to make active or operational, but started indicates the engine specifically *came into operation*."
+        },
+        {
+          "distractor": "rev",
+          "closeness": 2,
+          "reasoning": "Rev means to increase engine speed, but started indicates the engine *came into operation*, not speed increase."
+        },
+        {
+          "distractor": "stalled",
+          "closeness": 1,
+          "reasoning": "Stalled means stopped or ceased operating; the opposite of an engine that started."
+        },
+        {
+          "distractor": "failed",
+          "closeness": 1,
+          "reasoning": "Failed means did not work or ceased functioning; the opposite of an engine that started."
+        },
+        {
+          "distractor": "died",
+          "closeness": 1,
+          "reasoning": "Died means ceased to operate; the opposite of an engine that started on a cold morning."
+        }
+      ]
+    },
+    {
+      "sentence": "She started at the sudden noise and knocked over her coffee.",
+      "answerChoices": [
+        {
+          "distractor": "jumped",
+          "closeness": 3,
+          "reasoning": "Jumped means leaped upward, very close to started as a reaction, but started indicates a *sudden reaction* to surprise."
+        },
+        {
+          "distractor": "flinched",
+          "closeness": 3,
+          "reasoning": "Flinched means drew back in pain or fear, close to started, but started emphasizes the *sudden surprise*, not pain."
+        },
+        {
+          "distractor": "recoiled",
+          "closeness": 3,
+          "reasoning": "Recoiled means drew back suddenly, but started indicates a *sudden reaction* to surprise, not withdrawal."
+        },
+        {
+          "distractor": "jolted",
+          "closeness": 3,
+          "reasoning": "Jolted means pushed or moved suddenly, but started emphasizes the *sudden reaction* to surprise."
+        },
+        {
+          "distractor": "startled",
+          "closeness": 2,
+          "reasoning": "Startled means surprised or shocked, but started indicates a *physical reaction*, not just emotional surprise."
+        },
+        {
+          "distractor": "whirled",
+          "closeness": 2,
+          "reasoning": "Whirled means spun around quickly, but started indicates a sudden reaction, not a spinning motion."
+        },
+        {
+          "distractor": "trembled",
+          "closeness": 2,
+          "reasoning": "Trembled means shook, but started indicates a *sudden reactive motion*, not sustained shaking."
+        },
+        {
+          "distractor": "lurched",
+          "closeness": 2,
+          "reasoning": "Lurched means moved abruptly, but started indicates a *sudden reaction* to surprise."
+        },
+        {
+          "distractor": "remained",
+          "closeness": 1,
+          "reasoning": "Remained means stayed in place; the opposite of starting or reacting with surprise."
+        },
+        {
+          "distractor": "ignored",
+          "closeness": 1,
+          "reasoning": "Ignored means paid no attention; the opposite of starting or reacting to a sudden noise."
+        },
+        {
+          "distractor": "slept",
+          "closeness": 1,
+          "reasoning": "Slept means was asleep; the opposite of starting or reacting to a sudden noise."
+        }
+      ]
+    }
+  ]
+}

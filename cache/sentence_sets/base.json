@@ -1,0 +1,53 @@
+{
+  "word": "base",
+  "sentenceSets": [
+    {
+      "sentence": "She suspected his generosity was not truly charitable but based on a desire for public recognition.",
+      "answerChoices": [
+        { "distractor": "rooted", "closeness": 3, "reasoning": "Both mean originating in or founded on, but rooted emphasizes deep establishment, while based suggests the foundation or source of motivation." },
+        { "distractor": "stemming", "closeness": 3, "reasoning": "Both mean originating from, but stemming emphasizes flowing from like a stem, while based emphasizes serving as the foundation or motivation." },
+        { "distractor": "grounded", "closeness": 3, "reasoning": "Both mean established or founded, but grounded emphasizes a solid foundation, while based emphasizes the source of motivation." },
+        { "distractor": "driven", "closeness": 3, "reasoning": "Both suggest motivation, but driven emphasizes being propelled or urged, while based emphasizes underlying foundation." },
+        { "distractor": "founded", "closeness": 2, "reasoning": "Both mean established on, but founded emphasizes the act of establishing, while based emphasizes the foundation itself." },
+        { "distractor": "motivated", "closeness": 2, "reasoning": "The generosity is based on a motive, but motivated just means given a reason, not necessarily describing its foundation." },
+        { "distractor": "dependent", "closeness": 2, "reasoning": "The action depends on motivation, but dependent means relying on something, while based emphasizes the foundation." },
+        { "distractor": "contingent", "closeness": 2, "reasoning": "The generosity is contingent on motivation, but contingent means conditional, while based emphasizes the foundation." },
+        { "distractor": "contradicting", "closeness": 1, "reasoning": "The generosity's base contradicts its appearance; contradicting means opposing or conflicting." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "She suspects hidden motivations; transparent means clear and obvious." },
+        { "distractor": "pure", "closeness": 1, "reasoning": "She suspects the generosity has a base in self-interest; pure describes undiluted or unmixed." }
+      ]
+    },
+    {
+      "sentence": "Archaeologists discovered the base of an ancient temple buried beneath five meters of sediment, suggesting the structure predated current settlement patterns.",
+      "answerChoices": [
+        { "distractor": "foundation", "closeness": 3, "reasoning": "Both refer to the bottom supporting structure, but foundation emphasizes what structures are built on, while base is the bottom itself." },
+        { "distractor": "pedestal", "closeness": 3, "reasoning": "Both support structures, but pedestal refers to a base for a statue or column, while base refers to the bottom of a structure." },
+        { "distractor": "platform", "closeness": 3, "reasoning": "Both are raised structures, but platform is a raised surface for something to stand on, while base is simply the bottom." },
+        { "distractor": "footing", "closeness": 3, "reasoning": "Both are bottom structures, but footing refers to a structural foundation, while base refers to the physical bottom." },
+        { "distractor": "substructure", "closeness": 2, "reasoning": "The structure has a substructure, but substructure refers to underlying structures, while base refers to the visible bottom." },
+        { "distractor": "floor", "closeness": 2, "reasoning": "A temple has a base/floor, but floor refers to the walking surface, while base refers to the lowest structural element." },
+        { "distractor": "remains", "closeness": 2, "reasoning": "The base consists of ancient remains, but remains refers to what survives, not specifically to a structural base." },
+        { "distractor": "rubble", "closeness": 2, "reasoning": "The base may consist of rubble, but rubble refers to fragments and debris, not the structural base." },
+        { "distractor": "apex", "closeness": 1, "reasoning": "Archaeologists discovered the base of the temple; apex refers to the top." },
+        { "distractor": "summit", "closeness": 1, "reasoning": "The base is at the bottom; summit refers to the highest point." },
+        { "distractor": "roof", "closeness": 1, "reasoning": "The base is the bottom; roof refers to the covering at the top." }
+      ]
+    },
+    {
+      "sentence": "The art historian argued that the entire genre's aesthetic principles had a base in classical proportion, even where modern artists departed from those rules.",
+      "answerChoices": [
+        { "distractor": "origin", "closeness": 3, "reasoning": "Both describe where something comes from, but origin refers to the source or beginning, while base emphasizes the foundational principle." },
+        { "distractor": "foundation", "closeness": 3, "reasoning": "Both describe foundational elements, but foundation refers to what is built on, while base refers to the fundamental principle itself." },
+        { "distractor": "precedent", "closeness": 3, "reasoning": "Both establish context for later work, but precedent refers to an example set by something earlier, while base emphasizes underlying principle." },
+        { "distractor": "precedence", "closeness": 3, "reasoning": "Both refer to what comes first, but precedence emphasizes priority, while base emphasizes the foundational principle." },
+        { "distractor": "tradition", "closeness": 2, "reasoning": "The aesthetic has a traditional base, but tradition refers to inherited customs, while base refers to foundational principles." },
+        { "distractor": "roots", "closeness": 2, "reasoning": "The genre's roots are in classical proportion, but roots suggest organic growth, while base suggests a deliberately established principle." },
+        { "distractor": "framework", "closeness": 2, "reasoning": "Classical proportion provides a framework, but framework is a structure to build within, while base is the foundational principle." },
+        { "distractor": "precedent", "closeness": 2, "reasoning": "Classical work is a precedent, but precedent is an earlier example, while base is the foundational principle." },
+        { "distractor": "departure", "closeness": 1, "reasoning": "Artists depart from the base principles; departure means moving away from something." },
+        { "distractor": "innovation", "closeness": 1, "reasoning": "Modern artists depart from the base; innovation describes introducing something new." },
+        { "distractor": "rupture", "closeness": 1, "reasoning": "Modern artists depart from the base principle; rupture means a breaking apart." }
+      ]
+    }
+  ]
+}

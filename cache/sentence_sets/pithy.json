@@ -1,0 +1,53 @@
+{
+  "word": "pithy",
+  "sentenceSets": [
+    {
+      "sentence": "Her most pithy formulations were often misquoted, the compression being too severe for casual memory.",
+      "answerChoices": [
+        { "distractor": "succinct", "closeness": 3, "reasoning": "Close but incorrect -- 'succinct' means brief and clear, but it does not capture the sense of density or compression shown in the sentence; 'pithy' implies such extreme concentration that the meaning becomes hard to retain." },
+        { "distractor": "concise", "closeness": 3, "reasoning": "Close but incorrect -- 'concise' refers to brevity without unnecessary words, but the sentence emphasizes compression being 'too severe,' suggesting a level of density beyond mere conciseness." },
+        { "distractor": "terse", "closeness": 3, "reasoning": "Close -- 'terse' means brief and often abrupt, which fits the compression aspect, but it does not convey the intellectual density and concentrated meaning implied by the misquoting problem in the sentence." },
+        { "distractor": "epigrammatic", "closeness": 3, "reasoning": "Close -- 'epigrammatic' describes witty, concise statements with clever phrasing, which shares the brevity quality, but it emphasizes wit rather than the overwhelming density that makes her formulations hard to remember." },
+        { "distractor": "witty", "closeness": 2, "reasoning": "Incorrect -- 'witty' refers to clever, amusing remarks; while her formulations might be clever, the sentence focuses on compression and difficulty of memory, not humor or cleverness." },
+        { "distractor": "obscure", "closeness": 2, "reasoning": "Incorrect -- 'obscure' means unclear or hard to understand; the problem in the sentence is not that the formulations are unclear, but that their compression makes them easy to misquote." },
+        { "distractor": "cryptic", "closeness": 2, "reasoning": "Incorrect -- 'cryptic' means mysteriously hidden or coded; while compressed statements might seem cryptic, the sentence indicates the issue is misquoting, not inscrutability." },
+        { "distractor": "abstract", "closeness": 2, "reasoning": "Incorrect -- 'abstract' refers to theoretical or non-concrete ideas; the sentence does not suggest that her formulations are theoretical, only that they are densely compressed." },
+        { "distractor": "verbose", "closeness": 1, "reasoning": "Opposite -- 'verbose' means lengthy and wordy; this contradicts the compression and severity emphasized in the sentence." },
+        { "distractor": "rambling", "closeness": 1, "reasoning": "Opposite -- 'rambling' means wandering or digressive; this is the opposite of the tightly compressed statements described." },
+        { "distractor": "pedestrian", "closeness": 1, "reasoning": "Incorrect -- 'pedestrian' means dull or ordinary; there is no evidence in the sentence that her formulations are commonplace or uninspired." }
+      ]
+    },
+    {
+      "sentence": "The columnist's pithy remarks about current events never exceeded two sentences, yet readers felt they had grasped the core issue after each one.",
+      "answerChoices": [
+        { "distractor": "trenchant", "closeness": 3, "reasoning": "Close -- 'trenchant' means sharp and vigorous, which fits a column that captures the core issue, but it emphasizes penetrating insight rather than brevity and concentrated expression." },
+        { "distractor": "keen", "closeness": 3, "reasoning": "Close -- 'keen' suggests sharp understanding or quick wit, which fits the intellectual effect, but it does not specifically convey the compression of meaning into few words." },
+        { "distractor": "incisive", "closeness": 3, "reasoning": "Close -- 'incisive' means cutting to the heart of a matter with sharp clarity, which matches the sentence's description of grasping the core issue, but it emphasizes clarity rather than conciseness." },
+        { "distractor": "penetrating", "closeness": 3, "reasoning": "Close -- 'penetrating' refers to deep insight that goes to the heart of something, which the sentence suggests, but it does not capture the essential quality of extreme brevity shown by 'never exceeded two sentences.'" },
+        { "distractor": "compelling", "closeness": 2, "reasoning": "Incorrect -- 'compelling' means persuasive or gripping; while her remarks may be compelling, the sentence emphasizes brevity and distillation of complex issues rather than persuasiveness." },
+        { "distractor": "astute", "closeness": 2, "reasoning": "Incorrect -- 'astute' means clever and perceptive; while her remarks are clearly perceptive, the sentence does not focus on perceptiveness but on the ability to compress meaning into few words." },
+        { "distractor": "authoritative", "closeness": 2, "reasoning": "Incorrect -- 'authoritative' means commanding and confident in tone; the sentence gives no evidence of her tone or authoritative stance, only of brevity and clarity." },
+        { "distractor": "eloquent", "closeness": 2, "reasoning": "Incorrect -- 'eloquent' means fluent and expressive; while compressed remarks might be eloquent, the sentence emphasizes brevity over eloquence." },
+        { "distractor": "verbose", "closeness": 1, "reasoning": "Opposite -- 'verbose' means lengthy and wordy; the sentence explicitly states her remarks never exceeded two sentences, contradicting wordiness." },
+        { "distractor": "meandering", "closeness": 1, "reasoning": "Opposite -- 'meandering' means winding and digressive; this contradicts the focused delivery of core issues in just two sentences." },
+        { "distractor": "superficial", "closeness": 1, "reasoning": "Incorrect -- 'superficial' means shallow and lacking depth; readers 'felt they had grasped the core issue,' indicating depth rather than superficiality." }
+      ]
+    },
+    {
+      "sentence": "The poet's pithy couplets were deceptive in their simplicity; beneath the spare language lay allusions to classical mythology and layers of metaphor.",
+      "answerChoices": [
+        { "distractor": "compressed", "closeness": 3, "reasoning": "Close -- 'compressed' means tightly packed, which fits the spare language and layers of meaning, but it does not convey the quality of being meaningful despite apparent simplicity." },
+        { "distractor": "condensed", "closeness": 3, "reasoning": "Close -- 'condensed' means reduced to essential form, which matches the spare language and hidden depth, but it emphasizes reduction rather than the deceptive contrast between surface and meaning." },
+        { "distractor": "economical", "closeness": 3, "reasoning": "Close -- 'economical' means using resources sparingly and efficiently, which fits the spare language, but it does not capture the sense of hidden complexity beneath simplicity." },
+        { "distractor": "stark", "closeness": 3, "reasoning": "Close -- 'stark' means bare and unadorned, which describes the surface simplicity, but it does not convey the density of meaning or the deceptive contrast at the heart of the sentence." },
+        { "distractor": "elegant", "closeness": 2, "reasoning": "Incorrect -- 'elegant' means graceful and refined; while the couplets might be elegant, the sentence emphasizes deception and hidden complexity rather than grace." },
+        { "distractor": "subtle", "closeness": 2, "reasoning": "Incorrect -- 'subtle' means delicate and hard to detect; while the layers of allusion are subtle, the sentence stresses the contrast between simplicity and depth rather than subtlety alone." },
+        { "distractor": "minimal", "closeness": 2, "reasoning": "Incorrect -- 'minimal' means reduced to the absolute minimum; while the language is minimal, this word does not capture the wealth of hidden meaning beneath the surface." },
+        { "distractor": "restrained", "closeness": 2, "reasoning": "Incorrect -- 'restrained' means held back or controlled; while the language is restrained, the sentence does not focus on control but on the contrast between apparent and actual complexity." },
+        { "distractor": "ornate", "closeness": 1, "reasoning": "Opposite -- 'ornate' means elaborately decorated; this contradicts the spare language explicitly described in the sentence." },
+        { "distractor": "verbose", "closeness": 1, "reasoning": "Opposite -- 'verbose' means lengthy and wordy; this is the opposite of the spare, economical language shown in the couplets." },
+        { "distractor": "literal", "closeness": 1, "reasoning": "Incorrect -- 'literal' means taking words in their plain sense; the sentence emphasizes allusions and metaphor, the opposite of literal interpretation." }
+      ]
+    }
+  ]
+}

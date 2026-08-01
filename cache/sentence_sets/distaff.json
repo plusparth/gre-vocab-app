@@ -1,0 +1,53 @@
+{
+  "word": "distaff",
+  "sentenceSets": [
+    {
+      "sentence": "The distaff line of the family had produced most of its notable figures, a fact the official histories consistently obscured.",
+      "answerChoices": [
+        { "distractor": "maternal", "closeness": 3, "reasoning": "Maternal specifically refers to the mother's line, which is close to but narrower than distaff, which refers to the female line more broadly." },
+        { "distractor": "feminine", "closeness": 3, "reasoning": "Feminine relates to qualities or characteristics traditionally associated with women, but distaff refers specifically to the female line of descent." },
+        { "distractor": "matriarchal", "closeness": 3, "reasoning": "Matriarchal describes a system ruled by mothers or females, but distaff simply designates the female line without implying governance or power." },
+        { "distractor": "womanly", "closeness": 3, "reasoning": "Womanly describes qualities or characteristics of women, but distaff is specifically about the female line of descent in genealogy." },
+        { "distractor": "hereditary", "closeness": 2, "reasoning": "Hereditary refers to inheritance or descent through family lines, but it doesn't specify the female line as distaff does." },
+        { "distractor": "ancestral", "closeness": 2, "reasoning": "Ancestral refers to ancestors and family heritage generally, but lacks the specific gender designation that distaff provides." },
+        { "distractor": "genealogical", "closeness": 2, "reasoning": "Genealogical pertains to family lineage and ancestry, but doesn't specify the female branch as distaff does." },
+        { "distractor": "dynastic", "closeness": 2, "reasoning": "Dynastic describes family rule or succession across generations, but doesn't specify the female line." },
+        { "distractor": "paternal", "closeness": 1, "reasoning": "Paternal refers to the father's side and male line, the opposite of distaff's female designation." },
+        { "distractor": "patrilineal", "closeness": 1, "reasoning": "Patrilineal means descent is traced through male ancestors, directly opposite to distaff's female line." },
+        { "distractor": "masculine", "closeness": 1, "reasoning": "Masculine describes qualities associated with men or males, the opposite gender from the female line that distaff indicates." }
+      ]
+    },
+    {
+      "sentence": "The university's distaff faculty members rarely achieved full professorship despite their research output rivaling that of male colleagues.",
+      "answerChoices": [
+        { "distractor": "female", "closeness": 3, "reasoning": "Female directly means women or women-related, making it a synonym for distaff, but the sentence's focus on professional inequality requires the more specific historical term." },
+        { "distractor": "women's", "closeness": 3, "reasoning": "Women's would accurately describe the possessive sense of female faculty members, but doesn't capture the formal, somewhat archaic quality that matches the sentence's tone." },
+        { "distractor": "auxiliary", "closeness": 3, "reasoning": "Auxiliary means supplementary or secondary, suggesting the subordinate role assigned to distaff faculty, but it describes function rather than gender." },
+        { "distractor": "junior", "closeness": 3, "reasoning": "Junior suggests lower rank in academic hierarchy, matching the subservient position of distaff faculty, but refers to career stage rather than gender." },
+        { "distractor": "marginal", "closeness": 2, "reasoning": "Marginal describes those on the edges or periphery, matching the exclusion experienced by distaff faculty, but doesn't specify gender." },
+        { "distractor": "secondary", "closeness": 2, "reasoning": "Secondary implies lesser importance or lower tier, fitting the actual treatment of distaff faculty, but lacks the gender specificity." },
+        { "distractor": "subsidiary", "closeness": 2, "reasoning": "Subsidiary means subordinate or supplementary, describing the functional role but not the gender that distaff specifies." },
+        { "distractor": "adjunct", "closeness": 2, "reasoning": "Adjunct refers to supplementary or temporary academic positions often given to women, fitting the pattern but less specifically gendered than distaff." },
+        { "distractor": "senior", "closeness": 1, "reasoning": "Senior describes higher academic rank and advancement, the opposite of the career stagnation experienced by distaff faculty." },
+        { "distractor": "principal", "closeness": 1, "reasoning": "Principal means foremost or leading, contradicting the marginalization of distaff faculty members." },
+        { "distractor": "eminent", "closeness": 1, "reasoning": "Eminent means distinguished or renowned, opposite to the obscurity and lack of promotion experienced by distaff faculty." }
+      ]
+    },
+    {
+      "sentence": "The artist's distaff relatives were equally talented but systematically excluded from the family's public reputation and gallery exhibitions.",
+      "answerChoices": [
+        { "distractor": "maiden", "closeness": 3, "reasoning": "Maiden refers to young or unmarried women, capturing the female sense of distaff but too narrowly focused on youth and marital status." },
+        { "distractor": "genteel", "closeness": 3, "reasoning": "Genteel describes refined and well-mannered, often applied to upper-class women, relating to femininity but not specifically to the female line." },
+        { "distractor": "artistic", "closeness": 3, "reasoning": "Artistic matches the family's profession, making it tempting as a descriptor, but refers to creative talent rather than gender." },
+        { "distractor": "refined", "closeness": 3, "reasoning": "Refined suggests cultured elegance, often associated with femininity, but doesn't directly indicate gender as distaff does." },
+        { "distractor": "celebrated", "closeness": 2, "reasoning": "Celebrated means renowned or famous, ironically describing what these distaff relatives were not, creating a tempting contradiction." },
+        { "distractor": "gifted", "closeness": 2, "reasoning": "Gifted matches the talent mentioned in the sentence, but refers to ability rather than the female status that distaff designates." },
+        { "distractor": "accomplished", "closeness": 2, "reasoning": "Accomplished describes skilled or talented individuals, directly relating to their equal abilities, but lacks the gender specification of distaff." },
+        { "distractor": "estranged", "closeness": 2, "reasoning": "Estranged suggests alienation or separation, matching their exclusion from family recognition, but doesn't indicate gender." },
+        { "distractor": "renowned", "closeness": 1, "reasoning": "Renowned means widely celebrated and famous, directly contradicting the systematic exclusion described in the sentence." },
+        { "distractor": "illustrious", "closeness": 1, "reasoning": "Illustrious describes distinguished or eminent people, opposite to the obscurity imposed on these family members." },
+        { "distractor": "honored", "closeness": 1, "reasoning": "Honored suggests being respected and valued, the opposite of the systematic exclusion that these distaff relatives experienced." }
+      ]
+    }
+  ]
+}

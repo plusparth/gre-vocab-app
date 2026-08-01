@@ -1,0 +1,53 @@
+{
+  "word": "diurnal",
+  "sentenceSets": [
+    {
+      "sentence": "The diurnal creatures retreated as night fell, replaced by the nocturnal species that owned the dark.",
+      "answerChoices": [
+        { "distractor": "solar", "closeness": 3, "reasoning": "Solar relates to the sun but doesn't specifically describe creatures that are active chiefly during daylight hours." },
+        { "distractor": "crepuscular", "closeness": 3, "reasoning": "Crepuscular creatures are active at twilight (dusk and dawn), not the full daylight hours described in this context." },
+        { "distractor": "photophilic", "closeness": 3, "reasoning": "Photophilic means light-loving, which is related but doesn't specifically denote activity during the daylight period." },
+        { "distractor": "heliophobic", "closeness": 3, "reasoning": "Heliophobic means avoiding sunlight, opposite to the creatures shown retreating when daylight fades." },
+        { "distractor": "tropical", "closeness": 2, "reasoning": "Tropical refers to warm climate regions, unrelated to the activity pattern during day versus night." },
+        { "distractor": "temperate", "closeness": 2, "reasoning": "Temperate refers to moderate climate zones, unrelated to whether creatures are active during daylight." },
+        { "distractor": "terrestrial", "closeness": 2, "reasoning": "Terrestrial means land-dwelling, which describes habitat but not the daylight activity pattern shown." },
+        { "distractor": "arboreal", "closeness": 2, "reasoning": "Arboreal means tree-dwelling, which is about habitat, not the daytime activity pattern described." },
+        { "distractor": "nocturnal", "closeness": 1, "reasoning": "Nocturnal means night-active, which directly contradicts the creatures retreating as night fell." },
+        { "distractor": "hibernating", "closeness": 1, "reasoning": "Hibernating means dormant in winter, which is unrelated to daytime activity patterns." },
+        { "distractor": "cryptic", "closeness": 1, "reasoning": "Cryptic means hidden or hard to see, but the sentence describes creatures based on their activity timing, not visibility." }
+      ]
+    },
+    {
+      "sentence": "Birds are diurnal animals that rely on daylight to find food and navigate their environment.",
+      "answerChoices": [
+        { "distractor": "visual", "closeness": 3, "reasoning": "Visual relates to sight but doesn't describe the timeframe of activity; nocturnal creatures can also be visual." },
+        { "distractor": "predatory", "closeness": 3, "reasoning": "Predatory describes hunting behavior, not the daylight-dependent activity pattern of these animals." },
+        { "distractor": "migratory", "closeness": 3, "reasoning": "Migratory describes seasonal movement patterns, unrelated to reliance on daylight for daily activity." },
+        { "distractor": "avian", "closeness": 3, "reasoning": "Avian simply means relating to birds, which is too obvious and doesn't describe the daylight-dependent aspect." },
+        { "distractor": "heliotropic", "closeness": 2, "reasoning": "Heliotropic means turning toward the sun, which is a movement pattern, not daily activity timing." },
+        { "distractor": "phototropic", "closeness": 2, "reasoning": "Phototropic means moving toward light, which describes movement but not the daylight-dependent living pattern." },
+        { "distractor": "foraging", "closeness": 2, "reasoning": "Foraging describes food-seeking behavior but doesn't specify the daylight dependency of that behavior." },
+        { "distractor": "territorial", "closeness": 2, "reasoning": "Territorial describes defending an area, which is a behavior type unrelated to daylight dependency." },
+        { "distractor": "subterranean", "closeness": 1, "reasoning": "Subterranean means living underground, opposite to animals that depend on daylight for navigation." },
+        { "distractor": "burrowing", "closeness": 1, "reasoning": "Burrowing describes creating underground dwellings, opposite to animals that rely on daylight in their environment." },
+        { "distractor": "aquatic", "closeness": 1, "reasoning": "Aquatic means water-dwelling, which is a habitat type unrelated to daytime activity dependency." }
+      ]
+    },
+    {
+      "sentence": "The biologists studied diurnal insects for months, observing their feeding patterns when the sun was high.",
+      "answerChoices": [
+        { "distractor": "behavioral", "closeness": 3, "reasoning": "Behavioral refers to animal conduct generally, but doesn't specifically denote daytime activity patterns." },
+        { "distractor": "seasonal", "closeness": 3, "reasoning": "Seasonal describes patterns that recur in certain times of year, not daytime activity in general." },
+        { "distractor": "ecological", "closeness": 3, "reasoning": "Ecological refers to environmental relationships, not the specific daytime activity pattern of the insects." },
+        { "distractor": "entomological", "closeness": 3, "reasoning": "Entomological simply means relating to insects, which is obvious and doesn't describe the daylight activity pattern." },
+        { "distractor": "phototactic", "closeness": 2, "reasoning": "Phototactic means responding to light direction, which is a response type, not daily daytime activity." },
+        { "distractor": "antipredatory", "closeness": 2, "reasoning": "Antipredatory describes defenses against predators, unrelated to daytime activity patterns." },
+        { "distractor": "nomadic", "closeness": 2, "reasoning": "Nomadic means traveling or wandering, which is a lifestyle but not specific to daytime activity." },
+        { "distractor": "feeding", "closeness": 2, "reasoning": "Feeding describes eating behavior but doesn't specify the daytime timeframe of that activity." },
+        { "distractor": "cathemeral", "closeness": 1, "reasoning": "Cathemeral means active at multiple times (day and night), not specifically during daytime." },
+        { "distractor": "fossorial", "closeness": 1, "reasoning": "Fossorial means adapted for burrowing or digging, describing a lifestyle unrelated to daytime activity." },
+        { "distractor": "vespertine", "closeness": 1, "reasoning": "Vespertine means active at dusk, a specific evening timeframe, not the full daytime activity period." }
+      ]
+    }
+  ]
+}

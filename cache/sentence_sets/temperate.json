@@ -1,0 +1,53 @@
+{
+  "word": "temperate",
+  "sentenceSets": [
+    {
+      "sentence": "A temperate response to the provocation defused the situation without conceding the substantive point.",
+      "answerChoices": [
+        { "distractor": "aggressive", "closeness": 3, "reasoning": "Aggressive means attacking forcefully; the sentence shows a response that defused rather than escalated." },
+        { "distractor": "inflammatory", "closeness": 3, "reasoning": "Inflammatory means inciting anger or riot; the sentence shows a response that defused the situation." },
+        { "distractor": "extreme", "closeness": 3, "reasoning": "Extreme means going to extremes; temperate means moderate and not extreme." },
+        { "distractor": "vehement", "closeness": 3, "reasoning": "Vehement means intensely forceful; the sentence shows a moderate response that defused situation." },
+        { "distractor": "submissive", "closeness": 2, "reasoning": "Submissive means yielding but the sentence shows no concession of the substantive point, indicating some firmness." },
+        { "distractor": "passive", "closeness": 2, "reasoning": "Passive means inert or not acting but the sentence shows someone responding while defending position." },
+        { "distractor": "cold", "closeness": 2, "reasoning": "Cold means emotionally distant but temperate is about moderate response, not emotional temperature." },
+        { "distractor": "diplomatic", "closeness": 2, "reasoning": "Diplomatic means skillful in negotiation but the sentence emphasizes moderation and defusing." },
+        { "distractor": "meek", "closeness": 1, "reasoning": "Meek means gentle and submissive; the sentence shows someone maintaining a substantive point, not submitting." },
+        { "distractor": "cowardly", "closeness": 1, "reasoning": "Cowardly means lacking courage but the sentence shows someone standing firm on substantive point." },
+        { "distractor": "reckless", "closeness": 1, "reasoning": "Reckless means careless and risky; the sentence shows moderation and careful defusal of situation." }
+      ]
+    },
+    {
+      "sentence": "The temperate climate of the coastal region made it ideal for year-round agriculture, avoiding the extremes that plagued inland farming.",
+      "answerChoices": [
+        { "distractor": "volatile", "closeness": 3, "reasoning": "Volatile means subject to sudden change; temperate means stable and moderate, opposite of volatile." },
+        { "distractor": "harsh", "closeness": 3, "reasoning": "Harsh means severe; the sentence contrasts temperate climate with extremes that plague other regions." },
+        { "distractor": "unpredictable", "closeness": 3, "reasoning": "Unpredictable means cannot be foreseen; temperate climate is moderate and stable." },
+        { "distractor": "frigid", "closeness": 3, "reasoning": "Frigid means extremely cold; the sentence describes avoiding extremes, not being extremely cold." },
+        { "distractor": "tropical", "closeness": 2, "reasoning": "Tropical means hot and humid but does not emphasize moderation; the sentence contrasts extremes." },
+        { "distractor": "arid", "closeness": 2, "reasoning": "Arid means very dry but the sentence emphasizes avoiding extremes, not specific to dryness." },
+        { "distractor": "continental", "closeness": 2, "reasoning": "Continental describes inland regions with extremes; the sentence contrasts temperate with extremes." },
+        { "distractor": "bracing", "closeness": 2, "reasoning": "Bracing means invigorating but implies cool harshness; temperate is moderate." },
+        { "distractor": "sweltering", "closeness": 1, "reasoning": "Sweltering means extremely hot; the sentence shows climate avoiding extremes." },
+        { "distractor": "barren", "closeness": 1, "reasoning": "Barren means lifeless or bare; the sentence describes ideal agriculture, indicating fertility." },
+        { "distractor": "inhospitable", "closeness": 1, "reasoning": "Inhospitable means unwelcoming to life; the sentence shows climate ideal for agriculture." }
+      ]
+    },
+    {
+      "sentence": "The political moderate advocated for temperate policies, rejecting both the radical left's calls for revolution and the extreme right's authoritarian demands.",
+      "answerChoices": [
+        { "distractor": "partisan", "closeness": 3, "reasoning": "Partisan means strongly favoring one side; the sentence shows rejection of both extremes, opposite of partisan." },
+        { "distractor": "radical", "closeness": 3, "reasoning": "Radical means extreme change; temperate means moderate, opposite of radical." },
+        { "distractor": "revolutionary", "closeness": 3, "reasoning": "Revolutionary means favoring drastic change; the sentence shows someone rejecting revolutionary demands." },
+        { "distractor": "extreme", "closeness": 3, "reasoning": "Extreme means going to extremes; the sentence shows someone rejecting both left and right extremes." },
+        { "distractor": "controversial", "closeness": 2, "reasoning": "Controversial means causing disagreement but does not describe the middle-ground position." },
+        { "distractor": "pragmatic", "closeness": 2, "reasoning": "Pragmatic means practical but does not specifically describe middle-ground rejection of extremes." },
+        { "distractor": "cautious", "closeness": 2, "reasoning": "Cautious means careful but does not necessarily describe middle-ground political position." },
+        { "distractor": "neutral", "closeness": 2, "reasoning": "Neutral means not supporting either side but the sentence shows advocating for policies, not just abstaining." },
+        { "distractor": "tyrannical", "closeness": 1, "reasoning": "Tyrannical means oppressive and extreme; the sentence shows someone rejecting authoritarianism." },
+        { "distractor": "anarchic", "closeness": 1, "reasoning": "Anarchic means without order or extreme; the sentence shows someone rejecting revolution." },
+        { "distractor": "absolutist", "closeness": 1, "reasoning": "Absolutist means allowing no compromise; the sentence shows someone advocating temperate middle-ground policies." }
+      ]
+    }
+  ]
+}

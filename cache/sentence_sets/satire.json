@@ -1,0 +1,53 @@
+{
+  "word": "satire",
+  "sentenceSets": [
+    {
+      "sentence": "The satire was so pointed that the targets found it more difficult to dismiss than a direct attack would have been.",
+      "answerChoices": [
+        { "distractor": "sarcasm", "closeness": 3, "reasoning": "Sarcasm uses irony to mock or convey contempt, related to satire but without the explicit purpose of exposing folly or vice." },
+        { "distractor": "parody", "closeness": 3, "reasoning": "Parody is comic imitation that may mock, related to satire but not necessarily focused on exposing vice or folly." },
+        { "distractor": "ridicule", "closeness": 3, "reasoning": "Ridicule means to mock or make fun of, related to satire but doesn't necessarily expose systemic vices or folly." },
+        { "distractor": "irony", "closeness": 3, "reasoning": "Irony is saying the opposite of what is meant for effect, a tool used in satire but not the same as satire itself." },
+        { "distractor": "humor", "closeness": 2, "reasoning": "Humor refers to the quality of being funny, which satire uses but isn't limited to entertainment." },
+        { "distractor": "comedy", "closeness": 2, "reasoning": "Comedy is entertainment meant to be funny, while satire specifically uses comedy to expose folly." },
+        { "distractor": "jest", "closeness": 2, "reasoning": "Jest means a joke or witty remark, elements of satire but not the systematic exposure of vice." },
+        { "distractor": "banter", "closeness": 2, "reasoning": "Banter is playful, teasing conversation, which might accompany satire but isn't the focused critique satire implies." },
+        { "distractor": "flattery", "closeness": 1, "reasoning": "Flattery means excessive compliment, the opposite of satire's purpose of exposing and discrediting." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Praise means expression of approval, opposite to satire's intent to discredit." },
+        { "distractor": "endorsement", "closeness": 1, "reasoning": "Endorsement means support or approval, the opposite of satire's purpose." }
+      ]
+    },
+    {
+      "sentence": "Her essay employed satire to challenge readers' assumptions about the true cost of fast fashion.",
+      "answerChoices": [
+        { "distractor": "analysis", "closeness": 3, "reasoning": "Analysis is systematic examination, which satire uses but is not the same as satire's blend of wit and critique." },
+        { "distractor": "commentary", "closeness": 3, "reasoning": "Commentary is expression of opinions about something, which satire provides but not necessarily through wit and irony." },
+        { "distractor": "argument", "closeness": 3, "reasoning": "Argument is a set of reasons or facts intended to support a position, which satire makes but indirectly through mockery." },
+        { "distractor": "critique", "closeness": 3, "reasoning": "Critique is critical analysis, which satire contains, but satire specifically uses wit and mockery rather than direct analysis." },
+        { "distractor": "description", "closeness": 2, "reasoning": "Description presents details about something, but doesn't employ the critical wit that satire uses." },
+        { "distractor": "explanation", "closeness": 2, "reasoning": "Explanation makes something clear or understandable, but not through the witty mockery that satire employs." },
+        { "distractor": "illustration", "closeness": 2, "reasoning": "Illustration shows or demonstrates something with examples, but not necessarily with the ironic critique of satire." },
+        { "distractor": "documentation", "closeness": 2, "reasoning": "Documentation provides records or evidence, but not the witty exposure of folly that satire requires." },
+        { "distractor": "celebration", "closeness": 1, "reasoning": "Celebration means rejoicing in or praising, opposite to satire's purpose of exposing vices and follies." },
+        { "distractor": "propaganda", "closeness": 1, "reasoning": "Propaganda is information designed to promote a particular point of view, often without honesty; satire exposes such deception." },
+        { "distractor": "marketing", "closeness": 1, "reasoning": "Marketing seeks to promote products or ideas, the opposite of satire which critiques and discredits." }
+      ]
+    },
+    {
+      "sentence": "The film's satire of government inefficiency resonated with audiences who had experienced bureaucratic frustration.",
+      "answerChoices": [
+        { "distractor": "parody", "closeness": 3, "reasoning": "Parody imitates something for comic effect, related to satire but not necessarily focused on exposing and discrediting specific vices." },
+        { "distractor": "mockery", "closeness": 3, "reasoning": "Mockery means making fun of something, related to satire but not necessarily systematic exposure of folly and vice." },
+        { "distractor": "imitation", "closeness": 3, "reasoning": "Imitation copies something, which satire may do, but satire specifically exposes while imitating." },
+        { "distractor": "representation", "closeness": 3, "reasoning": "Representation portrays or depicts something, which satire does, but satire uses this to expose and discredit." },
+        { "distractor": "portrayal", "closeness": 2, "reasoning": "Portrayal is a depiction or representation, which satire uses but not necessarily for the purpose of critique." },
+        { "distractor": "depiction", "closeness": 2, "reasoning": "Depiction shows or represents something visually or verbally, but not necessarily with the witty critique of satire." },
+        { "distractor": "presentation", "closeness": 2, "reasoning": "Presentation is a way of offering or showing something, but not specifically through witty mockery." },
+        { "distractor": "scenario", "closeness": 2, "reasoning": "Scenario describes a situation or sequence of events, which satire may present but isn't the critical element." },
+        { "distractor": "endorsement", "closeness": 1, "reasoning": "Endorsement means support and approval, the opposite of satire's purpose to discredit." },
+        { "distractor": "tribute", "closeness": 1, "reasoning": "Tribute is an expression of respect or admiration, opposite to satire which exposes vices and follies." },
+        { "distractor": "validation", "closeness": 1, "reasoning": "Validation confirms or affirms something, opposite to satire's purpose to discredit and expose." }
+      ]
+    }
+  ]
+}

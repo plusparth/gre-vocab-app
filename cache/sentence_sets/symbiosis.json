@@ -1,0 +1,53 @@
+{
+  "word": "symbiosis",
+  "sentenceSets": [
+    {
+      "sentence": "The symbiosis between the two divisions had evolved over years into something neither could easily function without.",
+      "answerChoices": [
+        { "distractor": "competition", "closeness": 3, "reasoning": "Competition describes rivals striving against each other; the sentence shows two entities that function interdependently, not in opposition." },
+        { "distractor": "conflict", "closeness": 3, "reasoning": "Conflict involves disagreement or struggle; the sentence indicates an evolved relationship where both have become dependent, not antagonistic." },
+        { "distractor": "hierarchy", "closeness": 3, "reasoning": "A hierarchy is a ranked order with one entity superior to another; the sentence shows mutual interdependence ('neither could easily function without'), not vertical ordering." },
+        { "distractor": "alliance", "closeness": 3, "reasoning": "An alliance is a partnership between equals who retain independence; the sentence shows a deeper dependence where neither can function alone." },
+        { "distractor": "separation", "closeness": 2, "reasoning": "Separation means existing apart; the sentence describes a relationship that has evolved over years into close union, not a state of division." },
+        { "distractor": "fragmentation", "closeness": 2, "reasoning": "Fragmentation is breaking into pieces; the sentence shows two entities becoming increasingly bound together, not splintering." },
+        { "distractor": "autonomy", "closeness": 2, "reasoning": "Autonomy is independent self-governance; the sentence indicates both divisions have lost some autonomy through their interdependence." },
+        { "distractor": "parallelism", "closeness": 2, "reasoning": "Parallelism describes similar or concurrent developments; the sentence emphasizes mutual dependence and intimate association, not mere parallel operation." },
+        { "distractor": "merger", "closeness": 1, "reasoning": "A merger combines entities into one unified structure; the sentence describes two dissimilar entities that remain distinct yet interdependent." },
+        { "distractor": "dissolution", "closeness": 1, "reasoning": "Dissolution means breaking down or ending; the sentence shows a relationship that has evolved and strengthened over years." },
+        { "distractor": "contradiction", "closeness": 1, "reasoning": "A contradiction is incompatibility or mutual exclusion; the sentence shows two entities becoming increasingly compatible and interwoven." }
+      ]
+    },
+    {
+      "sentence": "The mycorrhizal symbiosis between tree roots and fungal networks allows the tree to absorb water and minerals that would otherwise remain inaccessible in the soil.",
+      "answerChoices": [
+        { "distractor": "parasitism", "closeness": 3, "reasoning": "Parasitism benefits one organism at the expense of another; the sentence shows both the tree and fungus benefit through nutrient exchange, not one-sided exploitation." },
+        { "distractor": "exchange", "closeness": 3, "reasoning": "Exchange is the giving and receiving of things, but lacks the intimate biological association implied; the sentence describes a living relationship, not mere transaction." },
+        { "distractor": "nutrition", "closeness": 3, "reasoning": "Nutrition is the process of absorbing nourishment, but it describes a consequence, not the relationship itself; the sentence shows the relationship enabling nutrition." },
+        { "distractor": "coexistence", "closeness": 3, "reasoning": "Coexistence means living together without necessarily benefiting each other; the sentence shows a mutually advantageous relationship with specific exchange of resources." },
+        { "distractor": "dependency", "closeness": 2, "reasoning": "Dependency describes reliance but is one-directional; the sentence indicates mutual benefit and reciprocal resource exchange between both organisms." },
+        { "distractor": "colonization", "closeness": 2, "reasoning": "Colonization implies one organism taking over territory; the sentence describes fungal networks enhancing the tree's function, not establishing dominance." },
+        { "distractor": "integration", "closeness": 2, "reasoning": "Integration means combining into a unified whole; the sentence shows two organisms cooperating while remaining biologically distinct." },
+        { "distractor": "adaptation", "closeness": 2, "reasoning": "Adaptation is biological change to suit an environment; the sentence describes an existing relationship structure, not the evolutionary process." },
+        { "distractor": "competition", "closeness": 1, "reasoning": "Competition involves rivals vying for resources; the sentence shows the tree and fungus cooperating to access resources together." },
+        { "distractor": "isolation", "closeness": 1, "reasoning": "Isolation is separation or independence; the sentence describes intimate biological networks connecting two organisms." },
+        { "distractor": "predation", "closeness": 1, "reasoning": "Predation involves hunting and consumption; the sentence shows exchange of resources between organisms that enhance each other's survival." }
+      ]
+    },
+    {
+      "sentence": "The symbiosis between the online platform and its user community created a self-reinforcing cycle where more creators attracted more users, and more users attracted more content.",
+      "answerChoices": [
+        { "distractor": "monopoly", "closeness": 3, "reasoning": "A monopoly describes exclusive control by one entity; the sentence shows mutual growth driven by both platform and community, not concentration of power." },
+        { "distractor": "circulation", "closeness": 3, "reasoning": "Circulation is the movement of something through a system but lacks the biological or organizational interdependence; the sentence emphasizes mutual reliance and growth." },
+        { "distractor": "correlation", "closeness": 3, "reasoning": "Correlation describes variables moving together, but not necessarily an intimate causal relationship; the sentence shows direct interdependence creating reinforcement." },
+        { "distractor": "feedback loop", "closeness": 3, "reasoning": "A feedback loop is a mechanism that responds to its own output, but the term is mechanical; symbiosis emphasizes the living relationship between distinct entities." },
+        { "distractor": "sponsorship", "closeness": 2, "reasoning": "Sponsorship is financial or organizational support, but typically unidirectional; the sentence shows mutual benefit and interdependence, not donor-recipient." },
+        { "distractor": "ecosystem", "closeness": 2, "reasoning": "An ecosystem is an environment with interacting organisms but can be broader and less specifically reciprocal than symbiosis." },
+        { "distractor": "network", "closeness": 2, "reasoning": "A network describes connected entities but need not have the biological intimacy or mutual dependence on each other for survival." },
+        { "distractor": "hierarchy", "closeness": 2, "reasoning": "A hierarchy orders entities by rank; the sentence shows the platform and users in mutually supporting roles, not a ranked structure." },
+        { "distractor": "rivalry", "closeness": 1, "reasoning": "Rivalry involves competition; the sentence describes creators and users building on each other's contributions, not competing." },
+        { "distractor": "segregation", "closeness": 1, "reasoning": "Segregation means separation or division; the sentence emphasizes close integration where platform and community reinforce each other." },
+        { "distractor": "antagonism", "closeness": 1, "reasoning": "Antagonism is active hostility; the sentence shows a self-reinforcing positive relationship, not conflict." }
+      ]
+    }
+  ]
+}

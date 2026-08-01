@@ -1,0 +1,53 @@
+{
+  "word": "disregard",
+  "sentenceSets": [
+    {
+      "sentence": "She chose to disregard the warning, deciding that the risk was small enough to proceed.",
+      "answerChoices": [
+        { "distractor": "dismiss", "closeness": 3, "reasoning": "Close but incorrect -- 'dismiss' can mean to reject or put aside; while similar to disregard, it emphasizes ending consideration rather than the specific act of choosing to ignore or pay no attention." },
+        { "distractor": "overlook", "closeness": 3, "reasoning": "Close -- 'overlook' can mean to fail to notice or to ignore deliberately; however, 'overlook' often suggests unintentional missing rather than the conscious act of choosing not to pay attention that 'disregard' implies." },
+        { "distractor": "ignore", "closeness": 3, "reasoning": "Close -- 'ignore' means to refuse to acknowledge or pay attention; this is nearly synonymous with 'disregard,' though 'ignore' may be slightly broader in implying lack of awareness." },
+        { "distractor": "neglect", "closeness": 3, "reasoning": "Close -- 'neglect' means to fail to give attention or care to something; while both involve failing to pay attention, 'neglect' emphasizes the failure of duty whereas 'disregard' emphasizes choosing not to pay attention." },
+        { "distractor": "abandon", "closeness": 2, "reasoning": "Incorrect -- 'abandon' means to leave behind or give up entirely; this suggests complete cessation rather than choosing to pay no attention." },
+        { "distractor": "reject", "closeness": 2, "reasoning": "Incorrect -- 'reject' means to refuse to accept; while rejecting involves choosing not to heed, it emphasizes active refusal rather than the specific act of treating as unworthy of notice." },
+        { "distractor": "defy", "closeness": 2, "reasoning": "Incorrect -- 'defy' means to resist or oppose openly; this emphasizes active opposition rather than simply choosing to pay no attention." },
+        { "distractor": "refute", "closeness": 2, "reasoning": "Incorrect -- 'refute' means to prove wrong; this involves engagement with the warning rather than treating it as unworthy of notice." },
+        { "distractor": "heed", "closeness": 1, "reasoning": "Opposite -- 'heed' means to pay attention to or take notice of; this is the opposite of disregard." },
+        { "distractor": "observe", "closeness": 1, "reasoning": "Opposite -- 'observe' means to notice or pay close attention; clearly wrong for choosing not to pay attention to a warning." },
+        { "distractor": "consider", "closeness": 1, "reasoning": "Opposite -- 'consider' means to think carefully about; this contradicts choosing to disregard the warning." }
+      ]
+    },
+    {
+      "sentence": "The architect disregarded local building codes, confident that his innovative design would withstand any inspection.",
+      "answerChoices": [
+        { "distractor": "flouted", "closeness": 3, "reasoning": "Close -- 'flouted' means to openly defy rules with contempt; while disregarding codes may appear to flout them, 'disregard' emphasizes treating something as unworthy of attention rather than mocking it openly." },
+        { "distractor": "violated", "closeness": 3, "reasoning": "Close but incorrect -- 'violated' means to breach or break rules; while disregarding codes results in violation, 'disregard' focuses on the act of choosing not to pay attention rather than the technical breaking of rules." },
+        { "distractor": "breached", "closeness": 3, "reasoning": "Close -- 'breached' means to break through or rupture; while disregarding codes causes a breach, 'disregard' emphasizes the failure to pay attention rather than the rupture itself." },
+        { "distractor": "circumvented", "closeness": 3, "reasoning": "Close -- 'circumvented' means to go around or evade through ingenuity; while disregarding codes evades them, 'disregard' involves simply not paying attention rather than clever avoidance." },
+        { "distractor": "shirked", "closeness": 2, "reasoning": "Incorrect -- 'shirked' means to avoid or evade responsibility; while this describes a result of disregard, it emphasizes evasion of duty rather than treating rules as unworthy of notice." },
+        { "distractor": "rejected", "closeness": 2, "reasoning": "Incorrect -- 'rejected' means to refuse to accept; it emphasizes active refusal rather than simply choosing not to pay attention." },
+        { "distractor": "undermined", "closeness": 2, "reasoning": "Incorrect -- 'undermined' means to weaken or erode authority; while disregarding codes undermines them, it does not capture the specific act of treating rules as unworthy of regard." },
+        { "distractor": "contested", "closeness": 2, "reasoning": "Incorrect -- 'contested' means to challenge or dispute; this implies engagement with the codes rather than simply treating them as unworthy of attention." },
+        { "distractor": "complied", "closeness": 1, "reasoning": "Opposite -- 'complied' means to act in accordance with rules; clearly wrong for someone who disregards building codes." },
+        { "distractor": "obeyed", "closeness": 1, "reasoning": "Opposite -- 'obeyed' means to follow orders or rules; this contradicts disregarding codes." },
+        { "distractor": "adhered", "closeness": 1, "reasoning": "Opposite -- 'adhered' means to stick to or follow closely; this is contrary to treating codes as unworthy of regard." }
+      ]
+    },
+    {
+      "sentence": "Government officials disregarded the environmental report, pressing forward with the development project despite warnings of ecological damage.",
+      "answerChoices": [
+        { "distractor": "waived", "closeness": 3, "reasoning": "Close but incorrect -- 'waived' means to formally relinquish a right or requirement; while disregarding the report has a similar effect, 'waive' implies official surrender whereas 'disregard' emphasizes simply choosing not to pay attention." },
+        { "distractor": "suspended", "closeness": 3, "reasoning": "Close -- 'suspended' means to temporarily stop or halt consideration; while suspending the report's impact allows projects to proceed, 'disregard' emphasizes ignoring rather than officially pausing." },
+        { "distractor": "set aside", "closeness": 3, "reasoning": "Close -- 'set aside' means to put something away or ignore it; while disregarding the report sets it aside, the phrase suggests deliberate placement rather than simply treating it as unworthy of notice." },
+        { "distractor": "downplayed", "closeness": 3, "reasoning": "Close -- 'downplayed' means to make something seem less important; while disregarding the report minimizes its importance, 'downplayed' emphasizes active minimization rather than simply choosing not to regard it." },
+        { "distractor": "suppressed", "closeness": 2, "reasoning": "Incorrect -- 'suppressed' means to prevent from being expressed or acting; this emphasizes active restraint rather than choosing not to pay attention to findings." },
+        { "distractor": "dismissed", "closeness": 2, "reasoning": "Incorrect -- 'dismissed' means to reject or send away; while it involves not heeding, it emphasizes active rejection rather than treating something as unworthy of regard." },
+        { "distractor": "refuted", "closeness": 2, "reasoning": "Incorrect -- 'refuted' means to prove wrong; this implies engagement with the report rather than simply treating it as unworthy of attention." },
+        { "distractor": "postponed", "closeness": 2, "reasoning": "Incorrect -- 'postponed' means to delay or defer; this suggests the report would be addressed later, unlike disregarding which treats it as unworthy of notice." },
+        { "distractor": "heeded", "closeness": 1, "reasoning": "Opposite -- 'heeded' means to pay attention to or take notice of; this is contrary to disregarding the environmental findings." },
+        { "distractor": "honored", "closeness": 1, "reasoning": "Opposite -- 'honored' means to give recognition or respect; clearly wrong for officials who choose not to regard a warning." },
+        { "distractor": "followed", "closeness": 1, "reasoning": "Opposite -- 'followed' means to adhere to recommendations; this contradicts disregarding the report's guidance." }
+      ]
+    }
+  ]
+}

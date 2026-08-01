@@ -1,0 +1,53 @@
+{
+  "word": "vitriolic",
+  "sentenceSets": [
+    {
+      "sentence": "The vitriolic memo circulated within the organization communicated a level of internal dysfunction that external observers would eventually learn about.",
+      "answerChoices": [
+        { "distractor": "harsh", "closeness": 3, "reasoning": "'Harsh' describes severe and unpleasant tone, but the sentence emphasizes not just unpleasantness but specifically bitterly caustic language revealing dysfunction." },
+        { "distractor": "caustic", "closeness": 3, "reasoning": "'Caustic' means burning or corrosive in tone; while the memo is caustic, the sentence combines this with bitterly harsh language, not merely the caustic quality alone." },
+        { "distractor": "scathing", "closeness": 3, "reasoning": "'Scathing' describes severely critical language; the memo is critical, but the sentence emphasizes the bitter harshness revealing dysfunction, not just severity of critique." },
+        { "distractor": "acrimonious", "closeness": 3, "reasoning": "'Acrimonious' describes bitter and angry tone; the memo shows this, but the sentence emphasizes specifically the bitterly harsh or caustic language, not merely the bitter emotion." },
+        { "distractor": "hostile", "closeness": 2, "reasoning": "The memo's tone is unfriendly and aggressive, but 'hostile' emphasizes open enmity rather than specifically bitterly caustic language." },
+        { "distractor": "venomous", "closeness": 2, "reasoning": "The memo's language is poisonous and harmful, but 'venomous' emphasizes the injection of toxicity rather than specifically bitter, caustic criticism." },
+        { "distractor": "sarcastic", "closeness": 2, "reasoning": "The memo might use sarcasm to express criticism, but 'sarcastic' emphasizes ironic mockery rather than straightforward bitter, caustic language." },
+        { "distractor": "condescending", "closeness": 2, "reasoning": "The memo might show contempt through tone, but 'condescending' emphasizes superiority and talking down to rather than bitterly harsh criticism." },
+        { "distractor": "cordial", "closeness": 1, "reasoning": "The memo communicates dysfunction through bitter, harsh language, the opposite of the warm and friendly tone that 'cordial' implies." },
+        { "distractor": "diplomatic", "closeness": 1, "reasoning": "The memo's bitter, caustic language reveals dysfunction rather than managing it tactfully; this contradicts the skill and sensitivity that 'diplomatic' conveys." },
+        { "distractor": "complimentary", "closeness": 1, "reasoning": "The memo uses bitterly harsh language revealing dysfunction, the opposite of expressing praise or approval that 'complimentary' means." }
+      ]
+    },
+    {
+      "sentence": "The senator's vitriolic speech attacking his opponent became a campaign turning point, as voters recoiled from the personal, bitter nature of the assault.",
+      "answerChoices": [
+        { "distractor": "aggressive", "closeness": 3, "reasoning": "The speech is certainly aggressive in attacking the opponent, but 'aggressive' emphasizes forceful forward movement rather than specifically bitterly harsh, caustic language." },
+        { "distractor": "inflammatory", "closeness": 3, "reasoning": "'Inflammatory' describes language meant to provoke anger; the speech does this, but the sentence emphasizes specifically bitter, caustic criticism, not merely provocation." },
+        { "distractor": "cutting", "closeness": 3, "reasoning": "'Cutting' describes sharply hurtful remarks; the speech hurts, but the sentence emphasizes the bitter harshness combined with personal nature, not just sharpness." },
+        { "distractor": "demeaning", "closeness": 3, "reasoning": "'Demeaning' means reducing someone's dignity; the speech attacks the opponent's character, but the sentence emphasizes the bitter, caustic quality, not merely the belittling." },
+        { "distractor": "insulting", "closeness": 2, "reasoning": "The speech shows disrespect toward the opponent, but 'insulting' emphasizes offense rather than specifically bitter, caustic language." },
+        { "distractor": "abusive", "closeness": 2, "reasoning": "The speech treats the opponent harshly, but 'abusive' emphasizes harsh mistreatment rather than specifically caustic, bitter language." },
+        { "distractor": "antagonistic", "closeness": 2, "reasoning": "The speech opposes and provokes the opponent, but 'antagonistic' emphasizes opposition rather than specifically bitter, caustic criticism." },
+        { "distractor": "accusatory", "closeness": 2, "reasoning": "The speech makes negative charges against the opponent, but 'accusatory' emphasizes the charges themselves rather than the bitter, caustic manner of expression." },
+        { "distractor": "gracious", "closeness": 1, "reasoning": "The speech uses bitter, caustic personal attacks, the opposite of the courtesy and kindness that 'gracious' implies." },
+        { "distractor": "generous", "closeness": 1, "reasoning": "The senator attacks the opponent personally and bitterly, contradicting the magnanimity and giving spirit that 'generous' conveys." },
+        { "distractor": "measured", "closeness": 1, "reasoning": "The speech is personal, bitter, and caustic enough to turn voters away, contradicting the careful restraint and balance that 'measured' implies." }
+      ]
+    },
+    {
+      "sentence": "The critic's vitriolic review of the young playwright's debut seemed designed to wound rather than evaluate, dismissing years of creative effort with bitter contempt.",
+      "answerChoices": [
+        { "distractor": "unfavorable", "closeness": 3, "reasoning": "The review is certainly negative, but 'unfavorable' simply means not approving; the sentence emphasizes the bitterly harsh, caustic nature intended to wound, not merely disapproval." },
+        { "distractor": "negative", "closeness": 3, "reasoning": "The review expresses disapproval, but 'negative' is broader and less specifically bitter; the sentence emphasizes caustic language meant to inflict damage." },
+        { "distractor": "destructive", "closeness": 3, "reasoning": "The review aims to harm the playwright's career, but 'destructive' emphasizes causing ruin rather than the specifically bitter, caustic quality of the language." },
+        { "distractor": "harsh", "closeness": 3, "reasoning": "'Harsh' describes severe criticism, but the sentence specifically emphasizes the bitter, caustic nature of the review, combined with intentional wounding." },
+        { "distractor": "dismissive", "closeness": 2, "reasoning": "The review dismisses the playwright's work, but 'dismissive' emphasizes curt rejection rather than specifically caustic, bitter language." },
+        { "distractor": "contemptuous", "closeness": 2, "reasoning": "The review shows scorn and disdain, but 'contemptuous' emphasizes the attitude of superiority rather than the bitterly harsh, caustic language." },
+        { "distractor": "critical", "closeness": 2, "reasoning": "The review critiques the work, but 'critical' emphasizes evaluation rather than the bitter, caustic intent to wound." },
+        { "distractor": "cynical", "closeness": 2, "reasoning": "The review might show distrust of the playwright's motives, but 'cynical' emphasizes skepticism rather than specifically bitter, caustic language." },
+        { "distractor": "supportive", "closeness": 1, "reasoning": "The review is meant to wound with bitter contempt, the opposite of 'supportive,' which means giving encouragement and backing." },
+        { "distractor": "constructive", "closeness": 1, "reasoning": "The review aims to damage rather than improve, contradicting the helpful and improvement-focused nature that 'constructive' implies." },
+        { "distractor": "charitable", "closeness": 1, "reasoning": "The review attacks the playwright with bitter contempt, the opposite of showing kind and forgiving judgment that 'charitable' conveys." }
+      ]
+    }
+  ]
+}

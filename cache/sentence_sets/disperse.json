@@ -1,0 +1,53 @@
+{
+  "word": "disperse",
+  "sentenceSets": [
+    {
+      "sentence": "The crowd dispersed quickly once it became clear that no announcement would be made that evening.",
+      "answerChoices": [
+        { "distractor": "scattered", "closeness": 3, "reasoning": "The sentence shows an organized departure prompted by learned information, not chaotic spreading; 'scattered' implies random, haphazard scattering rather than a coordinated exit." },
+        { "distractor": "disbanded", "closeness": 3, "reasoning": "While similar in meaning, 'disbanded' specifically describes a formal organization breaking apart; the sentence depicts an informal crowd simply leaving, not an officially constituted group formally dissolving." },
+        { "distractor": "dissolved", "closeness": 3, "reasoning": "Though 'dissolved' can mean to break up, it is primarily metaphorical for abstractly ending or disappearing; the sentence shows people physically leaving a location in response to circumstances." },
+        { "distractor": "evacuated", "closeness": 3, "reasoning": "The sentence shows voluntary departure after disappointment, not a removal due to emergency; 'evacuated' implies forced or urgent clearance by external pressure or danger." },
+        { "distractor": "withdrew", "closeness": 2, "reasoning": "Though similar to leaving, 'withdrew' suggests a coordinated, orderly retreat; the sentence emphasizes a quick, reactive exit once disappointment struck." },
+        { "distractor": "deserted", "closeness": 2, "reasoning": "'Deserted' carries a connotation of abandonment or betrayal, suggesting people are being left behind; the sentence simply describes people leaving in response to a cancelled event." },
+        { "distractor": "retreated", "closeness": 2, "reasoning": "'Retreated' implies backward movement or withdrawal from a position of engagement; the sentence describes people leaving a location, not pulling back from a confrontation." },
+        { "distractor": "exited", "closeness": 2, "reasoning": "While 'exited' works grammatically, it is too generic and vague about direction; the sentence emphasizes the collective nature and speed of the departure." },
+        { "distractor": "gathered", "closeness": 1, "reasoning": "Opposite of dispersing; 'gathered' means came together, directly contradicting the sentence's depiction of people leaving." },
+        { "distractor": "congregated", "closeness": 1, "reasoning": "Opposite meaning; 'congregated' implies assembling together, the reverse of the sentence's action of people separating and leaving." },
+        { "distractor": "assembled", "closeness": 1, "reasoning": "Opposite meaning; 'assembled' means to bring together, which contradicts the sentence's depiction of a crowd breaking apart." }
+      ]
+    },
+    {
+      "sentence": "To establish a healthy lawn, the landscaper needed to disperse the seed mixture uniformly across the entire yard, taking care to overlap each pass for complete coverage.",
+      "answerChoices": [
+        { "distractor": "sow", "closeness": 3, "reasoning": "Both mean to plant or scatter seeds, making 'sow' a plausible trap; however, 'sow' specifically emphasizes the act of planting seeds, while the sentence's focus on 'uniform' coverage and 'overlapping' passes highlights systematic spreading." },
+        { "distractor": "broadcast", "closeness": 3, "reasoning": "In an agricultural context, 'broadcast' is an established term meaning to spread seeds widely; it closely resembles 'disperse' but lacks the sentence's emphasis on uniformity and careful overlapping." },
+        { "distractor": "distribute", "closeness": 3, "reasoning": "Both mean to spread across an area, but 'distribute' is more general and abstract; the sentence's specific details about overlapping and complete coverage point to 'disperse' as the precise term for spreading seeds systematically." },
+        { "distractor": "strew", "closeness": 3, "reasoning": "Though 'strew' means to scatter, it implies a more random or careless spreading; the sentence emphasizes careful overlapping and uniform coverage, which contradicts the haphazardness 'strew' suggests." },
+        { "distractor": "plant", "closeness": 2, "reasoning": "'Plant' focuses on the action of placing seeds in ground, but the sentence emphasizes spreading a mixture across an area—planting is a different action than dispersion." },
+        { "distractor": "sprinkle", "closeness": 2, "reasoning": "'Sprinkle' implies scattering lightly or sporadically; the sentence stresses uniform coverage with careful overlapping, suggesting a more systematic approach than sprinkling." },
+        { "distractor": "spread", "closeness": 2, "reasoning": "While 'spread' is superficially similar, it is too vague and generic; the sentence's specific agricultural context and emphasis on uniformity call for a more precise term." },
+        { "distractor": "divide", "closeness": 2, "reasoning": "'Divide' means to split into parts, which does not fit the context of applying a seed mixture; the sentence is about distribution, not partitioning." },
+        { "distractor": "concentrate", "closeness": 1, "reasoning": "Opposite meaning; 'concentrate' means to gather in one place, contradicting the sentence's clear instruction to spread the seeds across the entire yard." },
+        { "distractor": "collect", "closeness": 1, "reasoning": "Opposite meaning; 'collect' means to gather together, directly contrary to the sentence's depiction of spreading material across a wide area." },
+        { "distractor": "heap", "closeness": 1, "reasoning": "Opposite meaning; 'heap' means to pile up in one location, contradicting the sentence's emphasis on uniform, overlapping coverage across the entire yard." }
+      ]
+    },
+    {
+      "sentence": "The investor's initial confidence gradually dispersed when the company failed to meet its quarterly earnings targets for the third consecutive quarter.",
+      "answerChoices": [
+        { "distractor": "dissipated", "closeness": 3, "reasoning": "Both describe gradual disappearance, but 'dissipated' emphasizes the fading of intensity or breaking apart into fragments; the sentence focuses on the loss of a specific emotion (confidence) due to repeated failures." },
+        { "distractor": "eroded", "closeness": 3, "reasoning": "Though 'eroded' aptly describes gradual wearing away, it typically suggests a process affecting material or strength; the sentence depicts the loss of a psychological state in response to concrete missed targets." },
+        { "distractor": "evaporated", "closeness": 3, "reasoning": "'Evaporated' implies sudden disappearance, like liquid turning to vapor; the sentence emphasizes 'gradually,' indicating a slower process of confidence loss." },
+        { "distractor": "weakened", "closeness": 3, "reasoning": "Both convey loss of strength, but 'weakened' suggests partial reduction; the sentence's pattern of three consecutive failures indicates confidence was lost entirely, not merely diminished in strength." },
+        { "distractor": "diminished", "closeness": 2, "reasoning": "'Diminished' means reduced in size or degree; the sentence implies confidence disappeared completely, not merely decreased in amount." },
+        { "distractor": "vanished", "closeness": 2, "reasoning": "'Vanished' suggests sudden, complete disappearance; the sentence explicitly states the process was 'gradual,' indicating a slower loss over the three quarters." },
+        { "distractor": "declined", "closeness": 2, "reasoning": "'Declined' typically refers to numerical drops or falling values; while it fits surface-level, the sentence emphasizes psychological loss, not financial metrics." },
+        { "distractor": "faltered", "closeness": 2, "reasoning": "'Faltered' means to hesitate or become unsteady; the sentence shows confidence being lost, not wavering or stumbling—a more complete loss than faltering suggests." },
+        { "distractor": "strengthened", "closeness": 1, "reasoning": "Opposite meaning; 'strengthened' means to make stronger, contrary to the sentence's depiction of confidence being lost over multiple missed earnings targets." },
+        { "distractor": "solidified", "closeness": 1, "reasoning": "Opposite meaning; 'solidified' means to make firm or unshakeable, contradicting the sentence's description of confidence being lost due to repeated company failures." },
+        { "distractor": "confirmed", "closeness": 1, "reasoning": "Opposite meaning; 'confirmed' means to verify or validate, contrary to the sentence's depiction of confidence being undermined by negative results." }
+      ]
+    }
+  ]
+}

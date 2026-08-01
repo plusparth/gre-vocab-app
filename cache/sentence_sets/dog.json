@@ -1,0 +1,53 @@
+{
+  "word": "dog",
+  "sentenceSets": [
+    {
+      "sentence": "The question of accountability continued to dog the organization long after the original incident was resolved.",
+      "answerChoices": [
+        { "distractor": "plague", "closeness": 3, "reasoning": "Close -- 'plague' means to persistently trouble; it is nearly synonymous with 'dog' as a persistent problem, but 'dog' emphasizes relentless pursuit whereas 'plague' emphasizes widespread suffering." },
+        { "distractor": "haunt", "closeness": 3, "reasoning": "Close -- 'haunt' means to persistently recur to the mind; while similar, it suggests psychological burden, whereas 'dog' emphasizes external, ongoing pursuit of the organization." },
+        { "distractor": "shadow", "closeness": 3, "reasoning": "Close -- 'shadow' means to follow closely; while it captures the pursuit aspect, 'dog' more forcefully suggests relentless and troubling persistence." },
+        { "distractor": "stalk", "closeness": 3, "reasoning": "Close -- 'stalk' means to pursue steadily; while similar to 'dog', it suggests more predatory intent, whereas 'dog' simply means to persistently hound." },
+        { "distractor": "bother", "closeness": 2, "reasoning": "Incorrect -- 'bother' means to annoy or trouble; while the accountability question is troubling, 'dog' implies persistent, ongoing pursuit over time." },
+        { "distractor": "concern", "closeness": 2, "reasoning": "Incorrect -- 'concern' means to worry or affect; the sentence describes relentless pursuit of the organization, not merely being a concern." },
+        { "distractor": "burden", "closeness": 2, "reasoning": "Incorrect -- 'burden' means a load or responsibility; while the question burdens the organization, 'dog' emphasizes active, persistent pursuit." },
+        { "distractor": "linger", "closeness": 2, "reasoning": "Incorrect -- 'linger' means to remain present; the sentence suggests active pursuit rather than mere lingering presence." },
+        { "distractor": "solve", "closeness": 1, "reasoning": "Opposite -- 'solve' means to resolve; the accountability question 'dogged' the organization, meaning it remained unresolved and persistent." },
+        { "distractor": "dismiss", "closeness": 1, "reasoning": "Opposite -- 'dismiss' means to discard or remove; 'dogging' suggests the question would not go away, the opposite of dismissing it." },
+        { "distractor": "forget", "closeness": 1, "reasoning": "Opposite -- 'forget' means to cease remembering; the accountability question persistently 'dogged' the organization, meaning it was not forgotten." }
+      ]
+    },
+    {
+      "sentence": "Rumors of financial impropriety dogged the executive throughout his career, even after he retired and attempted to distance himself from the company.",
+      "answerChoices": [
+        { "distractor": "pursued", "closeness": 3, "reasoning": "Close -- 'pursued' means to follow or chase; while similar, 'dogged' implies persistent, unwanted pursuit, whereas 'pursued' can be neutral." },
+        { "distractor": "followed", "closeness": 3, "reasoning": "Close -- 'followed' means to come after; 'dogged' emphasizes the relentless, troubling nature of what follows, not just mechanical succession." },
+        { "distractor": "trailed", "closeness": 3, "reasoning": "Close -- 'trailed' means to follow at a distance; while capturing the pursuit, 'dogged' emphasizes the persistent, hounding nature of rumors." },
+        { "distractor": "pestered", "closeness": 3, "reasoning": "Close -- 'pestered' means to harass repeatedly; while similar, it emphasizes active annoyance, whereas 'dogged' emphasizes relentless pursuit of reputation." },
+        { "distractor": "attacked", "closeness": 2, "reasoning": "Incorrect -- 'attacked' implies direct assault; rumors 'dog' someone by persistent association and pursuit, not necessarily by hostile attack." },
+        { "distractor": "damaged", "closeness": 2, "reasoning": "Incorrect -- 'damaged' means to harm; while rumors cause damage, 'dogged' emphasizes the relentless pursuit, not the harm itself." },
+        { "distractor": "questioned", "closeness": 2, "reasoning": "Incorrect -- 'questioned' means to challenge; the executive was 'dogged' by rumors, which pursue him, rather than simply being questioned." },
+        { "distractor": "isolated", "closeness": 2, "reasoning": "Incorrect -- 'isolated' means to separate; the sentence shows rumors following him even in retirement, not isolating him from circumstances." },
+        { "distractor": "freed", "closeness": 1, "reasoning": "Opposite -- 'freed' means to release; the executive attempted to distance himself and escape, opposite to being 'dogged' by persistent rumors." },
+        { "distractor": "cleared", "closeness": 1, "reasoning": "Opposite -- 'cleared' means to exonerate; being 'dogged' by rumors suggests he was not cleared of suspicion." },
+        { "distractor": "vindicated", "closeness": 1, "reasoning": "Opposite -- 'vindicated' means to justify or prove right; being 'dogged' by rumors is incompatible with being vindicated." }
+      ]
+    },
+    {
+      "sentence": "The boxer's injuries dogged his comeback attempts, forcing him to withdraw from multiple matches and eventually consider retirement.",
+      "answerChoices": [
+        { "distractor": "hindered", "closeness": 3, "reasoning": "Close -- 'hindered' means to obstruct progress; injuries do hinder comeback, but 'dogged' implies persistent, recurring obstacles that pursue him through multiple attempts." },
+        { "distractor": "plagued", "closeness": 3, "reasoning": "Close -- 'plagued' means to trouble persistently; while similar, 'dogged' emphasizes active pursuit through his attempts, not just general trouble." },
+        { "distractor": "impeded", "closeness": 3, "reasoning": "Close -- 'impeded' means to hinder or block; injuries do impede his comeback, but 'dogged' emphasizes relentless pursuit across multiple attempts." },
+        { "distractor": "undermined", "closeness": 3, "reasoning": "Close -- 'undermined' means to weaken; while injuries weaken his comeback efforts, 'dogged' suggests persistent, active pursuit rather than gradual weakening." },
+        { "distractor": "caused", "closeness": 2, "reasoning": "Incorrect -- 'caused' is too generic; while injuries cause problems, 'dogged' implies persistent pursuit of the boxer through multiple attempts." },
+        { "distractor": "weakened", "closeness": 2, "reasoning": "Incorrect -- 'weakened' describes loss of strength; the sentence emphasizes persistent, relentless pursuit through comeback attempts, not merely weakening." },
+        { "distractor": "discouraged", "closeness": 2, "reasoning": "Incorrect -- 'discouraged' means to dampen spirits; while injuries may discourage, 'dogged' emphasizes physical, persistent pursuit, not emotional discouragement." },
+        { "distractor": "limited", "closeness": 2, "reasoning": "Incorrect -- 'limited' means to restrict; while injuries limit his options, 'dogged' implies relentless active pursuit, not just restriction." },
+        { "distractor": "aided", "closeness": 1, "reasoning": "Opposite -- 'aided' means to help; injuries would not assist or help the boxer's comeback attempts." },
+        { "distractor": "enhanced", "closeness": 1, "reasoning": "Opposite -- 'enhanced' means to improve; injuries would not improve his comeback prospects or performance." },
+        { "distractor": "resolved", "closeness": 1, "reasoning": "Opposite -- 'resolved' means to settle or fix; injuries persistently 'dogged' him, meaning they were not resolved or fixed." }
+      ]
+    }
+  ]
+}

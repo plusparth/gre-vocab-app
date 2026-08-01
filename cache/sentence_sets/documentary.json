@@ -1,0 +1,53 @@
+{
+  "word": "documentary",
+  "sentenceSets": [
+    {
+      "sentence": "The documentary record clearly showed that approval had been given before the contested action was taken.",
+      "answerChoices": [
+        { "distractor": "written", "closeness": 3, "reasoning": "Close -- 'written' refers to text-based material, which overlaps with 'documentary'; however, 'documentary' emphasizes official documentation and formal records, not merely written content." },
+        { "distractor": "official", "closeness": 3, "reasoning": "Close -- 'official' refers to authorized or sanctioned material; the sentence emphasizes a record that certifies approval in writing, making 'documentary' more precise than 'official'." },
+        { "distractor": "historical", "closeness": 3, "reasoning": "Close -- 'historical' refers to what is documented in the past; the sentence stresses evidence of approval recorded in documents, not merely historical fact." },
+        { "distractor": "factual", "closeness": 3, "reasoning": "Close -- 'factual' means true or actual; the sentence involves documented proof, not just factual accuracy apart from its form." },
+        { "distractor": "legal", "closeness": 2, "reasoning": "Incorrect -- 'legal' refers to what is lawful or related to law; the sentence emphasizes a written record that demonstrates approval, not legal status." },
+        { "distractor": "authentic", "closeness": 2, "reasoning": "Incorrect -- 'authentic' means genuine; while a documentary record may be authentic, the sentence emphasizes the recorded form of evidence, not authenticity." },
+        { "distractor": "chronological", "closeness": 2, "reasoning": "Incorrect -- 'chronological' refers to time order; the sentence refers to documented proof of approval, not temporal sequence." },
+        { "distractor": "concrete", "closeness": 2, "reasoning": "Incorrect -- 'concrete' means specific and tangible; while documentary records are concrete, this word does not convey the sense of being recorded in documents." },
+        { "distractor": "ambiguous", "closeness": 1, "reasoning": "Opposite -- 'ambiguous' means unclear or uncertain; a documentary record explicitly shows approval, making the facts unambiguous." },
+        { "distractor": "speculative", "closeness": 1, "reasoning": "Opposite -- 'speculative' refers to conjecture or guessing; a documentary record is based on documented fact, not speculation." },
+        { "distractor": "oral", "closeness": 1, "reasoning": "Opposite -- 'oral' refers to spoken communication; 'documentary' emphasizes written or recorded evidence, the opposite of verbal testimony." }
+      ]
+    },
+    {
+      "sentence": "The detective relied on documentary evidence from phone records and witness statements to build her case against the suspect.",
+      "answerChoices": [
+        { "distractor": "physical", "closeness": 3, "reasoning": "Close -- 'physical' refers to material items; phone records and statements are types of physical evidence, but 'documentary' specifies evidence in documented form." },
+        { "distractor": "tangible", "closeness": 3, "reasoning": "Close -- 'tangible' means concrete or perceptible; documented records are tangible, but 'documentary' is more precise in naming written or recorded materials." },
+        { "distractor": "substantial", "closeness": 3, "reasoning": "Close -- 'substantial' means significant or considerable; the evidence is substantial, but 'documentary' specifically refers to its form as recorded documents." },
+        { "distractor": "compelling", "closeness": 3, "reasoning": "Close -- 'compelling' means persuasive or powerful; the evidence may be compelling, but 'documentary' refers to its nature as documented proof." },
+        { "distractor": "forensic", "closeness": 2, "reasoning": "Incorrect -- 'forensic' refers to evidence used in legal proceedings; while documentary evidence can be forensic, the sentence emphasizes phone records and statements, not crime lab analysis." },
+        { "distractor": "corroborating", "closeness": 2, "reasoning": "Incorrect -- 'corroborating' means supporting or confirming; while the evidence does corroborate the case, 'documentary' refers to its form, not its function." },
+        { "distractor": "testimonial", "closeness": 2, "reasoning": "Incorrect -- 'testimonial' refers to statements by witnesses; the sentence mentions witness statements as part of documentary evidence, not as testimony alone." },
+        { "distractor": "circumstantial", "closeness": 2, "reasoning": "Incorrect -- 'circumstantial' refers to indirect evidence; the sentence suggests records and statements that are direct forms of proof, not circumstantial." },
+        { "distractor": "fabricated", "closeness": 1, "reasoning": "Opposite -- 'fabricated' means made up; the detective relied on documentary evidence for building a legitimate case." },
+        { "distractor": "unreliable", "closeness": 1, "reasoning": "Opposite -- 'unreliable' means untrustworthy; the sentence describes evidence the detective relied upon, implying its reliability." },
+        { "distractor": "suppressed", "closeness": 1, "reasoning": "Incorrect -- 'suppressed' means concealed or hidden; the detective used evidence openly as part of building her case, not suppressing it." }
+      ]
+    },
+    {
+      "sentence": "The historian credited the documentary sources she had uncovered—including letters, ledgers, and government reports—with transforming her understanding of the era.",
+      "answerChoices": [
+        { "distractor": "primary", "closeness": 3, "reasoning": "Close -- 'primary' refers to original, firsthand sources; the historian's sources are primary, but 'documentary' emphasizes their existence as recorded documents." },
+        { "distractor": "archival", "closeness": 3, "reasoning": "Close -- 'archival' refers to materials stored in archives; letters and reports can be archival, but 'documentary' specifically names their form as documents." },
+        { "distractor": "historical", "closeness": 3, "reasoning": "Close -- 'historical' refers to materials about the past; the sources are historical, but 'documentary' points to their nature as recorded materials, not their time period." },
+        { "distractor": "original", "closeness": 3, "reasoning": "Close -- 'original' means first or earliest; these sources are original, but 'documentary' specifically describes materials in document form." },
+        { "distractor": "textual", "closeness": 2, "reasoning": "Incorrect -- 'textual' refers to written words; while documentary sources are often textual, letters, ledgers, and reports are more precisely called 'documentary' materials." },
+        { "distractor": "ancient", "closeness": 2, "reasoning": "Incorrect -- 'ancient' refers to very old materials; the sentence does not establish the age of the sources, only that they transformed understanding of an era." },
+        { "distractor": "reliable", "closeness": 2, "reasoning": "Incorrect -- 'reliable' means trustworthy; while the sources may be reliable, the sentence emphasizes their form as recorded documents, not their trustworthiness." },
+        { "distractor": "rare", "closeness": 2, "reasoning": "Incorrect -- 'rare' means uncommon; the sentence emphasizes that the historian uncovered these sources, but does not indicate they are rare." },
+        { "distractor": "fictional", "closeness": 1, "reasoning": "Opposite -- 'fictional' means invented or imaginary; the historian credits actual documentary sources for transforming her understanding." },
+        { "distractor": "theoretical", "closeness": 1, "reasoning": "Opposite -- 'theoretical' refers to abstract ideas; the sentence emphasizes concrete sources the historian uncovered and studied." },
+        { "distractor": "speculative", "closeness": 1, "reasoning": "Opposite -- 'speculative' refers to conjecture; the historian's transformation of understanding was based on documentary proof, not speculation." }
+      ]
+    }
+  ]
+}

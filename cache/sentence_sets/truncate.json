@@ -1,0 +1,53 @@
+{
+  "word": "truncate",
+  "sentenceSets": [
+    {
+      "sentence": "She truncated the presentation to fit the available time, removing material that she hoped would find another occasion.",
+      "answerChoices": [
+        { "distractor": "condense", "closeness": 3, "reasoning": "Condense means to compress content while retaining essential information, but the sentence indicates removal of material rather than just tightening existing material." },
+        { "distractor": "summarize", "closeness": 3, "reasoning": "Summarize involves reducing to essentials while maintaining coverage, but the sentence shows cutting material entirely, expecting it to appear elsewhere, not condensed into summary." },
+        { "distractor": "postpone", "closeness": 3, "reasoning": "Postpone means to delay, which aligns with 'hoping to find another occasion,' but the action itself is about cutting material, not scheduling it later." },
+        { "distractor": "streamline", "closeness": 3, "reasoning": "Streamline means to simplify for efficiency, but focuses on making something work better rather than the specific act of cutting off portions." },
+        { "distractor": "revise", "closeness": 2, "reasoning": "Revise (edit or change) is broader than cutting; the sentence specifies removal for length constraint." },
+        { "distractor": "omit", "closeness": 2, "reasoning": "Omit (leave out) shares the removal action but is more about not including than actively cutting off what already existed." },
+        { "distractor": "defer", "closeness": 2, "reasoning": "Defer (put off for later) overlaps with the temporal aspect but is less specific about the act of cutting." },
+        { "distractor": "expand", "closeness": 1, "reasoning": "Expand (make larger or more detailed) is the opposite of shortening by cutting off." },
+        { "distractor": "elaborate", "closeness": 1, "reasoning": "Elaborate (add detail and explanation) is opposite to removing material." },
+        { "distractor": "prolong", "closeness": 1, "reasoning": "Prolong (extend duration) is contrary to shortening to fit available time." },
+        { "distractor": "enhance", "closeness": 1, "reasoning": "Enhance (improve or intensify) is opposite to the reduction involved in cutting material." }
+      ]
+    },
+    {
+      "sentence": "The director decided to truncate the final scene, believing that the film's impact would increase by ending moments earlier than originally scripted.",
+      "answerChoices": [
+        { "distractor": "curtail", "closeness": 3, "reasoning": "Curtail means to reduce the extent or duration, closely aligned with shortening, but the sentence emphasizes deliberate cutting for artistic effect rather than simple reduction." },
+        { "distractor": "abbreviate", "closeness": 3, "reasoning": "Abbreviate (shorten or reduce in length) is similar but suggests making something more concise, whereas the sentence indicates cutting to a specific point for impact." },
+        { "distractor": "diminish", "closeness": 3, "reasoning": "Diminish (reduce in size or importance) overlaps with cutting but focuses more on reduction of quality or quantity rather than the specific action of ending early." },
+        { "distractor": "restrain", "closeness": 3, "reasoning": "Restrain (hold back or limit) shares limiting extent but lacks the specific sense of cutting off what was planned." },
+        { "distractor": "suppress", "closeness": 2, "reasoning": "Suppress (prevent or inhibit) involves holding back but is more about preventing something from occurring than cutting what already exists." },
+        { "distractor": "moderate", "closeness": 2, "reasoning": "Moderate (make less extreme) involves reduction but is about adjusting intensity rather than cutting length." },
+        { "distractor": "edit", "closeness": 2, "reasoning": "Edit involves changes but is broader than the specific action of cutting off a portion at the end." },
+        { "distractor": "extend", "closeness": 1, "reasoning": "Extend (make longer) is the opposite of ending earlier than originally scripted." },
+        { "distractor": "amplify", "closeness": 1, "reasoning": "Amplify (increase in strength or effect) opposes cutting for artistic impact." },
+        { "distractor": "reconstruct", "closeness": 1, "reasoning": "Reconstruct (rebuild or reassemble) is unrelated to shortening by cutting." },
+        { "distractor": "preserve", "closeness": 1, "reasoning": "Preserve (keep unchanged) opposes the deliberate cutting described." }
+      ]
+    },
+    {
+      "sentence": "Budget constraints forced the team to truncate their ambitious research plan, settling instead for data collection within the first three months.",
+      "answerChoices": [
+        { "distractor": "scale down", "closeness": 3, "reasoning": "Scale down means to reduce in size proportionally, but the sentence shows cutting off an entire phase rather than proportionally reducing all aspects." },
+        { "distractor": "restrict", "closeness": 3, "reasoning": "Restrict (limit or confine) shares the sense of narrowing scope but is less specific about cutting portions off than truncate." },
+        { "distractor": "minimize", "closeness": 3, "reasoning": "Minimize (reduce to smallest possible amount) overlaps with cutting but focuses on size reduction rather than temporal or sequential cutting." },
+        { "distractor": "compromise", "closeness": 3, "reasoning": "Compromise (settle for less than ideal) shares the sense of settling for reduced scope but does not specify the method of cutting." },
+        { "distractor": "abandon", "closeness": 2, "reasoning": "Abandon (completely give up) is too extreme; the sentence shows modified implementation rather than total rejection." },
+        { "distractor": "delay", "closeness": 2, "reasoning": "Delay (postpone for later) involves changing timeline but not the specific action of cutting off portions." },
+        { "distractor": "cancel", "closeness": 2, "reasoning": "Cancel (stop or terminate) is more extreme than reducing scope; the sentence shows adapting plan, not eliminating it." },
+        { "distractor": "expand", "closeness": 1, "reasoning": "Expand (increase scope) is opposite to cutting back research plan due to budget constraints." },
+        { "distractor": "accelerate", "closeness": 1, "reasoning": "Accelerate (speed up) is unrelated to the reduction of scope." },
+        { "distractor": "duplicate", "closeness": 1, "reasoning": "Duplicate (make a copy) is unrelated to cutting back research scope." },
+        { "distractor": "enhance", "closeness": 1, "reasoning": "Enhance (improve or intensify) opposes the reduction of plan scope." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "buffer",
+  "sentenceSets": [
+    {
+      "sentence": "The neutral zone served as a buffer between the two hostile factions, preventing direct confrontation.",
+      "answerChoices": [
+        { "distractor": "barrier", "closeness": 3, "reasoning": "Barrier blocks passage but does not necessarily imply the protective cushioning effect that buffer suggests—a barrier can be impermeable, while a buffer absorbs force." },
+        { "distractor": "separator", "closeness": 3, "reasoning": "Separator simply divides two things but lacks the protective quality implied by buffer, which actively prevents harm or confrontation." },
+        { "distractor": "partition", "closeness": 3, "reasoning": "Partition divides space but doesn't convey the protective function; the sentence emphasizes preventing confrontation, not merely creating physical division." },
+        { "distractor": "intermediate", "closeness": 3, "reasoning": "Intermediate describes something in between but as an adjective here it doesn't carry the sense of active protection or absorption that buffer implies." },
+        { "distractor": "wall", "closeness": 2, "reasoning": "Wall is a rigid structure that divides but lacks the absorbing or cushioning quality that buffer specifically requires." },
+        { "distractor": "frontier", "closeness": 2, "reasoning": "Frontier suggests a border or edge, but doesn't imply the protective or shock-absorbing function of a buffer." },
+        { "distractor": "boundary", "closeness": 2, "reasoning": "Boundary marks a division but doesn't necessarily create the protective cushion effect that prevents direct confrontation." },
+        { "distractor": "shield", "closeness": 2, "reasoning": "Shield provides protection but suggests blocking or deflecting threat rather than the gentler absorption and prevention that buffer conveys." },
+        { "distractor": "mediator", "closeness": 1, "reasoning": "Mediator is a person who negotiates, not a physical or spatial thing; the sentence clearly describes a geographic zone rather than an agent." },
+        { "distractor": "ally", "closeness": 1, "reasoning": "Ally supports one side, whereas a buffer remains neutral and independent from both parties." },
+        { "distractor": "escalation", "closeness": 1, "reasoning": "Escalation means increase in conflict, the opposite of the prevention of confrontation that buffer achieves." }
+      ]
+    },
+    {
+      "sentence": "The company kept a financial buffer in reserve, ensuring it could survive six months without revenue if necessary.",
+      "answerChoices": [
+        { "distractor": "cushion", "closeness": 3, "reasoning": "Cushion implies protection and comfort but doesn't specifically denote the quality of absorbing shock or impact that buffer emphasizes in financial contexts." },
+        { "distractor": "reserve", "closeness": 3, "reasoning": "Reserve means something set aside but the sentence uses it differently; buffer adds the connotation of protective absorption of loss, while reserve simply means set aside." },
+        { "distractor": "fund", "closeness": 3, "reasoning": "Fund is money set aside for a purpose, but doesn't capture the protective cushion quality that buffer implies—a buffer absorbs impact, fund just sits waiting." },
+        { "distractor": "surplus", "closeness": 3, "reasoning": "Surplus is excess beyond what is needed, but doesn't convey the active protective function of absorbing shortfall that buffer specifically requires." },
+        { "distractor": "stash", "closeness": 2, "reasoning": "Stash suggests hidden or hoarded money but lacks the protective function and suggests informal or secretive storage rather than deliberate cushioning." },
+        { "distractor": "savings", "closeness": 2, "reasoning": "Savings simply means money kept, but doesn't emphasize the protective absorption function that buffer conveys." },
+        { "distractor": "asset", "closeness": 2, "reasoning": "Asset is anything of value but doesn't specify the protective cushioning role that buffer plays in the financial strategy." },
+        { "distractor": "guarantee", "closeness": 2, "reasoning": "Guarantee promises protection but doesn't describe the actual financial resource that acts as the protective agent." },
+        { "distractor": "deficit", "closeness": 1, "reasoning": "Deficit means shortage, the opposite of the accumulation of resources that buffer requires." },
+        { "distractor": "liability", "closeness": 1, "reasoning": "Liability is a financial obligation or debt, opposite in function to a buffer which protects against financial shortfall." },
+        { "distractor": "risk", "closeness": 1, "reasoning": "Risk is the threat itself, whereas buffer is the mechanism for managing or preventing that threat." }
+      ]
+    },
+    {
+      "sentence": "The noise-dampening foam buffer in the wall reduced the sound of traffic by half, allowing residents to sleep undisturbed.",
+      "answerChoices": [
+        { "distractor": "insulation", "closeness": 3, "reasoning": "Insulation reduces transfer of heat or cold, but when applied to sound, it describes a different function than buffer—insulation prevents transmission, while buffer absorbs shock." },
+        { "distractor": "padding", "closeness": 3, "reasoning": "Padding softens impact but doesn't necessarily emphasize the shock-absorption across time or distance that buffer implies in acoustic contexts." },
+        { "distractor": "barrier", "closeness": 3, "reasoning": "Barrier blocks sound but the sentence emphasizes reduction 'by half,' suggesting absorption and dampening rather than complete blockage." },
+        { "distractor": "lining", "closeness": 3, "reasoning": "Lining covers an interior surface but doesn't inherently convey the active dampening or shock-absorbing function that buffer requires." },
+        { "distractor": "muffler", "closeness": 2, "reasoning": "Muffler suppresses sound but is typically associated with mechanical exhaust systems rather than structural wall materials." },
+        { "distractor": "silencer", "closeness": 2, "reasoning": "Silencer reduces noise but often implies complete elimination rather than the 'reduced by half' effect described in the sentence." },
+        { "distractor": "seal", "closeness": 2, "reasoning": "Seal prevents passage of air or sound but doesn't describe the absorption mechanism that dampens the sound." },
+        { "distractor": "soundproofing", "closeness": 2, "reasoning": "Soundproofing suggests complete isolation from sound, whereas the sentence describes partial reduction, which is what buffer achieves." },
+        { "distractor": "amplifier", "closeness": 1, "reasoning": "Amplifier increases sound, the opposite of the noise reduction that buffer provides." },
+        { "distractor": "speaker", "closeness": 1, "reasoning": "Speaker produces sound, not relevant to reducing or absorbing it." },
+        { "distractor": "filter", "closeness": 1, "reasoning": "Filter removes particles or unwanted elements, not applicable to physical shock absorption in acoustic contexts." }
+      ]
+    }
+  ]
+}

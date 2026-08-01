@@ -1,0 +1,53 @@
+{
+  "word": "bastardization",
+  "sentenceSets": [
+    {
+      "sentence": "Critics lamented the bastardization of the original recipe, simplified to the point of unrecognizability.",
+      "answerChoices": [
+        { "distractor": "corruption", "closeness": 3, "reasoning": "Both mean making something impure or degraded, but corruption emphasizes moral or physical contamination, while bastardization emphasizes reduction from a higher state." },
+        { "distractor": "degradation", "closeness": 3, "reasoning": "Both mean lowering in quality or state, but degradation emphasizes humiliation or shame, while bastardization emphasizes lowering from a higher condition." },
+        { "distractor": "debasement", "closeness": 3, "reasoning": "These are nearly synonymous; both mean reducing from a higher to lower state, with bastardization emphasizing the result more." },
+        { "distractor": "adulteration", "closeness": 3, "reasoning": "Both involve making something impure, but adulteration emphasizes mixing with inferior substances, while bastardization emphasizes the reduction process." },
+        { "distractor": "simplification", "closeness": 2, "reasoning": "The recipe was simplified, but simplification just means making simpler, not necessarily degrading it." },
+        { "distractor": "mutilation", "closeness": 2, "reasoning": "Both involve damaging something, but mutilation emphasizes violent injury, while bastardization emphasizes reduction in quality." },
+        { "distractor": "distortion", "closeness": 2, "reasoning": "The recipe was altered, but distortion emphasizes misshaping, while bastardization emphasizes lowering quality." },
+        { "distractor": "perversion", "closeness": 2, "reasoning": "The recipe was altered, but perversion emphasizes twisting to improper use, while bastardization emphasizes reduction in quality." },
+        { "distractor": "preservation", "closeness": 1, "reasoning": "Critics lamented the bastardization; preservation means keeping something unchanged." },
+        { "distractor": "restoration", "closeness": 1, "reasoning": "The recipe was bastardized; restoration means returning something to its original state." },
+        { "distractor": "improvement", "closeness": 1, "reasoning": "Bastardization means reduction to lower state; improvement means making better." }
+      ]
+    },
+    {
+      "sentence": "The scholar criticized the bastardization of philosophical concepts by popular self-help gurus, who stripped them of nuance and complexity.",
+      "answerChoices": [
+        { "distractor": "trivialization", "closeness": 3, "reasoning": "Both describe reducing something important to something lesser, but trivialization emphasizes making trivial, while bastardization emphasizes reduction from higher to lower state." },
+        { "distractor": "vulgarization", "closeness": 3, "reasoning": "Both describe making something refined into something common, but vulgarization emphasizes making coarse, while bastardization emphasizes reducing in quality." },
+        { "distractor": "misappropriation", "closeness": 3, "reasoning": "Both involve improper use, but misappropriation emphasizes taking for wrong use, while bastardization emphasizes degrading from higher state." },
+        { "distractor": "oversimplification", "closeness": 3, "reasoning": "Both involve removing complexity, but oversimplification emphasizes making too simple, while bastardization emphasizes the degrading result." },
+        { "distractor": "distortion", "closeness": 2, "reasoning": "The concepts were altered improperly, but distortion emphasizes misshaping, while bastardization emphasizes reduction in quality." },
+        { "distractor": "misinterpretation", "closeness": 2, "reasoning": "The gurus misused the concepts, but misinterpretation refers to wrong understanding, not necessarily bastardization." },
+        { "distractor": "dilution", "closeness": 2, "reasoning": "The concepts were weakened, but dilution emphasizes reducing strength by mixing, while bastardization emphasizes reduction from higher state." },
+        { "distractor": "compromise", "closeness": 2, "reasoning": "The concepts were changed, but compromise means reaching a settlement, not necessarily bastardization." },
+        { "distractor": "purification", "closeness": 1, "reasoning": "The scholar laments bastardization; purification means removing impurities." },
+        { "distractor": "refinement", "closeness": 1, "reasoning": "Bastardization removes nuance; refinement means improving through fine detail." },
+        { "distractor": "elevation", "closeness": 1, "reasoning": "Bastardization reduces from higher state; elevation means raising higher." }
+      ]
+    },
+    {
+      "sentence": "The institution feared that accepting corporate sponsorship would represent a bastardization of its educational mission, trading principles for profit.",
+      "answerChoices": [
+        { "distractor": "compromise", "closeness": 3, "reasoning": "Both describe sacrificing something important, but compromise emphasizes mutual concession, while bastardization emphasizes reducing from higher to lower state." },
+        { "distractor": "betrayal", "closeness": 3, "reasoning": "Both describe violating principles, but betrayal emphasizes breaking trust, while bastardization emphasizes degrading something from a higher state." },
+        { "distractor": "abandonment", "closeness": 3, "reasoning": "Both describe forsaking something, but abandonment means leaving something behind entirely, while bastardization means reducing its quality." },
+        { "distractor": "sellout", "closeness": 3, "reasoning": "Both describe sacrificing principles for profit, but sellout emphasizes sudden abandonment, while bastardization emphasizes gradual degradation." },
+        { "distractor": "contamination", "closeness": 2, "reasoning": "Corporate influence would contaminate the mission, but contamination emphasizes introducing impurity, not reducing from higher state." },
+        { "distractor": "corruption", "closeness": 2, "reasoning": "Corporate profit-seeking might corrupt the mission, but corruption emphasizes moral degradation, while bastardization emphasizes reduction in quality." },
+        { "distractor": "erosion", "closeness": 2, "reasoning": "The mission could be eroded, but erosion emphasizes gradual wearing away, while bastardization emphasizes reduction from higher to lower state." },
+        { "distractor": "dilution", "closeness": 2, "reasoning": "The mission might be diluted, but dilution emphasizes weakening through mixing, not reducing from higher state." },
+        { "distractor": "purification", "closeness": 1, "reasoning": "The institution fears bastardization; purification means making pure." },
+        { "distractor": "strengthening", "closeness": 1, "reasoning": "Bastardization degrades the mission; strengthening means making stronger." },
+        { "distractor": "elevation", "closeness": 1, "reasoning": "Bastardization reduces the mission; elevation means raising to a higher state." }
+      ]
+    }
+  ]
+}

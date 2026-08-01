@@ -1,0 +1,53 @@
+{
+  "word": "behemoth",
+  "sentenceSets": [
+    {
+      "sentence": "The new retailer was a behemoth, driving out smaller competitors within months of opening.",
+      "answerChoices": [
+        { "distractor": "leviathan", "closeness": 3, "reasoning": "Both describe enormous powerful entities, but leviathan emphasizes terrifying power, while behemoth emphasizes sheer size and dominance." },
+        { "distractor": "colossus", "closeness": 3, "reasoning": "Both describe massive dominant entities, but colossus emphasizes towering grandeur, while behemoth emphasizes powerful dominance." },
+        { "distractor": "giant", "closeness": 3, "reasoning": "Both describe something much larger than normal, but giant is more general, while behemoth emphasizes massive power." },
+        { "distractor": "powerhouse", "closeness": 3, "reasoning": "Both describe powerful dominant entities, but powerhouse emphasizes strength and influence, while behemoth emphasizes sheer size." },
+        { "distractor": "empire", "closeness": 2, "reasoning": "The retailer functions like an empire, but empire emphasizes vast territorial domain, while behemoth emphasizes physical size." },
+        { "distractor": "force", "closeness": 2, "reasoning": "The retailer is a powerful force, but force emphasizes power, while behemoth emphasizes size." },
+        { "distractor": "institution", "closeness": 2, "reasoning": "The retailer is a large institution, but institution emphasizes organizational structure, not size." },
+        { "distractor": "monopoly", "closeness": 2, "reasoning": "The retailer may be a monopoly, but monopoly emphasizes market control, not size." },
+        { "distractor": "upstart", "closeness": 1, "reasoning": "The new retailer is a behemoth; upstart means a newly risen person or entity." },
+        { "distractor": "startup", "closeness": 1, "reasoning": "The retailer is established and massive; startup describes a newly begun enterprise." },
+        { "distractor": "boutique", "closeness": 1, "reasoning": "The retailer is a behemoth; boutique describes a small specialized shop." }
+      ]
+    },
+    {
+      "sentence": "The healthcare behemoth employed over fifty thousand workers across its network of hospitals, clinics, and research facilities.",
+      "answerChoices": [
+        { "distractor": "conglomerate", "closeness": 3, "reasoning": "Both describe large multi-part organizations, but conglomerate emphasizes diverse business holdings, while behemoth emphasizes sheer size." },
+        { "distractor": "corporation", "closeness": 3, "reasoning": "Both describe large business entities, but corporation is more general, while behemoth emphasizes massive dominance." },
+        { "distractor": "monopoly", "closeness": 3, "reasoning": "Both describe dominant entities, but monopoly emphasizes market control, while behemoth emphasizes size and dominance." },
+        { "distractor": "juggernaut", "closeness": 3, "reasoning": "Both describe overwhelmingly powerful entities, but juggernaut emphasizes unstoppable force, while behemoth emphasizes size." },
+        { "distractor": "network", "closeness": 2, "reasoning": "The organization has a network, but network emphasizes connections, not size." },
+        { "distractor": "system", "closeness": 2, "reasoning": "The organization is a system, but system emphasizes organization, not size." },
+        { "distractor": "organization", "closeness": 2, "reasoning": "The healthcare entity is an organization, but organization is too general." },
+        { "distractor": "institution", "closeness": 2, "reasoning": "The entity is a healthcare institution, but institution emphasizes formality, not size." },
+        { "distractor": "clinic", "closeness": 1, "reasoning": "The behemoth operates clinics; clinic is a small or medium healthcare facility." },
+        { "distractor": "startup", "closeness": 1, "reasoning": "The healthcare entity is massive and established; startup describes a new enterprise." },
+        { "distractor": "subsidiary", "closeness": 1, "reasoning": "The behemoth owns subsidiaries; subsidiary describes a smaller dependent entity." }
+      ]
+    },
+    {
+      "sentence": "The behemoth of a storm system stretched across six states, with meteorologists warning of catastrophic flooding and wind damage.",
+      "answerChoices": [
+        { "distractor": "system", "closeness": 3, "reasoning": "Both describe the storm, but system is too general, while behemoth emphasizes massive overwhelming size." },
+        { "distractor": "tempest", "closeness": 3, "reasoning": "Both describe violent weather, but tempest emphasizes turbulence, while behemoth emphasizes massive size." },
+        { "distractor": "phenomenon", "closeness": 3, "reasoning": "Both describe the storm, but phenomenon emphasizes unusual occurrence, while behemoth emphasizes size." },
+        { "distractor": "monster", "closeness": 3, "reasoning": "Both describe something terrifyingly large, but monster emphasizes dread, while behemoth emphasizes size." },
+        { "distractor": "cyclone", "closeness": 2, "reasoning": "The storm is cyclonic, but cyclone describes a specific weather type, not size." },
+        { "distractor": "vortex", "closeness": 2, "reasoning": "The storm has vortices, but vortex describes rotational motion, not size." },
+        { "distractor": "front", "closeness": 2, "reasoning": "The storm is a weather front, but front describes a boundary, not size." },
+        { "distractor": "disturbance", "closeness": 2, "reasoning": "The storm is a disturbance, but disturbance is too general." },
+        { "distractor": "breeze", "closeness": 1, "reasoning": "The behemoth brings catastrophic winds; breeze describes gentle wind." },
+        { "distractor": "drizzle", "closeness": 1, "reasoning": "The storm brings flooding; drizzle describes light rain." },
+        { "distractor": "calm", "closeness": 1, "reasoning": "The behemoth storm is catastrophic; calm means peaceful and without disturbance." }
+      ]
+    }
+  ]
+}

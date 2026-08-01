@@ -1,0 +1,53 @@
+{
+  "word": "temper",
+  "sentenceSets": [
+    {
+      "sentence": "The CEO's volatile temper meant that meetings were often derailed when minor disagreements triggered hostile outbursts.",
+      "answerChoices": [
+        { "distractor": "patience", "closeness": 3, "reasoning": "Patience is tolerance and calm; volatile temper causes outbursts, opposite of patience." },
+        { "distractor": "composure", "closeness": 3, "reasoning": "Composure is calm control of emotions but the sentence shows someone prone to hostile outbursts." },
+        { "distractor": "equanimity", "closeness": 3, "reasoning": "Equanimity is calm acceptance of events but the sentence shows volatility causing derailments." },
+        { "distractor": "restraint", "closeness": 3, "reasoning": "Restraint is holding back impulses but the sentence shows someone triggering outbursts on minor disagreements." },
+        { "distractor": "civility", "closeness": 2, "reasoning": "Civility is courtesy but the sentence shows hostile outbursts rather than courteous behavior." },
+        { "distractor": "discretion", "closeness": 2, "reasoning": "Discretion is prudent judgment but the sentence shows volatility overriding judgment." },
+        { "distractor": "wisdom", "closeness": 2, "reasoning": "Wisdom is good judgment but volatile temper leads to poor decision-making in meetings." },
+        { "distractor": "maturity", "closeness": 2, "reasoning": "Maturity includes emotional control but the sentence shows childish outbursts on minor disagreements." },
+        { "distractor": "enthusiasm", "closeness": 1, "reasoning": "Enthusiasm is excited interest but hostile outbursts are not expressions of enthusiasm." },
+        { "distractor": "indifference", "closeness": 1, "reasoning": "Indifference is lack of concern but the sentence shows strong emotional reactions to disagreements." },
+        { "distractor": "apathy", "closeness": 1, "reasoning": "Apathy is lack of emotion but the sentence shows passionate, volatile emotional responses." }
+      ]
+    },
+    {
+      "sentence": "The artisan's notoriously short temper became legendary when he destroyed an apprentice's work over a single imperfection, refusing to acknowledge any merit in the piece.",
+      "answerChoices": [
+        { "distractor": "generosity", "closeness": 3, "reasoning": "Generosity is willingness to give but the sentence shows destructive anger and refusal to acknowledge merit." },
+        { "distractor": "tolerance", "closeness": 3, "reasoning": "Tolerance is willingness to accept differences but the sentence shows refusal to acknowledge any merit." },
+        { "distractor": "forgiveness", "closeness": 3, "reasoning": "Forgiveness is letting go of resentment but the sentence shows extreme anger at a minor imperfection." },
+        { "distractor": "understanding", "closeness": 3, "reasoning": "Understanding is empathy and acceptance but the sentence shows destructive anger over a small flaw." },
+        { "distractor": "fairness", "closeness": 2, "reasoning": "Fairness is impartial judgment but the sentence shows unfair treatment and refusal to acknowledge merit." },
+        { "distractor": "kindness", "closeness": 2, "reasoning": "Kindness is gentle care but the sentence shows destruction and harsh judgment." },
+        { "distractor": "reasonableness", "closeness": 2, "reasoning": "Reasonableness is rational judgment but the sentence shows disproportionate anger over one imperfection." },
+        { "distractor": "mentorship", "closeness": 2, "reasoning": "Mentorship is teaching others but the sentence shows destructive treatment of an apprentice." },
+        { "distractor": "pride", "closeness": 1, "reasoning": "Pride is self-esteem but the sentence shows destructive anger, not self-satisfaction." },
+        { "distractor": "perfection", "closeness": 1, "reasoning": "Perfection is flawlessness but the sentence concerns emotional disposition, not quality." },
+        { "distractor": "discipline", "closeness": 1, "reasoning": "Discipline is orderly training but the sentence shows loss of control through angry outbursts." }
+      ]
+    },
+    {
+      "sentence": "Though known for his sharp temper in business negotiations, he kept his composure with family, suggesting his volatility was selective rather than constitutional.",
+      "answerChoices": [
+        { "distractor": "serenity", "closeness": 3, "reasoning": "Serenity is peaceful calm but the sentence shows sharp temper in business, opposite of serene." },
+        { "distractor": "tranquility", "closeness": 3, "reasoning": "Tranquility is peaceful calm but the sentence shows sharp volatility in certain contexts." },
+        { "distractor": "consistency", "closeness": 3, "reasoning": "Consistency is behaving the same way in all situations but the sentence shows selective volatility." },
+        { "distractor": "impartiality", "closeness": 3, "reasoning": "Impartiality is fair treatment to all but the sentence shows different emotional responses in different contexts." },
+        { "distractor": "transparency", "closeness": 2, "reasoning": "Transparency is openness but the sentence shows someone whose temper varies by context, suggesting calculated responses." },
+        { "distractor": "authenticity", "closeness": 2, "reasoning": "Authenticity is being genuine but the sentence shows selective temper suggesting different personas." },
+        { "distractor": "sincerity", "closeness": 2, "reasoning": "Sincerity is genuine feeling but the sentence shows temper varied by situation, suggesting strategic control." },
+        { "distractor": "honesty", "closeness": 2, "reasoning": "Honesty is truthfulness but the sentence concerns emotional expression, not truthfulness." },
+        { "distractor": "peacefulness", "closeness": 1, "reasoning": "Peacefulness is absence of conflict but the sentence describes someone with sharp temper in negotiations." },
+        { "distractor": "placidity", "closeness": 1, "reasoning": "Placidity is calm acceptance but the sentence describes someone prone to sharp temper." },
+        { "distractor": "meekness", "closeness": 1, "reasoning": "Meekness is gentle submission but the sentence shows someone with sharp temper in negotiations." }
+      ]
+    }
+  ]
+}

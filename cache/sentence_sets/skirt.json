@@ -1,0 +1,53 @@
+{
+  "word": "skirt",
+  "sentenceSets": [
+    {
+      "sentence": "She chose a flowing cotton skirt for the summer wedding, preferring its comfort to the formal constraints of a dress.",
+      "answerChoices": [
+        { "distractor": "dress", "closeness": 3, "reasoning": "Dress is a similar garment but the sentence contrasts it with skirt, making clear they are different—a dress is more comprehensive than a skirt." },
+        { "distractor": "gown", "closeness": 3, "reasoning": "Gown is a formal dress, and while similar in covering the body, the sentence distinguishes skirt as having different properties (comfort vs. constraint)." },
+        { "distractor": "robe", "closeness": 3, "reasoning": "Robe is a loose outer garment, but typically fuller and more formal than a skirt." },
+        { "distractor": "tunic", "closeness": 3, "reasoning": "Tunic is a garment covering the torso and upper legs, but skirt specifically covers from the waist down and is worn separately." },
+        { "distractor": "wrap", "closeness": 2, "reasoning": "Wrap is a garment worn for warmth or style, but typically refers to a shawl or outer layer rather than a lower-body garment like skirt." },
+        { "distractor": "pants", "closeness": 2, "reasoning": "Pants cover the legs separately, whereas skirt covers from waist down as a single continuous garment." },
+        { "distractor": "shorts", "closeness": 2, "reasoning": "Shorts are similar to skirt in being worn from the waist down, but are typically shorter and structured differently." },
+        { "distractor": "sarong", "closeness": 2, "reasoning": "Sarong is a wrapped garment worn from waist down, but is culturally specific and worn differently than a skirt." },
+        { "distractor": "jacket", "closeness": 1, "reasoning": "Jacket is worn on the upper body, not from the waist down as skirt is." },
+        { "distractor": "blouse", "closeness": 1, "reasoning": "Blouse covers the upper body, opposite to skirt which covers from the waist down." },
+        { "distractor": "leggings", "closeness": 1, "reasoning": "Leggings are tight-fitting leg coverings, very different from the loose, flowing structure of a skirt." }
+      ]
+    },
+    {
+      "sentence": "The medieval maiden's embroidered skirt swept the stone floor as she walked through the castle corridors.",
+      "answerChoices": [
+        { "distractor": "hem", "closeness": 3, "reasoning": "Hem is the edge or border of a skirt, not the skirt itself—confusing the part with the whole." },
+        { "distractor": "train", "closeness": 3, "reasoning": "Train is the trailing portion of a formal gown, but a skirt is the garment from waist to hem, distinct from a train." },
+        { "distractor": "petticoat", "closeness": 3, "reasoning": "Petticoat is an undergarment worn beneath a skirt, not the skirt itself." },
+        { "distractor": "bustle", "closeness": 3, "reasoning": "Bustle is a framework worn under a skirt, not the skirt itself." },
+        { "distractor": "garment", "closeness": 2, "reasoning": "Garment is too general and could refer to any article of clothing, not specifically a skirt." },
+        { "distractor": "raiment", "closeness": 2, "reasoning": "Raiment refers to clothing generally, not specifically to skirts." },
+        { "distractor": "attire", "closeness": 2, "reasoning": "Attire refers to clothing or dress in general, not specifically to skirts." },
+        { "distractor": "gown", "closeness": 2, "reasoning": "Gown is a formal dress, different from a skirt which is worn separately from the upper body garment." },
+        { "distractor": "armor", "closeness": 1, "reasoning": "Armor is metal protective wear, completely different from the soft fabric skirt described." },
+        { "distractor": "cape", "closeness": 1, "reasoning": "Cape is worn over the shoulders, not from the waist down as a skirt." },
+        { "distractor": "crown", "closeness": 1, "reasoning": "Crown is worn on the head, unrelated to the lower-body garment that a skirt is." }
+      ]
+    },
+    {
+      "sentence": "The athlete changed into a pleated skirt for the post-game celebration, swapping her practice gear for something more festive.",
+      "answerChoices": [
+        { "distractor": "kilt", "closeness": 3, "reasoning": "Kilt is a specific type of pleated skirt worn in Scottish tradition, but skirt is the broader category that includes kilts." },
+        { "distractor": "miniskirt", "closeness": 3, "reasoning": "Miniskirt is a short skirt, but is a specific type within the category of skirts, not a different garment." },
+        { "distractor": "leotard", "closeness": 3, "reasoning": "Leotard is a fitted one-piece garment, very different from a skirt's structure and fit." },
+        { "distractor": "tulle", "closeness": 3, "reasoning": "Tulle is a fabric used in skirts, not the skirt itself—confusing material with the garment." },
+        { "distractor": "uniform", "closeness": 2, "reasoning": "Uniform is a complete outfit, whereas skirt is a single lower-body garment." },
+        { "distractor": "outfit", "closeness": 2, "reasoning": "Outfit refers to a complete set of clothes, not a single garment like a skirt." },
+        { "distractor": "ensemble", "closeness": 2, "reasoning": "Ensemble describes a coordinated set of garments, not a single piece like a skirt." },
+        { "distractor": "costume", "closeness": 2, "reasoning": "Costume typically refers to a complete outfit for a specific role or character, not a single garment." },
+        { "distractor": "armor", "closeness": 1, "reasoning": "Armor is protective metal wear, completely unlike the soft fabric skirt worn for celebration." },
+        { "distractor": "helmet", "closeness": 1, "reasoning": "Helmet is worn on the head for protection, unrelated to a lower-body festive garment." },
+        { "distractor": "shoe", "closeness": 1, "reasoning": "Shoe is worn on the foot, a completely different type of garment from a skirt." }
+      ]
+    }
+  ]
+}

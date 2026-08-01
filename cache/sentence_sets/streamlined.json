@@ -1,0 +1,53 @@
+{
+  "word": "streamlined",
+  "sentenceSets": [
+    {
+      "sentence": "The streamlined process was faster but produced decisions of lower quality, as the steps that had been eliminated were the ones where errors had previously been caught.",
+      "answerChoices": [
+        { "distractor": "efficient", "closeness": 3, "reasoning": "Efficient means working in a well-organized way, and the sentence shows a process that is faster; however, streamlined specifically conveys the removal of elements to achieve speed, whereas efficient could describe a well-designed process that loses nothing essential." },
+        { "distractor": "simplified", "closeness": 3, "reasoning": "Simplified means made simple or easier, and the sentence describes a faster process; however, streamlined emphasizes the aerodynamic or mechanical smoothing, whereas simplified just means made less complex." },
+        { "distractor": "accelerated", "closeness": 3, "reasoning": "Accelerated means speeded up, and the sentence states the process was faster; however, streamlined describes how the speed was achieved (through design), whereas accelerated just states the outcome." },
+        { "distractor": "expedited", "closeness": 3, "reasoning": "Expedited means hastened or sped up; the sentence shows a faster process, but streamlined emphasizes the structural contourment for reduced resistance, whereas expedited just means quickened." },
+        { "distractor": "rapid", "closeness": 2, "reasoning": "Rapid means occurring quickly; the sentence describes a process that is faster, but streamlined encompasses both the speed and the design reduction that caused it." },
+        { "distractor": "swift", "closeness": 2, "reasoning": "Swift means moving or occurring quickly; while the streamlined process is fast, swift doesn't capture the sense of structural reduction and elimination that streamlined implies." },
+        { "distractor": "hasty", "closeness": 2, "reasoning": "Hasty means done with excessive speed and without care; the sentence shows deliberate elimination of steps to speed up, not careless rushing." },
+        { "distractor": "brisk", "closeness": 2, "reasoning": "Brisk means vigorous and energetic; the sentence describes a process designed to move quickly through elimination, not merely energetic activity." },
+        { "distractor": "sluggish", "closeness": 1, "reasoning": "Sluggish means slow and heavy; the sentence explicitly states the process was faster, the opposite of sluggish." },
+        { "distractor": "convoluted", "closeness": 1, "reasoning": "Convoluted means twisted and complicated; the sentence describes a simplified, faster process, not a complicated one." },
+        { "distractor": "cumbersome", "closeness": 1, "reasoning": "Cumbersome means unwieldy and burdensome; the sentence describes a faster process, the opposite of cumbersome." }
+      ]
+    },
+    {
+      "sentence": "The designer's streamlined car body cut through the wind with minimal drag, reaching speeds the previous model could never achieve.",
+      "answerChoices": [
+        { "distractor": "aerodynamic", "closeness": 3, "reasoning": "Aerodynamic means designed to reduce air resistance; the sentence shows a car body that cuts through wind with minimal drag, which is aerodynamic, but streamlined specifically emphasizes the contoured form, whereas aerodynamic is a technical property." },
+        { "distractor": "sleek", "closeness": 3, "reasoning": "Sleek means smooth and glossy; the sentence shows a car body designed to move efficiently, and sleek could apply to its appearance, but streamlined emphasizes the functional reduction of resistance, whereas sleek emphasizes smoothness of surface." },
+        { "distractor": "smooth", "closeness": 3, "reasoning": "Smooth means without roughness; the sentence describes a car body that cuts through wind with minimal drag, which could be smooth, but streamlined emphasizes the aerodynamic shaping, whereas smooth refers to texture." },
+        { "distractor": "tapered", "closeness": 3, "reasoning": "Tapered means gradually narrowed; the sentence shows a car body designed to reduce drag, and tapering could be one technique, but streamlined encompasses the entire contoured design approach." },
+        { "distractor": "polished", "closeness": 2, "reasoning": "Polished means smoothed and shined; while a streamlined body might be polished, the sentence focuses on cutting through wind with minimal drag, not the surface quality." },
+        { "distractor": "refined", "closeness": 2, "reasoning": "Refined means perfected or made elegant; the sentence shows an improved design that achieves higher speeds, but streamlined specifically addresses the aerodynamic contour." },
+        { "distractor": "elegant", "closeness": 2, "reasoning": "Elegant means graceful and refined; the sentence describes a car body designed for efficiency, but elegant emphasizes aesthetic beauty rather than functional aerodynamic form." },
+        { "distractor": "compact", "closeness": 2, "reasoning": "Compact means closely and firmly packed; the sentence shows a car designed to move efficiently through air, but compact refers to size compression rather than aerodynamic shaping." },
+        { "distractor": "jagged", "closeness": 1, "reasoning": "Jagged means having sharp projections; the sentence describes a car that cuts through wind smoothly with minimal drag, the opposite of jagged edges." },
+        { "distractor": "bulky", "closeness": 1, "reasoning": "Bulky means large and unwieldy; the sentence shows a car designed to reach higher speeds than the previous model, implying reduced bulk or improved form." },
+        { "distractor": "friction-laden", "closeness": 1, "reasoning": "Friction-laden would mean full of resistance; the sentence explicitly states the body has minimal drag, the opposite of friction-laden." }
+      ]
+    },
+    {
+      "sentence": "The company's streamlined supply chain eliminated storage costs, but the efficiency came at the cost of flexibility during unexpected demand spikes.",
+      "answerChoices": [
+        { "distractor": "optimized", "closeness": 3, "reasoning": "Optimized means made as good as possible; the sentence shows a supply chain made faster and cheaper, but streamlined emphasizes the removal of intermediate steps, whereas optimized could mean perfected without elimination." },
+        { "distractor": "lean", "closeness": 3, "reasoning": "Lean means containing little fat or excess; the sentence describes a supply chain stripped of storage redundancy, which is lean, but streamlined emphasizes the aerodynamic smoothing principle applied to systems." },
+        { "distractor": "efficient", "closeness": 3, "reasoning": "Efficient means working well without waste; the sentence shows cost reduction, which is efficient, but streamlined specifically conveys the removal of elements that slow the flow, whereas efficient could apply to any well-designed system." },
+        { "distractor": "minimalist", "closeness": 3, "reasoning": "Minimalist means reduced to essentials; the sentence describes a supply chain that eliminated storage, which is minimalist, but streamlined emphasizes the functional smoothing of flow, not merely minimizing quantity." },
+        { "distractor": "simplified", "closeness": 2, "reasoning": "Simplified means made simpler; the sentence shows a supply chain with fewer steps, but streamlined emphasizes the contoured efficiency principle, whereas simplified just means made less complex." },
+        { "distractor": "accelerated", "closeness": 2, "reasoning": "Accelerated means sped up; the sentence describes cost elimination through a streamlined supply chain, but accelerated doesn't capture the structural reshaping evident in the sentence." },
+        { "distractor": "trimmed", "closeness": 2, "reasoning": "Trimmed means cut away excess; the sentence shows a supply chain with eliminated storage, which is trimmed, but streamlined emphasizes the functional form achieved, not merely the cutting away." },
+        { "distractor": "reduced", "closeness": 2, "reasoning": "Reduced means made smaller or fewer; the sentence describes storage cost elimination, which is a reduction, but streamlined emphasizes the aerodynamic principle applied to systems." },
+        { "distractor": "complicated", "closeness": 1, "reasoning": "Complicated means complex and difficult to understand; the sentence describes a streamlined process that eliminated costs, implying simplification, not complication." },
+        { "distractor": "redundant", "closeness": 1, "reasoning": "Redundant means unnecessary duplication; the sentence shows a supply chain with redundancy eliminated, the opposite of redundant." },
+        { "distractor": "inflexible", "closeness": 1, "reasoning": "While the sentence does mention loss of flexibility as a consequence, streamlined refers to the efficiency achieved, not the inflexibility that resulted." }
+      ]
+    }
+  ]
+}

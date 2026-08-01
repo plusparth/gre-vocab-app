@@ -1,0 +1,53 @@
+{
+  "word": "frustrate",
+  "sentenceSets": [
+    {
+      "sentence": "The slow pace of institutional change frustrated those who had hoped for results within a single term.",
+      "answerChoices": [
+        { "distractor": "thwarted", "closeness": 3, "reasoning": "While 'thwarted' means blocked or defeated, it emphasizes opposition to an effort, whereas the sentence shows disappointment resulting from slow progress, not active blocking." },
+        { "distractor": "blocked", "closeness": 3, "reasoning": "Though 'blocked' means obstructed, it suggests an active barrier preventing action, while the sentence emphasizes frustration from slow pace rather than complete obstruction." },
+        { "distractor": "hindered", "closeness": 3, "reasoning": "Similar to 'blocked,' 'hindered' means impeded, but the sentence focuses on the disappointment of slow results rather than active impediment to efforts." },
+        { "distractor": "impeded", "closeness": 3, "reasoning": "'Impeded' means obstructed or slowed, which fits, but it describes the slowing of progress itself rather than the disappointment or anger those people felt about the slow pace." },
+        { "distractor": "discouraged", "closeness": 2, "reasoning": "While 'discouraged' is related to frustration, it refers to loss of confidence or enthusiasm, whereas the sentence stresses thwarted expectations and delayed results." },
+        { "distractor": "disappointed", "closeness": 2, "reasoning": "Disappointment is adjacent to frustration but emphasizes letdown from unmet expectations rather than the active or ongoing thwarting that 'frustrated' implies." },
+        { "distractor": "stalled", "closeness": 2, "reasoning": "'Stalled' means stopped or delayed, which fits the slow pace, but it describes the condition of progress rather than the emotional state of those affected." },
+        { "distractor": "delayed", "closeness": 2, "reasoning": "While 'delayed' describes the slow pace, it refers to postponement rather than the deeper sense of efforts being defeated or stymied." },
+        { "distractor": "encouraged", "closeness": 1, "reasoning": "Those who had hoped for results would not be encouraged by slow change; this is the opposite emotional response to frustration." },
+        { "distractor": "accelerated", "closeness": 1, "reasoning": "The sentence describes a slow pace, contradicting any sense of acceleration." },
+        { "distractor": "expedited", "closeness": 1, "reasoning": "Expediting means speeding up, the opposite of the slow pace that is central to the sentence." }
+      ]
+    },
+    {
+      "sentence": "His plans to surprise her were frustrated by a miscommunication about their weekend schedule.",
+      "answerChoices": [
+        { "distractor": "ruined", "closeness": 3, "reasoning": "Though 'ruined' means destroyed or spoiled, the sentence shows only that the surprise was prevented by miscommunication, not that his plans or relationship were destroyed." },
+        { "distractor": "spoiled", "closeness": 3, "reasoning": "'Spoiled' can mean made useless or overindulged, which fits the surprise being spoiled, but it emphasizes total destruction rather than specific thwarting of one plan." },
+        { "distractor": "undermined", "closeness": 3, "reasoning": "'Undermined' means weakened or subverted, which could apply to plans being defeated, but it suggests gradual weakening rather than direct thwarting by a specific circumstance." },
+        { "distractor": "sabotaged", "closeness": 3, "reasoning": "'Sabotaged' implies deliberate destruction or obstruction, but the sentence shows accidental miscommunication rather than intentional interference." },
+        { "distractor": "complicated", "closeness": 2, "reasoning": "While miscommunication complicates matters, 'complicated' refers to making something complex rather than specifically preventing a plan from succeeding." },
+        { "distractor": "disrupted", "closeness": 2, "reasoning": "'Disrupted' means disturbed or interrupted, which fits the miscommunication, but it doesn't capture the specific sense of a plan being thwarted." },
+        { "distractor": "interfered", "closeness": 2, "reasoning": "The miscommunication interferes with his plans, but 'interfered' refers to external meddling rather than the outcome of being unable to execute a plan." },
+        { "distractor": "altered", "closeness": 2, "reasoning": "The miscommunication altered his plans, but 'altered' merely means changed, not necessarily defeated or thwarted." },
+        { "distractor": "enhanced", "closeness": 1, "reasoning": "The sentence shows a miscommunication preventing the surprise, not enhancing or improving anything." },
+        { "distractor": "improved", "closeness": 1, "reasoning": "A miscommunication that ruins a planned surprise would not improve his plans." },
+        { "distractor": "simplified", "closeness": 1, "reasoning": "A miscommunication complicates matters, not simplifies them." }
+      ]
+    },
+    {
+      "sentence": "The engineer's attempts to debug the system were frustrated at every turn, with each fix introducing a new problem.",
+      "answerChoices": [
+        { "distractor": "stymied", "closeness": 3, "reasoning": "Though 'stymied' means blocked or thwarted, it refers to being stuck without progress, while the sentence shows ongoing frustration with each attempted fix creating new obstacles." },
+        { "distractor": "confounded", "closeness": 3, "reasoning": "'Confounded' means confused or thwarted, which fits the engineer's situation, but it emphasizes confusion rather than the repeated cycle of attempted fixes failing." },
+        { "distractor": "foiled", "closeness": 3, "reasoning": "'Foiled' means prevented or thwarted, which fits each fix being undone by new problems, but it doesn't capture the ongoing, repetitive nature of the frustration." },
+        { "distractor": "defeated", "closeness": 3, "reasoning": "While 'defeated' means overcome or frustrated, it suggests total failure, whereas the sentence shows ongoing attempts and partial progress repeatedly undermined." },
+        { "distractor": "prolonged", "closeness": 2, "reasoning": "The debugging is prolonged by the cycle of new problems, but 'prolonged' refers to extended duration rather than the active thwarting of efforts." },
+        { "distractor": "protracted", "closeness": 2, "reasoning": "'Protracted' means drawn out or lengthy, which describes the debugging process, but it emphasizes length rather than the repeated obstacles preventing success." },
+        { "distractor": "exacerbated", "closeness": 2, "reasoning": "Each new problem exacerbates the situation, but 'exacerbated' means worsened, focusing on the worsening condition rather than efforts being thwarted." },
+        { "distractor": "aggravated", "closeness": 2, "reasoning": "'Aggravated' means made worse or irritated, which fits the engineer's emotional state, but the sentence emphasizes that his attempts themselves were defeated, not just the situation made worse." },
+        { "distractor": "resolved", "closeness": 1, "reasoning": "The sentence describes ongoing failed attempts to debug, not resolution of the problem." },
+        { "distractor": "fixed", "closeness": 1, "reasoning": "Though the engineer attempted fixes, the sentence shows each fix introducing new problems, so the system was not fixed." },
+        { "distractor": "solved", "closeness": 1, "reasoning": "The debugging problem was not solved; each attempted solution created new obstacles." }
+      ]
+    }
+  ]
+}

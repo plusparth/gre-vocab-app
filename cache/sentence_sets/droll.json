@@ -1,0 +1,53 @@
+{
+  "word": "droll",
+  "sentenceSets": [
+    {
+      "sentence": "Her droll commentary on the proceedings kept spirits up without distracting from the seriousness of the situation.",
+      "answerChoices": [
+        { "distractor": "witty", "closeness": 3, "reasoning": "Close -- 'witty' describes clever, quick humor, which is similar to droll commentary, but emphasizes sharp intellectual humor rather than the whimsical or oddly amusing quality." },
+        { "distractor": "amusing", "closeness": 3, "reasoning": "Close -- 'amusing' means entertaining or funny, which fits keeping spirits up, but is more straightforward in its humor; 'droll' carries the additional sense of oddness or quaintness." },
+        { "distractor": "ironic", "closeness": 3, "reasoning": "Close -- 'ironic' commentary can keep situations light and is sometimes amusing, but it emphasizes contradiction and the inversion of expectations rather than the whimsical tone of droll humor." },
+        { "distractor": "playful", "closeness": 3, "reasoning": "Close -- 'playful' describes a lighthearted, teasing tone that raises spirits, but emphasizes joking frivolity rather than the droll quality of oddly amusing observation." },
+        { "distractor": "clever", "closeness": 2, "reasoning": "Incorrect -- 'clever' describes intellectual sharpness, but does not necessarily convey the humor or amusement needed to keep spirits up during serious proceedings." },
+        { "distractor": "sarcastic", "closeness": 2, "reasoning": "Incorrect -- 'sarcastic' commentary uses mockery and irony, but it often bites or undermines; droll humor is gentler and more quirky." },
+        { "distractor": "satirical", "closeness": 2, "reasoning": "Incorrect -- 'satirical' commentary mocks institutions or ideas, but can be sharp or cutting; droll is oddly amusing without necessarily attacking targets." },
+        { "distractor": "pithy", "closeness": 2, "reasoning": "Incorrect -- 'pithy' means concise and forceful, but does not convey the sense of humor or amusement central to the context." },
+        { "distractor": "solemn", "closeness": 1, "reasoning": "Opposite -- 'solemn' means serious and dignified; the opposite of commentary that keeps spirits up through humor." },
+        { "distractor": "grave", "closeness": 1, "reasoning": "Opposite -- 'grave' means serious and weighty; directly opposed to keeping spirits up with lighthearted remarks." },
+        { "distractor": "tedious", "closeness": 1, "reasoning": "Opposite -- 'tedious' means boring or dull; the opposite of commentary that keeps spirits elevated." }
+      ]
+    },
+    {
+      "sentence": "The old comedian's droll observations about aging—delivered with a deadpan expression—drew knowing laughter from the audience.",
+      "answerChoices": [
+        { "distractor": "dry", "closeness": 3, "reasoning": "Close -- 'dry' humor is understated and delivered without apparent emotion, which fits the deadpan delivery, but 'dry' emphasizes restraint of expression rather than the specifically odd or whimsical quality of the humor." },
+        { "distractor": "wry", "closeness": 3, "reasoning": "Close -- 'wry' humor is mocking or ironic with a twist, which fits knowing laughter, but emphasizes satirical bite rather than the oddly amusing tone of droll observation." },
+        { "distractor": "pointed", "closeness": 3, "reasoning": "Close -- 'pointed' remarks are directed and cutting, which can draw laughter, but they emphasize deliberate targeting rather than the whimsical amusement of droll commentary." },
+        { "distractor": "pungent", "closeness": 3, "reasoning": "Close -- 'pungent' humor is sharp and biting, which draws knowing response, but emphasizes the sting rather than the oddly amusing quality." },
+        { "distractor": "acerbic", "closeness": 2, "reasoning": "Incorrect -- 'acerbic' means sharp and bitter in tone, but suggests negativity or hostility; droll humor is lighter and more quirky." },
+        { "distractor": "incisive", "closeness": 2, "reasoning": "Incorrect -- 'incisive' describes clear, sharp observation that cuts to the point, but does not convey the sense of oddly amusing quality." },
+        { "distractor": "pertinent", "closeness": 2, "reasoning": "Incorrect -- 'pertinent' means relevant and to the point, but does not address the humorous or amusing quality needed for drawing laughter." },
+        { "distractor": "sardonic", "closeness": 2, "reasoning": "Incorrect -- 'sardonic' emphasizes bitter, mocking humor, but droll is lighter and more whimsically odd than the harsh tone of sardonic remarks." },
+        { "distractor": "profound", "closeness": 1, "reasoning": "Opposite -- 'profound' means deeply wise or thoughtful; unlikely to describe oddly amusing observations about aging." },
+        { "distractor": "earnest", "closeness": 1, "reasoning": "Opposite -- 'earnest' means sincere and serious; wrong for humor delivered with a deadpan expression to draw knowing laughter." },
+        { "distractor": "mundane", "closeness": 1, "reasoning": "Opposite -- 'mundane' means ordinary and dull; opposite to observations that draw laughter from an audience." }
+      ]
+    },
+    {
+      "sentence": "The merchant's droll manner—an odd mix of elaborate courtesy and self-deprecating jokes—made even the most cautious customers feel at ease.",
+      "answerChoices": [
+        { "distractor": "eccentric", "closeness": 3, "reasoning": "Close -- 'eccentric' describes peculiar, unconventional behavior, which fits the odd mix described, but emphasizes strangeness rather than the specifically amusing or humorous quality." },
+        { "distractor": "quaint", "closeness": 3, "reasoning": "Close -- 'quaint' describes charmingly old-fashioned or curious, which fits an odd manner that puts customers at ease, but it emphasizes old-fashioned appeal rather than humor or amusement." },
+        { "distractor": "genial", "closeness": 3, "reasoning": "Close -- 'genial' means friendly and cordial, which fits putting customers at ease, but it emphasizes warmth rather than the oddly amusing quality or the self-deprecation." },
+        { "distractor": "convivial", "closeness": 3, "reasoning": "Close -- 'convivial' describes a friendly, social atmosphere, which fits the ease customers feel, but emphasizes the social warmth rather than the droll, oddly amusing behavior." },
+        { "distractor": "affected", "closeness": 2, "reasoning": "Incorrect -- 'affected' means artificial or pretentious, but suggests fakeness; droll manner charms despite its oddity, not through artifice." },
+        { "distractor": "pedantic", "closeness": 2, "reasoning": "Incorrect -- 'pedantic' describes overly formal attention to rules or details, but does not convey the amusing or warmth-building quality." },
+        { "distractor": "ceremonious", "closeness": 2, "reasoning": "Incorrect -- 'ceremonious' means stiffly formal, which might describe elaborate courtesy but lacks the humor and amusement that puts customers at ease." },
+        { "distractor": "verbose", "closeness": 2, "reasoning": "Incorrect -- 'verbose' means using more words than necessary, but does not address the amusing or charming quality that eases customers' caution." },
+        { "distractor": "brusque", "closeness": 1, "reasoning": "Opposite -- 'brusque' means abrupt and curt; opposite to a manner that makes cautious customers feel at ease." },
+        { "distractor": "standoffish", "closeness": 1, "reasoning": "Opposite -- 'standoffish' means aloof and distant; wrong for a manner that creates comfort and puts customers at ease." },
+        { "distractor": "austere", "closeness": 1, "reasoning": "Opposite -- 'austere' means stern and forbidding; the opposite of a manner that disarms cautious customers." }
+      ]
+    }
+  ]
+}

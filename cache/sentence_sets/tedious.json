@@ -1,0 +1,53 @@
+{
+  "word": "tedious",
+  "sentenceSets": [
+    {
+      "sentence": "The tedious process of verification was the least glamorous part of the work and the part that made every other part valid.",
+      "answerChoices": [
+        { "distractor": "exciting", "closeness": 3, "reasoning": "Exciting means thrilling or stimulating interest; the sentence shows a process that was 'least glamorous,' the opposite of exciting." },
+        { "distractor": "riveting", "closeness": 3, "reasoning": "Riveting means holding attention, capturing interest; the sentence describes a process characterized by lack of glamour." },
+        { "distractor": "complex", "closeness": 3, "reasoning": "Complex means intricate but does not convey the sense of boring or tiresome; the sentence emphasizes dullness and lack of glamour." },
+        { "distractor": "critical", "closeness": 3, "reasoning": "Critical means vital or important but does not convey tediousness; the sentence shows importance alongside boredom." },
+        { "distractor": "thorough", "closeness": 2, "reasoning": "Thorough means careful and complete but does not necessarily describe something as boring or dull." },
+        { "distractor": "meticulous", "closeness": 2, "reasoning": "Meticulous means careful about details but not necessarily tedious; a meticulous process could be interesting." },
+        { "distractor": "repetitive", "closeness": 2, "reasoning": "Repetitive means recurring patterns but does not necessarily convey boredom; tedious adds the tiresome quality." },
+        { "distractor": "lengthy", "closeness": 2, "reasoning": "Lengthy means long but does not necessarily indicate boredom; long processes can be engaging." },
+        { "distractor": "straightforward", "closeness": 1, "reasoning": "Straightforward means simple and clear; tedious processes are typically complex and difficult to get through." },
+        { "distractor": "optional", "closeness": 1, "reasoning": "Optional means not required; the sentence shows the process was essential for validity, not optional." },
+        { "distractor": "superficial", "closeness": 1, "reasoning": "Superficial means shallow or not thorough; the sentence describes the process as the most important for making work valid." }
+      ]
+    },
+    {
+      "sentence": "Students groaned at the tedious homework assignment—forty grammar exercises that all followed the same pattern, requiring patience rather than innovation.",
+      "answerChoices": [
+        { "distractor": "stimulating", "closeness": 3, "reasoning": "Stimulating means engaging the mind interestingly; the sentence shows students groaning and exercises that follow the same pattern monotonously." },
+        { "distractor": "engaging", "closeness": 3, "reasoning": "Engaging means holding attention and interest; the sentence shows exercises that follow the same pattern without innovation." },
+        { "distractor": "challenging", "closeness": 3, "reasoning": "Challenging means difficult but stimulating; the sentence shows exercises requiring patience, not creative challenge." },
+        { "distractor": "worthwhile", "closeness": 3, "reasoning": "Worthwhile means valuable or rewarding but does not address boredom; the sentence emphasizes student complaint ('groaned')." },
+        { "distractor": "brief", "closeness": 2, "reasoning": "Brief means short but the sentence emphasizes pattern and repetition as tiresome, not length." },
+        { "distractor": "optional", "closeness": 2, "reasoning": "Optional means voluntary but does not address the tiresome quality; the sentence shows required homework." },
+        { "distractor": "reasonable", "closeness": 2, "reasoning": "Reasonable means fair or moderate but does not convey tedium; the sentence emphasizes monotonous repetition." },
+        { "distractor": "productive", "closeness": 2, "reasoning": "Productive means effective but does not address the boring quality; the sentence emphasizes student complaint." },
+        { "distractor": "novel", "closeness": 1, "reasoning": "Novel means new or original; the sentence emphasizes all exercises following the same pattern, lacking novelty." },
+        { "distractor": "fun", "closeness": 1, "reasoning": "Fun means enjoyable; the sentence shows students groaning in reaction to the exercises." },
+        { "distractor": "essential", "closeness": 1, "reasoning": "Essential means necessary but does not address tediousness; the sentence emphasizes the boring quality despite necessity." }
+      ]
+    },
+    {
+      "sentence": "The detective's investigation required tedious scrutiny of thousands of financial records, following every number through a labyrinth of transactions before patterns emerged.",
+      "answerChoices": [
+        { "distractor": "cursory", "closeness": 3, "reasoning": "Cursory means hasty and superficial; the sentence shows thorough scrutiny following every number, opposite of cursory." },
+        { "distractor": "rapid", "closeness": 3, "reasoning": "Rapid means fast; the sentence shows a slow, detailed process following every number through a labyrinth." },
+        { "distractor": "intuitive", "closeness": 3, "reasoning": "Intuitive means based on feeling or instinct; the sentence shows systematic scrutiny of records, not intuitive leaps." },
+        { "distractor": "straightforward", "closeness": 3, "reasoning": "Straightforward means simple and direct; the sentence describes a labyrinthine process requiring careful following." },
+        { "distractor": "superficial", "closeness": 2, "reasoning": "Superficial means shallow but the sentence emphasizes systematic scrutiny through thousands of records." },
+        { "distractor": "abstract", "closeness": 2, "reasoning": "Abstract means theoretical but the sentence emphasizes concrete examination of actual financial records." },
+        { "distractor": "theoretical", "closeness": 2, "reasoning": "Theoretical means concerned with ideas but the sentence shows practical scrutiny of actual records." },
+        { "distractor": "speculative", "closeness": 2, "reasoning": "Speculative means based on guessing but the sentence shows systematic following of numbers." },
+        { "distractor": "effortless", "closeness": 1, "reasoning": "Effortless means requiring no effort; the sentence describes work requiring careful attention through a labyrinth of transactions." },
+        { "distractor": "mysterious", "closeness": 1, "reasoning": "Mysterious means puzzling or hard to understand; the sentence shows a systematic process that eventually reveals patterns." },
+        { "distractor": "creative", "closeness": 1, "reasoning": "Creative means involving invention; the sentence describes methodical examination of existing records, not creation." }
+      ]
+    }
+  ]
+}

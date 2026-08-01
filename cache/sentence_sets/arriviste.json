@@ -1,0 +1,53 @@
+{
+  "word": "arriviste",
+  "sentenceSets": [
+    {
+      "sentence": "The old guard dismissed her as an arriviste, uncomfortable with how quickly she had risen to prominence.",
+      "answerChoices": [
+        { "distractor": "upstart", "closeness": 3, "reasoning": "'Upstart' describes someone suddenly raised to higher status; while both describe rapid ascent, 'arriviste' emphasizes uncertainty about the person's legitimacy and staying power." },
+        { "distractor": "parvenu", "closeness": 3, "reasoning": "'Parvenu' is a near-synonym, but it emphasizes acquisition of wealth and status more than uncertain arrival; arriviste stresses the uncertainty and newness." },
+        { "distractor": "newcomer", "closeness": 3, "reasoning": "'Newcomer' means someone recently arrived; while she is new, the sentence emphasizes the old guard's judgment that she is an unestablished, uncertain arrival in a position of influence." },
+        { "distractor": "outsider", "closeness": 3, "reasoning": "'Outsider' describes someone not belonging to a group; while she is an outsider, the sentence emphasizes rapid rise specifically, not just exclusion." },
+        { "distractor": "novice", "closeness": 2, "reasoning": "'Novice' means someone new to an activity; while she is new, the sentence emphasizes her rapid rise to prominence, not just inexperience." },
+        { "distractor": "interloper", "closeness": 2, "reasoning": "'Interloper' means someone who intrudes; while she may be seen as intruding, the sentence emphasizes her rapid rise, not illegal or improper entry." },
+        { "distractor": "rival", "closeness": 2, "reasoning": "'Rival' means a competitor; she is a rival to the old guard, but the sentence emphasizes her status as a new, uncertain arrival." },
+        { "distractor": "pretender", "closeness": 2, "reasoning": "'Pretender' means someone falsely claiming status; while the old guard doubts her legitimacy, the sentence doesn't claim she is fraudulent, just new and uncertain." },
+        { "distractor": "establishment", "closeness": 1, "reasoning": "Establishment means the existing powerful group; she is the opposite—a new arrival challenging the established order." },
+        { "distractor": "veteran", "closeness": 1, "reasoning": "Veteran means someone long-established or experienced; she is new and rapidly risen, the opposite of a veteran." },
+        { "distractor": "insider", "closeness": 1, "reasoning": "Insider means a member of the inner group; the sentence shows she is excluded or viewed with suspicion, the opposite of an insider." }
+      ]
+    },
+    {
+      "sentence": "The gallery's director regarded the young painter as a mere arriviste, doubting his staying power in the competitive art scene and questioning whether his current success was genuine talent or fashionable hype.",
+      "answerChoices": [
+        { "distractor": "upstart", "closeness": 3, "reasoning": "'Upstart' describes someone suddenly raised to higher status; both terms describe rapid ascent, but 'arriviste' emphasizes the uncertainty about whether the person truly belongs or will last." },
+        { "distractor": "newcomer", "closeness": 3, "reasoning": "'Newcomer' means someone recently arrived; while he is new, the sentence emphasizes the director's doubt about his legitimacy as an artist, not just newness." },
+        { "distractor": "novice", "closeness": 3, "reasoning": "'Novice' means inexperienced; while he may be inexperienced, the sentence emphasizes doubt about his staying power and whether his talent is real." },
+        { "distractor": "charlatan", "closeness": 3, "reasoning": "'Charlatan' means a fraudulent pretender; while the director questions his authenticity, the sentence doesn't assert he is deliberately deceptive—just possibly lucky or fashionable." },
+        { "distractor": "impostor", "closeness": 2, "reasoning": "'Impostor' means someone falsely claiming to be someone else; while the director is skeptical, the sentence doesn't claim he is deliberately fraudulent." },
+        { "distractor": "pretender", "closeness": 2, "reasoning": "'Pretender' means someone falsely claiming status; the sentence questions whether his talent is genuine, but doesn't assert intentional deception." },
+        { "distractor": "contender", "closeness": 2, "reasoning": "'Contender' means a competitor; while he is competing, the sentence emphasizes the director's skepticism about his legitimacy and permanence." },
+        { "distractor": "phenom", "closeness": 2, "reasoning": "'Phenom' describes a remarkably talented person; while he is talented (according to some), the director doubts whether his talent is real." },
+        { "distractor": "master", "closeness": 1, "reasoning": "Master means someone highly skilled; the sentence shows the director doubting his genuine talent and permanence, opposite to mastery." },
+        { "distractor": "veteran", "closeness": 1, "reasoning": "Veteran means someone long-established; the sentence emphasizes his newness and uncertain staying power." },
+        { "distractor": "institution", "closeness": 1, "reasoning": "Institution means something long-established and permanent; it contradicts the sentence's emphasis on his uncertain staying power." }
+      ]
+    },
+    {
+      "sentence": "After the executive was promoted from sales, the longtime managers treated him as an arriviste, skeptical that someone without experience in their division could truly understand their department's culture.",
+      "answerChoices": [
+        { "distractor": "interloper", "closeness": 3, "reasoning": "'Interloper' means someone who intrudes where not wanted; while the managers see him as intruding, the sentence emphasizes his uncertain status as a new arrival from outside." },
+        { "distractor": "outsider", "closeness": 3, "reasoning": "'Outsider' describes someone not belonging to a group; while he is an outsider, the sentence emphasizes his new arrival status in a position of authority." },
+        { "distractor": "upstart", "closeness": 3, "reasoning": "'Upstart' describes someone suddenly raised to higher status; both terms describe rapid rise, but 'arriviste' emphasizes the uncertain arrival from outside." },
+        { "distractor": "novice", "closeness": 3, "reasoning": "'Novice' means inexperienced; while he is inexperienced in their division, the sentence emphasizes the managers' skepticism about his belonging, not just lack of experience." },
+        { "distractor": "newcomer", "closeness": 2, "reasoning": "'Newcomer' means someone recently arrived; while he is new to the division, the sentence emphasizes the managers' judgment that he is an uncertain, external arrival." },
+        { "distractor": "rival", "closeness": 2, "reasoning": "'Rival' means a competitor; he may be seen as a rival, but the sentence emphasizes his status as an outsider brought in." },
+        { "distractor": "pretender", "closeness": 2, "reasoning": "'Pretender' means someone falsely claiming status; while the managers doubt his legitimacy, the sentence doesn't assert fraud—just external origin." },
+        { "distractor": "appointee", "closeness": 2, "reasoning": "'Appointee' means someone officially assigned to a position; while he was appointed, the sentence emphasizes the managers' skepticism about his belonging." },
+        { "distractor": "insider", "closeness": 1, "reasoning": "Insider means a member of the inner group; the sentence shows he is treated as an external arrival, the opposite of an insider." },
+        { "distractor": "lifer", "closeness": 1, "reasoning": "Lifer means someone long-established in a role; he is new to the division, the opposite of a lifer." },
+        { "distractor": "establishment", "closeness": 1, "reasoning": "Establishment means the existing powerful structure; he is external to it, brought in from outside." }
+      ]
+    }
+  ]
+}

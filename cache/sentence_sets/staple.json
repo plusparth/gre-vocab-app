@@ -1,0 +1,185 @@
+{
+  "word": "staple",
+  "sentenceSets": [
+    {
+      "sentence": "She loaded staples into the office stapler.",
+      "answerChoices": [
+        {
+          "distractor": "fasteners",
+          "closeness": 3,
+          "reasoning": "Fasteners are devices for joining things, but the sentence indicates small *U-shaped metal fasteners*, not general fastening devices."
+        },
+        {
+          "distractor": "nails",
+          "closeness": 3,
+          "reasoning": "Nails are pointed fasteners, but staples are U-shaped and designed for paper, not driven in like nails."
+        },
+        {
+          "distractor": "clips",
+          "closeness": 3,
+          "reasoning": "Clips are fastening devices, but staples are small metal U-shaped fasteners designed for staplers."
+        },
+        {
+          "distractor": "pins",
+          "closeness": 3,
+          "reasoning": "Pins are pointed fasteners, but staples are U-shaped and specifically designed for joining paper."
+        },
+        {
+          "distractor": "bolts",
+          "closeness": 2,
+          "reasoning": "Bolts are large fastening devices, but staples are small U-shaped fasteners for paper."
+        },
+        {
+          "distractor": "rivets",
+          "closeness": 2,
+          "reasoning": "Rivets are fasteners, but they are much larger and more permanent than the small staples used in a stapler."
+        },
+        {
+          "distractor": "clasps",
+          "closeness": 2,
+          "reasoning": "Clasps are fastening devices, but they are typically larger and reusable, unlike staples."
+        },
+        {
+          "distractor": "ties",
+          "closeness": 2,
+          "reasoning": "Ties can fasten things, but staples are small metal U-shaped fasteners, not flexible ties."
+        },
+        {
+          "distractor": "glue",
+          "closeness": 1,
+          "reasoning": "Glue is a liquid adhesive; staples are small metal U-shaped fasteners."
+        },
+        {
+          "distractor": "tape",
+          "closeness": 1,
+          "reasoning": "Tape is an adhesive strip; staples are metal fasteners that puncture and join paper."
+        },
+        {
+          "distractor": "thread",
+          "closeness": 1,
+          "reasoning": "Thread is a thin strand used for sewing; staples are metal U-shaped fasteners."
+        }
+      ]
+    },
+    {
+      "sentence": "Rice is a staple of the diet in many Asian countries.",
+      "answerChoices": [
+        {
+          "distractor": "ingredient",
+          "closeness": 3,
+          "reasoning": "Ingredient means a component, but the sentence indicates a *basic food*, not merely an ingredient."
+        },
+        {
+          "distractor": "food",
+          "closeness": 3,
+          "reasoning": "Food is a general category, but the sentence indicates a *principal or essential* food in the diet."
+        },
+        {
+          "distractor": "commodity",
+          "closeness": 3,
+          "reasoning": "Commodity means a traded good, but the sentence indicates a *dietary staple*, not a trade good."
+        },
+        {
+          "distractor": "crop",
+          "closeness": 3,
+          "reasoning": "Crop means something grown, but the sentence indicates a *dietary staple*, not merely a grown product."
+        },
+        {
+          "distractor": "grain",
+          "closeness": 2,
+          "reasoning": "Grain describes the type of food, but staple indicates its *essential* role in the diet."
+        },
+        {
+          "distractor": "product",
+          "closeness": 2,
+          "reasoning": "Product is a general term for something made or produced, but staple indicates essential use."
+        },
+        {
+          "distractor": "export",
+          "closeness": 2,
+          "reasoning": "Export means something sold abroad, but the sentence indicates rice's role in the *domestic* diet."
+        },
+        {
+          "distractor": "necessity",
+          "closeness": 2,
+          "reasoning": "Necessity means something essential, but staple specifically means a basic foodstuff."
+        },
+        {
+          "distractor": "luxury",
+          "closeness": 1,
+          "reasoning": "Luxury indicates something non-essential and expensive; the opposite of a dietary staple."
+        },
+        {
+          "distractor": "delicacy",
+          "closeness": 1,
+          "reasoning": "Delicacy suggests something rare or special; the opposite of a staple that is common and essential."
+        },
+        {
+          "distractor": "rarity",
+          "closeness": 1,
+          "reasoning": "Rarity indicates something uncommon; the opposite of a staple that is basic and prevalent."
+        }
+      ]
+    },
+    {
+      "sentence": "Cotton was a staple export for the region's economy.",
+      "answerChoices": [
+        {
+          "distractor": "principal",
+          "closeness": 3,
+          "reasoning": "Principal means primary or main, but the sentence indicates cotton was *essential*, not merely primary."
+        },
+        {
+          "distractor": "commodity",
+          "closeness": 3,
+          "reasoning": "Commodity means a traded good, but the sentence indicates cotton was *essential* to the economy."
+        },
+        {
+          "distractor": "product",
+          "closeness": 3,
+          "reasoning": "Product means something made or produced, but the sentence indicates cotton was a *fundamental* export."
+        },
+        {
+          "distractor": "good",
+          "closeness": 3,
+          "reasoning": "Good is a general term for tradeable items, but staple indicates something *essential and basic*."
+        },
+        {
+          "distractor": "resource",
+          "closeness": 2,
+          "reasoning": "Resource indicates something available for use, but staple emphasizes its *essential* role."
+        },
+        {
+          "distractor": "material",
+          "closeness": 2,
+          "reasoning": "Material indicates substance or matter, but staple emphasizes its *essential* role in trade."
+        },
+        {
+          "distractor": "article",
+          "closeness": 2,
+          "reasoning": "Article means an item or thing, but staple indicates something *essential and fundamental*."
+        },
+        {
+          "distractor": "merchandise",
+          "closeness": 2,
+          "reasoning": "Merchandise means goods for trade, but staple emphasizes cotton's *essential* role."
+        },
+        {
+          "distractor": "luxury",
+          "closeness": 1,
+          "reasoning": "Luxury indicates non-essential expensive goods; the opposite of a staple export."
+        },
+        {
+          "distractor": "rare",
+          "closeness": 1,
+          "reasoning": "Rare indicates uncommon items; the opposite of a staple that is essential and fundamental."
+        },
+        {
+          "distractor": "novelty",
+          "closeness": 1,
+          "reasoning": "Novelty indicates something new and unusual; the opposite of a staple that is basic and established."
+        }
+      ]
+    }
+  ]
+}

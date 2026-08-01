@@ -1,0 +1,53 @@
+{
+  "word": "astute",
+  "sentenceSets": [
+    {
+      "sentence": "The astute investor saw through the hype and avoided the company whose stock subsequently crashed.",
+      "answerChoices": [
+        { "distractor": "skeptical", "closeness": 3, "reasoning": "Both describe wariness of claims, but 'skeptical' emphasizes doubt, whereas 'astute' emphasizes the ability to perceive the truth beneath hype." },
+        { "distractor": "perceptive", "closeness": 3, "reasoning": "Both suggest keen observation, but 'perceptive' is broader—noticing details—while 'astute' combines perception with judgment to avoid harm." },
+        { "distractor": "shrewd", "closeness": 3, "reasoning": "Both describe sharp judgment in practical matters, but 'shrewd' often implies self-interest and cunning, while 'astute' emphasizes clarity and understanding." },
+        { "distractor": "prudent", "closeness": 3, "reasoning": "Both describe wise caution, but 'prudent' emphasizes careful judgment, whereas 'astute' emphasizes the sharp perception that enables avoidance." },
+        { "distractor": "cautious", "closeness": 2, "reasoning": "The investor was cautious, but 'cautious' describes the approach taken, not the intellectual sharpness that identified the hype." },
+        { "distractor": "analytical", "closeness": 2, "reasoning": "Breaking down the company's claims requires analysis, but 'analytical' describes method, not the shrewd understanding that exposed false hype." },
+        { "distractor": "experienced", "closeness": 2, "reasoning": "Experience might have guided the decision, but 'experienced' describes background, not the current intellectual sharpness." },
+        { "distractor": "informed", "closeness": 2, "reasoning": "The investor was clearly informed or well-researched, but 'informed' describes knowledge base, not the keen perception." },
+        { "distractor": "reckless", "closeness": 1, "reasoning": "The opposite approach; 'astute' led to avoidance of risk, whereas 'reckless' would have led to investment despite red flags." },
+        { "distractor": "naive", "closeness": 1, "reasoning": "The opposite trait; a naive investor would fall for hype, whereas an 'astute' one sees through it." },
+        { "distractor": "impulsive", "closeness": 1, "reasoning": "The investor's careful avoidance of the hype suggests the opposite of impulsive decision-making." }
+      ]
+    },
+    {
+      "sentence": "The detective's astute observation of the suspect's hesitation when asked about his alibi proved crucial to solving the case.",
+      "answerChoices": [
+        { "distractor": "keen", "closeness": 3, "reasoning": "Both describe sharp perception, but 'keen' is broader—fine in general—whereas 'astute' combines keen observation with the judgment to recognize its significance." },
+        { "distractor": "careful", "closeness": 3, "reasoning": "The detective was careful in observation, but 'careful' describes method, not the sharp, insightful nature of noticing the hesitation." },
+        { "distractor": "thorough", "closeness": 3, "reasoning": "Implies comprehensive examination, but the sentence highlights one critical observation, not exhaustive investigation." },
+        { "distractor": "vigilant", "closeness": 3, "reasoning": "Both describe attentive monitoring, but 'vigilant' emphasizes watchfulness, whereas 'astute' emphasizes the intelligent interpretation of what is observed." },
+        { "distractor": "meticulous", "closeness": 2, "reasoning": "The detective was precise, but 'meticulous' refers to painstaking attention to detail, not the shrewd insight into the suspect's deception." },
+        { "distractor": "skeptical", "closeness": 2, "reasoning": "The detective doubted the alibi, but 'skeptical' describes the mindset of doubt, not the sharp perceptiveness of noticing hesitation." },
+        { "distractor": "persistent", "closeness": 2, "reasoning": "Solving the case required persistence, but this describes determination, not the specific intellectual sharpness of the observation." },
+        { "distractor": "intuitive", "closeness": 2, "reasoning": "The detective's insight felt like intuition, but 'intuitive' suggests gut feeling rather than the mental sharpness of 'astute' perception." },
+        { "distractor": "hasty", "closeness": 1, "reasoning": "The opposite approach; an 'astute' observation requires time and attention, not the rush of a hasty conclusion." },
+        { "distractor": "confused", "closeness": 1, "reasoning": "The detective clearly understood the significance of the hesitation, the opposite of being confused." },
+        { "distractor": "superficial", "closeness": 1, "reasoning": "The opposite quality; the observation went deep enough to prove crucial, not superficial." }
+      ]
+    },
+    {
+      "sentence": "With an astute ear for language, the linguist could identify regional dialects from just a few spoken phrases.",
+      "answerChoices": [
+        { "distractor": "sensitive", "closeness": 3, "reasoning": "Both describe heightened perception, but 'sensitive' can imply emotional reactivity, whereas 'astute' emphasizes intellectual sharpness in distinguishing patterns." },
+        { "distractor": "trained", "closeness": 3, "reasoning": "The linguist's skill came from training, but 'trained' describes acquisition of ability, not the present sharpness of perception." },
+        { "distractor": "practiced", "closeness": 3, "reasoning": "Experience developed the skill, but 'practiced' refers to repetition and experience, not the present keen discernment." },
+        { "distractor": "refined", "closeness": 3, "reasoning": "The ear was refined through study, but 'refined' suggests elegance or sophistication, not the practical sharpness of identifying dialects." },
+        { "distractor": "attentive", "closeness": 2, "reasoning": "The linguist paid close attention, but 'attentive' describes focus, not the specific intellectual sharpness to discern subtle dialect markers." },
+        { "distractor": "analytical", "closeness": 2, "reasoning": "Identifying dialects requires analysis, but 'analytical' describes the method of thinking, not the keenness of perception." },
+        { "distractor": "educated", "closeness": 2, "reasoning": "The linguist is educated in language, but this describes background knowledge, not the sharp perception." },
+        { "distractor": "experienced", "closeness": 2, "reasoning": "Years studying languages builds experience, but 'experienced' refers to accumulated background, not present perceptive sharpness." },
+        { "distractor": "tone-deaf", "closeness": 1, "reasoning": "The opposite trait; 'astute' means recognizing subtle nuances, while 'tone-deaf' means missing them entirely." },
+        { "distractor": "careless", "closeness": 1, "reasoning": "Identifying dialects from minimal clues requires opposite of carelessness; 'astute' requires precision." },
+        { "distractor": "untrained", "closeness": 1, "reasoning": "An untrained ear cannot identify regional dialects from phrases, contradicting the ability shown in the sentence." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "begrudge",
+  "sentenceSets": [
+    {
+      "sentence": "He begrudged every minute spent on administrative tasks that kept him from actual research.",
+      "answerChoices": [
+        { "distractor": "resent", "closeness": 3, "reasoning": "Both describe disliking something, but resent emphasizes bitter anger, while begrudge emphasizes reluctant acceptance with displeasure." },
+        { "distractor": "grudge", "closeness": 3, "reasoning": "Both describe withholding or giving reluctantly, but grudge emphasizes holding bitter feelings, while begrudge emphasizes reluctant concession." },
+        { "distractor": "regret", "closeness": 3, "reasoning": "Both involve unhappiness, but regret emphasizes wishing something had not happened, while begrudge emphasizes reluctant acceptance." },
+        { "distractor": "envy", "closeness": 3, "reasoning": "Both involve negative feelings about giving or having something, but envy emphasizes wanting what others have, while begrudge emphasizes reluctant concession." },
+        { "distractor": "dislike", "closeness": 2, "reasoning": "He dislikes the administrative tasks, but dislike is too general and doesn't capture the reluctant giving aspect." },
+        { "distractor": "deplore", "closeness": 2, "reasoning": "He may deplore the situation, but deplore emphasizes strong disapproval, not reluctant concession." },
+        { "distractor": "lament", "closeness": 2, "reasoning": "He laments the time spent, but lament emphasizes expressing sorrow, not reluctant concession." },
+        { "distractor": "object", "closeness": 2, "reasoning": "He may object to the tasks, but object emphasizes expressing opposition, not reluctant giving." },
+        { "distractor": "appreciate", "closeness": 1, "reasoning": "He begrudges the time spent; appreciate means valuing something positively." },
+        { "distractor": "welcome", "closeness": 1, "reasoning": "He begrudges administrative tasks; welcome means greeting with pleasure." },
+        { "distractor": "embrace", "closeness": 1, "reasoning": "He begrudges the time; embrace means accepting willingly." }
+      ]
+    },
+    {
+      "sentence": "The wealthy businessman begrudged donations to charity, making only the minimum required by law to maintain his tax status.",
+      "answerChoices": [
+        { "distractor": "withhold", "closeness": 3, "reasoning": "Both involve giving reluctantly, but withhold emphasizes refusing to give, while begrudge emphasizes giving reluctantly with displeasure." },
+        { "distractor": "grudge", "closeness": 3, "reasoning": "Both describe reluctant giving, but grudge emphasizes holding ill will, while begrudge emphasizes the reluctant concession." },
+        { "distractor": "stint", "closeness": 3, "reasoning": "Both describe limiting generosity, but stint emphasizes restricting the amount, while begrudge emphasizes reluctant concession." },
+        { "distractor": "resent", "closeness": 3, "reasoning": "Both express displeasure with giving, but resent emphasizes bitter anger, while begrudge emphasizes reluctant acceptance." },
+        { "distractor": "minimize", "closeness": 2, "reasoning": "He minimizes his donations, but minimize means making small, not specifically begrudging." },
+        { "distractor": "restrict", "closeness": 2, "reasoning": "He restricts donations, but restrict means limiting, while begrudge emphasizes reluctant giving." },
+        { "distractor": "defer", "closeness": 2, "reasoning": "He may defer generosity, but defer means postponing, not begrudging." },
+        { "distractor": "avoid", "closeness": 2, "reasoning": "He may try to avoid donations, but avoid means staying away from, not reluctant giving." },
+        { "distractor": "lavish", "closeness": 1, "reasoning": "He begrudges donations; lavish means spending generously." },
+        { "distractor": "bestow", "closeness": 1, "reasoning": "He begrudges donations; bestow means giving graciously." },
+        { "distractor": "bequeath", "closeness": 1, "reasoning": "He begrudges donations; bequeath means leaving in a will willingly." }
+      ]
+    },
+    {
+      "sentence": "Though she could afford the tuition, the mother begrudged every payment while insisting her son pursue a better career path.",
+      "answerChoices": [
+        { "distractor": "resent", "closeness": 3, "reasoning": "Both involve displeasure with giving, but resent emphasizes bitter resentment, while begrudge emphasizes reluctant concession." },
+        { "distractor": "grudge", "closeness": 3, "reasoning": "Both describe reluctant giving, but grudge emphasizes holding ill will, while begrudge emphasizes reluctant acceptance." },
+        { "distractor": "deplore", "closeness": 3, "reasoning": "Both express disapproval, but deplore emphasizes strong disapproval, while begrudge emphasizes reluctant concession." },
+        { "distractor": "object", "closeness": 3, "reasoning": "Both express disapproval with giving, but object means expressing opposition, while begrudge means reluctant concession." },
+        { "distractor": "question", "closeness": 2, "reasoning": "She may question the choice, but question emphasizes doubt, not reluctant giving." },
+        { "distractor": "doubt", "closeness": 2, "reasoning": "She may doubt the wisdom, but doubt emphasizes skepticism, not reluctant giving." },
+        { "distractor": "criticize", "closeness": 2, "reasoning": "She criticizes through insisting on a better path, but criticize emphasizes finding fault, not reluctant concession." },
+        { "distractor": "disapprove", "closeness": 2, "reasoning": "She disapproves, but disapprove emphasizes withholding approval, while begrudge emphasizes reluctant giving." },
+        { "distractor": "celebrate", "closeness": 1, "reasoning": "She begrudges payments; celebrate means rejoicing about." },
+        { "distractor": "encourage", "closeness": 1, "reasoning": "She begrudges while pushing for better; encourage means supporting happily." },
+        { "distractor": "support", "closeness": 1, "reasoning": "She begrudges the tuition; support means backing willingly." }
+      ]
+    }
+  ]
+}

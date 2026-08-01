@@ -1,0 +1,53 @@
+{
+  "word": "treatise",
+  "sentenceSets": [
+    {
+      "sentence": "The treatise was dense and required patience, but it answered questions that no shorter work had even properly posed.",
+      "answerChoices": [
+        { "distractor": "tome", "closeness": 3, "reasoning": "A tome is a large, weighty book, fitting a dense work; however, 'tome' refers to size and weight, while 'treatise' refers to systematic methodical exposition." },
+        { "distractor": "dissertation", "closeness": 3, "reasoning": "A dissertation is a methodical scholarly work, fitting the systematic exposition described; 'dissertation' is so close that it could trap someone, though 'dissertation' often refers to university theses while 'treatise' is broader." },
+        { "distractor": "monograph", "closeness": 3, "reasoning": "A monograph is a detailed study of a single subject, fitting the systematic approach; however, 'monograph' emphasizes focus on one subject, while 'treatise' emphasizes comprehensive methodical discussion." },
+        { "distractor": "exposition", "closeness": 3, "reasoning": "An exposition is a systematic explanation, fitting the methodical discussion described; the distinction is that 'exposition' is more about explanation, while 'treatise' emphasizes the written work itself." },
+        { "distractor": "manuscript", "closeness": 2, "reasoning": "A manuscript is written text, fitting the work described; however, 'manuscript' refers to the physical form, not the systematic methodical nature." },
+        { "distractor": "essay", "closeness": 2, "reasoning": "An essay is a short written composition, fitting a work that answers questions; however, the sentence emphasizes density and comprehensiveness, while essays are usually shorter and more concise." },
+        { "distractor": "composition", "closeness": 2, "reasoning": "'Composition' means a written work; however, it's too general and doesn't capture the systematic methodical character." },
+        { "distractor": "work", "closeness": 2, "reasoning": "'Work' is a general term for any created thing; while it fits, it's too vague to capture the specific systematic nature." },
+        { "distractor": "fiction", "closeness": 1, "reasoning": "'Fiction' means imaginative narrative; the sentence describes a systematic exposition answering questions, which is non-fiction." },
+        { "distractor": "story", "closeness": 1, "reasoning": "'Story' is a narrative account; the sentence describes a systematic methodical exposition, which is different from narrative." },
+        { "distractor": "anecdote", "closeness": 1, "reasoning": "An anecdote is a brief amusing or interesting story; the sentence describes a dense systematic work answering profound questions, opposite to a brief anecdote." }
+      ]
+    },
+    {
+      "sentence": "His treatise on the nature of consciousness examined every philosophical objection and built a comprehensive argument from first principles.",
+      "answerChoices": [
+        { "distractor": "dissertation", "closeness": 3, "reasoning": "A dissertation is a methodical scholarly work on a subject, fitting the comprehensive argument on consciousness; however, 'dissertation' often implies a university thesis, while 'treatise' is broader." },
+        { "distractor": "monograph", "closeness": 3, "reasoning": "A monograph is a detailed study of one subject, fitting a work focused on consciousness; 'monograph' is so close that it could trap someone." },
+        { "distractor": "thesis", "closeness": 3, "reasoning": "A thesis is a statement or theory proposed to be proved, fitting the comprehensive argument built from principles; however, 'thesis' emphasizes the central claim, while 'treatise' emphasizes the systematic exposition." },
+        { "distractor": "argument", "closeness": 3, "reasoning": "An argument is a set of reasons or statements offered for persuasion, fitting the work built from first principles; however, 'argument' is the content, while 'treatise' is the written work itself." },
+        { "distractor": "essay", "closeness": 2, "reasoning": "An essay is a short written composition, fitting a philosophical work; however, the sentence emphasizes comprehensiveness and examination of every objection, suggesting something longer than a typical essay." },
+        { "distractor": "lecture", "closeness": 2, "reasoning": "A lecture is a formal presentation on a subject, fitting the methodical examination of consciousness; however, 'lecture' is usually oral, not written." },
+        { "distractor": "paper", "closeness": 2, "reasoning": "'Paper' can mean a scholarly work, fitting a philosophical examination; however, it's too informal and doesn't capture the comprehensiveness of a treatise." },
+        { "distractor": "analysis", "closeness": 2, "reasoning": "'Analysis' is a detailed examination, fitting the examination of objections; however, it's more process than the written work itself." },
+        { "distractor": "fiction", "closeness": 1, "reasoning": "'Fiction' means imaginative narrative; the sentence describes a methodical philosophical work examining objections and building arguments, which is non-fiction." },
+        { "distractor": "opinion", "closeness": 1, "reasoning": "'Opinion' is a personal belief; the sentence describes a comprehensive argument built from first principles, which suggests something more systematic than mere opinion." },
+        { "distractor": "conjecture", "closeness": 1, "reasoning": "'Conjecture' means speculation or guess; the sentence emphasizes examining every objection and building comprehensive argument from principles, opposite to unfounded conjecture." }
+      ]
+    },
+    {
+      "sentence": "The diplomat's treatise on international trade protocols provided a detailed framework for negotiating fair tariff agreements across nations.",
+      "answerChoices": [
+        { "distractor": "guide", "closeness": 3, "reasoning": "A guide is a work providing direction or instruction, fitting a framework for negotiating agreements; however, 'guide' is more practical and informal, while 'treatise' emphasizes systematic methodical exposition." },
+        { "distractor": "manual", "closeness": 3, "reasoning": "A manual is a handbook providing instructions, fitting a framework for protocols; however, 'manual' suggests practical step-by-step instructions, while 'treatise' emphasizes comprehensive methodical discussion." },
+        { "distractor": "handbook", "closeness": 3, "reasoning": "A handbook is a reference work on practical procedures, fitting a framework for negotiation; however, 'handbook' emphasizes practical reference, while 'treatise' emphasizes comprehensive exposition." },
+        { "distractor": "code", "closeness": 3, "reasoning": "A code is a set of rules or principles; while fitting trade protocols, the sentence emphasizes the detailed framework and exposition, not just a set of rules." },
+        { "distractor": "protocol", "closeness": 2, "reasoning": "A protocol is a set of procedures or rules; the sentence mentions 'protocols,' but 'protocol' alone doesn't capture the systematic exposition and framework of a treatise." },
+        { "distractor": "agreement", "closeness": 2, "reasoning": "An agreement is a settlement or accord; while the treatise aims to help negotiate agreements, it's not itself an agreement." },
+        { "distractor": "charter", "closeness": 2, "reasoning": "A charter is a formal document granting rights or establishing rules; while fitting the formal nature, it's a document that establishes, not one that systematically expounds." },
+        { "distractor": "blueprint", "closeness": 2, "reasoning": "'Blueprint' means a detailed plan, fitting the framework described; however, 'blueprint' is more visually oriented and practical than a written systematic exposition." },
+        { "distractor": "story", "closeness": 1, "reasoning": "'Story' is a narrative account; the sentence describes a systematic exposition on trade protocols, which is not narrative." },
+        { "distractor": "opinion", "closeness": 1, "reasoning": "'Opinion' is a personal belief; the sentence describes a detailed framework based on systematic methodical exposition, more than subjective opinion." },
+        { "distractor": "speculation", "closeness": 1, "reasoning": "'Speculation' is conjecture or theorizing; the sentence describes a detailed framework for negotiating actual agreements, more concrete than speculation." }
+      ]
+    }
+  ]
+}

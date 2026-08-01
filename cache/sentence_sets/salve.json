@@ -1,0 +1,53 @@
+{
+  "word": "salve",
+  "sentenceSets": [
+    {
+      "sentence": "The public acknowledgment served as a salve for those who had sustained the harm, even though it did not address the structural conditions.",
+      "answerChoices": [
+        { "distractor": "balm", "closeness": 3, "reasoning": "Means a soothing ointment or comfort; essentially synonymous with salve—both describe something that soothes pain or hurt without necessarily solving the underlying problem." },
+        { "distractor": "relief", "closeness": 3, "reasoning": "Means easing of pain or distress; essentially synonymous with salve in this emotional context—both describe temporary soothing of hurt." },
+        { "distractor": "comfort", "closeness": 3, "reasoning": "Means solace or support; essentially synonymous with salve—both describe emotional soothing without addressing root causes." },
+        { "distractor": "consolation", "closeness": 3, "reasoning": "Means sympathy and comfort; essentially synonymous with salve, making it an excellent trap answer." },
+        { "distractor": "apology", "closeness": 2, "reasoning": "Means expression of regret; while an apology might be offered with acknowledgment, the sentence requires the term for soothing hurt (salve), not the apology itself." },
+        { "distractor": "acknowledgment", "closeness": 2, "reasoning": "Means formal recognition; though the sentence mentions acknowledgment, 'salve' describes its soothing effect on those who suffered, not the act of recognition." },
+        { "distractor": "justice", "closeness": 2, "reasoning": "Means fair treatment or rectification; while justice would address the harm, the sentence shows that acknowledgment only provides temporary soothing, not justice." },
+        { "distractor": "compensation", "closeness": 2, "reasoning": "Means payment for harm suffered; while compensation might comfort, the sentence emphasizes temporary emotional soothing (salve), not financial remedy." },
+        { "distractor": "injury", "closeness": 1, "reasoning": "Means harm or damage; directly opposite to the soothing effect that salve provides." },
+        { "distractor": "aggravation", "closeness": 1, "reasoning": "Means making worse; opposite to the soothing salve effect on those who were hurt." },
+        { "distractor": "intensification", "closeness": 1, "reasoning": "Means increasing severity; opposite to the soothing, pain-reducing effect of salve." }
+      ]
+    },
+    {
+      "sentence": "The doctor prescribed a salve for the burn that would soothe the pain and promote healing without leaving scars.",
+      "answerChoices": [
+        { "distractor": "balm", "closeness": 3, "reasoning": "Means a soothing medicated ointment; essentially synonymous with salve—both describe medicinal preparations applied to heal wounds." },
+        { "distractor": "ointment", "closeness": 3, "reasoning": "Means a medicated preparation for the skin; essentially synonymous with salve—both describe medicinal preparations applied topically." },
+        { "distractor": "unguent", "closeness": 3, "reasoning": "Means an oily medicinal preparation; essentially synonymous with salve—both describe healing ointments for wounds." },
+        { "distractor": "poultice", "closeness": 3, "reasoning": "Means a therapeutic paste applied to the skin; while similar to salve in being applied to wounds, 'poultice' is typically a moist wrap, whereas salve is an unctuous preparation." },
+        { "distractor": "medication", "closeness": 2, "reasoning": "Means a medical substance; while salves are medications, the sentence requires the specific term for applied medicinal preparations, not medication in general." },
+        { "distractor": "liniment", "closeness": 2, "reasoning": "Means a liquid medicinal preparation rubbed on skin; while similar to salve, 'liniment' is typically liquid, whereas salve is unctuous and thick." },
+        { "distractor": "dressing", "closeness": 2, "reasoning": "Means a protective covering applied to a wound; while dressings accompany salves, the sentence requires the medicinal preparation itself, not the covering." },
+        { "distractor": "treatment", "closeness": 2, "reasoning": "Means therapeutic intervention; while salve is a treatment, the sentence requires the specific term for a medicinal preparation, not treatment in general." },
+        { "distractor": "pill", "closeness": 1, "reasoning": "Means ingested medication; opposite type of medicine—the sentence describes topically applied salve, not oral medication." },
+        { "distractor": "injection", "closeness": 1, "reasoning": "Means inserted medication; opposite method of administration—the sentence describes applied salve, not injected medicine." },
+        { "distractor": "surgery", "closeness": 1, "reasoning": "Means invasive medical procedure; opposite approach—the sentence describes applying soothing salve, not surgical intervention." }
+      ]
+    },
+    {
+      "sentence": "A heartfelt apology proved to be a salve that eased the tension between the old friends and allowed reconciliation.",
+      "answerChoices": [
+        { "distractor": "balm", "closeness": 3, "reasoning": "Means soothing comfort; essentially synonymous with salve—both describe something emotionally soothing that heals hurt feelings." },
+        { "distractor": "healing", "closeness": 3, "reasoning": "Means making whole or restoring health; while the apology is healing, the sentence requires the term for the soothing agent itself (salve), not the process." },
+        { "distractor": "comfort", "closeness": 3, "reasoning": "Means emotional solace; essentially synonymous with salve—both describe emotional soothing." },
+        { "distractor": "consolation", "closeness": 3, "reasoning": "Means sympathetic comfort; essentially synonymous with salve, making it an excellent trap answer." },
+        { "distractor": "reconciliation", "closeness": 2, "reasoning": "Means restoring friendship; while the apology leads to reconciliation, the sentence requires the term for the soothing effect that enables it." },
+        { "distractor": "forgiveness", "closeness": 2, "reasoning": "Means pardoning; while the apology seeks forgiveness, the sentence emphasizes the soothing salve effect, not the act of pardoning." },
+        { "distractor": "peace", "closeness": 2, "reasoning": "Means freedom from conflict; while the apology brings peace, the sentence requires the term for the soothing agent (salve), not the resulting state." },
+        { "distractor": "understanding", "closeness": 2, "reasoning": "Means mutual awareness; while the apology provides understanding, the sentence requires the term for emotional soothing (salve), not comprehension." },
+        { "distractor": "resentment", "closeness": 1, "reasoning": "Means lingering anger; directly opposite to the soothing salve effect of the heartfelt apology." },
+        { "distractor": "bitterness", "closeness": 1, "reasoning": "Means lingering hurt or harsh feelings; opposite to the soothing effect that the apology provided." },
+        { "distractor": "estrangement", "closeness": 1, "reasoning": "Means continued separation and distance; opposite to the reconciliation that the soothing salve enabled." }
+      ]
+    }
+  ]
+}

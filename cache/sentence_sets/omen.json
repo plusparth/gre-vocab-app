@@ -1,0 +1,53 @@
+{
+  "word": "omen",
+  "sentenceSets": [
+    {
+      "sentence": "The sudden illness of their lead actor was seen as a bad omen for the theatrical production, and several cast members considered abandoning the show.",
+      "answerChoices": [
+        { "distractor": "portent", "closeness": 3, "reasoning": "Close -- 'portent' means a sign of something about to happen; nearly synonymous, but the sentence emphasizes interpretation as unlucky rather than mere foreshadowing." },
+        { "distractor": "augury", "closeness": 3, "reasoning": "Close -- 'augury' means a sign or token; both fit, but 'omen' emphasizes belief in supernatural warning while 'augury' can be more analytical." },
+        { "distractor": "harbinger", "closeness": 3, "reasoning": "Close -- 'harbinger' means a messenger or herald of something; both fit, but the sentence emphasizes fear-based interpretation, not merely announcement." },
+        { "distractor": "indication", "closeness": 3, "reasoning": "Close -- 'indication' means a sign or signal; fits the meaning, but the sentence requires the superstitious weight that 'omen' carries." },
+        { "distractor": "signal", "closeness": 2, "reasoning": "Incorrect -- 'signal' means a sign or indicator; while the illness was a signal, the sentence emphasizes superstitious belief, not mere information." },
+        { "distractor": "warning", "closeness": 2, "reasoning": "Incorrect -- 'warning' means an alert to danger; the illness was interpreted as a warning, but 'omen' involves belief in fate or supernatural knowledge." },
+        { "distractor": "symptom", "closeness": 2, "reasoning": "Incorrect -- 'symptom' means a sign of illness; while illness is a symptom of underlying conditions, the sentence treats it as a supernatural sign." },
+        { "distractor": "circumstance", "closeness": 2, "reasoning": "Incorrect -- 'circumstance' means a situational factor; the sentence requires belief in foreshadowing, not mere circumstance." },
+        { "distractor": "blessing", "closeness": 1, "reasoning": "Opposite -- 'blessing' means a good fortune or divine favor; contrary to a bad omen." },
+        { "distractor": "gift", "closeness": 1, "reasoning": "Incorrect -- 'gift' means a present or blessing; contrary to the bad fortune suggested by the omen." },
+        { "distractor": "fortune", "closeness": 1, "reasoning": "Incorrect -- 'fortune' means chance or luck; while used to describe good outcomes, it's not the superstitious warning that an omen is." }
+      ]
+    },
+    {
+      "sentence": "The ancient peoples consulted oracles and read animal entrails for omens, believing these practices could reveal the will of the gods.",
+      "answerChoices": [
+        { "distractor": "prophecy", "closeness": 3, "reasoning": "Close -- 'prophecy' means a prediction; both involve foretelling, but the sentence emphasizes signs interpreted from rituals, not declarations of prophets." },
+        { "distractor": "divination", "closeness": 3, "reasoning": "Close -- 'divination' is the practice of seeking hidden knowledge; while divination produces omens, the sentence focuses on the signs themselves." },
+        { "distractor": "portent", "closeness": 3, "reasoning": "Close -- 'portent' means a sign; nearly synonymous, but the sentence emphasizes omens as objects of consultation, not mere signs." },
+        { "distractor": "revelation", "closeness": 3, "reasoning": "Close -- 'revelation' means an unveiling of truth; the omens reveal truth, but the sentence emphasizes their role as signs to be interpreted." },
+        { "distractor": "message", "closeness": 2, "reasoning": "Incorrect -- 'message' means communication; while omens convey meaning, the sentence emphasizes their role as signs, not messages." },
+        { "distractor": "instruction", "closeness": 2, "reasoning": "Incorrect -- 'instruction' means teaching or guidance; omens may guide, but the sentence treats them as signs to interpret." },
+        { "distractor": "decree", "closeness": 2, "reasoning": "Incorrect -- 'decree' means an official order; the sentence indicates seeking signs, not receiving orders." },
+        { "distractor": "ritual", "closeness": 2, "reasoning": "Incorrect -- 'ritual' means a formal ceremony; while consultation of omens is ritualistic, the sentence focuses on the signs themselves." },
+        { "distractor": "deception", "closeness": 1, "reasoning": "Opposite -- 'deception' means falsehood; contrary to the sincerity with which peoples sought omens." },
+        { "distractor": "doubt", "closeness": 1, "reasoning": "Incorrect -- 'doubt' means skepticism; the sentence shows peoples believing in omens, not doubting them." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Incorrect -- 'silence' means absence of sound; unrelated to seeking omens from divination." }
+      ]
+    },
+    {
+      "sentence": "The stock market's sharp decline in the morning was regarded by nervous investors as an omen of economic recession ahead.",
+      "answerChoices": [
+        { "distractor": "indicator", "closeness": 3, "reasoning": "Close -- 'indicator' means a sign or signal; both fit, but the sentence emphasizes fearful interpretation, not merely technical analysis." },
+        { "distractor": "harbinger", "closeness": 3, "reasoning": "Close -- 'harbinger' means a herald or messenger; both fit, but the sentence emphasizes superstitious fear rather than mere foreshadowing." },
+        { "distractor": "barometer", "closeness": 3, "reasoning": "Close -- 'barometer' means something measuring or indicating; the decline is a barometer of conditions, but 'omen' emphasizes superstitious reading." },
+        { "distractor": "portent", "closeness": 3, "reasoning": "Close -- 'portent' means a sign of what's to come; nearly synonymous, but the sentence requires the fearful interpretation that 'omen' conveys." },
+        { "distractor": "precedent", "closeness": 2, "reasoning": "Incorrect -- 'precedent' means an earlier example; while the decline provides precedent, the sentence treats it as a foreshadowing sign." },
+        { "distractor": "trend", "closeness": 2, "reasoning": "Incorrect -- 'trend' means a general direction; while the market shows a negative trend, the sentence emphasizes superstitious interpretation." },
+        { "distractor": "forecast", "closeness": 2, "reasoning": "Incorrect -- 'forecast' means a prediction; while the decline might forecast recession, the sentence treats it as an omen, not an analytical forecast." },
+        { "distractor": "correlation", "closeness": 2, "reasoning": "Incorrect -- 'correlation' means a relationship between variables; while decline correlates with recession, the sentence implies superstitious belief." },
+        { "distractor": "opportunity", "closeness": 1, "reasoning": "Opposite -- 'opportunity' means a favorable chance; contrary to the fearful omen of recession." },
+        { "distractor": "blessing", "closeness": 1, "reasoning": "Opposite -- 'blessing' means a benefit or good fortune; the opposite of an omen of economic hardship." },
+        { "distractor": "coincidence", "closeness": 1, "reasoning": "Incorrect -- 'coincidence' means chance occurrence; the sentence treats the decline as meaningful, not mere chance." }
+      ]
+    }
+  ]
+}

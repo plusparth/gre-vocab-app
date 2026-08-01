@@ -1,0 +1,53 @@
+{
+  "word": "bifurcate",
+  "sentenceSets": [
+    {
+      "sentence": "The river bifurcates just north of the city, one branch serving agriculture and the other flowing to the sea.",
+      "answerChoices": [
+        { "distractor": "diverges", "closeness": 3, "reasoning": "Both describe paths or flows separating, but 'diverges' more generally means to move in different directions, while 'bifurcates' specifically means to split into exactly two distinct branches." },
+        { "distractor": "branches", "closeness": 3, "reasoning": "Close—'branches' can mean to split or divide, but the word also means appendages or offshoots; 'bifurcates' is more specific to dividing into two parts." },
+        { "distractor": "forks", "closeness": 3, "reasoning": "Close—'forks' means to divide into branches, similar to 'bifurcates,' but 'fork' often implies an unequal division or a specific junction point, whereas 'bifurcate' emphasizes division into two." },
+        { "distractor": "separates", "closeness": 3, "reasoning": "Both describe things dividing, but 'separates' is more general and could mean anything becoming isolated, whereas 'bifurcates' specifically means dividing into two branches." },
+        { "distractor": "divides", "closeness": 2, "reasoning": "Related—'divides' means to split or partition, but it is very general and does not specify that the division results in two equal branches as 'bifurcate' implies." },
+        { "distractor": "splits", "closeness": 2, "reasoning": "Related—'splits' means to separate or crack, but it is more general than 'bifurcate' and could apply to division into more than two parts." },
+        { "distractor": "fractures", "closeness": 2, "reasoning": "Related—'fractures' means to break, but it implies breaking or damage rather than a natural division into branches." },
+        { "distractor": "fragments", "closeness": 2, "reasoning": "Related but wrong—'fragments' means to break into pieces, implying many pieces rather than the two-way division of 'bifurcate.'" },
+        { "distractor": "converges", "closeness": 1, "reasoning": "Opposite—'converges' means to come together, the opposite of splitting apart." },
+        { "distractor": "combines", "closeness": 1, "reasoning": "Opposite—'combines' means to join together." },
+        { "distractor": "merges", "closeness": 1, "reasoning": "Opposite—'merges' means to blend or join into one, opposite of dividing into two." }
+      ]
+    },
+    {
+      "sentence": "The political movement bifurcated into two distinct ideological camps after the leadership dispute.",
+      "answerChoices": [
+        { "distractor": "fragmented", "closeness": 3, "reasoning": "Both describe a group splitting apart, but 'fragmented' suggests breaking into multiple pieces or a messy breaking apart, whereas 'bifurcated' implies a clean, two-way division." },
+        { "distractor": "polarized", "closeness": 3, "reasoning": "Both describe a split into opposing positions, but 'polarized' means to become increasingly opposed or extreme, while 'bifurcated' simply describes the act of dividing into two groups." },
+        { "distractor": "sectioned", "closeness": 3, "reasoning": "Both describe dividing into parts, but 'sectioned' implies dividing into arbitrary sections or portions, whereas 'bifurcated' specifies a division into exactly two branches." },
+        { "distractor": "fissured", "closeness": 3, "reasoning": "Both suggest splitting apart, but 'fissured' suggests cracks or breaks as from stress, whereas 'bifurcated' describes an intentional or natural division into two." },
+        { "distractor": "splintered", "closeness": 2, "reasoning": "Related—'splintered' means to break into smaller pieces, but it implies more than two pieces, whereas 'bifurcate' is specifically two-way." },
+        { "distractor": "scattered", "closeness": 2, "reasoning": "Related—'scattered' means spread in different directions, but it does not imply organized division into two groups like 'bifurcated.'" },
+        { "distractor": "dissolved", "closeness": 2, "reasoning": "Related but wrong—'dissolved' means to break up or end an organization, but it implies ceasing to exist rather than reorganizing into two distinct groups." },
+        { "distractor": "disintegrated", "closeness": 2, "reasoning": "Related—'disintegrated' means to break apart into components, but it suggests decay or destruction rather than an organized division." },
+        { "distractor": "united", "closeness": 1, "reasoning": "Opposite—'united' means to come together, opposite of a division." },
+        { "distractor": "cohesive", "closeness": 1, "reasoning": "Opposite—'cohesive' means holding together strongly, opposite of bifurcation." },
+        { "distractor": "consolidated", "closeness": 1, "reasoning": "Opposite—'consolidated' means to combine or strengthen as one unit." }
+      ]
+    },
+    {
+      "sentence": "At the fork in the road, their paths bifurcated: one group heading toward the coast, the other inland toward the mountains.",
+      "answerChoices": [
+        { "distractor": "diverted", "closeness": 3, "reasoning": "Both mean to change direction or go different ways, but 'diverted' implies being turned away from an original path, whereas 'bifurcated' describes a natural or intentional two-way split." },
+        { "distractor": "deviated", "closeness": 3, "reasoning": "Both mean to depart from a path, but 'deviated' suggests straying or deviating from a set course, while 'bifurcated' describes a planned or natural split into two destinations." },
+        { "distractor": "parted", "closeness": 3, "reasoning": "Both describe separation, but 'parted' emphasizes the act of separating or saying goodbye, whereas 'bifurcated' describes the physical division of a path." },
+        { "distractor": "dispersed", "closeness": 3, "reasoning": "Both suggest people going in different directions, but 'dispersed' means scattered in many directions, whereas 'bifurcated' describes division into specifically two groups." },
+        { "distractor": "strayed", "closeness": 2, "reasoning": "Related—'strayed' means to wander off course, but it suggests unintentional divergence rather than the structured two-way split of 'bifurcated.'" },
+        { "distractor": "wandered", "closeness": 2, "reasoning": "Related—'wandered' means to move without clear direction, but it does not capture the idea of a structured two-way division." },
+        { "distractor": "departed", "closeness": 2, "reasoning": "Related—'departed' means to leave or go away, but it is too general and does not convey the specific nature of a two-way split." },
+        { "distractor": "detached", "closeness": 2, "reasoning": "Related—'detached' means to separate or disconnect, but it is more general than the specific two-way division implied by 'bifurcated.'" },
+        { "distractor": "reunited", "closeness": 1, "reasoning": "Opposite—'reunited' means to come back together, opposite of a division." },
+        { "distractor": "congregated", "closeness": 1, "reasoning": "Opposite—'congregated' means to gather together." },
+        { "distractor": "assembled", "closeness": 1, "reasoning": "Opposite—'assembled' means to come together, opposite of bifurcation." }
+      ]
+    }
+  ]
+}

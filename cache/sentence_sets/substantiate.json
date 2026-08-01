@@ -1,0 +1,53 @@
+{
+  "word": "substantiate",
+  "sentenceSets": [
+    {
+      "sentence": "The evidence was sufficient to substantiate the basic claim, though not to establish every detail of the account.",
+      "answerChoices": [
+        { "distractor": "support", "closeness": 3, "reasoning": "Support means to hold up or back; the sentence shows evidence backing a claim, but substantiate emphasizes providing concrete proof or foundation." },
+        { "distractor": "confirm", "closeness": 3, "reasoning": "Confirm means to establish the truth of; the sentence shows evidence supporting a claim, but substantiate emphasizes providing proof with substance." },
+        { "distractor": "validate", "closeness": 3, "reasoning": "Validate means to confirm as true or correct; the sentence shows evidence supporting a claim, but substantiate emphasizes giving substance to the claim." },
+        { "distractor": "verify", "closeness": 3, "reasoning": "Verify means to establish the truth or accuracy of; the sentence shows evidence supporting a claim, but substantiate emphasizes providing substance." },
+        { "distractor": "corroborate", "closeness": 2, "reasoning": "Corroborate means to confirm with additional evidence; the sentence shows evidence supporting a claim, but substantiate emphasizes giving substance." },
+        { "distractor": "document", "closeness": 2, "reasoning": "Document means to record in writing; the sentence shows evidence supporting a claim, but substantiate emphasizes providing proof." },
+        { "distractor": "establish", "closeness": 2, "reasoning": "Establish means to set up or prove; the sentence shows evidence supporting claim but not every detail, but substantiate emphasizes providing substance." },
+        { "distractor": "evidence", "closeness": 2, "reasoning": "Evidence is information proving something; the sentence shows evidence substantiating a claim, but evidence is the tool, not the action." },
+        { "distractor": "contradict", "closeness": 1, "reasoning": "Contradict means to declare opposite or deny; the sentence describes evidence substantiating a claim, the opposite of contradiction." },
+        { "distractor": "refute", "closeness": 1, "reasoning": "Refute means to prove wrong; the sentence shows evidence substantiating a claim, the opposite of refutation." },
+        { "distractor": "undermine", "closeness": 1, "reasoning": "Undermine means to weaken; the sentence shows evidence substantiating a claim, the opposite of undermining." }
+      ]
+    },
+    {
+      "sentence": "The witness testimony would substantiate the defendant's alibi, providing concrete proof he was elsewhere at the time.",
+      "answerChoices": [
+        { "distractor": "support", "closeness": 3, "reasoning": "Support means to hold up or back; the sentence shows testimony backing an alibi, but substantiate emphasizes providing concrete proof." },
+        { "distractor": "confirm", "closeness": 3, "reasoning": "Confirm means to establish as true; the sentence shows testimony supporting an alibi, but substantiate emphasizes providing substantial proof." },
+        { "distractor": "verify", "closeness": 3, "reasoning": "Verify means to establish the truth of; the sentence shows testimony supporting an alibi, but substantiate emphasizes providing substantive evidence." },
+        { "distractor": "corroborate", "closeness": 3, "reasoning": "Corroborate means to confirm with evidence; the sentence shows testimony supporting an alibi, and corroborate and substantiate are closely related." },
+        { "distractor": "attest", "closeness": 2, "reasoning": "Attest means to certify as genuine; the sentence shows testimony supporting an alibi, but substantiate emphasizes providing concrete substance." },
+        { "distractor": "authenticate", "closeness": 2, "reasoning": "Authenticate means to establish genuineness; the sentence shows testimony supporting an alibi, but substantiate emphasizes providing proof." },
+        { "distractor": "validate", "closeness": 2, "reasoning": "Validate means to confirm as true; the sentence shows testimony supporting an alibi, but substantiate emphasizes providing substance." },
+        { "distractor": "testify", "closeness": 2, "reasoning": "Testify means to give evidence; the sentence shows testimony substantiating an alibi, but testify is the action being taken." },
+        { "distractor": "dispute", "closeness": 1, "reasoning": "Dispute means to argue or question; the sentence describes testimony substantiating an alibi, the opposite of disputing." },
+        { "distractor": "contradict", "closeness": 1, "reasoning": "Contradict means to declare opposite; the sentence shows testimony substantiating an alibi, the opposite of contradiction." },
+        { "distractor": "undermine", "closeness": 1, "reasoning": "Undermine means to weaken; the sentence shows testimony substantiating an alibi, the opposite of undermining." }
+      ]
+    },
+    {
+      "sentence": "The researcher's findings substantiated years of theoretical work, finally providing empirical evidence for the hypothesis.",
+      "answerChoices": [
+        { "distractor": "validated", "closeness": 3, "reasoning": "Validated means confirmed as true; the sentence shows findings supporting theoretical work, but substantiate emphasizes providing concrete empirical substance." },
+        { "distractor": "confirmed", "closeness": 3, "reasoning": "Confirmed means established as true; the sentence shows findings supporting theory, but substantiate emphasizes providing substantial proof." },
+        { "distractor": "justified", "closeness": 3, "reasoning": "Justified means shown to be right or reasonable; the sentence shows findings supporting theory, but substantiate emphasizes providing empirical evidence." },
+        { "distractor": "vindicated", "closeness": 3, "reasoning": "Vindicated means cleared of accusation or justified; the sentence shows findings supporting theory, but substantiate emphasizes providing evidence." },
+        { "distractor": "supported", "closeness": 2, "reasoning": "Supported means held up or backed; the sentence shows findings backing theory, but substantiate emphasizes providing substantial evidence." },
+        { "distractor": "verified", "closeness": 2, "reasoning": "Verified means established as true; the sentence shows findings supporting theory, but substantiate emphasizes providing empirical substance." },
+        { "distractor": "corroborated", "closeness": 2, "reasoning": "Corroborated means confirmed with additional evidence; the sentence shows findings supporting theory, but substantiate emphasizes providing empirical proof." },
+        { "distractor": "documented", "closeness": 2, "reasoning": "Documented means recorded in writing; the sentence shows findings supporting theory, but substantiate emphasizes providing proof." },
+        { "distractor": "contradicted", "closeness": 1, "reasoning": "Contradicted means declared opposite; the sentence describes findings substantiating theory, the opposite of contradiction." },
+        { "distractor": "refuted", "closeness": 1, "reasoning": "Refuted means proved wrong; the sentence shows findings substantiating theory, the opposite of refutation." },
+        { "distractor": "undermined", "closeness": 1, "reasoning": "Undermined means weakened; the sentence shows findings substantiating theory, the opposite of undermining." }
+      ]
+    }
+  ]
+}

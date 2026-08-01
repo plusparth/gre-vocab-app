@@ -1,0 +1,53 @@
+{
+  "word": "sycophant",
+  "sentenceSets": [
+    {
+      "sentence": "The meeting was populated by sycophants who confirmed everything the director said and provided no information that could have changed anything.",
+      "answerChoices": [
+        { "distractor": "skeptic", "closeness": 3, "reasoning": "A skeptic questions claims and withholds approval — the opposite of someone who confirms everything the director said." },
+        { "distractor": "cynic", "closeness": 3, "reasoning": "A cynic distrusts motives and rejects flattery as false; these people do the opposite by confirming the director without hesitation." },
+        { "distractor": "dissenter", "closeness": 3, "reasoning": "A dissenter actively opposes what others say; the meeting attendees provide no opposing information, showing alignment not disagreement." },
+        { "distractor": "critic", "closeness": 3, "reasoning": "A critic evaluates and points out weaknesses; the people here confirm everything and provide no information that could challenge the director." },
+        { "distractor": "loyalist", "closeness": 2, "reasoning": "A loyalist is devoted to a cause but does not necessarily flatter or seek personal gain; these people's motivation is self-interest, not principled support." },
+        { "distractor": "spokesman", "closeness": 2, "reasoning": "A spokesman represents a group's position but need not be self-seeking or provide flattery; the sentence emphasizes servile flattery and self-interest." },
+        { "distractor": "propagandist", "closeness": 2, "reasoning": "A propagandist spreads ideas but may act on conviction rather than personal ambition; the sentence stresses seeking approval for oneself, not disseminating ideology." },
+        { "distractor": "accomplice", "closeness": 2, "reasoning": "An accomplice participates in wrongdoing but need not flatter or seek the approval of those in power specifically." },
+        { "distractor": "ally", "closeness": 1, "reasoning": "An ally works together with another but carries no implication of servile flattery or self-seeking motivation." },
+        { "distractor": "adversary", "closeness": 1, "reasoning": "An adversary opposes someone; the meeting attendees confirm the director, indicating they are on the same side, not opposing." },
+        { "distractor": "neutral observer", "closeness": 1, "reasoning": "A neutral observer neither confirms nor contests; the sentence shows active confirmation of everything the director says." }
+      ]
+    },
+    {
+      "sentence": "The aging celebrity surrounded herself with sycophants who laughed at her jokes and praised her appearance even as her talent visibly declined.",
+      "answerChoices": [
+        { "distractor": "friends", "closeness": 3, "reasoning": "Friends offer genuine affection, not mechanical praise decoupled from reality; these people praise appearance despite visible talent decline, showing insincerity." },
+        { "distractor": "confidants", "closeness": 3, "reasoning": "Confidants provide honest counsel and trust; these companions offer flattery that masks decline rather than honest reflection." },
+        { "distractor": "admirers", "closeness": 3, "reasoning": "Admirers may genuinely respect someone; the sentence shows insincere praise ('even as her talent visibly declined'), indicating false adulation, not authentic admiration." },
+        { "distractor": "associates", "closeness": 3, "reasoning": "Associates are colleagues or connections but need not engage in systematic insincere praise; the sentence shows deliberate flattery despite obvious decline." },
+        { "distractor": "entourage", "closeness": 2, "reasoning": "An entourage accompanies someone important but may include people with various roles and motivations, not necessarily those who flatter insincerely." },
+        { "distractor": "court", "closeness": 2, "reasoning": "A royal or official court includes advisors and attendants but encompasses broader functions than pure sycophantic flattery." },
+        { "distractor": "hangers-on", "closeness": 2, "reasoning": "Hangers-on follow someone for advantage but need not specifically flatter; they may merely remain present for access or benefits." },
+        { "distractor": "imitators", "closeness": 2, "reasoning": "Imitators copy someone's style but are not necessarily flatterers seeking approval or personal gain from their proximity." },
+        { "distractor": "rivals", "closeness": 1, "reasoning": "Rivals compete against someone; these people surround the celebrity and praise her, indicating they are supporters, not competitors." },
+        { "distractor": "critics", "closeness": 1, "reasoning": "Critics evaluate and point out flaws; the sentence shows people who praise appearance and laugh at jokes, the opposite of critical evaluation." },
+        { "distractor": "strangers", "closeness": 1, "reasoning": "Strangers lack the close proximity and ongoing relationship implied by surrounding someone; the sentence shows people actively integrated into the celebrity's circle." }
+      ]
+    },
+    {
+      "sentence": "At court, the king's advisors were divided into two camps: honest counselors who risked his displeasure by offering contrary opinions, and sycophants who merely echoed his wishes.",
+      "answerChoices": [
+        { "distractor": "pragmatists", "closeness": 3, "reasoning": "Pragmatists pursue practical goals but need not echo wishes dishonestly; the contrast with 'honest counselors' shows these advisors abandon truth for alignment." },
+        { "distractor": "diplomats", "closeness": 3, "reasoning": "Diplomats navigate political relationships skillfully but may still maintain integrity; the sentence contrasts advisors who risk displeasure by being truthful with those who echo." },
+        { "distractor": "mediators", "closeness": 3, "reasoning": "Mediators seek common ground but need not abandon honesty; the sentence explicitly contrasts echo-chamber advisors with those who offer contrary opinions." },
+        { "distractor": "counselors", "closeness": 3, "reasoning": "Counselors provide advice but the sentence distinguishes 'honest counselors' (who risk displeasure) from the second group; this group merely echoes, not counsels authentically." },
+        { "distractor": "strategists", "closeness": 2, "reasoning": "Strategists devise plans but are not necessarily focused on echoing the king's wishes or seeking his approval through flattery." },
+        { "distractor": "servants", "closeness": 2, "reasoning": "Servants obey orders but need not specifically flatter or echo wishes; the sentence emphasizes willingness to echo rather than mere obedience." },
+        { "distractor": "followers", "closeness": 2, "reasoning": "Followers support a leader but may do so for principled reasons; the sentence stresses echoing wishes at the expense of honest counsel." },
+        { "distractor": "subordinates", "closeness": 2, "reasoning": "Subordinates hold lower rank but need not abandon all independent judgment; the sentence shows these advisors choosing alignment over any contrary opinion." },
+        { "distractor": "rebels", "closeness": 1, "reasoning": "Rebels challenge authority; the second group echoes the king's wishes, showing obedience and alignment, not rebellion." },
+        { "distractor": "educators", "closeness": 1, "reasoning": "Educators inform and teach; the sentence shows advisors who echo rather than instruct or offer new information." },
+        { "distractor": "judges", "closeness": 1, "reasoning": "Judges evaluate evidence and render decisions; these advisors echo the king's wishes rather than rendering independent assessment." }
+      ]
+    }
+  ]
+}

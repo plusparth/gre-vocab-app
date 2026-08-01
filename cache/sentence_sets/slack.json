@@ -1,0 +1,53 @@
+{
+  "word": "slack",
+  "sentenceSets": [
+    {
+      "sentence": "Slack enforcement of the policy had produced the culture it was supposed to prevent.",
+      "answerChoices": [
+        { "distractor": "moderate", "closeness": 3, "reasoning": "Moderate describes a balanced middle course, but slack specifically implies laxness and negligence, not a measured approach." },
+        { "distractor": "flexible", "closeness": 3, "reasoning": "Flexible describes the ability to adapt or bend rules appropriately, whereas slack implies careless neglect of enforcement." },
+        { "distractor": "lenient", "closeness": 3, "reasoning": "Lenient describes being merciful or permissive, but can be a deliberate choice, while slack implies negligent failure to enforce." },
+        { "distractor": "relaxed", "closeness": 3, "reasoning": "Relaxed suggests easing tension appropriately, while slack implies careless neglect of responsibilities." },
+        { "distractor": "easygoing", "closeness": 2, "reasoning": "Easygoing describes a laid-back attitude, but lacks the connotation of negligent failure to perform duties." },
+        { "distractor": "permissive", "closeness": 2, "reasoning": "Permissive describes allowing freedoms, which may be deliberate, whereas slack implies negligent inattention." },
+        { "distractor": "indulgent", "closeness": 2, "reasoning": "Indulgent suggests gratifying desires, but doesn't capture the negligent quality of slack enforcement." },
+        { "distractor": "tolerant", "closeness": 2, "reasoning": "Tolerant means willing to accept differences, but doesn't necessarily convey the negligent failure that slack implies." },
+        { "distractor": "strict", "closeness": 1, "reasoning": "Strict means demanding careful adherence to rules, the opposite of slack negligence." },
+        { "distractor": "rigorous", "closeness": 1, "reasoning": "Rigorous means thorough and careful, contrary to the negligent laxness that slack enforcement represents." },
+        { "distractor": "vigilant", "closeness": 1, "reasoning": "Vigilant means carefully watchful, the opposite of slack inattention to policy enforcement." }
+      ]
+    },
+    {
+      "sentence": "The customs officer's slack attention to detail allowed prohibited items to pass through the checkpoint unchecked.",
+      "answerChoices": [
+        { "distractor": "casual", "closeness": 3, "reasoning": "Casual describes an informal, unhurried manner, but doesn't necessarily imply the negligent carelessness of slack attention." },
+        { "distractor": "cursory", "closeness": 3, "reasoning": "Cursory means rapid and superficial, but slack specifically suggests careless negligence rather than mere quickness." },
+        { "distractor": "superficial", "closeness": 3, "reasoning": "Superficial describes dealing with surfaces only, but slack emphasizes negligent failure to pay proper attention." },
+        { "distractor": "perfunctory", "closeness": 3, "reasoning": "Perfunctory means done routinely without care, which is close, but slack adds the sense of negligence causing harm." },
+        { "distractor": "distracted", "closeness": 2, "reasoning": "Distracted means focused elsewhere, but doesn't necessarily imply the negligent responsibility failure that slack does." },
+        { "distractor": "preoccupied", "closeness": 2, "reasoning": "Preoccupied suggests thinking about something else, but doesn't convey the full negligent quality of slack attention." },
+        { "distractor": "inattentive", "closeness": 2, "reasoning": "Inattentive means not paying attention, which is close, but slack adds the connotation of negligent duty failure." },
+        { "distractor": "careless", "closeness": 2, "reasoning": "Careless means heedless and reckless, very close to slack but slightly more about disregard than negligence." },
+        { "distractor": "meticulous", "closeness": 1, "reasoning": "Meticulous means very careful and precise, the opposite of slack negligent attention." },
+        { "distractor": "thorough", "closeness": 1, "reasoning": "Thorough means careful and complete, contrary to the slack inattention described in the sentence." },
+        { "distractor": "conscientious", "closeness": 1, "reasoning": "Conscientious means careful and responsible, opposite to the slack negligence that allowed prohibited items through." }
+      ]
+    },
+    {
+      "sentence": "The landlord's slack maintenance of the building had resulted in deteriorating conditions that increasingly frustrated the tenants.",
+      "answerChoices": [
+        { "distractor": "minimal", "closeness": 3, "reasoning": "Minimal describes doing the least amount possible, but slack specifically implies negligent failure rather than a deliberate decision to do less." },
+        { "distractor": "inadequate", "closeness": 3, "reasoning": "Inadequate means insufficient for a purpose, but doesn't necessarily convey the negligent quality that slack implies." },
+        { "distractor": "sparse", "closeness": 3, "reasoning": "Sparse describes limited or thin distribution, but doesn't carry the connotation of negligent duty failure." },
+        { "distractor": "limited", "closeness": 3, "reasoning": "Limited describes being restricted or bounded, but doesn't necessarily imply negligent failure of responsibility." },
+        { "distractor": "infrequent", "closeness": 2, "reasoning": "Infrequent means happening rarely, but doesn't necessarily convey negligent failure to maintain property." },
+        { "distractor": "deferred", "closeness": 2, "reasoning": "Deferred means postponed or put off, but doesn't specifically convey the negligent quality of slack maintenance." },
+        { "distractor": "neglected", "closeness": 2, "reasoning": "Neglected means failed to care for, very close to slack but more focused on the result than the manner." },
+        { "distractor": "substandard", "closeness": 2, "reasoning": "Substandard means below required standards, but doesn't necessarily convey the negligent manner of slack maintenance." },
+        { "distractor": "excellent", "closeness": 1, "reasoning": "Excellent means of very high quality, the opposite of slack negligent maintenance." },
+        { "distractor": "diligent", "closeness": 1, "reasoning": "Diligent means careful and thorough, contrary to the slack negligence described in the building maintenance." },
+        { "distractor": "attentive", "closeness": 1, "reasoning": "Attentive means paying close attention, opposite to the slack inattention to building maintenance." }
+      ]
+    }
+  ]
+}

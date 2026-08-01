@@ -1,0 +1,53 @@
+{
+  "word": "postulate",
+  "sentenceSets": [
+    {
+      "sentence": "The mathematician postulated that the angles of a triangle always sum to one hundred eighty degrees, and built her theorem on this foundation.",
+      "answerChoices": [
+        { "distractor": "proved", "closeness": 3, "reasoning": "Close but incorrect -- 'proved' means to establish with certainty through evidence or logic, whereas 'postulated' means to assume as true without proof as a starting basis." },
+        { "distractor": "demonstrated", "closeness": 3, "reasoning": "Close -- 'demonstrated' means to show or exhibit clearly, which requires proof, whereas the sentence indicates the mathematician is assuming the premise, not proving it." },
+        { "distractor": "calculated", "closeness": 3, "reasoning": "Close -- 'calculated' means to compute or determine mathematically, but doesn't carry the sense of assuming something as a foundational basis." },
+        { "distractor": "verified", "closeness": 3, "reasoning": "Close -- 'verified' means to confirm or prove true, but requires evidence, whereas 'postulated' means to assume without prior proof." },
+        { "distractor": "assumed", "closeness": 2, "reasoning": "Incorrect -- while 'assumed' is similar to postulating, it is more casual; 'postulated' specifically means to assume as a basis for reasoning in a formal or mathematical context." },
+        { "distractor": "derived", "closeness": 2, "reasoning": "Incorrect -- 'derived' means to obtain or develop from something else, whereas 'postulated' means to set forth as a fundamental assumption." },
+        { "distractor": "hypothesized", "closeness": 2, "reasoning": "Incorrect -- 'hypothesized' means to propose a tentative explanation, which is less formal and doesn't carry the mathematical rigor of 'postulated'." },
+        { "distractor": "suggested", "closeness": 2, "reasoning": "Incorrect -- 'suggested' is too informal; 'postulated' specifically implies a formal mathematical or logical assumption." },
+        { "distractor": "contradicted", "closeness": 1, "reasoning": "Opposite -- 'contradicted' means to assert the opposite, opposite to establishing an assumption as a foundation." },
+        { "distractor": "disputed", "closeness": 1, "reasoning": "Opposite -- 'disputed' means to challenge or question, opposite to accepting and building upon an assumption." },
+        { "distractor": "refuted", "closeness": 1, "reasoning": "Opposite -- 'refuted' means to prove false, opposite to accepting an assumption as valid for reasoning." }
+      ]
+    },
+    {
+      "sentence": "Modern cosmology postulates the existence of dark matter, though it cannot be observed directly, to explain the motion of galaxies.",
+      "answerChoices": [
+        { "distractor": "confirms", "closeness": 3, "reasoning": "Close but incorrect -- 'confirms' means to establish as true through evidence, whereas dark matter cannot be observed directly, so 'postulates' is more appropriate for proposing an assumption." },
+        { "distractor": "detects", "closeness": 3, "reasoning": "Close -- 'detects' means to find or discover, but the sentence explicitly states dark matter cannot be observed directly, so this word contradicts the premise." },
+        { "distractor": "requires", "closeness": 3, "reasoning": "Close -- 'requires' means to need something as necessary, which fits the explanatory purpose, but doesn't convey the sense of assuming or proposing an unproven entity." },
+        { "distractor": "theorizes", "closeness": 3, "reasoning": "Close -- 'theorizes' means to form or present a theory, which is similar to postulating, but is slightly less formal in scientific contexts." },
+        { "distractor": "predicts", "closeness": 2, "reasoning": "Incorrect -- 'predicts' means to say what will happen based on evidence, but dark matter is not a prediction; it's an assumed entity explaining current observations." },
+        { "distractor": "suggests", "closeness": 2, "reasoning": "Incorrect -- 'suggests' is too weak and informal; 'postulates' carries the formal, foundational weight needed in scientific reasoning." },
+        { "distractor": "invents", "closeness": 2, "reasoning": "Incorrect -- 'invents' suggests creative fabrication rather than the reasoned assumption implied by 'postulates'." },
+        { "distractor": "explains", "closeness": 2, "reasoning": "Incorrect -- while dark matter is used to explain galaxy motion, 'postulates' specifically refers to assuming its existence as a basis." },
+        { "distractor": "rejects", "closeness": 1, "reasoning": "Opposite -- 'rejects' means to refuse to accept, opposite to proposing or assuming the existence of something." },
+        { "distractor": "eliminates", "closeness": 1, "reasoning": "Opposite -- 'eliminates' means to remove or exclude, opposite to proposing or assuming the existence of an entity." },
+        { "distractor": "ignores", "closeness": 1, "reasoning": "Incorrect -- 'ignores' means to pay no attention, opposite to the active intellectual engagement of postulating an assumption." }
+      ]
+    },
+    {
+      "sentence": "The defendant's attorney postulated an alternative scenario in which her client had no knowledge of the crime, seeking to introduce reasonable doubt.",
+      "answerChoices": [
+        { "distractor": "proved", "closeness": 3, "reasoning": "Close but incorrect -- 'proved' means to establish with certainty, but the attorney is presenting an alternative scenario, not proving it is true." },
+        { "distractor": "demonstrated", "closeness": 3, "reasoning": "Close -- 'demonstrated' requires showing evidence, but the attorney is proposing a scenario without proof, seeking to raise doubt." },
+        { "distractor": "presented", "closeness": 3, "reasoning": "Close -- 'presented' means to put forward, which the attorney does, but lacks the sense of assuming or proposing as a hypothetical foundation." },
+        { "distractor": "suggested", "closeness": 3, "reasoning": "Close -- 'suggested' means to propose informally, which fits the context, but is more casual than the formal legal reasoning implied by 'postulated'." },
+        { "distractor": "implied", "closeness": 2, "reasoning": "Incorrect -- 'implied' means to suggest indirectly, but the attorney is explicitly proposing a scenario, not merely implying it." },
+        { "distractor": "hinted", "closeness": 2, "reasoning": "Incorrect -- 'hinted' is too subtle; the attorney is directly proposing a scenario as an alternative explanation." },
+        { "distractor": "indicated", "closeness": 2, "reasoning": "Incorrect -- 'indicated' is too vague; the attorney is explicitly putting forth a scenario for consideration." },
+        { "distractor": "inferred", "closeness": 2, "reasoning": "Incorrect -- 'inferred' means to draw a conclusion, but the attorney is proposing a hypothetical scenario, not drawing conclusions from evidence." },
+        { "distractor": "conceded", "closeness": 1, "reasoning": "Opposite -- 'conceded' means to admit or accept a point against oneself, opposite to proposing an alternative scenario." },
+        { "distractor": "acknowledged", "closeness": 1, "reasoning": "Opposite -- 'acknowledged' means to admit or recognize, which an attorney would not do regarding guilt." },
+        { "distractor": "confessed", "closeness": 1, "reasoning": "Opposite -- 'confessed' means to admit guilt, the opposite of proposing a scenario of innocence." }
+      ]
+    }
+  ]
+}

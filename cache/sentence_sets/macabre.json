@@ -1,0 +1,53 @@
+{
+  "word": "macabre",
+  "sentenceSets": [
+    {
+      "sentence": "The macabre humor of the review masked a serious critique that the author clearly expected to be understood.",
+      "answerChoices": [
+        { "distractor": "morbid", "closeness": 3, "reasoning": "Morbid describes an unhealthy preoccupation with death, making it nearly synonymous with macabre and a strong trap." },
+        { "distractor": "ghastly", "closeness": 3, "reasoning": "Ghastly means horrifying, and both words suggest dark, disturbing humor about death." },
+        { "distractor": "grim", "closeness": 3, "reasoning": "Grim describes something forbidding and death-related, similar in feel to macabre humor." },
+        { "distractor": "eerie", "closeness": 3, "reasoning": "Eerie creates an unsettling atmosphere that resembles macabre, though eerie doesn't specifically imply death." },
+        { "distractor": "dark", "closeness": 2, "reasoning": "Dark humor is a common phrase, and darkness fits masked serious critique, but dark is broader than macabre's death focus." },
+        { "distractor": "disturbing", "closeness": 2, "reasoning": "The masking of critique suggests unsettling content, but disturbing doesn't capture the death-centered nature of macabre." },
+        { "distractor": "creepy", "closeness": 2, "reasoning": "Creepy suggests an uncanny unpleasantness similar to macabre, but it's lighter and less specific to death." },
+        { "distractor": "gloomy", "closeness": 2, "reasoning": "Gloomy mood matches the masked seriousness, but gloomy describes atmosphere rather than content focused on death." },
+        { "distractor": "cheerful", "closeness": 1, "reasoning": "Directly contradicts the dark, serious masked content that macabre conveys." },
+        { "distractor": "wholesome", "closeness": 1, "reasoning": "Opposite of macabre; wholesome suggests innocent, positive content rather than death-focused." },
+        { "distractor": "lighthearted", "closeness": 1, "reasoning": "Directly opposes macabre; lighthearted is playful, while macabre centers on death and darkness." }
+      ]
+    },
+    {
+      "sentence": "The museum's macabre exhibition of historical execution devices sparked debate about how museums should represent violence and justice.",
+      "answerChoices": [
+        { "distractor": "sinister", "closeness": 3, "reasoning": "Sinister means threatening and evil, very similar to the dark menace of macabre content." },
+        { "distractor": "gruesome", "closeness": 3, "reasoning": "Gruesome means grisly and graphic, nearly synonymous with macabre and fitting graphic execution devices." },
+        { "distractor": "ominous", "closeness": 3, "reasoning": "Ominous describes threatening foreboding that resembles macabre's dark tone, both sparking unease." },
+        { "distractor": "gothic", "closeness": 3, "reasoning": "Gothic style incorporates death and darkness themes central to macabre, making it a plausible synonym." },
+        { "distractor": "spooky", "closeness": 2, "reasoning": "Spooky suggests ghost-like or haunting qualities that seem related to macabre, though lighter." },
+        { "distractor": "funereal", "closeness": 2, "reasoning": "Funereal specifically relates to death and funerals, fitting execution devices, but lacks macabre's vivid horror." },
+        { "distractor": "sepulchral", "closeness": 2, "reasoning": "Sepulchral means tomb-like and death-related, fitting the exhibition topic, but less vivid than macabre." },
+        { "distractor": "uncanny", "closeness": 2, "reasoning": "Uncanny suggests something unsettling that resembles macabre's disturbing nature, though not death-specific." },
+        { "distractor": "joyful", "closeness": 1, "reasoning": "Directly contradicts the dark and disturbing subject matter of execution devices." },
+        { "distractor": "serene", "closeness": 1, "reasoning": "Serene means peaceful, opposing both the disturbing content and debate sparked by the exhibition." },
+        { "distractor": "uplifting", "closeness": 1, "reasoning": "Completely opposite; uplifting suggests positive inspiration, while macabre content provokes discomfort about violence." }
+      ]
+    },
+    {
+      "sentence": "His collection of macabre paintings, each depicting allegorical figures alongside skeletons and tombs, reflected a medieval obsession with mortality.",
+      "answerChoices": [
+        { "distractor": "dreadful", "closeness": 3, "reasoning": "Dreadful means terrifying and dark, similar to macabre, fitting paintings of death and skeletons." },
+        { "distractor": "horrific", "closeness": 3, "reasoning": "Horrific means shocking and terrible, nearly synonymous with macabre for depicting gruesome death imagery." },
+        { "distractor": "bleak", "closeness": 3, "reasoning": "Bleak means bare and desolate, fitting death-centered imagery and similar to macabre's darkness." },
+        { "distractor": "dismal", "closeness": 3, "reasoning": "Dismal means gloomy and depressing, similar to macabre, and fitting paintings with death imagery." },
+        { "distractor": "foreboding", "closeness": 2, "reasoning": "Foreboding suggests threatening darkness that resembles macabre, though less specifically about death." },
+        { "distractor": "desolate", "closeness": 2, "reasoning": "Desolate means abandoned and lonely, fitting tombs and death symbolism, but less specific than macabre." },
+        { "distractor": "somber", "closeness": 2, "reasoning": "Somber means serious and grave, fitting the medieval mortality obsession, but not specifically death-focused." },
+        { "distractor": "mournful", "closeness": 2, "reasoning": "Mournful expresses grief related to death, fitting the subject matter, but emphasizes sadness over grotesqueness." },
+        { "distractor": "delightful", "closeness": 1, "reasoning": "Directly contradicts the darkness and death imagery of skeletons and tombs." },
+        { "distractor": "peaceful", "closeness": 1, "reasoning": "Directly opposes macabre; peaceful suggests calm, while paintings of death and skeletons provoke unease." },
+        { "distractor": "sunny", "closeness": 1, "reasoning": "Contradicts the dark, death-centered nature of the collection and medieval obsession with mortality." }
+      ]
+    }
+  ]
+}

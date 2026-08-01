@@ -1,0 +1,53 @@
+{
+  "word": "temporal",
+  "sentenceSets": [
+    {
+      "sentence": "The temporal dimension of the strategy—the question of when, not just what—received less attention than it deserved.",
+      "answerChoices": [
+        { "distractor": "spiritual", "closeness": 3, "reasoning": "Spiritual relates to the soul or eternal realm; the sentence concerns timing and when-related questions, opposite of spiritual." },
+        { "distractor": "eternal", "closeness": 3, "reasoning": "Eternal means without time or forever; temporal concerns timing and duration, opposite quality." },
+        { "distractor": "abstract", "closeness": 3, "reasoning": "Abstract is intangible or theoretical; the sentence concerns timing of concrete actions." },
+        { "distractor": "conceptual", "closeness": 3, "reasoning": "Conceptual relates to ideas or concepts but the sentence concerns the practical timing of when actions occur." },
+        { "distractor": "theoretical", "closeness": 2, "reasoning": "Theoretical is about ideas but temporal concerns the practical timing dimension of strategy." },
+        { "distractor": "fundamental", "closeness": 2, "reasoning": "Fundamental means essential but does not specifically relate to time; the sentence concerns timing." },
+        { "distractor": "structural", "closeness": 2, "reasoning": "Structural relates to organization but not specifically to timing; the sentence concerns when questions." },
+        { "distractor": "philosophical", "closeness": 2, "reasoning": "Philosophical is theoretical but the sentence concerns practical timing of strategy implementation." },
+        { "distractor": "spatial", "closeness": 1, "reasoning": "Spatial relates to space; temporal relates to time, opposite domains." },
+        { "distractor": "immaterial", "closeness": 1, "reasoning": "Immaterial means not important or not physical but the sentence shows something receiving less attention than deserved." },
+        { "distractor": "permanent", "closeness": 1, "reasoning": "Permanent means lasting forever; temporal concerns limited time and duration." }
+      ]
+    },
+    {
+      "sentence": "The historian's analysis distinguished between temporal changes in fashion and the deeper moral values that remained constant across centuries.",
+      "answerChoices": [
+        { "distractor": "eternal", "closeness": 3, "reasoning": "Eternal means unchanging forever; the sentence shows temporal changes in fashion, opposite quality." },
+        { "distractor": "universal", "closeness": 3, "reasoning": "Universal means applying everywhere at all times but the sentence shows temporal (changing) fashion." },
+        { "distractor": "permanent", "closeness": 3, "reasoning": "Permanent means not changing; the sentence shows temporal changes contrasted with constant values." },
+        { "distractor": "fundamental", "closeness": 3, "reasoning": "Fundamental means essential and enduring but the sentence contrasts temporal changes with fundamental values." },
+        { "distractor": "superficial", "closeness": 2, "reasoning": "Superficial means shallow but does not specifically concern time; fashion changes are temporal, not just superficial." },
+        { "distractor": "transient", "closeness": 2, "reasoning": "Transient means passing but overlaps with temporal; the sentence emphasizes time-specific changes." },
+        { "distractor": "cyclical", "closeness": 2, "reasoning": "Cyclical means repeating in cycles but temporal changes may not be cyclical, just time-bound." },
+        { "distractor": "evolving", "closeness": 2, "reasoning": "Evolving means changing gradually but does not specifically emphasize the temporal nature." },
+        { "distractor": "static", "closeness": 1, "reasoning": "Static means not changing but the sentence shows fashion undergoing temporal changes." },
+        { "distractor": "absolute", "closeness": 1, "reasoning": "Absolute means unconditional; the sentence shows fashion changes that are relative to time." },
+        { "distractor": "infinite", "closeness": 1, "reasoning": "Infinite means limitless but temporal concerns bounded time and changes within time." }
+      ]
+    },
+    {
+      "sentence": "The monk renounced temporal concerns—wealth, status, and worldly ambition—to pursue spiritual enlightenment.",
+      "answerChoices": [
+        { "distractor": "physical", "closeness": 3, "reasoning": "Physical means bodily or material but the sentence lists wealth and status, which are social/material, and temporal is more specific." },
+        { "distractor": "spiritual", "closeness": 3, "reasoning": "Spiritual relates to the soul; the sentence shows the monk renounced temporal concerns to pursue spiritual goals." },
+        { "distractor": "eternal", "closeness": 3, "reasoning": "Eternal means lasting forever but the monk renounced transient temporal concerns for spiritual pursuit." },
+        { "distractor": "permanent", "closeness": 3, "reasoning": "Permanent means lasting but temporal concerns are temporary and worldly." },
+        { "distractor": "societal", "closeness": 2, "reasoning": "Societal means relating to society but temporal is broader, including worldly concerns generally." },
+        { "distractor": "material", "closeness": 2, "reasoning": "Material relates to physical matter but temporal is broader, including worldly concerns." },
+        { "distractor": "bureaucratic", "closeness": 2, "reasoning": "Bureaucratic relates to institutions but does not capture worldly ambitions and concerns." },
+        { "distractor": "professional", "closeness": 2, "reasoning": "Professional relates to work but does not encompass all temporal concerns like wealth and status." },
+        { "distractor": "emotional", "closeness": 1, "reasoning": "Emotional relates to feelings but temporal concerns are worldly matters, not emotional states." },
+        { "distractor": "intellectual", "closeness": 1, "reasoning": "Intellectual relates to the mind but temporal concerns are worldly and material." },
+        { "distractor": "biological", "closeness": 1, "reasoning": "Biological relates to life and organisms but temporal concerns are worldly and social." }
+      ]
+    }
+  ]
+}

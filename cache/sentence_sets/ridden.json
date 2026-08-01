@@ -1,0 +1,53 @@
+{
+  "word": "ridden",
+  "sentenceSets": [
+    {
+      "sentence": "The entrepreneur was guilt-ridden over past decisions, constantly second-guessing choices that had ultimately proven successful.",
+      "answerChoices": [
+        { "distractor": "burdened", "closeness": 3, "reasoning": "Guilt weighs on him like a burden, but burdened simply means heavily loaded or oppressed, not specifically obsessed or harassed by guilt." },
+        { "distractor": "tormented", "closeness": 3, "reasoning": "Guilt torments him, but tormented emphasizes severe suffering or distress, whereas ridden describes being preoccupied or obsessed." },
+        { "distractor": "plagued", "closeness": 3, "reasoning": "Guilt plagues his thoughts, and plagued means troubled repeatedly, but plagued emphasizes recurring trouble, not the obsessive quality of ridden." },
+        { "distractor": "haunted", "closeness": 3, "reasoning": "Guilt haunts him, but haunted emphasizes being persistently troubled by a memory or past event, not the obsessive present preoccupation of ridden." },
+        { "distractor": "weighed_down", "closeness": 2, "reasoning": "Guilt weighs on him, but weighed down emphasizes heaviness and oppression, not the obsessive harassing nature of ridden." },
+        { "distractor": "consumed", "closeness": 2, "reasoning": "Guilt could consume his thoughts, but consumed emphasizes total absorption, whereas ridden is more about obsessive preoccupation." },
+        { "distractor": "preoccupied", "closeness": 2, "reasoning": "He is preoccupied with guilt, and preoccupied means having the mind absorbed, but preoccupied is milder than ridden's sense of being harassed." },
+        { "distractor": "troubled", "closeness": 2, "reasoning": "He is troubled by guilt, but troubled simply means disturbed or worried, not necessarily the obsessive harassing quality of ridden." },
+        { "distractor": "proud", "closeness": 1, "reasoning": "He is guilt-ridden over decisions; proud would mean pleased or satisfied with achievements, opposite to guilt." },
+        { "distractor": "confident", "closeness": 1, "reasoning": "He is guilt-ridden, constantly second-guessing; confident would mean assured and certain, opposite to ridden doubt." },
+        { "distractor": "satisfied", "closeness": 1, "reasoning": "He is ridden by guilt despite successful outcomes; satisfied would mean content and pleased, opposite of guilt." }
+      ]
+    },
+    {
+      "sentence": "The nation was debt-ridden, unable to meet its obligations as revenue plummeted and expenditures soared during the crisis.",
+      "answerChoices": [
+        { "distractor": "dependent", "closeness": 3, "reasoning": "A debt-ridden nation is dependent on creditors, but dependent simply means relying on others, not the specific oppression of being burdened by debt." },
+        { "distractor": "bankrupt", "closeness": 3, "reasoning": "A debt-ridden nation approaches bankruptcy, but bankrupt means lacking money to pay debts, whereas ridden describes the state of being harassed or obsessed by debt." },
+        { "distractor": "insolvent", "closeness": 3, "reasoning": "A debt-ridden nation may be insolvent, but insolvent means unable to pay obligations, not specifically the obsessive burdening of being debt-ridden." },
+        { "distractor": "impoverished", "closeness": 3, "reasoning": "A debt-ridden nation becomes poor, but impoverished means lacking wealth, not specifically burdened by debt." },
+        { "distractor": "encumbered", "closeness": 2, "reasoning": "Debt encumbers a nation, and encumbered means burdened with obligations, but encumbered emphasizes being weighted down, not the harassing obsessive nature of ridden." },
+        { "distractor": "overburdened", "closeness": 2, "reasoning": "A debt-ridden nation is overburdened, but overburdened emphasizes excessive load, not the specific oppressive quality of being ridden." },
+        { "distractor": "constrained", "closeness": 2, "reasoning": "Debt constrains the nation's options, but constrained emphasizes being restricted, not the obsessive harassing nature of ridden." },
+        { "distractor": "compromised", "closeness": 2, "reasoning": "Debt compromises the nation's stability, but compromised emphasizes being weakened or made less secure, not ridden's quality." },
+        { "distractor": "solvent", "closeness": 1, "reasoning": "The nation is debt-ridden, unable to meet obligations; solvent would mean able to pay debts, opposite." },
+        { "distractor": "thriving", "closeness": 1, "reasoning": "The nation struggles under debt; thriving would mean prospering and doing well, opposite of debt-ridden." },
+        { "distractor": "affluent", "closeness": 1, "reasoning": "The nation is debt-ridden with plummeting revenue; affluent would mean wealthy and prosperous, opposite." }
+      ]
+    },
+    {
+      "sentence": "The researcher was ambition-ridden, driven by an obsessive need to publish more papers than her colleagues regardless of quality concerns.",
+      "answerChoices": [
+        { "distractor": "motivated", "closeness": 3, "reasoning": "She is motivated by ambition, but motivated simply means given a reason or drive, not the harassing obsessive quality of ridden." },
+        { "distractor": "driven", "closeness": 3, "reasoning": "She is driven by ambition, but driven emphasizes being compelled or pushed forward, not the obsessive harassing nature of ridden." },
+        { "distractor": "possessed", "closeness": 3, "reasoning": "Ambition possesses her, but possessed emphasizes being taken over by something, not the specific harassing obsessive quality." },
+        { "distractor": "obsessed", "closeness": 3, "reasoning": "She is obsessed with ambition, and obsessed means preoccupied excessively, but obsessed emphasizes excessive thought, while ridden emphasizes harassment." },
+        { "distractor": "compelled", "closeness": 2, "reasoning": "She is compelled by ambition, but compelled emphasizes being forced or driven, not the obsessive harassing nature." },
+        { "distractor": "determined", "closeness": 2, "reasoning": "She is determined to publish more, but determined emphasizes firmness of purpose, not the harassing obsessive quality." },
+        { "distractor": "focused", "closeness": 2, "reasoning": "She is focused on publication goals, but focused emphasizes concentration, not the obsessive harassing nature." },
+        { "distractor": "persistent", "closeness": 2, "reasoning": "She persists in her goal, but persistent emphasizes sustained effort, not the harassing obsessive quality of ridden." },
+        { "distractor": "indifferent", "closeness": 1, "reasoning": "She is ambition-ridden with obsessive drive; indifferent would mean unconcerned and unmotivated, opposite." },
+        { "distractor": "content", "closeness": 1, "reasoning": "She is harassed by ambition; content would mean satisfied with current circumstances, opposite." },
+        { "distractor": "apathetic", "closeness": 1, "reasoning": "She is obsessively driven by ambition; apathetic would mean lacking interest or motivation, opposite." }
+      ]
+    }
+  ]
+}

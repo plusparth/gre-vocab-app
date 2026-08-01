@@ -1,0 +1,53 @@
+{
+  "word": "summit",
+  "sentenceSets": [
+    {
+      "sentence": "At the summit of her influence, she chose to direct it toward the institution rather than toward advancing her own position further.",
+      "answerChoices": [
+        { "distractor": "peak", "closeness": 3, "reasoning": "'Peak' means highest point; while her influence reaches its peak, the sentence emphasizes the moment of maximum reach that she now directs elsewhere." },
+        { "distractor": "apex", "closeness": 3, "reasoning": "'Apex' means highest point; similar to 'summit,' but the sentence uses 'summit' to emphasize the pinnacle moment of decision." },
+        { "distractor": "pinnacle", "closeness": 3, "reasoning": "'Pinnacle' means highest point; while her influence reaches this point, the sentence emphasizes the specific context of maximum reach." },
+        { "distractor": "climax", "closeness": 3, "reasoning": "'Climax' means the highest point of intensity or action; while her influence climaxes, the sentence emphasizes the positional apex." },
+        { "distractor": "height", "closeness": 2, "reasoning": "'Height' describes elevation or level; while her influence is at its height, 'summit' specifically means the topmost point." },
+        { "distractor": "zenith", "closeness": 2, "reasoning": "'Zenith' means the highest point in the sky; it's metaphorically used for peak achievement, but 'summit' emphasizes the altitude of power." },
+        { "distractor": "top", "closeness": 2, "reasoning": "'Top' means the highest part; while her influence is at the top, 'summit' adds specificity to a single pinnacle." },
+        { "distractor": "maximum", "closeness": 2, "reasoning": "'Maximum' describes the greatest amount; while her influence reaches maximum, 'summit' emphasizes the spatial apex." },
+        { "distractor": "base", "closeness": 1, "reasoning": "At the summit, she has reached the top; 'base' is the foundation at the bottom." },
+        { "distractor": "decline", "closeness": 1, "reasoning": "The summit represents the highest point; decline refers to going down." },
+        { "distractor": "beginning", "closeness": 1, "reasoning": "The summit is the peak reached after ascent; it's not a beginning point." }
+      ]
+    },
+    {
+      "sentence": "The climber's triumph at the summit of Everest was tempered by the knowledge that many have not survived the descent.",
+      "answerChoices": [
+        { "distractor": "peak", "closeness": 3, "reasoning": "'Peak' means highest point; Everest's peak is the ultimate elevation, but 'summit' specifically emphasizes the exact top where climbers plant flags." },
+        { "distractor": "top", "closeness": 3, "reasoning": "'Top' means highest part; while Everest's top is the goal, 'summit' emphasizes the precise apex." },
+        { "distractor": "crest", "closeness": 3, "reasoning": "'Crest' means the highest point of a ridge or wave; while reaching Everest's crest is the achievement, 'summit' is more specific." },
+        { "distractor": "altitude", "closeness": 3, "reasoning": "'Altitude' means height above sea level; reaching extreme altitude is central, but 'summit' emphasizes the specific topmost location." },
+        { "distractor": "height", "closeness": 2, "reasoning": "'Height' describes elevation; Everest's extreme height is relevant, but 'summit' emphasizes the specific location at the apex." },
+        { "distractor": "elevation", "closeness": 2, "reasoning": "'Elevation' means height above sea level; relevant to Everest, but 'summit' specifies the topmost point." },
+        { "distractor": "mountain", "closeness": 2, "reasoning": "Everest is a mountain, but the sentence specifically describes reaching its summit, not the mountain itself." },
+        { "distractor": "destination", "closeness": 2, "reasoning": "The summit is the destination, but 'destination' is broader and could include base camp or other points." },
+        { "distractor": "base", "closeness": 1, "reasoning": "The climber reaches the summit at the top; the base is at the bottom." },
+        { "distractor": "slope", "closeness": 1, "reasoning": "The summitis the top; the slope is the side of the mountain." },
+        { "distractor": "valley", "closeness": 1, "reasoning": "The summit is at the top of the mountain; a valley is a depression between mountains." }
+      ]
+    },
+    {
+      "sentence": "The negotiations reached a summit when both parties abandoned their original demands and focused on finding common ground.",
+      "answerChoices": [
+        { "distractor": "peak", "closeness": 3, "reasoning": "'Peak' means highest point; the negotiations peak when progress is made, but 'summit' emphasizes a pivotal meeting point of agreement." },
+        { "distractor": "breakthrough", "closeness": 3, "reasoning": "'Breakthrough' means a sudden advance; the negotiations achieve breakthrough, but 'summit' specifically suggests a high point of progress." },
+        { "distractor": "turning point", "closeness": 3, "reasoning": "The negotiations turn when parties shift strategy, but 'summit' emphasizes reaching the highest level of agreement." },
+        { "distractor": "climax", "closeness": 3, "reasoning": "'Climax' means the highest point of intensity; the negotiations climax when progress accelerates, but 'summit' emphasizes the apex of agreement." },
+        { "distractor": "consensus", "closeness": 2, "reasoning": "Consensus might be the goal, but the sentence describes the moment when talks reach their summit, not the agreement itself." },
+        { "distractor": "stalemate", "closeness": 2, "reasoning": "Before reaching the summit of progress, negotiations might hit a stalemate; the sentence shows they move past this." },
+        { "distractor": "compromise", "closeness": 2, "reasoning": "Compromise might result from reaching the summit of negotiations, but it's the outcome, not the highest point." },
+        { "distractor": "agreement", "closeness": 2, "reasoning": "Agreement might follow reaching the summit, but 'summit' describes the pivotal high point of negotiations." },
+        { "distractor": "impasse", "closeness": 1, "reasoning": "An impasse is deadlock; reaching the summit means getting past the impasse." },
+        { "distractor": "collapse", "closeness": 1, "reasoning": "Reaching the summit shows negotiations progress; collapse would mean failure." },
+        { "distractor": "beginning", "closeness": 1, "reasoning": "The summit is the high point reached during negotiations; it's not the beginning." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "subvert",
+  "sentenceSets": [
+    {
+      "sentence": "The amendment was designed to subvert the intent of the original provision while leaving its formal language unchanged.",
+      "answerChoices": [
+        { "distractor": "reinterpret", "closeness": 3, "reasoning": "While reinterpreting might change how a provision is understood, the sentence emphasizes deliberately overthrowing the intent, a more active undermining than reinterpretation." },
+        { "distractor": "obscure", "closeness": 3, "reasoning": "'Obscure' means to make unclear, but the sentence shows the formal language remains unchanged—the intent is deliberately overthrown, not just hidden." },
+        { "distractor": "contradict", "closeness": 3, "reasoning": "Though the amendment acts contrary to the original intent, 'contradict' suggests direct opposition; 'subvert' implies undermining from within while maintaining surface appearance." },
+        { "distractor": "supplement", "closeness": 3, "reasoning": "An amendment adds to existing law, but 'supplement' suggests supporting the original, while the sentence shows the amendment works to overthrow the original intent." },
+        { "distractor": "refine", "closeness": 2, "reasoning": "Amendments might refine provisions, but 'refine' suggests improving or clarifying; this amendment deliberately overthrows the original intent." },
+        { "distractor": "challenge", "closeness": 2, "reasoning": "The amendment does challenge the original intent, but 'challenge' suggests questioning; 'subvert' means actively overthrowing." },
+        { "distractor": "modify", "closeness": 2, "reasoning": "An amendment modifies law, but 'modify' is neutral; the sentence emphasizes the destructive purpose of overthrowing intent." },
+        { "distractor": "replace", "closeness": 2, "reasoning": "The amendment doesn't replace the language but changes the intent, so 'replace' misses the specific undermining quality." },
+        { "distractor": "preserve", "closeness": 1, "reasoning": "The amendment deliberately works against preserving the original intent." },
+        { "distractor": "honor", "closeness": 1, "reasoning": "Overthrowing the original intent is the opposite of honoring it." },
+        { "distractor": "support", "closeness": 1, "reasoning": "Subverting the intent directly opposes supporting it." }
+      ]
+    },
+    {
+      "sentence": "The whistleblower's revelations threatened to subvert the entire corporate hierarchy by exposing how senior executives had systematically concealed financial losses.",
+      "answerChoices": [
+        { "distractor": "destabilize", "closeness": 3, "reasoning": "While exposures destabilize organizations, 'destabilize' suggests temporary unbalance; 'subvert' means to overturn or ruin the foundational structure." },
+        { "distractor": "undermine", "closeness": 3, "reasoning": "'Undermine' means to weaken from below, but it's less absolute than 'subvert,' which means to completely overturn or ruin." },
+        { "distractor": "shake", "closeness": 3, "reasoning": "The revelations would shake the hierarchy, but 'shake' suggests temporary disturbance; 'subvert' means fundamental overthrow." },
+        { "distractor": "discredit", "closeness": 3, "reasoning": "Exposing executive misconduct would discredit leaders, but 'discredit' focuses on reputation; 'subvert' means overthrowing the structure itself." },
+        { "distractor": "embarrass", "closeness": 2, "reasoning": "The executives would be embarrassed, but that's a social consequence, not the overthrow of the organizational structure." },
+        { "distractor": "prosecute", "closeness": 2, "reasoning": "The revelations might lead to legal action, but 'prosecute' describes a legal process, not the overthrow of hierarchy." },
+        { "distractor": "investigate", "closeness": 2, "reasoning": "The revelations would prompt investigation, but that's a response to exposure, not the meaning of subverting structure." },
+        { "distractor": "reform", "closeness": 2, "reasoning": "The revelations might lead to reforms, but 'reform' suggests improvement or change, not the overthrowing and ruining implied by 'subvert.'" },
+        { "distractor": "legitimate", "closeness": 1, "reasoning": "Exposing systematic concealment works to destroy legitimacy, not to establish it." },
+        { "distractor": "strengthen", "closeness": 1, "reasoning": "Revealing executive misconduct works against strengthening the hierarchy." },
+        { "distractor": "stabilize", "closeness": 1, "reasoning": "Exposing hidden losses would destabilize rather than stabilize the organization." }
+      ]
+    },
+    {
+      "sentence": "The radical faction sought to subvert the government through a coordinated campaign of infiltration and sabotage designed to render its institutions non-functional.",
+      "answerChoices": [
+        { "distractor": "reform", "closeness": 3, "reasoning": "While both involve change, 'reform' seeks to improve institutions; the sentence describes deliberately rendering them non-functional, which is overthrowing or ruining, not improving." },
+        { "distractor": "challenge", "closeness": 3, "reasoning": "The faction challenges the government, but 'challenge' suggests questioning its authority; 'subvert' means actively overthrowing and ruining it." },
+        { "distractor": "protest", "closeness": 3, "reasoning": "'Protest' expresses opposition; the sentence describes systematic infiltration and sabotage designed to destroy functioning, not mere objection." },
+        { "distractor": "criticize", "closeness": 3, "reasoning": "The faction clearly opposes the government, but 'criticize' suggests voicing objections; the sentence shows active destruction of capability." },
+        { "distractor": "investigate", "closeness": 2, "reasoning": "The sentence describes deliberate undermining through infiltration and sabotage, not investigative inquiry." },
+        { "distractor": "replace", "closeness": 2, "reasoning": "The faction wants to destroy governmental functioning, but the sentence doesn't specify their intent to replace it with something else." },
+        { "distractor": "isolate", "closeness": 2, "reasoning": "Infiltration and sabotage work to destroy functioning, not to separate or isolate government from society." },
+        { "distractor": "regulate", "closeness": 2, "reasoning": "Rendering institutions non-functional is opposite to regulating them or establishing rules." },
+        { "distractor": "support", "closeness": 1, "reasoning": "The radical faction opposes the government, so supporting it contradicts the sentence." },
+        { "distractor": "strengthen", "closeness": 1, "reasoning": "Infiltration and sabotage designed to render institutions non-functional weaken rather than strengthen." },
+        { "distractor": "legitimize", "closeness": 1, "reasoning": "Overthrowing and ruining government institutions contradicts legitimizing them." }
+      ]
+    }
+  ]
+}

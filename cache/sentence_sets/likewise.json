@@ -1,0 +1,53 @@
+{
+  "word": "likewise",
+  "sentenceSets": [
+    {
+      "sentence": "The CEO praised the marketing department's innovative campaign; the finance team likewise earned recognition for their cost-reduction strategy that saved the company millions.",
+      "answerChoices": [
+        { "distractor": "similarly", "closeness": 3, "reasoning": "While 'similarly' suggests a comparable manner, the sentence shows the CEO extending recognition to both teams for different accomplishments; 'similarly' could imply they took parallel approaches rather than both receiving acknowledgment." },
+        { "distractor": "correspondingly", "closeness": 3, "reasoning": "The sentence presents two separate achievements that both earned the CEO's recognition; 'correspondingly' emphasizes proportional response rather than simply indicating that the finance team also was recognized." },
+        { "distractor": "equivalently", "closeness": 3, "reasoning": "Though both teams earned recognition, the sentence doesn't specify that their rewards were of equal value; 'equivalently' stresses equal importance, whereas the sentence only connects them through shared acknowledgment." },
+        { "distractor": "identically", "closeness": 3, "reasoning": "The sentence shows the finance team earned recognition for different work than marketing; 'identically' suggests the same manner of achievement, which contradicts the distinctly different contexts described." },
+        { "distractor": "moreover", "closeness": 2, "reasoning": "While 'moreover' indicates additional information, the sentence requires a word that shows the finance team also received recognition in parallel; 'moreover' simply adds more facts without establishing the parallel structure." },
+        { "distractor": "additionally", "closeness": 2, "reasoning": "The sentence shows the finance team receiving the same treatment as marketing; 'additionally' signals the addition of more information but doesn't convey the parallel or matching nature of the recognition." },
+        { "distractor": "furthermore", "closeness": 2, "reasoning": "Though 'furthermore' adds more detail, it doesn't convey that the finance team's recognition paralleled the marketing team's; the sentence requires a word linking two equivalent achievements." },
+        { "distractor": "also", "closeness": 2, "reasoning": "While 'also' indicates addition, the sentence's structure demands a word that emphasizes parallel action and similar treatment; 'also' is too weak to capture the matched recognition shown in the sentence." },
+        { "distractor": "conversely", "closeness": 1, "reasoning": "The sentence shows the CEO recognizing achievements from both teams in a connected way; 'conversely' signals contrast or opposition, which contradicts the parallel structure of the sentence." },
+        { "distractor": "instead", "closeness": 1, "reasoning": "The sentence presents the finance team as also receiving praise, not replacing the marketing team's recognition; 'instead' suggests substitution, which reverses the sentence's intent." },
+        { "distractor": "nevertheless", "closeness": 1, "reasoning": "The sentence connects two positive recognitions without any contradiction; 'nevertheless' suggests the finance team's recognition comes despite an obstacle, which the sentence does not present." }
+      ]
+    },
+    {
+      "sentence": "When the first athlete collapsed exhausted after the race, her teammate likewise fell to the ground, both gasping for air.",
+      "answerChoices": [
+        { "distractor": "similarly", "closeness": 3, "reasoning": "Though 'similarly' conveys a comparable manner, the sentence requires a word indicating the teammate also experienced the same immediate physical response; 'similarly' could suggest a comparable but distinct experience." },
+        { "distractor": "correspondingly", "closeness": 3, "reasoning": "The sentence shows the teammate matching the first athlete's exact physical state at the same moment; 'correspondingly' suggests a proportional or related response rather than mirroring the collapse itself." },
+        { "distractor": "like", "closeness": 3, "reasoning": "While 'like' suggests comparison, the sentence requires an adverb establishing that the teammate also performed the action; 'like' as a conjunction would change the grammatical structure and meaning." },
+        { "distractor": "identically", "closeness": 3, "reasoning": "The sentence describes both athletes collapsing from exhaustion, though the first athlete may have pushed harder; 'identically' emphasizes exact sameness in manner, which might overstate the equivalence." },
+        { "distractor": "subsequently", "closeness": 2, "reasoning": "While 'subsequently' indicates temporal sequence, the sentence implies the teammate collapsed at roughly the same moment; 'subsequently' suggests the teammate's collapse followed as a separate event." },
+        { "distractor": "subsequently", "closeness": 2, "reasoning": "Although 'consequently' might suggest the teammate collapsed as a result of witnessing the first athlete, the sentence doesn't establish a causal relationship; both collapsed from their own exertion." },
+        { "distractor": "simultaneously", "closeness": 2, "reasoning": "Though 'simultaneously' could fit the timing, the sentence emphasizes the parallel nature and shared experience rather than precise temporal overlap; the word doesn't convey the mirrored action." },
+        { "distractor": "also", "closeness": 2, "reasoning": "While 'also' indicates the teammate also collapsed, the sentence's emphasis on the parallel experience and matching physical state requires a word conveying manner and similarity, not just addition." },
+        { "distractor": "separately", "closeness": 1, "reasoning": "The sentence describes both athletes collapsing together in a shared moment of exhaustion; 'separately' contradicts the unified experience and parallel action shown in the sentence." },
+        { "distractor": "differently", "closeness": 1, "reasoning": "The sentence shows both athletes collapsing in the same way from the same cause; 'differently' contradicts the parallel physical response that defines the sentence." },
+        { "distractor": "reluctantly", "closeness": 1, "reasoning": "The sentence describes an inevitable physical collapse from exhaustion, not a hesitant or unwilling action; 'reluctantly' attributes a mental state that doesn't fit the involuntary collapse." }
+      ]
+    },
+    {
+      "sentence": "The first manuscript was rejected for unclear prose; the author revised and resubmitted, but the publisher likewise found fault with the second draft.",
+      "answerChoices": [
+        { "distractor": "similarly", "closeness": 3, "reasoning": "While 'similarly' suggests comparable treatment, the sentence requires a word indicating the publisher also rejected the manuscript; 'similarly' could imply they had similar objections without confirming a second rejection." },
+        { "distractor": "again", "closeness": 3, "reasoning": "Though 'again' indicates a repeated action, the sentence structure requires an adverb showing the publisher's objection paralleled the first rejection; 'again' emphasizes repetition without the connective meaning." },
+        { "distractor": "too", "closeness": 3, "reasoning": "While 'too' indicates additional inclusion, the sentence's semicolon structure requires a word emphasizing that the publisher's criticism matched the previous pattern; 'too' is weaker than the parallel established by the sentence." },
+        { "distractor": "correspondingly", "closeness": 3, "reasoning": "The sentence shows the publisher finding fault as the first reviewer did; 'correspondingly' suggests a proportional response rather than an equivalent rejection based on similar grounds." },
+        { "distractor": "furthermore", "closeness": 2, "reasoning": "While 'furthermore' adds additional information, the sentence requires a word showing the publisher's rejection paralleled the first; 'furthermore' doesn't establish the mirrored negative response." },
+        { "distractor": "moreover", "closeness": 2, "reasoning": "Though 'moreover' indicates additional details, the sentence needs a word conveying that the publisher also objected in a manner matching the first rejection; 'moreover' is too neutral for the parallel structure." },
+        { "distractor": "additionally", "closeness": 2, "reasoning": "While 'additionally' signals more information, the sentence requires emphasis on the publisher replicating the earlier criticism; 'additionally' doesn't capture the parallel pattern." },
+        { "distractor": "also", "closeness": 2, "reasoning": "Though 'also' shows the publisher joined in finding fault, the sentence's context demands a word suggesting the publisher's rejection mirrored the first one; 'also' is insufficient for establishing the parallel." },
+        { "distractor": "conversely", "closeness": 1, "reasoning": "The sentence shows both the first reviewer and publisher finding problems with the manuscript; 'conversely' signals contrast or opposition, which contradicts the parallel rejections." },
+        { "distractor": "instead", "closeness": 1, "reasoning": "The sentence shows the publisher also finding fault, not replacing the first criticism with something different; 'instead' implies substitution rather than a repeated problem." },
+        { "distractor": "however", "closeness": 1, "reasoning": "Though the author revised the manuscript hoping for better results, the sentence doesn't position the publisher's response as a contradiction; 'however' suggests unexpected contrast where the sentence shows repeated criticism." }
+      ]
+    }
+  ]
+}

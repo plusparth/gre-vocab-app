@@ -1,0 +1,185 @@
+{
+  "word": "sediment",
+  "sentenceSets": [
+    {
+      "sentence": "After the river flooded, thick sediment settled to the bottom of the reservoir, clogging the intake pipes and requiring expensive maintenance.",
+      "answerChoices": [
+        {
+          "distractor": "debris",
+          "closeness": 3,
+          "reasoning": "Debris refers to scattered remains or fragments, which sediment includes, but debris implies broken pieces; sediment emphasizes fine particles that settle to the bottom."
+        },
+        {
+          "distractor": "silt",
+          "closeness": 3,
+          "reasoning": "Silt is fine sediment deposited by water, which is what the river carries, but silt is a type of sediment; the sentence uses the broader term."
+        },
+        {
+          "distractor": "particles",
+          "closeness": 3,
+          "reasoning": "Particles are small pieces of matter, which sediment is made of, but particles is too general; sediment specifically means matter settling to the bottom of liquid."
+        },
+        {
+          "distractor": "residue",
+          "closeness": 3,
+          "reasoning": "Residue means remaining substance after removal, which settles like sediment, but residue emphasizes what's left; sediment emphasizes settling to the bottom."
+        },
+        {
+          "distractor": "material",
+          "closeness": 2,
+          "reasoning": "Material means substance or matter, which sediment is, but material is too general and doesn't specify settling or deposition."
+        },
+        {
+          "distractor": "deposit",
+          "closeness": 2,
+          "reasoning": "Deposit means something placed or left behind, which sediment is; while related, deposit is broader and doesn't emphasize settling to the bottom."
+        },
+        {
+          "distractor": "mud",
+          "closeness": 2,
+          "reasoning": "Mud is wet sediment, but mud is specifically sediment mixed with water; the sentence describes matter settling to the bottom of a reservoir."
+        },
+        {
+          "distractor": "water",
+          "closeness": 1,
+          "reasoning": "Water is the liquid medium; sediment is the matter that settles in that medium, not the water itself."
+        },
+        {
+          "distractor": "pebbles",
+          "closeness": 1,
+          "reasoning": "Pebbles are large stones; sediment consists of fine particles that settle, not large rocks."
+        },
+        {
+          "distractor": "gas",
+          "closeness": 1,
+          "reasoning": "Gas is a state of matter; sediment is solid particles that settle in liquid, not gaseous."
+        },
+        {
+          "distractor": "foam",
+          "closeness": 2,
+          "reasoning": "Foam is bubbles of air in liquid; sediment is solid matter settling to the bottom, not air bubbles."
+        }
+      ]
+    },
+    {
+      "sentence": "The geologist examined the sediment cores extracted from the ocean floor, reading millions of years of climate history in the layered deposits.",
+      "answerChoices": [
+        {
+          "distractor": "rock",
+          "closeness": 3,
+          "reasoning": "Rock can form from compacted sediment over time, fitting geological study, but rock implies solid, hardened material; sediment is unconsolidated particles."
+        },
+        {
+          "distractor": "samples",
+          "closeness": 3,
+          "reasoning": "Samples are specimens taken for testing, which the sediment cores are, but samples emphasizes the collecting process; sediment specifically names the material itself."
+        },
+        {
+          "distractor": "strata",
+          "closeness": 3,
+          "reasoning": "Strata are layers of rock or sediment, which the cores show, but strata emphasizes the layering; sediment names the material making up those layers."
+        },
+        {
+          "distractor": "layers",
+          "closeness": 3,
+          "reasoning": "Layers are levels or thicknesses of material, which the cores display, but layers emphasize structure; sediment names what is layered."
+        },
+        {
+          "distractor": "materials",
+          "closeness": 2,
+          "reasoning": "Materials are substances used or found, which sediment is, but materials is too general and doesn't specify settling in water or layering."
+        },
+        {
+          "distractor": "evidence",
+          "closeness": 2,
+          "reasoning": "Evidence refers to proof or indications, which the sediment provides, but evidence is abstract; sediment is the physical material from which we read history."
+        },
+        {
+          "distractor": "fossils",
+          "closeness": 2,
+          "reasoning": "Fossils are preserved remains of organisms found in sediment, but fossils are specific objects; sediment is the material containing them."
+        },
+        {
+          "distractor": "water",
+          "closeness": 1,
+          "reasoning": "Water is the medium where sediment settles; sediment is the solid matter, not the water."
+        },
+        {
+          "distractor": "minerals",
+          "closeness": 1,
+          "reasoning": "Minerals are inorganic crystalline substances; sediment consists of particles, some mineral but including organic matter."
+        },
+        {
+          "distractor": "ice",
+          "closeness": 1,
+          "reasoning": "Ice is frozen water; sediment is the matter that settles in water and ocean floors, not ice."
+        },
+        {
+          "distractor": "air",
+          "closeness": 2,
+          "reasoning": "Air is the atmosphere; sediment settles in water bodies, not in air."
+        }
+      ]
+    },
+    {
+      "sentence": "The river's sediment load increased dramatically during spring flooding, carrying topsoil and nutrients downstream and depositing them in the delta.",
+      "answerChoices": [
+        {
+          "distractor": "current",
+          "closeness": 3,
+          "reasoning": "Current is the flow of water, which carries sediment, but current is the force; sediment is the material being transported."
+        },
+        {
+          "distractor": "discharge",
+          "closeness": 3,
+          "reasoning": "Discharge is the volume of water flowing, which carries sediment, but discharge measures water volume; sediment measures solid material."
+        },
+        {
+          "distractor": "flow",
+          "closeness": 3,
+          "reasoning": "Flow is the movement of water, which carries sediment, but flow is the movement process; sediment is the material being moved."
+        },
+        {
+          "distractor": "erosion",
+          "closeness": 3,
+          "reasoning": "Erosion is the wearing away of land, which produces sediment, but erosion is the process; sediment is the result of that process."
+        },
+        {
+          "distractor": "runoff",
+          "closeness": 2,
+          "reasoning": "Runoff is water flowing over land surface, which carries sediment, but runoff is the water; sediment is what the water carries."
+        },
+        {
+          "distractor": "waste",
+          "closeness": 2,
+          "reasoning": "Waste is unwanted material, which sediment might seem during flooding, but waste emphasizes unwanted status; sediment includes valuable nutrients."
+        },
+        {
+          "distractor": "pollution",
+          "closeness": 2,
+          "reasoning": "Pollution is contamination, which flooding can spread, but pollution emphasizes harmful substances; sediment naturally includes nutrients."
+        },
+        {
+          "distractor": "water",
+          "closeness": 1,
+          "reasoning": "Water is the medium; sediment is the solid particles being transported by water."
+        },
+        {
+          "distractor": "debris",
+          "closeness": 1,
+          "reasoning": "Debris refers to scattered remains or broken pieces; sediment consists of natural particles and nutrients from topsoil."
+        },
+        {
+          "distractor": "ice",
+          "closeness": 1,
+          "reasoning": "Ice is frozen water; sediment is solid material transported by flowing water."
+        },
+        {
+          "distractor": "air",
+          "closeness": 2,
+          "reasoning": "Air is the atmosphere; sediment is material transported by flowing water in a river, not by air."
+        }
+      ]
+    }
+  ]
+}

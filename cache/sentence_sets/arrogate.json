@@ -1,0 +1,53 @@
+{
+  "word": "arrogate",
+  "sentenceSets": [
+    {
+      "sentence": "The minister arrogated to himself powers that properly belonged to the legislature.",
+      "answerChoices": [
+        { "distractor": "usurp", "closeness": 3, "reasoning": "'Usurp' means to seize power illegally; while both describe unjustified seizure, 'arrogate' emphasizes claiming without justification, while 'usurp' emphasizes illegal seizing." },
+        { "distractor": "appropriate", "closeness": 3, "reasoning": "'Appropriate' means to take for one's own use; while the minister appropriated powers, the sentence emphasizes the unjustified claiming, and 'appropriate' can mean simply taking without negative connotation." },
+        { "distractor": "assume", "closeness": 3, "reasoning": "'Assume' means to take on or begin; while the minister assumed powers, the sentence emphasizes the unjustified claiming, and 'assume' doesn't necessarily imply wrongdoing." },
+        { "distractor": "commandeer", "closeness": 3, "reasoning": "'Commandeer' means to seize for military or emergency use; while the minister seized powers, the sentence shows deliberate unjustified claiming, not emergency appropriation." },
+        { "distractor": "seize", "closeness": 2, "reasoning": "'Seize' means to take suddenly; while the minister seized powers, the sentence emphasizes the unjustified claiming—the reason this was wrong." },
+        { "distractor": "confiscate", "closeness": 2, "reasoning": "'Confiscate' means to take possession officially; while related, it typically implies official/legal taking, whereas 'arrogate' emphasizes unjustified claiming." },
+        { "distractor": "monopolize", "closeness": 2, "reasoning": "'Monopolize' means to have exclusive control; while the minister monopolized powers, the sentence emphasizes the unjustified claiming, not just exclusive holding." },
+        { "distractor": "exert", "closeness": 2, "reasoning": "'Exert' means to apply or bring to bear; the minister exerted powers, but the sentence emphasizes the unjustified claiming of them." },
+        { "distractor": "relinquish", "closeness": 1, "reasoning": "Relinquish means to give up or surrender; it is the opposite of the unjustified claiming the sentence describes." },
+        { "distractor": "delegate", "closeness": 1, "reasoning": "Delegate means to authorize someone else to act; the sentence shows the minister taking powers, not delegating them." },
+        { "distractor": "abdicate", "closeness": 1, "reasoning": "Abdicate means to renounce or abandon; it is the opposite of the claiming behavior described in the sentence." }
+      ]
+    },
+    {
+      "sentence": "Critics argued that the theorist had arrogated the work of earlier researchers, building his entire framework on their unacknowledged foundations.",
+      "answerChoices": [
+        { "distractor": "plagiarized", "closeness": 3, "reasoning": "While 'plagiarized' means to present another's work as one's own, the sentence shows foundation-building (acknowledged or not), not direct copying; arrogation suggests claiming intellectual territory." },
+        { "distractor": "appropriated", "closeness": 3, "reasoning": "'Appropriated' means to take for one's own use; while he appropriated ideas, the sentence emphasizes unjustified claiming without acknowledgment." },
+        { "distractor": "usurped", "closeness": 3, "reasoning": "'Usurped' means to seize power illegally; while he seized intellectual authority, the sentence shows idea-appropriation more than power-seizure." },
+        { "distractor": "misattributed", "closeness": 3, "reasoning": "'Misattributed' means to assign credit wrongly; while the work is unacknowledged, the sentence emphasizes arrogation (claiming without justification) rather than wrong attribution." },
+        { "distractor": "imitated", "closeness": 2, "reasoning": "'Imitated' means to copy or mimic; while he copied ideas, the sentence emphasizes claiming them as his intellectual foundation." },
+        { "distractor": "absorbed", "closeness": 2, "reasoning": "'Absorbed' means to take in; while he absorbed earlier work, the sentence emphasizes the unjustified claiming without acknowledgment." },
+        { "distractor": "paraphrased", "closeness": 2, "reasoning": "'Paraphrased' means to restate in one's own words; while he may have paraphrased, the sentence emphasizes unjustified claiming." },
+        { "distractor": "borrowed", "closeness": 2, "reasoning": "'Borrowed' can mean to take temporarily; while he borrowed ideas, the sentence emphasizes claiming them without justification." },
+        { "distractor": "acknowledged", "closeness": 1, "reasoning": "Acknowledged means to recognize or admit; the sentence emphasizes the work was unacknowledged—the opposite of this distractor." },
+        { "distractor": "cited", "closeness": 1, "reasoning": "Cited means to quote or reference as evidence; the sentence emphasizes the work was unacknowledged, the opposite of citation." },
+        { "distractor": "credited", "closeness": 1, "reasoning": "Credited means to give recognition; the sentence emphasizes the work was unacknowledged, the opposite of crediting." }
+      ]
+    },
+    {
+      "sentence": "The director arrogated the screenplay to herself despite the original writer's principal role, crediting herself as author when the industry awards rolled around.",
+      "answerChoices": [
+        { "distractor": "assumed", "closeness": 3, "reasoning": "'Assumed' means to take on; while she assumed authorship, the sentence emphasizes unjustified claiming—taking credit despite another's principal role." },
+        { "distractor": "usurped", "closeness": 3, "reasoning": "'Usurped' means to seize power illegally; while she seized authorship, the sentence emphasizes claiming without justification in a professional/ethical context." },
+        { "distractor": "monopolized", "closeness": 3, "reasoning": "'Monopolized' means to have exclusive control; while she monopolized credit, the sentence emphasizes unjustified claiming of authorship." },
+        { "distractor": "proclaimed", "closeness": 3, "reasoning": "'Proclaimed' means to announce or declare; while she proclaimed herself author, the sentence emphasizes the unjustified claiming, not just the announcement." },
+        { "distractor": "claimed", "closeness": 2, "reasoning": "'Claimed' means to assert as true; while she claimed authorship, 'arrogated' emphasizes the unjustified nature and the spite toward the original writer." },
+        { "distractor": "declared", "closeness": 2, "reasoning": "'Declared' means to announce formally; while she declared herself author, the sentence emphasizes unjustified taking of credit." },
+        { "distractor": "took credit", "closeness": 2, "reasoning": "To take credit means to accept recognition; while she took credit, 'arrogated' emphasizes the unjustified nature—taking what wasn't rightfully hers." },
+        { "distractor": "presented", "closeness": 2, "reasoning": "'Presented' means to introduce or offer; while she presented herself as author, the sentence emphasizes the unjustified claiming." },
+        { "distractor": "acknowledged", "closeness": 1, "reasoning": "Acknowledged means to recognize or admit; the sentence shows she claimed sole authorship despite the original writer's role—the opposite of acknowledgment." },
+        { "distractor": "attributed", "closeness": 1, "reasoning": "Attributed means to credit or assign to; she credited herself, not the original writer—the opposite of proper attribution." },
+        { "distractor": "deferred", "closeness": 1, "reasoning": "Deferred means to yield to another's judgment; the sentence shows she took credit herself, the opposite of deferring to the original writer." }
+      ]
+    }
+  ]
+}

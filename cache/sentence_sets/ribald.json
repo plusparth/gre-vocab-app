@@ -1,0 +1,53 @@
+{
+  "word": "ribald",
+  "sentenceSets": [
+    {
+      "sentence": "The ribald humor that characterized the informal gatherings was absent from the formal proceedings, where everyone behaved very differently.",
+      "answerChoices": [
+        { "distractor": "crude", "closeness": 3, "reasoning": "Ribald humor is crude and offensive, and crude describes rough lack of refinement, but crude can mean simply unpolished, not necessarily the offensive lewdness specific to ribald." },
+        { "distractor": "vulgar", "closeness": 3, "reasoning": "Ribald humor is vulgar and offensive, but vulgar describes lack of taste or refinement, not necessarily the lewd sexual quality that characterizes ribald humor." },
+        { "distractor": "coarse", "closeness": 3, "reasoning": "Ribald is marked by coarseness, and coarse means rough or lacking refinement, but coarse can refer to texture or general rudeness, not specifically the lewd offensive quality." },
+        { "distractor": "uncouth", "closeness": 3, "reasoning": "Uncouth describes lack of manners and refinement, which ribald humor displays, but uncouth focuses on lacking sophistication, not the sexual lewdness of ribald." },
+        { "distractor": "bawdy", "closeness": 2, "reasoning": "Bawdy humor is humorously indecent or lewd, close to ribald, but bawdy often carries a more playful or humorous tone, whereas ribald emphasizes coarseness and offense." },
+        { "distractor": "lewd", "closeness": 2, "reasoning": "Lewdness characterizes ribald humor, but lewd specifically emphasizes sexual indecency, whereas ribald encompasses broader coarse and offensive qualities." },
+        { "distractor": "smutty", "closeness": 2, "reasoning": "Smutty humor is indecent or obscene, close to ribald, but smutty specifically emphasizes sexual indecency through obscene language or ideas." },
+        { "distractor": "raunchy", "closeness": 2, "reasoning": "Raunchy humor is crude and sexually indecent, but raunchy has a modern slang quality emphasizing sexual crudeness more than ribald's broader offense." },
+        { "distractor": "refined", "closeness": 1, "reasoning": "The ribald humor is contrasted with formal proceedings where everyone behaves differently; refined would mean polished and cultured, opposite to ribald." },
+        { "distractor": "decorous", "closeness": 1, "reasoning": "Ribald humor is absent in formal proceedings; decorous means proper and dignified, the opposite of ribald offense." },
+        { "distractor": "genteel", "closeness": 1, "reasoning": "Ribald humor contrasts with formal proceedings; genteel means polite and refined, opposite to ribald coarseness." }
+      ]
+    },
+    {
+      "sentence": "The actor refused the ribald comedy role, finding the material too offensive for his carefully cultivated public image.",
+      "answerChoices": [
+        { "distractor": "sarcastic", "closeness": 3, "reasoning": "The comedy could employ sarcasm to be funny, but sarcastic describes using ironic mock praise, not the coarse offensive quality of ribald." },
+        { "distractor": "satirical", "closeness": 3, "reasoning": "The comedy could use satire to mock, but satirical emphasizes witty social criticism, not the coarse and lewd nature of ribald humor." },
+        { "distractor": "irreverent", "closeness": 3, "reasoning": "The comedy disrespects conventions, fitting irreverent, but irreverent focuses on lacking respect, not the specific coarse and lewd quality of ribald." },
+        { "distractor": "provocative", "closeness": 3, "reasoning": "The role would provoke strong reactions, but provocative means tending to arouse reaction, not specifically the coarse lewd quality of ribald." },
+        { "distractor": "controversial", "closeness": 2, "reasoning": "The role would be controversial, but controversial simply means arousing debate, not necessarily the coarse offensive nature of ribald material." },
+        { "distractor": "explicit", "closeness": 2, "reasoning": "The material might be sexually explicit, fitting refusal, but explicit simply means clearly expressed, not necessarily coarse or offensive." },
+        { "distractor": "inappropriate", "closeness": 2, "reasoning": "The material is inappropriate for his image, but inappropriate simply means unsuitable, not specifically the coarse and lewd quality of ribald." },
+        { "distractor": "edgy", "closeness": 2, "reasoning": "The comedy might be edgy to challenge boundaries, but edgy means bold or daring, not necessarily coarse and offensive like ribald." },
+        { "distractor": "wholesome", "closeness": 1, "reasoning": "He refuses ribald material to protect his image; wholesome would mean pure and innocent, opposite to ribald." },
+        { "distractor": "dignified", "closeness": 1, "reasoning": "He refuses ribald roles for his image; dignified would mean worthy of respect, opposite to coarse ribald material." },
+        { "distractor": "modest", "closeness": 1, "reasoning": "Ribald material is coarse and lewd; modest would mean showing restraint and decorum, the opposite quality." }
+      ]
+    },
+    {
+      "sentence": "The ribald songs sung in the tavern shocked the genteel visitor, who had expected refined entertainment from the establishment.",
+      "answerChoices": [
+        { "distractor": "bawdy", "closeness": 3, "reasoning": "Bawdy songs are humorously indecent and lewd, close to ribald, but bawdy emphasizes playful or humorous indecency, not the broader coarse offensive quality of ribald." },
+        { "distractor": "lewd", "closeness": 3, "reasoning": "Lewdness characterizes the songs, and lewd means sexually indecent, but lewd specifically emphasizes sexual indecency, whereas ribald encompasses coarseness beyond just sexuality." },
+        { "distractor": "crude", "closeness": 3, "reasoning": "The songs are crude and offensive, and crude describes lack of refinement, but crude can refer to unpolished work generally, not specifically the offensive lewdness of ribald." },
+        { "distractor": "uncivil", "closeness": 3, "reasoning": "The songs are uncivil and rude, but uncivil focuses on lacking civility and courtesy, not the specific coarse and lewd quality of ribald." },
+        { "distractor": "vulgar", "closeness": 2, "reasoning": "The songs are vulgar and offensive, but vulgar emphasizes lack of taste and sophistication, not specifically the lewd coarse nature of ribald." },
+        { "distractor": "obscene", "closeness": 2, "reasoning": "The songs might be obscene in content, but obscene emphasizes graphic sexual indecency, not the broader coarse offensive quality of ribald." },
+        { "distractor": "rowdy", "closeness": 2, "reasoning": "Tavern songs might be rowdy and loud, but rowdy describes noisy boisterous behavior, not the coarse lewd content of ribald." },
+        { "distractor": "raucous", "closeness": 2, "reasoning": "The songs might be raucous and loud, but raucous describes loud harsh noise, not the coarse offensive content of ribald." },
+        { "distractor": "elegant", "closeness": 1, "reasoning": "The ribald songs shock the visitor; elegant would mean graceful and refined, the opposite of ribald coarseness." },
+        { "distractor": "decorous", "closeness": 1, "reasoning": "The songs are coarse and offensive; decorous would mean proper and fitting, opposite to ribald." },
+        { "distractor": "chaste", "closeness": 1, "reasoning": "The ribald songs are lewd; chaste means pure and innocent, the opposite quality." }
+      ]
+    }
+  ]
+}

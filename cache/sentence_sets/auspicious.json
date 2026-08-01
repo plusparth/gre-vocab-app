@@ -1,0 +1,53 @@
+{
+  "word": "auspicious",
+  "sentenceSets": [
+    {
+      "sentence": "Her auspicious debut suggested a long and distinguished career lay ahead.",
+      "answerChoices": [
+        { "distractor": "promising", "closeness": 3, "reasoning": "The debut is promising of future success, but 'promising' emphasizes likelihood, whereas 'auspicious' implies favorable omens and propitious circumstances." },
+        { "distractor": "successful", "closeness": 3, "reasoning": "The debut is successful, but 'successful' describes the actual achievement, not the promising or propitious nature." },
+        { "distractor": "impressive", "closeness": 3, "reasoning": "The debut is impressive to observers, but 'impressive' describes the effect produced, not the auspicious quality suggesting future success." },
+        { "distractor": "favorable", "closeness": 3, "reasoning": "The debut receives favorable reception, but 'favorable' emphasizes approval, not the specifically auspicious or propitious nature." },
+        { "distractor": "positive", "closeness": 2, "reasoning": "The debut is positive in outcome, but 'positive' is too general, not capturing the specifically propitious quality." },
+        { "distractor": "triumphant", "closeness": 2, "reasoning": "The debut is triumphant, but this emphasizes winning or victorious achievement, not the auspicious quality suggesting future success." },
+        { "distractor": "notable", "closeness": 2, "reasoning": "The debut is notable or noteworthy, but 'notable' describes significance, not the auspicious quality." },
+        { "distractor": "brilliant", "closeness": 2, "reasoning": "The debut is brilliant in execution, but 'brilliant' emphasizes quality of performance, not propitious signs." },
+        { "distractor": "inauspicious", "closeness": 1, "reasoning": "The opposite quality; an auspicious debut suggests good omens, not bad or unlucky signs." },
+        { "distractor": "unfortunate", "closeness": 1, "reasoning": "The opposite condition; an auspicious debut is favorable and propitious, not unfortunate." },
+        { "distractor": "mediocre", "closeness": 1, "reasoning": "The opposite in quality; an auspicious debut suggesting distinguished career is excellent, not mediocre." }
+      ]
+    },
+    {
+      "sentence": "The peace talks began under auspicious circumstances, with both sides expressing genuine desire for reconciliation.",
+      "answerChoices": [
+        { "distractor": "favorable", "closeness": 3, "reasoning": "The circumstances are favorable for negotiations, but 'favorable' emphasizes advantage, not the specifically propitious or promising nature." },
+        { "distractor": "hopeful", "closeness": 3, "reasoning": "The circumstances inspire hope for success, but 'hopeful' emphasizes emotional disposition, not the auspicious or propitious quality." },
+        { "distractor": "promising", "closeness": 3, "reasoning": "The circumstances are promising for peace, but 'promising' emphasizes likelihood of success, not the specifically auspicious nature." },
+        { "distractor": "positive", "closeness": 3, "reasoning": "Both sides are positive, but 'positive' describes attitude, not the auspicious quality of circumstances." },
+        { "distractor": "cooperative", "closeness": 2, "reasoning": "Both sides are willing to cooperate, but 'cooperative' describes their willingness, not the auspicious nature of circumstances." },
+        { "distractor": "propitious", "closeness": 2, "reasoning": "The circumstances are propitious, very close to 'auspicious,' but 'propitious' is more general in suggesting favorable conditions." },
+        { "distractor": "encouraging", "closeness": 2, "reasoning": "The circumstances are encouraging, but this describes emotional effect, not the auspicious or propitious nature." },
+        { "distractor": "optimistic", "closeness": 2, "reasoning": "The outlook is optimistic, but this describes attitude or outlook, not the auspicious quality of circumstances." },
+        { "distractor": "inauspicious", "closeness": 1, "reasoning": "The opposite quality; auspicious circumstances suggest good omens, whereas inauspicious suggests ill omens." },
+        { "distractor": "hostile", "closeness": 1, "reasoning": "The opposite tone; expressing genuine desire for reconciliation is auspicious, whereas hostility is inauspicious." },
+        { "distractor": "unpromising", "closeness": 1, "reasoning": "The opposite condition; auspicious circumstances suggest good prospects, not unpromising ones." }
+      ]
+    },
+    {
+      "sentence": "The auspicious arrival of the monsoon rains after months of drought brought relief and hope to the farmers.",
+      "answerChoices": [
+        { "distractor": "timely", "closeness": 3, "reasoning": "The rain arrives at a timely moment, but 'timely' emphasizes opportune timing, not the auspicious or propitious nature." },
+        { "distractor": "welcome", "closeness": 3, "reasoning": "The rain is welcome after drought, but 'welcome' describes reaction, not the auspicious quality suggesting good fortune." },
+        { "distractor": "fortunate", "closeness": 3, "reasoning": "The rain arrival is fortunate, but 'fortunate' emphasizes luck, not specifically the auspicious or propitious nature." },
+        { "distractor": "beneficial", "closeness": 3, "reasoning": "The rain benefits the farmers, but 'beneficial' emphasizes positive effects, not the auspicious or propitious nature." },
+        { "distractor": "needed", "closeness": 2, "reasoning": "The rain is needed by the farmers, but 'needed' describes necessity, not auspicious quality." },
+        { "distractor": "expected", "closeness": 2, "reasoning": "The seasonal rain is expected, but 'expected' describes anticipation, not the auspicious nature." },
+        { "distractor": "providential", "closeness": 2, "reasoning": "The rain is providential, emphasizing divine intervention, but 'auspicious' focuses on propitious signs." },
+        { "distractor": "refreshing", "closeness": 2, "reasoning": "The rain is refreshing after drought, but this describes sensation, not auspicious or propitious nature." },
+        { "distractor": "inauspicious", "closeness": 1, "reasoning": "The opposite quality; the rain's arrival is auspicious and propitious, not inauspicious or ill-omened." },
+        { "distractor": "untimely", "closeness": 1, "reasoning": "The opposite quality; the rain arrives at an auspicious moment, not untimely." },
+        { "distractor": "calamitous", "closeness": 1, "reasoning": "The opposite effect; the rain brings relief and hope, the opposite of calamity." }
+      ]
+    }
+  ]
+}

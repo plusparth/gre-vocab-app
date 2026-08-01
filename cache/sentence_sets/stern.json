@@ -1,0 +1,53 @@
+{
+  "word": "stern",
+  "sentenceSets": [
+    {
+      "sentence": "Her stern response to the request communicated that she considered the boundary that had been tested rather than the question that had been asked.",
+      "answerChoices": [
+        { "distractor": "curt", "closeness": 3, "reasoning": "Curt describes brief abrupt response, whereas stern implies severity and disapproval based on a violated principle." },
+        { "distractor": "harsh", "closeness": 3, "reasoning": "Harsh describes unkind or severe treatment, whereas stern specifically conveys disapproval over a boundary violation." },
+        { "distractor": "sharp", "closeness": 3, "reasoning": "Sharp describes a quick cutting response, whereas stern implies a measured serious response based on principle." },
+        { "distractor": "firm", "closeness": 3, "reasoning": "Firm describes steadfast unyielding position, whereas stern adds the dimension of severity and disapproval." },
+        { "distractor": "blunt", "closeness": 2, "reasoning": "Blunt describes directness without softening, whereas stern implies serious severity rooted in judgment." },
+        { "distractor": "decisive", "closeness": 2, "reasoning": "Decisive describes making quick clear choices, whereas stern implies ethical judgment and disapproval." },
+        { "distractor": "cold", "closeness": 2, "reasoning": "Cold describes emotional distance, whereas stern implies serious severity based on principle." },
+        { "distractor": "disapproving", "closeness": 2, "reasoning": "Disapproving describes showing disapproval, very close to stern but not carrying the same sense of austere severity." },
+        { "distractor": "kind", "closeness": 1, "reasoning": "Kind describes benevolent caring response, which is the opposite of the stern severity described." },
+        { "distractor": "warm", "closeness": 1, "reasoning": "Warm describes friendly approachable demeanor, contrary to the stern severity implied." },
+        { "distractor": "lenient", "closeness": 1, "reasoning": "Lenient describes forgiving permissive response, opposite to stern's serious disapproving tone." }
+      ]
+    },
+    {
+      "sentence": "The general's stern visage and quiet demeanor commanded respect without requiring any words to be spoken.",
+      "answerChoices": [
+        { "distractor": "austere", "closeness": 3, "reasoning": "Austere describes severity and simplicity, very close to stern but emphasizing plainness rather than just seriousness." },
+        { "distractor": "severe", "closeness": 3, "reasoning": "Severe describes harshness and rigor, nearly identical to stern but sometimes implying cruelty more than stern does." },
+        { "distractor": "serious", "closeness": 3, "reasoning": "Serious describes solemn grave demeanor, very close to stern but less suggestive of disapproval or hardness." },
+        { "distractor": "grave", "closeness": 3, "reasoning": "Grave describes serious weighty demeanor, nearly identical to stern but sometimes suggesting concern rather than severity." },
+        { "distractor": "grim", "closeness": 2, "reasoning": "Grim describes forbidding or harsh appearance, whereas stern is more about austerity and seriousness than grimness." },
+        { "distractor": "imposing", "closeness": 2, "reasoning": "Imposing describes commanding impressive appearance, whereas stern focuses on severity rather than impressiveness." },
+        { "distractor": "intimidating", "closeness": 2, "reasoning": "Intimidating describes causing fear or unease, whereas stern commands respect through severity rather than fear." },
+        { "distractor": "formidable", "closeness": 2, "reasoning": "Formidable describes inspiring awe through power, whereas stern emphasizes austerity and seriousness." },
+        { "distractor": "gentle", "closeness": 1, "reasoning": "Gentle describes soft mild demeanor, the opposite of stern's austere severity." },
+        { "distractor": "cheerful", "closeness": 1, "reasoning": "Cheerful describes happy bright demeanor, contrary to stern's serious austere quality." },
+        { "distractor": "approachable", "closeness": 1, "reasoning": "Approachable describes open friendly manner, opposite to stern's forbidding severity." }
+      ]
+    },
+    {
+      "sentence": "The judge issued a stern warning that any further violations would result in severe penalties.",
+      "answerChoices": [
+        { "distractor": "serious", "closeness": 3, "reasoning": "Serious describes grave and weighty tone, very close to stern but not necessarily implying threat or disapproval." },
+        { "distractor": "grave", "closeness": 3, "reasoning": "Grave describes weighty important tone, nearly identical to stern but focusing on weight rather than severity." },
+        { "distractor": "stern", "closeness": 3, "reasoning": "Stern and stern are synonymous in this context, creating a test of identifying genuine synonyms." },
+        { "distractor": "solemn", "closeness": 3, "reasoning": "Solemn describes formal serious tone, very close to stern but emphasizing formality rather than disapproving severity." },
+        { "distractor": "emphatic", "closeness": 2, "reasoning": "Emphatic describes forceful clear expression, whereas stern implies disapproving severity rather than emphasis." },
+        { "distractor": "formal", "closeness": 2, "reasoning": "Formal describes official ceremonial tone, whereas stern implies austere disapproving severity." },
+        { "distractor": "ominous", "closeness": 2, "reasoning": "Ominous describes suggesting bad things will happen, whereas stern specifically conveys disapproving warning." },
+        { "distractor": "authoritative", "closeness": 2, "reasoning": "Authoritative describes commanding official tone, whereas stern emphasizes austerity and disapproval." },
+        { "distractor": "lenient", "closeness": 1, "reasoning": "Lenient describes forgiving or permissive tone, the opposite of stern's disapproving severity." },
+        { "distractor": "mild", "closeness": 1, "reasoning": "Mild describes gentle moderate tone, contrary to stern's austere severity." },
+        { "distractor": "light", "closeness": 1, "reasoning": "Light describes casual unconcerned tone, opposite to the serious disapproving tone of stern warning." }
+      ]
+    }
+  ]
+}

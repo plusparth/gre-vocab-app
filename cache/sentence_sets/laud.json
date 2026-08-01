@@ -1,0 +1,53 @@
+{
+  "word": "laud",
+  "sentenceSets": [
+    {
+      "sentence": "She was lauded by colleagues who understood the difficulty of what she had accomplished, and ignored by those who did not.",
+      "answerChoices": [
+        { "distractor": "praised", "closeness": 3, "reasoning": "Close -- 'praised' is the most common synonym for 'laud,' but 'laud' carries a more formal, earnest tone of commendation that goes beyond simple approval." },
+        { "distractor": "commended", "closeness": 3, "reasoning": "Close -- 'commended' implies formal recognition of good work, which overlaps with 'laud,' but it is often more official or institutional rather than personal affirmation." },
+        { "distractor": "endorsed", "closeness": 3, "reasoning": "Close -- 'endorsed' means to give support or approval, which is similar to 'laud,' but it focuses on backing a position or person rather than expressing admiration for an accomplishment." },
+        { "distractor": "applauded", "closeness": 3, "reasoning": "Close -- 'applauded' means to express approval, which fits the context, but it typically refers to visible, enthusiastic approval rather than the more reflective recognition that 'laud' conveys." },
+        { "distractor": "recognized", "closeness": 2, "reasoning": "Incorrect -- 'recognized' means to acknowledge or identify something as important, but it lacks the active element of expressing admiration that 'laud' requires." },
+        { "distractor": "appreciated", "closeness": 2, "reasoning": "Incorrect -- 'appreciated' implies gratitude or recognition of value, but it is more passive and personal than the more formal, explicit nature of 'laud'." },
+        { "distractor": "supported", "closeness": 2, "reasoning": "Incorrect -- 'supported' means to give assistance or backing, which does not necessarily involve expressing praise or admiration." },
+        { "distractor": "acknowledged", "closeness": 2, "reasoning": "Incorrect -- 'acknowledged' means to admit or recognize the existence of something, but it does not convey the element of praise central to 'laud'." },
+        { "distractor": "criticized", "closeness": 1, "reasoning": "Opposite -- 'criticized' means to express disapproval, which is the opposite of praising or lauding someone." },
+        { "distractor": "condemned", "closeness": 1, "reasoning": "Opposite -- 'condemned' means to express strong disapproval, the opposite of lauding someone for their accomplishment." },
+        { "distractor": "censured", "closeness": 1, "reasoning": "Opposite -- 'censured' means to formally reprimand, which contradicts the positive recognition that 'laud' implies." }
+      ]
+    },
+    {
+      "sentence": "The mayor lauded the volunteer fire department during the ceremony, recognizing their selfless dedication to protecting the community through dangerous work.",
+      "answerChoices": [
+        { "distractor": "honored", "closeness": 3, "reasoning": "Close -- 'honored' conveys respect and recognition, which fits the ceremonial context, but it emphasizes the paying of respect rather than the explicit expression of praise that 'laud' entails." },
+        { "distractor": "celebrated", "closeness": 3, "reasoning": "Close -- 'celebrated' means to honor with festivity or acclaim, which is similar to 'laud,' but it emphasizes the joyful social aspect rather than formal public commendation." },
+        { "distractor": "toasted", "closeness": 3, "reasoning": "Close -- 'toasted' means to raise a glass in honor of someone, which is appropriate in a ceremonial setting, but it is narrower in scope than 'laud' and more ritualistic." },
+        { "distractor": "extolled", "closeness": 3, "reasoning": "Close -- 'extolled' means to praise enthusiastically, which is very similar to 'laud,' but it carries a more exuberant, emphatic quality." },
+        { "distractor": "cited", "closeness": 2, "reasoning": "Incorrect -- 'cited' means to mention or quote, which could be used to acknowledge someone but lacks the evaluative, approving tone of 'laud'." },
+        { "distractor": "introduced", "closeness": 2, "reasoning": "Incorrect -- 'introduced' means to present formally, which might occur in a ceremony but does not convey praise or admiration." },
+        { "distractor": "featured", "closeness": 2, "reasoning": "Incorrect -- 'featured' means to give prominence, which could describe what happened at a ceremony but does not necessarily involve expressing praise." },
+        { "distractor": "mentioned", "closeness": 2, "reasoning": "Incorrect -- 'mentioned' is too generic; it simply means to refer to someone, without any connotation of praise." },
+        { "distractor": "blamed", "closeness": 1, "reasoning": "Opposite -- 'blamed' means to hold responsible for something negative, which contradicts the positive recognition in the sentence." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Opposite -- 'ignored' means to disregard, the opposite of publicly recognizing and praising in a ceremony." },
+        { "distractor": "scorned", "closeness": 1, "reasoning": "Opposite -- 'scorned' means to treat with contempt, which is the opposite of lauding someone's accomplishment." }
+      ]
+    },
+    {
+      "sentence": "The judge praised the prosecutor's case while her defense argued that she should not laud an argument built on circumstantial evidence alone.",
+      "answerChoices": [
+        { "distractor": "endorse", "closeness": 3, "reasoning": "Close -- 'endorse' means to give support to something, which fits the context of accepting an argument as valid, but it emphasizes backing rather than the explicit expression of commendation." },
+        { "distractor": "validate", "closeness": 3, "reasoning": "Close -- 'validate' means to confirm as true or acceptable, which is similar to endorsing an argument, but it focuses on verification rather than the act of praising." },
+        { "distractor": "accept", "closeness": 3, "reasoning": "Close -- 'accept' means to receive something as satisfactory, which is what the judge did with the argument, but it does not carry the element of enthusiastic approval that 'laud' implies." },
+        { "distractor": "uphold", "closeness": 3, "reasoning": "Close -- 'uphold' means to affirm or support, which is what praising an argument accomplishes, but it is more legalistic and less about expressing admiration." },
+        { "distractor": "consider", "closeness": 2, "reasoning": "Incorrect -- 'consider' means to think about or take into account, but it does not convey the element of approval or commendation." },
+        { "distractor": "examine", "closeness": 2, "reasoning": "Incorrect -- 'examine' means to inspect or scrutinize, which a judge would do, but it lacks the evaluative praise that 'laud' requires." },
+        { "distractor": "weigh", "closeness": 2, "reasoning": "Incorrect -- 'weigh' means to balance or assess, which occurs in legal contexts, but does not imply praise or approval." },
+        { "distractor": "present", "closeness": 2, "reasoning": "Incorrect -- 'present' means to display or offer, but does not convey the sense of commendation." },
+        { "distractor": "reject", "closeness": 1, "reasoning": "Opposite -- 'reject' means to refuse or dismiss, which is the opposite of praising an argument." },
+        { "distractor": "refute", "closeness": 1, "reasoning": "Opposite -- 'refute' means to prove wrong, which contradicts the judge's positive assessment in the sentence." },
+        { "distractor": "challenge", "closeness": 1, "reasoning": "Opposite -- 'challenge' means to question or dispute, which is what the defense is doing, not what praising accomplishes." }
+      ]
+    }
+  ]
+}

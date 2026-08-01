@@ -1,0 +1,53 @@
+{
+  "word": "sage",
+  "sentenceSets": [
+    {
+      "sentence": "The sage counsel she offered came without the need for an obvious display of credentials.",
+      "answerChoices": [
+        { "distractor": "wise", "closeness": 3, "reasoning": "Means having sound judgment; essentially synonymous with sage—both describe advice grounded in wisdom and good understanding." },
+        { "distractor": "prudent", "closeness": 3, "reasoning": "Means showing careful judgment; very close to sage, but 'prudent' emphasizes cautious judgment, whereas the sentence shows wisdom and authority without credential display." },
+        { "distractor": "sagacious", "closeness": 3, "reasoning": "Means wise and discerning; essentially synonymous with sage—both describe deep wisdom and farsighted understanding." },
+        { "distractor": "sound", "closeness": 3, "reasoning": "Means based on good judgment; while the counsel is sound, the sentence requires the term for wisdom that carries inherent authority, not just logical soundness." },
+        { "distractor": "experienced", "closeness": 2, "reasoning": "Means knowledgeable from practice; while the counsel reflects experience, the sentence requires the term for wisdom, not just accumulated experience." },
+        { "distractor": "expert", "closeness": 2, "reasoning": "Means having great knowledge; while the counsel is expert-level, the sentence emphasizes sage wisdom that doesn't require credential display, not expertise demonstrated through credentials." },
+        { "distractor": "learned", "closeness": 2, "reasoning": "Means educated and knowledgeable; while the counsel is learned, the sentence requires sage wisdom, not formal education." },
+        { "distractor": "scholarly", "closeness": 2, "reasoning": "Means academic and erudite; while the counsel could be scholarly, the sentence emphasizes intuitive sage wisdom that transcends academic display." },
+        { "distractor": "naive", "closeness": 1, "reasoning": "Means lacking wisdom or experience; directly opposite to the sage counsel that carries inherent authority." },
+        { "distractor": "foolish", "closeness": 1, "reasoning": "Means lacking judgment; opposite to the wise, sage counsel described in the sentence." },
+        { "distractor": "misguided", "closeness": 1, "reasoning": "Means poorly directed; opposite to the sage counsel that people value and rely on." }
+      ]
+    },
+    {
+      "sentence": "Ancient Greece produced many sages whose philosophical insights shaped Western thought for millennia.",
+      "answerChoices": [
+        { "distractor": "philosophers", "closeness": 3, "reasoning": "Means lovers of wisdom; essentially synonymous with sages—both describe those devoted to understanding and wisdom." },
+        { "distractor": "thinkers", "closeness": 3, "reasoning": "Means those who think deeply; very close to sages, but 'thinkers' can be more general, whereas sages specifically refers to those distinguished for wisdom." },
+        { "distractor": "scholars", "closeness": 3, "reasoning": "Means learned persons; while sages are scholars, the sentence emphasizes their profound philosophical wisdom, not just scholarship." },
+        { "distractor": "visionaries", "closeness": 3, "reasoning": "Means those with foresight and imagination; while sages have vision, the sentence requires the term for those specifically known for wisdom, not visionary imagination." },
+        { "distractor": "historians", "closeness": 2, "reasoning": "Means those who study history; while some sages were historians, the sentence emphasizes philosophical wisdom, not historical study." },
+        { "distractor": "teachers", "closeness": 2, "reasoning": "Means those who instruct; while sages taught, the sentence requires the term for those recognized for profound wisdom, not instructional role." },
+        { "distractor": "intellectuals", "closeness": 2, "reasoning": "Means those engaged in thinking; while sages are intellectuals, the sentence requires the specific term for those with profound wisdom." },
+        { "distractor": "authorities", "closeness": 2, "reasoning": "Means those with expertise; while sages are authorities, the sentence emphasizes profound wisdom specifically, not general authority." },
+        { "distractor": "critics", "closeness": 1, "reasoning": "Means those who analyze and judge; while some sages were critics, the sentence emphasizes wisdom-building thought, not critical analysis." },
+        { "distractor": "activists", "closeness": 1, "reasoning": "Means those who take action for causes; opposite to the contemplative, philosophical role of sages." },
+        { "distractor": "chroniclers", "closeness": 1, "reasoning": "Means those who record events; opposite to the philosophical wisdom that sages are known for." }
+      ]
+    },
+    {
+      "sentence": "The young artist sought out the sage guidance of an elderly master who had spent decades perfecting the craft.",
+      "answerChoices": [
+        { "distractor": "wise", "closeness": 3, "reasoning": "Means having sound judgment; essentially synonymous with sage—both describe guidance grounded in wisdom." },
+        { "distractor": "expert", "closeness": 3, "reasoning": "Means having great knowledge; very close to sage guidance from a master, but 'expert' emphasizes technical skill more than sage wisdom." },
+        { "distractor": "knowledgeable", "closeness": 3, "reasoning": "Means having much knowledge; while the master is knowledgeable, the sentence requires sage wisdom developed over decades, not just knowledge." },
+        { "distractor": "experienced", "closeness": 3, "reasoning": "Means learned from practice; while the master is experienced, the sentence emphasizes sage wisdom and guidance, not just accumulated experience." },
+        { "distractor": "seasoned", "closeness": 2, "reasoning": "Means matured by experience; while the master is seasoned, the sentence requires sage wisdom, not just maturation through time." },
+        { "distractor": "accomplished", "closeness": 2, "reasoning": "Means skilled and successful; while the master is accomplished, the sentence emphasizes sage guidance and wisdom, not success metrics." },
+        { "distractor": "cultivated", "closeness": 2, "reasoning": "Means refined through development; while the master is cultivated, the sentence requires sage wisdom, not refined taste or manners." },
+        { "distractor": "proficient", "closeness": 2, "reasoning": "Means competent in skill; while the master is proficient, the sentence requires sage wisdom and guidance, not just technical competence." },
+        { "distractor": "novice", "closeness": 1, "reasoning": "Means inexperienced; directly opposite to the wise, sage guidance from an elderly master." },
+        { "distractor": "amateur", "closeness": 1, "reasoning": "Means not professional; opposite to the sage master guidance the young artist seeks." },
+        { "distractor": "inexperienced", "closeness": 1, "reasoning": "Means lacking practice; opposite to the sage guidance from someone who spent decades perfecting the craft." }
+      ]
+    }
+  ]
+}

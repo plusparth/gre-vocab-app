@@ -1,0 +1,185 @@
+{
+  "word": "solder",
+  "sentenceSets": [
+    {
+      "sentence": "The technician carefully applied the heated solder to the circuit board, watching as the molten metal formed a secure joint between the copper traces.",
+      "answerChoices": [
+        {
+          "distractor": "flux",
+          "closeness": 3,
+          "reasoning": "Flux is a substance used in soldering to help melting and adhesion; while flux is used in the soldering process, 'flux' is the cleaning agent, not the metal material that forms the joint itself."
+        },
+        {
+          "distractor": "adhesive",
+          "closeness": 3,
+          "reasoning": "An adhesive is a substance that bonds surfaces together; while solder functions like an adhesive by joining copper traces, 'adhesive' is typically not melted metal but rather a paste or liquid that dries."
+        },
+        {
+          "distractor": "alloy",
+          "closeness": 3,
+          "reasoning": "An alloy is a mixture of metals; solder is indeed an alloy, but 'alloy' is broader and doesn't specify its use as a joining material, whereas 'solder' is specifically used to create joints."
+        },
+        {
+          "distractor": "binder",
+          "closeness": 3,
+          "reasoning": "A binder is something that holds things together; while solder binds copper traces, 'binder' is a general term for adhesive materials, not specifically a melted metal."
+        },
+        {
+          "distractor": "cement",
+          "closeness": 2,
+          "reasoning": "Cement is a material used to bind or join surfaces, which solder functionally resembles; however, 'cement' typically dries or hardens through chemical reaction, whereas solder forms joints by melting and cooling."
+        },
+        {
+          "distractor": "weld",
+          "closeness": 2,
+          "reasoning": "A weld is a joint made by melting and fusing metals; while similar to soldering, 'weld' uses higher heat and fuses the metals themselves, whereas solder uses a separate metal melted as a medium."
+        },
+        {
+          "distractor": "paste",
+          "closeness": 2,
+          "reasoning": "A paste is a thick, sticky substance; while solder paste is used in soldering, 'paste' refers to the pre-melt state of solder, not the final molten metal that forms the joint."
+        },
+        {
+          "distractor": "bridge",
+          "closeness": 2,
+          "reasoning": "A bridge is a structure connecting two points; while solder bridges the gap between copper traces, 'bridge' is a general term, not a material substance."
+        },
+        {
+          "distractor": "wire",
+          "closeness": 1,
+          "reasoning": "Wire is typically a thin strand of metal; while solder can come in wire form before melting, the sentence describes the molten metal forming a joint, not wire."
+        },
+        {
+          "distractor": "coating",
+          "closeness": 1,
+          "reasoning": "A coating is a covering applied to a surface; while solder does coat and cover the joint area, the sentence emphasizes its role in forming a secure joint, not merely coating."
+        },
+        {
+          "distractor": "separator",
+          "closeness": 1,
+          "reasoning": "A separator divides or keeps things apart; solder joins and connects, making separator the opposite of solder's function."
+        }
+      ]
+    },
+    {
+      "sentence": "Without solder, the delicate wires in the antique radio could not be connected, and the device would remain inoperable despite all other components being intact.",
+      "answerChoices": [
+        {
+          "distractor": "glue",
+          "closeness": 3,
+          "reasoning": "Glue is an adhesive substance; while glue could theoretically bind wires, 'glue' creates a weaker bond and is not electrically conductive like solder, making it inadequate for electrical connections."
+        },
+        {
+          "distractor": "tape",
+          "closeness": 3,
+          "reasoning": "Tape holds things together mechanically; while tape might temporarily hold wires, it does not create a proper electrical connection like solder, making it unsuitable for an operable radio."
+        },
+        {
+          "distractor": "fastener",
+          "closeness": 3,
+          "reasoning": "A fastener holds things together mechanically; while fasteners can connect wires, they do not create the electrical conductivity necessary for a radio to function."
+        },
+        {
+          "distractor": "clamp",
+          "closeness": 3,
+          "reasoning": "A clamp holds things in place mechanically; while a clamp might hold wires together, it does not create an electrical connection, making it unsuitable for the radio's function."
+        },
+        {
+          "distractor": "wire connector",
+          "closeness": 2,
+          "reasoning": "A wire connector joins wires together; while a connector can replace solder for some applications, in an antique radio requiring precise, durable connections, solder is specifically necessary."
+        },
+        {
+          "distractor": "sealant",
+          "closeness": 2,
+          "reasoning": "A sealant creates a waterproof or airtight seal; while solder can seal joints, a sealant's primary purpose is waterproofing, not creating electrical connections."
+        },
+        {
+          "distractor": "flux",
+          "closeness": 2,
+          "reasoning": "Flux is used in the soldering process to clean surfaces; however, flux alone cannot form the joint—solder (the metal) must be present to create the connection."
+        },
+        {
+          "distractor": "insulation",
+          "closeness": 2,
+          "reasoning": "Insulation protects wires from electrical contact; while necessary for safety, insulation alone does not connect wires, whereas solder creates the connection."
+        },
+        {
+          "distractor": "disconnect",
+          "closeness": 1,
+          "reasoning": "To disconnect means to separate; the sentence emphasizes that solder is necessary to connect wires, making disconnect the opposite of solder's function."
+        },
+        {
+          "distractor": "insulator",
+          "closeness": 1,
+          "reasoning": "An insulator prevents electrical flow; the sentence requires something that conducts electricity and connects wires, the opposite of an insulator."
+        },
+        {
+          "distractor": "break",
+          "closeness": 1,
+          "reasoning": "A break is an interruption or separation; the sentence describes needing to connect wires, whereas a break would prevent their connection."
+        }
+      ]
+    },
+    {
+      "sentence": "The jeweler used fine solder to attach the delicate gold filigree to the watch case, creating joints so seamless they were nearly invisible.",
+      "answerChoices": [
+        {
+          "distractor": "adhesive",
+          "closeness": 3,
+          "reasoning": "An adhesive bonds surfaces together; while the jeweler could use some adhesives for delicate work, 'adhesive' typically dries and hardens, whereas solder melts and flows to create seamless joints."
+        },
+        {
+          "distractor": "clasp",
+          "closeness": 3,
+          "reasoning": "A clasp fastens or holds things together, which could mechanically attach filigree; however, 'clasp' creates a visible fastening, whereas solder creates 'nearly invisible' joints."
+        },
+        {
+          "distractor": "cement",
+          "closeness": 3,
+          "reasoning": "Cement bonds surfaces; for delicate jewelry work requiring seamless, invisible joints, 'cement' would create visible seams and would not achieve the seamlessness that solder does."
+        },
+        {
+          "distractor": "weld",
+          "closeness": 3,
+          "reasoning": "A weld is a fusion joint created by high heat; while similar to soldering, 'weld' uses higher temperatures that could damage delicate filigree, whereas solder melts at lower temperatures."
+        },
+        {
+          "distractor": "epoxy",
+          "closeness": 2,
+          "reasoning": "Epoxy is a strong adhesive; while epoxy creates strong bonds, it dries with visible seams and cannot create the seamless appearance that melted solder achieves."
+        },
+        {
+          "distractor": "rivet",
+          "closeness": 2,
+          "reasoning": "A rivet is a fastener; while rivets can attach pieces, they create visible holes and fasteners, contrary to the 'nearly invisible' joints described."
+        },
+        {
+          "distractor": "hinges",
+          "closeness": 2,
+          "reasoning": "Hinges are articulated fasteners; while hinges could mechanically attach the filigree, they would be visible and moveable, contrary to seamless, invisible joints."
+        },
+        {
+          "distractor": "pin",
+          "closeness": 2,
+          "reasoning": "A pin fastens things together; while a pin could hold the filigree in place, it would be visible and create a joint, not the seamless invisible connection."
+        },
+        {
+          "distractor": "separation",
+          "closeness": 1,
+          "reasoning": "Separation means keeping things apart; the sentence describes creating an attachment, the opposite of separation."
+        },
+        {
+          "distractor": "gap",
+          "closeness": 1,
+          "reasoning": "A gap is a space between things; the sentence emphasizes 'nearly invisible' joints, whereas a gap would be a visible space."
+        },
+        {
+          "distractor": "break",
+          "closeness": 1,
+          "reasoning": "A break is a separation or fracture; the jeweler's purpose is to attach and create a strong joint, opposite to creating a break."
+        }
+      ]
+    }
+  ]
+}

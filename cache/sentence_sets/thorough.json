@@ -1,0 +1,53 @@
+{
+  "word": "thorough",
+  "sentenceSets": [
+    {
+      "sentence": "A thorough review of the assumptions would have identified the error before it was built into every subsequent calculation.",
+      "answerChoices": [
+        { "distractor": "careful", "closeness": 3, "reasoning": "Careful means attentive to detail or cautious, but the sentence emphasizes exhaustive examination of all assumptions, not merely attentive review." },
+        { "distractor": "rigorous", "closeness": 3, "reasoning": "Rigorous means extremely thorough and careful, which is very close, but emphasizes strictness of methodology rather than completeness of coverage." },
+        { "distractor": "detailed", "closeness": 3, "reasoning": "Detailed means containing many details, but the sentence emphasizes checking all assumptions to the point of completion, not merely detailed examination." },
+        { "distractor": "comprehensive", "closeness": 3, "reasoning": "Comprehensive means covering all aspects or complete, which is very close to thorough, but emphasizes breadth rather than the exhaustive checking implied." },
+        { "distractor": "meticulous", "closeness": 2, "reasoning": "Meticulous means extremely careful about details, but the sentence's emphasis is on exhaustive coverage to catch errors, not just careful attention." },
+        { "distractor": "systematic", "closeness": 2, "reasoning": "Systematic means following a method or plan, but the sentence requires a term for completeness, not just organized approach." },
+        { "distractor": "analytical", "closeness": 2, "reasoning": "Analytical means examining or breaking down into parts, but the sentence emphasizes completeness of review, not analytical method." },
+        { "distractor": "investigative", "closeness": 2, "reasoning": "Investigative means involving inquiry or research, but the sentence requires focus on exhaustive completion rather than investigative process." },
+        { "distractor": "superficial", "closeness": 1, "reasoning": "Superficial means dealing only with surface aspects; the sentence indicates a review should examine all assumptions in depth." },
+        { "distractor": "partial", "closeness": 1, "reasoning": "Partial means incomplete or only part of a whole, opposite to the exhaustive review the sentence requires." },
+        { "distractor": "hasty", "closeness": 1, "reasoning": "Hasty means done quickly without due care; the sentence requires careful checking of all assumptions." }
+      ]
+    },
+    {
+      "sentence": "The auditor conducted a thorough examination of the company's financial records, checking every transaction against supporting documentation and questioning unusual patterns until reaching absolute certainty.",
+      "answerChoices": [
+        { "distractor": "exhaustive", "closeness": 3, "reasoning": "Exhaustive means extremely comprehensive or complete, which is very close to thorough, but emphasizes the extent of coverage rather than the quality of examination." },
+        { "distractor": "meticulous", "closeness": 3, "reasoning": "Meticulous means extremely careful about details, which is close, but emphasizes carefulness rather than exhaustiveness of checking every transaction." },
+        { "distractor": "rigorous", "closeness": 3, "reasoning": "Rigorous means extremely thorough and conducted carefully, which is very close, but emphasizes strictness of standards rather than completeness." },
+        { "distractor": "scrupulous", "closeness": 3, "reasoning": "Scrupulous means extremely conscientious and careful, which is close, but emphasizes moral or ethical carefulness rather than exhaustive verification." },
+        { "distractor": "attentive", "closeness": 2, "reasoning": "Attentive means giving careful attention, but the sentence requires a term for complete verification of all transactions, not just attentive observation." },
+        { "distractor": "diligent", "closeness": 2, "reasoning": "Diligent means careful and persistent, but the sentence emphasizes completeness of checking, not persistence in effort." },
+        { "distractor": "careful", "closeness": 2, "reasoning": "Careful means cautious or attentive to detail, but the sentence's emphasis on checking every transaction and questioning patterns suggests exhaustiveness beyond mere carefulness." },
+        { "distractor": "professional", "closeness": 2, "reasoning": "Professional means competent or skilled, but the sentence requires a term for the scope of the examination, not professional quality." },
+        { "distractor": "cursory", "closeness": 1, "reasoning": "Cursory means quick and superficial, opposite to an examination that checks every transaction and questions unusual patterns." },
+        { "distractor": "selective", "closeness": 1, "reasoning": "Selective means choosing particular items, contradicting an examination of every transaction." },
+        { "distractor": "routine", "closeness": 1, "reasoning": "Routine means standard or ordinary; the sentence describes an unusually complete examination, not routine checking." }
+      ]
+    },
+    {
+      "sentence": "Her thorough study of the historical period left no stone unturned—she examined primary documents, interviewed surviving witnesses, consulted secondary scholarship, and visited relevant historical sites.",
+      "answerChoices": [
+        { "distractor": "comprehensive", "closeness": 3, "reasoning": "Comprehensive means covering all aspects or complete, which is very close, but emphasizes breadth of coverage rather than the exhaustiveness implied by 'no stone unturned.'" },
+        { "distractor": "exhaustive", "closeness": 3, "reasoning": "Exhaustive means leaving nothing unchecked or complete, which is extremely close to thorough, but emphasizes the extent of checking rather than the quality." },
+        { "distractor": "detailed", "closeness": 3, "reasoning": "Detailed means containing many specific details, but the sentence emphasizes examining multiple types of sources and locations, not merely detailed examination." },
+        { "distractor": "in-depth", "closeness": 3, "reasoning": "In-depth means thorough and detailed in treatment, which is very close, but emphasizes depth rather than the comprehensive scope of multiple source types." },
+        { "distractor": "extensive", "closeness": 2, "reasoning": "Extensive means covering a large area or range, but the sentence emphasizes leaving no source or location unchecked, not merely broad coverage." },
+        { "distractor": "rigorous", "closeness": 2, "reasoning": "Rigorous means extremely thorough and strict in standards, but the sentence emphasizes multiple types of evidence examined rather than strict methodology." },
+        { "distractor": "systematic", "closeness": 2, "reasoning": "Systematic means following a method or plan, but the sentence requires emphasis on leaving nothing unchecked, not just organized approach." },
+        { "distractor": "diligent", "closeness": 2, "reasoning": "Diligent means careful and persistent in effort, but the sentence emphasizes the complete scope of research rather than persistent effort." },
+        { "distractor": "selective", "closeness": 1, "reasoning": "Selective means choosing particular items or sources; the sentence shows examination of multiple types of evidence, not selective choice." },
+        { "distractor": "superficial", "closeness": 1, "reasoning": "Superficial means dealing only with surface aspects, opposite to a study that left no stone unturned." },
+        { "distractor": "cursory", "closeness": 1, "reasoning": "Cursory means quick and superficial, opposite to the comprehensive examination of multiple source types the sentence describes." }
+      ]
+    }
+  ]
+}

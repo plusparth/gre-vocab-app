@@ -1,0 +1,53 @@
+{
+  "word": "sanguine",
+  "sentenceSets": [
+    {
+      "sentence": "He remained sanguine about the outcome despite evidence that had already shifted the most informed estimates against him.",
+      "answerChoices": [
+        { "distractor": "optimistic", "closeness": 3, "reasoning": "Means hopeful about the future; essentially synonymous with sanguine—both describe confident hopefulness despite contrary evidence." },
+        { "distractor": "hopeful", "closeness": 3, "reasoning": "Means having hope; essentially synonymous with sanguine—both describe maintaining positive outlook about outcomes." },
+        { "distractor": "bullish", "closeness": 3, "reasoning": "Means confident about positive outcome; essentially synonymous with sanguine in this context—both describe confidence despite contrary signals." },
+        { "distractor": "upbeat", "closeness": 3, "reasoning": "Means positive and optimistic; essentially synonymous with sanguine—both describe maintaining optimism despite evidence." },
+        { "distractor": "confident", "closeness": 2, "reasoning": "Means feeling sure about something; while related to sanguine, the sentence requires the specific sense of hopeful optimism against evidence." },
+        { "distractor": "positive", "closeness": 2, "reasoning": "Means having favorable outlook; while he is positive, the sentence requires sanguine (eager hopefulness despite evidence)." },
+        { "distractor": "cheery", "closeness": 2, "reasoning": "Means happily optimistic; while his mood is cheery, the sentence emphasizes sanguine (confident hopefulness about outcomes)." },
+        { "distractor": "buoyant", "closeness": 2, "reasoning": "Means resilient and positive; while he is buoyant, the sentence requires sanguine optimism about a specific outcome." },
+        { "distractor": "pessimistic", "closeness": 1, "reasoning": "Means expecting negative outcomes; directly opposite to the sanguine hopefulness despite evidence." },
+        { "distractor": "despondent", "closeness": 1, "reasoning": "Means hopeless and dejected; opposite to the sanguine optimism about the outcome." },
+        { "distractor": "gloomy", "closeness": 1, "reasoning": "Means dark and negative in mood; opposite to the sanguine eager hopefulness." }
+      ]
+    },
+    {
+      "sentence": "The patient was sanguine about recovery following her surgery, convinced that her youth and good health would ensure a smooth and speedy return to normal.",
+      "answerChoices": [
+        { "distractor": "optimistic", "closeness": 3, "reasoning": "Means hopeful about the future; essentially synonymous with sanguine—both describe confident hopefulness about recovery outcomes." },
+        { "distractor": "hopeful", "closeness": 3, "reasoning": "Means having hope; essentially synonymous with sanguine—both describe maintaining positive outlook about recovery." },
+        { "distractor": "confident", "closeness": 3, "reasoning": "Means feeling sure; essentially synonymous with sanguine in this context—both describe assured belief in positive recovery." },
+        { "distractor": "positive", "closeness": 3, "reasoning": "Means having favorable outlook; essentially synonymous with sanguine—both describe belief in positive recovery outcome." },
+        { "distractor": "trusting", "closeness": 2, "reasoning": "Means believing in someone or something; while she trusts her health, the sentence requires sanguine (eager hopefulness), not general trust." },
+        { "distractor": "reassured", "closeness": 2, "reasoning": "Means given confidence; while she is reassured, the sentence requires sanguine (confident hopefulness), not merely reassurance." },
+        { "distractor": "encouraged", "closeness": 2, "reasoning": "Means given hope; while she is encouraged, the sentence requires sanguine (eager optimism), not just encouragement." },
+        { "distractor": "buoyant", "closeness": 2, "reasoning": "Means resilient and positive; while she is buoyant, the sentence requires sanguine hopefulness about recovery specifically." },
+        { "distractor": "anxious", "closeness": 1, "reasoning": "Means worried; directly opposite to the sanguine optimism about recovery." },
+        { "distractor": "fearful", "closeness": 1, "reasoning": "Means afraid; opposite to the sanguine hopefulness about recovery." },
+        { "distractor": "doubtful", "closeness": 1, "reasoning": "Means uncertain; opposite to the sanguine confidence in a smooth recovery." }
+      ]
+    },
+    {
+      "sentence": "The entrepreneurs were sanguine about their venture, believing that their innovative product would quickly capture market share and become profitable within months.",
+      "answerChoices": [
+        { "distractor": "optimistic", "closeness": 3, "reasoning": "Means hopeful about the future; essentially synonymous with sanguine—both describe confident hopefulness about business success." },
+        { "distractor": "bullish", "closeness": 3, "reasoning": "Means confident about positive outcome; essentially synonymous with sanguine—both describe confident optimism about market performance." },
+        { "distractor": "confident", "closeness": 3, "reasoning": "Means feeling sure; essentially synonymous with sanguine in this context—both describe assured belief in success." },
+        { "distractor": "hopeful", "closeness": 3, "reasoning": "Means having hope; essentially synonymous with sanguine—both describe maintaining optimism about venture outcomes." },
+        { "distractor": "ambitious", "closeness": 2, "reasoning": "Means having lofty goals; while the entrepreneurs are ambitious, the sentence requires sanguine (optimistic hopefulness), not goal-setting." },
+        { "distractor": "enthusiastic", "closeness": 2, "reasoning": "Means showing eager interest; while they are enthusiastic, the sentence requires sanguine optimism about outcomes, not enthusiasm." },
+        { "distractor": "determined", "closeness": 2, "reasoning": "Means firmly resolved; while they are determined, the sentence requires sanguine hopefulness, not resolve." },
+        { "distractor": "visionary", "closeness": 2, "reasoning": "Means having foresight; while they have vision, the sentence requires sanguine optimism, not visionary planning." },
+        { "distractor": "pessimistic", "closeness": 1, "reasoning": "Means expecting failure; directly opposite to the sanguine hopefulness about quick market capture." },
+        { "distractor": "skeptical", "closeness": 1, "reasoning": "Means doubting; opposite to the sanguine confidence in their venture's success." },
+        { "distractor": "cautious", "closeness": 1, "reasoning": "Means wary of risk; opposite to the sanguine optimism about quick profitability." }
+      ]
+    }
+  ]
+}

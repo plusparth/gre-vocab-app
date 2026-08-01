@@ -1,0 +1,53 @@
+{
+  "word": "dwindling",
+  "sentenceSets": [
+    {
+      "sentence": "The dwindling attendance figures reflected a broader disengagement that the organization had failed to address.",
+      "answerChoices": [
+        { "distractor": "diminishing", "closeness": 3, "reasoning": "Close -- 'diminishing' also describes reducing numbers, nearly synonymous with dwindling; both convey decreasing size, but dwindle emphasizes gradual fading whereas diminish can suggest more controlled reduction." },
+        { "distractor": "faltering", "closeness": 3, "reasoning": "Close -- 'faltering' means wavering or losing momentum, which fits declining attendance, but it emphasizes loss of confidence rather than the continuous erosion of numbers." },
+        { "distractor": "flagging", "closeness": 3, "reasoning": "Close -- 'flagging' describes something losing strength or becoming less vigorous, applicable to attendance, but it emphasizes weariness rather than numerical reduction." },
+        { "distractor": "waning", "closeness": 3, "reasoning": "Close -- 'waning' means gradually decreasing, nearly synonymous with dwindling; the distinction is subtle, with waning more often applied to abstract concepts like interest than to concrete figures." },
+        { "distractor": "stagnant", "closeness": 2, "reasoning": "Incorrect -- 'stagnant' means unchanging or stuck; it describes flatness rather than active reduction." },
+        { "distractor": "lagging", "closeness": 2, "reasoning": "Incorrect -- 'lagging' means falling behind; it does not convey the sense of numbers actively shrinking." },
+        { "distractor": "declining", "closeness": 2, "reasoning": "Incorrect -- 'declining' describes downward movement but is less specific than dwindling about the gradual, steady nature of the decrease." },
+        { "distractor": "tepid", "closeness": 2, "reasoning": "Incorrect -- 'tepid' means lukewarm or lacking enthusiasm; it describes quality or intensity rather than numerical reduction." },
+        { "distractor": "surging", "closeness": 1, "reasoning": "Opposite -- 'surging' means increasing rapidly; it contradicts the idea of attendance figures going down." },
+        { "distractor": "robust", "closeness": 1, "reasoning": "Opposite -- 'robust' means strong and vigorous; it is contrary to the image of declining engagement and attendance." },
+        { "distractor": "thriving", "closeness": 1, "reasoning": "Incorrect -- 'thriving' means flourishing or succeeding; it is opposite to the disengagement described in the sentence." }
+      ]
+    },
+    {
+      "sentence": "With dwindling resources and no clear strategy, the nonprofit struggled to sustain its community programs.",
+      "answerChoices": [
+        { "distractor": "limited", "closeness": 3, "reasoning": "Close -- 'limited' means restricted in quantity, which fits the scarcity context, but it describes a fixed constraint; dwindling emphasizes ongoing reduction and depletion." },
+        { "distractor": "scarce", "closeness": 3, "reasoning": "Close -- 'scarce' means in short supply, which parallels dwindling resources, but it portrays absolute insufficiency rather than the process of becoming depleted." },
+        { "distractor": "depleted", "closeness": 3, "reasoning": "Close -- 'depleted' means exhausted or used up, which describes the end state; dwindling emphasizes the ongoing process of reduction rather than complete exhaustion." },
+        { "distractor": "eroding", "closeness": 3, "reasoning": "Close -- 'eroding' describes gradual wearing away, which fits the sense of reducing resources, but it emphasizes external damage rather than the systematic shrinking of available assets." },
+        { "distractor": "frozen", "closeness": 2, "reasoning": "Incorrect -- 'frozen' means immobilized or fixed; it describes stasis rather than active reduction." },
+        { "distractor": "strained", "closeness": 2, "reasoning": "Incorrect -- 'strained' means stressed or stretched thin, but it does not convey the sense of resources actively shrinking." },
+        { "distractor": "meager", "closeness": 2, "reasoning": "Incorrect -- 'meager' means inadequate or small in amount; it describes insufficiency without the temporal sense of ongoing reduction." },
+        { "distractor": "sluggish", "closeness": 2, "reasoning": "Incorrect -- 'sluggish' means moving slowly or lacking energy; it does not capture the notion of resources being reduced." },
+        { "distractor": "abundant", "closeness": 1, "reasoning": "Opposite -- 'abundant' means plentiful; it contradicts the premise of scarcity and struggle." },
+        { "distractor": "replenished", "closeness": 1, "reasoning": "Opposite -- 'replenished' means refilled or restored; it is contrary to the depletion implied by dwindling." },
+        { "distractor": "expanding", "closeness": 1, "reasoning": "Incorrect -- 'expanding' means growing; it contradicts the sense of resources becoming fewer and more constrained." }
+      ]
+    },
+    {
+      "sentence": "The dwindling daylight of autumn reminded the gardener that frost would soon arrive.",
+      "answerChoices": [
+        { "distractor": "fading", "closeness": 3, "reasoning": "Close -- 'fading' describes gradual disappearance or loss of visibility, which fits the shorter days, but it emphasizes reduction in intensity or brightness rather than the steady decrease in hours." },
+        { "distractor": "shortening", "closeness": 3, "reasoning": "Close -- 'shortening' means becoming less in duration, which directly applies to daylight in autumn, nearly synonymous with dwindling, but shortening can describe a single reduction whereas dwindle emphasizes ongoing process." },
+        { "distractor": "weakening", "closeness": 3, "reasoning": "Close -- 'weakening' suggests loss of strength or power, applicable to diminishing daylight, but it emphasizes the fading intensity rather than the reduction in temporal length." },
+        { "distractor": "waning", "closeness": 3, "reasoning": "Close -- 'waning' means decreasing or fading, nearly synonymous with dwindling; both apply well to daylight, but waning more commonly describes abstract concepts like moonlight." },
+        { "distractor": "lingering", "closeness": 2, "reasoning": "Incorrect -- 'lingering' means staying or remaining, which describes daylight persisting; it is opposite to the sense of daylight becoming scarcer." },
+        { "distractor": "retreating", "closeness": 2, "reasoning": "Incorrect -- 'retreating' means moving backward; while daylight does recede seasonally, this word does not capture the gradual reduction of hours." },
+        { "distractor": "dimming", "closeness": 2, "reasoning": "Incorrect -- 'dimming' emphasizes loss of brightness; it describes the quality of light rather than its quantity or duration." },
+        { "distractor": "ebbing", "closeness": 2, "reasoning": "Incorrect -- 'ebbing' means receding like a tide; while poetic, it does not apply with precision to the seasonal change in daylight hours." },
+        { "distractor": "lengthening", "closeness": 1, "reasoning": "Opposite -- 'lengthening' means becoming longer; it is contrary to the shortening days of autumn." },
+        { "distractor": "intensifying", "closeness": 1, "reasoning": "Opposite -- 'intensifying' means increasing in strength; it contradicts the idea of daylight becoming less." },
+        { "distractor": "perpetual", "closeness": 1, "reasoning": "Incorrect -- 'perpetual' means endless or unchanging; it is contrary to the seasonal cycle of decreasing daylight." }
+      ]
+    }
+  ]
+}

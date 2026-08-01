@@ -1,0 +1,53 @@
+{
+  "word": "malinger",
+  "sentenceSets": [
+    {
+      "sentence": "He was suspected of malingering, but no one was willing to make the accusation formal without clearer evidence.",
+      "answerChoices": [
+        { "distractor": "shirking", "closeness": 3, "reasoning": "Close -- 'shirking' means avoiding duty or responsibility, which is similar to malingering, but it describes evasion generally rather than the specific deception of faking illness." },
+        { "distractor": "feigning", "closeness": 3, "reasoning": "Close -- 'feigning' means pretending, which captures the deceptive aspect of malingering, but it's broader and doesn't specifically imply the avoidance of duty that malingering involves." },
+        { "distractor": "dissembling", "closeness": 3, "reasoning": "Close -- 'dissembling' means concealing one's true nature through deception, which fits malingering's deceptive aspect, but it's more general and doesn't specify feigning incapacity." },
+        { "distractor": "loafing", "closeness": 3, "reasoning": "Close -- 'loafing' means idling or wasting time, which describes avoiding work like malingering, but it lacks the element of deliberate deception and false incapacity." },
+        { "distractor": "dodging", "closeness": 2, "reasoning": "Incorrect -- 'dodging' means evading or avoiding by evasive movement; while it fits the avoidance aspect, it lacks the specific deception of faking illness." },
+        { "distractor": "evading", "closeness": 2, "reasoning": "Incorrect -- 'evading' means avoiding responsibility or an issue, which fits the avoidance but not the deceptive pretense of incapacity." },
+        { "distractor": "slacking", "closeness": 2, "reasoning": "Incorrect -- 'slacking' means being lazy or not working hard, which could result in suspicion, but it doesn't capture the deliberate fabrication of excuse that malingering requires." },
+        { "distractor": "neglecting", "closeness": 2, "reasoning": "Incorrect -- 'neglecting' means failing to attend to duties, but it implies passive failure rather than active, deliberate deception." },
+        { "distractor": "confessing", "closeness": 1, "reasoning": "Opposite -- 'confessing' means admitting guilt or truth; clearly wrong in a context about someone suspected but not admitting wrongdoing." },
+        { "distractor": "performing", "closeness": 1, "reasoning": "Opposite -- 'performing' means carrying out one's role or duty, the opposite of the evasion implied by malingering." },
+        { "distractor": "volunteering", "closeness": 1, "reasoning": "Incorrect -- 'volunteering' means offering willingly to do something, contrary to the avoidance of duty that malingering represents." }
+      ]
+    },
+    {
+      "sentence": "The soldier's repeated complaints of back pain and nausea seemed designed to malinger through the deployment, though his barracks mates found no sympathy.",
+      "answerChoices": [
+        { "distractor": "skulk", "closeness": 3, "reasoning": "Close -- 'skulk' means to hide or lurk, describing avoidance of duty, but it's more about concealment than the active deception of faking physical incapacity." },
+        { "distractor": "faking", "closeness": 3, "reasoning": "Close -- 'faking' means creating a false appearance, which is central to malingering, but it's more general and could apply to any false pretense, not specifically illness." },
+        { "distractor": "posturing", "closeness": 3, "reasoning": "Close -- 'posturing' means adopting an artificial attitude or position, which fits the deceptive aspect of malingering, but doesn't specifically convey feigning illness to avoid duty." },
+        { "distractor": "whining", "closeness": 3, "reasoning": "Close -- 'whining' means complaining in a weak, annoying way, which captures the complaint aspect of the soldier's behavior, but doesn't necessarily imply deception or avoidance intent." },
+        { "distractor": "complaining", "closeness": 2, "reasoning": "Incorrect -- 'complaining' simply means expressing discontent, but it doesn't establish the deceptive intent to feign incapacity for avoidance." },
+        { "distractor": "exaggerating", "closeness": 2, "reasoning": "Incorrect -- 'exaggerating' means making something seem more serious than it is, which is part of malingering's mechanism, but not the complete act of false avoidance." },
+        { "distractor": "claiming", "closeness": 2, "reasoning": "Incorrect -- 'claiming' means asserting something, but it doesn't convey the sense of false pretense and deliberate deception embedded in malingering." },
+        { "distractor": "resisting", "closeness": 2, "reasoning": "Incorrect -- 'resisting' means opposing or refusing to comply, but the sentence shows the soldier pursuing deployment avoidance through feigned incapacity, not outright refusal." },
+        { "distractor": "enduring", "closeness": 1, "reasoning": "Opposite -- 'enduring' means bearing or tolerating patiently, the opposite of avoiding duty through feigned illness." },
+        { "distractor": "serving", "closeness": 1, "reasoning": "Opposite -- 'serving' means doing one's duty, directly opposed to the avoidance that malingering represents." },
+        { "distractor": "advancing", "closeness": 1, "reasoning": "Incorrect -- 'advancing' means progressing or moving forward in military rank or campaign, the opposite of attempting to avoid deployment." }
+      ]
+    },
+    {
+      "sentence": "Rather than face the difficult conversation with her mother, she began to malinger, inventing increasingly elaborate excuses to delay their meeting.",
+      "answerChoices": [
+        { "distractor": "procrastinating", "closeness": 3, "reasoning": "Close -- 'procrastinating' means delaying action, which matches her behavior of postponing the meeting, but it doesn't capture the deceptive element of inventing false excuses." },
+        { "distractor": "hedging", "closeness": 3, "reasoning": "Close -- 'hedging' means avoiding direct commitment or answer, which fits evasion of the conversation, but it doesn't imply the fabrication of false reasons that malingering involves." },
+        { "distractor": "stalling", "closeness": 3, "reasoning": "Close -- 'stalling' means using delay tactics, which matches her repeated excuses to postpone, but it's broader than the specific deception of feigning incapacity or hardship." },
+        { "distractor": "prevaricating", "closeness": 3, "reasoning": "Close -- 'prevaricating' means being evasive and lying, which captures the deception of malingering, but it's a broader term for any evasive dishonesty, not specifically feigned incapacity." },
+        { "distractor": "equivocating", "closeness": 2, "reasoning": "Incorrect -- 'equivocating' means being deliberately ambiguous, which could fit evasion, but it doesn't establish the specific fabrication of false reasons to avoid confrontation." },
+        { "distractor": "demurring", "closeness": 2, "reasoning": "Incorrect -- 'demurring' means objecting or expressing reluctance, which captures her resistance to the meeting, but lacks the deceptive element of invented excuses." },
+        { "distractor": "retreating", "closeness": 2, "reasoning": "Incorrect -- 'retreating' means withdrawing from a position or conflict, which fits avoidance, but it doesn't convey the active deception of fabricating reasons." },
+        { "distractor": "dissociating", "closeness": 2, "reasoning": "Incorrect -- 'dissociating' means separating or disconnecting oneself, which might describe avoidance, but it doesn't capture the active deception of inventing false excuses." },
+        { "distractor": "confiding", "closeness": 1, "reasoning": "Opposite -- 'confiding' means sharing openly and honestly; clearly wrong for someone inventing excuses to avoid a conversation." },
+        { "distractor": "confronting", "closeness": 1, "reasoning": "Opposite -- 'confronting' means facing someone directly, the opposite of the avoidance and deception described in the sentence." },
+        { "distractor": "revealing", "closeness": 1, "reasoning": "Incorrect -- 'revealing' means disclosing or making known, contrary to the deception of fabricating excuses to avoid truth-telling." }
+      ]
+    }
+  ]
+}

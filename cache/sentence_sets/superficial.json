@@ -1,0 +1,53 @@
+{
+  "word": "superficial",
+  "sentenceSets": [
+    {
+      "sentence": "His superficial engagement with the proposal allowed him to endorse it without accepting responsibility for any of its implications.",
+      "answerChoices": [
+        { "distractor": "cursory", "closeness": 3, "reasoning": "'Cursory' means quick and superficial examination; the engagement is cursory, but 'superficial' emphasizes staying at the surface level." },
+        { "distractor": "casual", "closeness": 3, "reasoning": "'Casual' means without seriousness; while the engagement is casual, 'superficial' specifically means confined to the surface." },
+        { "distractor": "shallow", "closeness": 3, "reasoning": "'Shallow' means lacking depth; the engagement is shallow, and very similar to superficial, but 'superficial' emphasizes surface location." },
+        { "distractor": "perfunctory", "closeness": 3, "reasoning": "'Perfunctory' means mechanical without care; while the engagement is mechanical, 'superficial' emphasizes surface-level nature." },
+        { "distractor": "careless", "closeness": 2, "reasoning": "His engagement is careless of implications, but 'careless' describes negligence, not surface-level depth." },
+        { "distractor": "halfhearted", "closeness": 2, "reasoning": "The engagement lacks commitment, but 'halfhearted' describes lack of enthusiasm, not surface engagement." },
+        { "distractor": "tentative", "closeness": 2, "reasoning": "The engagement might be tentative, but 'tentative' describes uncertainty, not surface-level nature." },
+        { "distractor": "insincere", "closeness": 2, "reasoning": "The superficial engagement might be insincere, but 'insincere' describes dishonesty; 'superficial' describes depth." },
+        { "distractor": "thorough", "closeness": 1, "reasoning": "Superficial engagement is not thorough or deep." },
+        { "distractor": "profound", "closeness": 1, "reasoning": "Superficial is the opposite of profound or deep." },
+        { "distractor": "meaningful", "closeness": 1, "reasoning": "Surface-level superficial engagement lacks the depth of meaningful engagement." }
+      ]
+    },
+    {
+      "sentence": "The investigation found only superficial damage to the structure, limited to cosmetic scratches that did not affect the foundation's integrity.",
+      "answerChoices": [
+        { "distractor": "minor", "closeness": 3, "reasoning": "The damage is minor in significance, but 'minor' describes importance, while 'superficial' describes location at the surface." },
+        { "distractor": "cosmetic", "closeness": 3, "reasoning": "'Cosmetic' means affecting appearance only; very similar to superficial, but the sentence explicitly uses cosmetic to describe the damage." },
+        { "distractor": "slight", "closeness": 3, "reasoning": "'Slight' means small in degree; the damage is slight, but 'superficial' specifically means confined to the surface." },
+        { "distractor": "negligible", "closeness": 3, "reasoning": "'Negligible' means too small to matter; while the damage matters little, 'superficial' describes location, not significance." },
+        { "distractor": "aesthetic", "closeness": 2, "reasoning": "Cosmetic damage affects appearance, but 'aesthetic' describes visual properties; 'superficial' describes location." },
+        { "distractor": "external", "closeness": 2, "reasoning": "Superficial damage is external, but 'external' means outside, while 'superficial' means at the surface level." },
+        { "distractor": "visible", "closeness": 2, "reasoning": "Superficial damage is visible, but 'visible' describes perceptibility, not depth." },
+        { "distractor": "harmless", "closeness": 2, "reasoning": "Superficial damage is harmless to structure, but 'harmless' describes safety, not depth." },
+        { "distractor": "extensive", "closeness": 1, "reasoning": "Superficial damage is limited and confined to the surface; extensive damage would be widespread." },
+        { "distractor": "deep", "closeness": 1, "reasoning": "Superficial damage is at the surface; deep damage would penetrate." },
+        { "distractor": "structural", "closeness": 1, "reasoning": "The sentence explicitly states superficial damage does not affect the foundation, so it's not structural." }
+      ]
+    },
+    {
+      "sentence": "The student's superficial understanding of the theory allowed her to pass the multiple-choice exam but failed her when the essay required explanation of underlying principles.",
+      "answerChoices": [
+        { "distractor": "incomplete", "closeness": 3, "reasoning": "'Incomplete' means lacking parts; the understanding is incomplete, but 'superficial' specifically means lacking depth." },
+        { "distractor": "limited", "closeness": 3, "reasoning": "'Limited' means restricted in scope; the understanding is limited, but 'superficial' emphasizes surface-level nature." },
+        { "distractor": "vague", "closeness": 3, "reasoning": "'Vague' means unclear or ill-defined; the understanding is vague, but 'superficial' means confined to the surface." },
+        { "distractor": "inadequate", "closeness": 3, "reasoning": "'Inadequate' means insufficient; the understanding is inadequate for essays, but 'superficial' specifically means surface-level." },
+        { "distractor": "weak", "closeness": 2, "reasoning": "The understanding is weak or insufficient, but 'weak' describes strength, not depth." },
+        { "distractor": "passive", "closeness": 2, "reasoning": "Superficial understanding might result from passive learning, but 'passive' describes approach, not depth." },
+        { "distractor": "memorized", "closeness": 2, "reasoning": "Superficial understanding might rely on memorization, but 'memorized' describes the learning method, not depth." },
+        { "distractor": "rote", "closeness": 2, "reasoning": "The understanding might be rote or mechanical, but 'rote' describes the learning method, not depth." },
+        { "distractor": "profound", "closeness": 1, "reasoning": "Superficial understanding is the opposite of profound." },
+        { "distractor": "thorough", "closeness": 1, "reasoning": "Superficial understanding lacks the depth of thorough understanding." },
+        { "distractor": "expert", "closeness": 1, "reasoning": "Superficial understanding contradicts expert-level knowledge of principles." }
+      ]
+    }
+  ]
+}

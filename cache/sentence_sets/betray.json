@@ -1,0 +1,53 @@
+{
+  "word": "betray",
+  "sentenceSets": [
+    {
+      "sentence": "The agent's careless remark betrayed a far deeper knowledge of the operation than she had admitted to.",
+      "answerChoices": [
+        { "distractor": "revealed", "closeness": 3, "reasoning": "Both describe making something known, but 'revealed' is more neutral about intent; the sentence emphasizes the agent had previously 'admitted to' limited knowledge, so the word must convey that the remark contradicted her prior claim." },
+        { "distractor": "exposed", "closeness": 3, "reasoning": "Both suggest making something visible, but 'exposed' implies making public or vulnerable; the sentence focuses on the remark showing her knowledge contradicted her claims within the interaction." },
+        { "distractor": "disclosed", "closeness": 3, "reasoning": "Both mean to reveal information, but 'disclosed' implies formal or deliberate communication; the sentence emphasizes a 'careless' remark, suggesting inadvertent rather than intentional revelation." },
+        { "distractor": "evinced", "closeness": 3, "reasoning": "Both mean to display or show (formal), but 'evinced' lacks the sense of involuntary exposure captured by a word suited to a careless, unthinking remark." },
+        { "distractor": "suggested", "closeness": 2, "reasoning": "Too weak—'suggested' means to imply indirectly, but the sentence shows the remark clearly displayed her knowledge, not merely hinted at it." },
+        { "distractor": "implied", "closeness": 2, "reasoning": "Similar to 'suggested'—'implied' is about indirect suggestion, but the sentence shows her knowledge was directly displayed by the remark, not merely inferred." },
+        { "distractor": "indicated", "closeness": 2, "reasoning": "Related but not quite—'indicated' means to point to something, but it is more neutral than the sense of inadvertent contradiction the sentence conveys." },
+        { "distractor": "hinted", "closeness": 2, "reasoning": "Too subtle—'hinted' suggests indirect, partial revelation, but the sentence describes a remark showing she knew 'far deeper' knowledge, a clear rather than oblique revelation." },
+        { "distractor": "concealed", "closeness": 1, "reasoning": "Opposite—the sentence describes something made visible through the remark, not something hidden." },
+        { "distractor": "suppressed", "closeness": 1, "reasoning": "Opposite—the sentence describes knowledge that came out in the remark, not something held back or restrained." },
+        { "distractor": "masked", "closeness": 1, "reasoning": "Opposite—the remark revealed rather than hid her knowledge." }
+      ]
+    },
+    {
+      "sentence": "When she betrayed her best friend's secret to his rival, she destroyed a friendship she had treasured for years.",
+      "answerChoices": [
+        { "distractor": "abandoned", "closeness": 3, "reasoning": "The sentence specifically describes telling a secret to a rival; while both could damage a friendship, 'abandoned' suggests leaving someone unhelped in a difficult situation, whereas the direct action here is revealing a confidence." },
+        { "distractor": "deceived", "closeness": 3, "reasoning": "The sentence shows a specific action of telling a secret; while both are forms of wrongdoing, 'deceived' means to trick or create false beliefs, whereas telling a secret means sharing true information." },
+        { "distractor": "alienated", "closeness": 3, "reasoning": "The sentence details a specific betrayal of confidence; 'alienated' describes the result of losing trust and creating distance, but the action in the sentence is a violation of trust rather than creating emotional separation." },
+        { "distractor": "disappointed", "closeness": 3, "reasoning": "The sentence describes deliberately telling a secret to a rival; 'disappointed' means failing to meet expectations, but the action here is active wrongdoing rather than a failure to deliver." },
+        { "distractor": "conspired", "closeness": 2, "reasoning": "Wrong sense—'conspired' means to plot or scheme together; the sentence describes revealing a secret rather than secretly planning against the friend." },
+        { "distractor": "opposed", "closeness": 2, "reasoning": "Wrong—'opposed' means to stand against or resist; the sentence doesn't indicate she was opposing her friend, but breaking a confidence." },
+        { "distractor": "disrespected", "closeness": 2, "reasoning": "Wrong—while her action may show disrespect, 'disrespected' is too general; the specific action was breaking trust in a confidence." },
+        { "distractor": "undermined", "closeness": 2, "reasoning": "Wrong—'undermined' means to weaken; while this might describe the effect on the friendship, the action was revealing the secret, not actively weakening something." },
+        { "distractor": "defended", "closeness": 1, "reasoning": "Opposite—'defended' means to protect or support; the sentence shows her acting against her friend's interests." },
+        { "distractor": "protected", "closeness": 1, "reasoning": "Opposite—'protected' means to keep safe; revealing the secret did the opposite of protecting her friend." },
+        { "distractor": "supported", "closeness": 1, "reasoning": "Opposite—'supported' means to help or back; the sentence describes her acting against her friend." }
+      ]
+    },
+    {
+      "sentence": "His trembling hands betrayed his nervousness during the job interview, though he was trying to appear calm and collected.",
+      "answerChoices": [
+        { "distractor": "displayed", "closeness": 3, "reasoning": "The sentence contrasts his physical signs with his deliberate effort to appear calm; 'displayed' suggests openly presenting something, but the sentence emphasizes his hands unknowingly gave away what his conscious effort was hiding." },
+        { "distractor": "manifested", "closeness": 3, "reasoning": "The sentence emphasizes the contrast between physical signs and his deliberate calm demeanor; 'manifested' means appeared or emerged, which fits, but the sentence highlights involuntary revelation despite effort." },
+        { "distractor": "telegraphed", "closeness": 3, "reasoning": "The sentence shows physical signs revealing his emotional state despite his efforts; 'telegraphed' means signaled involuntarily, which is close, but the sentence emphasizes these signs worked against his deliberate appearance." },
+        { "distractor": "evidenced", "closeness": 3, "reasoning": "The sentence describes his hands showing his actual emotional state; 'evidenced' means provided evidence of something, which fits, but it is more formal and neutral than the sense of involuntary leaking of information." },
+        { "distractor": "conveyed", "closeness": 2, "reasoning": "Wrong sense—'conveyed' means to communicate or transmit information; the sentence describes physical signs unconsciously revealing his state, not deliberately communicating it." },
+        { "distractor": "expressed", "closeness": 2, "reasoning": "Wrong—'expressed' implies intentional communication of a feeling, but his hands were involuntarily revealing what he was trying to hide." },
+        { "distractor": "communicated", "closeness": 2, "reasoning": "Wrong—like 'expressed,' 'communicated' suggests intentional transmission of information, whereas the sentence shows unintentional physical signs." },
+        { "distractor": "signaled", "closeness": 2, "reasoning": "Wrong—'signaled' suggests deliberately indicating something; the sentence describes unintentional physical reveals happening against his effort." },
+        { "distractor": "hidden", "closeness": 1, "reasoning": "Opposite—the sentence describes signs being made visible through his body, not something kept secret." },
+        { "distractor": "obscured", "closeness": 1, "reasoning": "Opposite—the sentence describes his nervousness becoming apparent, not being made unclear or unclear." },
+        { "distractor": "veiled", "closeness": 1, "reasoning": "Opposite—'veiled' means covered or concealed; the sentence shows his anxiety was made visible through his trembling hands." }
+      ]
+    }
+  ]
+}

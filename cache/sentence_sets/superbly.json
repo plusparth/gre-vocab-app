@@ -1,0 +1,53 @@
+{
+  "word": "superbly",
+  "sentenceSets": [
+    {
+      "sentence": "The conductor superbly led the orchestra through a complex arrangement, bringing out inner voices that were easily missed in previous performances.",
+      "answerChoices": [
+        { "distractor": "masterfully", "closeness": 3, "reasoning": "'Masterfully' means with great skill; the conductor demonstrates mastery, but 'superbly' emphasizes the highest degree of excellence, not just skill." },
+        { "distractor": "expertly", "closeness": 3, "reasoning": "'Expertly' means with expert knowledge; the conductor is expert, but 'superbly' implies the highest level, not just competence." },
+        { "distractor": "skillfully", "closeness": 3, "reasoning": "'Skillfully' means with skill; the conductor shows skill, but 'superbly' emphasizes excellence at the highest degree." },
+        { "distractor": "brilliantly", "closeness": 3, "reasoning": "'Brilliantly' means with great cleverness; while related to 'superbly,' it emphasizes intellectual brilliance rather than overall grandeur and excellence." },
+        { "distractor": "precisely", "closeness": 2, "reasoning": "The conducting is precise, but 'precisely' describes accuracy, not the highest degree of excellence." },
+        { "distractor": "effectively", "closeness": 2, "reasoning": "The conducting is effective in bringing out inner voices, but 'effectively' means producing results, not excellence." },
+        { "distractor": "confidently", "closeness": 2, "reasoning": "The conductor conducts with confidence, but 'confidently' describes attitude, not the degree of excellence." },
+        { "distractor": "dramatically", "closeness": 2, "reasoning": "The conducting might be dramatic, but 'dramatically' describes style, not the highest degree of excellence." },
+        { "distractor": "poorly", "closeness": 1, "reasoning": "The conductor brings out inner voices that were missed before, so the conducting was not poor." },
+        { "distractor": "mediocrely", "closeness": 1, "reasoning": "Superbly means to the highest degree of excellence; mediocrely means to an average degree." },
+        { "distractor": "incompetently", "closeness": 1, "reasoning": "Superbly indicates highest competence; incompetently indicates lack of competence." }
+      ]
+    },
+    {
+      "sentence": "The chef prepared the dessert superbly, layering delicate flavors and textures with a precision that elevated the simple ingredients into something transcendent.",
+      "answerChoices": [
+        { "distractor": "skillfully", "closeness": 3, "reasoning": "'Skillfully' indicates competent technique; the chef shows skill, but 'superbly' emphasizes the highest degree of excellence and artistry." },
+        { "distractor": "expertly", "closeness": 3, "reasoning": "'Expertly' means with expert skill; the chef is expert, but 'superbly' emphasizes excellence at the highest degree." },
+        { "distractor": "carefully", "closeness": 3, "reasoning": "'Carefully' means with attention; the chef is careful with precision, but 'superbly' emphasizes excellence, not just care." },
+        { "distractor": "creatively", "closeness": 3, "reasoning": "'Creatively' means with imagination; the chef is creative, but 'superbly' emphasizes the highest degree of execution." },
+        { "distractor": "meticulously", "closeness": 2, "reasoning": "The chef is meticulous in precision, but 'meticulously' describes attention to detail, not the overall excellence." },
+        { "distractor": "artfully", "closeness": 2, "reasoning": "The preparation is artful, but 'artfully' describes artistic quality, while 'superbly' emphasizes overall excellence." },
+        { "distractor": "elegantly", "closeness": 2, "reasoning": "The dessert is elegant, but 'elegantly' describes style, not the highest degree of excellence." },
+        { "distractor": "delicately", "closeness": 2, "reasoning": "The flavors are delicate, but 'delicately' describes the quality of handling, not the overall excellence." },
+        { "distractor": "poorly", "closeness": 1, "reasoning": "Superbly indicates highest excellence; the elevated result contradicts poor preparation." },
+        { "distractor": "carelessly", "closeness": 1, "reasoning": "Superbly indicates highest competence and excellence; carelessly indicates lack of attention." },
+        { "distractor": "simply", "closeness": 1, "reasoning": "The chef elevates simple ingredients through superb preparation; simple preparation would not achieve this." }
+      ]
+    },
+    {
+      "sentence": "The athlete performed superbly in the championship, executing every movement with the grandeur and precision that defined her career.",
+      "answerChoices": [
+        { "distractor": "well", "closeness": 3, "reasoning": "'Well' means satisfactorily; the athlete performs well, but 'superbly' emphasizes the highest degree of excellence." },
+        { "distractor": "strongly", "closeness": 3, "reasoning": "'Strongly' means with great force; the athlete is strong, but 'superbly' emphasizes overall excellence and brilliance." },
+        { "distractor": "flawlessly", "closeness": 3, "reasoning": "'Flawlessly' means without mistakes; while the athlete is flawless, 'superbly' emphasizes grandeur and excellence beyond just absence of errors." },
+        { "distractor": "confidently", "closeness": 3, "reasoning": "'Confidently' describes attitude; while the athlete shows confidence, 'superbly' emphasizes the highest degree of excellence." },
+        { "distractor": "powerfully", "closeness": 2, "reasoning": "The athlete is powerful, but 'powerfully' describes force, not the overall excellence." },
+        { "distractor": "dynamically", "closeness": 2, "reasoning": "The performance is dynamic and energetic, but 'dynamically' describes energy, not overall excellence." },
+        { "distractor": "impressively", "closeness": 2, "reasoning": "The performance impresses, but 'impressively' describes the effect on observers, not the degree of excellence." },
+        { "distractor": "triumphantly", "closeness": 2, "reasoning": "The athlete triumphs, but 'triumphantly' describes victory, not the quality of the performance." },
+        { "distractor": "poorly", "closeness": 1, "reasoning": "Superbly indicates highest excellence; poor performance would contradict her career definition." },
+        { "distractor": "clumsily", "closeness": 1, "reasoning": "Superbly indicates highest grace and precision; clumsily would be opposite." },
+        { "distractor": "unremarkably", "closeness": 1, "reasoning": "Superbly indicates the highest degree of grandeur; unremarkably would indicate nothing special." }
+      ]
+    }
+  ]
+}

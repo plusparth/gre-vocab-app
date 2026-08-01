@@ -1,0 +1,53 @@
+{
+  "word": "tepid",
+  "sentenceSets": [
+    {
+      "sentence": "The tepid response to the initiative communicated that the leadership considered it acceptable but not important.",
+      "answerChoices": [
+        { "distractor": "mixed", "closeness": 3, "reasoning": "Mixed means combining positive and negative elements, but the sentence reveals a consistently muted reaction, not a blend of approval and disapproval." },
+        { "distractor": "cautious", "closeness": 3, "reasoning": "Cautious means careful and wary, yet the sentence indicates acceptance rather than wariness—the response was just underwhelming in enthusiasm." },
+        { "distractor": "restrained", "closeness": 3, "reasoning": "Restrained means held back or controlled, but the sentence emphasizes lack of importance rather than deliberate withholding of enthusiasm." },
+        { "distractor": "lukewarm", "closeness": 3, "reasoning": "Lukewarm describes half-hearted or lacking enthusiasm, which captures the sense well, but the sentence's focus on the implications—acceptable but not important—suggests something beyond mere lack of warmth." },
+        { "distractor": "neutral", "closeness": 2, "reasoning": "Neutral means taking no side or expressing no particular opinion, but the sentence shows leadership expressing acceptance, not pure neutrality." },
+        { "distractor": "indifferent", "closeness": 2, "reasoning": "Indifferent means having no particular interest or concern, but the sentence indicates explicit acceptance, not mere lack of interest." },
+        { "distractor": "polite", "closeness": 2, "reasoning": "Polite means having good manners, but the sentence reveals the implications of the response regarding leadership's actual assessment, not mere courtesy." },
+        { "distractor": "reserved", "closeness": 2, "reasoning": "Reserved means restrained or aloof, but the sentence shows acceptance expressed through muted response, not emotional distance." },
+        { "distractor": "enthusiastic", "closeness": 1, "reasoning": "Enthusiastic means eager and excited, the opposite of what the sentence describes as a muted response communicating lack of importance." },
+        { "distractor": "overwhelming", "closeness": 1, "reasoning": "Overwhelming means very great or intense, contradicting a response that was merely acceptable." },
+        { "distractor": "dismissive", "closeness": 1, "reasoning": "Dismissive means treating something as unworthy of consideration; the sentence indicates acceptance, not dismissal." }
+      ]
+    },
+    {
+      "sentence": "The reviewer gave the new restaurant a tepid assessment, praising the plating but noting that the flavors were conventional and the service inconsistent, suggesting modest rather than exceptional dining.",
+      "answerChoices": [
+        { "distractor": "ambivalent", "closeness": 3, "reasoning": "Ambivalent means having conflicting feelings, but the sentence reveals specific issues (conventional flavors, inconsistent service) rather than emotional conflict." },
+        { "distractor": "mixed", "closeness": 3, "reasoning": "Mixed means containing both positive and negative elements, which is close, but the sentence's structure—praise balanced against multiple criticisms—suggests something more definitively cool than 'mixed' implies." },
+        { "distractor": "qualified", "closeness": 3, "reasoning": "Qualified means limited by conditions, yet the sentence presents specific criticisms rather than conditional approval." },
+        { "distractor": "reserved", "closeness": 3, "reasoning": "Reserved means held back or restrained, but the sentence provides substantive critique, not merely restrained expression." },
+        { "distractor": "moderate", "closeness": 2, "reasoning": "Moderate means avoiding extremes, which applies to the assessment's middle-ground nature, but the sentence's specific criticisms suggest cooler than merely moderate judgment." },
+        { "distractor": "diplomatic", "closeness": 2, "reasoning": "Diplomatic means tactful or careful in expression, but the sentence reveals honest critique balanced with some praise, not tactful avoidance." },
+        { "distractor": "objective", "closeness": 2, "reasoning": "Objective means unbiased or factual, but the sentence describes a judgment assessment, not objective description of facts." },
+        { "distractor": "fair", "closeness": 2, "reasoning": "Fair means just or reasonable, which may apply, but the sentence's moderate-to-negative judgment tone suggests something cooler than merely fair assessment." },
+        { "distractor": "glowing", "closeness": 1, "reasoning": "Glowing means praising enthusiastically; the sentence shows multiple criticisms tempering limited praise." },
+        { "distractor": "scathing", "closeness": 1, "reasoning": "Scathing means harshly critical; the sentence includes praise alongside criticism." },
+        { "distractor": "raving", "closeness": 1, "reasoning": "Raving means speaking with great enthusiasm; the sentence indicates a cautious, moderate judgment." }
+      ]
+    },
+    {
+      "sentence": "Investors gave only a tepid reception to the startup's pitch, asking few questions and showing little excitement, signaling that they found the business model uninspiring despite its technical competence.",
+      "answerChoices": [
+        { "distractor": "cold", "closeness": 3, "reasoning": "Cold describes a hostile or unfriendly response, but the sentence indicates lack of enthusiasm rather than active rejection or hostility." },
+        { "distractor": "unenthusiastic", "closeness": 3, "reasoning": "Unenthusiastic means lacking enthusiasm, which captures the surface meaning but doesn't convey the sentence's broader implication about the business model being uninspiring." },
+        { "distractor": "indifferent", "closeness": 3, "reasoning": "Indifferent means showing no particular interest, yet the sentence reveals investors had substantive judgment—that the model was uninspiring—not mere lack of interest." },
+        { "distractor": "halfhearted", "closeness": 3, "reasoning": "Halfhearted means showing little enthusiasm or commitment, which is very close, but the sentence emphasizes the specific cause—finding the business uninspiring—rather than reluctant engagement." },
+        { "distractor": "sparse", "closeness": 2, "reasoning": "Sparse means thinly distributed, which describes the few questions but misses the lack of enthusiasm as the core issue." },
+        { "distractor": "restrained", "closeness": 2, "reasoning": "Restrained means controlled or held back, but the sentence reveals underlying judgment rather than deliberate containment." },
+        { "distractor": "polite", "closeness": 2, "reasoning": "Polite means courteous or well-mannered, but the sentence indicates investors expressed their lack of interest through their behavior, not mere courtesy." },
+        { "distractor": "neutral", "closeness": 2, "reasoning": "Neutral means taking no position, but the sentence shows investors formed a negative judgment about the model's inspiration value." },
+        { "distractor": "enthusiastic", "closeness": 1, "reasoning": "Enthusiastic means eager and excited, the opposite of what the sentence describes." },
+        { "distractor": "engaged", "closeness": 1, "reasoning": "Engaged means actively involved, contradicting the sentence's description of few questions and little excitement." },
+        { "distractor": "impressed", "closeness": 1, "reasoning": "Impressed means affected positively; the sentence indicates investors were not impressed despite the technical competence." }
+      ]
+    }
+  ]
+}

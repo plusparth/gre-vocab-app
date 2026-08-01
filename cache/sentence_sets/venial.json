@@ -1,0 +1,53 @@
+{
+  "word": "venial",
+  "sentenceSets": [
+    {
+      "sentence": "He treated the venial transgressions of his team with proportionate patience while reserving his severity for the serious ones.",
+      "answerChoices": [
+        {"distractor": "minor", "closeness": 3, "reasoning": "Minor means small in importance or severity, which the transgressions are, but venial specifically refers to faults that can be forgiven or pardoned."},
+        {"distractor": "slight", "closeness": 3, "reasoning": "Slight means small in degree or importance, which the transgressions are, but venial emphasizes the capacity for forgiveness, not merely size."},
+        {"distractor": "trivial", "closeness": 3, "reasoning": "Trivial means of little importance, which the transgressions are, but venial specifically refers to forgivable rather than unimportant faults."},
+        {"distractor": "negligible", "closeness": 3, "reasoning": "Negligible means so small as to be insignificant, which the transgressions are, but venial refers to the capacity for remission or forgiveness."},
+        {"distractor": "petty", "closeness": 2, "reasoning": "Petty means small and of little importance, which the transgressions are, but does not specifically convey the sense of being pardonable."},
+        {"distractor": "insignificant", "closeness": 2, "reasoning": "Insignificant means lacking importance or consequence, which the transgressions are, but does not capture the specific sense of being forgivable."},
+        {"distractor": "unimportant", "closeness": 2, "reasoning": "Unimportant means of little importance or consequence, which the transgressions are, but does not refer specifically to capacity for forgiveness."},
+        {"distractor": "trifling", "closeness": 2, "reasoning": "Trifling means of little value or importance, which the transgressions are, but does not emphasize the forgivable nature that venial implies."},
+        {"distractor": "serious", "closeness": 1, "reasoning": "Serious means grave or of considerable importance, the opposite of venial transgressions that can be treated with patience."},
+        {"distractor": "grave", "closeness": 1, "reasoning": "Grave means serious or giving cause for concern, the opposite of venial faults that warrant proportionate patience."},
+        {"distractor": "unforgivable", "closeness": 1, "reasoning": "Unforgivable means incapable of being pardoned, the opposite of venial transgressions that can be remitted or forgiven."}
+      ]
+    },
+    {
+      "sentence": "The auditor discovered that while the company had committed several venial accounting errors, the overall financial statements remained materially accurate.",
+      "answerChoices": [
+        {"distractor": "minor", "closeness": 3, "reasoning": "Minor means small in importance or severity, which the errors are, but venial specifically emphasizes the capacity for forgiveness or remission."},
+        {"distractor": "trivial", "closeness": 3, "reasoning": "Trivial means of little importance, which the errors are, but venial refers to faults that can be pardoned or forgiven."},
+        {"distractor": "slight", "closeness": 3, "reasoning": "Slight means small in degree or importance, which the errors are, but venial emphasizes the capacity for forgiveness, not merely size."},
+        {"distractor": "negligible", "closeness": 3, "reasoning": "Negligible means so small as to be insignificant, which the errors are, but venial specifically refers to the remissibility of faults."},
+        {"distractor": "petty", "closeness": 2, "reasoning": "Petty means small and of little importance, which the errors are, but does not specifically convey the sense of being pardonable."},
+        {"distractor": "inconsequential", "closeness": 2, "reasoning": "Inconsequential means of little importance or consequence, which the errors are, but does not capture the specific sense of being forgivable."},
+        {"distractor": "unimportant", "closeness": 2, "reasoning": "Unimportant means of little importance, which the errors are, but does not refer specifically to capacity for forgiveness."},
+        {"distractor": "immaterial", "closeness": 2, "reasoning": "Immaterial means of no importance or consequence, which the errors are, but does not emphasize the forgivable nature that venial implies."},
+        {"distractor": "serious", "closeness": 1, "reasoning": "Serious means grave or of considerable importance, the opposite of venial errors that do not materially affect financial statements."},
+        {"distractor": "material", "closeness": 1, "reasoning": "Material means significant or important, the opposite of venial errors that do not affect overall accuracy."},
+        {"distractor": "critical", "closeness": 1, "reasoning": "Critical means of vital importance, the opposite of venial accounting errors that do not materially affect statements."}
+      ]
+    },
+    {
+      "sentence": "The committee decided that the candidate's venial infractions of debate protocol were insufficient grounds for disqualification from the competition.",
+      "answerChoices": [
+        {"distractor": "minor", "closeness": 3, "reasoning": "Minor means small in importance or severity, which the infractions are, but venial specifically refers to faults that can be forgiven or pardoned."},
+        {"distractor": "trivial", "closeness": 3, "reasoning": "Trivial means of little importance, which the infractions are, but venial emphasizes the capacity for forgiveness, not merely size."},
+        {"distractor": "slight", "closeness": 3, "reasoning": "Slight means small in degree or importance, which the infractions are, but venial refers to faults that can be remitted or forgiven."},
+        {"distractor": "negligible", "closeness": 3, "reasoning": "Negligible means so small as to be insignificant, which the infractions are, but venial specifically refers to the remissibility of faults."},
+        {"distractor": "petty", "closeness": 2, "reasoning": "Petty means small and of little importance, which the infractions are, but does not specifically convey the sense of being pardonable."},
+        {"distractor": "insignificant", "closeness": 2, "reasoning": "Insignificant means lacking importance or consequence, which the infractions are, but does not capture the specific sense of being forgivable."},
+        {"distractor": "unimportant", "closeness": 2, "reasoning": "Unimportant means of little importance, which the infractions are, but does not refer specifically to capacity for forgiveness or pardon."},
+        {"distractor": "trifling", "closeness": 2, "reasoning": "Trifling means of little value or importance, which the infractions are, but does not emphasize the forgivable nature that venial implies."},
+        {"distractor": "serious", "closeness": 1, "reasoning": "Serious means grave or of considerable importance, the opposite of venial infractions that do not warrant disqualification."},
+        {"distractor": "disqualifying", "closeness": 1, "reasoning": "Disqualifying means causing removal from eligibility, the opposite of venial infractions that are insufficient grounds for disqualification."},
+        {"distractor": "flagrant", "closeness": 1, "reasoning": "Flagrant means glaringly obvious or severe, the opposite of venial infractions of protocol."}
+      ]
+    }
+  ]
+}

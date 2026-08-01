@@ -1,0 +1,53 @@
+{
+  "word": "calumny",
+  "sentenceSets": [
+    {
+      "sentence": "The campaign relied heavily on calumny, attacking opponents with accusations that had no basis in fact.",
+      "answerChoices": [
+        { "distractor": "invective", "closeness": 3, "reasoning": "Both describe harsh attacking speech, but 'invective' emphasizes insulting or abusive language rather than the false accusations the sentence highlights through 'had no basis in fact.'" },
+        { "distractor": "tirade", "closeness": 3, "reasoning": "Both describe strongly expressed speech intended to harm, but a 'tirade' is an angry outburst of criticism, not necessarily involving false claims." },
+        { "distractor": "diatribe", "closeness": 3, "reasoning": "Both are forceful attacks, but 'diatribe' emphasizes a bitter or angry speech, not the specific element of false misrepresentation." },
+        { "distractor": "aspersion", "closeness": 3, "reasoning": "Both refer to damaging remarks about character, but 'aspersion' is a remark casting doubt, not necessarily involving the fabricated falsehoods the sentence reveals." },
+        { "distractor": "slander", "closeness": 2, "reasoning": "Both refer to false, reputation-damaging speech, but 'slander' specifies spoken falsehoods, while the sentence context of a campaign could include written and spoken attacks." },
+        { "distractor": "libel", "closeness": 2, "reasoning": "Both refer to false, damaging statements, but 'libel' specifically denotes written defamation rather than accusations broadly." },
+        { "distractor": "vilification", "closeness": 2, "reasoning": "Means harshly criticizing or attacking character, but doesn't inherently require falsity as the sentence emphasizes." },
+        { "distractor": "denunciation", "closeness": 2, "reasoning": "Means publicly condemning, but may apply to true criticisms, whereas the sentence's 'had no basis in fact' indicates false claims." },
+        { "distractor": "commendation", "closeness": 1, "reasoning": "Means praise or approval, the opposite of attacking accusations." },
+        { "distractor": "vindication", "closeness": 1, "reasoning": "Means proving someone innocent or justified, opposite to making false accusations." },
+        { "distractor": "substantiation", "closeness": 1, "reasoning": "Means providing factual support, the opposite of accusations that 'had no basis in fact.'" }
+      ]
+    },
+    {
+      "sentence": "The defendant's lawyer argued that the witness's testimony consisted entirely of calumny designed to shift blame and avoid accountability.",
+      "answerChoices": [
+        { "distractor": "perjury", "closeness": 3, "reasoning": "Both refer to false statements harmful to the defendant, but 'perjury' is the legal crime of lying under oath, while the sentence emphasizes the false misrepresentation of character rather than the oath-taking context." },
+        { "distractor": "prevarication", "closeness": 3, "reasoning": "Both mean deliberate dishonesty, but 'prevarication' is lying or equivocation generally, not necessarily the malicious false accusations intended to damage reputation." },
+        { "distractor": "fabrication", "closeness": 3, "reasoning": "Means making something false, but doesn't capture the specific element of malicious intent to harm someone's reputation in a legal proceeding." },
+        { "distractor": "deception", "closeness": 3, "reasoning": "Both involve falsehoods, but 'deception' is broader—it's any misleading, while the word specifies false claims with intent to harm reputation." },
+        { "distractor": "misrepresentation", "closeness": 2, "reasoning": "Means presenting falsely, but doesn't necessarily involve the malicious element of deliberately damaging someone's standing." },
+        { "distractor": "mendacity", "closeness": 2, "reasoning": "Means dishonesty or lying, but lacks the specific component of false accusations intended to harm character." },
+        { "distractor": "inaccuracy", "closeness": 2, "reasoning": "Means being incorrect or mistaken, but could be unintentional, lacking the malicious intent the sentence implies." },
+        { "distractor": "contradiction", "closeness": 2, "reasoning": "Means conflicting or opposing statements, but doesn't necessarily involve false reputation-damaging claims." },
+        { "distractor": "corroboration", "closeness": 1, "reasoning": "Means confirming with supporting evidence, opposite to testimony designed to shift blame through false accusation." },
+        { "distractor": "candor", "closeness": 1, "reasoning": "Means honest and sincere speech, opposite to false malicious testimony." },
+        { "distractor": "truthfulness", "closeness": 1, "reasoning": "Means honesty and accuracy, the opposite of false testimony designed to harm." }
+      ]
+    },
+    {
+      "sentence": "Religious reformers in medieval Europe often faced calumny from church authorities who sought to discredit them before they gained followers.",
+      "answerChoices": [
+        { "distractor": "excommunication", "closeness": 3, "reasoning": "Both are forms of religious punishment and social exclusion, but 'excommunication' is a formal institutional action rather than false accusations and misrepresentation." },
+        { "distractor": "heresy", "closeness": 3, "reasoning": "Both refer to religious opposition, but 'heresy' is the holding of beliefs contrary to doctrine, not the spreading of false claims about someone's character." },
+        { "distractor": "anathema", "closeness": 3, "reasoning": "Both represent condemnation, but 'anathema' is a formal curse or declaration against someone, not specifically false reputation-damaging accusations." },
+        { "distractor": "malediction", "closeness": 3, "reasoning": "Both express hostility and opposition, but 'malediction' means a curse or spell, not deliberately false claims intended to damage reputation." },
+        { "distractor": "persecution", "closeness": 2, "reasoning": "Both describe opposition to reformers, but 'persecution' means harassing or oppressing, not necessarily involving false accusations." },
+        { "distractor": "condemnation", "closeness": 2, "reasoning": "Means declaring someone guilty or blameworthy, but doesn't necessarily involve the false misrepresentation element." },
+        { "distractor": "vilification", "closeness": 2, "reasoning": "Means harsh criticism of character, but doesn't necessarily require the component of false claims." },
+        { "distractor": "censure", "closeness": 2, "reasoning": "Means expressing severe disapproval, but may be based on true concerns rather than false accusations." },
+        { "distractor": "vindication", "closeness": 1, "reasoning": "Means proving someone right or innocent, the opposite of false accusations meant to discredit." },
+        { "distractor": "validation", "closeness": 1, "reasoning": "Means confirming the truth or worth of something, opposite to spreading false damaging claims." },
+        { "distractor": "endorsement", "closeness": 1, "reasoning": "Means officially supporting or approving, the opposite of spreading false accusations." }
+      ]
+    }
+  ]
+}

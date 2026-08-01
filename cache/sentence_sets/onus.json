@@ -1,0 +1,53 @@
+{
+  "word": "onus",
+  "sentenceSets": [
+    {
+      "sentence": "The onus fell on the party that had made the original claim to provide the evidence, which it was unable to do.",
+      "answerChoices": [
+        { "distractor": "responsibility", "closeness": 3, "reasoning": "Close -- 'responsibility' means accountability; both fit, but the sentence emphasizes the burden of proof itself rather than general accountability." },
+        { "distractor": "burden", "closeness": 3, "reasoning": "Close -- 'burden' means a heavy load; nearly synonymous, but the sentence's legal context emphasizes 'onus' more specifically." },
+        { "distractor": "obligation", "closeness": 3, "reasoning": "Close -- 'obligation' means a binding duty; both fit, but the sentence emphasizes the specific burden of providing evidence." },
+        { "distractor": "duty", "closeness": 3, "reasoning": "Close -- 'duty' means an assigned task; the party had a duty to provide evidence, but 'onus' emphasizes the burden of that task." },
+        { "distractor": "liability", "closeness": 2, "reasoning": "Incorrect -- 'liability' means legal responsibility; while related, the sentence focuses on who must prove something, not legal culpability." },
+        { "distractor": "culpability", "closeness": 2, "reasoning": "Incorrect -- 'culpability' means guilt or blame; the sentence concerns burden of proof, not determining guilt." },
+        { "distractor": "accountability", "closeness": 2, "reasoning": "Incorrect -- 'accountability' means being answerable; while present, the sentence emphasizes the specific burden of providing evidence." },
+        { "distractor": "penalty", "closeness": 2, "reasoning": "Incorrect -- 'penalty' means a punishment; the sentence concerns burden of proof, not punishment." },
+        { "distractor": "privilege", "closeness": 1, "reasoning": "Opposite -- 'privilege' means a special right or advantage; contrary to the burden being placed on the claimant." },
+        { "distractor": "exemption", "closeness": 1, "reasoning": "Opposite -- 'exemption' means freedom from obligation; contrary to having the onus fall on someone." },
+        { "distractor": "relief", "closeness": 1, "reasoning": "Incorrect -- 'relief' means freedom from burden; the opposite of having an onus placed on one." }
+      ]
+    },
+    {
+      "sentence": "The environmental cleanup onus now rested with the corporation responsible for the industrial discharge.",
+      "answerChoices": [
+        { "distractor": "burden", "closeness": 3, "reasoning": "Close -- 'burden' means a heavy obligation; nearly synonymous, but the sentence emphasizes the specific legal responsibility more than the abstract burden." },
+        { "distractor": "responsibility", "closeness": 3, "reasoning": "Close -- 'responsibility' means accountability; both fit, but the sentence emphasizes the burden of the cleanup task itself." },
+        { "distractor": "obligation", "closeness": 3, "reasoning": "Close -- 'obligation' means a binding duty; both fit, but the sentence emphasizes the burden placed on the corporation." },
+        { "distractor": "duty", "closeness": 3, "reasoning": "Close -- 'duty' means an assigned task; the corporation had a duty, but 'onus' emphasizes the burden of that duty." },
+        { "distractor": "liability", "closeness": 2, "reasoning": "Incorrect -- 'liability' means legal responsibility; while the corporation is liable, the sentence emphasizes the burden of cleanup." },
+        { "distractor": "debt", "closeness": 2, "reasoning": "Incorrect -- 'debt' means something owed; while the corporation owes cleanup, the sentence emphasizes burden rather than financial obligation." },
+        { "distractor": "fine", "closeness": 2, "reasoning": "Incorrect -- 'fine' is a monetary penalty; the sentence focuses on the cleanup burden, not financial punishment." },
+        { "distractor": "mandate", "closeness": 2, "reasoning": "Incorrect -- 'mandate' means an official order; while cleanup is mandated, the sentence emphasizes the burden, not the order itself." },
+        { "distractor": "benefit", "closeness": 1, "reasoning": "Opposite -- 'benefit' means an advantage; contrary to a burden or onus." },
+        { "distractor": "relief", "closeness": 1, "reasoning": "Opposite -- 'relief' means freedom from obligation; the opposite of having cleanup onus." },
+        { "distractor": "exemption", "closeness": 1, "reasoning": "Incorrect -- 'exemption' means freedom from duty; the opposite of the corporation bearing the onus." }
+      ]
+    },
+    {
+      "sentence": "Parents often place the onus of academic success on their children, creating pressure that can undermine their motivation.",
+      "answerChoices": [
+        { "distractor": "burden", "closeness": 3, "reasoning": "Close -- 'burden' means a heavy load; nearly synonymous, but the sentence emphasizes the weight of expectation rather than the abstract burden." },
+        { "distractor": "pressure", "closeness": 3, "reasoning": "Close -- 'pressure' means constraining force; while the sentence mentions it separately, 'onus' emphasizes the responsibility placed, not the psychological pressure." },
+        { "distractor": "weight", "closeness": 3, "reasoning": "Close -- 'weight' means heaviness; the sentence could use either, but 'onus' emphasizes responsibility, not merely heaviness." },
+        { "distractor": "obligation", "closeness": 3, "reasoning": "Close -- 'obligation' means binding duty; both fit, but the sentence emphasizes the burden parents place on children." },
+        { "distractor": "expectation", "closeness": 2, "reasoning": "Incorrect -- 'expectation' means what is expected; while parents have expectations, the sentence emphasizes the burden they place on children." },
+        { "distractor": "demand", "closeness": 2, "reasoning": "Incorrect -- 'demand' means a forceful request; while parents make demands, the sentence emphasizes the burden of responsibility." },
+        { "distractor": "stress", "closeness": 2, "reasoning": "Incorrect -- 'stress' is psychological strain; while the onus causes stress, the sentence emphasizes the responsibility placed." },
+        { "distractor": "challenge", "closeness": 2, "reasoning": "Incorrect -- 'challenge' means a difficult task; the sentence emphasizes burden rather than difficulty." },
+        { "distractor": "relief", "closeness": 1, "reasoning": "Opposite -- 'relief' means freedom from burden; contrary to placing an onus on children." },
+        { "distractor": "support", "closeness": 1, "reasoning": "Opposite -- 'support' means help and assistance; the opposite of placing an onus." },
+        { "distractor": "encouragement", "closeness": 1, "reasoning": "Incorrect -- 'encouragement' means supportive motivation; contrary to the negative effect of onus." }
+      ]
+    }
+  ]
+}

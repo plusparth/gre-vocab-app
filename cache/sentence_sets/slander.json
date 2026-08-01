@@ -1,0 +1,53 @@
+{
+  "word": "slander",
+  "sentenceSets": [
+    {
+      "sentence": "He slandered her in settings where she had no opportunity to respond, a strategy that eventually backfired.",
+      "answerChoices": [
+        { "distractor": "criticized", "closeness": 3, "reasoning": "Criticized means expressed disapproval of, but doesn't necessarily involve false statements as slander does." },
+        { "distractor": "insulted", "closeness": 3, "reasoning": "Insulted means treated with disrespect, but doesn't necessarily involve making false damaging statements." },
+        { "distractor": "attacked", "closeness": 3, "reasoning": "Attacked means assaulted or criticized aggressively, but doesn't necessarily involve false statements or defamation." },
+        { "distractor": "maligned", "closeness": 3, "reasoning": "Maligned means spoke badly of, but can refer to true criticism, whereas slander specifically requires false statements." },
+        { "distractor": "disparaged", "closeness": 2, "reasoning": "Disparaged means expressed a negative opinion of, but doesn't necessarily involve false statements as slander requires." },
+        { "distractor": "scorned", "closeness": 2, "reasoning": "Scorned means treated with contempt, but refers to emotional response rather than making false damaging statements." },
+        { "distractor": "betrayed", "closeness": 2, "reasoning": "Betrayed means violated trust, but doesn't specifically involve making false damaging public statements." },
+        { "distractor": "deceived", "closeness": 2, "reasoning": "Deceived means misled or tricked, but slander specifically involves damaging false statements about someone." },
+        { "distractor": "praised", "closeness": 1, "reasoning": "Praised means expressed approval or compliment, the opposite of slandering someone with false accusations." },
+        { "distractor": "defended", "closeness": 1, "reasoning": "Defended means protected or supported, contrary to slandering someone with false damaging statements." },
+        { "distractor": "endorsed", "closeness": 1, "reasoning": "Endorsed means expressed support for, the opposite of making false damaging statements through slander." }
+      ]
+    },
+    {
+      "sentence": "The competitor slandered his rival's reputation by falsely claiming he had violated safety regulations, despite having no evidence.",
+      "answerChoices": [
+        { "distractor": "questioned", "closeness": 3, "reasoning": "Questioned means asked about or expressed doubt, but doesn't necessarily involve making false damaging statements." },
+        { "distractor": "challenged", "closeness": 3, "reasoning": "Challenged means disputed or called into question, but can be based on legitimate concerns, not false claims as slander is." },
+        { "distractor": "disputed", "closeness": 3, "reasoning": "Disputed means argued against or contradicted, but doesn't necessarily involve false statements or defamation." },
+        { "distractor": "opposed", "closeness": 3, "reasoning": "Opposed means actively resisted, but doesn't necessarily involve making false damaging claims about someone." },
+        { "distractor": "contradicted", "closeness": 2, "reasoning": "Contradicted means stated the opposite of, but doesn't necessarily involve making false damaging statements." },
+        { "distractor": "undermined", "closeness": 2, "reasoning": "Undermined means weakened or damaged, but doesn't specifically involve making false damaging public statements." },
+        { "distractor": "sabotaged", "closeness": 2, "reasoning": "Sabotaged means deliberately damaged or disrupted, but doesn't necessarily involve making false public accusations." },
+        { "distractor": "exposed", "closeness": 2, "reasoning": "Exposed means revealed or made known, which could be true revelations, unlike slander which requires false statements." },
+        { "distractor": "exonerated", "closeness": 1, "reasoning": "Exonerated means cleared of blame, the opposite of slandering someone with false damaging claims." },
+        { "distractor": "vindicated", "closeness": 1, "reasoning": "Vindicated means proved right or justified, contrary to slandering someone with false accusations." },
+        { "distractor": "substantiated", "closeness": 1, "reasoning": "Substantiated means provided evidence for, the opposite of making false unsupported slanderous claims." }
+      ]
+    },
+    {
+      "sentence": "The tabloid chose to slander the actor with fabricated stories about his private life rather than report on the scandal that was actually true.",
+      "answerChoices": [
+        { "distractor": "expose", "closeness": 3, "reasoning": "Expose means reveal true information, whereas slander specifically involves false damaging statements." },
+        { "distractor": "illuminate", "closeness": 3, "reasoning": "Illuminate means shed light on or make clear, whereas slander involves spreading false damaging information." },
+        { "distractor": "publicize", "closeness": 3, "reasoning": "Publicize means make known to the public, which can involve true or false information, unlike slander which is false." },
+        { "distractor": "broadcast", "closeness": 3, "reasoning": "Broadcast means spread widely, but doesn't necessarily involve false statements as slander does." },
+        { "distractor": "report on", "closeness": 2, "reasoning": "Report on means describe or document, which can be true or false, but slander specifically requires false statements." },
+        { "distractor": "cover", "closeness": 2, "reasoning": "Cover means provide coverage of, which can involve true or false information, unlike slander." },
+        { "distractor": "sensationalize", "closeness": 2, "reasoning": "Sensationalize means exaggerate for effect, but doesn't necessarily involve entirely false statements as slander does." },
+        { "distractor": "misrepresent", "closeness": 2, "reasoning": "Misrepresent means give a false impression of, which is close to slander but can apply to things other than personal defamation." },
+        { "distractor": "verify", "closeness": 1, "reasoning": "Verify means confirm or establish truth, the opposite of slandering with false fabricated stories." },
+        { "distractor": "authenticate", "closeness": 1, "reasoning": "Authenticate means prove genuine or true, contrary to slandering with fabricated false information." },
+        { "distractor": "corroborate", "closeness": 1, "reasoning": "Corroborate means confirm with supporting evidence, the opposite of slandering with fabricated false claims." }
+      ]
+    }
+  ]
+}

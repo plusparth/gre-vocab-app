@@ -1,0 +1,53 @@
+{
+  "word": "rustic",
+  "sentenceSets": [
+    {
+      "sentence": "The rustic simplicity of the building was deliberate, designed to communicate values that a more polished setting would have undermined.",
+      "answerChoices": [
+        { "distractor": "simple", "closeness": 3, "reasoning": "Means uncomplicated; while the building is simple, the sentence requires the term for rural or country-like simplicity, not just uncomplicated design in general." },
+        { "distractor": "plain", "closeness": 3, "reasoning": "Means unadorned; while the building is plain, the sentence emphasizes a deliberately rural aesthetic, not merely the absence of ornament." },
+        { "distractor": "austere", "closeness": 3, "reasoning": "Means severely simple and ascetic; while the building is austere, the sentence emphasizes a country aesthetic more than austere severity." },
+        { "distractor": "primitive", "closeness": 3, "reasoning": "Means original and rudimentary; while rural design can appear primitive, the sentence shows deliberate communication of values, not primitive absence of refinement." },
+        { "distractor": "coarse", "closeness": 2, "reasoning": "Means rough in texture; while the building may appear coarse, the sentence requires the term for rural/country style, not textural roughness." },
+        { "distractor": "crude", "closeness": 2, "reasoning": "Means unrefined; while the design is unrefined, the sentence emphasizes a deliberately rural aesthetic choice, not crude quality." },
+        { "distractor": "unpolished", "closeness": 2, "reasoning": "Means not refined or perfected; while the building is unpolished, the sentence requires the term for rural style, not lack of polish." },
+        { "distractor": "rough", "closeness": 2, "reasoning": "Means not smooth; while the design may be rough-textured, the sentence requires the term for country or rural style." },
+        { "distractor": "sophisticated", "closeness": 1, "reasoning": "Means refined and complex; directly opposite to the simple, unadorned aesthetic that the sentence describes." },
+        { "distractor": "ornate", "closeness": 1, "reasoning": "Means elaborately decorated; opposite to the simplicity and plainness that characterize the rural aesthetic." },
+        { "distractor": "polished", "closeness": 1, "reasoning": "Means smooth, refined, and perfected; opposite to the deliberately unrefined rural style that the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "The restaurant's rustic décor—exposed beams, rough wooden tables, and stone walls—created an atmosphere that guests found unpretentiously welcoming.",
+      "answerChoices": [
+        { "distractor": "farmhouse", "closeness": 3, "reasoning": "Describes a style evoking rural dwellings; very similar to rustic in evoking countryside aesthetics, but 'farmhouse' emphasizes the dwelling type, whereas the sentence emphasizes the rural aesthetic quality." },
+        { "distractor": "pastoral", "closeness": 3, "reasoning": "Means relating to countryside and shepherds; while the décor evokes pastoral imagery, the sentence requires the specific term for the rural aesthetic style, not the literary or artistic concept." },
+        { "distractor": "countryside", "closeness": 3, "reasoning": "Means rural areas; while the décor evokes the countryside, the sentence requires a style descriptor, not a geographical location." },
+        { "distractor": "bucolic", "closeness": 3, "reasoning": "Means relating to rural charm; very close to rustic in describing countryside aesthetics, but 'bucolic' emphasizes idyllic rural beauty, whereas the sentence emphasizes unpretentious simplicity." },
+        { "distractor": "antique", "closeness": 2, "reasoning": "Means old-fashioned or from an earlier time; while rustic décor often includes antique pieces, the sentence requires the term for rural style, not historical age." },
+        { "distractor": "vintage", "closeness": 2, "reasoning": "Means from an earlier time; while the décor may be vintage, the sentence requires the rural aesthetic term, not the age descriptor." },
+        { "distractor": "weathered", "closeness": 2, "reasoning": "Means marked by age and exposure; while the exposed beams and stone may be weathered, the sentence requires the term for rural style, not the effect of weather." },
+        { "distractor": "aged", "closeness": 2, "reasoning": "Means old; while the décor appears aged, the sentence requires the term for rural aesthetic, not the age of materials." },
+        { "distractor": "urban", "closeness": 1, "reasoning": "Means relating to cities; directly opposite to the countryside aesthetic that the sentence describes." },
+        { "distractor": "modern", "closeness": 1, "reasoning": "Means contemporary; opposite to the rural, traditional aesthetic that the sentence emphasizes." },
+        { "distractor": "sleek", "closeness": 1, "reasoning": "Means smooth and streamlined; opposite to the rough, rustic aesthetic of exposed beams and stone walls." }
+      ]
+    },
+    {
+      "sentence": "He brought a rustic directness to the diplomatic corps, speaking plainly about difficult subjects in ways that scandalized the more refined members.",
+      "answerChoices": [
+        { "distractor": "plain-spoken", "closeness": 3, "reasoning": "Means speaking directly and simply; essentially synonymous with the rustic directness the sentence describes, making it an excellent trap answer." },
+        { "distractor": "blunt", "closeness": 3, "reasoning": "Means speaking forcefully and directly; very close to rustic directness, but 'blunt' emphasizes aggressive force, whereas the sentence shows simple, direct rural speech." },
+        { "distractor": "candid", "closeness": 3, "reasoning": "Means frank and honest; while his directness is candid, the sentence emphasizes a rural quality to his speech, not just honesty." },
+        { "distractor": "forthright", "closeness": 3, "reasoning": "Means direct and honest; very close to rustic directness, but 'forthright' emphasizes moral directness, whereas the sentence emphasizes the rural, unsophisticated quality." },
+        { "distractor": "simple", "closeness": 2, "reasoning": "Means uncomplicated; while his speech is simple, the sentence requires the term for rural simplicity specifically, not just uncomplicated speech." },
+        { "distractor": "unpretentious", "closeness": 2, "reasoning": "Means not showing off; while his manner is unpretentious, the sentence requires identification of the rural quality, not lack of pretense." },
+        { "distractor": "straightforward", "closeness": 2, "reasoning": "Means direct and clear; while his speech is straightforward, the sentence requires the term for rural speech, not just directness." },
+        { "distractor": "frank", "closeness": 2, "reasoning": "Means honest and open; while his speech is frank, the sentence requires the rural quality, not just honesty." },
+        { "distractor": "diplomatic", "closeness": 1, "reasoning": "Means tactful and indirect; directly opposite to the direct, unfiltered speech that 'rustic directness' describes." },
+        { "distractor": "circumspect", "closeness": 1, "reasoning": "Means cautious and discreet; opposite to the open, direct manner that scandalized the refined diplomatic corps members." },
+        { "distractor": "evasive", "closeness": 1, "reasoning": "Means avoiding direct answers; opposite to the directness and plain speech that characterizes his approach." }
+      ]
+    }
+  ]
+}

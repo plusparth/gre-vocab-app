@@ -1,0 +1,53 @@
+{
+  "word": "machination",
+  "sentenceSets": [
+    {
+      "sentence": "Her machination was subtle enough that most of those it affected did not understand what had happened until it was over.",
+      "answerChoices": [
+        { "distractor": "scheme", "closeness": 3, "reasoning": "A scheme can be subtle and affect people without their awareness, but scheme emphasizes dishonest intent; machination emphasizes the action of scheming and plotting itself." },
+        { "distractor": "plot", "closeness": 3, "reasoning": "A plot can be subtle and surprising to victims, but plot emphasizes conspiracy and typically involves multiple parties; machination emphasizes individual scheming." },
+        { "distractor": "trick", "closeness": 3, "reasoning": "A trick can deceive people, but trick suggests deception through misdirection rather than the systematic scheming and planning that machination implies." },
+        { "distractor": "manipulation", "closeness": 3, "reasoning": "Manipulation can be subtle and unnoticed by victims, but manipulation emphasizes influence and control; machination emphasizes active plotting and scheming." },
+        { "distractor": "ruse", "closeness": 2, "reasoning": "A ruse can surprise people when revealed, but ruse emphasizes deceptive appearance rather than the active scheming that machination specifically denotes." },
+        { "distractor": "stratagem", "closeness": 2, "reasoning": "A stratagem can be subtle and unexpected, but stratagem emphasizes tactical cunning rather than the plotting and scheming that machination implies." },
+        { "distractor": "interference", "closeness": 2, "reasoning": "Interference can affect people without their awareness, but interference emphasizes obstruction or meddling rather than the coordinated scheming of machination." },
+        { "distractor": "conspiracy", "closeness": 2, "reasoning": "A conspiracy can be subtle and affect victims unknowingly, but conspiracy typically involves multiple parties conspiring together against a common target." },
+        { "distractor": "accident", "closeness": 1, "reasoning": "An accident is unintentional and unplanned; contradicts the sentence's emphasis on deliberate scheming and plotting that affects people." },
+        { "distractor": "coincidence", "closeness": 1, "reasoning": "A coincidence is chance and unplanned; contradicts the sentence's implication that something was deliberately executed." },
+        { "distractor": "discovery", "closeness": 1, "reasoning": "A discovery is finding something that exists; completely different from the active scheming and plotting that machination denotes." }
+      ]
+    },
+    {
+      "sentence": "The CEO's latest machination consolidated power in his hands by forcing the board to choose between loyalty and unemployment.",
+      "answerChoices": [
+        { "distractor": "strategy", "closeness": 3, "reasoning": "A strategy can consolidate power, but strategy is a neutral term for deliberate planning; machination emphasizes scheming and cunning manipulation of circumstances." },
+        { "distractor": "tactic", "closeness": 3, "reasoning": "A tactic can force choices and consolidate power, but tactic emphasizes a single action; machination emphasizes a complex scheme or plot." },
+        { "distractor": "move", "closeness": 3, "reasoning": "A move can consolidate power, but move is general and could be straightforward; machination emphasizes scheming and plotting with cunning intent." },
+        { "distractor": "maneuver", "closeness": 3, "reasoning": "A maneuver can force people into difficult situations, but maneuver emphasizes tactical positioning; machination emphasizes scheming and plotting." },
+        { "distractor": "decision", "closeness": 2, "reasoning": "A decision could consolidate power, but decision is too neutral and doesn't capture the scheming and plotting quality of machination." },
+        { "distractor": "action", "closeness": 2, "reasoning": "An action could consolidate power, but action is too generic and lacks the connotation of scheming that machination carries." },
+        { "distractor": "announcement", "closeness": 2, "reasoning": "An announcement could affect the board's choices, but announcement is merely communicative and lacks the scheming quality of machination." },
+        { "distractor": "threat", "closeness": 2, "reasoning": "A threat could force people to choose, but threat emphasizes explicit danger rather than the scheming and plotting of machination." },
+        { "distractor": "accident", "closeness": 1, "reasoning": "An accident is unintentional; contradicts the sentence's implication of deliberately forcing the board into a difficult position." },
+        { "distractor": "suggestion", "closeness": 1, "reasoning": "A suggestion doesn't force anyone; contradicts the sentence's emphasis on forcing choices and consolidating power." },
+        { "distractor": "compromise", "closeness": 1, "reasoning": "A compromise seeks mutual agreement; opposite in intent to the sentence's emphasis on forcing the board into an untenable position." }
+      ]
+    },
+    {
+      "sentence": "His elaborate machination relied on a chain of unlikely coincidences that, precisely timed and arranged, would bankrupt his competitor.",
+      "answerChoices": [
+        { "distractor": "plan", "closeness": 3, "reasoning": "A plan could rely on timing and arrangement, but plan is general and neutral; machination specifically emphasizes scheming and plotting with cunning." },
+        { "distractor": "scheme", "closeness": 3, "reasoning": "A scheme can involve coordinated timing to achieve a goal, but scheme emphasizes the dishonest intent more than the elaborate arrangement that machination suggests." },
+        { "distractor": "plot", "closeness": 3, "reasoning": "A plot can involve coordinated elements to achieve harm, but plot typically implies conspiracy among multiple parties; machination emphasizes individual scheming." },
+        { "distractor": "design", "closeness": 3, "reasoning": "A design can be elaborate and rely on precise timing, but design is neutral and suggests systematic arrangement rather than scheming and plotting." },
+        { "distractor": "system", "closeness": 2, "reasoning": "A system could arrange elements in sequence, but system is mechanical and organizational; machination emphasizes scheming and plotting." },
+        { "distractor": "procedure", "closeness": 2, "reasoning": "A procedure could involve precise timing, but procedure suggests routine and systematic steps rather than the cunning scheming of machination." },
+        { "distractor": "method", "closeness": 2, "reasoning": "A method could rely on arranged elements, but method is neutral and procedural; machination emphasizes scheming and cunning intent." },
+        { "distractor": "arrangement", "closeness": 2, "reasoning": "An arrangement could involve timing and coordination, but arrangement is structural; machination emphasizes scheming and plotting." },
+        { "distractor": "fortune", "closeness": 1, "reasoning": "Fortune implies chance and luck; contradicts the sentence's emphasis on deliberate scheming, cunning arrangement, and precise planning." },
+        { "distractor": "luck", "closeness": 1, "reasoning": "Luck is unplanned and chance; contradicts the sentence's emphasis on careful arrangement and precise timing." },
+        { "distractor": "accident", "closeness": 1, "reasoning": "An accident is unintentional and unplanned; contradicts the sentence's emphasis on elaborate scheming and precise coordination." }
+      ]
+    }
+  ]
+}

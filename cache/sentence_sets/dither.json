@@ -1,0 +1,53 @@
+{
+  "word": "dither",
+  "sentenceSets": [
+    {
+      "sentence": "He dithered over the decision so long that the opportunity it presented had passed by the time he acted.",
+      "answerChoices": [
+        { "distractor": "hesitated", "closeness": 3, "reasoning": "Hesitated indicates a momentary pause before action, but doesn't capture the prolonged indecision and nervous vacillation causing the missed opportunity." },
+        { "distractor": "wavered", "closeness": 3, "reasoning": "Wavered conveys indecision but doesn't emphasize the nervous agitation and extended time period that led to the lost opportunity." },
+        { "distractor": "procrastinated", "closeness": 3, "reasoning": "Procrastinated means delayed action, which is related, but doesn't capture the nervous indecision aspect of the prolonged inaction." },
+        { "distractor": "stalled", "closeness": 3, "reasoning": "Stalled suggests stopping progress, but doesn't convey the nervous vacillation and indecisiveness inherent in the delayed decision." },
+        { "distractor": "agonized", "closeness": 2, "reasoning": "Agonized conveys mental struggle, but emphasizes painful thought rather than the nervous indecision and hesitation shown by delaying so long." },
+        { "distractor": "fretted", "closeness": 2, "reasoning": "Fretted indicates worried anxiety, which is related but doesn't capture the element of indecisiveness and inability to act." },
+        { "distractor": "ruminated", "closeness": 2, "reasoning": "Ruminated suggests thoughtful consideration and reflection, which is different from the nervous vacillation causing the missed opportunity." },
+        { "distractor": "vacillated", "closeness": 2, "reasoning": "Vacillated means wavered in decision, which is closely related but doesn't emphasize the nervous anxiety component." },
+        { "distractor": "rushed", "closeness": 1, "reasoning": "Rushed means acted quickly, opposite to the prolonged delay described in the sentence." },
+        { "distractor": "committed", "closeness": 1, "reasoning": "Committed implies decisive action and loyalty, opposite to the indecision and hesitation that caused the missed opportunity." },
+        { "distractor": "progressed", "closeness": 1, "reasoning": "Progressed means moved forward, opposite to the delay and inaction that allowed the opportunity to pass." }
+      ]
+    },
+    {
+      "sentence": "The manager dithered between competing proposals for weeks until his supervisor intervened and forced a choice.",
+      "answerChoices": [
+        { "distractor": "temporized", "closeness": 3, "reasoning": "Temporized means tried to delay or gain time, which is related but doesn't capture the nervous indecision between options." },
+        { "distractor": "waffled", "closeness": 3, "reasoning": "Waffled conveys indecision, but is less formal and doesn't capture the professional context of weighing competing proposals." },
+        { "distractor": "equivocated", "closeness": 3, "reasoning": "Equivocated means was evasive or ambiguous, but doesn't specifically capture the nervous indecision over choosing between options." },
+        { "distractor": "postponed", "closeness": 3, "reasoning": "Postponed means put off to a later time, but doesn't convey the nervous indecision between the competing proposals themselves." },
+        { "distractor": "deliberated", "closeness": 2, "reasoning": "Deliberated suggests careful, thoughtful consideration, which is different from nervous indecision that requires supervisor intervention." },
+        { "distractor": "mulled", "closeness": 2, "reasoning": "Mulled conveys thoughtful pondering, but lacks the sense of nervous vacillation and the need for forced intervention." },
+        { "distractor": "dawdled", "closeness": 2, "reasoning": "Dawdled means moved slowly or wasted time, but doesn't specifically capture the indecision between competing alternatives." },
+        { "distractor": "lingered", "closeness": 2, "reasoning": "Lingered means stayed in place or took time, but doesn't convey the indecision between choices that required intervention." },
+        { "distractor": "resolved", "closeness": 1, "reasoning": "Resolved means made a firm decision, opposite to the indecision that required the supervisor's intervention." },
+        { "distractor": "expedited", "closeness": 1, "reasoning": "Expedited means handled quickly and efficiently, opposite to weeks of delay and indecision." },
+        { "distractor": "capitulated", "closeness": 1, "reasoning": "Capitulated means surrendered or gave in, which doesn't match the situation of choosing between two options." }
+      ]
+    },
+    {
+      "sentence": "She dithered about accepting the job offer, asking endless questions and requesting more time, until the company withdrew the position.",
+      "answerChoices": [
+        { "distractor": "fussed", "closeness": 3, "reasoning": "Fussed conveys worry over details and making a fuss, but doesn't capture the indecision about accepting the entire offer." },
+        { "distractor": "balked", "closeness": 3, "reasoning": "Balked means refused or stopped short, but doesn't capture the nervous indecision and delay tactics of asking questions." },
+        { "distractor": "demurred", "closeness": 3, "reasoning": "Demurred means raised objections, but doesn't convey the nervous vacillation and continuous delay evident in the behavior." },
+        { "distractor": "quibbled", "closeness": 3, "reasoning": "Quibbled means made trivial objections, which matches asking endless questions but doesn't capture the underlying indecision." },
+        { "distractor": "prevaricated", "closeness": 2, "reasoning": "Prevaricated means made misleading statements or delayed deliberately, but lacks the element of nervous indecision about the offer." },
+        { "distractor": "obfuscated", "closeness": 2, "reasoning": "Obfuscated means made unclear, but the sentence emphasizes indecision through asking questions, not making things unclear." },
+        { "distractor": "evaded", "closeness": 2, "reasoning": "Evaded means avoided facing something, which is related but doesn't capture the nervous indecision causing the delay tactics." },
+        { "distractor": "sidestepped", "closeness": 2, "reasoning": "Sidestepped means avoided directly addressing, but doesn't convey the nervous indecision and time-buying behavior." },
+        { "distractor": "embraced", "closeness": 1, "reasoning": "Embraced means accepted willingly, opposite to the indecision and avoidance that led to the company withdrawing the offer." },
+        { "distractor": "seized", "closeness": 1, "reasoning": "Seized means took action quickly and decisively, opposite to the prolonged hesitation and delay." },
+        { "distractor": "decided", "closeness": 1, "reasoning": "Decided means made a choice, opposite to the indecision and refusal to commit shown throughout the scenario." }
+      ]
+    }
+  ]
+}

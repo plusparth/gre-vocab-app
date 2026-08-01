@@ -1,0 +1,53 @@
+{
+  "word": "terrestrial",
+  "sentenceSets": [
+    {
+      "sentence": "While aquatic birds have adapted to water, terrestrial species have evolved entirely different skeletal structures, respiratory systems, and nesting behaviors suited to life on land.",
+      "answerChoices": [
+        { "distractor": "ground-dwelling", "closeness": 3, "reasoning": "Ground-dwelling describes organisms that live on the ground, but the sentence emphasizes adaptation across multiple systems—skeletal, respiratory, behavioral—suggesting a broader planetary context." },
+        { "distractor": "land-based", "closeness": 3, "reasoning": "Land-based means living on land, which is essentially synonymous, but the sentence's scientific context of adaptation systems suggests the need for a term that emphasizes earthly life forms generally." },
+        { "distractor": "non-aquatic", "closeness": 3, "reasoning": "Non-aquatic simply means not aquatic, but the sentence reveals specific evolutionary adaptations rather than mere contrast with water environments." },
+        { "distractor": "surface-dwelling", "closeness": 3, "reasoning": "Surface-dwelling describes organisms living on surfaces, but the sentence emphasizes global adaptation patterns rather than mere location on surfaces." },
+        { "distractor": "earthly", "closeness": 2, "reasoning": "Earthly can mean of or relating to Earth, but it often carries connotations of worldly or secular that don't fit the scientific context." },
+        { "distractor": "native", "closeness": 2, "reasoning": "Native means originating in or belonging to a place, but the sentence describes adapted species regardless of their origin." },
+        { "distractor": "environmental", "closeness": 2, "reasoning": "Environmental relates to surroundings or conditions, but the sentence specifies adaptation to a particular type of habitat, not environmental factors generally." },
+        { "distractor": "biotic", "closeness": 2, "reasoning": "Biotic means relating to living organisms, but the sentence requires specification of the environment type—earth—not just that organisms are biological." },
+        { "distractor": "aquatic", "closeness": 1, "reasoning": "Aquatic means relating to water; the sentence explicitly contrasts water-adapted birds with species evolved for earth environments." },
+        { "distractor": "aerial", "closeness": 1, "reasoning": "Aerial means relating to air; the sentence compares land-adapted species to water-adapted ones, not air-adapted creatures." },
+        { "distractor": "marine", "closeness": 1, "reasoning": "Marine means relating to the sea; the sentence contrasts adapted land species with aquatic ones." }
+      ]
+    },
+    {
+      "sentence": "The astronomer discovered that the meteorite contained compounds unknown on any terrestrial planet in our solar system, suggesting it had originated from a distant star's planetary system.",
+      "answerChoices": [
+        { "distractor": "planetary", "closeness": 3, "reasoning": "Planetary means relating to planets, but the sentence specifies planets within our solar system specifically, whereas 'terrestrial' emphasizes Earth-like or Earth-based reference." },
+        { "distractor": "earthbound", "closeness": 3, "reasoning": "Earthbound means confined to Earth, but the sentence uses the term to describe planets within our solar system, not things limited to Earth." },
+        { "distractor": "local", "closeness": 3, "reasoning": "Local can mean relating to a specific place, but in this context the sentence emphasizes our solar system as the reference frame, not merely local geography." },
+        { "distractor": "known", "closeness": 3, "reasoning": "Known means familiar or previously encountered, but the sentence requires a term specifying the type of environment—planets in our system—not mere familiarity." },
+        { "distractor": "conventional", "closeness": 2, "reasoning": "Conventional means usual or standard, which could apply to familiar solar system planets, but the sentence's scientific context requires a more precise term." },
+        { "distractor": "familiar", "closeness": 2, "reasoning": "Familiar means well-known or accustomed to, but the sentence needs specification of a category of celestial bodies, not merely recognition." },
+        { "distractor": "established", "closeness": 2, "reasoning": "Established means firmly set or proven, but the sentence refers to a specific type of planet within our solar system, not to established fact." },
+        { "distractor": "native", "closeness": 2, "reasoning": "Native means originating in or belonging to a place, but the sentence requires a term for the solar system context specifically." },
+        { "distractor": "extraterrestrial", "closeness": 1, "reasoning": "Extraterrestrial means from outside Earth, which contradicts the sentence's reference to planets within our familiar solar system." },
+        { "distractor": "alien", "closeness": 1, "reasoning": "Alien means foreign or from elsewhere, contradicting the sentence's meaning that the compounds are foreign to our solar system." },
+        { "distractor": "distant", "closeness": 1, "reasoning": "Distant means far away, which applies to the origin star but not to the type of planet the sentence is describing." }
+      ]
+    },
+    {
+      "sentence": "The ecology course distinguished between terrestrial food webs, where energy flows from soil-based producers, and aquatic ones, where the energy cycle begins with algae and phytoplankton.",
+      "answerChoices": [
+        { "distractor": "soil-based", "closeness": 3, "reasoning": "Soil-based emphasizes the role of soil, but the sentence describes ecosystems existing on land more broadly, not just those dependent on soil." },
+        { "distractor": "land-based", "closeness": 3, "reasoning": "Land-based means existing on land, which is essentially synonymous and context-appropriate, making it a strong distractor." },
+        { "distractor": "surface", "closeness": 3, "reasoning": "Surface describes the outer layer or top part, but the sentence emphasizes the broader category of land ecosystems, not merely surface-level phenomena." },
+        { "distractor": "ground-level", "closeness": 3, "reasoning": "Ground-level means at the surface or foundation, which is close, but the sentence encompasses diverse land-based food webs, not just ground-level ones." },
+        { "distractor": "geologic", "closeness": 2, "reasoning": "Geologic relates to rocks and earth structure, but the sentence focuses on ecological systems and energy flow, not geological composition." },
+        { "distractor": "environmental", "closeness": 2, "reasoning": "Environmental describes conditions and surroundings, but the sentence specifies ecosystems of a particular type—those on land." },
+        { "distractor": "biological", "closeness": 2, "reasoning": "Biological means relating to living organisms, but the sentence requires specification of habitat type, not just that organisms are involved." },
+        { "distractor": "natural", "closeness": 2, "reasoning": "Natural means occurring in nature, but both terrestrial and aquatic food webs are natural; the sentence needs distinction of habitat type." },
+        { "distractor": "aquatic", "closeness": 1, "reasoning": "Aquatic means relating to water; the sentence explicitly contrasts it with terrestrial food webs." },
+        { "distractor": "aerial", "closeness": 1, "reasoning": "Aerial means relating to air; the sentence compares land and water ecosystems, not air-based ones." },
+        { "distractor": "oceanic", "closeness": 1, "reasoning": "Oceanic means relating to the ocean, which is explicitly contrasted as the aquatic alternative in the sentence." }
+      ]
+    }
+  ]
+}

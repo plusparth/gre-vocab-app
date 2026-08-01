@@ -1,0 +1,53 @@
+{
+  "word": "latent",
+  "sentenceSets": [
+    {
+      "sentence": "A latent conflict between the two departments finally surfaced when the resource shortage removed the buffer that had masked it.",
+      "answerChoices": [
+        { "distractor": "dormant", "closeness": 3, "reasoning": "Close -- 'dormant' means inactive or sleeping, which describes hidden conflict, but it suggests temporary inactivity whereas latent suggests something present and capable of emerging." },
+        { "distractor": "smoldering", "closeness": 3, "reasoning": "Close -- 'smoldering' means burning slowly beneath the surface, which fits hidden conflict, but it implies active suppressed emotion whereas latent is more neutral about underlying tension." },
+        { "distractor": "implicit", "closeness": 3, "reasoning": "Close -- 'implicit' means implied or understood without being stated, which the hidden conflict is, but it emphasizes meaning conveyed indirectly rather than something capable of emerging." },
+        { "distractor": "underlying", "closeness": 3, "reasoning": "Close -- 'underlying' means lying beneath the surface, which describes the hidden conflict, but it is more neutral and does not convey the sense of something capable of developing or emerging." },
+        { "distractor": "concealed", "closeness": 2, "reasoning": "Incorrect -- 'concealed' means deliberately hidden or kept secret, which is too intentional compared to latent, which is simply not visible or active." },
+        { "distractor": "suppressed", "closeness": 2, "reasoning": "Incorrect -- 'suppressed' means deliberately restrained or kept down, which suggests active containment more than latent suggests." },
+        { "distractor": "subdued", "closeness": 2, "reasoning": "Incorrect -- 'subdued' means quieted or calmed down, which does not capture the sense of something capable of emerging." },
+        { "distractor": "covert", "closeness": 2, "reasoning": "Incorrect -- 'covert' means secret or hidden, but it emphasizes intentional concealment rather than simply not being visible." },
+        { "distractor": "obvious", "closeness": 1, "reasoning": "Opposite -- 'obvious' means clearly visible or apparent, contrary to latent which is not now visible or apparent." },
+        { "distractor": "overt", "closeness": 1, "reasoning": "Opposite -- 'overt' means open and undisguised, the opposite of something hidden and not visible." },
+        { "distractor": "manifest", "closeness": 1, "reasoning": "Opposite -- 'manifest' means clearly shown or visible, the opposite of latent which is hidden from view." }
+      ]
+    },
+    {
+      "sentence": "The virus remained latent in the patient's body for months after infection before suddenly manifesting in a severe acute illness.",
+      "answerChoices": [
+        { "distractor": "dormant", "closeness": 3, "reasoning": "Close -- 'dormant' means temporarily inactive, which describes the virus's state, but it suggests random inactivity whereas latent means capable of emerging or developing." },
+        { "distractor": "quiescent", "closeness": 3, "reasoning": "Close -- 'quiescent' means temporarily inactive or still, which the virus is, but it does not convey the sense of being present and capable of emerging." },
+        { "distractor": "inactive", "closeness": 3, "reasoning": "Close -- 'inactive' means not active or engaging, which the virus is, but it is more passive and does not imply capacity to develop and emerge." },
+        { "distractor": "inert", "closeness": 3, "reasoning": "Close -- 'inert' means unable to move or act, which describes the virus's state, but it implies a permanent inability rather than latent's sense of being capable of development." },
+        { "distractor": "concealed", "closeness": 2, "reasoning": "Incorrect -- 'concealed' means hidden from view, but the virus is not hidden; it is present in the body." },
+        { "distractor": "suppressed", "closeness": 2, "reasoning": "Incorrect -- 'suppressed' implies being actively held down, whereas latent simply means not yet active or visible." },
+        { "distractor": "benign", "closeness": 2, "reasoning": "Incorrect -- 'benign' means non-threatening or harmless, which the virus may not be once it manifests; latent does not imply benignity." },
+        { "distractor": "asymptomatic", "closeness": 2, "reasoning": "Incorrect -- 'asymptomatic' means showing no symptoms, which describes the patient's state, but it refers to absence of signs rather than the virus being present and capable of emerging." },
+        { "distractor": "active", "closeness": 1, "reasoning": "Opposite -- 'active' means engaged or operative, contrary to the latent state before the virus manifests." },
+        { "distractor": "symptomatic", "closeness": 1, "reasoning": "Opposite -- 'symptomatic' means showing signs of disease, opposite to latent where the virus produces no symptoms." },
+        { "distractor": "acute", "closeness": 1, "reasoning": "Opposite -- 'acute' means severe and sudden, contrary to the latent phase described in the sentence." }
+      ]
+    },
+    {
+      "sentence": "Her latent talents in mathematics only emerged after she received a mentor who recognized potential she herself had not acknowledged.",
+      "answerChoices": [
+        { "distractor": "hidden", "closeness": 3, "reasoning": "Close -- 'hidden' means concealed from view, which her talents were, but it does not convey the sense of being present and capable of emerging as latent does." },
+        { "distractor": "dormant", "closeness": 3, "reasoning": "Close -- 'dormant' means temporarily inactive, which her talents were, but it suggests random inactivity rather than the sense of existing but not activated." },
+        { "distractor": "unacknowledged", "closeness": 3, "reasoning": "Close -- 'unacknowledged' means not recognized or admitted, which fits how she regards her talents, but it focuses on lack of recognition rather than the talents being incapable of emerging." },
+        { "distractor": "undeveloped", "closeness": 3, "reasoning": "Close -- 'undeveloped' means not developed or matured, which her talents are, but it emphasizes lack of growth rather than the presence of capability waiting to emerge." },
+        { "distractor": "suppressed", "closeness": 2, "reasoning": "Incorrect -- 'suppressed' implies active restraint, whereas her talents are simply not activated or recognized." },
+        { "distractor": "neglected", "closeness": 2, "reasoning": "Incorrect -- 'neglected' means disregarded or ignored, which her talents are, but it refers to how she treats them rather than their inherent state." },
+        { "distractor": "obscure", "closeness": 2, "reasoning": "Incorrect -- 'obscure' means not clearly visible or well-known, which her talents are, but it refers to visibility rather than potential capability." },
+        { "distractor": "subtle", "closeness": 2, "reasoning": "Incorrect -- 'subtle' means delicate or not obvious, which her talents might be, but it does not convey the sense of existing but not manifesting." },
+        { "distractor": "manifest", "closeness": 1, "reasoning": "Opposite -- 'manifest' means clearly visible or expressed, contrary to talents that had not emerged or been acknowledged." },
+        { "distractor": "obvious", "closeness": 1, "reasoning": "Opposite -- 'obvious' means clearly apparent or easily seen, contrary to talents that were not recognized until later." },
+        { "distractor": "developed", "closeness": 1, "reasoning": "Opposite -- 'developed' means fully grown or matured, contrary to the untapped potential her talents represent initially." }
+      ]
+    }
+  ]
+}

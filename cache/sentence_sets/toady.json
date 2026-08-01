@@ -1,0 +1,53 @@
+{
+  "word": "toady",
+  "sentenceSets": [
+    {
+      "sentence": "The toady's enthusiastic agreement with everything his supervisor said made genuine feedback impossible.",
+      "answerChoices": [
+        { "distractor": "sycophant", "closeness": 3, "reasoning": "A sycophant is essentially a toady, but the sentence describes a person in a specific workplace relationship; 'sycophant' is a more general term for someone who flatters for favor." },
+        { "distractor": "yes-man", "closeness": 3, "reasoning": "A yes-man agrees with authority to maintain favor, fitting the sentence's description of enthusiastic agreement; the distinction is that 'toady' emphasizes flattery while 'yes-man' emphasizes mere compliance." },
+        { "distractor": "flatterer", "closeness": 3, "reasoning": "'Flatterer' describes one who compliments excessively, which matches the enthusiastic agreement in the sentence; the difference is that 'toady' adds the motive of gaining favors, while 'flatterer' could apply to mere habit." },
+        { "distractor": "admirer", "closeness": 3, "reasoning": "An admirer expresses enthusiasm and praise, but the sentence indicates the agreement is performed and insincere; an admirer might have genuine respect, whereas the sentence suggests calculated flattery." },
+        { "distractor": "enthusiast", "closeness": 2, "reasoning": "An enthusiast shows eager support, matching the 'enthusiastic agreement' in the sentence, but the sentence implies this is performative for favor, not genuine passion." },
+        { "distractor": "devotee", "closeness": 2, "reasoning": "A devotee is a loyal follower, which could fit, but the sentence emphasizes that the agreement prevents genuine feedback—a devoted follower might still value honest input." },
+        { "distractor": "follower", "closeness": 2, "reasoning": "'Follower' suggests loyalty or support, but not necessarily the strategic flattery and favor-seeking that the sentence highlights as the character's defining trait." },
+        { "distractor": "partisan", "closeness": 2, "reasoning": "'Partisan' means someone who supports a cause or person strongly, fitting the support shown in the sentence, but it doesn't capture the manipulative flattery element." },
+        { "distractor": "critic", "closeness": 1, "reasoning": "A critic offers judgment and often negative assessment; the sentence explicitly describes enthusiastic agreement, which is the opposite of critical evaluation." },
+        { "distractor": "adversary", "closeness": 1, "reasoning": "An adversary opposes someone; the sentence describes someone who is enthusiastically in agreement, making 'adversary' the opposite of what the sentence conveys." },
+        { "distractor": "skeptic", "closeness": 1, "reasoning": "A skeptic questions and doubts; the sentence shows someone who agrees enthusiastically with everything, making a skeptic fundamentally incompatible with this behavior." }
+      ]
+    },
+    {
+      "sentence": "Every seminar room has its toady—a student who lavishes praise on the professor's mediocre arguments, ensuring that uncomfortable questions remain unasked.",
+      "answerChoices": [
+        { "distractor": "sycophant", "closeness": 3, "reasoning": "A sycophant offers excessive flattery for favor, matching the student's behavior exactly; the distinction is one of formality—'toady' often carries more contempt and is more colloquial than 'sycophant.'" },
+        { "distractor": "yes-man", "closeness": 3, "reasoning": "A yes-man agrees with authority figures to gain favor; this fits the student who praises mediocre arguments, but 'yes-man' emphasizes passive agreement rather than the active flattery and praise-lavishing shown here." },
+        { "distractor": "admirer", "closeness": 3, "reasoning": "An admirer offers praise and enthusiasm, which fits the description of lavishing praise; however, the sentence's mention of 'mediocre arguments' implies the praise is undeserved—an admirer might genuinely believe the arguments have merit." },
+        { "distractor": "follower", "closeness": 3, "reasoning": "A follower supports an authority figure, matching the student's relationship to the professor; the sentence suggests the student's motivation is to avoid discomfort by not questioning, whereas a follower might simply believe in the leader." },
+        { "distractor": "ally", "closeness": 2, "reasoning": "An ally supports someone, fitting the student's apparent supportiveness, but the sentence implies the student is motivated by flattery and fear rather than genuine alliance or shared interest." },
+        { "distractor": "enthusiast", "closeness": 2, "reasoning": "'Enthusiast' suggests genuine passion or interest in a subject, but the sentence's emphasis on 'mediocre arguments' suggests the student's enthusiasm is performative and insincere." },
+        { "distractor": "partisan", "closeness": 2, "reasoning": "A partisan strongly supports a particular side or person, which fits the student's apparent advocacy for the professor, but doesn't capture the manipulative flattery of praise that the sentence emphasizes." },
+        { "distractor": "advocate", "closeness": 2, "reasoning": "An advocate supports a cause or person publicly, matching the student's visible support; however, 'advocate' suggests active argument on behalf of someone, while the student merely withholds criticism." },
+        { "distractor": "critic", "closeness": 1, "reasoning": "A critic questions and challenges ideas; the sentence describes a student who ensures uncomfortable questions remain unasked, which is the opposite of critical inquiry." },
+        { "distractor": "challenger", "closeness": 1, "reasoning": "A challenger questions and opposes; the sentence shows someone who avoids challenging mediocre arguments through lavish praise, making this an opposite of the described behavior." },
+        { "distractor": "skeptic", "closeness": 1, "reasoning": "A skeptic doubts and questions; the seminar's toady prevents questioning and doubt through flattery, making 'skeptic' incompatible with the described student." }
+      ]
+    },
+    {
+      "sentence": "The aging president's circle included several toadies who had made careers out of echoing his opinions and seeking promotion through conspicuous flattery rather than competence.",
+      "answerChoices": [
+        { "distractor": "sycophants", "closeness": 3, "reasoning": "Sycophants flatter for favor, exactly matching these officials' behavior; the sentence emphasizes building careers on flattery, making 'sycophant' virtually synonymous, though 'toady' is often more contemptuous." },
+        { "distractor": "yes-men", "closeness": 3, "reasoning": "Yes-men agree with authority to gain favor, fitting the 'echoing opinions' behavior; the sentence adds the motive of seeking promotion, which yes-men do, though 'toady' emphasizes the flattery aspect more explicitly." },
+        { "distractor": "lackeys", "closeness": 3, "reasoning": "'Lackeys' are servile followers who do the bidding of a powerful person, fitting the circle's relationship to the president; the distinction is that 'toady' emphasizes flattery specifically, while 'lackey' suggests broader servility." },
+        { "distractor": "courtiers", "closeness": 3, "reasoning": "Courtiers are attendants at a ruler's court who seek favor through flattery and loyalty, fitting the political context perfectly; the sentence's emphasis on promotion-seeking through flattery matches courtier behavior closely." },
+        { "distractor": "advisors", "closeness": 2, "reasoning": "Advisors offer counsel to leaders, fitting the circle's proximity to the president, but the sentence emphasizes they echo opinions rather than offering independent advice—true advisors would provide unfiltered guidance." },
+        { "distractor": "aides", "closeness": 2, "reasoning": "'Aides' assist a leader and are part of an inner circle, matching the context, but the sentence specifies promotion-seeking through flattery, not merely serving as assistants." },
+        { "distractor": "appointees", "closeness": 2, "reasoning": "'Appointees' are officials chosen by a leader, fitting the political context, but the sentence emphasizes their character (seeking promotion through flattery) rather than their status as appointed officials." },
+        { "distractor": "allies", "closeness": 2, "reasoning": "Allies support someone, matching the circle's apparent loyalty; however, the sentence implies this support is performative and calculated for personal advancement rather than genuine alliance." },
+        { "distractor": "rivals", "closeness": 1, "reasoning": "Rivals compete against someone; the sentence describes people in the president's inner circle who echo his opinions, making them the opposite of rivals." },
+        { "distractor": "opponents", "closeness": 1, "reasoning": "Opponents stand against someone; the sentence shows people who echo the president's opinions and seek his favor, making them fundamentally aligned with him, not opposed." },
+        { "distractor": "critics", "closeness": 1, "reasoning": "Critics question and challenge; the sentence describes people who echo opinions rather than challenge them, and who seek promotion through flattery rather than honest assessment." }
+      ]
+    }
+  ]
+}

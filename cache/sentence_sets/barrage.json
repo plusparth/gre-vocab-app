@@ -1,0 +1,53 @@
+{
+  "word": "barrage",
+  "sentenceSets": [
+    {
+      "sentence": "The candidate faced a barrage of hostile questions from journalists who had seen through the initial spin.",
+      "answerChoices": [
+        { "distractor": "volley", "closeness": 3, "reasoning": "Both describe rapid successive attacks, but volley emphasizes shots or blows delivered in rapid succession, while barrage emphasizes overwhelming continuity of attack." },
+        { "distractor": "bombardment", "closeness": 3, "reasoning": "Both describe sustained heavy attack, but bombardment refers specifically to military shelling, while barrage can apply to any sustained attack." },
+        { "distractor": "assault", "closeness": 3, "reasoning": "Both describe attacks, but assault refers to a forceful attack, while barrage emphasizes the continuous overwhelming nature." },
+        { "distractor": "onslaught", "closeness": 3, "reasoning": "Both describe overwhelming attacks, but onslaught emphasizes fierce and violent attack, while barrage emphasizes sustained rapid succession." },
+        { "distractor": "tirade", "closeness": 2, "reasoning": "Both involve rapid outpouring of hostile words, but tirade comes from one person, while barrage in this context comes from multiple journalists." },
+        { "distractor": "storm", "closeness": 2, "reasoning": "Both describe violent outpouring, but storm can refer to an emotional expression, while barrage specifically refers to rapid succession." },
+        { "distractor": "deluge", "closeness": 2, "reasoning": "Both describe overwhelming quantities, but deluge emphasizes being overwhelmed by volume, while barrage emphasizes rapid succession of attacks." },
+        { "distractor": "fusillade", "closeness": 2, "reasoning": "Both describe rapid succession of attacks, but fusillade refers specifically to a burst of gunfire, while barrage is broader." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "The journalists asked hostile questions; praise describes favorable expressions." },
+        { "distractor": "support", "closeness": 1, "reasoning": "The candidate faced hostile questioning; support describes agreement and backing." },
+        { "distractor": "gentleness", "closeness": 1, "reasoning": "The barrage was hostile; gentleness describes mildness and kindness." }
+      ]
+    },
+    {
+      "sentence": "After the ceasefire, engineers worked to repair the barrage that artillery fire had damaged, restoring its capacity to control water flow.",
+      "answerChoices": [
+        { "distractor": "dam", "closeness": 3, "reasoning": "Both refer to structures controlling water, but dam is a general term for any water-blocking structure, while barrage specifically refers to a structure that raises water depth or diverts it." },
+        { "distractor": "levee", "closeness": 3, "reasoning": "Both control water, but levee is an embankment preventing flooding, while barrage is specifically a dam for navigation or irrigation." },
+        { "distractor": "weir", "closeness": 3, "reasoning": "Both are water control structures, but a weir is typically smaller and used to measure flow, while barrage is a larger structure for diverting water." },
+        { "distractor": "aqueduct", "closeness": 3, "reasoning": "Both can divert water, but an aqueduct is a channel or bridge carrying water, while barrage is a water barrier structure." },
+        { "distractor": "embankment", "closeness": 2, "reasoning": "Both are earth structures, but embankment refers to a raised bank, while barrage specifically refers to a structure controlling water flow." },
+        { "distractor": "channel", "closeness": 2, "reasoning": "Water is diverted into channels, but channel is the path water flows into, not the barrier that diverts it." },
+        { "distractor": "fortification", "closeness": 2, "reasoning": "The structure was damaged by artillery, but fortification refers to defensive military structures, not water control." },
+        { "distractor": "barrier", "closeness": 2, "reasoning": "A barrage is a type of barrier, but barrier is too general and doesn't capture the specific water control purpose." },
+        { "distractor": "opening", "closeness": 1, "reasoning": "A barrage controls and diverts water; opening refers to a gap or hole allowing water to flow through." },
+        { "distractor": "spillway", "closeness": 1, "reasoning": "A barrage redirects water for irrigation or navigation; a spillway releases excess water from a dam." },
+        { "distractor": "trench", "closeness": 1, "reasoning": "A barrage is a water control structure; a trench is a ditch dug in the ground." }
+      ]
+    },
+    {
+      "sentence": "The investigator released the barrage of documents only to specialists, concerned that a full public barrage of information would overwhelm citizens unfamiliar with technical details.",
+      "answerChoices": [
+        { "distractor": "flood", "closeness": 3, "reasoning": "Both describe overwhelming quantities, but flood emphasizes inundation with water or great quantity, while barrage emphasizes rapid succession of items." },
+        { "distractor": "avalanche", "closeness": 3, "reasoning": "Both describe overwhelming quantities suddenly released, but avalanche emphasizes mass moving down, while barrage emphasizes rapid successive items." },
+        { "distractor": "torrent", "closeness": 3, "reasoning": "Both describe overwhelming flow, but torrent emphasizes rushing flow like water, while barrage emphasizes successive discrete items." },
+        { "distractor": "stream", "closeness": 3, "reasoning": "Both describe flow of many items, but stream emphasizes continuous flowing motion, while barrage emphasizes rapid overwhelming succession." },
+        { "distractor": "surge", "closeness": 2, "reasoning": "Both describe sudden increase or quantity, but surge emphasizes sudden swell, while barrage emphasizes rapid successive items." },
+        { "distractor": "abundance", "closeness": 2, "reasoning": "Both describe large quantities, but abundance emphasizes plenty, while barrage emphasizes rapid overwhelming delivery." },
+        { "distractor": "accumulation", "closeness": 2, "reasoning": "Documents accumulate, but accumulation emphasizes gradual gathering, while barrage emphasizes rapid release." },
+        { "distractor": "volume", "closeness": 2, "reasoning": "A large volume of information is overwhelming, but volume just means quantity, not the overwhelming manner." },
+        { "distractor": "scarcity", "closeness": 1, "reasoning": "The investigator released a large quantity of documents; scarcity describes lack of availability." },
+        { "distractor": "withholding", "closeness": 1, "reasoning": "The investigator released documents; withholding means keeping information from being released." },
+        { "distractor": "restriction", "closeness": 1, "reasoning": "The investigator released a barrage of information; restriction describes limiting availability." }
+      ]
+    }
+  ]
+}

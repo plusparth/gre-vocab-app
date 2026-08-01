@@ -1,0 +1,53 @@
+{
+  "word": "stipulate",
+  "sentenceSets": [
+    {
+      "sentence": "She stipulated a number of conditions that the counterparty had not expected and was not prepared to meet.",
+      "answerChoices": [
+        { "distractor": "suggested", "closeness": 3, "reasoning": "Suggested describes proposing an idea, whereas stipulate means to demand as a requirement in an agreement." },
+        { "distractor": "recommended", "closeness": 3, "reasoning": "Recommended describes proposing something as advisable, whereas stipulate means to demand as contractual requirement." },
+        { "distractor": "requested", "closeness": 3, "reasoning": "Requested describes asking for something, whereas stipulate means to demand as a binding condition." },
+        { "distractor": "proposed", "closeness": 3, "reasoning": "Proposed describes putting forward an idea, whereas stipulate means to demand as a contractual requirement." },
+        { "distractor": "outlined", "closeness": 2, "reasoning": "Outlined describes describing the general form, whereas stipulate means to demand specific binding conditions." },
+        { "distractor": "mentioned", "closeness": 2, "reasoning": "Mentioned describes bringing up in conversation, whereas stipulate means formally demanding as condition." },
+        { "distractor": "listed", "closeness": 2, "reasoning": "Listed describes making a catalogue, whereas stipulate means to demand as binding contractual conditions." },
+        { "distractor": "enumerated", "closeness": 2, "reasoning": "Enumerated describes counting off items, whereas stipulate means demanding them as contractual requirements." },
+        { "distractor": "waived", "closeness": 1, "reasoning": "Waived means to give up a right or requirement, opposite to stipulate which demands conditions." },
+        { "distractor": "conceded", "closeness": 1, "reasoning": "Conceded means to give in or acknowledge, contrary to stipulate which demands binding conditions." },
+        { "distractor": "surrendered", "closeness": 1, "reasoning": "Surrendered means to give up, opposite to stipulate which demands acceptance of conditions." }
+      ]
+    },
+    {
+      "sentence": "The contract stipulated that payment must be made within thirty days of invoice, with interest accruing on late payments.",
+      "answerChoices": [
+        { "distractor": "provided", "closeness": 3, "reasoning": "Provided means to make available, whereas stipulate specifically means to specify as a binding contractual requirement." },
+        { "distractor": "indicated", "closeness": 3, "reasoning": "Indicated means to point to or suggest, whereas stipulate means to formally demand as contractual condition." },
+        { "distractor": "stated", "closeness": 3, "reasoning": "Stated means to express or declare, whereas stipulate specifically means to demand as binding condition." },
+        { "distractor": "noted", "closeness": 3, "reasoning": "Noted describes recording or observing, whereas stipulate means to formally demand as contractual requirement." },
+        { "distractor": "mentioned", "closeness": 2, "reasoning": "Mentioned describes bringing up in discussion, whereas stipulate means formally demanding in a contract." },
+        { "distractor": "specified", "closeness": 2, "reasoning": "Specified describes stating details, very close to stipulate but without the contractual demand aspect." },
+        { "distractor": "detailed", "closeness": 2, "reasoning": "Detailed describes describing in full, whereas stipulate emphasizes contractual binding requirement." },
+        { "distractor": "prescribed", "closeness": 2, "reasoning": "Prescribed describes laying down rules, closely related to stipulate." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Ignored means to disregard, opposite to stipulate which demands contractual compliance." },
+        { "distractor": "implied", "closeness": 1, "reasoning": "Implied means suggested indirectly, contrary to stipulate which explicitly demands as condition." },
+        { "distractor": "left unclear", "closeness": 1, "reasoning": "Left unclear describes absence of specification, contrary to stipulate which clearly demands conditions." }
+      ]
+    },
+    {
+      "sentence": "The grant agreement stipulated that the funds could only be used for research purposes, not for administrative overhead.",
+      "answerChoices": [
+        { "distractor": "suggested", "closeness": 3, "reasoning": "Suggested describes proposing an idea, whereas stipulate means to demand as binding condition in agreement." },
+        { "distractor": "hoped", "closeness": 3, "reasoning": "Hoped describes wishing something to be true, whereas stipulate means to formally demand as requirement." },
+        { "distractor": "preferred", "closeness": 3, "reasoning": "Preferred describes having a choice preference, whereas stipulate means to demand as binding condition." },
+        { "distractor": "assumed", "closeness": 3, "reasoning": "Assumed describes taking for granted, whereas stipulate means to formally demand as contractual requirement." },
+        { "distractor": "anticipated", "closeness": 2, "reasoning": "Anticipated describes expecting something, whereas stipulate means to formally demand as binding requirement." },
+        { "distractor": "envisioned", "closeness": 2, "reasoning": "Envisioned describes imagining something, whereas stipulate means to formally demand as binding condition." },
+        { "distractor": "required", "closeness": 2, "reasoning": "Required and stipulate are very similar but required is more general; stipulate is more specific to contracts." },
+        { "distractor": "mandated", "closeness": 2, "reasoning": "Mandated describes officially requiring, closely related to stipulate but without the contractual aspect." },
+        { "distractor": "permitted", "closeness": 1, "reasoning": "Permitted means allowed something to happen, opposite to stipulate which restricts to specific uses." },
+        { "distractor": "authorized", "closeness": 1, "reasoning": "Authorized means to give official permission, whereas stipulate restricts the authorized use." },
+        { "distractor": "enabled", "closeness": 1, "reasoning": "Enabled means to make possible, whereas stipulate restricts what is possible." }
+      ]
+    }
+  ]
+}

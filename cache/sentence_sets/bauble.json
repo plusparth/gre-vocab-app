@@ -1,0 +1,53 @@
+{
+  "word": "bauble",
+  "sentenceSets": [
+    {
+      "sentence": "The heirloom she had expected to be valuable turned out to be little more than a Victorian bauble.",
+      "answerChoices": [
+        { "distractor": "trinket", "closeness": 3, "reasoning": "Bauble and trinket are nearly synonymous—both mean inexpensive decorative objects—though trinket may emphasize crafted novelty more." },
+        { "distractor": "knickknack", "closeness": 3, "reasoning": "Both describe small decorative items of little value, but knickknack emphasizes small ornamental objects, while bauble emphasizes glittering ornamentation." },
+        { "distractor": "curio", "closeness": 3, "reasoning": "Both describe small objects kept for decoration, but curio emphasizes objects of interest or rarity, while bauble emphasizes glittering trinkets." },
+        { "distractor": "ornament", "closeness": 3, "reasoning": "Both describe decorative objects, but ornament is broader and can be valuable, while bauble specifically means an inexpensive trinket." },
+        { "distractor": "toy", "closeness": 2, "reasoning": "The object is a small decorative item, but toy emphasizes something for play or amusement, not necessarily decorative." },
+        { "distractor": "novelty", "closeness": 2, "reasoning": "A bauble is novel and decorative, but novelty emphasizes newness or unusual quality more than the nature of the object." },
+        { "distractor": "gewgaw", "closeness": 2, "reasoning": "Both describe showy objects of little value, but gewgaw may emphasize showiness more, while bauble emphasizes glittering nature." },
+        { "distractor": "souvenir", "closeness": 2, "reasoning": "A bauble may be a souvenir, but souvenir emphasizes a remembrance of a place, not necessarily cheap or glittering." },
+        { "distractor": "treasure", "closeness": 1, "reasoning": "The heirloom turned out to be a bauble, not a treasure; treasure describes something of great value." },
+        { "distractor": "heirloom", "closeness": 1, "reasoning": "The heirloom was merely a bauble; heirloom implies something valuable passed through generations." },
+        { "distractor": "masterpiece", "closeness": 1, "reasoning": "The object is a bauble of little value; masterpiece describes something of exceptional quality." }
+      ]
+    },
+    {
+      "sentence": "The museum's gift shop was filled with cheap baubles—plastic figurines, painted shells, and glittering costume jewelry—all labeled as authentic souvenirs.",
+      "answerChoices": [
+        { "distractor": "fakes", "closeness": 3, "reasoning": "Both describe items of little genuine value, but fakes emphasize fraudulent copies, while baubles simply mean cheap trinkets." },
+        { "distractor": "replicas", "closeness": 3, "reasoning": "Both describe copies of original items, but replicas are often acknowledging copies, while baubles are cheap items regardless of authenticity." },
+        { "distractor": "imitations", "closeness": 3, "reasoning": "Both describe non-authentic items, but imitations emphasize copying, while baubles emphasize cheapness and showiness." },
+        { "distractor": "merchandise", "closeness": 3, "reasoning": "Both describe items for sale, but merchandise is broader, while baubles specifically mean cheap trinkets." },
+        { "distractor": "junk", "closeness": 2, "reasoning": "The gift shop items are cheap, but junk emphasizes worthlessness or garbage, while baubles emphasize decorative cheapness." },
+        { "distractor": "novelties", "closeness": 2, "reasoning": "The items are novel and decorative, but novelties emphasize newness or unusual quality more than cheapness." },
+        { "distractor": "crafts", "closeness": 2, "reasoning": "The items are handmade or crafted, but craft emphasizes construction technique, not cheapness." },
+        { "distractor": "collectibles", "closeness": 2, "reasoning": "The items may be collected, but collectibles emphasizes value for collectors, while baubles mean cheap trinkets." },
+        { "distractor": "treasures", "closeness": 1, "reasoning": "The gift shop sells cheap baubles; treasures describe valuable items." },
+        { "distractor": "investments", "closeness": 1, "reasoning": "The items are cheap baubles; investments describe items of lasting value." },
+        { "distractor": "artifacts", "closeness": 1, "reasoning": "The items labeled as authentic are merely baubles; artifacts are genuine objects of historical or scientific value." }
+      ]
+    },
+    {
+      "sentence": "The magician drew the audience's attention to a glittering bauble while secretly palming the card necessary for the trick.",
+      "answerChoices": [
+        { "distractor": "distraction", "closeness": 3, "reasoning": "The bauble is used as a distraction, but distraction describes the effect, while bauble describes the object used." },
+        { "distractor": "sleight", "closeness": 3, "reasoning": "Both are misdirection tactics in magic, but sleight refers to a skilled hand movement, while bauble refers to the object used for misdirection." },
+        { "distractor": "decoy", "closeness": 3, "reasoning": "The bauble serves as a decoy, but decoy describes something used for misdirection, while bauble describes the specific object." },
+        { "distractor": "illusion", "closeness": 3, "reasoning": "The bauble creates an illusion, but illusion refers to the false perception created, while bauble is the object used." },
+        { "distractor": "prop", "closeness": 2, "reasoning": "The bauble is a prop, but prop is broader and includes all objects used in performance, not specifically decorative." },
+        { "distractor": "device", "closeness": 2, "reasoning": "The bauble is a device for misdirection, but device refers to any mechanism, not necessarily decorative." },
+        { "distractor": "feint", "closeness": 2, "reasoning": "The bauble is used as a feint, but feint refers to a deceptive move, not the object itself." },
+        { "distractor": "ruse", "closeness": 2, "reasoning": "The bauble is part of a ruse, but ruse refers to the deceptive strategy, not the object." },
+        { "distractor": "card", "closeness": 1, "reasoning": "The magician palms a card while drawing attention to the bauble; they are different objects." },
+        { "distractor": "reveal", "closeness": 1, "reasoning": "The bauble distracts from the reveal; reveal describes showing something to the audience." },
+        { "distractor": "exposure", "closeness": 1, "reasoning": "The bauble prevents exposure of the trick; exposure means revealing the secret." }
+      ]
+    }
+  ]
+}

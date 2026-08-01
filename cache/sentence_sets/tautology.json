@@ -1,0 +1,53 @@
+{
+  "word": "tautology",
+  "sentenceSets": [
+    {
+      "sentence": "The argument had a tautological quality—it assumed the conclusion as a premise, making refutation impossible and persuasion unnecessary.",
+      "answerChoices": [
+        { "distractor": "circular reasoning", "closeness": 3, "reasoning": "Circular reasoning describes arguments that loop back to their starting point, but tautology specifically means unnecessary repetition of the same idea; a tautology can be stated without the full loop." },
+        { "distractor": "begging the question", "closeness": 3, "reasoning": "Begging the question means assuming the conclusion, which overlaps with tautology, but tautology emphasizes needless repetition of an idea, not just the logical fallacy of assumption." },
+        { "distractor": "logical fallacy", "closeness": 3, "reasoning": "Logical fallacy is a broad category of reasoning errors, but tautology is a specific type—needless repetition; not all fallacies are tautologies." },
+        { "distractor": "contradiction", "closeness": 3, "reasoning": "Contradiction means statements that oppose each other, but the sentence shows an argument that's internally consistent (too consistent), not self-contradicting." },
+        { "distractor": "paradox", "closeness": 2, "reasoning": "Paradox means a seemingly contradictory statement, but the sentence shows an argument that's insufficiently critical, not paradoxical." },
+        { "distractor": "sophistry", "closeness": 2, "reasoning": "Sophistry means clever but false reasoning, but tautology isn't necessarily false; it's just needlessly repetitive and immune to refutation." },
+        { "distractor": "ambiguity", "closeness": 2, "reasoning": "Ambiguity means having multiple meanings, but the sentence's problem is excessive clarity and repetition, not unclear meaning." },
+        { "distractor": "equivocation", "closeness": 2, "reasoning": "Equivocation means using words with double meanings to deceive, but tautology is needless repetition, not deceptive wordplay." },
+        { "distractor": "clarity", "closeness": 1, "reasoning": "Clarity means being clear or understandable; the sentence's problem is the argument is too self-referential and repetitive, not lacking clarity." },
+        { "distractor": "originality", "closeness": 1, "reasoning": "Originality means creating something new; the sentence shows the opposite—the argument merely restates itself rather than presenting something fresh." },
+        { "distractor": "coherence", "closeness": 1, "reasoning": "Coherence means logical consistency; the sentence shows the argument is too consistent (circularly so), not incoherent." }
+      ]
+    },
+    {
+      "sentence": "The company's defensive tautology—'We are successful because we perform well'—avoided any actual analysis of what had changed in the market.",
+      "answerChoices": [
+        { "distractor": "truism", "closeness": 3, "reasoning": "A truism is a statement so obvious it's hardly worth saying, but tautology is specifically about needless repetition of the same idea in different words." },
+        { "distractor": "platitude", "closeness": 3, "reasoning": "A platitude is a dull, overused statement, but tautology isn't about being overused; it's about needless repetition within a single argument." },
+        { "distractor": "non sequitur", "closeness": 3, "reasoning": "A non sequitur is a conclusion that doesn't follow from the premises, but the statement 'we succeed because we perform well' does follow logically—it's just empty repetition." },
+        { "distractor": "vacuity", "closeness": 3, "reasoning": "Vacuity means empty or meaningless quality, which overlaps with tautology, but tautology specifically emphasizes needless repetition of an idea." },
+        { "distractor": "evasion", "closeness": 2, "reasoning": "Evasion means avoiding or dodging, but the company's statement isn't necessarily evasive; it's just needlessly repetitive." },
+        { "distractor": "deflection", "closeness": 2, "reasoning": "Deflection means turning attention away, but tautology is the specific rhetorical problem—saying the same thing twice instead of addressing real issues." },
+        { "distractor": "sophism", "closeness": 2, "reasoning": "Sophism means clever false reasoning, but the statement isn't cleverly false; it's just repetitive and empty." },
+        { "distractor": "obfuscation", "closeness": 2, "reasoning": "Obfuscation means deliberately making unclear, but the tautological statement is actually quite clear—just unsubstantive." },
+        { "distractor": "analysis", "closeness": 1, "reasoning": "Analysis means detailed examination, but the sentence shows the company avoided analysis; tautology is the opposite of analytical thinking." },
+        { "distractor": "insight", "closeness": 1, "reasoning": "Insight means deep understanding, but the tautological statement provides no insight—it merely repeats the same idea." },
+        { "distractor": "acknowledgment", "closeness": 1, "reasoning": "Acknowledgment means recognizing or admitting, but the tautology avoids recognizing market changes; it's not an acknowledgment but an evasion." }
+      ]
+    },
+    {
+      "sentence": "The poet's reliance on tautology—'The beautiful thing is beautiful,' 'Love is love'—seemed to retreat from the harder work of describing actual human emotion.",
+      "answerChoices": [
+        { "distractor": "metaphor", "closeness": 3, "reasoning": "A metaphor compares two unlike things, but tautology simply repeats the same idea; 'the beautiful thing is beautiful' is tautological, not metaphorical." },
+        { "distractor": "personification", "closeness": 3, "reasoning": "Personification gives human qualities to non-human things, but the examples given don't attribute human qualities; they just repeat ideas." },
+        { "distractor": "paradox", "closeness": 3, "reasoning": "A paradox appears contradictory but contains truth, but 'the beautiful is beautiful' is just repetition, not a paradox." },
+        { "distractor": "synecdoche", "closeness": 3, "reasoning": "Synecdoche uses a part to represent the whole or vice versa, but the examples don't do this; they simply repeat the same concept." },
+        { "distractor": "irony", "closeness": 2, "reasoning": "Irony expresses meaning through apparent contradiction, but the statements are straightforward repetitions, not ironic." },
+        { "distractor": "allusion", "closeness": 2, "reasoning": "Allusion is an indirect reference to another work or idea, but the examples are direct, not allusive; they're repetitive." },
+        { "distractor": "imagery", "closeness": 2, "reasoning": "Imagery describes things using sensory details, but tautological statements like 'love is love' provide no sensory imagery." },
+        { "distractor": "symbolism", "closeness": 2, "reasoning": "Symbolism uses objects to represent deeper meanings, but the examples don't establish symbolic meaning; they're just circular." },
+        { "distractor": "precision", "closeness": 1, "reasoning": "Precision means exactness and specificity, but the sentence critiques the poet for avoiding specificity through tautology." },
+        { "distractor": "innovation", "closeness": 1, "reasoning": "Innovation means creating something new, but the sentence shows the poet using tautology, which is repetitive rather than innovative." },
+        { "distractor": "development", "closeness": 1, "reasoning": "Development means growth or elaboration, but tautology prevents development by repeating the same idea rather than expanding it." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "timely",
+  "sentenceSets": [
+    {
+      "sentence": "A timely intervention prevented the misunderstanding from hardening into a breach that would have been more difficult to address.",
+      "answerChoices": [
+        { "distractor": "quick", "closeness": 3, "reasoning": "Quick means fast or speedy, but the sentence emphasizes acting at the right moment, not merely acting quickly." },
+        { "distractor": "prompt", "closeness": 3, "reasoning": "Prompt means swift or immediate, which is very close to timely, but emphasizes speed of response rather than appropriateness of timing." },
+        { "distractor": "urgent", "closeness": 3, "reasoning": "Urgent means requiring immediate attention, but the sentence emphasizes acting before the misunderstanding hardened, not the urgency of the situation." },
+        { "distractor": "rapid", "closeness": 3, "reasoning": "Rapid means very fast or swift, but the sentence's focus is on acting before a critical threshold was crossed, not on speed." },
+        { "distractor": "immediate", "closeness": 2, "reasoning": "Immediate means occurring at once or without delay, which is close, but the sentence emphasizes appropriateness of timing, not instantaneity." },
+        { "distractor": "preventive", "closeness": 2, "reasoning": "Preventive means intended to prevent something, but the sentence emphasizes acting at the right moment, not prevention method." },
+        { "distractor": "decisive", "closeness": 2, "reasoning": "Decisive means conclusive or producing a definite result, but the sentence emphasizes timing, not decisiveness of action." },
+        { "distractor": "effective", "closeness": 2, "reasoning": "Effective means producing desired result, but the sentence emphasizes acting at the right moment, not mere effectiveness." },
+        { "distractor": "belated", "closeness": 1, "reasoning": "Belated means delayed or coming late, opposite to intervening before the misunderstanding hardened." },
+        { "distractor": "premature", "closeness": 1, "reasoning": "Premature means occurring before expected time, which could imply wrong timing, opposite to the right moment." },
+        { "distractor": "delayed", "closeness": 1, "reasoning": "Delayed means postponed or put off, opposite to acting at the right moment to prevent hardening of the breach." }
+      ]
+    },
+    {
+      "sentence": "The investors appreciated the entrepreneur's timely announcement of the funding round, which gave early backers a chance to increase their stake before news became public.",
+      "answerChoices": [
+        { "distractor": "early", "closeness": 3, "reasoning": "Early means occurring before expected time, but the sentence emphasizes announcement at the right moment, not merely early timing." },
+        { "distractor": "prompt", "closeness": 3, "reasoning": "Prompt means swift or quick, but the sentence emphasizes appropriate timing for stakeholders, not speed of announcement." },
+        { "distractor": "advance", "closeness": 3, "reasoning": "Advance means in front or before, but the sentence requires emphasis on the right moment for announcement, not merely advance notice." },
+        { "distractor": "preliminary", "closeness": 3, "reasoning": "Preliminary means initial or preparatory, but the sentence describes an announcement at the right moment, not a preliminary alert." },
+        { "distractor": "strategic", "closeness": 2, "reasoning": "Strategic means carefully planned for success, but the sentence emphasizes announcement at the right moment, not strategic planning." },
+        { "distractor": "opportune", "closeness": 2, "reasoning": "Opportune means well-timed or favorable, which is very close, but the sentence emphasizes the announcement's timing, not the opportunity itself." },
+        { "distractor": "well-placed", "closeness": 2, "reasoning": "Well-placed means advantageously positioned, but the sentence emphasizes timing of announcement, not placement." },
+        { "distractor": "well-timed", "closeness": 2, "reasoning": "Well-timed means occurring at an advantageous moment, which is essentially synonymous with timely and a strong distractor." },
+        { "distractor": "belated", "closeness": 1, "reasoning": "Belated means delayed or coming late, opposite to announcement that gave early backers advance opportunity." },
+        { "distractor": "premature", "closeness": 1, "reasoning": "Premature means occurring too early, opposite to announcement at the right moment." },
+        { "distractor": "delayed", "closeness": 1, "reasoning": "Delayed means postponed, opposite to announcement that allowed early backers to increase their stake." }
+      ]
+    },
+    {
+      "sentence": "The historian argued that the discovery of the manuscript was timely, arriving just as scholars were beginning to question whether accounts of the event had been distorted by later bias.",
+      "answerChoices": [
+        { "distractor": "fortunate", "closeness": 3, "reasoning": "Fortunate means lucky or favored by chance, but the sentence emphasizes discovery coming when needed intellectually, not mere good fortune." },
+        { "distractor": "convenient", "closeness": 3, "reasoning": "Convenient means suited to one's comfort or needs, which is close, but the sentence emphasizes appropriate scholarly timing, not mere convenience." },
+        { "distractor": "providential", "closeness": 3, "reasoning": "Providential means involving divine provision or beneficial timing, which is very close, but adds connotation of divine will not in the sentence." },
+        { "distractor": "opportune", "closeness": 3, "reasoning": "Opportune means well-timed or favorable, which is very close, but the sentence emphasizes scholarly appropriateness of the discovery's moment, not general opportunity." },
+        { "distractor": "lucky", "closeness": 2, "reasoning": "Lucky means favored by chance or fortune, but the sentence emphasizes intellectual appropriateness of timing, not luck." },
+        { "distractor": "serendipitous", "closeness": 2, "reasoning": "Serendipitous means occurring by happy chance, but the sentence emphasizes the discovery's scholarly importance at a critical moment, not chance." },
+        { "distractor": "coincidental", "closeness": 2, "reasoning": "Coincidental means occurring by chance or concurrence, but the sentence emphasizes intellectual appropriateness of timing, not mere coincidence." },
+        { "distractor": "significant", "closeness": 2, "reasoning": "Significant means having importance or meaning, but the sentence requires emphasis on the discovery's timing, not its significance generally." },
+        { "distractor": "untimely", "closeness": 1, "reasoning": "Untimely means occurring at an inappropriate time, opposite to discovery arriving just when scholars needed evidence." },
+        { "distractor": "premature", "closeness": 1, "reasoning": "Premature means occurring too early, potentially opposite to discovery at the right moment for scholarly needs." },
+        { "distractor": "belated", "closeness": 1, "reasoning": "Belated means delayed or coming late, opposite to discovery at precisely the moment scholars were questioning accounts." }
+      ]
+    }
+  ]
+}

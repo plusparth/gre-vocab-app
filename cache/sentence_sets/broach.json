@@ -1,0 +1,53 @@
+{
+  "word": "broach",
+  "sentenceSets": [
+    {
+      "sentence": "She waited until the end of the meal to broach the subject of the inheritance, knowing it would cause tension.",
+      "answerChoices": [
+        { "distractor": "raise", "closeness": 3, "reasoning": "Close -- 'raise' means to bring up or introduce a topic, which is similar to broaching, but it is more neutral and does not carry the deliberate, carefully-timed quality that 'broach' suggests." },
+        { "distractor": "introduce", "closeness": 3, "reasoning": "Close -- 'introduce' means to present something for the first time, which fits the context, but it lacks the sense of broaching a sensitive or difficult subject." },
+        { "distractor": "mention", "closeness": 3, "reasoning": "Close -- 'mention' means to reference casually or in passing, but the careful timing in the sentence suggests a more deliberate and weighty approach than merely mentioning." },
+        { "distractor": "propose", "closeness": 3, "reasoning": "Close -- 'propose' means to suggest or put forward, which is related to broaching, but it emphasizes offering something for consideration rather than opening discussion of a fraught topic." },
+        { "distractor": "announce", "closeness": 2, "reasoning": "Incorrect -- 'announce' means to declare publicly or formally, which suggests a more dramatic and less carefully-considered introduction than broaching." },
+        { "distractor": "reveal", "closeness": 2, "reasoning": "Incorrect -- 'reveal' means to disclose or make known, which could apply to the inheritance but does not capture the sense of carefully opening a difficult discussion." },
+        { "distractor": "divulge", "closeness": 2, "reasoning": "Incorrect -- 'divulge' means to disclose something private or secret, which fits loosely but emphasizes revelation rather than initiating discussion." },
+        { "distractor": "articulate", "closeness": 2, "reasoning": "Incorrect -- 'articulate' means to express clearly, which she did, but it does not capture the sense of strategically choosing the moment to introduce a difficult subject." },
+        { "distractor": "conceal", "closeness": 1, "reasoning": "Opposite -- 'conceal' means to hide or keep secret, the opposite of bringing up or discussing the inheritance." },
+        { "distractor": "suppress", "closeness": 1, "reasoning": "Opposite -- 'suppress' means to forcibly prevent or conceal, contrary to the action of raising the topic." },
+        { "distractor": "evade", "closeness": 1, "reasoning": "Incorrect -- 'evade' means to avoid or escape, the opposite of deliberately bringing up a topic." }
+      ]
+    },
+    {
+      "sentence": "The therapist skillfully broached the client's fear of abandonment after weeks of building trust.",
+      "answerChoices": [
+        { "distractor": "confronted", "closeness": 3, "reasoning": "Close -- 'confronted' means to face someone with a difficult truth, which is related, but it lacks the gentle, strategic quality that broaching a sensitive psychological fear requires." },
+        { "distractor": "addressed", "closeness": 3, "reasoning": "Close -- 'addressed' means to turn attention to or speak about, which fits, but it is too general and does not capture the deliberate, trust-building approach that 'broach' implies in therapy." },
+        { "distractor": "uncovered", "closeness": 3, "reasoning": "Close -- 'uncovered' means to reveal or discover, which fits the therapeutic context, but it emphasizes excavation rather than the careful introduction of a difficult topic." },
+        { "distractor": "touched on", "closeness": 3, "reasoning": "Close -- 'touched on' means to mention briefly, which is related, but it suggests a lighter, more superficial approach than the skillful, deliberate broaching described in the sentence." },
+        { "distractor": "discussed", "closeness": 2, "reasoning": "Incorrect -- 'discussed' means to talk about, which occurred, but it does not carry the sense of skillfully introducing a deeply buried fear." },
+        { "distractor": "explored", "closeness": 2, "reasoning": "Incorrect -- 'explored' means to examine or investigate, which may follow broaching but does not capture the initial act of bringing up the topic." },
+        { "distractor": "diagnosed", "closeness": 2, "reasoning": "Incorrect -- 'diagnosed' means to identify a condition or problem, which is too clinical and does not fit the therapeutic context of carefully broaching a fear." },
+        { "distractor": "prompted", "closeness": 2, "reasoning": "Incorrect -- 'prompted' means to encourage or remind, which does not capture the sense of strategically introducing a deep-seated psychological fear." },
+        { "distractor": "avoided", "closeness": 1, "reasoning": "Opposite -- 'avoided' means to stay away from or refrain from, the opposite of skillfully broaching a difficult fear." },
+        { "distractor": "sidestepped", "closeness": 1, "reasoning": "Opposite -- 'sidestepped' means to avoid or bypass, contrary to the therapeutic action of bringing up the fear." },
+        { "distractor": "bypassed", "closeness": 1, "reasoning": "Incorrect -- 'bypassed' means to go around or skip over, the opposite of addressing the fear directly." }
+      ]
+    },
+    {
+      "sentence": "The engineer was hesitant to broach the design flaw with her manager, fearing it might reflect poorly on her initial proposal.",
+      "answerChoices": [
+        { "distractor": "expose", "closeness": 3, "reasoning": "Close -- 'expose' means to reveal or uncover something hidden, which fits the context of disclosing a flaw, but it carries a more accusatory or dramatic tone than the careful approach of broaching." },
+        { "distractor": "disclose", "closeness": 3, "reasoning": "Close -- 'disclose' means to make known or reveal, which is similar to broaching, but it emphasizes the act of revelation rather than the careful, strategic timing of bringing up a sensitive issue." },
+        { "distractor": "point out", "closeness": 3, "reasoning": "Close -- 'point out' means to call attention to, which fits the context, but it suggests a more direct, less tactful approach than the hesitant broaching the sentence implies." },
+        { "distractor": "flag", "closeness": 3, "reasoning": "Close -- 'flag' means to bring attention to or mark as important, which is related, but it is more casual and less deliberative than broaching a potentially damaging issue." },
+        { "distractor": "announce", "closeness": 2, "reasoning": "Incorrect -- 'announce' means to declare publicly or formally, which suggests a more assertive and less cautious approach than her hesitation would warrant." },
+        { "distractor": "communicate", "closeness": 2, "reasoning": "Incorrect -- 'communicate' means to convey information, which is too broad and does not capture the sense of carefully initiating discussion of a problematic issue." },
+        { "distractor": "share", "closeness": 2, "reasoning": "Incorrect -- 'share' means to give part of or tell someone about, which lacks the deliberate, strategic quality of broaching a sensitive matter." },
+        { "distractor": "report", "closeness": 2, "reasoning": "Incorrect -- 'report' means to relay information formally, which does not fit the hesitant, personal nature of the decision to discuss a flaw." },
+        { "distractor": "conceal", "closeness": 1, "reasoning": "Opposite -- 'conceal' means to hide or keep secret, the opposite of bringing up the design flaw with her manager." },
+        { "distractor": "suppress", "closeness": 1, "reasoning": "Opposite -- 'suppress' means to forcibly prevent or hide, contrary to the act of broaching or discussing the flaw." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Incorrect -- 'ignore' means to pay no attention to, the opposite of bringing a flaw to her manager's attention." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "distort",
+  "sentenceSets": [
+    {
+      "sentence": "The report distorted the original findings in ways subtle enough to escape casual scrutiny.",
+      "answerChoices": [
+        { "distractor": "skew", "closeness": 3, "reasoning": "The sentence describes misrepresenting findings in subtle ways; 'skew' means to present in a biased way, similar to distortion but emphasizes bias rather than the alteration itself." },
+        { "distractor": "obscure", "closeness": 3, "reasoning": "The sentence shows altering findings in ways that escape notice; 'obscure' means to make unclear or hidden, which can accompany distortion but refers to hiding rather than altering the true meaning." },
+        { "distractor": "suppress", "closeness": 3, "reasoning": "The sentence describes altering findings subtly; 'suppress' means to hold back or conceal information, which could accompany distortion but refers to withholding rather than twisting the meaning of information." },
+        { "distractor": "exaggerate", "closeness": 3, "reasoning": "The sentence shows altering findings in ways subtle enough to escape notice; 'exaggerate' means to overstate or magnify, which distorts but emphasizes overstating rather than twisting out of true meaning." },
+        { "distractor": "alter", "closeness": 2, "reasoning": "The sentence describes changing findings from their original form; 'alter' means to change or modify, which occurs with distortion but doesn't necessarily capture the sense of twisting meaning." },
+        { "distractor": "manipulate", "closeness": 2, "reasoning": "The sentence shows changing findings subtly; 'manipulate' means to handle or control in an artful way, which occurs in distortion but focuses on crafty control rather than twisting meaning." },
+        { "distractor": "embellish", "closeness": 2, "reasoning": "The sentence describes altering findings; 'embellish' means to add decorative details, which distorts but emphasizes adding rather than twisting out of true meaning." },
+        { "distractor": "slant", "closeness": 2, "reasoning": "The sentence shows presenting findings in altered ways; 'slant' means to present in a biased manner, similar to distortion but emphasizes angle or perspective rather than fundamental alteration." },
+        { "distractor": "elucidate", "closeness": 1, "reasoning": "This means to make clear or explain, the opposite of distorting findings; the sentence describes deliberately altering them in subtle ways." },
+        { "distractor": "substantiate", "closeness": 1, "reasoning": "This means to provide proof or confirmation, the opposite of falsifying findings; the sentence shows altering findings in ways that escape notice." },
+        { "distractor": "validate", "closeness": 1, "reasoning": "This means to confirm as authentic or true, the opposite of distorting; the sentence emphasizes subtle alteration of original findings." }
+      ]
+    },
+    {
+      "sentence": "The heat caused the metal frame to distort, its once-straight edges now bent and warped beyond recognition.",
+      "answerChoices": [
+        { "distractor": "warp", "closeness": 3, "reasoning": "The sentence describes the frame's edges becoming bent and distorted by heat; 'warp' means to bend or twist out of shape, which is nearly synonymous with distort in a physical context." },
+        { "distractor": "twist", "closeness": 3, "reasoning": "The sentence shows the frame becoming bent and distorted by heat; 'twist' means to turn or rotate out of alignment, similar to distortion but emphasizes rotation rather than overall deformation." },
+        { "distractor": "buckle", "closeness": 3, "reasoning": "The sentence describes edges becoming bent under heat pressure; 'buckle' means to bend under pressure or collapse, similar to distortion but emphasizes breaking under stress rather than general deformation." },
+        { "distractor": "deform", "closeness": 3, "reasoning": "The sentence shows edges becoming bent and warped by heat; 'deform' means to change shape in a negative way, which is similar to distortion but is more general." },
+        { "distractor": "bend", "closeness": 2, "reasoning": "The sentence describes edges becoming distorted by heat; 'bend' means to curve or flex, which occurs in distortion but refers to a single curve rather than overall warping." },
+        { "distractor": "reshape", "closeness": 2, "reasoning": "The sentence shows the frame's shape changing from heat; 'reshape' means to form into a new shape, which occurs with distortion but implies intentional molding rather than damage." },
+        { "distractor": "crumple", "closeness": 2, "reasoning": "The sentence describes the frame becoming bent and warped; 'crumple' means to crush into wrinkles, which may occur but emphasizes crushing rather than the warping from heat." },
+        { "distractor": "contort", "closeness": 2, "reasoning": "The sentence shows edges becoming bent unnaturally by heat; 'contort' means to bend into an unnatural position, similar to distortion but emphasizes extreme bending rather than general warping." },
+        { "distractor": "straighten", "closeness": 1, "reasoning": "This means to make straight or align, the opposite of the bending and warping described; the sentence shows the frame becoming increasingly distorted." },
+        { "distractor": "align", "closeness": 1, "reasoning": "This means to put into line or correct position, the opposite of the warping described; the sentence emphasizes edges becoming bent beyond recognition." },
+        { "distractor": "restore", "closeness": 1, "reasoning": "This means to return to original condition, the opposite of distortion; the sentence describes the frame becoming bent and warped beyond recognition." }
+      ]
+    },
+    {
+      "sentence": "The witness's memory had distorted over time, conflating details from different events into a single false narrative.",
+      "answerChoices": [
+        { "distractor": "conflate", "closeness": 3, "reasoning": "The sentence describes memory becoming altered and mixing details from different events; 'conflate' means to merge or combine into one, similar to distortion but emphasizes combining rather than falsifying." },
+        { "distractor": "confabulate", "closeness": 3, "reasoning": "The sentence shows memory being altered, mixing details into a false narrative; 'confabulate' means to unconsciously create false memories by filling gaps, which is related but emphasizes unconscious creation rather than distortion." },
+        { "distractor": "muddle", "closeness": 3, "reasoning": "The sentence describes memory becoming confused and mixed over time; 'muddle' means to mix up or confuse, similar to distortion but emphasizes confusion rather than the creation of false narratives." },
+        { "distractor": "blur", "closeness": 3, "reasoning": "The sentence shows details from different events merging in memory; 'blur' means to make unclear or indistinct, which occurs in distortion but emphasizes loss of clarity rather than active falsification." },
+        { "distractor": "misconceive", "closeness": 2, "reasoning": "The sentence describes memory changing into a false narrative; 'misconceive' means to misunderstand or interpret wrongly, which can cause distortion but refers to initial misunderstanding rather than memory alteration." },
+        { "distractor": "misremember", "closeness": 2, "reasoning": "The sentence shows memory becoming altered over time; 'misremember' means to recall incorrectly, which can result from distortion but emphasizes the error in recall rather than the process." },
+        { "distractor": "fabricate", "closeness": 2, "reasoning": "The sentence describes memory creating a false narrative; 'fabricate' means to create or invent falsely, which can result but emphasizes deliberate creation rather than unintentional memory distortion." },
+        { "distractor": "contrive", "closeness": 2, "reasoning": "The sentence shows memory producing a false narrative; 'contrive' means to create or devise artificially, which can produce false narratives but emphasizes deliberate artifice." },
+        { "distractor": "forget", "closeness": 1, "reasoning": "This means to fail to remember, which is different from distorting memories into false narratives; the sentence shows details being mixed, not lost." },
+        { "distractor": "preserve", "closeness": 1, "reasoning": "This means to keep intact or maintain, the opposite of distorting memory; the sentence emphasizes how memory becomes altered over time." },
+        { "distractor": "verify", "closeness": 1, "reasoning": "This means to confirm as true or accurate, the opposite of creating false narratives; the sentence describes memory becoming distorted into falsehood." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "anomaly",
+  "sentenceSets": [
+    {
+      "sentence": "The auditors flagged the discrepancy as an anomaly, suggesting deliberate manipulation rather than error.",
+      "answerChoices": [
+        { "distractor": "peculiarity", "closeness": 3, "reasoning": "Peculiarity means something strange or distinctive, but doesn't necessarily suggest deliberate action the way the sentence implies." },
+        { "distractor": "inconsistency", "closeness": 3, "reasoning": "Inconsistency describes lack of agreement or uniformity, but doesn't convey the implication of intentional misconduct." },
+        { "distractor": "irregularity", "closeness": 3, "reasoning": "Irregularity means deviation from rules or normal patterns, but is more neutral about intent than the sentence's suggestion of manipulation." },
+        { "distractor": "discrepancy", "closeness": 3, "reasoning": "Discrepancy means a difference or inconsistency, which actually appears in the sentence itself before the blank." },
+        { "distractor": "mistake", "closeness": 2, "reasoning": "Mistake means an error, but the sentence explicitly contrasts this interpretation with the auditors' judgment about deliberate manipulation." },
+        { "distractor": "variance", "closeness": 2, "reasoning": "Variance means a difference or deviation, but doesn't address the auditors' implication of intentional fraud." },
+        { "distractor": "deviation", "closeness": 2, "reasoning": "Deviation means departure from a standard, but doesn't carry the implication of deliberate wrongdoing." },
+        { "distractor": "oversight", "closeness": 2, "reasoning": "Oversight means a failure to notice or an accidental omission, contradicting the deliberate manipulation the sentence suggests." },
+        { "distractor": "norm", "closeness": 1, "reasoning": "Norm means a standard or usual pattern, opposite to the unusual occurrence flagged by auditors." },
+        { "distractor": "conformity", "closeness": 1, "reasoning": "Conformity means agreement with standards, opposite to the deviation and potential fraud implied." },
+        { "distractor": "accuracy", "closeness": 1, "reasoning": "Accuracy means correctness or precision, opposite to a flagged discrepancy suggesting manipulation." }
+      ]
+    },
+    {
+      "sentence": "The astronomer discovered a gravitational anomaly near the black hole that didn't fit any existing models of space-time.",
+      "answerChoices": [
+        { "distractor": "disturbance", "closeness": 3, "reasoning": "Disturbance means an interruption or disruption, which could describe a gravitational phenomenon but lacks the specific sense of deviation from expected models." },
+        { "distractor": "force", "closeness": 3, "reasoning": "Force describes gravitational pull generally, but doesn't convey the sense of unexpected or unexplained occurrence." },
+        { "distractor": "reading", "closeness": 3, "reasoning": "Reading means data measurement or observation, but doesn't imply the deviation from expected models that anomaly connotes." },
+        { "distractor": "signature", "closeness": 3, "reasoning": "Signature means a distinctive mark or pattern, but doesn't necessarily indicate deviation from theoretical expectations." },
+        { "distractor": "phenomenon", "closeness": 2, "reasoning": "Phenomenon means an observable event or fact, but is too general to convey the specific deviation from models." },
+        { "distractor": "effect", "closeness": 2, "reasoning": "Effect means a result or consequence, but the sentence focuses on the deviation itself rather than its consequences." },
+        { "distractor": "reaction", "closeness": 2, "reasoning": "Reaction describes a response to something, but doesn't address the unexpected nature of the gravitational pattern." },
+        { "distractor": "fluctuation", "closeness": 2, "reasoning": "Fluctuation means a varying or wavering motion, but could occur within expected models rather than violating them." },
+        { "distractor": "prediction", "closeness": 1, "reasoning": "Prediction means a forecast or expectation, opposite to an occurrence that doesn't fit existing models." },
+        { "distractor": "regularity", "closeness": 1, "reasoning": "Regularity means a consistent pattern, opposite to a deviation that contradicts existing theoretical models." },
+        { "distractor": "consistency", "closeness": 1, "reasoning": "Consistency means agreement with established patterns, opposite to something that doesn't fit any existing models." }
+      ]
+    },
+    {
+      "sentence": "The hiring committee couldn't explain why this candidate was ranked top-three despite what appeared to be a significant anomaly in her background check—no employment history whatsoever before age thirty.",
+      "answerChoices": [
+        { "distractor": "gap", "closeness": 3, "reasoning": "Gap means a space or absence, which could describe missing employment history, but doesn't convey the sense of unexpected or unexplained." },
+        { "distractor": "concern", "closeness": 3, "reasoning": "Concern means worry or issue of importance, which the employment gap raises, but doesn't specifically mean an unexplained deviation." },
+        { "distractor": "red flag", "closeness": 3, "reasoning": "Red flag means a warning sign, which the background check finding is, but refers to the warning aspect rather than the unexpected occurrence itself." },
+        { "distractor": "absence", "closeness": 3, "reasoning": "Absence means lack or nonexistence, which describes the missing employment history, but not the unexpected nature of it." },
+        { "distractor": "oversight", "closeness": 2, "reasoning": "Oversight means an error or failure to notice, but suggests an accidental omission rather than a genuine unexplained fact." },
+        { "distractor": "contradiction", "closeness": 2, "reasoning": "Contradiction means a statement that conflicts, but the sentence presents a missing piece rather than conflicting information." },
+        { "distractor": "inconsistency", "closeness": 2, "reasoning": "Inconsistency means lack of uniformity, which the employment gap creates, but doesn't capture the sense of inexplicable deviation." },
+        { "distractor": "mystery", "closeness": 2, "reasoning": "Mystery means something unexplained, which the employment gap is, but is more poetic and less technical than anomaly." },
+        { "distractor": "credential", "closeness": 1, "reasoning": "Credential means proof of qualification, and the employment gap represents a lack of this, not a deviation itself." },
+        { "distractor": "achievement", "closeness": 1, "reasoning": "Achievement means accomplishment or success, opposite to the missing employment record shown in the sentence." },
+        { "distractor": "validation", "closeness": 1, "reasoning": "Validation means confirmation or support, opposite to what a missing employment history would provide a hiring committee." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "telltale",
+  "sentenceSets": [
+    {
+      "sentence": "The telltale gap in the record told investigators where to look without telling them what they would find.",
+      "answerChoices": [
+        { "distractor": "concealment", "closeness": 3, "reasoning": "Concealment means hiding or covering up but the sentence shows something (a gap) that revealed location; the opposite of concealment." },
+        { "distractor": "enigma", "closeness": 3, "reasoning": "An enigma is a puzzle with no answer; the gap provided a sign pointing to where to look, reducing mystery." },
+        { "distractor": "fabrication", "closeness": 3, "reasoning": "Fabrication means something invented falsely; the gap was a real indication, a true sign in the record." },
+        { "distractor": "obstacle", "closeness": 3, "reasoning": "An obstacle is something blocking progress; the gap guided investigators to where to look, facilitating their investigation." },
+        { "distractor": "distraction", "closeness": 2, "reasoning": "A distraction diverts attention from what matters but the gap directed investigators to the important location." },
+        { "distractor": "coincidence", "closeness": 2, "reasoning": "Coincidence is accidental occurrence but the gap was a meaningful indicator directing investigation." },
+        { "distractor": "anomaly", "closeness": 2, "reasoning": "Anomaly is an irregularity but is less specific about revealing or indicating; the sentence emphasizes the revealing nature." },
+        { "distractor": "precedent", "closeness": 2, "reasoning": "Precedent is prior example but the gap was an indication of where to look, not a model for action." },
+        { "distractor": "red herring", "closeness": 1, "reasoning": "A red herring is a misleading clue but the gap actually told investigators where to look, not misleading them." },
+        { "distractor": "mystery", "closeness": 1, "reasoning": "A mystery is something unknown; the gap provided guidance, reducing mystery about where to investigate." },
+        { "distractor": "explanation", "closeness": 1, "reasoning": "An explanation answers questions but the gap was a sign pointing to investigation, not an answer." }
+      ]
+    },
+    {
+      "sentence": "The suspect's telltale twitch every time a specific location was mentioned revealed his prior knowledge of the crime scene.",
+      "answerChoices": [
+        { "distractor": "deception", "closeness": 3, "reasoning": "Deception is false information but the twitch was a truthful involuntary sign revealing real knowledge." },
+        { "distractor": "innocence", "closeness": 3, "reasoning": "Innocence is not guilty but the twitch revealed prior knowledge of the crime scene, suggesting involvement." },
+        { "distractor": "ambiguity", "closeness": 3, "reasoning": "Ambiguity is unclear meaning but the twitch was a clear and revealing sign of knowledge." },
+        { "distractor": "deliberation", "closeness": 3, "reasoning": "Deliberation is careful thought but the twitch was involuntary, not a conscious choice revealing knowledge." },
+        { "distractor": "hesitation", "closeness": 2, "reasoning": "Hesitation is pausing before acting but does not necessarily reveal knowledge; the twitch specifically indicated familiarity." },
+        { "distractor": "confusion", "closeness": 2, "reasoning": "Confusion is unclear thinking but the sentence shows the twitch revealed specific knowledge, not confused state." },
+        { "distractor": "skepticism", "closeness": 2, "reasoning": "Skepticism is doubt but does not necessarily manifest as a twitch or reveal knowledge." },
+        { "distractor": "nervous habit", "closeness": 2, "reasoning": "A nervous habit is repetitive behavior but may not reveal specific knowledge; the sentence shows this revealed knowledge." },
+        { "distractor": "rehearsal", "closeness": 1, "reasoning": "Rehearsal is practice but the twitch was involuntary, revealing real knowledge not practiced response." },
+        { "distractor": "calmness", "closeness": 1, "reasoning": "Calmness is absence of worry; the twitch was a sign of anxiety revealing knowledge." },
+        { "distractor": "explanation", "closeness": 1, "reasoning": "An explanation is information provided but the twitch was an unintentional physical sign." }
+      ]
+    },
+    {
+      "sentence": "The telltale signs of aging—gray hair, fine lines, and weathered hands—could not be concealed despite the artist's carefully applied makeup.",
+      "answerChoices": [
+        { "distractor": "deceptive", "closeness": 3, "reasoning": "Deceptive means misleading or false but the signs were true indicators of aging, not false." },
+        { "distractor": "ambiguous", "closeness": 3, "reasoning": "Ambiguous means unclear in meaning but the signs clearly and specifically indicated aging." },
+        { "distractor": "hidden", "closeness": 3, "reasoning": "Hidden means concealed but the sentence shows these signs 'could not be concealed,' indicating they were visible." },
+        { "distractor": "disputed", "closeness": 3, "reasoning": "Disputed means contested or argued about but the signs were clear indicators, not subject to debate." },
+        { "distractor": "vague", "closeness": 2, "reasoning": "Vague means unclear but the signs specifically indicated aging through gray hair, lines, and weathered hands." },
+        { "distractor": "subtle", "closeness": 2, "reasoning": "Subtle means delicate or not obvious but the sentence shows these signs could not be concealed." },
+        { "distractor": "inconsistent", "closeness": 2, "reasoning": "Inconsistent means varying but the sentence shows consistent indicators of age." },
+        { "distractor": "artificial", "closeness": 2, "reasoning": "Artificial means not natural but the signs (gray hair, lines, weathered hands) are naturally occurring indicators." },
+        { "distractor": "misleading", "closeness": 1, "reasoning": "Misleading means false or deceptive but the signs were true indicators of aging." },
+        { "distractor": "irrelevant", "closeness": 1, "reasoning": "Irrelevant means not important or related but the signs were clearly related to and indicated aging." },
+        { "distractor": "youthful", "closeness": 1, "reasoning": "Youthful means young in appearance but the sentence describes signs of aging." }
+      ]
+    }
+  ]
+}

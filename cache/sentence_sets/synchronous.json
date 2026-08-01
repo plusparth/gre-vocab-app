@@ -1,0 +1,53 @@
+{
+  "word": "synchronous",
+  "sentenceSets": [
+    {
+      "sentence": "Truly synchronous decision-making across the geographically dispersed teams proved unachievable given the time zone differences.",
+      "answerChoices": [
+        { "distractor": "independent", "closeness": 3, "reasoning": "Independent describes entities acting without reliance on each other; the sentence is about achieving simultaneity in decisions, not about whether teams rely on one another." },
+        { "distractor": "coordinated", "closeness": 3, "reasoning": "Coordinated decision-making can occur sequentially when one team passes results to another; the sentence specifically laments the inability to achieve simultaneous decisions across time zones." },
+        { "distractor": "transparent", "closeness": 3, "reasoning": "Transparency in decision-making means all parties can see reasoning, but does not require decisions to happen at the same moment; time zone barriers prevent simultaneity, not clarity." },
+        { "distractor": "collective", "closeness": 3, "reasoning": "Collective decision-making involves groups joining in deliberation but can be done sequentially; the sentence emphasizes the inability to achieve real-time simultaneity." },
+        { "distractor": "rapid", "closeness": 2, "reasoning": "Rapid decision-making is speedy but not necessarily simultaneous; teams could make fast decisions in sequence without happening at the same moment." },
+        { "distractor": "efficient", "closeness": 2, "reasoning": "Efficiency describes achieving goals with minimal waste; true simultaneity is not essential for efficiency if teams sequence decisions quickly." },
+        { "distractor": "mutual", "closeness": 2, "reasoning": "Mutual agreement means shared approval but need not happen at precisely the same moment; teams could agree on decisions made at different times." },
+        { "distractor": "parallel", "closeness": 2, "reasoning": "Parallel processes can occur at the same time or in similar structures but need not happen at identical moments; time zone differences could still allow parallel work at different local times." },
+        { "distractor": "sequential", "closeness": 1, "reasoning": "Sequential means happening one after another; the sentence describes time zone barriers preventing simultaneous action, which is the opposite of sequence." },
+        { "distractor": "fragmented", "closeness": 1, "reasoning": "Fragmented means broken into separate pieces; the sentence concerns the timing of unified decisions, not whether the organization is splintered." },
+        { "distractor": "asynchronous", "closeness": 1, "reasoning": "Asynchronous means not occurring at the same time; the sentence laments that truly simultaneous decision-making is impossible, indicating the teams operate in this opposite mode." }
+      ]
+    },
+    {
+      "sentence": "The dancers achieved a synchronous leap, their bodies suspended in mid-air at exactly the same fraction of a second, creating an illusion of perfect weightlessness.",
+      "answerChoices": [
+        { "distractor": "graceful", "closeness": 3, "reasoning": "Graceful describes elegance and flow, but dancers can be graceful while leaping at different times; the sentence emphasizes simultaneity of suspension, not aesthetic quality." },
+        { "distractor": "fluid", "closeness": 3, "reasoning": "Fluid movement is smooth and continuous but need not be simultaneous; dancers moving at slightly different times can still appear fluid." },
+        { "distractor": "controlled", "closeness": 3, "reasoning": "Controlled movement shows discipline and precision but does not require happening at precisely the same moment; the sentence stresses exact temporal alignment." },
+        { "distractor": "unified", "closeness": 3, "reasoning": "Unified describes working together as one, but dancers could appear unified through near-simultaneity or clever timing; the sentence specifies 'exactly the same' moment." },
+        { "distractor": "practiced", "closeness": 2, "reasoning": "Practiced dancers have rehearsed, but rehearsal does not guarantee true simultaneity; training enables it but does not describe the leaps themselves." },
+        { "distractor": "balanced", "closeness": 2, "reasoning": "Balanced movement distributes weight evenly but does not require happening at the same time; two dancers could balance themselves independently." },
+        { "distractor": "coordinated", "closeness": 2, "reasoning": "Coordinated movement works together well but can be slightly staggered; the sentence emphasizes happening at 'exactly the same' moment, not just good timing." },
+        { "distractor": "deliberate", "closeness": 2, "reasoning": "Deliberate action is intentional but need not occur at an identical moment; the sentence is about temporal precision, not about whether action is purposeful." },
+        { "distractor": "sequential", "closeness": 1, "reasoning": "Sequential means one after another; the sentence describes leaps happening at exactly the same moment, the opposite of sequencing." },
+        { "distractor": "hesitant", "closeness": 1, "reasoning": "Hesitant movement is tentative or reluctant; the sentence describes a confident, precisely-timed leap creating an illusion of weightlessness." },
+        { "distractor": "staggered", "closeness": 1, "reasoning": "Staggered means timed at intervals; the sentence emphasizes 'exactly the same fraction of a second,' the opposite of intervals." }
+      ]
+    },
+    {
+      "sentence": "The heart's ventricles undergo a synchronous contraction, pumping blood outward to the lungs and body at a single unified moment in the cardiac cycle.",
+      "answerChoices": [
+        { "distractor": "vigorous", "closeness": 3, "reasoning": "Vigorous describes strength and intensity of contraction but does not require simultaneity; the ventricles could contract with different intensities at different times." },
+        { "distractor": "regular", "closeness": 3, "reasoning": "Regular contractions follow a predictable pattern but need not occur at the same moment; the sentence specifies 'at a single unified moment,' emphasizing simultaneity." },
+        { "distractor": "rhythmic", "closeness": 3, "reasoning": "Rhythmic means following a repeated pattern but does not require precisely simultaneous action; elements can be rhythmic while occurring at slightly different times." },
+        { "distractor": "powerful", "closeness": 3, "reasoning": "Powerful describes force and strength but is independent of timing; the sentence emphasizes the timing aspect ('at a single unified moment') rather than force." },
+        { "distractor": "consecutive", "closeness": 2, "reasoning": "Consecutive contractions occur one after another; the sentence describes ventricles contracting together, not in sequence." },
+        { "distractor": "alternating", "closeness": 2, "reasoning": "Alternating means switching back and forth; the sentence shows both ventricles acting together, not one after the other in alternation." },
+        { "distractor": "persistent", "closeness": 2, "reasoning": "Persistent contractions continue steadily but do not necessarily describe timing relationships; the sentence is about temporal alignment." },
+        { "distractor": "efficient", "closeness": 2, "reasoning": "Efficient contractions achieve their purpose with minimal waste but do not require simultaneous action; sequential contractions can be efficient." },
+        { "distractor": "independent", "closeness": 1, "reasoning": "Independent contractions would occur without coordinating; the sentence describes a unified moment where both ventricles act together." },
+        { "distractor": "chaotic", "closeness": 1, "reasoning": "Chaotic means disorderly and unpredictable; the sentence describes a precisely coordinated cardiac event that occurs at 'a single unified moment.'" },
+        { "distractor": "intermittent", "closeness": 1, "reasoning": "Intermittent means occurring at intervals with gaps; the sentence describes a continuous pumping action at a single moment." }
+      ]
+    }
+  ]
+}

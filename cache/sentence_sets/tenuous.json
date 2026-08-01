@@ -1,0 +1,53 @@
+{
+  "word": "tenuous",
+  "sentenceSets": [
+    {
+      "sentence": "The connection between the two events was tenuous, but the narrative required it to be stronger than the evidence supported.",
+      "answerChoices": [
+        { "distractor": "subtle", "closeness": 3, "reasoning": "Subtle means delicate or difficult to perceive, but the sentence emphasizes weakness of evidence, not mere delicacy of connection." },
+        { "distractor": "indirect", "closeness": 3, "reasoning": "Indirect means not direct or not straightforward, yet the sentence's issue is that the link is weak and unsupported by evidence, not merely circuitous." },
+        { "distractor": "ambiguous", "closeness": 3, "reasoning": "Ambiguous means open to multiple interpretations, but the sentence reveals the issue as insufficient evidence, not interpretive uncertainty." },
+        { "distractor": "obscure", "closeness": 3, "reasoning": "Obscure means unclear or hard to understand, yet the sentence emphasizes that the connection lacks evidentiary support rather than clarity." },
+        { "distractor": "questionable", "closeness": 2, "reasoning": "Questionable means open to doubt, which is close, but the sentence's focus on narrative requirement versus evidence points to insufficiency rather than doubtfulness." },
+        { "distractor": "disputed", "closeness": 2, "reasoning": "Disputed means contested or disagreed upon, but the sentence presents a gap between narrative requirement and evidence, not interpersonal disagreement." },
+        { "distractor": "uncertain", "closeness": 2, "reasoning": "Uncertain means not sure or definite, but the sentence's emphasis on insufficient evidence reveals a factual weakness rather than subjective doubt." },
+        { "distractor": "provisional", "closeness": 2, "reasoning": "Provisional means temporary or subject to change, but the sentence describes an inadequate evidential link, not a conditional or temporary arrangement." },
+        { "distractor": "strong", "closeness": 1, "reasoning": "Strong contradicts the sentence's depiction of a connection that lacks evidentiary support." },
+        { "distractor": "robust", "closeness": 1, "reasoning": "Robust means sturdy and well-founded, opposite to the weakness the sentence describes." },
+        { "distractor": "established", "closeness": 1, "reasoning": "Established means firmly set up or proven, contradicting a connection that narrative forced beyond evidentiary support." }
+      ]
+    },
+    {
+      "sentence": "The diplomat's claim that economic prosperity would follow the trade agreement rested on tenuous assumptions about consumer behavior and market response, assumptions never tested or validated.",
+      "answerChoices": [
+        { "distractor": "controversial", "closeness": 3, "reasoning": "Controversial means subject to dispute or disagreement, but the sentence reveals the problem as lack of empirical validation rather than mere disagreement." },
+        { "distractor": "speculative", "closeness": 3, "reasoning": "Speculative means based on conjecture rather than evidence, which comes very close, but the sentence specifically emphasizes untested and unvalidated—pointing to a methodological failure rather than conjectural thinking." },
+        { "distractor": "dubious", "closeness": 3, "reasoning": "Dubious means doubtful or questionable, yet the sentence's emphasis on never-tested assumptions suggests evidentiary absence rather than mere doubtfulness." },
+        { "distractor": "unproven", "closeness": 3, "reasoning": "Unproven means not yet confirmed as true, which captures the lack of validation, but the sentence stresses the assumptions' fundamental weakness, not merely their status as unproven." },
+        { "distractor": "unfounded", "closeness": 2, "reasoning": "Unfounded means lacking a valid basis, which is close, but the sentence's specific stress on untested and unvalidated reveals methodological weakness rather than absence of foundation." },
+        { "distractor": "flawed", "closeness": 2, "reasoning": "Flawed means imperfect or containing errors, but the sentence doesn't assert the logic was wrong—only that the premises were never tested." },
+        { "distractor": "theoretical", "closeness": 2, "reasoning": "Theoretical means based on theory rather than practice, but the sentence emphasizes untested assumptions, which is different from merely being theoretical." },
+        { "distractor": "questionable", "closeness": 2, "reasoning": "Questionable means open to doubt, but the sentence's focus on assumptions never tested or validated points to evidentiary inadequacy rather than mere doubtfulness." },
+        { "distractor": "sound", "closeness": 1, "reasoning": "Sound means solid and well-founded, the opposite of assumptions never tested or validated." },
+        { "distractor": "reasonable", "closeness": 1, "reasoning": "Reasonable means based on logic or good judgment; the sentence's emphasis on untested assumptions suggests they failed this standard." },
+        { "distractor": "justified", "closeness": 1, "reasoning": "Justified means supported by valid reasons; the sentence reveals the assumptions lacked such support." }
+      ]
+    },
+    {
+      "sentence": "Although the historical documents showed some connection between the two families, the genealogist warned that the link was tenuous and might dissolve under scrutiny of handwriting and dating evidence.",
+      "answerChoices": [
+        { "distractor": "disputed", "closeness": 3, "reasoning": "Disputed means contested or debated, but the sentence reveals the problem as fragility under evidence examination, not ongoing disagreement." },
+        { "distractor": "uncertain", "closeness": 3, "reasoning": "Uncertain means not definite or doubted, yet the sentence suggests a link that appears to exist but will likely fail when tested more rigorously." },
+        { "distractor": "problematic", "closeness": 3, "reasoning": "Problematic means presenting difficulties or concerns, but the sentence's emphasis on potential dissolution with scrutiny indicates specific weakness to evidence, not general difficulty." },
+        { "distractor": "questionable", "closeness": 3, "reasoning": "Questionable means open to doubt or query, yet the sentence frames the issue as a fragile connection likely to break under evidence, not as arousing doubt." },
+        { "distractor": "unclear", "closeness": 2, "reasoning": "Unclear means not easy to understand, but the sentence indicates a discernible link that may not withstand closer examination, not a relationship that's hard to understand." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "Ambiguous means allowing multiple interpretations, but the sentence's concern is fragility of connection under evidence, not interpretive ambiguity." },
+        { "distractor": "vague", "closeness": 2, "reasoning": "Vague means imprecise or indefinite, but the sentence describes a connection that appears real but may be invalidated by scrutiny of specific evidence." },
+        { "distractor": "apparent", "closeness": 2, "reasoning": "Apparent means seeming to be true but possibly not, which is close to the genealogist's skepticism, but the sentence emphasizes weakness to evidence rather than mere appearance." },
+        { "distractor": "established", "closeness": 1, "reasoning": "Established means firmly set up or proven, contradicting the genealogist's warning that scrutiny might dissolve the connection." },
+        { "distractor": "documented", "closeness": 1, "reasoning": "Documented means recorded in documents, yet the sentence's point is that documentation is insufficient to support the genealogical link." },
+        { "distractor": "verified", "closeness": 1, "reasoning": "Verified means confirmed as true; the sentence warns against assuming verification without scrutiny." }
+      ]
+    }
+  ]
+}

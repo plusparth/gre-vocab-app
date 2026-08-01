@@ -1,0 +1,53 @@
+{
+  "word": "stipend",
+  "sentenceSets": [
+    {
+      "sentence": "The stipend attached to the research fellowship was barely sufficient to cover basic expenses but served as a credential that attracted more substantial support.",
+      "answerChoices": [
+        { "distractor": "salary", "closeness": 3, "reasoning": "Salary describes compensation for regular employment, whereas stipend refers to fixed periodic payment often for services beyond traditional employment." },
+        { "distractor": "wage", "closeness": 3, "reasoning": "Wage describes payment for labor, whereas stipend typically refers to fixed periodic support." },
+        { "distractor": "grant", "closeness": 3, "reasoning": "Grant describes funds given for a specific purpose, related to stipend but broader in application." },
+        { "distractor": "compensation", "closeness": 3, "reasoning": "Compensation describes payment for work or injury, whereas stipend specifically refers to fixed periodic allowance." },
+        { "distractor": "honorarium", "closeness": 2, "reasoning": "Honorarium describes payment for professional services, related to stipend but typically larger and more formal." },
+        { "distractor": "subsidy", "closeness": 2, "reasoning": "Subsidy describes financial assistance, related to stipend but broader in application." },
+        { "distractor": "income", "closeness": 2, "reasoning": "Income describes money received generally, whereas stipend refers specifically to fixed periodic payment." },
+        { "distractor": "allowance", "closeness": 2, "reasoning": "Allowance describes a sum of money regularly given, closely related to stipend." },
+        { "distractor": "debt", "closeness": 1, "reasoning": "Debt describes money owed, opposite to stipend which is money received." },
+        { "distractor": "fine", "closeness": 1, "reasoning": "Fine describes a penalty payment, contrary to stipend which is support received." },
+        { "distractor": "cost", "closeness": 1, "reasoning": "Cost describes an expense to be paid, opposite to stipend which is payment received." }
+      ]
+    },
+    {
+      "sentence": "Graduate students relied on their monthly stipend to cover rent and food while focusing on their research projects.",
+      "answerChoices": [
+        { "distractor": "check", "closeness": 3, "reasoning": "Check describes a payment document, whereas stipend describes the regular income arrangement." },
+        { "distractor": "payment", "closeness": 3, "reasoning": "Payment describes transfer of money, whereas stipend specifically refers to a fixed periodic allowance." },
+        { "distractor": "funds", "closeness": 3, "reasoning": "Funds describe money resources generally, whereas stipend refers to regularly provided financial support." },
+        { "distractor": "support", "closeness": 3, "reasoning": "Support describes financial help generally, whereas stipend specifically refers to fixed periodic payment." },
+        { "distractor": "money", "closeness": 2, "reasoning": "Money describes currency generally, whereas stipend refers to regular structured payment." },
+        { "distractor": "stipulation", "closeness": 2, "reasoning": "Stipulation describes a requirement or condition, whereas stipend describes financial support." },
+        { "distractor": "provision", "closeness": 2, "reasoning": "Provision describes supplying what is needed, whereas stipend specifically means financial support." },
+        { "distractor": "aid", "closeness": 2, "reasoning": "Aid describes assistance generally, whereas stipend refers specifically to regular financial payment." },
+        { "distractor": "debt", "closeness": 1, "reasoning": "Debt describes money owed, opposite to stipend which is support received." },
+        { "distractor": "burden", "closeness": 1, "reasoning": "Burden describes financial strain, contrary to stipend which provides support." },
+        { "distractor": "expense", "closeness": 1, "reasoning": "Expense describes money spent, opposite to stipend which is money received." }
+      ]
+    },
+    {
+      "sentence": "The fellowship stipend was modest, yet having secure reliable income allowed her to pursue ambitious research without financial anxiety.",
+      "answerChoices": [
+        { "distractor": "grant", "closeness": 3, "reasoning": "Grant describes funds given for a specific purpose, related to stipend but often larger and less predictable." },
+        { "distractor": "endowment", "closeness": 3, "reasoning": "Endowment describes a permanent fund, related to stipend but typically structured differently." },
+        { "distractor": "funding", "closeness": 3, "reasoning": "Funding describes financial support generally, whereas stipend refers to regular structured payment." },
+        { "distractor": "subvention", "closeness": 3, "reasoning": "Subvention describes financial subsidy, related to stipend but often larger." },
+        { "distractor": "bequest", "closeness": 2, "reasoning": "Bequest describes money left by will, whereas stipend describes ongoing regular payment." },
+        { "distractor": "inheritance", "closeness": 2, "reasoning": "Inheritance describes money received from estate, whereas stipend is ongoing regular support." },
+        { "distractor": "trust", "closeness": 2, "reasoning": "Trust describes a fund held for someone's benefit, whereas stipend is regular payment." },
+        { "distractor": "endowment", "closeness": 2, "reasoning": "Endowment describes permanent funding, whereas stipend is typically time-limited." },
+        { "distractor": "debt", "closeness": 1, "reasoning": "Debt describes money owed, opposite to stipend which is money received." },
+        { "distractor": "loan", "closeness": 1, "reasoning": "Loan describes money borrowed with repayment required, opposite to stipend received." },
+        { "distractor": "liability", "closeness": 1, "reasoning": "Liability describes financial obligation, contrary to stipend which provides support." }
+      ]
+    }
+  ]
+}

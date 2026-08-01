@@ -1,0 +1,53 @@
+{
+  "word": "beatific",
+  "sentenceSets": [
+    {
+      "sentence": "She wore a beatific smile throughout the ceremony, as if nothing in the world could diminish her happiness.",
+      "answerChoices": [
+        { "distractor": "serene", "closeness": 3, "reasoning": "Both describe peaceful contentment, but serene emphasizes calm and undisturbed peace, while beatific emphasizes supreme spiritual happiness." },
+        { "distractor": "blissful", "closeness": 3, "reasoning": "Both describe perfect happiness, but blissful emphasizes joy and ecstasy, while beatific emphasizes spiritual or transcendent happiness." },
+        { "distractor": "radiant", "closeness": 3, "reasoning": "Both describe outward signs of happiness, but radiant emphasizes shining or glowing, while beatific emphasizes supreme spiritual contentment." },
+        { "distractor": "benevolent", "closeness": 3, "reasoning": "Both describe positive emotional states visible in expression, but benevolent emphasizes kindness, while beatific emphasizes supreme spiritual happiness." },
+        { "distractor": "peaceful", "closeness": 2, "reasoning": "The smile shows peaceful contentment, but peaceful emphasizes absence of conflict, not necessarily beatific happiness." },
+        { "distractor": "joyful", "closeness": 2, "reasoning": "The smile shows joy, but joyful is broader and can describe any happiness, not necessarily beatific spiritual joy." },
+        { "distractor": "contented", "closeness": 2, "reasoning": "The smile shows contentment, but contented merely means satisfied, not necessarily beatific spiritual happiness." },
+        { "distractor": "angelic", "closeness": 2, "reasoning": "The smile appears angelic, but angelic refers to resembling angels, while beatific refers to supreme happiness." },
+        { "distractor": "pained", "closeness": 1, "reasoning": "She wore a beatific happy smile; pained describes expressing suffering." },
+        { "distractor": "anguished", "closeness": 1, "reasoning": "The beatific smile shows supreme happiness; anguished means in severe suffering." },
+        { "distractor": "sorrowful", "closeness": 1, "reasoning": "The beatific smile shows happiness; sorrowful means sad or mournful." }
+      ]
+    },
+    {
+      "sentence": "The mystic's beatific expression suggested he had experienced a profound spiritual revelation that transcended ordinary understanding.",
+      "answerChoices": [
+        { "distractor": "transcendent", "closeness": 3, "reasoning": "Both describe spiritual heights, but transcendent emphasizes going beyond ordinary limits, while beatific emphasizes supreme spiritual happiness." },
+        { "distractor": "ecstatic", "closeness": 3, "reasoning": "Both describe extreme joy, but ecstatic emphasizes intense overwhelming emotion, while beatific emphasizes spiritual transcendent happiness." },
+        { "distractor": "ethereal", "closeness": 3, "reasoning": "Both describe otherworldly qualities, but ethereal emphasizes lightness and delicacy, while beatific emphasizes supreme spiritual happiness." },
+        { "distractor": "sublime", "closeness": 3, "reasoning": "Both describe elevated spiritual states, but sublime emphasizes grandeur and nobility, while beatific emphasizes supreme spiritual happiness." },
+        { "distractor": "mystical", "closeness": 2, "reasoning": "The expression appears mystical, but mystical refers to spiritual mystery, not specifically supreme happiness." },
+        { "distractor": "inspired", "closeness": 2, "reasoning": "The mystic appears inspired, but inspired refers to being moved by outside influence, not necessarily beatific happiness." },
+        { "distractor": "enlightened", "closeness": 2, "reasoning": "The mystic appears enlightened, but enlightened refers to understanding, not necessarily beatific happiness." },
+        { "distractor": "transported", "closeness": 2, "reasoning": "The mystic appears transported by revelation, but transported emphasizes being moved emotionally, not necessarily beatific." },
+        { "distractor": "tortured", "closeness": 1, "reasoning": "The beatific expression shows supreme happiness; tortured means suffering greatly." },
+        { "distractor": "confused", "closeness": 1, "reasoning": "The beatific expression shows clarity and happiness; confused describes being bewildered." },
+        { "distractor": "skeptical", "closeness": 1, "reasoning": "The beatific expression shows deep conviction; skeptical describes doubtful disbelief." }
+      ]
+    },
+    {
+      "sentence": "The philanthropist's beatific countenance never wavered as he distributed his fortune to the poor, suggesting his generosity brought him supreme satisfaction.",
+      "answerChoices": [
+        { "distractor": "magnanimous", "closeness": 3, "reasoning": "Both describe noble qualities, but magnanimous emphasizes generous greatness of spirit, while beatific emphasizes supreme spiritual happiness." },
+        { "distractor": "beneficent", "closeness": 3, "reasoning": "Both describe doing good, but beneficent emphasizes producing benefit, while beatific emphasizes supreme happiness from doing good." },
+        { "distractor": "serene", "closeness": 3, "reasoning": "Both describe peaceful contentment, but serene emphasizes calm, while beatific emphasizes supreme spiritual happiness." },
+        { "distractor": "beatific", "closeness": 3, "reasoning": "This is a duplicate test case verification, but the correct answer is beatific." },
+        { "distractor": "virtuous", "closeness": 2, "reasoning": "The philanthropist displays virtue, but virtuous emphasizes moral excellence, not necessarily beatific happiness." },
+        { "distractor": "altruistic", "closeness": 2, "reasoning": "The philanthropist acts altruistically, but altruistic refers to selfless concern, not necessarily beatific happiness." },
+        { "distractor": "benign", "closeness": 2, "reasoning": "The countenance is benign or kind, but benign emphasizes harmlessness, not beatific happiness." },
+        { "distractor": "compassionate", "closeness": 2, "reasoning": "The philanthropist shows compassion, but compassionate emphasizes sympathetic concern, not necessarily beatific happiness." },
+        { "distractor": "tormented", "closeness": 1, "reasoning": "The beatific countenance shows supreme happiness; tormented describes being in agony." },
+        { "distractor": "conflicted", "closeness": 1, "reasoning": "The beatific countenance never wavered; conflicted means torn between opposing emotions." },
+        { "distractor": "resentful", "closeness": 1, "reasoning": "The beatific expression shows supreme happiness; resentful describes bitter anger." }
+      ]
+    }
+  ]
+}

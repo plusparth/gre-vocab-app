@@ -1,0 +1,53 @@
+{
+  "word": "unearth",
+  "sentenceSets": [
+    {
+      "sentence": "The review unearthed documentation that contradicted the account that had been the basis of the original approval.",
+      "answerChoices": [
+        { "distractor": "uncovered", "closeness": 3, "reasoning": "Uncovered means revealed or exposed; unearth specifically implies bringing something buried or hidden to light, suggesting effort and discovery." },
+        { "distractor": "discovered", "closeness": 3, "reasoning": "Discovered means found for the first time; unearth specifically suggests something buried or deeply hidden requiring effort to expose." },
+        { "distractor": "revealed", "closeness": 3, "reasoning": "Revealed means made known; unearth specifically emphasizes the effort of digging up something hidden, more active than mere revelation." },
+        { "distractor": "exposed", "closeness": 3, "reasoning": "Exposed means laid bare; unearth specifically emphasizes extracting something from burial or hidden storage, not just laying it bare." },
+        { "distractor": "found", "closeness": 2, "reasoning": "Found is general; unearth specifically implies the effort of bringing something buried or hidden to light." },
+        { "distractor": "located", "closeness": 2, "reasoning": "Located means found or positioned; unearth specifically means to bring up something buried or hidden through effort." },
+        { "distractor": "obtained", "closeness": 2, "reasoning": "Obtained means acquired; unearth specifically implies bringing something buried or hidden to light through investigative effort." },
+        { "distractor": "retrieved", "closeness": 2, "reasoning": "Retrieved means recovered; unearth specifically implies something buried or hidden that required effort to extract." },
+        { "distractor": "buried", "closeness": 1, "reasoning": "Buried means hidden or put underground, the opposite of unearth, which means to bring to light." },
+        { "distractor": "concealed", "closeness": 1, "reasoning": "Concealed means hidden, the opposite of unearth, which brings something from hiding to light." },
+        { "distractor": "lost", "closeness": 1, "reasoning": "Lost means missing; unearth means to find and bring to light something buried or hidden." }
+      ]
+    },
+    {
+      "sentence": "Archaeologists unearthed pottery fragments dating back three thousand years, offering new insights into the settlement patterns of ancient civilizations.",
+      "answerChoices": [
+        { "distractor": "excavated", "closeness": 3, "reasoning": "Excavated means dug out; unearth specifically emphasizes bringing something from the earth, whereas excavate describes the general digging process." },
+        { "distractor": "exhumed", "closeness": 3, "reasoning": "Exhumed means dug up, especially a body; unearth has similar meaning but is broader and less specifically refers to human remains." },
+        { "distractor": "extracted", "closeness": 3, "reasoning": "Extracted means pulled out; unearth specifically emphasizes bringing something from within the earth, not just general removal." },
+        { "distractor": "mined", "closeness": 3, "reasoning": "Mined means extracted from rock or earth; unearth specifically refers to digging up something for discovery, not systematic extraction." },
+        { "distractor": "dug", "closeness": 2, "reasoning": "Dug is general digging; unearth specifically means digging up something with the purpose of bringing it to light." },
+        { "distractor": "discovered", "closeness": 2, "reasoning": "Discovered means found; unearth specifically emphasizes the effort of digging from the earth." },
+        { "distractor": "unearthed", "closeness": 2, "reasoning": "This is the correct word, so cannot serve as a distractor." },
+        { "distractor": "uncovered", "closeness": 2, "reasoning": "Uncovered means exposed; unearth specifically emphasizes bringing something from beneath the earth." },
+        { "distractor": "buried", "closeness": 1, "reasoning": "Buried means put in the earth and hidden, the opposite of unearth, which brings to light." },
+        { "distractor": "submerged", "closeness": 1, "reasoning": "Submerged means covered with water; unearth means to bring something from the earth to light." },
+        { "distractor": "hidden", "closeness": 1, "reasoning": "Hidden means concealed; unearth means to bring something from hiding or burial to light." }
+      ]
+    },
+    {
+      "sentence": "Investigative journalists unearthed evidence of corruption in the procurement process, leading to prosecutions of several municipal officials.",
+      "answerChoices": [
+        { "distractor": "uncovered", "closeness": 3, "reasoning": "Uncovered means revealed; unearth specifically suggests bringing hidden or deeply buried information to light through investigative effort." },
+        { "distractor": "exposed", "closeness": 3, "reasoning": "Exposed means laid bare; unearth specifically emphasizes the effort and investigative work of bringing hidden evidence to light." },
+        { "distractor": "discovered", "closeness": 3, "reasoning": "Discovered means found; unearth emphasizes the effort of bringing something that was hidden or buried to light." },
+        { "distractor": "revealed", "closeness": 3, "reasoning": "Revealed means made known; unearth specifically suggests something deeply hidden or buried that required effort to bring to light." },
+        { "distractor": "found", "closeness": 2, "reasoning": "Found is general; unearth specifically implies effort to bring something hidden or buried to light through investigation." },
+        { "distractor": "obtained", "closeness": 2, "reasoning": "Obtained means acquired; unearth specifically refers to bringing evidence from burial or hidden state to light." },
+        { "distractor": "located", "closeness": 2, "reasoning": "Located means found; unearth specifically emphasizes bringing something hidden or buried to light." },
+        { "distractor": "secured", "closeness": 2, "reasoning": "Secured means obtained; unearth specifically implies bringing something hidden to light through investigation." },
+        { "distractor": "buried", "closeness": 1, "reasoning": "Buried means hidden, the opposite of unearth, which brings something hidden to light." },
+        { "distractor": "concealed", "closeness": 1, "reasoning": "Concealed means hidden; unearth means to bring to light what has been concealed." },
+        { "distractor": "suppressed", "closeness": 1, "reasoning": "Suppressed means kept hidden or prevented; unearth means to bring hidden evidence to light." }
+      ]
+    }
+  ]
+}

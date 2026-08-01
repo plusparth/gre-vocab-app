@@ -1,0 +1,53 @@
+{
+  "word": "posit",
+  "sentenceSets": [
+    {
+      "sentence": "She posited a scenario in which all the assumptions held and then examined which conclusions followed, and which did not.",
+      "answerChoices": [
+        { "distractor": "assumed", "closeness": 3, "reasoning": "Close but incorrect -- 'assumed' means to take something for granted, which is similar to positing, but lacks the sense of deliberately setting forth a condition or scenario for examination." },
+        { "distractor": "hypothesized", "closeness": 3, "reasoning": "Close -- 'hypothesized' means to propose a tentative explanation, which is similar to positing, but emphasizes creating an explanatory theory rather than firmly setting a scenario as a basis for reasoning." },
+        { "distractor": "proposed", "closeness": 3, "reasoning": "Close -- 'proposed' means to put forward for consideration, which fits the scenario-setting, but is less formal and doesn't convey the sense of firmly establishing premises for logical examination." },
+        { "distractor": "suggested", "closeness": 3, "reasoning": "Close -- 'suggested' means to imply or propose informally, but lacks the sense of firmly establishing something as a fixed point for analysis." },
+        { "distractor": "supposed", "closeness": 2, "reasoning": "Incorrect -- 'supposed' means to believe or assume something, but doesn't carry the sense of deliberately setting forth a scenario for systematic reasoning." },
+        { "distractor": "imagined", "closeness": 2, "reasoning": "Incorrect -- 'imagined' means to form a mental picture, but emphasizes creative visualization rather than logical establishment of premises." },
+        { "distractor": "invented", "closeness": 2, "reasoning": "Incorrect -- 'invented' means to create something new, which could apply to scenarios, but suggests creative fabrication rather than methodical premise-setting." },
+        { "distractor": "anticipated", "closeness": 2, "reasoning": "Incorrect -- 'anticipated' means to expect or predict, but doesn't carry the sense of deliberately establishing a scenario as a basis for reasoning." },
+        { "distractor": "rejected", "closeness": 1, "reasoning": "Opposite -- 'rejected' means to refuse to accept or believe, opposite to firmly establishing something as a basis for examination." },
+        { "distractor": "abandoned", "closeness": 1, "reasoning": "Opposite -- 'abandoned' means to give up or leave behind, opposite to firmly establishing a scenario for systematic analysis." },
+        { "distractor": "contradicted", "closeness": 1, "reasoning": "Opposite -- 'contradicted' means to deny or assert the opposite, opposite to establishing something as a fixed premise for logical examination." }
+      ]
+    },
+    {
+      "sentence": "The biologist posited that the unusual coloration served as a defense mechanism, even though direct evidence was scarce.",
+      "answerChoices": [
+        { "distractor": "proved", "closeness": 3, "reasoning": "Close but incorrect -- 'proved' means to establish with certainty, but the sentence indicates the biologist lacks direct evidence, so she could not have proved; 'posited' allows for conjecturing despite limited evidence." },
+        { "distractor": "demonstrated", "closeness": 3, "reasoning": "Close -- 'demonstrated' means to show or exhibit clearly, but requires evidence, whereas the sentence emphasizes the absence of direct evidence." },
+        { "distractor": "claimed", "closeness": 3, "reasoning": "Close -- 'claimed' means to assert or state, which the biologist does, but lacks the formal, theoretical quality of 'posited' as an intellectual proposition." },
+        { "distractor": "established", "closeness": 3, "reasoning": "Close -- 'established' means to set up or confirm, but typically requires evidence or proof, whereas 'posited' works without such confirmation." },
+        { "distractor": "asserted", "closeness": 2, "reasoning": "Incorrect -- 'asserted' means to state or affirm positively, but is more declarative and less academic than the formal proposition implied by 'posited'." },
+        { "distractor": "testified", "closeness": 2, "reasoning": "Incorrect -- 'testified' means to give evidence or bear witness, but the sentence emphasizes the absence of evidence, not testimony." },
+        { "distractor": "declared", "closeness": 2, "reasoning": "Incorrect -- 'declared' means to announce formally, but suggests public proclamation rather than theoretical reasoning." },
+        { "distractor": "announced", "closeness": 2, "reasoning": "Incorrect -- 'announced' means to make known publicly, but lacks the sense of theoretical proposal that 'posited' conveys." },
+        { "distractor": "concealed", "closeness": 1, "reasoning": "Opposite -- 'concealed' means to hide or keep secret, opposite to putting forth a proposition or theory." },
+        { "distractor": "suppressed", "closeness": 1, "reasoning": "Opposite -- 'suppressed' means to prevent disclosure or expression, opposite to formally proposing or positing an idea." },
+        { "distractor": "retracted", "closeness": 1, "reasoning": "Opposite -- 'retracted' means to take back or withdraw, opposite to putting forth and maintaining a proposition." }
+      ]
+    },
+    {
+      "sentence": "In setting up the equation, the physicist posited that mass and energy were interchangeable, a radical assumption at the time.",
+      "answerChoices": [
+        { "distractor": "defined", "closeness": 3, "reasoning": "Close but incorrect -- 'defined' means to state the meaning or nature of something, but is more descriptive; 'posited' involves making an assumption as a basis for reasoning." },
+        { "distractor": "stipulated", "closeness": 3, "reasoning": "Close -- 'stipulated' means to specify a condition or requirement, which is similar to positing, but is more formal and contractual in tone." },
+        { "distractor": "designated", "closeness": 3, "reasoning": "Close -- 'designated' means to assign or appoint, but is less theoretical; 'posited' involves intellectual proposition." },
+        { "distractor": "granted", "closeness": 3, "reasoning": "Close -- 'granted' means to concede or allow for argument's sake, which is similar to positing an assumption, but is less formal or systematic." },
+        { "distractor": "acknowledged", "closeness": 2, "reasoning": "Incorrect -- 'acknowledged' means to admit or recognize, but doesn't carry the sense of making a foundational assumption for reasoning." },
+        { "distractor": "understood", "closeness": 2, "reasoning": "Incorrect -- 'understood' means to comprehend or interpret, which could relate to the equation, but doesn't convey the sense of deliberately assuming a radical principle." },
+        { "distractor": "accepted", "closeness": 2, "reasoning": "Incorrect -- 'accepted' means to agree to or believe, but is too passive compared to the active proposition of 'posited'." },
+        { "distractor": "recognized", "closeness": 2, "reasoning": "Incorrect -- 'recognized' means to identify or acknowledge as known, but doesn't convey the sense of making an untested theoretical assumption." },
+        { "distractor": "rejected", "closeness": 1, "reasoning": "Opposite -- 'rejected' means to refuse to believe or accept, opposite to establishing something as a basis for theoretical work." },
+        { "distractor": "negated", "closeness": 1, "reasoning": "Opposite -- 'negated' means to nullify or make ineffective, opposite to establishing an assumption as valid." },
+        { "distractor": "disproved", "closeness": 1, "reasoning": "Opposite -- 'disproved' means to prove false, opposite to making an assumption that the physicist built into the equation." }
+      ]
+    }
+  ]
+}

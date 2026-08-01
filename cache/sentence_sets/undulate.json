@@ -1,0 +1,53 @@
+{
+  "word": "undulate",
+  "sentenceSets": [
+    {
+      "sentence": "The wheat fields undulated in the summer breeze, creating waves of golden movement visible from miles away.",
+      "answerChoices": [
+        { "distractor": "shimmer", "closeness": 3, "reasoning": "Shimmer means to shine with a wavering light; undulate describes physical wave-like movement, whereas shimmer is more about visual light effects." },
+        { "distractor": "ripple", "closeness": 3, "reasoning": "Ripple describes surface waves radiating outward; undulate describes smooth, flowing wave-like movement that doesn't necessarily radiate from a center." },
+        { "distractor": "surge", "closeness": 3, "reasoning": "Surge means a sudden swelling movement; undulate describes smooth, continuous wave-like motion, whereas surge implies sudden intensity." },
+        { "distractor": "sway", "closeness": 3, "reasoning": "Sway means to move side to side; undulate specifically describes rhythmic wave-like movement in succession, not just side-to-side motion." },
+        { "distractor": "flap", "closeness": 2, "reasoning": "Flap means to move with beating motions; undulate describes smooth flowing waves, whereas flap implies repeated striking motions." },
+        { "distractor": "flutter", "closeness": 2, "reasoning": "Flutter means to move with quick, light motions; undulate describes smooth wave-like movement, whereas flutter is jerky and rapid." },
+        { "distractor": "quiver", "closeness": 2, "reasoning": "Quiver means to shake slightly; undulate describes flowing wave-like movement, whereas quiver suggests trembling." },
+        { "distractor": "wave", "closeness": 2, "reasoning": "Wave is general; undulate specifically describes continuous, smooth wave-like motion in a rhythmic pattern." },
+        { "distractor": "remain", "closeness": 1, "reasoning": "Remain means to stay still; undulate means to move in waves, the opposite." },
+        { "distractor": "stagnate", "closeness": 1, "reasoning": "Stagnate means to remain motionless; undulate means to move in flowing waves, the opposite." },
+        { "distractor": "freeze", "closeness": 1, "reasoning": "Freeze means to become motionless; undulate means to move in waves, the opposite." }
+      ]
+    },
+    {
+      "sentence": "The dancer's undulating movements, flowing from one pose to another, seemed to pour across the stage like water rather than discrete steps.",
+      "answerChoices": [
+        { "distractor": "fluent", "closeness": 3, "reasoning": "Fluent means smooth and flowing; undulating specifically describes wave-like continuous movement, whereas fluent is more general smoothness." },
+        { "distractor": "sinuous", "closeness": 3, "reasoning": "Sinuous means lithe and moving with curves; undulating specifically emphasizes wave-like motion in succession, whereas sinuous emphasizes curves." },
+        { "distractor": "graceful", "closeness": 3, "reasoning": "Graceful means elegant in movement; undulating specifically describes wave-like continuous motion, which can be graceful but isn't the defining characteristic." },
+        { "distractor": "fluid", "closeness": 3, "reasoning": "Fluid means flowing smoothly; undulating specifically describes wave-like motion, whereas fluid is more general smoothness." },
+        { "distractor": "flowing", "closeness": 2, "reasoning": "Flowing means moving in a continuous stream; undulating specifically describes wave-like succession of movement." },
+        { "distractor": "continuous", "closeness": 2, "reasoning": "Continuous means uninterrupted; undulating specifically describes wave-like rhythm, not just continuity." },
+        { "distractor": "rhythmic", "closeness": 2, "reasoning": "Rhythmic means following a pattern; undulating specifically describes wave-like motion with rhythm." },
+        { "distractor": "swaying", "closeness": 2, "reasoning": "Swaying means moving side to side; undulating specifically describes wave-like motion in succession." },
+        { "distractor": "rigid", "closeness": 1, "reasoning": "Rigid means stiff and unable to move smoothly; undulating describes flowing wave-like motion, the opposite." },
+        { "distractor": "stiff", "closeness": 1, "reasoning": "Stiff means inflexible; undulating describes smooth, flowing, wave-like movement, the opposite." },
+        { "distractor": "jerky", "closeness": 1, "reasoning": "Jerky means moving with sharp, sudden motions; undulating describes smooth, flowing wave-like movement, the opposite." }
+      ]
+    },
+    {
+      "sentence": "The coastline, with its undulated surface of peaks and valleys carved by erosion, created a dramatic silhouette against the sunset.",
+      "answerChoices": [
+        { "distractor": "jagged", "closeness": 3, "reasoning": "Jagged describes sharp, uneven edges; undulated specifically describes smooth, flowing wave-like contours, whereas jagged emphasizes sharpness." },
+        { "distractor": "irregular", "closeness": 3, "reasoning": "Irregular means not uniform; undulated specifically describes wave-like rhythm and pattern in surface contours, not just irregularity." },
+        { "distractor": "rugged", "closeness": 3, "reasoning": "Rugged means rocky and rough; undulated specifically describes smooth, flowing wave-like surface patterns, not rough terrain." },
+        { "distractor": "uneven", "closeness": 3, "reasoning": "Uneven means not level; undulated specifically describes flowing, wave-like surface patterns, whereas uneven is more general unevenness." },
+        { "distractor": "textured", "closeness": 2, "reasoning": "Textured describes having a surface quality; undulated specifically describes wave-like contours and patterns." },
+        { "distractor": "carved", "closeness": 2, "reasoning": "Carved means cut into; undulated describes the resulting wave-like surface patterns from erosion." },
+        { "distractor": "eroded", "closeness": 2, "reasoning": "Eroded means worn away; undulated describes the specific wave-like result of erosion on the coastline." },
+        { "distractor": "formed", "closeness": 2, "reasoning": "Formed means shaped; undulated specifically describes the wave-like shape formed by erosion." },
+        { "distractor": "smooth", "closeness": 1, "reasoning": "Smooth means even and flat; undulated describes wave-like, flowing surface patterns, not smooth uniformity." },
+        { "distractor": "flat", "closeness": 1, "reasoning": "Flat means level and even; undulated describes wave-like surface variation, the opposite of flatness." },
+        { "distractor": "uniform", "closeness": 1, "reasoning": "Uniform means even and consistent; undulated describes varying wave-like surface patterns, the opposite of uniformity." }
+      ]
+    }
+  ]
+}

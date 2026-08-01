@@ -1,0 +1,53 @@
+{
+  "word": "garner",
+  "sentenceSets": [
+    {
+      "sentence": "Over decades, she garnered a reputation for integrity that made her word more valuable than most written agreements.",
+      "answerChoices": [
+        { "distractor": "maintained", "closeness": 3, "reasoning": "Close -- 'maintained' means to preserve or keep something over time, which applies to keeping a reputation intact over decades, but it doesn't capture the sense of actively building or accumulating that 'garnered' implies." },
+        { "distractor": "cultivated", "closeness": 3, "reasoning": "Close -- 'cultivated' means to develop gradually, which fits building a reputation over time, but emphasizes deliberate nurturing of a quality rather than the accumulation that 'garnered' conveys." },
+        { "distractor": "earned", "closeness": 3, "reasoning": "Close -- 'earned' means to acquire through effort or merit, which fits gaining a reputation, but is more transactional than the patient accumulation over decades implied by 'garnered'." },
+        { "distractor": "developed", "closeness": 3, "reasoning": "Close -- 'developed' means to grow or evolve, which fits the gradual building of a reputation, but emphasizes organic growth rather than the deliberate collection or assembly implied by garnering." },
+        { "distractor": "acquired", "closeness": 2, "reasoning": "Incorrect -- 'acquired' means to obtain or gain possession, which could apply to reputation, but is too generic and doesn't convey the gradual accumulation over decades." },
+        { "distractor": "projected", "closeness": 2, "reasoning": "Incorrect -- 'projected' means to present or convey outward, which might result from a reputation but doesn't describe how that reputation is built." },
+        { "distractor": "demonstrated", "closeness": 2, "reasoning": "Incorrect -- 'demonstrated' means to show or prove, which she may have done to earn her reputation, but doesn't capture the accumulation over time." },
+        { "distractor": "exhibited", "closeness": 2, "reasoning": "Incorrect -- 'exhibited' means to display or show, which follows from having a reputation but doesn't describe the building process." },
+        { "distractor": "lost", "closeness": 1, "reasoning": "Opposite -- 'lost' means to misplace or cease to have, contrary to building a valuable reputation over decades." },
+        { "distractor": "squandered", "closeness": 1, "reasoning": "Opposite -- 'squandered' means to waste or disperse foolishly, the opposite of carefully building integrity." },
+        { "distractor": "destroyed", "closeness": 1, "reasoning": "Incorrect -- 'destroyed' means to ruin, contradicting the accumulation of value over time." }
+      ]
+    },
+    {
+      "sentence": "The artist's new exhibition garnered significant critical attention, elevating her standing in the art world.",
+      "answerChoices": [
+        { "distractor": "attracted", "closeness": 3, "reasoning": "Close -- 'attracted' means to draw toward, which fits the critics' focus on the exhibition, but emphasizes pulling attention rather than the accumulating recognition that 'garnered' implies." },
+        { "distractor": "received", "closeness": 3, "reasoning": "Close -- 'received' means to get or accept, which applies to critical attention, but is more passive than the active gathering conveyed by garnering." },
+        { "distractor": "prompted", "closeness": 3, "reasoning": "Close -- 'prompted' means to cause or elicit, which the exhibition did to critical response, but doesn't convey the sense of accumulating recognition over time." },
+        { "distractor": "generated", "closeness": 3, "reasoning": "Close -- 'generated' means to produce or create, which fits the exhibition generating attention, but emphasizes creation rather than the collection of that attention." },
+        { "distractor": "sought", "closeness": 2, "reasoning": "Incorrect -- 'sought' means to search for or pursue, which would imply the artist went looking for attention rather than accumulating it through her work." },
+        { "distractor": "deserved", "closeness": 2, "reasoning": "Incorrect -- 'deserved' means to merit or earn fairly, which may apply but doesn't convey the active accumulation of critical recognition." },
+        { "distractor": "commanded", "closeness": 2, "reasoning": "Incorrect -- 'commanded' means to control or demand respect, which too strong and autocratic compared to the gathering of critical attention." },
+        { "distractor": "required", "closeness": 2, "reasoning": "Incorrect -- 'required' means to need or demand, which doesn't fit the context of the exhibition producing critical response." },
+        { "distractor": "repelled", "closeness": 1, "reasoning": "Opposite -- 'repelled' means to drive away, contrary to the critical attention and elevated standing the exhibition achieved." },
+        { "distractor": "discouraged", "closeness": 1, "reasoning": "Opposite -- 'discouraged' means to dissuade or make less confident, the opposite of elevating standing in the art world." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Incorrect -- 'ignored' means to disregard or pay no attention to, the opposite of significant critical attention." }
+      ]
+    },
+    {
+      "sentence": "The nonprofit's volunteers garnered donations from hundreds of local businesses, exceeding their annual fundraising goal by forty percent.",
+      "answerChoices": [
+        { "distractor": "collected", "closeness": 3, "reasoning": "Close -- 'collected' means to gather together, which accurately describes obtaining donations, but emphasizes physical assembly rather than the broader accumulation of support from diverse sources." },
+        { "distractor": "solicited", "closeness": 3, "reasoning": "Close -- 'solicited' means to request or seek, which describes the act of asking for donations, but focuses on the petition process rather than the gathering of the donations themselves." },
+        { "distractor": "secured", "closeness": 3, "reasoning": "Close -- 'secured' means to obtain or make certain, which fits acquiring donations, but emphasizes certainty and protection rather than the accumulation process." },
+        { "distractor": "accumulated", "closeness": 3, "reasoning": "Close -- 'accumulated' means to gather gradually, which fits the fundraising process, but is more generic than 'garnered,' which emphasizes both collection and the effort involved." },
+        { "distractor": "requested", "closeness": 2, "reasoning": "Incorrect -- 'requested' means to ask for, which describes the volunteers' actions but not the receiving of donations." },
+        { "distractor": "pledged", "closeness": 2, "reasoning": "Incorrect -- 'pledged' means to promise or commit to give, which describes what donors did but not what the volunteers did to obtain the funds." },
+        { "distractor": "demanded", "closeness": 2, "reasoning": "Incorrect -- 'demanded' means to insist upon or require, which is too aggressive and doesn't fit the volunteer fundraising context." },
+        { "distractor": "invested", "closeness": 2, "reasoning": "Incorrect -- 'invested' means to put resources into, which the donors did, but it doesn't describe the volunteers' role in obtaining the donations." },
+        { "distractor": "depleted", "closeness": 1, "reasoning": "Opposite -- 'depleted' means to use up or exhaust, contrary to accumulating donations and exceeding a goal." },
+        { "distractor": "scattered", "closeness": 1, "reasoning": "Opposite -- 'scattered' means to disperse or distribute, the opposite of gathering donations together." },
+        { "distractor": "wasted", "closeness": 1, "reasoning": "Incorrect -- 'wasted' means to squander or use inefficiently, contrary to the successful fundraising described." }
+      ]
+    }
+  ]
+}

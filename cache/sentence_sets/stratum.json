@@ -1,0 +1,53 @@
+{
+  "word": "stratum",
+  "sentenceSets": [
+    {
+      "sentence": "Each stratum of the organization experienced the change differently, and the distance between the layers meant that these differences were not apparent to those at the top.",
+      "answerChoices": [
+        { "distractor": "level", "closeness": 3, "reasoning": "A level is a position in a hierarchy, but the sentence emphasizes the distinct separation and distance between the strata, suggesting discrete bounded layers rather than merely positions on a continuum." },
+        { "distractor": "tier", "closeness": 3, "reasoning": "A tier is a row or rank in a hierarchy, but the sentence suggests layers isolated from one another by distance, not simply ranked tiers." },
+        { "distractor": "division", "closeness": 3, "reasoning": "A division is a separated part, but stratum emphasizes natural or structured layered formation with internal consistency, whereas division suggests arbitrary partition." },
+        { "distractor": "section", "closeness": 3, "reasoning": "A section is a distinct part of something, but the sentence emphasizes that each layer experienced the change differently and was distant from others, suggesting more structured layering than section implies." },
+        { "distractor": "group", "closeness": 2, "reasoning": "A group is an assemblage of people, but the sentence stresses organizational distance and distinct layers with different experiences, suggesting more formal structural separation than group implies." },
+        { "distractor": "class", "closeness": 2, "reasoning": "A class is a category or rank, but the sentence emphasizes the distance and separation between layers that prevented information flow, not merely categorical distinction." },
+        { "distractor": "rank", "closeness": 2, "reasoning": "A rank is a position in a series, but the sentence stresses that different strata experienced the change differently and were isolated, suggesting layers with internal dynamics rather than positional ranking." },
+        { "distractor": "department", "closeness": 2, "reasoning": "A department is a subdivision with a specific function, but the sentence emphasizes layered separation and differing experiences across the organization's structure, not functional division." },
+        { "distractor": "surface", "closeness": 1, "reasoning": "A surface is an outer boundary; the sentence describes multiple layers within the organization, not merely its outer appearance." },
+        { "distractor": "void", "closeness": 1, "reasoning": "A void is an empty space or absence; the sentence describes the organizational structure filled with layers that experienced changes, not empty space." },
+        { "distractor": "foundation", "closeness": 1, "reasoning": "A foundation is a base; while the lowest stratum might serve as a base, the sentence emphasizes all distinct layers experienced change, not just the foundation." }
+      ]
+    },
+    {
+      "sentence": "Archaeologists carefully excavated each stratum of soil to identify pottery shards and bone fragments from successive periods of habitation.",
+      "answerChoices": [
+        { "distractor": "layer", "closeness": 3, "reasoning": "A layer is a thickness of material covering a surface, and while soil comes in layers, stratum emphasizes the distinct archaeological strata representing different time periods, whereas layer is more generic." },
+        { "distractor": "bed", "closeness": 3, "reasoning": "A bed can refer to a layer of sediment or rock, but the sentence focuses on the distinct strata separated by time and containing artifacts from successive periods, not merely geological beds." },
+        { "distractor": "deposit", "closeness": 3, "reasoning": "A deposit is material left or accumulated, but the sentence shows careful excavation and dating by stratum, suggesting organized time-sequential layers rather than accumulated deposits." },
+        { "distractor": "seam", "closeness": 3, "reasoning": "A seam is a line where two things join or a thin layer, but the sentence emphasizes distinct strata with separable content from different periods, not thin lines of junction." },
+        { "distractor": "horizon", "closeness": 2, "reasoning": "A horizon in archaeology refers to a level, but the sentence emphasizes successive periods of habitation within strata, suggesting time-bounded layers more than an undated horizon." },
+        { "distractor": "zone", "closeness": 2, "reasoning": "A zone is an area or region with specific characteristics, but the sentence shows strata defined by their archaeological content and time period, not merely geographic zones." },
+        { "distractor": "section", "closeness": 2, "reasoning": "A section is a distinct part, but the sentence emphasizes the layered temporal sequence and the specific artifacts within each stratum, not merely sectioning the site." },
+        { "distractor": "level", "closeness": 2, "reasoning": "A level refers to a height or tier, but the sentence emphasizes successive periods preserved in distinct strata, not merely vertical positioning." },
+        { "distractor": "pinnacle", "closeness": 1, "reasoning": "A pinnacle is a peak or highest point; the sentence describes excavation through multiple strata downward, not ascending to heights." },
+        { "distractor": "crust", "closeness": 1, "reasoning": "A crust is a hard outer layer; while the topmost stratum might resemble a crust, the sentence describes multiple successive strata with artifacts from different periods." },
+        { "distractor": "surface", "closeness": 1, "reasoning": "A surface is an outer boundary; the sentence describes excavation into multiple strata below and within the site, not the surface." }
+      ]
+    },
+    {
+      "sentence": "The upper stratum of society enjoyed privileges that the lower strata could never access, creating vast inequality.",
+      "answerChoices": [
+        { "distractor": "echelon", "closeness": 3, "reasoning": "An echelon is a level of command or hierarchy, and while it suggests rank separation, it doesn't convey the layered structure with distinct privileges that the sentence emphasizes." },
+        { "distractor": "class", "closeness": 3, "reasoning": "A class is a social category, and while closely related, the sentence shows a layered structure suggesting multiple strata above and below, not merely two classes." },
+        { "distractor": "tier", "closeness": 3, "reasoning": "A tier is a rank or level in a hierarchy, but the sentence emphasizes access to privileges and structural inequality across layers, suggesting more than positional ranking." },
+        { "distractor": "caste", "closeness": 3, "reasoning": "A caste is a rigid social class, and while it suggests hierarchy and separation, the sentence shows access-based distinction, which stratum (layered structure) captures more precisely." },
+        { "distractor": "rank", "closeness": 2, "reasoning": "A rank is a position in a hierarchy, but the sentence emphasizes the structural layers of society with distinct privileges, not merely positional ranking." },
+        { "distractor": "order", "closeness": 2, "reasoning": "An order is a rank or position, but the sentence stresses the layered privilege gap between strata, not merely ranking." },
+        { "distractor": "grade", "closeness": 2, "reasoning": "A grade is a rank or level, but the sentence emphasizes society as structured in layers with access inequality, not merely grades of distinction." },
+        { "distractor": "level", "closeness": 2, "reasoning": "A level is a position on a scale or hierarchy, but the sentence emphasizes distinct strata with bounded access and privileges, suggesting more formal layering." },
+        { "distractor": "pinnacle", "closeness": 1, "reasoning": "A pinnacle is a peak or highest point (singular); the sentence describes multiple strata and layers, not a single pinnacle." },
+        { "distractor": "foundation", "closeness": 1, "reasoning": "A foundation is a base; while the lower strata form a base, the sentence emphasizes multiple layers with access inequality, not merely a foundation." },
+        { "distractor": "ceiling", "closeness": 1, "reasoning": "A ceiling is an upper limit or boundary; the sentence describes the structure of society in multiple layers, not an upper limit." }
+      ]
+    }
+  ]
+}

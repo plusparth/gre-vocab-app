@@ -1,0 +1,53 @@
+{
+  "word": "authoritarian",
+  "sentenceSets": [
+    {
+      "sentence": "The regime's authoritarian tendencies became clear when it began imprisoning journalists.",
+      "answerChoices": [
+        { "distractor": "autocratic", "closeness": 3, "reasoning": "Both describe absolute personal rule with no checks, but 'autocratic' emphasizes rule by one person, whereas 'authoritarian' emphasizes submission to authority." },
+        { "distractor": "tyrannical", "closeness": 3, "reasoning": "The regime is tyrannical and oppressive, but 'tyrannical' emphasizes cruelty, whereas 'authoritarian' emphasizes demand for submission to authority." },
+        { "distractor": "dictatorial", "closeness": 3, "reasoning": "The regime is dictatorial with absolute power, but 'dictatorial' emphasizes commanding authority, not specifically authoritarian submission." },
+        { "distractor": "oppressive", "closeness": 3, "reasoning": "The regime oppresses its citizens through imprisonment, but 'oppressive' emphasizes the burden of control, not authoritarian ideology." },
+        { "distractor": "totalitarian", "closeness": 2, "reasoning": "The regime may be totalitarian controlling all aspects of life, but 'totalitarian' emphasizes comprehensive control, not just demand for submission." },
+        { "distractor": "suppressive", "closeness": 2, "reasoning": "The regime suppresses dissent through imprisonment, but 'suppressive' describes the action, not the ideology of authoritarianism." },
+        { "distractor": "repressive", "closeness": 2, "reasoning": "The regime is repressive toward journalists, but 'repressive' emphasizes the mechanism, not authoritarian ideology." },
+        { "distractor": "coercive", "closeness": 2, "reasoning": "The regime uses coercion through imprisonment, but 'coercive' describes the method, not authoritarian ideology." },
+        { "distractor": "democratic", "closeness": 1, "reasoning": "The opposite system; democracies reject authoritarian submission to unaccountable authority." },
+        { "distractor": "libertarian", "closeness": 1, "reasoning": "The opposite philosophy; libertarianism opposes authoritarian control and submission to state authority." },
+        { "distractor": "permissive", "closeness": 1, "reasoning": "The opposite approach; authoritarian demands submission, whereas permissive allows freedom." }
+      ]
+    },
+    {
+      "sentence": "The authoritarian parent demanded absolute obedience from children, allowing no discussion or questioning of rules.",
+      "answerChoices": [
+        { "distractor": "strict", "closeness": 3, "reasoning": "The parent is strict with rules, but 'strict' emphasizes enforcement of standards, not specifically demanding blind submission." },
+        { "distractor": "controlling", "closeness": 3, "reasoning": "The parent controls children's behavior, but 'controlling' describes exercising control, not specifically authoritarian ideology." },
+        { "distractor": "autocratic", "closeness": 3, "reasoning": "The parent rules absolutely, but 'autocratic' emphasizes sole decision-making, not specifically demanding submission to authority." },
+        { "distractor": "domineering", "closeness": 3, "reasoning": "The parent dominates through authority, but 'domineering' emphasizes overbearing behavior, not specifically authoritarian ideology." },
+        { "distractor": "rigid", "closeness": 2, "reasoning": "The rules are rigid with no flexibility, but 'rigid' describes inflexibility, not authoritarian demand for submission." },
+        { "distractor": "tyrannical", "closeness": 2, "reasoning": "The parenting is tyrannical and cruel, but 'tyrannical' emphasizes harshness, not authoritarian ideology." },
+        { "distractor": "demanding", "closeness": 2, "reasoning": "The parent is demanding of obedience, but 'demanding' describes expectation, not specifically authoritarian ideology." },
+        { "distractor": "severe", "closeness": 2, "reasoning": "The discipline is severe, but 'severe' emphasizes harshness, not authoritarian ideology of demanding submission." },
+        { "distractor": "permissive", "closeness": 1, "reasoning": "The opposite parenting style; authoritarian demands obedience, whereas permissive allows freedom and discussion." },
+        { "distractor": "democratic", "closeness": 1, "reasoning": "The opposite approach; democratic parenting involves discussion and shared decision-making, not blind submission." },
+        { "distractor": "lenient", "closeness": 1, "reasoning": "The opposite style; authoritarian is strict and demanding, whereas lenient is forgiving and flexible." }
+      ]
+    },
+    {
+      "sentence": "The authoritarian boss brooked no dissent and expected subordinates to implement orders without question or delay.",
+      "answerChoices": [
+        { "distractor": "autocratic", "closeness": 3, "reasoning": "The boss rules absolutely, but 'autocratic' emphasizes sole decision-making, not specifically demanding submission to authority." },
+        { "distractor": "commanding", "closeness": 3, "reasoning": "The boss commands with force, but 'commanding' emphasizes projecting authority, not demanding blind submission." },
+        { "distractor": "domineering", "closeness": 3, "reasoning": "The boss dominates subordinates, but 'domineering' emphasizes overbearing behavior, not authoritarian ideology." },
+        { "distractor": "strict", "closeness": 3, "reasoning": "The boss is strict with expectations, but 'strict' emphasizes enforcement of standards, not authoritarian demand for blind submission." },
+        { "distractor": "harsh", "closeness": 2, "reasoning": "The boss is harsh in management, but 'harsh' describes severity, not specifically authoritarian ideology." },
+        { "distractor": "imperious", "closeness": 2, "reasoning": "The boss is imperious and commanding, but this emphasizes arrogance, not authoritarian ideology." },
+        { "distractor": "tyrannical", "closeness": 2, "reasoning": "The boss is tyrannical, but this emphasizes cruelty, not specifically authoritarian ideology." },
+        { "distractor": "demanding", "closeness": 2, "reasoning": "The boss is demanding of obedience, but this describes expectations, not specifically authoritarian ideology." },
+        { "distractor": "democratic", "closeness": 1, "reasoning": "The opposite style; democratic leadership involves consultation and shared decision-making, not authoritarian submission." },
+        { "distractor": "collaborative", "closeness": 1, "reasoning": "The opposite approach; collaborative leadership involves discussion, whereas authoritarian demands unquestioning obedience." },
+        { "distractor": "permissive", "closeness": 1, "reasoning": "The opposite style; authoritarian demands submission, whereas permissive allows freedom and initiative." }
+      ]
+    }
+  ]
+}

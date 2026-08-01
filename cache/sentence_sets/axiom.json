@@ -1,0 +1,53 @@
+{
+  "word": "axiom",
+  "sentenceSets": [
+    {
+      "sentence": "The negotiator operated on the axiom that every party to a dispute has something it cannot concede.",
+      "answerChoices": [
+        { "distractor": "principle", "closeness": 3, "reasoning": "The negotiator follows a principle or rule, but 'principle' is a general standard, not specifically an axiom accepted as self-evident truth." },
+        { "distractor": "assumption", "closeness": 3, "reasoning": "The negotiator assumes every party has limits, but 'assumption' can be questioned, whereas 'axiom' is accepted as a fundamental truth." },
+        { "distractor": "belief", "closeness": 3, "reasoning": "The negotiator believes all parties have limits, but 'belief' is personal conviction, not an axiom accepted as fundamental." },
+        { "distractor": "premise", "closeness": 3, "reasoning": "The negotiator works from a premise, but this describes a starting point, not necessarily an axiom." },
+        { "distractor": "rule", "closeness": 2, "reasoning": "The negotiator follows a rule, but 'rule' emphasizes instruction to follow, not a self-evident truth." },
+        { "distractor": "maxim", "closeness": 2, "reasoning": "The negotiator follows a maxim about concessions, but 'maxim' is a saying or principle, not necessarily an axiom." },
+        { "distractor": "theory", "closeness": 2, "reasoning": "The negotiator has a theory about negotiation, but 'theory' requires proof, whereas 'axiom' is accepted without proof." },
+        { "distractor": "guideline", "closeness": 2, "reasoning": "The negotiator follows a guideline, but 'guideline' emphasizes instruction, not a self-evident axiom." },
+        { "distractor": "exception", "closeness": 1, "reasoning": "The opposite concept; an axiom is a fundamental truth, not an exception or deviation from the rule." },
+        { "distractor": "contradiction", "closeness": 1, "reasoning": "The opposite; an axiom is a fundamental accepted truth, contradicting the idea of conflicting statements." },
+        { "distractor": "fallacy", "closeness": 1, "reasoning": "The opposite quality; an axiom is a fundamental truth, whereas a fallacy is a false or invalid argument." }
+      ]
+    },
+    {
+      "sentence": "In geometry, the axiom that a straight line is the shortest path between two points forms the basis for distance calculations.",
+      "answerChoices": [
+        { "distractor": "theorem", "closeness": 3, "reasoning": "A theorem is a mathematical statement proven from axioms, but 'theorem' requires proof, whereas 'axiom' is accepted without proof." },
+        { "distractor": "postulate", "closeness": 3, "reasoning": "A postulate is an axiom or assumed truth in geometry, very close to 'axiom,' but 'postulate' emphasizes the assumed starting point." },
+        { "distractor": "principle", "closeness": 3, "reasoning": "The principle guides calculations, but 'principle' is a general standard, not specifically an axiom." },
+        { "distractor": "assumption", "closeness": 3, "reasoning": "The statement assumes something, but 'assumption' might be questioned, whereas 'axiom' is accepted without question." },
+        { "distractor": "rule", "closeness": 2, "reasoning": "The rule governs calculations, but 'rule' emphasizes instruction, not a self-evident axiomatic truth." },
+        { "distractor": "law", "closeness": 2, "reasoning": "The law describes geometric relationships, but 'law' can be empirical, whereas 'axiom' is accepted as fundamental." },
+        { "distractor": "concept", "closeness": 2, "reasoning": "The concept describes straight lines, but this is too general, not the specific axiomatic status." },
+        { "distractor": "definition", "closeness": 2, "reasoning": "This defines what a straight line is, but 'definition' describes meaning, not a fundamental truth." },
+        { "distractor": "conjecture", "closeness": 1, "reasoning": "The opposite status; an axiom is an accepted fundamental truth, not an unproven conjecture." },
+        { "distractor": "fallacy", "closeness": 1, "reasoning": "The opposite quality; an axiom is a fundamental truth, not a false argument." },
+        { "distractor": "paradox", "closeness": 1, "reasoning": "The opposite; an axiom is a consistent fundamental truth, not a self-contradicting paradox." }
+      ]
+    },
+    {
+      "sentence": "The reform movement was built on the axiom that every person deserves equal opportunity regardless of background.",
+      "answerChoices": [
+        { "distractor": "belief", "closeness": 3, "reasoning": "The movement is built on a belief in equality, but 'belief' is personal conviction, whereas 'axiom' is accepted as fundamental." },
+        { "distractor": "principle", "closeness": 3, "reasoning": "The movement follows a principle of equality, but 'principle' is a standard to live by, not necessarily an axiom." },
+        { "distractor": "ideal", "closeness": 3, "reasoning": "The movement pursues an ideal of equality, but 'ideal' is something to strive for, not an axiom accepted as fundamental." },
+        { "distractor": "goal", "closeness": 3, "reasoning": "The movement has a goal of equal opportunity, but 'goal' is something to achieve, not an axiom." },
+        { "distractor": "assumption", "closeness": 2, "reasoning": "The movement assumes equality is right, but 'assumption' can be questioned, whereas 'axiom' is accepted without doubt." },
+        { "distractor": "conviction", "closeness": 2, "reasoning": "The movement holds strong convictions about equality, but 'conviction' is personal certainty, not an axiom." },
+        { "distractor": "value", "closeness": 2, "reasoning": "The movement values equality, but 'value' describes what is important, not an axiom." },
+        { "distractor": "mandate", "closeness": 2, "reasoning": "The movement has a mandate for change, but 'mandate' is authorization, not an axiom." },
+        { "distractor": "exception", "closeness": 1, "reasoning": "The opposite concept; an axiom is a fundamental universal truth, not an exception." },
+        { "distractor": "injustice", "closeness": 1, "reasoning": "The opposite; an axiom of equality stands against injustice." },
+        { "distractor": "discrimination", "closeness": 1, "reasoning": "The opposite; the axiom of equal opportunity opposes discrimination based on background." }
+      ]
+    }
+  ]
+}

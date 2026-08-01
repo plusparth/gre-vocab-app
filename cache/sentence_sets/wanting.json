@@ -1,0 +1,53 @@
+{
+  "word": "wanting",
+  "sentenceSets": [
+    {
+      "sentence": "The organization was found wanting not in resources or intention but in the execution capacity that both required.",
+      "answerChoices": [
+        { "distractor": "deficient", "closeness": 3, "reasoning": "'Deficient' means lacking something needed; the organization is deficient in execution capacity, but the sentence emphasizes the organization's overall absence of execution." },
+        { "distractor": "inadequate", "closeness": 3, "reasoning": "'Inadequate' means insufficient for a purpose; the execution capacity is inadequate, but the sentence emphasizes what is absent, not what is insufficient." },
+        { "distractor": "lacking", "closeness": 3, "reasoning": "'Lacking' means without something needed; the organization lacks execution capacity, essentially synonymous with 'wanting' in this context." },
+        { "distractor": "insufficient", "closeness": 3, "reasoning": "'Insufficient' means not enough; the capacity is insufficient, but the sentence emphasizes what is absent or not in evidence." },
+        { "distractor": "weak", "closeness": 2, "reasoning": "'Weak' describes low strength or capability; the execution capacity is weak, but the sentence emphasizes absence." },
+        { "distractor": "impaired", "closeness": 2, "reasoning": "'Impaired' means damaged or reduced; the execution capacity is impaired, but the sentence emphasizes what is absent." },
+        { "distractor": "limited", "closeness": 2, "reasoning": "'Limited' means restricted in scope or degree; the capacity is limited, but the sentence emphasizes total absence." },
+        { "distractor": "subpar", "closeness": 2, "reasoning": "'Subpar' means below standard; the execution is subpar, but the sentence emphasizes absence, not low quality." },
+        { "distractor": "abundant", "closeness": 1, "reasoning": "The organization is found wanting in execution capacity; 'abundant' means existing in large quantities, opposite to wanting or absent." },
+        { "distractor": "present", "closeness": 1, "reasoning": "The organization is found wanting, meaning execution capacity is absent; 'present' means in evidence, opposite to wanting." },
+        { "distractor": "sufficient", "closeness": 1, "reasoning": "The organization is found wanting in execution capacity; 'sufficient' means adequate for a purpose, opposite to absent." }
+      ]
+    },
+    {
+      "sentence": "Her resume was professionally formatted and her interview articulate, but motivation appeared to be wanting, evident in her vague responses about career goals.",
+      "answerChoices": [
+        { "distractor": "lacking", "closeness": 3, "reasoning": "'Lacking' means without something needed; motivation is lacking, essentially synonymous with 'wanting' in this context." },
+        { "distractor": "absent", "closeness": 3, "reasoning": "'Absent' means not present; motivation is absent, but the sentence emphasizes it is not in evidence, specifically 'wanting.'" },
+        { "distractor": "deficient", "closeness": 3, "reasoning": "'Deficient' means not sufficient; her motivation is deficient, but the sentence emphasizes what is not in evidence." },
+        { "distractor": "missing", "closeness": 3, "reasoning": "'Missing' means not present or found; her motivation is missing, but the sentence emphasizes it is not in evidence specifically." },
+        { "distractor": "inadequate", "closeness": 2, "reasoning": "'Inadequate' means insufficient; her motivation is inadequate, but the sentence emphasizes its absence in her responses." },
+        { "distractor": "weak", "closeness": 2, "reasoning": "'Weak' means low in strength; her motivation is weak, but the sentence emphasizes its absence." },
+        { "distractor": "unclear", "closeness": 2, "reasoning": "'Unclear' means not clearly expressed; her career goals are unclear, but the sentence emphasizes the absence of motivation." },
+        { "distractor": "insufficient", "closeness": 2, "reasoning": "'Insufficient' means not enough; her motivation is insufficient, but the sentence emphasizes what is not in evidence." },
+        { "distractor": "evident", "closeness": 1, "reasoning": "Motivation appeared to be wanting, not evident; 'evident' means clearly seen, opposite to wanting or absent." },
+        { "distractor": "clear", "closeness": 1, "reasoning": "Her motivation appeared wanting in her vague responses; 'clear' means clearly visible, opposite to absent." },
+        { "distractor": "apparent", "closeness": 1, "reasoning": "Her motivation is wanting and not in evidence; 'apparent' means clearly seen or obvious, opposite to wanting or absent." }
+      ]
+    },
+    {
+      "sentence": "The historical analysis was thorough in detail but wanted for broader theoretical framework, limiting its impact on the field.",
+      "answerChoices": [
+        { "distractor": "lacking", "closeness": 3, "reasoning": "'Lacking' means without something needed; the analysis lacks framework, essentially synonymous with 'wanting.'" },
+        { "distractor": "deficient", "closeness": 3, "reasoning": "'Deficient' means not sufficient; the analysis is deficient in framework, but the sentence emphasizes what is absent." },
+        { "distractor": "absent", "closeness": 3, "reasoning": "'Absent' means not present; the framework is absent, but the sentence emphasizes it is not in evidence, specifically 'wanting.'" },
+        { "distractor": "missing", "closeness": 3, "reasoning": "'Missing' means not present or found; the theoretical framework is missing, essentially synonymous with 'wanting.'" },
+        { "distractor": "weak", "closeness": 2, "reasoning": "'Weak' means low in strength; the framework is weak, but the sentence emphasizes its absence." },
+        { "distractor": "inadequate", "closeness": 2, "reasoning": "'Inadequate' means insufficient; the framework is inadequate, but the sentence emphasizes its absence." },
+        { "distractor": "shallow", "closeness": 2, "reasoning": "'Shallow' means lacking depth; the analysis might be shallow in theory, but the sentence emphasizes the absence of framework." },
+        { "distractor": "limited", "closeness": 2, "reasoning": "'Limited' means restricted; the framework is limited, but the sentence emphasizes its absence." },
+        { "distractor": "abundant", "closeness": 1, "reasoning": "The analysis is wanting for theoretical framework; 'abundant' means existing in large quantity, opposite to wanting or absent." },
+        { "distractor": "comprehensive", "closeness": 1, "reasoning": "The analysis wants for broader theoretical framework; 'comprehensive' means covering all aspects, opposite to absence." },
+        { "distractor": "present", "closeness": 1, "reasoning": "The analysis is wanting for theoretical framework; 'present' means in evidence, opposite to absent or wanting." }
+      ]
+    }
+  ]
+}

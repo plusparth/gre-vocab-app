@@ -1,0 +1,53 @@
+{
+  "word": "distill",
+  "sentenceSets": [
+    {
+      "sentence": "The editor's job was to distill a hundred pages of notes into a brief, coherent summary.",
+      "answerChoices": [
+        { "distractor": "condense", "closeness": 3, "reasoning": "The sentence describes reducing a large amount of material into something brief; 'condense' means to compress into a smaller space, which is very similar to distilling, but doesn't capture the sense of extracting essence or key ideas." },
+        { "distractor": "compress", "closeness": 3, "reasoning": "The sentence shows reducing notes from a hundred pages to a summary; 'compress' means to squeeze into less space, similar to distilling but focuses on making more compact rather than extracting the most important elements." },
+        { "distractor": "summarize", "closeness": 3, "reasoning": "The sentence describes creating a brief summary from extensive notes; 'summarize' means to give a brief statement of main points, which is nearly identical to distilling but emphasizes the covering of content rather than the extraction of essence." },
+        { "distractor": "reduce", "closeness": 3, "reasoning": "The sentence shows making a hundred pages into something brief; 'reduce' means to make smaller or fewer, which occurs when distilling but emphasizes size reduction rather than the careful extraction of key elements." },
+        { "distractor": "abbreviate", "closeness": 2, "reasoning": "The sentence describes making a large amount of notes into a brief summary; 'abbreviate' means to shorten by omitting parts, which is similar to distilling but emphasizes cutting out material rather than extracting essence." },
+        { "distractor": "truncate", "closeness": 2, "reasoning": "The sentence shows reducing extensive notes; 'truncate' means to cut short or shorten abruptly, which omits material rather than carefully extracting the essential elements as distilling implies." },
+        { "distractor": "streamline", "closeness": 2, "reasoning": "The sentence describes making a summary from many pages; 'streamline' means to make efficient or remove unnecessary parts, which simplifies but doesn't capture the sense of extracting or purifying core ideas." },
+        { "distractor": "simplify", "closeness": 2, "reasoning": "The sentence shows creating a brief summary from complex notes; 'simplify' means to make simpler or easier to understand, which occurs with distilling but focuses on clarity rather than the extraction of essence." },
+        { "distractor": "expand", "closeness": 1, "reasoning": "This means to make larger or more detailed, the opposite of reducing a hundred pages into something brief; the sentence shows condensing material." },
+        { "distractor": "elaborate", "closeness": 1, "reasoning": "This means to add more detail or explanation, the opposite of creating a brief summary; the sentence emphasizes creating something brief from extensive notes." },
+        { "distractor": "amplify", "closeness": 1, "reasoning": "This means to make larger or strengthen, the opposite of reducing material; the sentence shows reducing a hundred pages to a brief, coherent summary." }
+      ]
+    },
+    {
+      "sentence": "To purify the alcohol, the brewers distill it through a copper still, separating out the desired spirits from the fermented grain.",
+      "answerChoices": [
+        { "distractor": "purify", "closeness": 3, "reasoning": "The sentence describes using distillation to purify alcohol; 'purify' means to make pure or free from impurities, which is the goal of distilling but refers to the end result rather than the specific process shown." },
+        { "distractor": "separate", "closeness": 3, "reasoning": "The sentence shows distilling to separate desired spirits from grain; 'separate' means to divide into parts, which occurs during distillation but doesn't capture the aspect of extracting the most valuable component." },
+        { "distractor": "filter", "closeness": 3, "reasoning": "The sentence describes a process using a still to separate components; 'filter' means to strain through a medium, which can separate but is a different mechanism than distillation's use of heat and evaporation." },
+        { "distractor": "evaporate", "closeness": 3, "reasoning": "The sentence shows a process separating spirits from grain; 'evaporate' means to turn into vapor or disappear, which is part of distillation but refers to one step rather than the complete process of extracting and collecting." },
+        { "distractor": "clarify", "closeness": 2, "reasoning": "The sentence describes separating desired spirits through a still; 'clarify' means to make clear or pure, which may result from distillation but focuses on clarity rather than the extraction process." },
+        { "distractor": "remove", "closeness": 2, "reasoning": "The sentence shows separating components through distillation; 'remove' means to take away, which occurs but doesn't capture the specific process of heating and collecting vapors." },
+        { "distractor": "diffuse", "closeness": 2, "reasoning": "The sentence describes a process using heat in a still to separate components; 'diffuse' means to spread out gradually, which is opposite to the concentrated extraction shown." },
+        { "distractor": "isolate", "closeness": 2, "reasoning": "The sentence shows separating spirits from grain through distillation; 'isolate' means to separate or cut off from others, which occurs but doesn't capture the extractive process using heat." },
+        { "distractor": "contaminate", "closeness": 1, "reasoning": "This means to make impure or pollute, the opposite of the purification shown; the sentence emphasizes separating desired spirits to create a pure product." },
+        { "distractor": "dilute", "closeness": 1, "reasoning": "This means to make weaker by adding more liquid, the opposite of concentrating spirits as shown; the sentence emphasizes extracting desired spirits." },
+        { "distractor": "ferment", "closeness": 1, "reasoning": "This refers to chemical decomposition by microorganisms, a different process from distillation; the sentence shows using heat to separate and concentrate." }
+      ]
+    },
+    {
+      "sentence": "The poet worked for years to distill her complex emotions into just a few precise words that readers could understand.",
+      "answerChoices": [
+        { "distractor": "refine", "closeness": 3, "reasoning": "The sentence describes condensing complex feelings into precise words; 'refine' means to make more pure or improved through careful process, similar to distilling but emphasizes improvement rather than extraction of essence." },
+        { "distractor": "concentrate", "closeness": 3, "reasoning": "The sentence shows reducing complex emotions into a few precise words; 'concentrate' means to focus or make denser, which is similar to distilling but emphasizes intensity rather than the careful selection of essential elements." },
+        { "distractor": "express", "closeness": 3, "reasoning": "The sentence describes converting complex emotions into words that readers understand; 'express' means to communicate or convey, which is the result of distilling but focuses on the communication rather than the extraction process." },
+        { "distractor": "capture", "closeness": 3, "reasoning": "The sentence shows working to reduce complex emotions into precise words; 'capture' means to take hold of or record, similar to distilling but emphasizes containing rather than the distillation of essence." },
+        { "distractor": "distort", "closeness": 2, "reasoning": "The sentence describes converting emotions into precise understandable words; 'distort' means to twist or alter falsely, which would be wrong in a context of precise, clear expression." },
+        { "distractor": "interpret", "closeness": 2, "reasoning": "The sentence shows reducing emotions into precise words; 'interpret' means to explain the meaning of something, which is related but focuses on understanding rather than the extraction process." },
+        { "distractor": "translate", "closeness": 2, "reasoning": "The sentence describes working to convert complex emotions into words; 'translate' means to convert from one language or form to another, which occurs but doesn't capture the selective distillation of essence." },
+        { "distractor": "convey", "closeness": 2, "reasoning": "The sentence shows creating words that express complex emotions for readers; 'convey' means to communicate or transmit information, which is the result of distilling but doesn't capture the extraction of essential elements." },
+        { "distractor": "obscure", "closeness": 1, "reasoning": "This means to make unclear or hidden, the opposite of the precise words readers could understand; the sentence emphasizes clarity and comprehension." },
+        { "distractor": "complicate", "closeness": 1, "reasoning": "This means to make complex or difficult, the opposite of distilling complex emotions into simple precise words; the sentence shows simplification." },
+        { "distractor": "confuse", "closeness": 1, "reasoning": "This means to make unclear or mixed up, the opposite of creating precise words that readers understand; the sentence emphasizes clarity and comprehension." }
+      ]
+    }
+  ]
+}

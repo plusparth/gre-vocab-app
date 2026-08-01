@@ -1,0 +1,53 @@
+{
+  "word": "aversion",
+  "sentenceSets": [
+    {
+      "sentence": "His aversion to conflict made him a poor choice to lead the negotiations.",
+      "answerChoices": [
+        { "distractor": "fear", "closeness": 3, "reasoning": "He fears conflict, but 'fear' emphasizes emotional anxiety, whereas 'aversion' emphasizes desire to avoid or turn away." },
+        { "distractor": "dislike", "closeness": 3, "reasoning": "He dislikes conflict, but 'dislike' is mild preference against, whereas 'aversion' implies strong repugnance." },
+        { "distractor": "reluctance", "closeness": 3, "reasoning": "He is reluctant to face conflict, but 'reluctance' emphasizes unwillingness, not the active aversion or desire to avoid." },
+        { "distractor": "anxiety", "closeness": 3, "reasoning": "He has anxiety about conflict, but 'anxiety' describes the emotional state, not the aversion or desire to turn away." },
+        { "distractor": "hesitation", "closeness": 2, "reasoning": "He hesitates in conflict situations, but 'hesitation' emphasizes pausing, not the aversion driving the choice." },
+        { "distractor": "avoidance", "closeness": 2, "reasoning": "He avoids conflict as a result of aversion, but 'avoidance' is the behavior, not the feeling of repugnance." },
+        { "distractor": "resistance", "closeness": 2, "reasoning": "He resists engaging in conflict, but 'resistance' emphasizes opposing force, not aversion's desire to turn away." },
+        { "distractor": "discomfort", "closeness": 2, "reasoning": "He feels discomfort in conflict, but this describes the sensation, not the aversion or desire to avoid." },
+        { "distractor": "desire", "closeness": 1, "reasoning": "The opposite impulse; aversion means desire to avoid, not desire to engage." },
+        { "distractor": "attraction", "closeness": 1, "reasoning": "The opposite feeling; aversion is repugnance and desire to avoid, not attraction." },
+        { "distractor": "comfort", "closeness": 1, "reasoning": "The opposite state; aversion causes discomfort and desire to turn away." }
+      ]
+    },
+    {
+      "sentence": "The chef's aversion to artificial ingredients meant she sourced everything from local farmers, even when it cost more.",
+      "answerChoices": [
+        { "distractor": "preference", "closeness": 3, "reasoning": "She prefers natural ingredients, but 'preference' is mild liking, whereas 'aversion' implies strong repugnance and desire to avoid." },
+        { "distractor": "opposition", "closeness": 3, "reasoning": "She opposes artificial ingredients, but 'opposition' emphasizes active resistance, not aversion's desire to turn away." },
+        { "distractor": "objection", "closeness": 3, "reasoning": "She objects to artificial ingredients, but 'objection' emphasizes formal disagreement, not aversion's desire to avoid." },
+        { "distractor": "dislike", "closeness": 3, "reasoning": "She dislikes artificial ingredients, but 'dislike' is mild preference against, not aversion's strong repugnance." },
+        { "distractor": "concern", "closeness": 2, "reasoning": "She is concerned about artificial ingredients, but 'concern' describes worry, not aversion's desire to avoid." },
+        { "distractor": "skepticism", "closeness": 2, "reasoning": "She is skeptical about artificial ingredients, but 'skepticism' emphasizes doubt, not aversion." },
+        { "distractor": "reluctance", "closeness": 2, "reasoning": "She is reluctant to use artificial ingredients, but 'reluctance' emphasizes unwillingness, not aversion's desire to turn away." },
+        { "distractor": "caution", "closeness": 2, "reasoning": "She is cautious about artificial ingredients, but 'caution' emphasizes careful approach, not aversion." },
+        { "distractor": "attraction", "closeness": 1, "reasoning": "The opposite feeling; she has aversion to artificial ingredients, not attraction." },
+        { "distractor": "embrace", "closeness": 1, "reasoning": "The opposite action; aversion means turning away from, not embracing." },
+        { "distractor": "indifference", "closeness": 1, "reasoning": "The opposite attitude; aversion is strong desire to avoid, not indifference." }
+      ]
+    },
+    {
+      "sentence": "Her aversion to public speaking was so intense that she declined every invitation to present her research at conferences.",
+      "answerChoices": [
+        { "distractor": "fear", "closeness": 3, "reasoning": "She fears public speaking, but 'fear' emphasizes anxiety, whereas 'aversion' emphasizes desire to avoid or turn away." },
+        { "distractor": "anxiety", "closeness": 3, "reasoning": "She has anxiety about speaking publicly, but this describes emotional state, not aversion's desire to avoid." },
+        { "distractor": "reluctance", "closeness": 3, "reasoning": "She is reluctant to speak publicly, but 'reluctance' emphasizes unwillingness, not aversion's intense repugnance." },
+        { "distractor": "shyness", "closeness": 3, "reasoning": "She is shy about public performance, but 'shyness' describes personality trait, not aversion to turning away from speaking." },
+        { "distractor": "apprehension", "closeness": 2, "reasoning": "She has apprehension about public speaking, but 'apprehension' describes fear or dread, not specifically aversion." },
+        { "distractor": "discomfort", "closeness": 2, "reasoning": "She feels discomfort in public speaking situations, but this describes sensation, not aversion." },
+        { "distractor": "hesitation", "closeness": 2, "reasoning": "She hesitates to speak publicly, but 'hesitation' describes pausing, not the aversion driving her refusals." },
+        { "distractor": "avoidance", "closeness": 2, "reasoning": "She avoids public speaking as a result of aversion, but 'avoidance' is the behavior, not the feeling." },
+        { "distractor": "enthusiasm", "closeness": 1, "reasoning": "The opposite feeling; aversion creates reluctance to decline, not enthusiasm to accept." },
+        { "distractor": "attraction", "closeness": 1, "reasoning": "The opposite impulse; she has aversion to public speaking, not attraction." },
+        { "distractor": "eagerness", "closeness": 1, "reasoning": "The opposite attitude; her aversion to speaking causes her to decline, not show eagerness." }
+      ]
+    }
+  ]
+}

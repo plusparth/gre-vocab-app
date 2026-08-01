@@ -1,0 +1,53 @@
+{
+  "word": "loquacious",
+  "sentenceSets": [
+    {
+      "sentence": "The most loquacious member of the panel was not the most informed, which became clear once the conversation slowed.",
+      "answerChoices": [
+        { "distractor": "verbose", "closeness": 3, "reasoning": "Close near-synonym -- 'verbose' means wordy, but emphasizes the style of expression; 'loquacious' emphasizes the compulsion or tendency to talk excessively." },
+        { "distractor": "talkative", "closeness": 3, "reasoning": "Close -- 'talkative' means prone to talking, which overlaps with loquacious, but lacks the connotation of fluency or eloquence." },
+        { "distractor": "garrulous", "closeness": 3, "reasoning": "Close -- 'garrulous' means excessively talkative, nearly synonymous with loquacious, but often carries a more negative tone of tiresome repetitiveness." },
+        { "distractor": "voluble", "closeness": 3, "reasoning": "Close -- 'voluble' means fluently and readily talkative, very close to loquacious, but emphasizes fluidity rather than the mere quantity of speech." },
+        { "distractor": "articulate", "closeness": 2, "reasoning": "Incorrect -- 'articulate' refers to clear, effective speech; the sentence contrasts the speaker's verbosity with lack of knowledge, suggesting speech quality is not the issue." },
+        { "distractor": "expansive", "closeness": 2, "reasoning": "Incorrect -- 'expansive' means broad or extensive in manner; while it might describe someone who talks much, it does not directly mean talkative." },
+        { "distractor": "gregarious", "closeness": 2, "reasoning": "Incorrect -- 'gregarious' means fond of being in crowds; it does not necessarily imply talkativeness." },
+        { "distractor": "bombastic", "closeness": 2, "reasoning": "Incorrect -- 'bombastic' means using inflated, grandiose language; while such speakers might talk much, the word emphasizes style over quantity." },
+        { "distractor": "taciturn", "closeness": 1, "reasoning": "Opposite -- 'taciturn' means inclined to silence or brevity; it is the opposite of loquacious." },
+        { "distractor": "reticent", "closeness": 1, "reasoning": "Opposite -- 'reticent' means reluctant to speak; it is contrary to loquacious." },
+        { "distractor": "reserved", "closeness": 1, "reasoning": "Opposite -- 'reserved' means controlled and not openly expressive; it is the opposite of the free-speaking loquacious person." }
+      ]
+    },
+    {
+      "sentence": "His loquacious nature made him a natural for public relations work, though some colleagues found his endless commentary wearing.",
+      "answerChoices": [
+        { "distractor": "verbose", "closeness": 3, "reasoning": "Near-synonym -- 'verbose' means wordy or using more words than necessary, which fits the context, but emphasizes stylistic excess rather than the natural tendency to talk much." },
+        { "distractor": "talkative", "closeness": 3, "reasoning": "Near-synonym -- 'talkative' means prone to talking, which fits the context well, but is less formal and less emphatic about eloquence or facility with words." },
+        { "distractor": "garrulous", "closeness": 3, "reasoning": "Near-synonym -- 'garrulous' means excessively talkative, nearly synonymous with 'loquacious', but often carries a more negative or tiresome connotation." },
+        { "distractor": "voluble", "closeness": 3, "reasoning": "Near-synonym -- 'voluble' means fluent and readily talkative, which fits, but emphasizes smooth delivery and ease rather than the sheer quantity of words." },
+        { "distractor": "articulate", "closeness": 2, "reasoning": "Related but incorrect -- 'articulate' means expressing ideas clearly and effectively, which is complementary but distinct from the tendency to talk excessively." },
+        { "distractor": "gregarious", "closeness": 2, "reasoning": "Related but incorrect -- 'gregarious' means enjoying the company of others; while such people may talk more, it does not mean excessively talkative." },
+        { "distractor": "charismatic", "closeness": 2, "reasoning": "Related but incorrect -- 'charismatic' means having personal magnetism; while charismatic people may talk openly, it is not the same as loquacious." },
+        { "distractor": "theatrical", "closeness": 2, "reasoning": "Related but incorrect -- 'theatrical' means dramatic or exaggerated in manner; while some loquacious speakers may be theatrical, the words do not mean the same thing." },
+        { "distractor": "taciturn", "closeness": 1, "reasoning": "Opposite -- 'taciturn' means inclined to silence or using few words; it is the opposite of loquacious." },
+        { "distractor": "reticent", "closeness": 1, "reasoning": "Opposite -- 'reticent' means reluctant to speak or share; it contrasts with the openness of loquacious." },
+        { "distractor": "reserved", "closeness": 1, "reasoning": "Opposite -- 'reserved' means controlled and not openly expressive; it is contrary to the freely talkative loquacious person." }
+      ]
+    },
+    {
+      "sentence": "The loquacious professor's lectures, though popular with students, left little room for questions or classroom discussion.",
+      "answerChoices": [
+        { "distractor": "chatty", "closeness": 3, "reasoning": "Near-synonym -- 'chatty' means inclined to chat informally, which fits the context, but it is more casual and friendly in tone, whereas 'loquacious' suggests a more dominant or overwhelming presence." },
+        { "distractor": "windy", "closeness": 3, "reasoning": "Near-synonym -- 'windy' means verbose or full of empty talk; it overlaps significantly but carries a stronger negative connotation of meaningless or tedious verbosity." },
+        { "distractor": "effusive", "closeness": 3, "reasoning": "Near-synonym -- 'effusive' means expressive in an unrestrained way; while it describes someone who talks freely, it emphasizes emotional exuberance rather than the quantity of speech." },
+        { "distractor": "fluent", "closeness": 3, "reasoning": "Near-synonym -- 'fluent' means flowing smoothly or speaking readily; it often accompanies loquaciousness, but emphasizes ease and skill rather than the tendency to talk excessively." },
+        { "distractor": "articulate", "closeness": 2, "reasoning": "Related but incorrect -- 'articulate' means expressing oneself clearly and effectively; while a professor might be articulate, this describes quality rather than excessive quantity of speech." },
+        { "distractor": "didactic", "closeness": 2, "reasoning": "Related but incorrect -- 'didactic' means intended to teach or instruct; while it describes the professor's purpose, it does not mean talkative or verbose." },
+        { "distractor": "authoritative", "closeness": 2, "reasoning": "Related but incorrect -- 'authoritative' means commanding respect through expertise; while it might describe someone who talks dominantly, it emphasizes credibility rather than talkativeness." },
+        { "distractor": "pedantic", "closeness": 2, "reasoning": "Related but incorrect -- 'pedantic' means overly concerned with details or formal rules; while it might describe a talkative professor, it emphasizes manner rather than the quantity of speech." },
+        { "distractor": "taciturn", "closeness": 1, "reasoning": "Opposite -- 'taciturn' means reserved and using few words; it is the direct opposite of loquacious." },
+        { "distractor": "terse", "closeness": 1, "reasoning": "Opposite -- 'terse' means using few words or expressed briefly; clearly wrong in a sentence about someone who dominates discussion." },
+        { "distractor": "succinct", "closeness": 1, "reasoning": "Opposite -- 'succinct' means brief and clear in expression; it contrasts with the expansive talkativeness of loquacious." }
+      ]
+    }
+  ]
+}

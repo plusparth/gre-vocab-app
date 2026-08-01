@@ -1,0 +1,53 @@
+{
+  "word": "subjective",
+  "sentenceSets": [
+    {
+      "sentence": "The film critic's review was highly subjective, praising certain experimental techniques that other viewers found unwatchable.",
+      "answerChoices": [
+        { "distractor": "personal", "closeness": 3, "reasoning": "Personal means relating to an individual; the sentence shows a review based on individual taste, which is personal, but subjective specifically emphasizes dependence on individual perception rather than objective fact." },
+        { "distractor": "biased", "closeness": 3, "reasoning": "Biased means prejudiced or favoring one side; the sentence shows a review praising techniques others disliked, which is biased, but subjective emphasizes individual interpretation, not necessary prejudice." },
+        { "distractor": "opinionated", "closeness": 3, "reasoning": "Opinionated means having strong opinions; the sentence shows a critic praising particular techniques, but subjective emphasizes reliance on individual perception rather than shared facts." },
+        { "distractor": "partisan", "closeness": 3, "reasoning": "Partisan means favoring a particular side; the sentence shows preferences in evaluation, but subjective emphasizes individual perception, not necessarily partisan support." },
+        { "distractor": "impressionistic", "closeness": 2, "reasoning": "Impressionistic means based on impressions rather than facts; the sentence shows a review praising certain techniques, but subjective is broader than impressionistic." },
+        { "distractor": "informal", "closeness": 2, "reasoning": "Informal means not official or formal; the sentence shows a critical review, but subjective emphasizes reliance on individual perception." },
+        { "distractor": "arbitrary", "closeness": 2, "reasoning": "Arbitrary means based on random choice; the sentence shows a subjective review, but subjective differs from arbitrary." },
+        { "distractor": "idiosyncratic", "closeness": 2, "reasoning": "Idiosyncratic means peculiar to an individual; the sentence shows a subjective review, but idiosyncratic emphasizes personal peculiarity." },
+        { "distractor": "objective", "closeness": 1, "reasoning": "Objective means based on facts not feelings; the sentence describes a highly subjective review praising specific techniques others disliked, the opposite of objective." },
+        { "distractor": "factual", "closeness": 1, "reasoning": "Factual means based on facts; the sentence shows a subjective review based on individual taste, the opposite of factual." },
+        { "distractor": "universal", "closeness": 1, "reasoning": "Universal means applying to all; the sentence shows a subjective review with opinions other viewers don't share, implying non-universal judgment." }
+      ]
+    },
+    {
+      "sentence": "Scientific research demands objective methodology because subjective interpretation of data can lead to faulty conclusions.",
+      "answerChoices": [
+        { "distractor": "personal", "closeness": 3, "reasoning": "Personal means relating to an individual; the sentence warns against subjective interpretation, but subjective specifically emphasizes interpretation based on individual perception rather than objective analysis." },
+        { "distractor": "individual", "closeness": 3, "reasoning": "Individual means relating to one person; the sentence warns against subjective interpretation, but subjective emphasizes interpretation based on personal perception." },
+        { "distractor": "emotional", "closeness": 3, "reasoning": "Emotional means based on emotion; the sentence warns against subjective interpretation that leads to faulty conclusions, but subjective is broader than emotional." },
+        { "distractor": "opinionated", "closeness": 3, "reasoning": "Opinionated means having strong opinions; the sentence warns against subjective interpretation, but subjective refers to reliance on perception, not necessarily opinions." },
+        { "distractor": "biased", "closeness": 2, "reasoning": "Biased means prejudiced; the sentence warns against subjective interpretation leading to errors, but subjective differs from necessarily being biased." },
+        { "distractor": "intuitive", "closeness": 2, "reasoning": "Intuitive means based on intuition; the sentence warns against subjective interpretation, but subjective is broader." },
+        { "distractor": "arbitrary", "closeness": 2, "reasoning": "Arbitrary means based on random choice; the sentence warns against subjective interpretation leading to faulty conclusions, but subjective differs from arbitrary." },
+        { "distractor": "impressionistic", "closeness": 2, "reasoning": "Impressionistic means based on impressions; the sentence warns against subjective interpretation, but subjective is broader." },
+        { "distractor": "objective", "closeness": 1, "reasoning": "Objective means based on facts; the sentence contrasts objective methodology with subjective interpretation that leads to errors, making objective opposite." },
+        { "distractor": "factual", "closeness": 1, "reasoning": "Factual means based on facts; the sentence warns against subjective interpretation, emphasizing it leads to errors, not facts." },
+        { "distractor": "impartial", "closeness": 1, "reasoning": "Impartial means not favoring sides; the sentence warns against subjective interpretation, the opposite of impartial." }
+      ]
+    },
+    {
+      "sentence": "Though the rules seemed objective, their enforcement was largely subjective, varying based on who was being disciplined.",
+      "answerChoices": [
+        { "distractor": "inconsistent", "closeness": 3, "reasoning": "Inconsistent means not regular or steady; the sentence shows enforcement varying based on who was disciplined, which is inconsistent, but subjective emphasizes reliance on individual perception in enforcement." },
+        { "distractor": "arbitrary", "closeness": 3, "reasoning": "Arbitrary means based on random choice; the sentence shows enforcement varying based on individual, but subjective emphasizes individual perception, not necessarily arbitrary." },
+        { "distractor": "personal", "closeness": 3, "reasoning": "Personal means relating to an individual; the sentence shows enforcement varying based on individual being disciplined, but subjective emphasizes reliance on individual perception." },
+        { "distractor": "discretionary", "closeness": 3, "reasoning": "Discretionary means left to individual judgment; the sentence shows enforcement varying based on individual, but subjective emphasizes perception-based variation." },
+        { "distractor": "capricious", "closeness": 2, "reasoning": "Capricious means unpredictably changeable; the sentence shows enforcement varying, but subjective emphasizes reliance on individual perception." },
+        { "distractor": "erratic", "closeness": 2, "reasoning": "Erratic means inconsistent; the sentence shows enforcement varying, but subjective emphasizes perception-based variation." },
+        { "distractor": "uneven", "closeness": 2, "reasoning": "Uneven means not uniform; the sentence shows enforcement varying, but subjective emphasizes individual perception." },
+        { "distractor": "biased", "closeness": 2, "reasoning": "Biased means prejudiced; the sentence shows enforcement varying based on individual, but subjective emphasizes perception, not necessarily bias." },
+        { "distractor": "objective", "closeness": 1, "reasoning": "Objective means based on facts; the sentence describes enforcement as subjective varying by individual, the opposite of objective." },
+        { "distractor": "uniform", "closeness": 1, "reasoning": "Uniform means consistent; the sentence shows subjective enforcement varying based on who was disciplined, the opposite of uniform." },
+        { "distractor": "fair", "closeness": 1, "reasoning": "Fair means just and equal; the sentence describes subjective enforcement varying by individual, suggesting unfairness." }
+      ]
+    }
+  ]
+}

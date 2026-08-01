@@ -1,0 +1,53 @@
+{
+  "word": "supplicant",
+  "sentenceSets": [
+    {
+      "sentence": "The merchants approached the magistrate as supplicants, hoping his authority could resolve their dispute over water rights to the irrigation channel.",
+      "answerChoices": [
+        { "distractor": "petitioners", "closeness": 3, "reasoning": "'Petitioners' make formal requests; while the merchants petition for resolution, 'supplicant' emphasizes the earnest begging quality." },
+        { "distractor": "litigants", "closeness": 3, "reasoning": "'Litigants' engage in legal disputes; while the merchants litigate, 'litigant' describes the legal process, not the begging quality." },
+        { "distractor": "claimants", "closeness": 3, "reasoning": "'Claimants' assert rights to something; the merchants claim water rights, but 'claimant' emphasizes asserting, not begging." },
+        { "distractor": "parties", "closeness": 3, "reasoning": "'Parties' are involved in a dispute; while the merchants are parties, 'party' is neutral and doesn't capture the supplicant's begging quality." },
+        { "distractor": "advocates", "closeness": 2, "reasoning": "'Advocates' argue for a cause; while merchants might advocate for their position, 'advocate' describes arguing, not begging." },
+        { "distractor": "plaintiffs", "closeness": 2, "reasoning": "'Plaintiffs' bring legal complaints; while merchants might file complaints, 'plaintiff' describes legal status, not the begging." },
+        { "distractor": "representatives", "closeness": 2, "reasoning": "'Representatives' speak for others; merchants might represent themselves, but 'representative' describes role, not the begging quality." },
+        { "distractor": "contestants", "closeness": 2, "reasoning": "'Contestants' compete or dispute; the merchants contest, but 'contestant' doesn't capture the begging or supplication." },
+        { "distractor": "commanders", "closeness": 1, "reasoning": "Supplicants approach an authority seeking help; commanders hold authority." },
+        { "distractor": "judges", "closeness": 1, "reasoning": "Merchants are supplicants before the magistrate who judges; they're not the judge." },
+        { "distractor": "authorities", "closeness": 1, "reasoning": "The merchants are supplicants approaching an authority; they don't hold the authority." }
+      ]
+    },
+    {
+      "sentence": "The exiled prince became a supplicant at the court of a neighboring kingdom, begging for military aid to reclaim his throne from the usurper.",
+      "answerChoices": [
+        { "distractor": "refugee", "closeness": 3, "reasoning": "'Refugee' describes someone fleeing danger; while the prince is a refugee, 'refugee' doesn't emphasize the begging for military aid." },
+        { "distractor": "petitioner", "closeness": 3, "reasoning": "'Petitioner' makes formal requests; the prince petitions for aid, but 'petitioner' is more formal than the begging quality." },
+        { "distractor": "guest", "closeness": 3, "reasoning": "'Guest' describes a visitor; the prince visits the court, but 'guest' doesn't capture the begging for military support." },
+        { "distractor": "claimant", "closeness": 3, "reasoning": "'Claimant' asserts a right; the prince claims his throne, but 'claimant' emphasizes asserting rights, not begging." },
+        { "distractor": "exile", "closeness": 2, "reasoning": "'Exile' describes banishment from one's homeland; the prince is exiled, but 'exile' describes status, not the supplication." },
+        { "distractor": "ally", "closeness": 2, "reasoning": "'Ally' is a partner in conflict; the prince seeks an ally, but 'ally' describes the relationship, not the begging." },
+        { "distractor": "combatant", "closeness": 2, "reasoning": "'Combatant' engages in combat; the prince would be a combatant if he received aid, but doesn't capture the begging." },
+        { "distractor": "usurper", "closeness": 2, "reasoning": "'Usurper' is someone who seizes power illegally; the prince opposes the usurper, not is one." },
+        { "distractor": "sovereign", "closeness": 1, "reasoning": "A supplicant begs for help; a sovereign holds royal authority." },
+        { "distractor": "tyrant", "closeness": 1, "reasoning": "The prince seeks to overthrow the usurper/tyrant; he's not the tyrant." },
+        { "distractor": "victor", "closeness": 1, "reasoning": "The prince is a supplicant seeking aid to regain his throne; he hasn't yet achieved victory." }
+      ]
+    },
+    {
+      "sentence": "The accused stood as a silent supplicant in the courtroom, hoping the judge's mercy would mitigate the harsh sentence he faced.",
+      "answerChoices": [
+        { "distractor": "defendant", "closeness": 3, "reasoning": "'Defendant' is the person accused; the accused is a defendant, but 'defendant' describes legal status, not the begging quality." },
+        { "distractor": "petitioner", "closeness": 3, "reasoning": "'Petitioner' makes formal requests; the accused seeks mercy, but 'petitioner' is more formal than the begging for mercy." },
+        { "distractor": "prisoner", "closeness": 3, "reasoning": "'Prisoner' is held in custody; the accused is like a prisoner, but 'prisoner' describes physical state, not the begging." },
+        { "distractor": "culprit", "closeness": 3, "reasoning": "'Culprit' is the guilty party; while the accused is found guilty, 'culprit' emphasizes guilt, not begging for mercy." },
+        { "distractor": "victim", "closeness": 2, "reasoning": "'Victim' suffers harm; the accused might see themselves as victimized, but the sentence-to-be is the outcome, not victimization." },
+        { "distractor": "plaintiff", "closeness": 2, "reasoning": "'Plaintiff' brings legal action; the accused doesn't bring action; the state does." },
+        { "distractor": "litigant", "closeness": 2, "reasoning": "'Litigant' engages in a lawsuit; the accused is involved in litigation but as defendant, not the begging quality." },
+        { "distractor": "witness", "closeness": 2, "reasoning": "'Witness' observes or testifies; the accused might testify but isn't a witness in the case." },
+        { "distractor": "judge", "closeness": 1, "reasoning": "The supplicant appeals to the judge for mercy; the judge issues judgment." },
+        { "distractor": "prosecutor", "closeness": 1, "reasoning": "The accused is a supplicant seeking mercy; the prosecutor seeks conviction." },
+        { "distractor": "executor", "closeness": 1, "reasoning": "The supplicant begs for leniency; an executor carries out sentences." }
+      ]
+    }
+  ]
+}

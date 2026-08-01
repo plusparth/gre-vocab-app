@@ -1,0 +1,53 @@
+{
+  "word": "perceive",
+  "sentenceSets": [
+    {
+      "sentence": "The patient could no longer perceive the subtle changes in temperature that had once warned her of an approaching fever.",
+      "answerChoices": [
+        { "distractor": "detect", "closeness": 3, "reasoning": "Close -- 'detect' and 'perceive' both mean to notice, but 'detect' emphasizes identifying something that requires investigation or monitoring, whereas 'perceive' focuses on the immediate sensory awareness of subtle changes." },
+        { "distractor": "sense", "closeness": 3, "reasoning": "Close -- 'sense' implies an intuitive or instinctive awareness, often without clear sensory evidence, whereas 'perceive' requires actual sensory input (here, changes in temperature)." },
+        { "distractor": "observe", "closeness": 3, "reasoning": "Close -- 'observe' means to watch or notice deliberately, but it emphasizes active, conscious attention whereas 'perceive' can be more passive, based on what the senses naturally register." },
+        { "distractor": "recognize", "closeness": 3, "reasoning": "Close -- 'recognize' means to identify something known previously, but the sentence emphasizes the loss of ability to notice subtle, possibly unconscious signals, not to identify what is already known." },
+        { "distractor": "see", "closeness": 2, "reasoning": "Incorrect -- 'see' is limited to visual perception, whereas the sentence is specifically about temperature changes perceived through the skin." },
+        { "distractor": "understand", "closeness": 2, "reasoning": "Incorrect -- while 'perceive' can mean to understand, the sentence context focuses on sensory awareness of physical changes, not intellectual comprehension." },
+        { "distractor": "anticipate", "closeness": 2, "reasoning": "Incorrect -- 'anticipate' means to expect or predict, but the sentence describes noticing signs, not predicting future events." },
+        { "distractor": "register", "closeness": 2, "reasoning": "Incorrect -- 'register' means to record or note, but it typically refers to formal recording rather than the unconscious sensory awareness implied by the sentence." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Opposite -- 'ignore' means to disregard or pay no attention to; it is the direct opposite of perceiving something." },
+        { "distractor": "overlook", "closeness": 1, "reasoning": "Opposite -- 'overlook' means to fail to notice or deliberately disregard, which contradicts the meaning of perceiving something." },
+        { "distractor": "misinterpret", "closeness": 1, "reasoning": "Incorrect -- 'misinterpret' means to understand incorrectly; the sentence describes losing the ability to notice signals, not misunderstanding them." }
+      ]
+    },
+    {
+      "sentence": "The art critic could perceive layers of meaning in the artist's brushstrokes that remained hidden to casual viewers.",
+      "answerChoices": [
+        { "distractor": "discern", "closeness": 3, "reasoning": "Close -- 'discern' means to perceive with difficulty or to distinguish between subtle differences, which fits well here, but 'perceive' in this context emphasizes simply becoming aware rather than the harder work of distinguishing." },
+        { "distractor": "grasp", "closeness": 3, "reasoning": "Close -- 'grasp' can mean to understand or comprehend, which is relevant here, but it implies a more complete or firm understanding than the initial perception of layers of meaning." },
+        { "distractor": "apprehend", "closeness": 3, "reasoning": "Close -- 'apprehend' means to understand or become aware of, fitting the context, but it can also mean to seize or arrest, creating ambiguity; 'perceive' is more clearly about sensory or intellectual awareness." },
+        { "distractor": "decipher", "closeness": 3, "reasoning": "Close -- 'decipher' means to convert coded or unclear information into understandable form, which fits, but it implies active decoding work whereas 'perceive' suggests a more direct, intuitive awareness." },
+        { "distractor": "interpret", "closeness": 2, "reasoning": "Incorrect -- 'interpret' means to explain the meaning of something, but the sentence focuses on the ability to perceive layers already present, not on explaining their meaning." },
+        { "distractor": "analyze", "closeness": 2, "reasoning": "Incorrect -- 'analyze' means to examine carefully and systematically, which is more deliberate than the initial perception the sentence describes." },
+        { "distractor": "evaluate", "closeness": 2, "reasoning": "Incorrect -- 'evaluate' means to assess or judge the value of something, but the sentence is about perceiving meaning, not assessing worth." },
+        { "distractor": "critique", "closeness": 2, "reasoning": "Incorrect -- 'critique' means to analyze and comment on strengths and weaknesses, but the sentence focuses on noticing layers of meaning rather than offering judgment." },
+        { "distractor": "miss", "closeness": 1, "reasoning": "Opposite -- 'miss' means to fail to notice or perceive; it directly contradicts the ability to perceive layers of meaning." },
+        { "distractor": "obscure", "closeness": 1, "reasoning": "Opposite -- 'obscure' means to make unclear or hidden; it works against perceiving meaning that the sentence says is evident to the skilled critic." },
+        { "distractor": "conceal", "closeness": 1, "reasoning": "Incorrect -- 'conceal' means to hide or keep secret; it is the opposite of revealing or perceiving meaning in the artwork." }
+      ]
+    },
+    {
+      "sentence": "Political pollsters have learned not to perceive poll results as direct reflections of election outcomes; numerous intervening factors determine the final vote.",
+      "answerChoices": [
+        { "distractor": "treat", "closeness": 3, "reasoning": "Close -- 'treat' can mean to regard or handle in a particular way (as in 'treat it as'), which fits the sentence structure, but it emphasizes deliberate action whereas 'perceive' focuses on how something is viewed or understood." },
+        { "distractor": "view", "closeness": 3, "reasoning": "Close -- 'view' means to regard or consider in a particular way, which is nearly synonymous with 'perceive' in this context, but 'view' is more openly subjective whereas 'perceive' implies a formed understanding." },
+        { "distractor": "regard", "closeness": 3, "reasoning": "Close -- 'regard' means to consider or think of in a certain way, fitting the sentence well, but it emphasizes conscious judgment whereas 'perceive' can imply a more implicit or intuitive understanding." },
+        { "distractor": "interpret", "closeness": 3, "reasoning": "Close -- 'interpret' means to assign meaning or explain, which fits the context of how poll results are understood, but it emphasizes actively making sense whereas 'perceive' is about how something appears or is grasped." },
+        { "distractor": "accept", "closeness": 2, "reasoning": "Incorrect -- 'accept' means to believe as true or receive without resistance, but the sentence implies a cautionary stance, not acceptance, of poll data." },
+        { "distractor": "reject", "closeness": 2, "reasoning": "Incorrect -- 'reject' means to refuse or dismiss, but the sentence indicates caution about interpretation rather than outright rejection of poll data." },
+        { "distractor": "validate", "closeness": 2, "reasoning": "Incorrect -- 'validate' means to confirm or verify the truth or accuracy of something, but the sentence emphasizes misplaced perception, not verification." },
+        { "distractor": "measure", "closeness": 2, "reasoning": "Incorrect -- 'measure' refers to quantify or assess size, but the sentence concerns how results are perceived conceptually, not how they are measured." },
+        { "distractor": "create", "closeness": 1, "reasoning": "Incorrect -- 'create' means to bring into existence, which makes no sense in the context of how poll results are perceived." },
+        { "distractor": "predict", "closeness": 1, "reasoning": "Incorrect -- 'predict' means to forecast something that has not yet happened, whereas the sentence discusses how existing poll results are understood." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Incorrect -- 'ignore' means to pay no attention to, but the sentence assumes pollsters are paying attention to poll results, just being careful about interpretation." }
+      ]
+    }
+  ]
+}

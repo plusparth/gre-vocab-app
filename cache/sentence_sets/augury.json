@@ -1,0 +1,53 @@
+{
+  "word": "augury",
+  "sentenceSets": [
+    {
+      "sentence": "The dark clouds gathering to the west were taken as an augury that the journey would end badly.",
+      "answerChoices": [
+        { "distractor": "omen", "closeness": 3, "reasoning": "Both describe a sign of future events, but 'omen' is a general sign, whereas 'augury' specifically refers to divination or interpretation of signs." },
+        { "distractor": "portent", "closeness": 3, "reasoning": "Both describe an indication of something to come, but 'portent' emphasizes threatening significance, whereas 'augury' can be neutral divination." },
+        { "distractor": "sign", "closeness": 3, "reasoning": "The clouds are a sign, but 'sign' is too general; 'augury' specifically refers to prophetic interpretation." },
+        { "distractor": "prediction", "closeness": 3, "reasoning": "The clouds predict bad outcomes, but 'prediction' is the result of interpretation, not the divination process itself." },
+        { "distractor": "forecast", "closeness": 2, "reasoning": "The clouds forecast bad weather or events, but 'forecast' emphasizes weather prediction, not divination." },
+        { "distractor": "indication", "closeness": 2, "reasoning": "The clouds indicate trouble ahead, but 'indication' is too general for the specific prophetic meaning." },
+        { "distractor": "symptom", "closeness": 2, "reasoning": "The clouds are symptomatic of coming weather, but 'symptom' implies medical or logical causation, not divination." },
+        { "distractor": "premonition", "closeness": 2, "reasoning": "The clouds provoke a premonition of danger, but 'premonition' describes a feeling, not the prophetic sign itself." },
+        { "distractor": "accident", "closeness": 1, "reasoning": "The dark clouds are not accidental; they are deliberately interpreted as augury—a prophetic sign." },
+        { "distractor": "coincidence", "closeness": 1, "reasoning": "Augury implies meaningful connection to the future, not mere coincidence of weather and events." },
+        { "distractor": "blessing", "closeness": 1, "reasoning": "Dark clouds as a sign suggest bad augury, the opposite of a blessing." }
+      ]
+    },
+    {
+      "sentence": "The ancient priest studied the flight of birds as an augury, believing their patterns revealed the gods' will for the coming battle.",
+      "answerChoices": [
+        { "distractor": "divination", "closeness": 3, "reasoning": "Augury is a type of divination, but 'divination' is broader, encompassing many prophetic methods, not specifically reading bird patterns." },
+        { "distractor": "prophecy", "closeness": 3, "reasoning": "The augury leads to prophecy about the battle, but 'prophecy' is the prophetic statement, not the divination process." },
+        { "distractor": "omen", "closeness": 3, "reasoning": "The bird patterns are omens, but 'omen' is a sign, not the interpretive process of deriving meaning." },
+        { "distractor": "sign", "closeness": 3, "reasoning": "The birds provide a sign, but 'sign' is too general; 'augury' emphasizes the interpretive tradition." },
+        { "distractor": "indication", "closeness": 2, "reasoning": "The birds indicate divine will, but 'indication' lacks the spiritual or prophetic significance of augury." },
+        { "distractor": "observation", "closeness": 2, "reasoning": "The priest observes bird flight, but 'observation' describes the act, not the divination tradition of deriving meaning." },
+        { "distractor": "ritual", "closeness": 2, "reasoning": "Consulting augury involves ritual, but 'ritual' describes the ceremonial practice, not the interpretation itself." },
+        { "distractor": "superstition", "closeness": 2, "reasoning": "Bird divination might be considered superstition, but this term judges the practice negatively, whereas 'augury' is neutral." },
+        { "distractor": "science", "closeness": 1, "reasoning": "Augury is spiritual divination, not science or systematic empirical study." },
+        { "distractor": "chance", "closeness": 1, "reasoning": "Augury assumes meaning in patterns, whereas chance suggests randomness." },
+        { "distractor": "coincidence", "closeness": 1, "reasoning": "Augury interprets patterns as meaningful divine communication, not coincidental observation." }
+      ]
+    },
+    {
+      "sentence": "The team's unexpected loss in the first playoff game was seen as a dark augury for the remainder of the season.",
+      "answerChoices": [
+        { "distractor": "omen", "closeness": 3, "reasoning": "Both describe a sign of future misfortune, but 'omen' is a general sign, whereas 'augury' emphasizes the interpretive reading of the sign." },
+        { "distractor": "forecast", "closeness": 3, "reasoning": "The loss forecasts future trouble, but 'forecast' emphasizes prediction of specific outcomes, not the divined interpretation." },
+        { "distractor": "prediction", "closeness": 3, "reasoning": "The loss predicts future failure, but 'prediction' is the result, not the process of divination." },
+        { "distractor": "portent", "closeness": 3, "reasoning": "The loss is a portent of darker times ahead, but 'portent' emphasizes threatening significance, not the divined interpretation." },
+        { "distractor": "indication", "closeness": 2, "reasoning": "The loss indicates future troubles, but 'indication' is too general for the prophetic meaning of augury." },
+        { "distractor": "foreshadowing", "closeness": 2, "reasoning": "The loss foreshadows season failure, but 'foreshadowing' emphasizes literary technique, not divination." },
+        { "distractor": "sign", "closeness": 2, "reasoning": "The loss is a sign, but 'sign' is generic; 'augury' emphasizes the prophetic interpretation." },
+        { "distractor": "symptom", "closeness": 2, "reasoning": "The loss is symptomatic of larger issues, but 'symptom' implies medical or logical causation, not divination." },
+        { "distractor": "accident", "closeness": 1, "reasoning": "The loss is interpreted as augury, implying significance, not mere accident." },
+        { "distractor": "blessing", "closeness": 1, "reasoning": "A dark augury predicts misfortune, the opposite of a blessing." },
+        { "distractor": "coincidence", "closeness": 1, "reasoning": "Augury implies meaningful connection to future outcomes, not mere coincidence." }
+      ]
+    }
+  ]
+}

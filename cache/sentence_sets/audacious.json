@@ -1,0 +1,53 @@
+{
+  "word": "audacious",
+  "sentenceSets": [
+    {
+      "sentence": "The audacious plan—crossing the mountains in winter with minimal supplies—astonished even seasoned soldiers.",
+      "answerChoices": [
+        { "distractor": "reckless", "closeness": 3, "reasoning": "Both describe daring action despite risk, but 'reckless' implies negligence or disregard for consequences, whereas 'audacious' suggests bold courage even if risky." },
+        { "distractor": "foolhardy", "closeness": 3, "reasoning": "Both describe daring with danger, but 'foolhardy' implies the action is foolish and bound to fail, whereas 'audacious' is bold but possibly justified." },
+        { "distractor": "daring", "closeness": 3, "reasoning": "Both mean brave and bold, but 'daring' is broader, whereas 'audacious' emphasizes the intrepid quality and element of shock." },
+        { "distractor": "rash", "closeness": 3, "reasoning": "Both suggest acting with insufficient care, but 'rash' emphasizes impulsive hastiness, whereas 'audacious' suggests deliberate boldness." },
+        { "distractor": "courageous", "closeness": 2, "reasoning": "The plan requires courage, but 'courageous' emphasizes bravery, not the specific brazen or intrepid quality of audacious." },
+        { "distractor": "aggressive", "closeness": 2, "reasoning": "The approach is aggressive in attacking the challenge, but 'aggressive' emphasizes forcefulness, not the intrepid boldness." },
+        { "distractor": "enterprising", "closeness": 2, "reasoning": "The plan shows initiative, but 'enterprising' emphasizes resourcefulness, not the shocking or intrepid quality." },
+        { "distractor": "unconventional", "closeness": 2, "reasoning": "The plan is unconventional, but this describes departing from norms, not the intrepid boldness of audacity." },
+        { "distractor": "cautious", "closeness": 1, "reasoning": "The opposite approach; an audacious plan ignores caution, whereas a cautious one minimizes risk." },
+        { "distractor": "timid", "closeness": 1, "reasoning": "The opposite of audacious; the soldiers are astonished by the boldness, not by fearfulness." },
+        { "distractor": "conventional", "closeness": 1, "reasoning": "The opposite type of plan; crossing mountains in winter with minimal supplies is the opposite of conventional approach." }
+      ]
+    },
+    {
+      "sentence": "The startup made an audacious bet on emerging technology, investing heavily while competitors remained skeptical and cautious.",
+      "answerChoices": [
+        { "distractor": "ambitious", "closeness": 3, "reasoning": "Both describe large-scale, bold action, but 'ambitious' emphasizes the scale of goals, whereas 'audacious' emphasizes the intrepid willingness to challenge prevailing opinion." },
+        { "distractor": "bold", "closeness": 3, "reasoning": "Both mean courageous and daring, but 'bold' is broader, whereas 'audacious' emphasizes intrepid defiance of conventional wisdom." },
+        { "distractor": "risky", "closeness": 3, "reasoning": "The investment is risky, but 'risky' describes the probability of failure, not the courageous audacity of taking the risk." },
+        { "distractor": "aggressive", "closeness": 3, "reasoning": "The strategy is aggressive in pursuing opportunity, but 'aggressive' emphasizes assertive force, not the intrepid boldness of audacity." },
+        { "distractor": "speculative", "closeness": 2, "reasoning": "The bet is speculative, but 'speculative' emphasizes uncertainty, not the courageous boldness of audacity." },
+        { "distractor": "innovative", "closeness": 2, "reasoning": "The company innovates in technology, but 'innovative' emphasizes newness, not the intrepid boldness of betting on it." },
+        { "distractor": "enterprising", "closeness": 2, "reasoning": "The company shows initiative, but 'enterprising' emphasizes resourcefulness, not the specific intrepid boldness." },
+        { "distractor": "confident", "closeness": 2, "reasoning": "The company is confident in the technology, but 'confident' describes belief, not the intrepid willingness to defy prevailing skepticism." },
+        { "distractor": "conservative", "closeness": 1, "reasoning": "The opposite approach; while competitors are conservative, the startup is audacious in taking the opposite bet." },
+        { "distractor": "cautious", "closeness": 1, "reasoning": "The opposite stance; the startup's audacity contrasts with competitors' caution." },
+        { "distractor": "hesitant", "closeness": 1, "reasoning": "The opposite attitude; audacious investment contrasts with hesitation to commit resources." }
+      ]
+    },
+    {
+      "sentence": "The audacious fashion designer wore clothing that violated every convention of her conservative profession, shocking audiences at every show.",
+      "answerChoices": [
+        { "distractor": "provocative", "closeness": 3, "reasoning": "Both describe clothing designed to shock or provoke reaction, but 'provocative' emphasizes stirring strong feeling, whereas 'audacious' emphasizes intrepid boldness." },
+        { "distractor": "controversial", "closeness": 3, "reasoning": "The designs are controversial, but 'controversial' describes the disagreement they cause, not the boldness of the designer." },
+        { "distractor": "flamboyant", "closeness": 3, "reasoning": "The designs are showy and flamboyant, but this emphasizes ostentatious display, not the intrepid boldness of audacity." },
+        { "distractor": "outrageous", "closeness": 3, "reasoning": "The designs are outrageous to the profession, but 'outrageous' describes the extreme violation of norms, not the courageous boldness." },
+        { "distractor": "unconventional", "closeness": 2, "reasoning": "The designs break conventions, but 'unconventional' simply means departing from norms, not the intrepid boldness." },
+        { "distractor": "daring", "closeness": 2, "reasoning": "The designs are daring, but this is broader than 'audacious,' which emphasizes intrepid, bold shock." },
+        { "distractor": "rebellious", "closeness": 2, "reasoning": "The designer rebels against conventions, but 'rebellious' emphasizes defiance of authority, not the intrepid boldness." },
+        { "distractor": "eccentric", "closeness": 2, "reasoning": "The designer is eccentric in taste, but 'eccentric' describes unusual preference, not the courageous boldness." },
+        { "distractor": "timid", "closeness": 1, "reasoning": "The opposite of audacious; a timid designer would conform to conventions, not shock audiences." },
+        { "distractor": "conservative", "closeness": 1, "reasoning": "The opposite approach; the designer's audacity contrasts with the conservative profession she defies." },
+        { "distractor": "conformist", "closeness": 1, "reasoning": "The opposite attitude; audacious boldness contrasts with conformity to professional conventions." }
+      ]
+    }
+  ]
+}

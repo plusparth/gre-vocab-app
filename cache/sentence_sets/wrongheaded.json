@@ -1,0 +1,53 @@
+{
+  "word": "wrongheaded",
+  "sentenceSets": [
+    {
+      "sentence": "The wrongheaded approach had been chosen not because anyone thought it was correct but because it was the one everyone had agreed on.",
+      "answerChoices": [
+        { "distractor": "consensus", "closeness": 3, "reasoning": "While both denote agreement, 'consensus' simply describes agreement without the element of stubborn adherence to something known to be wrong that 'wrongheaded' implies." },
+        { "distractor": "popular", "closeness": 3, "reasoning": "The sentence emphasizes collective agreement over correctness; 'popular' captures this notion of majority favor but lacks the specifically erroneous quality that 'wrongheaded' conveys." },
+        { "distractor": "arbitrary", "closeness": 3, "reasoning": "An arbitrary choice is made without clear reason, matching the sentence's suggestion that agreement, not correctness, drove selection; however, 'arbitrary' doesn't emphasize incorrectness as inherently as 'wrongheaded' does." },
+        { "distractor": "expedient", "closeness": 3, "reasoning": "An expedient choice prioritizes convenience over principle, fitting the contrast with correctness; yet 'expedient' lacks the connotation of stubborn wrongness specific to 'wrongheaded.'" },
+        { "distractor": "hasty", "closeness": 2, "reasoning": "A hasty choice might be made without proper deliberation, but it doesn't capture the intentional adherence to something known to be wrong." },
+        { "distractor": "reckless", "closeness": 2, "reasoning": "'Reckless' suggests irresponsible heedlessness, but it emphasizes careless disregard rather than stubborn commitment to an incorrect course." },
+        { "distractor": "ill-conceived", "closeness": 2, "reasoning": "Though 'ill-conceived' denotes poor planning, it suggests lack of foresight rather than the deliberate choice of a known wrong approach." },
+        { "distractor": "inept", "closeness": 2, "reasoning": "'Inept' describes lack of skill or judgment, but it doesn't capture the specific sense of stubbornly adhering to a wrong principle." },
+        { "distractor": "correct", "closeness": 1, "reasoning": "The sentence explicitly states the approach was not what anyone thought 'correct,' making 'correct' the direct opposite of what the blank requires." },
+        { "distractor": "judicious", "closeness": 1, "reasoning": "A judicious choice reflects careful, wise deliberation; this contradicts a choice made for consensus over correctness." },
+        { "distractor": "well-founded", "closeness": 1, "reasoning": "Something 'well-founded' is based on solid reasoning and evidence, opposite to the sentence's implication that the approach was known to be incorrect." }
+      ]
+    },
+    {
+      "sentence": "The researcher clung to his wrongheaded theory despite mounting empirical evidence, dismissing contradicting data as flawed rather than reconsidering his fundamental assumptions.",
+      "answerChoices": [
+        { "distractor": "pigheaded", "closeness": 3, "reasoning": "Though 'pigheaded' denotes stubborn obstinacy, it emphasizes inflexibility rather than the specific stubbornness in adhering to something demonstrably wrong, as the evidence makes clear." },
+        { "distractor": "obstinate", "closeness": 3, "reasoning": "'Obstinate' captures stubborn refusal to change, but it doesn't emphasize the wrongness of the position itself, which is central to 'wrongheaded.'" },
+        { "distractor": "intransigent", "closeness": 3, "reasoning": "While 'intransigent' describes unyielding commitment to a position despite opposition, it lacks the specific emphasis on the position being actually incorrect." },
+        { "distractor": "misguided", "closeness": 3, "reasoning": "'Misguided' suggests following the wrong path or principle, but it emphasizes incorrect judgment rather than stubborn adherence despite contradictory evidence." },
+        { "distractor": "biased", "closeness": 2, "reasoning": "The researcher's dismissal of contradicting data shows bias, but 'biased' describes skewed judgment rather than the stubborn wrongness the sentence emphasizes." },
+        { "distractor": "fallacious", "closeness": 2, "reasoning": "His theory is indeed fallacious, but this word describes the logical structure of the theory, not his stubborn adherence to it despite evidence." },
+        { "distractor": "delusional", "closeness": 2, "reasoning": "While he may believe a false theory, 'delusional' suggests disconnection from reality, whereas the sentence shows him actively rejecting contradicting facts—a different phenomenon." },
+        { "distractor": "dogmatic", "closeness": 2, "reasoning": "'Dogmatic' suggests rigid adherence to principles without evidence, fitting the behavior; yet it emphasizes unquestioned doctrine rather than adherence specifically to something wrong." },
+        { "distractor": "open-minded", "closeness": 1, "reasoning": "The sentence shows him 'dismissing contradicting data rather than reconsidering,' the opposite of 'open-minded' receptiveness to new evidence." },
+        { "distractor": "empirical", "closeness": 1, "reasoning": "An empirical approach bases conclusions on evidence; the researcher's dismissal of empirical contradictions opposes this methodology fundamentally." },
+        { "distractor": "flexible", "closeness": 1, "reasoning": "The researcher clings to his theory despite mounting evidence, demonstrating rigidity opposite to 'flexible' adaptation." }
+      ]
+    },
+    {
+      "sentence": "The administration's wrongheaded policy toward immigration alienated allies who saw it as punitive rather than practical, yet officials stubbornly refused to adjust course.",
+      "answerChoices": [
+        { "distractor": "obdurate", "closeness": 3, "reasoning": "'Obdurate' denotes stubborn refusal to change, matching the officials' behavior; however, it emphasizes unfeeling stubbornness rather than stubborn adherence to what is demonstrably wrong." },
+        { "distractor": "recalcitrant", "closeness": 3, "reasoning": "Though 'recalcitrant' describes willful resistance to direction, it suggests defiance of authority rather than stubborn commitment to a flawed policy." },
+        { "distractor": "ill-advised", "closeness": 3, "reasoning": "The policy proves counterproductive, fitting 'ill-advised'; however, this term emphasizes poor judgment at inception rather than stubborn persistence despite negative consequences." },
+        { "distractor": "counterproductive", "closeness": 3, "reasoning": "The policy alienates allies and achieves the opposite of intended goals, making it 'counterproductive'; yet the word emphasizes outcome rather than the stubbornness in adhering to it." },
+        { "distractor": "punitive", "closeness": 2, "reasoning": "Allies viewed the policy as punitive, but 'punitive' describes the policy's nature or intent, not the officials' stubborn adherence to a wrong principle." },
+        { "distractor": "inflexible", "closeness": 2, "reasoning": "The officials' refusal to adjust reflects inflexibility, but this term emphasizes rigidity in general rather than stubbornness in clinging to something known to be wrong." },
+        { "distractor": "ideological", "closeness": 2, "reasoning": "The policy might stem from ideology, but 'ideological' describes the policy's basis, not the stubborn commitment to it despite evidence of harm." },
+        { "distractor": "unilateral", "closeness": 2, "reasoning": "The officials' refusal to consult allies might be 'unilateral,' but this describes the decision-making method rather than adherence to a wrong principle." },
+        { "distractor": "pragmatic", "closeness": 1, "reasoning": "A pragmatic approach would adjust policy when evidence shows it alienates allies and proves counterproductive; the officials' stubbornness contradicts pragmatism." },
+        { "distractor": "enlightened", "closeness": 1, "reasoning": "An enlightened policy adapts to feedback; the administration's refusal to reconsider despite alienating allies opposes this enlightened responsiveness." },
+        { "distractor": "insightful", "closeness": 1, "reasoning": "An insightful administration would recognize that the policy alienates allies and harms relations; their stubborn refusal to adjust contradicts such insight." }
+      ]
+    }
+  ]
+}

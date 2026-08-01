@@ -1,0 +1,53 @@
+{
+  "word": "simultaneous",
+  "sentenceSets": [
+    {
+      "sentence": "The simultaneous publication of conflicting reports on the same data created confusion that took months to resolve.",
+      "answerChoices": [
+        { "distractor": "concurrent", "closeness": 3, "reasoning": "Concurrent means occurring together over a period of time, but simultaneous stresses the exact same moment or perfectly overlapping occurrence." },
+        { "distractor": "synchronized", "closeness": 3, "reasoning": "Synchronized implies timing that has been coordinated or made to align, while simultaneous simply describes natural or incidental occurrence at the same time." },
+        { "distractor": "parallel", "closeness": 3, "reasoning": "Parallel suggests things moving alongside each other without intersection, whereas simultaneous emphasizes the exact temporal coincidence of the moment." },
+        { "distractor": "contemporary", "closeness": 3, "reasoning": "Contemporary describes things from the same era or period, which may span months or years, whereas simultaneous means the exact same moment." },
+        { "distractor": "overlapping", "closeness": 2, "reasoning": "Overlapping suggests partial temporal coincidence or shared periods, but simultaneous emphasizes the complete and exact alignment of timing." },
+        { "distractor": "coordinated", "closeness": 2, "reasoning": "Coordinated implies intentional timing arrangement, whereas simultaneous can refer to accidental or incidental temporal coincidence." },
+        { "distractor": "uniform", "closeness": 2, "reasoning": "Uniform describes consistency in quality or appearance, not specifically the temporal relationship implied by simultaneous." },
+        { "distractor": "collective", "closeness": 2, "reasoning": "Collective means shared or done together but does not specify the precise temporal coincidence that simultaneous conveys." },
+        { "distractor": "sequential", "closeness": 1, "reasoning": "Sequential describes one event following another in order, the opposite of the same-time occurrence that simultaneous requires." },
+        { "distractor": "successive", "closeness": 1, "reasoning": "Successive implies following one after another, directly contradicting the simultaneity required by the word." },
+        { "distractor": "staggered", "closeness": 1, "reasoning": "Staggered means spread apart in time or space, opposite to the exact temporal coincidence expressed by simultaneous." }
+      ]
+    },
+    {
+      "sentence": "The athletes launched their simultaneous sprint from the starting line, each propelled by the same gun signal.",
+      "answerChoices": [
+        { "distractor": "synchronized", "closeness": 3, "reasoning": "Synchronized suggests careful coordination or alignment of movements, while simultaneous simply describes starting at the exact same time regardless of prior coordination." },
+        { "distractor": "coordinated", "closeness": 3, "reasoning": "Coordinated implies deliberate arrangement of timing, whereas simultaneous can describe a uniform occurrence that stems from a single trigger (the gun) rather than prearrangement." },
+        { "distractor": "uniform", "closeness": 3, "reasoning": "Uniform describes consistency in manner or quality, whereas simultaneous specifically refers to the temporal coincidence of the starting moment." },
+        { "distractor": "matched", "closeness": 3, "reasoning": "Matched suggests items or events that are similar or corresponding, whereas simultaneous refers precisely to the timing relationship." },
+        { "distractor": "equivalent", "closeness": 2, "reasoning": "Equivalent means equal in value or effect, but does not capture the specific temporal relationship denoted by simultaneous." },
+        { "distractor": "parallel", "closeness": 2, "reasoning": "Parallel can mean running side-by-side or in correspondence, but does not explicitly convey the exact temporal coincidence." },
+        { "distractor": "joint", "closeness": 2, "reasoning": "Joint suggests shared involvement, but refers to participation rather than the precise temporal alignment that simultaneous indicates." },
+        { "distractor": "linked", "closeness": 2, "reasoning": "Linked describes connection or relationship, not the specific temporal coincidence expressed by simultaneous." },
+        { "distractor": "staggered", "closeness": 1, "reasoning": "Staggered means spread out at intervals in time, directly opposed to the exact same-moment start that simultaneous requires." },
+        { "distractor": "delayed", "closeness": 1, "reasoning": "Delayed indicates a time gap or postponement, which contradicts the same-time occurrence that simultaneous requires." },
+        { "distractor": "sequential", "closeness": 1, "reasoning": "Sequential describes occurring one after another, the opposite of the simultaneous start from a single signal." }
+      ]
+    },
+    {
+      "sentence": "The simultaneous discovery of the same fossil layer across three continents provided compelling evidence for the ancient supercontinent.",
+      "answerChoices": [
+        { "distractor": "parallel", "closeness": 3, "reasoning": "Parallel suggests findings that correspond or align with each other, but does not specify that the discoveries occurred at the same time." },
+        { "distractor": "concurrent", "closeness": 3, "reasoning": "Concurrent suggests processes or occurrences happening together over a period, but simultaneous emphasizes the precise moment of discovery, not just overlap." },
+        { "distractor": "coincident", "closeness": 3, "reasoning": "Coincident describes an accidental agreement or overlap, while simultaneous specifically indicates the exact same temporal moment of occurrence." },
+        { "distractor": "correlated", "closeness": 3, "reasoning": "Correlated describes a relationship or connection between events, whereas simultaneous refers to their happening at precisely the same time." },
+        { "distractor": "matching", "closeness": 2, "reasoning": "Matching describes similarity or correspondence in features, but does not necessarily imply the temporal relationship that simultaneous conveys." },
+        { "distractor": "corresponding", "closeness": 2, "reasoning": "Corresponding suggests agreement or similarity, but refers to logical or structural relationship rather than precise temporal coincidence." },
+        { "distractor": "mutual", "closeness": 2, "reasoning": "Mutual describes reciprocal or shared qualities, but does not specifically address timing of occurrences." },
+        { "distractor": "independent", "closeness": 2, "reasoning": "Independent emphasizes separate origins or lack of connection, whereas simultaneous can describe independent events that nonetheless occur at the same moment." },
+        { "distractor": "conflicting", "closeness": 1, "reasoning": "Conflicting would suggest the discoveries were contradictory, whereas the sentence indicates they supported each other and simultaneous occurrence." },
+        { "distractor": "successive", "closeness": 1, "reasoning": "Successive means one discovery followed another over time, directly contradicting the same-moment timing of simultaneous." },
+        { "distractor": "contradictory", "closeness": 1, "reasoning": "Contradictory suggests opposing or mutually exclusive findings, opposed to simultaneous discoveries that corroborated each other." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "timorous",
+  "sentenceSets": [
+    {
+      "sentence": "His timorous approach to a decision that required conviction produced a result that satisfied no one.",
+      "answerChoices": [
+        { "distractor": "cautious", "closeness": 3, "reasoning": "Cautious means careful to avoid risk, but the sentence reveals the issue as lack of conviction, not merely excessive caution." },
+        { "distractor": "hesitant", "closeness": 3, "reasoning": "Hesitant means reluctant or showing uncertainty, which is close, but the sentence emphasizes fear-based avoidance rather than mere hesitation." },
+        { "distractor": "reluctant", "closeness": 3, "reasoning": "Reluctant means unwilling or resistant, but the sentence emphasizes fearfulness, not unwillingness to decide." },
+        { "distractor": "indecisive", "closeness": 3, "reasoning": "Indecisive means unable to decide or lacking decision, which is close, but the sentence reveals the cause as fearfulness, not mere indecisiveness." },
+        { "distractor": "wavering", "closeness": 2, "reasoning": "Wavering means fluctuating or showing uncertainty, but the sentence's emphasis is on lack of conviction produced by fear." },
+        { "distractor": "uncertain", "closeness": 2, "reasoning": "Uncertain means not sure or doubtful, but the sentence emphasizes fearfulness rather than general uncertainty." },
+        { "distractor": "tentative", "closeness": 2, "reasoning": "Tentative means not fully worked out or developed, but the sentence requires emphasis on fearfulness, not incompleteness." },
+        { "distractor": "reserved", "closeness": 2, "reasoning": "Reserved means restrained or aloof, but the sentence emphasizes fear-driven lack of conviction." },
+        { "distractor": "bold", "closeness": 1, "reasoning": "Bold means brave or daring, opposite to a fearful, timorous approach." },
+        { "distractor": "confident", "closeness": 1, "reasoning": "Confident means feeling certain and self-assured, opposite to an approach lacking conviction from fear." },
+        { "distractor": "assertive", "closeness": 1, "reasoning": "Assertive means confident and forceful, opposite to the fearful approach the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "The timorous student raised her hand only to ask permission before speaking, never contributing ideas unless explicitly invited, and always deferring to more vocal classmates.",
+      "answerChoices": [
+        { "distractor": "shy", "closeness": 3, "reasoning": "Shy means lacking confidence in social situations, which is close, but the sentence emphasizes fear-driven behavior, not mere social shyness." },
+        { "distractor": "reserved", "closeness": 3, "reasoning": "Reserved means restrained or withholding, but the sentence reveals the cause as fear, not deliberate reservation." },
+        { "distractor": "withdrawn", "closeness": 3, "reasoning": "Withdrawn means socially isolated or distant, but the sentence emphasizes fearful deference rather than social withdrawal." },
+        { "distractor": "submissive", "closeness": 3, "reasoning": "Submissive means yielding to authority or others, which describes the behavior, but the sentence reveals fearfulness as the cause." },
+        { "distractor": "introverted", "closeness": 2, "reasoning": "Introverted means quiet and inward-focused, but the sentence's emphasis is on fear-driven behavior, not personality type." },
+        { "distractor": "reticent", "closeness": 2, "reasoning": "Reticent means unwilling to speak or reserved, but the sentence emphasizes fearfulness underlying the silence." },
+        { "distractor": "diffident", "closeness": 2, "reasoning": "Diffident means lacking self-confidence, which is related, but the sentence emphasizes fear-driven behavior rather than self-confidence issues." },
+        { "distractor": "passive", "closeness": 2, "reasoning": "Passive means not taking initiative, which describes behavior, but the sentence reveals fear as the driving cause." },
+        { "distractor": "bold", "closeness": 1, "reasoning": "Bold means brave and daring, opposite to fearful, seeking-permission behavior." },
+        { "distractor": "outspoken", "closeness": 1, "reasoning": "Outspoken means expressing opinions freely and boldly, opposite to deferential fearful behavior." },
+        { "distractor": "confident", "closeness": 1, "reasoning": "Confident means self-assured, opposite to fearful, permission-seeking behavior." }
+      ]
+    },
+    {
+      "sentence": "The investor took a timorous view of the startup's prospects, worrying constantly about risks and setbacks, and ultimately declined to fund the venture despite the strong fundamentals the business plan demonstrated.",
+      "answerChoices": [
+        { "distractor": "pessimistic", "closeness": 3, "reasoning": "Pessimistic means tending to expect the worst, which is close, but the sentence emphasizes fearfulness rather than negative expectations." },
+        { "distractor": "skeptical", "closeness": 3, "reasoning": "Skeptical means inclined to doubt or question, but the sentence emphasizes fear-driven worry rather than doubt." },
+        { "distractor": "conservative", "closeness": 3, "reasoning": "Conservative means cautious or avoiding risk, but the sentence reveals the issue as fear, not prudent caution." },
+        { "distractor": "wary", "closeness": 3, "reasoning": "Wary means cautious or suspicious, which is close, but the sentence emphasizes fear-driven worry despite strong fundamentals." },
+        { "distractor": "anxious", "closeness": 2, "reasoning": "Anxious means worried or uneasy, which is related, but the sentence requires emphasis on fearfulness as disposition, not merely worry." },
+        { "distractor": "doubtful", "closeness": 2, "reasoning": "Doubtful means inclined to disbelieve or suspect, but the sentence emphasizes fear-driven concern about risks and setbacks." },
+        { "distractor": "apprehensive", "closeness": 2, "reasoning": "Apprehensive means anxious or fearful, which is very close, but emphasizes anticipatory anxiety rather than fearful disposition." },
+        { "distractor": "hesitant", "closeness": 2, "reasoning": "Hesitant means reluctant or uncertain, but the sentence reveals fearfulness as the underlying cause of declining to fund." },
+        { "distractor": "optimistic", "closeness": 1, "reasoning": "Optimistic means expecting positive outcomes, opposite to constant worry about risks and setbacks." },
+        { "distractor": "confident", "closeness": 1, "reasoning": "Confident means assured and self-trusting, opposite to fearful worry despite strong fundamentals." },
+        { "distractor": "bold", "closeness": 1, "reasoning": "Bold means brave and willing to take risks, opposite to fearful hesitation about funding." }
+      ]
+    }
+  ]
+}

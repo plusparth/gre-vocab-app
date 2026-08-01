@@ -2,51 +2,183 @@
   "word": "apothegm",
   "sentenceSets": [
     {
-      "sentence": "The general's most famous apothegm—'In war, certainty of death is preferable to the uncertainty of defeat'—became a rallying cry for his troops.",
+      "sentence": "The general's apothegm—'speed is surprise'—was cited in every subsequent manual on military tactics.",
       "answerChoices": [
-        { "distractor": "strategy", "closeness": 3, "reasoning": "Close -- 'strategy' refers to a plan of action; while the apothegm may inspire strategy, it is itself a concise saying, not a plan." },
-        { "distractor": "philosophy", "closeness": 3, "reasoning": "Close -- 'philosophy' is a system of belief; the apothegm expresses a philosophical view, but apothegm specifically denotes a terse, memorable saying." },
-        { "distractor": "speech", "closeness": 3, "reasoning": "Close -- 'speech' is extended address; an apothegm is a pithy saying, typically much shorter than a speech." },
-        { "distractor": "motto", "closeness": 3, "reasoning": "Close -- 'motto' is a short saying expressing a principle; while apothegm and motto are related, apothegm emphasizes the concise, witty formulation." },
-        { "distractor": "command", "closeness": 2, "reasoning": "Incorrect -- 'command' is an order to be obeyed; the apothegm was a saying that inspired, not a direct order." },
-        { "distractor": "legend", "closeness": 2, "reasoning": "Incorrect -- 'legend' is a story or tradition; the apothegm is a concise saying, not a narrative." },
-        { "distractor": "doctrine", "closeness": 2, "reasoning": "Incorrect -- 'doctrine' is a formal belief system; while the apothegm expresses a viewpoint, it is a saying rather than a doctrine." },
-        { "distractor": "reputation", "closeness": 2, "reasoning": "Incorrect -- 'reputation' is how someone is regarded; the apothegm contributed to his reputation but is not itself a reputation." },
-        { "distractor": "question", "closeness": 1, "reasoning": "Opposite -- 'question' seeks information; an apothegm provides a concise answer or assertion, not a question." },
-        { "distractor": "contradiction", "closeness": 1, "reasoning": "Opposite -- 'contradiction' denies a statement; the apothegm asserts a principle rather than contradicting one." },
-        { "distractor": "complaint", "closeness": 1, "reasoning": "Incorrect -- 'complaint' expresses dissatisfaction; the apothegm states a principle about war and certainty." }
+        {
+          "distractor": "maxim",
+          "closeness": 3,
+          "reasoning": "Both are brief instructive sayings, but a maxim is a general principle for living, while an apothegm is a short, pithy, memorable saying."
+        },
+        {
+          "distractor": "motto",
+          "closeness": 3,
+          "reasoning": "Both are concise guiding phrases, but a motto is an adopted slogan while an apothegm is specifically a pithy, instructive saying."
+        },
+        {
+          "distractor": "dictum",
+          "closeness": 3,
+          "reasoning": "Both are authoritative pronouncements, but a dictum is a formal decree, while an apothegm is specifically a pithy, memorable instructive saying."
+        },
+        {
+          "distractor": "axiom",
+          "closeness": 3,
+          "reasoning": "Both express fundamental truths, but an axiom is a logical premise, while an apothegm is a memorable, pithy practical saying."
+        },
+        {
+          "distractor": "principle",
+          "closeness": 2,
+          "reasoning": "A principle is a fundamental rule, but an apothegm is specifically a short, pithy, memorable formulation of insight."
+        },
+        {
+          "distractor": "rule",
+          "closeness": 2,
+          "reasoning": "A rule is a guideline for behavior, but an apothegm is a memorable, pithy saying that teaches through its concise wit."
+        },
+        {
+          "distractor": "lesson",
+          "closeness": 2,
+          "reasoning": "A lesson teaches a truth, but an apothegm specifically does so through a short, pithy, memorable formulation."
+        },
+        {
+          "distractor": "doctrine",
+          "closeness": 2,
+          "reasoning": "A doctrine is a system of beliefs, but an apothegm is a pithy, brief, memorable instructive saying."
+        },
+        {
+          "distractor": "narrative",
+          "closeness": 1,
+          "reasoning": "A narrative tells a story; the sentence describes a brief pithy saying, not a story."
+        },
+        {
+          "distractor": "speech",
+          "closeness": 1,
+          "reasoning": "A speech is an extended address; the example shows a single short pithy phrase, the opposite of lengthy."
+        },
+        {
+          "distractor": "question",
+          "closeness": 1,
+          "reasoning": "A question seeks information; the sentence shows a declarative statement that teaches a tactic, not an inquiry."
+        }
       ]
     },
     {
-      "sentence": "As a master of apothegms, Benjamin Franklin crafted pithy sayings like 'Early to bed and early to rise' that remain memorable centuries later.",
+      "sentence": "Her apothegm about leadership—'authority without empathy becomes tyranny'—resonated deeply with the audience and appeared in countless social media posts for weeks.",
       "answerChoices": [
-        { "distractor": "essays", "closeness": 3, "reasoning": "Close -- 'essays' are written compositions on a topic; while Franklin wrote essays, apothegms are terse, memorable sayings, not longer essays." },
-        { "distractor": "proverbs", "closeness": 3, "reasoning": "Close -- 'proverbs' are traditional short sayings; apothegms and proverbs overlap, but apothegms emphasize the wit and brevity of original formulation." },
-        { "distractor": "anecdotes", "closeness": 3, "reasoning": "Close -- 'anecdotes' are short stories; while memorable like apothegms, anecdotes are narratives rather than concise sayings." },
-        { "distractor": "jokes", "closeness": 3, "reasoning": "Close -- 'jokes' are humorous sayings; while apothegms may be witty, apothegm emphasizes a wise, memorable saying rather than humor." },
-        { "distractor": "lectures", "closeness": 2, "reasoning": "Incorrect -- 'lectures' are extended formal addresses; apothegms are concise sayings, not lectures." },
-        { "distractor": "riddles", "closeness": 2, "reasoning": "Incorrect -- 'riddles' are puzzles; apothegms are clear, memorable sayings, not puzzles." },
-        { "distractor": "sermons", "closeness": 2, "reasoning": "Incorrect -- 'sermons' are religious addresses; the apothegm is a secular saying about daily habits." },
-        { "distractor": "debates", "closeness": 2, "reasoning": "Incorrect -- 'debates' are extended arguments; apothegms are concise statements, not debates." },
-        { "distractor": "novels", "closeness": 1, "reasoning": "Opposite -- 'novels' are long narrative works; apothegms are terse, memorable sayings." },
-        { "distractor": "gibberish", "closeness": 1, "reasoning": "Opposite -- 'gibberish' is nonsensical speech; apothegms are wise, memorable, and clear." },
-        { "distractor": "silence", "closeness": 1, "reasoning": "Incorrect -- 'silence' is absence of speech; Franklin was known for crafting memorable sayings, the opposite." }
+        {
+          "distractor": "adage",
+          "closeness": 3,
+          "reasoning": "Both are concise traditional sayings, but an adage is typically a widely known saying passed down, while an apothegm is her newly stated pithy insight."
+        },
+        {
+          "distractor": "proverb",
+          "closeness": 3,
+          "reasoning": "Both convey wisdom concisely, but a proverb is traditionally established, while an apothegm is a newly formulated pithy saying."
+        },
+        {
+          "distractor": "epigram",
+          "closeness": 3,
+          "reasoning": "Both are witty concise statements, but an epigram is typically a clever paradox, while an apothegm is simply a memorable instructive saying."
+        },
+        {
+          "distractor": "catchphrase",
+          "closeness": 3,
+          "reasoning": "Both become memorable and widely repeated, but a catchphrase is usually clever or humorous, while an apothegm is instructive and pithy."
+        },
+        {
+          "distractor": "observation",
+          "closeness": 2,
+          "reasoning": "An observation notes something true, but an apothegm specifically formulates it as a pithy, memorable instructive saying."
+        },
+        {
+          "distractor": "comment",
+          "closeness": 2,
+          "reasoning": "A comment expresses a view, but an apothegm specifically formulates it as a concise, pithy, instructive saying."
+        },
+        {
+          "distractor": "wisdom",
+          "closeness": 2,
+          "reasoning": "Wisdom is deep understanding, but an apothegm is specifically a short, memorable formulation of that insight."
+        },
+        {
+          "distractor": "insight",
+          "closeness": 2,
+          "reasoning": "An insight is a realization, but an apothegm specifically formulates it as a pithy, memorable statement."
+        },
+        {
+          "distractor": "question",
+          "closeness": 1,
+          "reasoning": "A question asks for information; the sentence shows a declarative pithy statement about leadership, not an inquiry."
+        },
+        {
+          "distractor": "confession",
+          "closeness": 1,
+          "reasoning": "A confession admits wrongdoing; the sentence shows a pithy instructive statement that resonated as wisdom."
+        },
+        {
+          "distractor": "theory",
+          "closeness": 1,
+          "reasoning": "A theory is an explanation of how things work; the sentence shows a concise pithy saying, not a developed explanation."
+        }
       ]
     },
     {
-      "sentence": "The philosopher's apothegm about suffering—'No pain is permanent'—consoled many readers despite its deceptive simplicity.",
+      "sentence": "The philosopher's apothegm, uttered casually in a lecture and quickly forgotten, suddenly gained prominence centuries later when a historian quoted it in a widely read book.",
       "answerChoices": [
-        { "distractor": "argument", "closeness": 3, "reasoning": "Close -- 'argument' presents reasons for a conclusion; while the apothegm embodies an argument, apothegm emphasizes the terse, memorable formulation rather than extended reasoning." },
-        { "distractor": "observation", "closeness": 3, "reasoning": "Close -- 'observation' notes something perceived; the apothegm makes an observation, but apothegm specifically denotes a concise, witty formulation." },
-        { "distractor": "theory", "closeness": 3, "reasoning": "Close -- 'theory' is a system of ideas; while the apothegm expresses a theoretical view, apothegm is a saying, not a full theory." },
-        { "distractor": "warning", "closeness": 3, "reasoning": "Close -- 'warning' cautions against something; while the apothegm may serve as warning, it primarily asserts a truth about suffering." },
-        { "distractor": "question", "closeness": 2, "reasoning": "Incorrect -- 'question' seeks information; the apothegm asserts a principle, not asks a question." },
-        { "distractor": "complaint", "closeness": 2, "reasoning": "Incorrect -- 'complaint' expresses dissatisfaction; the apothegm offers consolation and wisdom." },
-        { "distractor": "confession", "closeness": 2, "reasoning": "Incorrect -- 'confession' admits wrongdoing; the apothegm expresses wisdom about suffering." },
-        { "distractor": "prediction", "closeness": 2, "reasoning": "Incorrect -- 'prediction' forecasts future events; the apothegm asserts an eternal truth." },
-        { "distractor": "paradox", "closeness": 1, "reasoning": "Opposite -- 'paradox' is a self-contradiction; the apothegm asserts a clear truth ('pain is not permanent')." },
-        { "distractor": "complexity", "closeness": 1, "reasoning": "Opposite -- 'complexity' means intricate and difficult; apothegm emphasizes deceptive simplicity and clarity." },
-        { "distractor": "obscurity", "closeness": 1, "reasoning": "Incorrect -- 'obscurity' means lack of clarity; the apothegm was memorable and affected readers." }
+        {
+          "distractor": "analogy",
+          "closeness": 3,
+          "reasoning": "Both make teaching points concisely, but an analogy compares two things, while an apothegm is a pithy instructive saying standing on its own."
+        },
+        {
+          "distractor": "paradox",
+          "closeness": 3,
+          "reasoning": "Both present surprising truth concisely, but a paradox emphasizes contradiction, while an apothegm is simply a memorable instructive saying."
+        },
+        {
+          "distractor": "parable",
+          "closeness": 3,
+          "reasoning": "Both teach through concise formulation, but a parable is a brief story, while an apothegm is a pithy statement."
+        },
+        {
+          "distractor": "allegory",
+          "closeness": 3,
+          "reasoning": "Both convey meaning concisely, but an allegory tells a symbolic story, while an apothegm is a brief instructive saying."
+        },
+        {
+          "distractor": "quote",
+          "closeness": 2,
+          "reasoning": "A quote is any repeated statement, but an apothegm specifically denotes a memorable, instructive, pithy saying."
+        },
+        {
+          "distractor": "remark",
+          "closeness": 2,
+          "reasoning": "A remark is any comment, but an apothegm is specifically a pithy, instructive, memorable statement."
+        },
+        {
+          "distractor": "statement",
+          "closeness": 2,
+          "reasoning": "A statement expresses something, but an apothegm specifically formulates it as memorable and pithy."
+        },
+        {
+          "distractor": "utterance",
+          "closeness": 2,
+          "reasoning": "An utterance is any spoken words, but an apothegm is specifically a pithy instructive formulation worthy of remembrance."
+        },
+        {
+          "distractor": "question",
+          "closeness": 1,
+          "reasoning": "A question seeks information; the sentence describes a statement the philosopher made, not an inquiry."
+        },
+        {
+          "distractor": "debate",
+          "closeness": 1,
+          "reasoning": "A debate involves opposing arguments; the sentence describes a single pithy saying that gained prominence."
+        },
+        {
+          "distractor": "argument",
+          "closeness": 1,
+          "reasoning": "An argument develops reasoning over time; an apothegm is a concise, memorable brief saying."
+        }
       ]
     }
   ]

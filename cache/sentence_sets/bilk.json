@@ -1,0 +1,53 @@
+{
+  "word": "bilk",
+  "sentenceSets": [
+    {
+      "sentence": "The contractor bilked his clients out of thousands by charging for work he never completed.",
+      "answerChoices": [
+        { "distractor": "defraud", "closeness": 3, "reasoning": "Defraud means to cheat or swindle; while nearly identical in meaning to bilk in this context, the sentence's specific mention of false billing suggests a particular payment scheme." },
+        { "distractor": "cheat", "closeness": 3, "reasoning": "Cheat means to deceive for gain; though similar, the sentence describes a specific financial deception involving false work invoicing." },
+        { "distractor": "swindle", "closeness": 3, "reasoning": "Swindle means to trick someone out of money; while very close in meaning, the sentence emphasizes charging for nonexistent work, a particular type of financial fraud." },
+        { "distractor": "embezzle", "closeness": 3, "reasoning": "Embezzle means to steal entrusted funds; while both are financial crimes, the sentence describes a contractor overcharging clients for work, not misappropriating held money." },
+        { "distractor": "overcharge", "closeness": 2, "reasoning": "Overcharge means to charge too high a price; though related, the sentence indicates charging for work not performed, not simply asking too much for actual work." },
+        { "distractor": "exploit", "closeness": 2, "reasoning": "Exploit means to take unfair advantage; while it describes unfair treatment, the sentence focuses on a specific financial deception scheme." },
+        { "distractor": "fleece", "closeness": 2, "reasoning": "Fleece means to swindle; though similar, the sentence's details about charging for uncompleted work indicate a particular type of financial crime." },
+        { "distractor": "rob", "closeness": 2, "reasoning": "Rob means to take by force or stealth; while the contractor takes money unlawfully, the sentence describes a deception scheme rather than theft through force." },
+        { "distractor": "repay", "closeness": 1, "reasoning": "Repay means to pay back money owed; this is the opposite action to taking money that clients sent for services." },
+        { "distractor": "credit", "closeness": 1, "reasoning": "Credit means to give payment acknowledgment; this contradicts the scheme of charging clients falsely for nonexistent work." },
+        { "distractor": "compensate", "closeness": 1, "reasoning": "Compensate means to pay someone for work or loss; this is opposite to the contractor failing to provide work while taking payment." }
+      ]
+    },
+    {
+      "sentence": "The heavy rain bilked the tennis team of their championship match, forcing officials to cancel the tournament entirely.",
+      "answerChoices": [
+        { "distractor": "deprived", "closeness": 3, "reasoning": "Deprived means to take away; while similar in effect, the sentence emphasizes the weather preventing something from happening, not removing something already possessed." },
+        { "distractor": "robbed", "closeness": 3, "reasoning": "Robbed means to steal or take by force; though the effect is similar, the sentence's focus on weather preventing the match suggests a particular type of blocking." },
+        { "distractor": "denied", "closeness": 3, "reasoning": "Denied means to refuse or withhold; while it describes the outcome, the sentence emphasizes how an external force blocked the match." },
+        { "distractor": "cheated", "closeness": 3, "reasoning": "Cheated describes unfair treatment; while the team is treated unfairly by weather, the sentence indicates an obstruction rather than deception." },
+        { "distractor": "thwarted", "closeness": 2, "reasoning": "Thwarted means to block or prevent; while it's close in meaning, the sentence's emphasis on the weather removing the opportunity suggests a particular quality." },
+        { "distractor": "hindered", "closeness": 2, "reasoning": "Hindered means to create obstacles; though weather is obstructive, the sentence describes a complete prevention rather than just making something difficult." },
+        { "distractor": "interrupted", "closeness": 2, "reasoning": "Interrupted means to stop an ongoing activity; the sentence indicates the match was prevented entirely, not stopped midway." },
+        { "distractor": "delayed", "closeness": 2, "reasoning": "Delayed means to postpone; the sentence indicates cancellation entirely, not just putting off the match." },
+        { "distractor": "granted", "closeness": 1, "reasoning": "Granted means to give or allow; this is the opposite of the weather preventing the match." },
+        { "distractor": "enabled", "closeness": 1, "reasoning": "Enabled means to make possible; this contradicts the weather's effect of preventing the tournament." },
+        { "distractor": "facilitated", "closeness": 1, "reasoning": "Facilitated means to make easier; this is opposite to the weather preventing the match from occurring." }
+      ]
+    },
+    {
+      "sentence": "The restaurant's reputation for quality service bilked diners into high expectations that they later felt entirely unmet.",
+      "answerChoices": [
+        { "distractor": "tricked", "closeness": 3, "reasoning": "Tricked means to deceive; while similar in conveying deceptive effect, the sentence emphasizes how a false reputation misled customers, not an intentional trick." },
+        { "distractor": "lured", "closeness": 3, "reasoning": "Lured means to entice with false promise; while close in meaning, the sentence describes a mismatched expectation created by reputation rather than deliberate enticement." },
+        { "distractor": "coaxed", "closeness": 3, "reasoning": "Coaxed means to persuade gently; while it suggests deception, the sentence indicates how a reputation created false expectations, not gentle persuasion." },
+        { "distractor": "misled", "closeness": 3, "reasoning": "Misled means to give false guidance; while similar, the sentence emphasizes a reputation setting expectations, a specific form of deception." },
+        { "distractor": "disappointed", "closeness": 2, "reasoning": "Disappointed means to fail to meet hopes; while this is the result, the sentence's focus is on how the restaurant's reputation actively created inflated expectations." },
+        { "distractor": "discouraged", "closeness": 2, "reasoning": "Discouraged means to diminish hope; while the result is similar, the sentence indicates the reputation specifically created false expectations, not just diminished motivation." },
+        { "distractor": "frustrated", "closeness": 2, "reasoning": "Frustrated means to prevent satisfaction; while it describes the outcome, the sentence emphasizes the reputation's role in creating mismatched expectations." },
+        { "distractor": "unsatisfied", "closeness": 2, "reasoning": "Unsatisfied describes a state; the sentence's emphasis is on how the reputation created the problem, not just the resulting dissatisfaction." },
+        { "distractor": "satisfied", "closeness": 1, "reasoning": "Satisfied means content and pleased; this contradicts the sentence's description of expectations going unmet." },
+        { "distractor": "fulfilled", "closeness": 1, "reasoning": "Fulfilled means to have hopes or expectations realized; this is opposite to the unmet expectations the sentence describes." },
+        { "distractor": "pleased", "closeness": 1, "reasoning": "Pleased means to be satisfied; this contradicts the diners feeling their expectations were entirely unmet." }
+      ]
+    }
+  ]
+}

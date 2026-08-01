@@ -1,0 +1,53 @@
+{
+  "word": "beleaguer",
+  "sentenceSets": [
+    {
+      "sentence": "Beleaguered by lawsuits, bad press, and falling sales, the company had few good options left.",
+      "answerChoices": [
+        { "distractor": "besieged", "closeness": 3, "reasoning": "Beleaguer means to besiege; these are nearly synonymous, both describing surrounding with hostile forces." },
+        { "distractor": "assailed", "closeness": 3, "reasoning": "Both describe being attacked from multiple directions, but assailed emphasizes violent attack, while beleaguer emphasizes besieging." },
+        { "distractor": "harassed", "closeness": 3, "reasoning": "Both describe persistent troubling, but harassed emphasizes annoying or intimidating, while beleaguer emphasizes surrounding with trouble." },
+        { "distractor": "attacked", "closeness": 3, "reasoning": "Both describe being under assault, but attacked is broader, while beleaguered emphasizes multiple surrounding attacks." },
+        { "distractor": "plagued", "closeness": 2, "reasoning": "The company is plagued by troubles, but plagued emphasizes persistent annoyance, while beleaguered emphasizes surrounding troubles." },
+        { "distractor": "troubled", "closeness": 2, "reasoning": "The company is troubled, but troubled is too general and doesn't capture beleaguered's sense of siege." },
+        { "distractor": "pressured", "closeness": 2, "reasoning": "The company faces pressure, but pressured emphasizes force applied, while beleaguer emphasizes being surrounded." },
+        { "distractor": "challenged", "closeness": 2, "reasoning": "The company faces challenges, but challenged emphasizes difficulty, while beleaguered emphasizes multiple surrounding attacks." },
+        { "distractor": "flourishing", "closeness": 1, "reasoning": "The company is beleaguered by problems; flourishing means thriving and succeeding." },
+        { "distractor": "liberated", "closeness": 1, "reasoning": "The company is beleaguered; liberated means freed from constraint." },
+        { "distractor": "untroubled", "closeness": 1, "reasoning": "The company is beleaguered; untroubled means peaceful and undisturbed." }
+      ]
+    },
+    {
+      "sentence": "The general knew his forces were beleaguered by the enemy on three sides, with supply lines cut and reinforcements unlikely.",
+      "answerChoices": [
+        { "distractor": "surrounded", "closeness": 3, "reasoning": "Both describe being enclosed by enemies, but surrounded emphasizes encirclement, while beleaguered emphasizes the siege itself." },
+        { "distractor": "trapped", "closeness": 3, "reasoning": "Both describe being unable to escape, but trapped emphasizes captive state, while beleaguered emphasizes being besieged." },
+        { "distractor": "hemmed in", "closeness": 3, "reasoning": "Both describe encirclement, but hemmed in emphasizes being confined, while beleaguered emphasizes being under siege." },
+        { "distractor": "enclosed", "closeness": 3, "reasoning": "Both describe being surrounded, but enclosed emphasizes being shut in, while beleaguered emphasizes hostile siege." },
+        { "distractor": "cornered", "closeness": 2, "reasoning": "The forces are cornered, but cornered emphasizes having nowhere to go, while beleaguered emphasizes siege." },
+        { "distractor": "cut off", "closeness": 2, "reasoning": "The forces are cut off, but this emphasizes isolation rather than active siege." },
+        { "distractor": "isolated", "closeness": 2, "reasoning": "The forces are isolated, but isolated emphasizes separation, while beleaguered emphasizes active siege." },
+        { "distractor": "threatened", "closeness": 2, "reasoning": "The forces are threatened, but threatened emphasizes danger, while beleaguered emphasizes active siege." },
+        { "distractor": "relieved", "closeness": 1, "reasoning": "The general's forces are beleaguered; relieved means freed from burden." },
+        { "distractor": "reinforced", "closeness": 1, "reasoning": "The forces are beleaguered without reinforcements; reinforced means strengthened with additional support." },
+        { "distractor": "victorious", "closeness": 1, "reasoning": "The beleaguered forces are in dire straits; victorious means winning." }
+      ]
+    },
+    {
+      "sentence": "The hospital administrator was beleaguered by budget cuts, staff shortages, and patient complaints, struggling to maintain quality care.",
+      "answerChoices": [
+        { "distractor": "overwhelmed", "closeness": 3, "reasoning": "Both describe being struck by multiple problems, but overwhelmed emphasizes emotional impact, while beleaguered emphasizes being surrounded by troubles." },
+        { "distractor": "inundated", "closeness": 3, "reasoning": "Both describe being flooded with problems, but inundated emphasizes sudden overwhelming flow, while beleaguered emphasizes sustained siege." },
+        { "distractor": "swamped", "closeness": 3, "reasoning": "Both describe being buried in problems, but swamped emphasizes sudden surplus, while beleaguered emphasizes sustained siege." },
+        { "distractor": "overburdened", "closeness": 3, "reasoning": "Both describe being weighed down by multiple demands, but overburdened emphasizes weight, while beleaguered emphasizes hostile siege." },
+        { "distractor": "stressed", "closeness": 2, "reasoning": "The administrator is stressed, but stressed describes emotional state, while beleaguered describes external surrounding problems." },
+        { "distractor": "fatigued", "closeness": 2, "reasoning": "The administrator is fatigued, but fatigued describes tiredness, while beleaguered describes being surrounded by troubles." },
+        { "distractor": "frustrated", "closeness": 2, "reasoning": "The administrator feels frustrated, but frustrated describes emotion, while beleaguered describes external siege." },
+        { "distractor": "challenged", "closeness": 2, "reasoning": "The administrator faces challenges, but challenged emphasizes difficulty, while beleaguered emphasizes hostile siege." },
+        { "distractor": "supported", "closeness": 1, "reasoning": "The administrator is beleaguered; supported means given backing." },
+        { "distractor": "encouraged", "closeness": 1, "reasoning": "The administrator is beleaguered; encouraged means given confidence." },
+        { "distractor": "empowered", "closeness": 1, "reasoning": "The administrator is beleaguered; empowered means given authority." }
+      ]
+    }
+  ]
+}

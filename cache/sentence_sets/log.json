@@ -1,0 +1,53 @@
+{
+  "word": "log",
+  "sentenceSets": [
+    {
+      "sentence": "The construction crew stacked massive logs along the perimeter of the future building site.",
+      "answerChoices": [
+        { "distractor": "timber", "closeness": 3, "reasoning": "Close near-synonym -- 'timber' refers to wood suitable for building, but is broader and more general; 'log' specifically means a cut or fallen piece, typically bulkier." },
+        { "distractor": "beam", "closeness": 3, "reasoning": "Close -- 'beam' is a length of wood used in construction, but typically refers to processed, squared timber; a log is rougher and in a more natural state." },
+        { "distractor": "plank", "closeness": 3, "reasoning": "Close -- 'plank' is a thick board of wood, but it is processed and sawn flat; a log is a bulky unprocessed section of trunk." },
+        { "distractor": "trunk", "closeness": 3, "reasoning": "Close -- 'trunk' is the main stem of a tree, but refers to the tree itself; a log is the sectioned or fallen version." },
+        { "distractor": "board", "closeness": 2, "reasoning": "Incorrect -- a 'board' is a thin, flat piece of sawn wood; it lacks the bulk and natural shape characteristic of a log." },
+        { "distractor": "stake", "closeness": 2, "reasoning": "Incorrect -- a 'stake' is a sharpened wooden post driven into the ground; it is smaller and more refined than a log." },
+        { "distractor": "post", "closeness": 2, "reasoning": "Incorrect -- a 'post' is a length of wood set upright as a support; it is typically squared and processed, not bulky and raw like a log." },
+        { "distractor": "cord", "closeness": 2, "reasoning": "Incorrect -- 'cord' refers to a measured unit of stacked wood, not a physical piece; it is a measurement rather than an object." },
+        { "distractor": "branch", "closeness": 1, "reasoning": "Incorrect -- a 'branch' is a limb projecting from a tree trunk; while wooden, it is much smaller and thinner than a log." },
+        { "distractor": "splinter", "closeness": 1, "reasoning": "Incorrect -- a 'splinter' is a thin, sharp fragment of wood; it is the opposite of bulky and substantial." },
+        { "distractor": "ash", "closeness": 1, "reasoning": "Incorrect -- 'ash' is the powdery residue left after burning; it is unrelated to a piece of wood from a tree." }
+      ]
+    },
+    {
+      "sentence": "The ship's captain kept a detailed log of weather patterns and daily coordinates to aid navigation.",
+      "answerChoices": [
+        { "distractor": "record", "closeness": 3, "reasoning": "Close near-synonym -- 'record' is a broader term for documented information; 'log' specifically emphasizes sequential, systematic documentation over time." },
+        { "distractor": "register", "closeness": 3, "reasoning": "Close -- a 'register' is a formal written record, but implies alphabetical or categorical organization; a log is typically chronological." },
+        { "distractor": "journal", "closeness": 3, "reasoning": "Close -- a 'journal' is a written account of events, but often reflects personal reflection; a log is more purely factual and technical." },
+        { "distractor": "ledger", "closeness": 3, "reasoning": "Close -- a 'ledger' is a systematic record, but typically refers to financial accounts; a log is a general chronological account." },
+        { "distractor": "archive", "closeness": 2, "reasoning": "Incorrect -- an 'archive' is a collection of historical records; it refers to stored material rather than the ongoing documentation that comprises a log." },
+        { "distractor": "transcript", "closeness": 2, "reasoning": "Incorrect -- a 'transcript' is a written version of spoken words; it does not fit the meaning of documented observations." },
+        { "distractor": "chart", "closeness": 2, "reasoning": "Incorrect -- a 'chart' is a visual map or diagram; while navigation-related, it is not a written sequential record." },
+        { "distractor": "manifest", "closeness": 2, "reasoning": "Incorrect -- a 'manifest' is a list of cargo or passengers; while ship-related, it serves a different purpose than a navigational log." },
+        { "distractor": "tale", "closeness": 1, "reasoning": "Incorrect -- a 'tale' is a story or narrative; it suggests fictional or embellished content rather than factual documentation." },
+        { "distractor": "rumor", "closeness": 1, "reasoning": "Incorrect -- 'rumor' is unverified hearsay; it is the opposite of systematic, credible documentation." },
+        { "distractor": "map", "closeness": 1, "reasoning": "Incorrect -- a 'map' is a visual representation of geography; while navigation-related, it is not a written sequential record." }
+      ]
+    },
+    {
+      "sentence": "The biologist decided to log all observations in a standardized format to ensure consistent data collection.",
+      "answerChoices": [
+        { "distractor": "document", "closeness": 3, "reasoning": "Close near-synonym -- 'document' means to record in writing, similar to log, but is more general and less specific about systematic sequencing." },
+        { "distractor": "chronicle", "closeness": 3, "reasoning": "Close -- 'chronicle' means to record events in the order they occur, but emphasizes narrative continuity more than the technical precision of a log." },
+        { "distractor": "catalog", "closeness": 3, "reasoning": "Close -- 'catalog' means to make a systematic list, but typically implies organization by category rather than the temporal sequencing of a log." },
+        { "distractor": "archive", "closeness": 3, "reasoning": "Close -- 'archive' means to store systematically, but refers to preservation of existing records rather than the ongoing act of recording." },
+        { "distractor": "compile", "closeness": 2, "reasoning": "Incorrect -- 'compile' means to assemble from various sources; it refers to gathering existing material rather than the systematic recording that logging involves." },
+        { "distractor": "tabulate", "closeness": 2, "reasoning": "Incorrect -- 'tabulate' means to arrange in a table; while orderly, it emphasizes visual presentation rather than the sequential documentation of logging." },
+        { "distractor": "track", "closeness": 2, "reasoning": "Incorrect -- 'track' means to follow or monitor; it implies ongoing attention but lacks the formal documentation emphasis of logging." },
+        { "distractor": "monitor", "closeness": 2, "reasoning": "Incorrect -- 'monitor' means to observe and check; it does not necessarily involve the systematic written recording that logging requires." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Opposite -- 'ignore' means to disregard; it is the opposite of systematically recording information." },
+        { "distractor": "erase", "closeness": 1, "reasoning": "Opposite -- 'erase' means to remove or delete; it is contrary to the purpose of documenting observations." },
+        { "distractor": "scatter", "closeness": 1, "reasoning": "Incorrect -- 'scatter' means to disperse disorderly; it is the opposite of the organized, systematic approach that logging embodies." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "benevolent",
+  "sentenceSets": [
+    {
+      "sentence": "Despite his benevolent reputation, some questioned whether his charity was driven by genuine concern.",
+      "answerChoices": [
+        { "distractor": "magnanimous", "closeness": 3, "reasoning": "Close - both words mean generous and noble-spirited, but 'magnanimous' emphasizes nobility of character and forgiving nature, while 'benevolent' focuses more on being disposed to doing good." },
+        { "distractor": "charitable", "closeness": 3, "reasoning": "Close - 'charitable' means giving to charity and showing kindness, which is very similar, but it often refers specifically to organized giving, whereas 'benevolent' describes a broader disposition toward goodness." },
+        { "distractor": "philanthropic", "closeness": 3, "reasoning": "Close - 'philanthropic' relates to organized giving and support of causes, which fits the sentence, but it emphasizes structured charitable work rather than the personal character trait." },
+        { "distractor": "altruistic", "closeness": 3, "reasoning": "Close - 'altruistic' means selflessly concerned with others' welfare, which is similar, but it emphasizes freedom from self-interest rather than the positive disposition to do good." },
+        { "distractor": "virtuous", "closeness": 2, "reasoning": "Incorrect - 'virtuous' means morally good in general, which is too broad; the sentence questions whether his charity is genuine, not whether he possesses general moral virtues." },
+        { "distractor": "sincere", "closeness": 2, "reasoning": "Incorrect - 'sincere' means honest in expression, but it does not specifically mean marked by kindness or generosity as 'benevolent' does." },
+        { "distractor": "modest", "closeness": 2, "reasoning": "Incorrect - 'modest' means humble or unassuming, which might accompany benevolence but does not mean disposed to do good; the sentence focuses on reputation for kindness, not humility." },
+        { "distractor": "sympathetic", "closeness": 2, "reasoning": "Incorrect - 'sympathetic' means showing understanding and care for others' feelings, which is related but does not specifically mean disposed to good actions or generosity." },
+        { "distractor": "callous", "closeness": 1, "reasoning": "Opposite - 'callous' means emotionally hardened and uncaring, which directly contradicts a reputation for kindness and generosity." },
+        { "distractor": "stingy", "closeness": 1, "reasoning": "Opposite - 'stingy' means unwilling to spend money or give, the opposite of a benevolent reputation." },
+        { "distractor": "mercenary", "closeness": 1, "reasoning": "Opposite - 'mercenary' means motivated by money and profit, which contradicts the charitable nature implied by benevolence." }
+      ]
+    },
+    {
+      "sentence": "The benevolent millionaire anonymously funded the entire scholarship program, asking for no recognition.",
+      "answerChoices": [
+        { "distractor": "generous", "closeness": 3, "reasoning": "Close - 'generous' means giving freely and abundantly, which fits the scale of funding, but it emphasizes the act of giving rather than the character trait of being disposed to goodness." },
+        { "distractor": "humanitarian", "closeness": 3, "reasoning": "Close - 'humanitarian' means concerned with human welfare, which fits helping through scholarships, but it focuses on principles rather than the personal disposition to kindness." },
+        { "distractor": "munificent", "closeness": 3, "reasoning": "Close - 'munificent' means extremely generous and lavish, which fits the large fund, but it emphasizes the scale and splendor rather than the underlying benevolent character." },
+        { "distractor": "selfless", "closeness": 3, "reasoning": "Close - 'selfless' means putting others' welfare first, which fits the anonymous giving, but it describes freedom from self-interest rather than the active disposition toward good." },
+        { "distractor": "noble", "closeness": 2, "reasoning": "Incorrect - 'noble' refers to high-minded and honorable character, which is related but focuses on dignity and honor rather than kindness and generosity specifically." },
+        { "distractor": "unselfish", "closeness": 2, "reasoning": "Incorrect - 'unselfish' means not self-centered, which fits the anonymity but does not capture the specific meaning of disposed toward good actions." },
+        { "distractor": "gracious", "closeness": 2, "reasoning": "Incorrect - 'gracious' means courteous and hospitable, which could fit generosity but suggests social grace rather than the serious commitment of funding an entire program." },
+        { "distractor": "devoted", "closeness": 2, "reasoning": "Incorrect - 'devoted' means enthusiastically committed and loyal, which fits the commitment but does not specifically mean disposed to kindness or generosity." },
+        { "distractor": "arrogant", "closeness": 1, "reasoning": "Opposite - 'arrogant' means excessively proud; someone truly arrogant would demand credit for their giving, contradicting the millionaire's anonymous approach." },
+        { "distractor": "vain", "closeness": 1, "reasoning": "Opposite - 'vain' means excessively concerned with one's appearance and glory; incompatible with 'asking for no recognition'." },
+        { "distractor": "ostentatious", "closeness": 1, "reasoning": "Incorrect - 'ostentatious' means showy and designed to impress; directly contradicted by anonymous giving with no request for recognition." }
+      ]
+    },
+    {
+      "sentence": "The organization's benevolent mission to help homeless families earned it widespread community support.",
+      "answerChoices": [
+        { "distractor": "compassionate", "closeness": 3, "reasoning": "Close - 'compassionate' means feeling and showing sympathy for suffering, which closely matches helping homeless families, but it emphasizes emotional empathy rather than the disposition to do good." },
+        { "distractor": "kindhearted", "closeness": 3, "reasoning": "Close - 'kindhearted' means naturally kind and caring, which fits the helpful mission, but it refers to individual warmth rather than the broader character trait of benevolence." },
+        { "distractor": "well-meaning", "closeness": 3, "reasoning": "Close - 'well-meaning' describes intentions to do good, which fits, but it can imply naïve intentions, whereas 'benevolent' conveys a more serious and reliable disposition." },
+        { "distractor": "humane", "closeness": 3, "reasoning": "Close - 'humane' means showing concern for human welfare, which fits helping, but it emphasizes compassion for suffering rather than the active disposition to do good." },
+        { "distractor": "purposeful", "closeness": 2, "reasoning": "Incorrect - 'purposeful' means acting with clear intention, which might describe the organization but does not specifically mean disposed toward good or kindness." },
+        { "distractor": "earnest", "closeness": 2, "reasoning": "Incorrect - 'earnest' means sincere and serious in intention, which could describe commitment but does not specifically convey kindness or generosity." },
+        { "distractor": "dedicated", "closeness": 2, "reasoning": "Incorrect - 'dedicated' means fully committed to a cause, which fits the focus but does not specifically mean disposed to kindness or good acts." },
+        { "distractor": "steadfast", "closeness": 2, "reasoning": "Incorrect - 'steadfast' means firmly loyal and unwavering, which might describe commitment but does not mean disposed to good or characterized by kindness." },
+        { "distractor": "indifferent", "closeness": 1, "reasoning": "Opposite - 'indifferent' means unconcerned and apathetic; an indifferent organization would not have a mission to help homeless families." },
+        { "distractor": "cynical", "closeness": 1, "reasoning": "Opposite - 'cynical' means distrustful of people's motives and disbelieving in goodness; incompatible with an organization focused on helping others." },
+        { "distractor": "apathetic", "closeness": 1, "reasoning": "Incorrect - 'apathetic' means lacking interest and concern; contradicted by an organization that created a mission to help and earned community support." }
+      ]
+    }
+  ]
+}

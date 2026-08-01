@@ -1,0 +1,53 @@
+{
+  "word": "plenipotentiary",
+  "sentenceSets": [
+    {
+      "sentence": "She arrived at the negotiation as a plenipotentiary, with the authority to conclude an agreement without returning to her principals.",
+      "answerChoices": [
+        { "distractor": "diplomat", "closeness": 3, "reasoning": "Close -- a diplomat participates in negotiations, but the sentence emphasizes independent decision-making authority; a diplomat typically reports to higher officials rather than acting unilaterally." },
+        { "distractor": "representative", "closeness": 3, "reasoning": "Close -- a representative acts on behalf of others, but the key distinction is the scope of independent power; the sentence stresses she need not consult with principals, while a representative often must." },
+        { "distractor": "emissary", "closeness": 3, "reasoning": "Close -- an emissary is sent to conduct negotiations, but without the explicit grant of independent binding authority that the sentence attributes to her position." },
+        { "distractor": "liaison", "closeness": 3, "reasoning": "Close -- a liaison facilitates communication and negotiations between parties, but 'liaison' does not carry the connotation of supreme binding authority to conclude agreements independently." },
+        { "distractor": "advocate", "closeness": 2, "reasoning": "Incorrect -- an advocate argues a position or cause; the sentence focuses on autonomous decision-making power rather than the role of presenting arguments." },
+        { "distractor": "delegate", "closeness": 2, "reasoning": "Incorrect -- a delegate represents a group but is typically bound by instructions; the sentence's emphasis on acting 'without returning to principals' contradicts this constraint." },
+        { "distractor": "envoy", "closeness": 2, "reasoning": "Incorrect -- an envoy carries messages or conducts diplomacy but lacks the explicit authority to independently finalize binding agreements." },
+        { "distractor": "proxy", "closeness": 2, "reasoning": "Incorrect -- a proxy acts in someone's place but usually within defined parameters; the sentence stresses autonomous authority without such constraints." },
+        { "distractor": "subordinate", "closeness": 1, "reasoning": "Opposite -- a subordinate has limited authority and must defer to superiors; the sentence emphasizes independent power, the opposite relationship." },
+        { "distractor": "spectator", "closeness": 1, "reasoning": "Incorrect -- a spectator observes but does not participate; completely wrong for someone actively arriving at a negotiation to conduct it." },
+        { "distractor": "obstructionist", "closeness": 1, "reasoning": "Incorrect -- an obstructionist blocks or impedes; the sentence describes someone empowered to conclude agreements, not to obstruct them." }
+      ]
+    },
+    {
+      "sentence": "The newly appointed plenipotentiary in Moscow had been chosen precisely because the foreign ministry wanted someone who could act swiftly in a crisis without waiting for cables from home.",
+      "answerChoices": [
+        { "distractor": "attaché", "closeness": 3, "reasoning": "Close -- an attaché is a diplomatic official stationed abroad, but the sentence's emphasis on crisis decision-making and swift autonomous action goes beyond the typical attaché role of handling specific administrative matters." },
+        { "distractor": "ambassador", "closeness": 3, "reasoning": "Close -- an ambassador holds senior diplomatic rank and has authority, but the sentence specifically highlights the ability to act in crisis without consulting home office; an ambassador might still report to capital for major decisions." },
+        { "distractor": "consul", "closeness": 3, "reasoning": "Close -- a consul serves abroad with diplomatic standing, but the position typically involves routine administrative and protective duties; the sentence stresses autonomous crisis response." },
+        { "distractor": "minister", "closeness": 3, "reasoning": "Close -- a minister can hold diplomatic rank, but the specific distinction here is the grant of crisis authority without waiting for direction; many ministerial roles require consultation." },
+        { "distractor": "operative", "closeness": 2, "reasoning": "Incorrect -- an operative carries out instructions or operations; the sentence emphasizes independent judgment in a crisis, not mere execution of orders." },
+        { "distractor": "correspondent", "closeness": 2, "reasoning": "Incorrect -- a correspondent reports information; this role lacks the authority to make binding decisions during a crisis." },
+        { "distractor": "observer", "closeness": 2, "reasoning": "Incorrect -- an observer watches and reports; the sentence describes someone chosen to take decisive action, not to passively observe." },
+        { "distractor": "liaison", "closeness": 2, "reasoning": "Incorrect -- a liaison connects parties and facilitates communication but typically operates as a go-between rather than as an independent decision-maker in crises." },
+        { "distractor": "subordinate", "closeness": 1, "reasoning": "Opposite -- a subordinate must await instructions from superiors; the sentence emphasizes precisely the absence of such deference." },
+        { "distractor": "messenger", "closeness": 1, "reasoning": "Incorrect -- a messenger conveys information between parties; the role involves relaying, not making autonomous decisions." },
+        { "distractor": "trainee", "closeness": 1, "reasoning": "Incorrect -- a trainee is learning a role under supervision; the sentence describes someone chosen for independent authority, the opposite of apprenticeship." }
+      ]
+    },
+    {
+      "sentence": "Because the peace talks involved nations with incompatible interests, the organizers granted each delegation's plenipotentiary the widest possible latitude to negotiate creative compromises.",
+      "answerChoices": [
+        { "distractor": "spokesperson", "closeness": 3, "reasoning": "Close -- a spokesperson presents a delegation's position, but the sentence stresses the latitude to negotiate and compromise; a spokesperson typically presents fixed positions rather than having authority to modify them creatively." },
+        { "distractor": "chairman", "closeness": 3, "reasoning": "Close -- a chairman leads a delegation and carries authority, but the sentence emphasizes freedom to negotiate novel terms; a chairman might be constrained by the delegation's mandate." },
+        { "distractor": "negotiator", "closeness": 3, "reasoning": "Close -- a negotiator participates in talks, but 'negotiator' is a generic role; the sentence grants specific supreme authority to compromise, which is more extensive than typical negotiator discretion." },
+        { "distractor": "intermediary", "closeness": 3, "reasoning": "Close -- an intermediary works between parties to find solutions, but the sentence names someone with explicit authority from their own side; an intermediary is often neutral rather than fully empowered by one delegation." },
+        { "distractor": "advocate", "closeness": 2, "reasoning": "Incorrect -- an advocate argues a position but typically cannot modify the underlying mandate; the sentence describes someone authorized to reshape proposals." },
+        { "distractor": "strategist", "closeness": 2, "reasoning": "Incorrect -- a strategist plans tactics and approaches but may lack the authority to make binding decisions on behalf of their delegation." },
+        { "distractor": "judge", "closeness": 2, "reasoning": "Incorrect -- a judge arbitrates between positions; the sentence describes someone with authority to propose compromises from within a delegation, not to render judgment." },
+        { "distractor": "advisor", "closeness": 2, "reasoning": "Incorrect -- an advisor provides counsel but typically cannot commit a delegation to new positions without approval from leadership." },
+        { "distractor": "observer", "closeness": 1, "reasoning": "Incorrect -- an observer watches proceedings but has no authority to negotiate or compromise on behalf of any party." },
+        { "distractor": "obstructor", "closeness": 1, "reasoning": "Incorrect -- an obstructor impedes progress; the sentence describes someone granted wide latitude to facilitate creative solutions." },
+        { "distractor": "subordinate", "closeness": 1, "reasoning": "Incorrect -- a subordinate answers to higher authority; the sentence emphasizes the grant of the widest possible freedom to act." }
+      ]
+    }
+  ]
+}

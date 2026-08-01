@@ -1,0 +1,53 @@
+{
+  "word": "garble",
+  "sentenceSets": [
+    {
+      "sentence": "Her message was so garbled by poor connection that even those who had expected it could not decode it.",
+      "answerChoices": [
+        { "distractor": "corrupted", "closeness": 3, "reasoning": "Close -- 'corrupted' overlaps with garbled in meaning, but emphasizes damage to data integrity rather than the mangling and distortion of a specific message through transmission failure." },
+        { "distractor": "distorted", "closeness": 3, "reasoning": "Close -- 'distorted' implies alteration of shape or form, which fits the idea of a mangled message, but lacks the specific sense of jumbling meaning through technical interference." },
+        { "distractor": "scrambled", "closeness": 3, "reasoning": "Close -- 'scrambled' conveys mixing up or confusing, which is similar to garbling, but typically refers to intentional encoding rather than accidental mangling caused by a technical problem." },
+        { "distractor": "obstructed", "closeness": 3, "reasoning": "Close -- 'obstructed' could describe how a poor connection blocks transmission, but it suggests blocking rather than the rendering of content into unintelligible form." },
+        { "distractor": "dampened", "closeness": 2, "reasoning": "Incorrect -- 'dampened' means to reduce intensity or enthusiasm, not to render a message unintelligible or distorted." },
+        { "distractor": "muffled", "closeness": 2, "reasoning": "Incorrect -- 'muffled' refers to sound being made quieter or less clear, which doesn't capture the sense of content being distorted beyond recognition." },
+        { "distractor": "suppressed", "closeness": 2, "reasoning": "Incorrect -- 'suppressed' means to prevent or inhibit something, not to distort its form or meaning." },
+        { "distractor": "interrupted", "closeness": 2, "reasoning": "Incorrect -- 'interrupted' means to stop something in progress, which doesn't convey the rendering of a message unintelligible." },
+        { "distractor": "clarified", "closeness": 1, "reasoning": "Opposite -- 'clarified' means to make clear or easier to understand, the opposite of making something unintelligible." },
+        { "distractor": "amplified", "closeness": 1, "reasoning": "Opposite -- 'amplified' means to increase in strength or volume, contrary to the degradation implied by poor transmission." },
+        { "distractor": "transmitted", "closeness": 1, "reasoning": "Incorrect -- 'transmitted' means to send or convey, not to distort or render unintelligible." }
+      ]
+    },
+    {
+      "sentence": "The witness's account was garbled in the retelling by journalists who focused on sensational details rather than accuracy.",
+      "answerChoices": [
+        { "distractor": "misrepresented", "closeness": 3, "reasoning": "Close -- 'misrepresented' implies falsehood or distortion, which fits the result of focusing on sensation over facts, but emphasizes deliberate dishonesty rather than confused or mangled reporting." },
+        { "distractor": "muddled", "closeness": 3, "reasoning": "Close -- 'muddled' suggests confusion and mixing of details, which is plausible when retelling focuses on the sensational, but lacks the sense of deliberate editorial distortion that the sentence implies." },
+        { "distractor": "twisted", "closeness": 3, "reasoning": "Close -- 'twisted' implies bending meaning with intent, which fits the selective focus on sensational details, but carries a stronger connotation of deliberate manipulation than garbling." },
+        { "distractor": "degraded", "closeness": 3, "reasoning": "Close -- 'degraded' can mean lowered in quality, which applies to the account's reliability, but it doesn't specifically capture the sense of content being mangled or rendered confusing." },
+        { "distractor": "simplified", "closeness": 2, "reasoning": "Incorrect -- 'simplified' means to make less complex, which may occur in retelling but doesn't convey distortion or confusion of meaning." },
+        { "distractor": "abbreviated", "closeness": 2, "reasoning": "Incorrect -- 'abbreviated' means to shorten, not to distort or confuse through selective focus." },
+        { "distractor": "exaggerated", "closeness": 2, "reasoning": "Incorrect -- 'exaggerated' means to overstate, which might accompany the focus on sensational details, but is a different concept from garbling." },
+        { "distractor": "obscured", "closeness": 2, "reasoning": "Incorrect -- 'obscured' means to make unclear or hidden, which doesn't capture the idea of editorial distortion of an account." },
+        { "distractor": "preserved", "closeness": 1, "reasoning": "Opposite -- 'preserved' means to keep intact, contrary to the distortion and mangling described in the sentence." },
+        { "distractor": "verified", "closeness": 1, "reasoning": "Opposite -- 'verified' means to confirm accuracy, the opposite of rendering an account confused and unreliable." },
+        { "distractor": "contextualized", "closeness": 1, "reasoning": "Incorrect -- 'contextualized' means to place in context, which would improve accuracy rather than distort an account." }
+      ]
+    },
+    {
+      "sentence": "The old documents had garbled dates and fading names, making genealogical research nearly impossible.",
+      "answerChoices": [
+        { "distractor": "obscured", "closeness": 3, "reasoning": "Close -- 'obscured' means to make unclear, which fits the fading text, but specifically suggests concealment rather than the jumbled or distorted state implied by garbled." },
+        { "distractor": "smudged", "closeness": 3, "reasoning": "Close -- 'smudged' describes blurred or dirty marks that make text unclear, but refers to physical marks rather than the rendering of content into wrong or confused form." },
+        { "distractor": "faded", "closeness": 3, "reasoning": "Close -- 'faded' accurately describes the aging of ink, which causes illegibility, but it doesn't capture the sense of garbled content as mangled or confused information." },
+        { "distractor": "erased", "closeness": 3, "reasoning": "Close -- 'erased' implies removal or deletion of text, which could result from aging, but doesn't convey the mangling of what remains visible." },
+        { "distractor": "missing", "closeness": 2, "reasoning": "Incorrect -- 'missing' means absent entirely, not distorted or confused as the sentence's context suggests." },
+        { "distractor": "damaged", "closeness": 2, "reasoning": "Incorrect -- 'damaged' is too generic; it refers to harm rather than the specific confusion of dates and names." },
+        { "distractor": "illegible", "closeness": 2, "reasoning": "Incorrect -- 'illegible' means unreadable but doesn't capture the sense of distorted or confused content, only unclear form." },
+        { "distractor": "incomprehensible", "closeness": 2, "reasoning": "Incorrect -- 'incomprehensible' implies lack of understanding, which follows from garbled text, but doesn't describe the state of the documents themselves." },
+        { "distractor": "clarified", "closeness": 1, "reasoning": "Opposite -- 'clarified' means made clear and understandable, the opposite of garbled and confusing." },
+        { "distractor": "restored", "closeness": 1, "reasoning": "Opposite -- 'restored' means returned to good condition, contrary to the decay and confusion described." },
+        { "distractor": "standardized", "closeness": 1, "reasoning": "Incorrect -- 'standardized' means made uniform according to a fixed rule, unrelated to the aging and confusion of old documents." }
+      ]
+    }
+  ]
+}

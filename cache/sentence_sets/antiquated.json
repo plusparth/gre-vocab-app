@@ -1,0 +1,53 @@
+{
+  "word": "antiquated",
+  "sentenceSets": [
+    {
+      "sentence": "The factory's antiquated equipment broke down frequently, making it impossible to compete with modern rivals.",
+      "answerChoices": [
+        { "distractor": "deteriorated", "closeness": 3, "reasoning": "Deteriorated means declined in condition or quality, which old equipment does, but doesn't necessarily mean old or outmoded." },
+        { "distractor": "worn", "closeness": 3, "reasoning": "Worn means used or eroded by time, which the equipment is, but doesn't convey that it's obsolete or no longer useful." },
+        { "distractor": "defective", "closeness": 3, "reasoning": "Defective means having flaws or imperfections, which the equipment is, but doesn't mean old-fashioned or discarded by age." },
+        { "distractor": "unreliable", "closeness": 3, "reasoning": "Unreliable means not dependable or trustworthy, which the equipment is, but doesn't necessarily mean outdated." },
+        { "distractor": "aging", "closeness": 2, "reasoning": "Aging means growing older, which the equipment is, but doesn't convey that it's no longer accepted or useful." },
+        { "distractor": "fragile", "closeness": 2, "reasoning": "Fragile means easily broken or damaged, which the equipment becomes, but doesn't mean obsolete." },
+        { "distractor": "inefficient", "closeness": 2, "reasoning": "Inefficient means not producing desired results, which the equipment is, but doesn't specifically mean old or discarded." },
+        { "distractor": "expensive to maintain", "closeness": 2, "reasoning": "Expensive to maintain means costly to keep working, which applies to the equipment, but doesn't capture the sense of being outdated." },
+        { "distractor": "modern", "closeness": 1, "reasoning": "Modern means contemporary or current, opposite to antiquated equipment that can't compete with current rivals." },
+        { "distractor": "state-of-the-art", "closeness": 1, "reasoning": "State-of-the-art means advanced or cutting-edge, opposite to the outdated equipment that's incompetitive." },
+        { "distractor": "efficient", "closeness": 1, "reasoning": "Efficient means producing maximum results with minimum waste, opposite to factory equipment broken down frequently." }
+      ]
+    },
+    {
+      "sentence": "The museum curator refused to abandon the antiquated cataloging system despite its incompatibility with the new digital database.",
+      "answerChoices": [
+        { "distractor": "traditional", "closeness": 3, "reasoning": "Traditional means established by custom or practice, which the cataloging system is, but doesn't necessarily mean old or no longer useful." },
+        { "distractor": "conventional", "closeness": 3, "reasoning": "Conventional means based on accepted standards or usual practices, which the system was, but doesn't convey that it's now rejected." },
+        { "distractor": "archaic", "closeness": 3, "reasoning": "Archaic means very old or from an earlier period, similar to antiquated, but has a more historical or linguistic focus." },
+        { "distractor": "cumbersome", "closeness": 3, "reasoning": "Cumbersome means burdensome or awkward to handle, which the system is, but doesn't necessarily mean old or discarded." },
+        { "distractor": "obsolete", "closeness": 2, "reasoning": "Obsolete means no longer in use or no longer useful, very close to antiquated, but may emphasize complete abandonment more." },
+        { "distractor": "outdated", "closeness": 2, "reasoning": "Outdated means no longer current or fashionable, very similar to antiquated but potentially less formal in tone." },
+        { "distractor": "vintage", "closeness": 2, "reasoning": "Vintage means from a particular period in the past, which the system is, but often carries positive connotations unlike antiquated." },
+        { "distractor": "slow", "closeness": 2, "reasoning": "Slow means not quick or efficient, which the cataloging system is, but doesn't mean old or discarded." },
+        { "distractor": "cutting-edge", "closeness": 1, "reasoning": "Cutting-edge means at the forefront of modern development, opposite to an antiquated system incompatible with new technology." },
+        { "distractor": "contemporary", "closeness": 1, "reasoning": "Contemporary means belonging to the present time, opposite to the antiquated cataloging system the curator clung to." },
+        { "distractor": "innovative", "closeness": 1, "reasoning": "Innovative means introducing new ideas or methods, opposite to the traditional antiquated cataloging system." }
+      ]
+    },
+    {
+      "sentence": "The lawyer argued that the antiquated legal precedent no longer reflected modern social values and should be overturned by the current court.",
+      "answerChoices": [
+        { "distractor": "established", "closeness": 3, "reasoning": "Established means firmly set up or recognized, which the precedent was, but doesn't convey it's now outdated or rejected." },
+        { "distractor": "historical", "closeness": 3, "reasoning": "Historical means from or relating to past events, which the precedent is, but doesn't specifically mean it's obsolete." },
+        { "distractor": "venerable", "closeness": 3, "reasoning": "Venerable means worthy of respect due to age, which the precedent may be, but often carries positive connotations unlike antiquated." },
+        { "distractor": "time-honored", "closeness": 3, "reasoning": "Time-honored means respected because it's long-established, which the precedent is, but often suggests value unlike antiquated." },
+        { "distractor": "rigid", "closeness": 2, "reasoning": "Rigid means inflexible or unyielding, which the precedent is, but doesn't necessarily mean old or discarded by age." },
+        { "distractor": "conservative", "closeness": 2, "reasoning": "Conservative means favoring tradition or existing conditions, which the precedent is, but doesn't specifically mean outdated." },
+        { "distractor": "stringent", "closeness": 2, "reasoning": "Stringent means strict or rigorous, which the old legal precedent is, but doesn't mean old-fashioned or rejected." },
+        { "distractor": "influential", "closeness": 2, "reasoning": "Influential means having significant impact or authority, which the precedent was, but doesn't mean it should be overturned." },
+        { "distractor": "progressive", "closeness": 1, "reasoning": "Progressive means moving forward or favoring reform, opposite to an antiquated legal precedent the lawyer argues should be changed." },
+        { "distractor": "current", "closeness": 1, "reasoning": "Current means happening now or up-to-date, opposite to the antiquated legal precedent no longer reflecting modern values." },
+        { "distractor": "enlightened", "closeness": 1, "reasoning": "Enlightened means informed by modern knowledge or understanding, opposite to an antiquated precedent that contradicts current social values." }
+      ]
+    }
+  ]
+}

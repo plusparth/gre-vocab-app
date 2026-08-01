@@ -1,0 +1,53 @@
+{
+  "word": "levee",
+  "sentenceSets": [
+    {
+      "sentence": "The ambassador held a levee each morning in the salon adjacent to her private chambers, where visiting dignitaries and favored courtiers gathered to pay respects.",
+      "answerChoices": [
+        { "distractor": "reception", "closeness": 3, "reasoning": "Close -- 'reception' means a formal gathering or social event, which describes a levee, but 'reception' typically refers to a greeting event held at any time; 'levee' specifically denotes a formal morning gathering held upon rising." },
+        { "distractor": "assembly", "closeness": 3, "reasoning": "Close -- 'assembly' means a gathering of people, which fits the context, but it is a general term; 'levee' specifically refers to a formal morning audience held by a person of distinction." },
+        { "distractor": "audience", "closeness": 3, "reasoning": "Close -- 'audience' refers to a formal meeting with a person of rank, but it lacks the specific morning-upon-rising context that defines a 'levee'." },
+        { "distractor": "soirée", "closeness": 3, "reasoning": "Close -- 'soirée' is an evening social gathering, which resembles a levee in formality and purpose, but it is held in the evening, whereas a levee occurs specifically in the morning." },
+        { "distractor": "ceremony", "closeness": 2, "reasoning": "Incorrect -- 'ceremony' refers to a formal ritual or observance; while a levee may involve ritual, it is primarily a social gathering, not a ceremony." },
+        { "distractor": "parade", "closeness": 2, "reasoning": "Incorrect -- 'parade' is a public procession; it is informal and outdoors, unlike the intimate morning salon gathering of a levee." },
+        { "distractor": "banquet", "closeness": 2, "reasoning": "Incorrect -- 'banquet' is a formal dinner; while elaborate, it is centered on dining, not on the morning greeting ritual of a levee." },
+        { "distractor": "gala", "closeness": 2, "reasoning": "Incorrect -- 'gala' is a grand celebratory evening event; it differs from a levee in both timing and purpose." },
+        { "distractor": "privacy", "closeness": 1, "reasoning": "Opposite -- 'privacy' means exclusion from the public or others; a levee is a formal gathering open to dignitaries, the opposite of private." },
+        { "distractor": "seclusion", "closeness": 1, "reasoning": "Opposite -- 'seclusion' means isolation from others; it is contrary to the public gathering of a levee." },
+        { "distractor": "dismissal", "closeness": 1, "reasoning": "Incorrect -- 'dismissal' means removal or sending away; it contradicts the purpose of a levee as a place where people gather and are received." }
+      ]
+    },
+    {
+      "sentence": "In the royal court, attendance at the king's levee was mandatory for any noble wishing to maintain favor, and absence was noted and remembered.",
+      "answerChoices": [
+        { "distractor": "court", "closeness": 3, "reasoning": "Close -- 'court' refers to the royal household and its functions, which encompasses a levee, but 'court' is broader and does not specifically mean the formal morning gathering upon rising." },
+        { "distractor": "audience", "closeness": 3, "reasoning": "Close -- 'audience' means a formal meeting, but it can occur at any time, whereas 'levee' specifically denotes a morning gathering held while the person is rising or has just risen." },
+        { "distractor": "session", "closeness": 3, "reasoning": "Close -- 'session' refers to a meeting or gathering, which fits, but it does not carry the formal, ceremonial, morning-specific meaning of 'levee'." },
+        { "distractor": "appearance", "closeness": 3, "reasoning": "Close -- 'appearance' can mean a formal public appearance, which nobles made at court, but it refers to the act of appearing rather than the formal morning gathering itself." },
+        { "distractor": "visit", "closeness": 2, "reasoning": "Incorrect -- 'visit' refers to going to see someone; while nobles visited the king, the word does not convey the formal, mandatory, morning-specific nature of a levee." },
+        { "distractor": "tribute", "closeness": 2, "reasoning": "Incorrect -- 'tribute' means a payment or expression of respect; while attending a levee was a form of showing respect, the word refers to the offering, not the gathering." },
+        { "distractor": "obligation", "closeness": 2, "reasoning": "Incorrect -- 'obligation' means a duty; while attendance was obligatory, this word refers to the requirement, not the event itself." },
+        { "distractor": "protocol", "closeness": 2, "reasoning": "Incorrect -- 'protocol' refers to rules of conduct; while levee attendance followed protocol, the word refers to the rules, not the gathering." },
+        { "distractor": "privacy", "closeness": 1, "reasoning": "Opposite -- 'privacy' means exclusion from public access; a levee is a formal, mandatory public gathering for dignitaries." },
+        { "distractor": "secrecy", "closeness": 1, "reasoning": "Opposite -- 'secrecy' means keeping something hidden; a levee is a formal, open gathering where presence or absence is noted." },
+        { "distractor": "informality", "closeness": 1, "reasoning": "Incorrect -- 'informality' means lack of ceremony or formality; a levee is a highly formal and ritualized gathering." }
+      ]
+    },
+    {
+      "sentence": "The governor's levee was interrupted when news arrived of unrest in the outer districts, forcing her to abruptly conclude the gathering and consult with advisors.",
+      "answerChoices": [
+        { "distractor": "meeting", "closeness": 3, "reasoning": "Close -- 'meeting' refers to a gathering, which a levee is, but it does not specifically denote the formal, hierarchical, morning-upon-rising reception characteristic of a levee." },
+        { "distractor": "function", "closeness": 3, "reasoning": "Close -- 'function' refers to a social event or occasion, which fits, but it is too general and does not convey the specific ceremonial morning nature of a levee." },
+        { "distractor": "occasion", "closeness": 3, "reasoning": "Close -- 'occasion' means a special event or time, which describes a levee, but it lacks the formal, morning-specific, hierarchical meaning." },
+        { "distractor": "entourage", "closeness": 3, "reasoning": "Close -- 'entourage' refers to a group of attendants or associates, which gathered at a levee, but it refers to the group, not the event itself." },
+        { "distractor": "council", "closeness": 2, "reasoning": "Incorrect -- 'council' refers to a body assembled for deliberation; while a levee is a gathering, it is not a deliberative body." },
+        { "distractor": "presentation", "closeness": 2, "reasoning": "Incorrect -- 'presentation' refers to a formal display or introduction; while formality exists in a levee, the focus is on greeting and receiving guests, not presenting something." },
+        { "distractor": "broadcast", "closeness": 2, "reasoning": "Incorrect -- 'broadcast' refers to a public announcement or transmission; a levee is an in-person gathering, not a broadcast." },
+        { "distractor": "parade", "closeness": 2, "reasoning": "Incorrect -- 'parade' is a public procession, typically outdoors; a levee is an indoor, formal morning gathering in a private chamber." },
+        { "distractor": "emergency", "closeness": 1, "reasoning": "Opposite -- 'emergency' refers to an urgent unexpected situation; the sentence shows an emergency interrupting the levee, not that the levee was an emergency." },
+        { "distractor": "solitude", "closeness": 1, "reasoning": "Opposite -- 'solitude' means being alone; a levee is a gathering of multiple people with the person of rank." },
+        { "distractor": "abandonment", "closeness": 1, "reasoning": "Incorrect -- 'abandonment' means leaving something unfinished; while the governor concluded the levee abruptly, she did so due to necessity, not in abandonment." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "distension",
+  "sentenceSets": [
+    {
+      "sentence": "The distension of the abdomen suggested an internal condition that required immediate investigation.",
+      "answerChoices": [
+        { "distractor": "swelling", "closeness": 3, "reasoning": "Swelling is the result of tissues becoming enlarged with fluid or gas, very close to distension, but refers more broadly to any enlargement while distension emphasizes stretching from internal pressure." },
+        { "distractor": "bloating", "closeness": 3, "reasoning": "Bloating is the uncomfortable sensation and appearance of swelling, often from gas accumulation, very similar to distension but implies digestive issues rather than serious internal pathology." },
+        { "distractor": "enlargement", "closeness": 3, "reasoning": "Enlargement means the process or result of becoming larger, capturing the abdomen's growth, but is more general than distension's specific emphasis on stretching from within." },
+        { "distractor": "expansion", "closeness": 3, "reasoning": "Expansion is the increase in size or volume, describing what happens to the abdomen, but lacks the specific medical connotation of abnormal stretching that distension carries." },
+        { "distractor": "inflation", "closeness": 2, "reasoning": "Inflation is the act or process of filling with air or gas, causing enlargement, but implies artificial filling rather than the pathological internal pressurization suggested by distension." },
+        { "distractor": "protrusion", "closeness": 2, "reasoning": "Protrusion is the bulging outward of something, describing the abdomen's appearance, but emphasizes the outward extension rather than the internal pressure causing it." },
+        { "distractor": "turgidity", "closeness": 2, "reasoning": "Turgidity means the state of being swollen and firm, similar to distension, but usually describes botanical or plant tissue conditions rather than abdominal symptoms." },
+        { "distractor": "tumefaction", "closeness": 2, "reasoning": "Tumefaction is a medical term for swelling, very close to distension, but is a more general term for any abnormal enlargement rather than specific stretching." },
+        { "distractor": "contraction", "closeness": 1, "reasoning": "Contraction is the opposite of distension, describing muscles or tissues becoming smaller and tighter rather than enlarged and stretched." },
+        { "distractor": "shrinkage", "closeness": 1, "reasoning": "Shrinkage refers to becoming smaller, the opposite of the enlargement that distension describes." },
+        { "distractor": "compression", "closeness": 1, "reasoning": "Compression is the act of pressing or squeezing inward, opposite to the outward stretching and expansion implied by distension." }
+      ]
+    },
+    {
+      "sentence": "The severe distension of the tissues following the allergic reaction necessitated emergency treatment to prevent organ damage.",
+      "answerChoices": [
+        { "distractor": "edema", "closeness": 3, "reasoning": "Edema is a medical term for excessive fluid accumulation in tissues, causing swelling very similar to distension, but emphasizes the fluid rather than the stretching." },
+        { "distractor": "inflammation", "closeness": 3, "reasoning": "Inflammation is the body's response to injury or allergen exposure, causing swelling, very close to the distension described, but is a broader process rather than just the enlargement." },
+        { "distractor": "hypertrophy", "closeness": 3, "reasoning": "Hypertrophy is excessive enlargement of tissue, describing what happens during allergic swelling, but refers to growth of tissue cells rather than stretching from accumulated fluid." },
+        { "distractor": "engorgement", "closeness": 3, "reasoning": "Engorgement is the state of being swollen or engorged with blood or fluid, very close to distension, but emphasizes the fullness with liquid rather than the stretching itself." },
+        { "distractor": "tumescence", "closeness": 2, "reasoning": "Tumescence is medical terminology for swelling or enlargement, similar to distension, but is often used specifically for sexual responses or fluid accumulation." },
+        { "distractor": "exudation", "closeness": 2, "reasoning": "Exudation is the seeping out of fluid through vessel walls, often causing the swelling that leads to distension, but describes the cause rather than the resulting state." },
+        { "distractor": "hyperemia", "closeness": 2, "reasoning": "Hyperemia is excess blood flow causing tissue swelling, related to the allergic response, but focuses on blood accumulation rather than the overall tissue distension." },
+        { "distractor": "congestion", "closeness": 2, "reasoning": "Congestion is the accumulation of fluid or blood in tissues causing swelling, similar to distension, but is broader and less specific to the stretching of tissue." },
+        { "distractor": "atrophy", "closeness": 1, "reasoning": "Atrophy is wasting away or decrease in tissue size, the opposite of the swelling and enlargement caused by distension." },
+        { "distractor": "necrosis", "closeness": 1, "reasoning": "Necrosis is the death of tissue cells, unrelated to and opposite in consequence to the swelling caused by distension." },
+        { "distractor": "cicatrization", "closeness": 1, "reasoning": "Cicatrization is the formation of scar tissue, a later consequence of injury but opposite to the acute swelling of distension." }
+      ]
+    },
+    {
+      "sentence": "The distension of the earth's crust along the fault line was accompanied by tremors that residents could feel for weeks.",
+      "answerChoices": [
+        { "distractor": "stretching", "closeness": 3, "reasoning": "Stretching is the pulling out of material, very similar to distension of the crust, but emphasizes the process of pulling rather than the state of being expanded from internal stress." },
+        { "distractor": "fracturing", "closeness": 3, "reasoning": "Fracturing is the breaking of rock, often resulting from the distension and stress, but implies rupture and failure rather than the straining itself." },
+        { "distractor": "rifting", "closeness": 3, "reasoning": "Rifting is the process of forming rifts or valleys due to crustal separation, closely related to distension, but refers to the long-term geological process rather than the acute distension." },
+        { "distractor": "rupture", "closeness": 3, "reasoning": "Rupture is the breaking open of a surface, possibly resulting from distension, but implies failure and separation rather than the stretching and expansion." },
+        { "distractor": "displacement", "closeness": 2, "reasoning": "Displacement is the movement or shifting of material from its original position, related to crustal movement but not specifically about the expansion or stretching." },
+        { "distractor": "deformation", "closeness": 2, "reasoning": "Deformation is the change in shape of rock or material, including both stretching and compression, but is more general than distension." },
+        { "distractor": "dislocation", "closeness": 2, "reasoning": "Dislocation is the movement of rock layers out of their original alignment, related to fault activity but not specifically the stretching distension." },
+        { "distractor": "subsidence", "closeness": 2, "reasoning": "Subsidence is the sinking or settling of the ground, sometimes resulting from tectonic activity but describing downward movement opposite to the expansion of distension." },
+        { "distractor": "compaction", "closeness": 1, "reasoning": "Compaction is the pressing or squeezing together of material, the opposite of the expansion and stretching that distension involves." },
+        { "distractor": "convergence", "closeness": 1, "reasoning": "Convergence is the coming together of plates or materials, the opposite of the stretching and separation indicated by distension." },
+        { "distractor": "stabilization", "closeness": 1, "reasoning": "Stabilization is the achieving of a stable state, opposite to the dynamic stretching and tremors caused by crustal distension." }
+      ]
+    }
+  ]
+}

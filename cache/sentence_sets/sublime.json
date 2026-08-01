@@ -1,0 +1,53 @@
+{
+  "word": "sublime",
+  "sentenceSets": [
+    {
+      "sentence": "The sublime indifference of the natural world to human concerns was part of what made the landscape so clarifying.",
+      "answerChoices": [
+        { "distractor": "majestic", "closeness": 3, "reasoning": "Majestic means grand and impressive; the sentence shows a landscape inspiring awe through indifference, but sublime emphasizes the awe-inspiring quality combined with moral or philosophical grandeur." },
+        { "distractor": "magnificent", "closeness": 3, "reasoning": "Magnificent means splendid and impressive; the sentence describes a clarifying landscape, but sublime specifically emphasizes awe-inspiring transcendence." },
+        { "distractor": "awesome", "closeness": 3, "reasoning": "Awesome means inspiring awe; the sentence shows a landscape with inspiring indifference, but sublime emphasizes the specifically noble or lofty quality." },
+        { "distractor": "lofty", "closeness": 3, "reasoning": "Lofty means elevated and noble; the sentence shows inspiring natural indifference, but sublime specifically emphasizes awe-inspiring transcendence." },
+        { "distractor": "grand", "closeness": 2, "reasoning": "Grand means large and impressive; the sentence describes an inspiring landscape, but sublime emphasizes the awe-inspiring transcendent quality." },
+        { "distractor": "stunning", "closeness": 2, "reasoning": "Stunning means striking with wonder; the sentence describes a landscape, but sublime emphasizes moral and philosophical grandeur." },
+        { "distractor": "impressive", "closeness": 2, "reasoning": "Impressive means striking the mind; the sentence shows a clarifying landscape, but sublime emphasizes transcendent awe." },
+        { "distractor": "breathtaking", "closeness": 2, "reasoning": "Breathtaking means astonishing; the sentence describes an inspiring landscape, but sublime emphasizes awe-inspiring transcendence." },
+        { "distractor": "trivial", "closeness": 1, "reasoning": "Trivial means of little importance; the sentence describes sublime indifference inspiring profound clarification, the opposite of trivial." },
+        { "distractor": "mundane", "closeness": 1, "reasoning": "Mundane means ordinary and dull; the sentence shows sublime inspiration from landscape indifference, the opposite of mundane." },
+        { "distractor": "petty", "closeness": 1, "reasoning": "Petty means small or trivial; the sentence describes sublime indifference of the natural world, the opposite of petty." }
+      ]
+    },
+    {
+      "sentence": "The chemist would sublime the solid compound by heating it, allowing vapor to rise and recondense on the cooler surfaces above.",
+      "answerChoices": [
+        { "distractor": "evaporate", "closeness": 3, "reasoning": "Evaporate means to convert to vapor; the sentence shows heating solid to vapor form, but sublime specifically emphasizes the direct transition from solid to vapor, skipping the liquid phase." },
+        { "distractor": "volatilize", "closeness": 3, "reasoning": "Volatilize means to convert to vapor; the sentence shows solid becoming vapor through heating, but sublime is the specific term for direct solid-to-vapor transition." },
+        { "distractor": "vaporize", "closeness": 3, "reasoning": "Vaporize means to convert to vapor; the sentence shows solid converted to vapor, but sublime specifically emphasizes direct solid-to-vapor transition." },
+        { "distractor": "gasify", "closeness": 3, "reasoning": "Gasify means to convert to gas; the sentence shows vapor rising from solid, but sublime specifically denotes direct solid-to-vapor phase transition." },
+        { "distractor": "dissipate", "closeness": 2, "reasoning": "Dissipate means to scatter or disperse; the sentence shows vapor rising, but sublime specifically refers to the phase change process." },
+        { "distractor": "dissolve", "closeness": 2, "reasoning": "Dissolve means to break up or disappear; the sentence shows heating causing vapor rise, but sublime is the specific phase transition term." },
+        { "distractor": "release", "closeness": 2, "reasoning": "Release means to set free; the sentence shows vapor rising, but sublime is the specific chemistry term." },
+        { "distractor": "transform", "closeness": 2, "reasoning": "Transform means to change form; the sentence shows solid becoming vapor, but sublime is the specific term for direct phase transition." },
+        { "distractor": "condense", "closeness": 1, "reasoning": "Condense means to change from vapor to liquid or solid; the sentence describes heating solid to vapor, the opposite movement from condensing." },
+        { "distractor": "cool", "closeness": 1, "reasoning": "Cool means to lower temperature; the sentence describes heating to sublime, the opposite of cooling." },
+        { "distractor": "solidify", "closeness": 1, "reasoning": "Solidify means to make solid; the sentence shows solid becoming vapor, the opposite of solidifying." }
+      ]
+    },
+    {
+      "sentence": "The artist's struggles were sublimed into beauty through decades of work, turning personal anguish into transcendent expression.",
+      "answerChoices": [
+        { "distractor": "transformed", "closeness": 3, "reasoning": "Transformed means changed into something else; the sentence shows struggles becoming beauty through work, but sublime emphasizes the elevation to transcendent beauty." },
+        { "distractor": "elevated", "closeness": 3, "reasoning": "Elevated means raised to a higher level; the sentence shows struggles becoming transcendent beauty, but sublime specifically emphasizes the transformation into something noble and awe-inspiring." },
+        { "distractor": "refined", "closeness": 3, "reasoning": "Refined means made elegant or pure; the sentence shows struggles becoming beauty, but sublime emphasizes the transcendent transformation." },
+        { "distractor": "purified", "closeness": 3, "reasoning": "Purified means made pure; the sentence shows personal anguish becoming beauty, but sublime emphasizes the transcendent elevation." },
+        { "distractor": "converted", "closeness": 2, "reasoning": "Converted means changed from one form to another; the sentence shows struggles becoming beauty, but sublime emphasizes transcendent elevation." },
+        { "distractor": "processed", "closeness": 2, "reasoning": "Processed means handled through a series of steps; the sentence shows transformation through work, but sublime emphasizes transcendent elevation." },
+        { "distractor": "worked", "closeness": 2, "reasoning": "Worked means shaped through effort; the sentence describes decades of work creating beauty, but sublime emphasizes transcendent transformation." },
+        { "distractor": "channeled", "closeness": 2, "reasoning": "Channeled means directed along a path; the sentence shows struggles becoming beauty, but sublime emphasizes transcendent transformation." },
+        { "distractor": "destroyed", "closeness": 1, "reasoning": "Destroyed means ruined; the sentence describes struggles sublimed into transcendent beauty, the opposite of destruction." },
+        { "distractor": "wasted", "closeness": 1, "reasoning": "Wasted means squandered; the sentence shows struggles transformed into beauty, the opposite of waste." },
+        { "distractor": "diminished", "closeness": 1, "reasoning": "Diminished means reduced; the sentence describes struggles elevated into transcendent beauty, the opposite of diminishment." }
+      ]
+    }
+  ]
+}

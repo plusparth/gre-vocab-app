@@ -1,0 +1,53 @@
+{
+  "word": "succumb",
+  "sentenceSets": [
+    {
+      "sentence": "The committee succumbed to pressure from the sponsoring organization, a pattern that had repeated itself often enough to be predictable.",
+      "answerChoices": [
+        { "distractor": "capitulated", "closeness": 3, "reasoning": "'Capitulated' means surrendered unconditionally; the sentence shows the committee gave in to pressure, but doesn't indicate total surrender to broader authority." },
+        { "distractor": "acquiesced", "closeness": 3, "reasoning": "'Acquiesced' means quietly accepted without protest; 'succumbed' emphasizes yielding to superior force or pressure, which is more active and less passive." },
+        { "distractor": "conceded", "closeness": 3, "reasoning": "'Conceded' means admitted defeat; the sentence shows giving in to pressure, but doesn't specifically involve admitting the other side was right." },
+        { "distractor": "deferred", "closeness": 3, "reasoning": "'Deferred' means yielded one's judgment to another; while similar, it emphasizes respecting another's opinion, whereas the sentence shows yielding to organizational pressure." },
+        { "distractor": "compromised", "closeness": 2, "reasoning": "Compromising means finding middle ground; the sentence shows the committee gave in to pressure, not negotiating a solution." },
+        { "distractor": "resigned", "closeness": 2, "reasoning": "'Resigned' suggests accepting something unpleasant; while giving in to pressure might feel unpleasant, the sentence emphasizes yielding to force." },
+        { "distractor": "accommodated", "closeness": 2, "reasoning": "'Accommodated' means adapted to; the committee gives in to pressure, which is more yielding than adapting." },
+        { "distractor": "complied", "closeness": 2, "reasoning": "'Complied' means followed rules or requests; the sentence shows the committee yielded to pressure, not necessarily following explicit directives." },
+        { "distractor": "resisted", "closeness": 1, "reasoning": "The committee succumbed to pressure, meaning they did not resist it." },
+        { "distractor": "prevailed", "closeness": 1, "reasoning": "The committee gave in; they did not prevail or gain victory." },
+        { "distractor": "maintained", "closeness": 1, "reasoning": "The committee would need to maintain their position to not succumb; succumbing means abandoning it." }
+      ]
+    },
+    {
+      "sentence": "Despite her doctor's warnings, the patient continued to smoke, eventually succumbing to lung disease at sixty-five.",
+      "answerChoices": [
+        { "distractor": "died", "closeness": 3, "reasoning": "While 'died' describes the outcome, 'succumbed' specifically emphasizes giving in to an overpowering force or condition rather than just the fact of death." },
+        { "distractor": "expired", "closeness": 3, "reasoning": "'Expired' is a euphemistic way to say died, but 'succumbed' emphasizes yielding to a disease or condition, not simply ceasing to live." },
+        { "distractor": "declined", "closeness": 3, "reasoning": "'Declined' means gradually weakened or became worse; while relevant to illness, 'succumbed' emphasizes final surrender to the disease." },
+        { "distractor": "deteriorated", "closeness": 3, "reasoning": "'Deteriorated' describes getting worse; 'succumbed' emphasizes the final yielding to an overpowering force." },
+        { "distractor": "perished", "closeness": 2, "reasoning": "'Perished' means died, often suddenly or violently; 'succumbed' suggests gradual yielding to illness." },
+        { "distractor": "weakened", "closeness": 2, "reasoning": "The patient's health weakened, but that's the process; 'succumbed' emphasizes the final surrender." },
+        { "distractor": "failed", "closeness": 2, "reasoning": "Her body's ability to fight disease failed, but 'failed' describes loss of function; 'succumbed' emphasizes yielding." },
+        { "distractor": "regressed", "closeness": 2, "reasoning": "'Regressed' means returned to a worse state; while relevant to illness progression, 'succumbed' is more specific about final surrender." },
+        { "distractor": "recovered", "closeness": 1, "reasoning": "The patient succumbed to disease; recovery would be the opposite outcome." },
+        { "distractor": "triumphed", "closeness": 1, "reasoning": "The patient succumbed; triumph against the disease would be the opposite." },
+        { "distractor": "endured", "closeness": 1, "reasoning": "Enduring would mean surviving or resisting the disease; succumbing means yielding to it." }
+      ]
+    },
+    {
+      "sentence": "The activist never succumbed to the threats and intimidation from powerful interests opposed to her environmental work, maintaining her commitment until her death.",
+      "answerChoices": [
+        { "distractor": "yielded", "closeness": 3, "reasoning": "'Yielded' means gave in; the sentence explicitly says she did NOT succumb, so yielding would contradict her determination." },
+        { "distractor": "cowered", "closeness": 3, "reasoning": "'Cowered' means cringed in fear; the sentence shows she maintained commitment despite threats, so cowering contradicts her behavior." },
+        { "distractor": "relented", "closeness": 3, "reasoning": "'Relented' means softened or gave in; the sentence emphasizes she never gave in to pressure, so relenting contradicts this." },
+        { "distractor": "wavered", "closeness": 3, "reasoning": "'Wavered' means hesitated or showed uncertainty; the sentence indicates steady commitment, not wavering." },
+        { "distractor": "feared", "closeness": 2, "reasoning": "While threats might inspire fear, the sentence emphasizes that fear did not cause her to succumb; she acted despite fear." },
+        { "distractor": "doubted", "closeness": 2, "reasoning": "She maintained commitment, suggesting she did not doubt her cause despite opposition." },
+        { "distractor": "backed down", "closeness": 2, "reasoning": "Backing down would mean retreating from her position; she maintained her commitment instead." },
+        { "distractor": "compromised", "closeness": 2, "reasoning": "While facing pressure, she maintained commitment without finding middle ground with her opponents." },
+        { "distractor": "persisted", "closeness": 1, "reasoning": "The sentence says she never succumbed and maintained commitment until death—this describes persisting, the opposite." },
+        { "distractor": "endured", "closeness": 1, "reasoning": "She endured or tolerated the threats without giving in—this is what she did instead of succumbing." },
+        { "distractor": "triumphed", "closeness": 1, "reasoning": "Never succumbing despite overwhelming opposition shows a kind of triumph; succumbing would mean losing to threats." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "tempered",
+  "sentenceSets": [
+    {
+      "sentence": "Her optimism was tempered by realistic concerns about the project's budget constraints and timeline limitations.",
+      "answerChoices": [
+        { "distractor": "amplified", "closeness": 3, "reasoning": "Amplified means increased or intensified; the sentence shows concerns that moderated optimism, opposite of amplified." },
+        { "distractor": "strengthened", "closeness": 3, "reasoning": "Strengthened means made stronger; the sentence shows concerns that softened optimism." },
+        { "distractor": "eliminated", "closeness": 3, "reasoning": "Eliminated means removed entirely but the sentence shows concerns that moderated optimism, not removed it." },
+        { "distractor": "ignored", "closeness": 3, "reasoning": "Ignored means disregarded; the sentence shows concerns that modified optimism, not ignored." },
+        { "distractor": "expanded", "closeness": 2, "reasoning": "Expanded means increased or enlarged; the sentence shows concerns that limited optimism." },
+        { "distractor": "heightened", "closeness": 2, "reasoning": "Heightened means increased in degree; the sentence shows concerns that moderated rather than increased." },
+        { "distractor": "justified", "closeness": 2, "reasoning": "Justified means shown to be right but the sentence describes modification, not justification." },
+        { "distractor": "balanced", "closeness": 2, "reasoning": "Balanced means making equal but 'tempered' more specifically means softened by modification." },
+        { "distractor": "destroyed", "closeness": 1, "reasoning": "Destroyed means ruined completely but the sentence shows concerns that modified optimism, not destroyed it." },
+        { "distractor": "affirmed", "closeness": 1, "reasoning": "Affirmed means confirmed; the sentence shows concerns that moderated rather than confirmed optimism." },
+        { "distractor": "unleashed", "closeness": 1, "reasoning": "Unleashed means released from restraint; the sentence shows optimism that was softened, not released." }
+      ]
+    },
+    {
+      "sentence": "The judge's verdict came with tempered language that acknowledged both the defendant's responsibility and the mitigating circumstances that surrounded the crime.",
+      "answerChoices": [
+        { "distractor": "harsh", "closeness": 3, "reasoning": "Harsh means severe and unforgiving; the sentence shows tempered language acknowledging both guilt and mitigation." },
+        { "distractor": "absolute", "closeness": 3, "reasoning": "Absolute means complete and unmodified; tempered language shows balanced acknowledgment of both sides." },
+        { "distractor": "categorical", "closeness": 3, "reasoning": "Categorical means absolute and making no exceptions; tempered language shows nuance and modification." },
+        { "distractor": "unequivocal", "closeness": 3, "reasoning": "Unequivocal means leaving no doubt or ambiguity; tempered language shows qualified and balanced expression." },
+        { "distractor": "condemnatory", "closeness": 2, "reasoning": "Condemnatory means harshly critical but the sentence shows tempered acknowledgment of both sides." },
+        { "distractor": "inflammatory", "closeness": 2, "reasoning": "Inflammatory means inciting emotion but the sentence shows measured and balanced language." },
+        { "distractor": "sarcastic", "closeness": 2, "reasoning": "Sarcastic means mocking or ironic but the sentence shows serious acknowledgment of both sides." },
+        { "distractor": "dismissive", "closeness": 2, "reasoning": "Dismissive means refusing to acknowledge but the sentence shows acknowledgment of both guilt and mitigation." },
+        { "distractor": "lenient", "closeness": 1, "reasoning": "Lenient means merciful and forgiving but the sentence shows acknowledgment of defendant's responsibility." },
+        { "distractor": "ambiguous", "closeness": 1, "reasoning": "Ambiguous means unclear but tempered language is measured and clear about both aspects." },
+        { "distractor": "contradictory", "closeness": 1, "reasoning": "Contradictory means incompatible but tempered language synthesizes both aspects coherently." }
+      ]
+    },
+    {
+      "sentence": "Steel must be tempered after being heated and shaped, acquiring flexibility and toughness that raw metal lacks.",
+      "answerChoices": [
+        { "distractor": "untreated", "closeness": 3, "reasoning": "Untreated means not processed but the sentence shows steel that has been treated through tempering." },
+        { "distractor": "brittle", "closeness": 3, "reasoning": "Brittle means easily broken but the sentence shows steel acquiring toughness through tempering." },
+        { "distractor": "soft", "closeness": 3, "reasoning": "Soft lacks hardness but the sentence shows tempered steel acquiring both flexibility and toughness." },
+        { "distractor": "rigid", "closeness": 3, "reasoning": "Rigid means inflexible but the sentence shows tempered steel acquiring flexibility." },
+        { "distractor": "cooled", "closeness": 2, "reasoning": "Cooled describes a process but does not specify the tempering that brings toughness and flexibility." },
+        { "distractor": "shaped", "closeness": 2, "reasoning": "Shaped describes forming but tempering is the subsequent process that adds desired properties." },
+        { "distractor": "hardened", "closeness": 2, "reasoning": "Hardened means made hard but overlaps with tempered; the sentence emphasizes both flexibility and toughness." },
+        { "distractor": "annealed", "closeness": 2, "reasoning": "Annealed is a heating process but different from tempering; they achieve different properties." },
+        { "distractor": "melted", "closeness": 1, "reasoning": "Melted means turned to liquid; the sentence shows steel that has been shaped and tempered." },
+        { "distractor": "rusted", "closeness": 1, "reasoning": "Rusted means oxidized and corroded; the sentence describes metal treated for strength." },
+        { "distractor": "forged", "closeness": 1, "reasoning": "Forged means shaped by heating and hammering but is the preceding process; tempering follows." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "auspice",
+  "sentenceSets": [
+    {
+      "sentence": "The festival was organized under the auspices of the national arts council.",
+      "answerChoices": [
+        { "distractor": "sponsorship", "closeness": 3, "reasoning": "The council sponsors the festival, but 'sponsorship' emphasizes financial support, whereas 'auspices' implies patronage, guidance, and protective care." },
+        { "distractor": "patronage", "closeness": 3, "reasoning": "The council provides patronage, closely aligned with 'auspices,' but 'patronage' emphasizes support of an art form, not protective guidance." },
+        { "distractor": "authority", "closeness": 3, "reasoning": "The council has authority over the festival, but 'authority' emphasizes power to direct, not the protective patronage of auspices." },
+        { "distractor": "organization", "closeness": 3, "reasoning": "The council organizes the festival, but 'organization' describes the act of arranging, not the protective care and guidance." },
+        { "distractor": "direction", "closeness": 2, "reasoning": "The council directs the festival planning, but 'direction' emphasizes guidance toward specific goals, not protective patronage." },
+        { "distractor": "management", "closeness": 2, "reasoning": "The council manages the festival, but 'management' describes operational control, not the protective and guiding relationship." },
+        { "distractor": "support", "closeness": 2, "reasoning": "The council supports the festival, but 'support' is too general, not capturing the specific patronage and guidance." },
+        { "distractor": "endorsement", "closeness": 2, "reasoning": "The council endorses the festival, but 'endorsement' emphasizes approval, not the protective patronage and guidance." },
+        { "distractor": "opposition", "closeness": 1, "reasoning": "The opposite relationship; the council provides auspices, not opposition to the festival." },
+        { "distractor": "hindrance", "closeness": 1, "reasoning": "The opposite effect; auspices provide protective support, not obstacles." },
+        { "distractor": "abandonment", "closeness": 1, "reasoning": "The opposite; the council provides auspices, which means protective guidance, not leaving the festival without support." }
+      ]
+    },
+    {
+      "sentence": "Under the auspices of a senior mentor, the young researcher gained confidence and developed her experimental methodology.",
+      "answerChoices": [
+        { "distractor": "guidance", "closeness": 3, "reasoning": "The mentor provides guidance, but 'guidance' emphasizes direction toward specific paths, not the protective patronage of auspices." },
+        { "distractor": "tutelage", "closeness": 3, "reasoning": "The researcher studies under tutelage, closely related to 'auspices,' but 'tutelage' emphasizes instruction, not protective patronage." },
+        { "distractor": "supervision", "closeness": 3, "reasoning": "The mentor supervises the research, but 'supervision' emphasizes oversight, not the protective care and support of auspices." },
+        { "distractor": "sponsorship", "closeness": 3, "reasoning": "The mentor sponsors the researcher's work, but 'sponsorship' emphasizes financial or official support, not protective guidance." },
+        { "distractor": "instruction", "closeness": 2, "reasoning": "The mentor instructs in methodology, but 'instruction' describes teaching, not the broader protective patronage." },
+        { "distractor": "support", "closeness": 2, "reasoning": "The mentor supports the researcher, but 'support' is too general, not capturing protective patronage." },
+        { "distractor": "training", "closeness": 2, "reasoning": "The researcher is trained by the mentor, but 'training' emphasizes skill development, not patronage and protection." },
+        { "distractor": "direction", "closeness": 2, "reasoning": "The mentor directs the work, but 'direction' emphasizes specific guidance, not protective patronage." },
+        { "distractor": "abandonment", "closeness": 1, "reasoning": "The opposite relationship; auspices provide protective patronage, not abandonment to work alone." },
+        { "distractor": "obstruction", "closeness": 1, "reasoning": "The opposite effect; auspices provide support and protection, not obstacles." },
+        { "distractor": "exploitation", "closeness": 1, "reasoning": "The opposite treatment; auspices involve protective patronage, not using someone for advantage." }
+      ]
+    },
+    {
+      "sentence": "The concert series organized under the auspices of the university provided community members access to world-class musicians.",
+      "answerChoices": [
+        { "distractor": "sponsorship", "closeness": 3, "reasoning": "The university sponsors the series, but 'sponsorship' emphasizes financial backing, whereas 'auspices' implies patronage, guidance, and protective facilitation." },
+        { "distractor": "authority", "closeness": 3, "reasoning": "The university has authority to organize the series, but 'authority' emphasizes power, not the protective patronage of auspices." },
+        { "distractor": "direction", "closeness": 3, "reasoning": "The university directs the series, but 'direction' emphasizes decision-making, not the protective patronage and guidance." },
+        { "distractor": "management", "closeness": 3, "reasoning": "The university manages the concert series, but 'management' describes operational control, not the protective care." },
+        { "distractor": "organization", "closeness": 2, "reasoning": "The university organizes the series, but 'organization' describes the act of arranging, not the protective patronage." },
+        { "distractor": "support", "closeness": 2, "reasoning": "The university supports the series, but 'support' is too general, not capturing protective patronage." },
+        { "distractor": "promotion", "closeness": 2, "reasoning": "The university promotes the series to the community, but 'promotion' emphasizes marketing, not protective patronage." },
+        { "distractor": "provision", "closeness": 2, "reasoning": "The university provides access, but 'provision' describes supplying, not the protective patronage of auspices." },
+        { "distractor": "prohibition", "closeness": 1, "reasoning": "The opposite action; the university enables the series through auspices, not prohibits it." },
+        { "distractor": "obstruction", "closeness": 1, "reasoning": "The opposite effect; auspices provide protective support and facilitation, not obstacles." },
+        { "distractor": "abandonment", "closeness": 1, "reasoning": "The opposite; the university provides auspices, not abandoning the series to fail." }
+      ]
+    }
+  ]
+}

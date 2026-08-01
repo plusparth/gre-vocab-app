@@ -1,0 +1,53 @@
+{
+  "word": "divorced",
+  "sentenceSets": [
+    {
+      "sentence": "His analysis was entirely divorced from the practical realities facing the people it claimed to address.",
+      "answerChoices": [
+        { "distractor": "removed", "closeness": 3, "reasoning": "Close -- 'removed' can mean distant or separated from something, fitting the sense of analytical separation, but it emphasizes physical or emotional distance rather than complete disconnection from reality." },
+        { "distractor": "detached", "closeness": 3, "reasoning": "Close -- 'detached' means not connected or emotionally uninvolved, which fits the analysis being disconnected from reality, but it emphasizes emotional indifference rather than a fundamental mismatch with lived experience." },
+        { "distractor": "isolated", "closeness": 3, "reasoning": "Close -- 'isolated' means set apart from others, but it emphasizes separation in space or social terms rather than conceptual disconnection from practical concerns." },
+        { "distractor": "abstracted", "closeness": 3, "reasoning": "Close -- 'abstracted' can mean thought-oriented and withdrawn from practical matters, fitting the theoretical nature of the analysis, but it emphasizes mental preoccupation rather than severance from real-world applicability." },
+        { "distractor": "theoretical", "closeness": 2, "reasoning": "Incorrect -- 'theoretical' refers to ideas based on abstract principles rather than experience; while the analysis is theory-focused, this does not capture the sense of being severed from practical reality." },
+        { "distractor": "incompatible", "closeness": 2, "reasoning": "Incorrect -- 'incompatible' means unable to exist together harmoniously, but does not convey the sense that the analysis lacks connection to practical matters." },
+        { "distractor": "irrelevant", "closeness": 2, "reasoning": "Incorrect -- 'irrelevant' means not applicable or significant, which could describe the analysis, but does not capture the specific sense of being cut off from practical concerns." },
+        { "distractor": "obscure", "closeness": 2, "reasoning": "Incorrect -- 'obscure' means difficult to understand or unclear, but does not convey disconnection from practical reality." },
+        { "distractor": "grounded", "closeness": 1, "reasoning": "Opposite -- 'grounded' means firmly based in reality or practical experience, the opposite of the disconnection described." },
+        { "distractor": "connected", "closeness": 1, "reasoning": "Opposite -- 'connected' means joined or linked, the opposite of being entirely severed from practical realities." },
+        { "distractor": "insightful", "closeness": 1, "reasoning": "Incorrect -- 'insightful' means showing deep understanding, which contradicts an analysis disconnected from real conditions." }
+      ]
+    },
+    {
+      "sentence": "The academic's work on medieval philosophy was so divorced from contemporary concerns that few scholars bothered to engage with her arguments.",
+      "answerChoices": [
+        { "distractor": "removed", "closeness": 3, "reasoning": "Close -- 'removed' can mean distant or separate, fitting work that lacks connection to present-day relevance, but it emphasizes being set apart physically or temporally rather than being functionally disconnected." },
+        { "distractor": "distant", "closeness": 3, "reasoning": "Close -- 'distant' means far away in space or time, which the medieval philosophy is, but it describes temporal separation rather than the quality of being severed from current scholarly interests." },
+        { "distractor": "detached", "closeness": 3, "reasoning": "Close -- 'detached' means separate or emotionally uninvolved, but it emphasizes an attitude rather than the objective gap between medieval concerns and modern relevance." },
+        { "distractor": "insulated", "closeness": 3, "reasoning": "Close -- 'insulated' means protected or cut off from outside influence, but it suggests intentional separation rather than a state of disconnection from modern scholarship." },
+        { "distractor": "obscure", "closeness": 2, "reasoning": "Incorrect -- 'obscure' means difficult to understand or little known, but does not capture the specific sense of being severed from contemporary relevance." },
+        { "distractor": "dated", "closeness": 2, "reasoning": "Incorrect -- 'dated' means old-fashioned or outdated, but focuses on being out of current style rather than functionally disconnected from modern concerns." },
+        { "distractor": "specialized", "closeness": 2, "reasoning": "Incorrect -- 'specialized' means focused on a particular area, but does not inherently mean disconnected from broader scholarly engagement." },
+        { "distractor": "esoteric", "closeness": 2, "reasoning": "Incorrect -- 'esoteric' means intended for a small group of people with specialized knowledge, but does not convey lack of connection to contemporary issues." },
+        { "distractor": "integrated", "closeness": 1, "reasoning": "Opposite -- 'integrated' means incorporated or combined, opposite to being severed from contemporary scholarly discourse." },
+        { "distractor": "relevant", "closeness": 1, "reasoning": "Opposite -- 'relevant' means applicable or significant to current matters, the opposite of disconnection from contemporary concerns." },
+        { "distractor": "engaging", "closeness": 1, "reasoning": "Incorrect -- 'engaging' means interesting or involving, which contradicts work that few scholars bothered to engage with." }
+      ]
+    },
+    {
+      "sentence": "The politician's promises were so divorced from his legislative record that voters in swing districts began questioning his credibility.",
+      "answerChoices": [
+        { "distractor": "detached", "closeness": 3, "reasoning": "Close -- 'detached' means separate or unconnected, which fits the gap between promises and record, but it emphasizes emotional distance rather than factual contradiction." },
+        { "distractor": "contradicted", "closeness": 3, "reasoning": "Close -- 'contradicted' means expressed opposition to something previously said, which the record does to the promises, but it emphasizes logical opposition rather than complete severance or disparity." },
+        { "distractor": "inconsistent", "closeness": 3, "reasoning": "Close -- 'inconsistent' means lacking harmony or agreement, fitting the mismatch between promises and actions, but it describes lack of internal coherence rather than complete disconnection from reality or past behavior." },
+        { "distractor": "deceitful", "closeness": 3, "reasoning": "Close -- 'deceitful' means intended to mislead, which the promises might be given the gap with his record, but it emphasizes intentional dishonesty rather than factual disconnection between words and deeds." },
+        { "distractor": "unrealistic", "closeness": 2, "reasoning": "Incorrect -- 'unrealistic' means not based in reality, which the promises might be, but does not capture the specific sense of being severed from the politician's actual legislative history." },
+        { "distractor": "groundless", "closeness": 2, "reasoning": "Incorrect -- 'groundless' means without foundation or basis, but does not convey the specific contrast between promises and demonstrated legislative behavior." },
+        { "distractor": "absurd", "closeness": 2, "reasoning": "Incorrect -- 'absurd' means ridiculous or clearly wrong, but does not capture the specific sense of disconnection from the politician's record." },
+        { "distractor": "misleading", "closeness": 2, "reasoning": "Incorrect -- 'misleading' means causing someone to believe something untrue, but focuses on the effect on perception rather than the factual gap between words and actions." },
+        { "distractor": "aligned", "closeness": 1, "reasoning": "Opposite -- 'aligned' means in agreement or accord, the opposite of disconnection between promises and legislative record." },
+        { "distractor": "consistent", "closeness": 1, "reasoning": "Opposite -- 'consistent' means in agreement throughout, opposite to the disconnect between promises and record that causes voters to question credibility." },
+        { "distractor": "substantiated", "closeness": 1, "reasoning": "Incorrect -- 'substantiated' means supported by evidence or proof, which would not apply to promises disconnected from the politician's actions." }
+      ]
+    }
+  ]
+}

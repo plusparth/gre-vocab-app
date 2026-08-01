@@ -1,0 +1,53 @@
+{
+  "word": "singular",
+  "sentenceSets": [
+    {
+      "sentence": "The singular quality that distinguished her from her contemporaries was an unwillingness to accept explanations that would require her to stop investigating.",
+      "answerChoices": [
+        { "distractor": "rare", "closeness": 3, "reasoning": "Rare describes something uncommon or infrequently found, but singular emphasizes uniqueness in a specific quality rather than mere scarcity." },
+        { "distractor": "exceptional", "closeness": 3, "reasoning": "Exceptional describes something outstanding or superior, but singular refers to a particular characteristic or trait, not overall superiority." },
+        { "distractor": "unusual", "closeness": 3, "reasoning": "Unusual means not typical or ordinary, but singular emphasizes a distinct, individual quality rather than something merely departing from the norm." },
+        { "distractor": "distinctive", "closeness": 3, "reasoning": "Distinctive describes something that stands out or marks difference, but singular emphasizes a focused individual trait rather than overall marked character." },
+        { "distractor": "unique", "closeness": 2, "reasoning": "Unique means one-of-a-kind, which is close, but singular in this context refers to a specific identifiable quality rather than uniqueness as a whole." },
+        { "distractor": "remarkable", "closeness": 2, "reasoning": "Remarkable suggests something worthy of notice or attention, but does not specifically denote the individual or focused quality that singular conveys." },
+        { "distractor": "special", "closeness": 2, "reasoning": "Special suggests importance or distinction, but is vaguer than singular, which points to a particular and identifiable characteristic." },
+        { "distractor": "notable", "closeness": 2, "reasoning": "Notable means worthy of attention, but does not specifically refer to a particular individual quality or trait as singular does." },
+        { "distractor": "common", "closeness": 1, "reasoning": "Common describes something shared by many, the opposite of singular which suggests an individual or distinct trait." },
+        { "distractor": "ordinary", "closeness": 1, "reasoning": "Ordinary means typical or not unusual, directly opposed to the distinctiveness that singular requires." },
+        { "distractor": "collective", "closeness": 1, "reasoning": "Collective refers to things shared or grouped together, contrary to singular which emphasizes individual distinction." }
+      ]
+    },
+    {
+      "sentence": "The senator's singular focus on reducing healthcare costs, to the exclusion of all other policy considerations, frustrated those seeking broader legislative action.",
+      "answerChoices": [
+        { "distractor": "narrow", "closeness": 3, "reasoning": "Narrow describes limited scope, and while related to singular focus here, narrow emphasizes restriction whereas singular emphasizes concentration on one thing." },
+        { "distractor": "exclusive", "closeness": 3, "reasoning": "Exclusive means restricted to one thing, but carries connotations of deliberate rejection, while singular can simply mean focused without judgment of rejection." },
+        { "distractor": "concentrated", "closeness": 3, "reasoning": "Concentrated describes directed intensity, but singular emphasizes the particular individual aspect rather than the intensity of application." },
+        { "distractor": "sole", "closeness": 3, "reasoning": "Sole means one and only, which is close, but refers to the uniqueness of the focus rather than the focus itself as singular." },
+        { "distractor": "personal", "closeness": 2, "reasoning": "Personal suggests individual preference, but does not capture the sense of being the one and only focus that singular conveys." },
+        { "distractor": "fixed", "closeness": 2, "reasoning": "Fixed means not changing or immobile, but doesn't specifically indicate the particular or individual nature of the focus." },
+        { "distractor": "stubborn", "closeness": 2, "reasoning": "Stubborn implies resistance to change for irrational reasons, whereas singular focus can be principled and reasoned." },
+        { "distractor": "determined", "closeness": 2, "reasoning": "Determined suggests resolve and firmness, but doesn't specifically indicate the individual or singular nature of the focus." },
+        { "distractor": "diverse", "closeness": 1, "reasoning": "Diverse means varied and multiple, the opposite of singular focus on one area." },
+        { "distractor": "balanced", "closeness": 1, "reasoning": "Balanced implies consideration of multiple aspects, contrary to the singular or one-pointed focus described in the sentence." },
+        { "distractor": "comprehensive", "closeness": 1, "reasoning": "Comprehensive means covering many aspects, directly opposed to singular focus on healthcare costs alone." }
+      ]
+    },
+    {
+      "sentence": "The traveler's singular obsession with photographing ancient temples led her to deserted sites that few tourists ever visited.",
+      "answerChoices": [
+        { "distractor": "passionate", "closeness": 3, "reasoning": "Passionate describes intense feeling or enthusiasm, but singular refers to the focused or individual nature of the obsession rather than its emotional intensity." },
+        { "distractor": "consuming", "closeness": 3, "reasoning": "Consuming suggests all-encompassing preoccupation, but singular emphasizes the one-pointed nature of the focus rather than the degree of preoccupation." },
+        { "distractor": "compelling", "closeness": 3, "reasoning": "Compelling describes something that drives action, but singular refers to the particular or individual character of the interest rather than its driving force." },
+        { "distractor": "paramount", "closeness": 3, "reasoning": "Paramount means most important, but singular refers to the focused or individual nature rather than the ranking of importance." },
+        { "distractor": "intense", "closeness": 2, "reasoning": "Intense describes degree of feeling, but does not specifically convey the one-pointed or individual character that singular implies." },
+        { "distractor": "dominant", "closeness": 2, "reasoning": "Dominant suggests commanding importance, but doesn't specifically refer to the focused individual character of a singular interest." },
+        { "distractor": "persistent", "closeness": 2, "reasoning": "Persistent describes continuity over time, but does not specifically indicate the particular or individual nature of singular." },
+        { "distractor": "relentless", "closeness": 2, "reasoning": "Relentless suggests unyielding quality, but refers to manner rather than the individual or one-pointed character of singular focus." },
+        { "distractor": "indifferent", "closeness": 1, "reasoning": "Indifferent describes lack of interest, opposite to the focused obsession that singular implies." },
+        { "distractor": "scattered", "closeness": 1, "reasoning": "Scattered describes diffuse or unfocused attention, opposed to the singular or one-pointed obsession described in the sentence." },
+        { "distractor": "divided", "closeness": 1, "reasoning": "Divided suggests attention split among multiple interests, contrary to the singular focus on ancient temples." }
+      ]
+    }
+  ]
+}

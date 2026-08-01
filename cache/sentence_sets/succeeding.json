@@ -1,0 +1,53 @@
+{
+  "word": "succeeding",
+  "sentenceSets": [
+    {
+      "sentence": "The new director took office in January, and succeeding months revealed serious financial irregularities that the previous administration had concealed.",
+      "answerChoices": [
+        { "distractor": "subsequent", "closeness": 3, "reasoning": "'Subsequent' means following in time or order, which is similar but less specifically emphasizes the directional sequence of time proceeding after a defined starting point." },
+        { "distractor": "following", "closeness": 3, "reasoning": "While 'following' describes things that come after, it's more general and doesn't capture the sense of one thing succeeding another in a particular sequence." },
+        { "distractor": "ensuing", "closeness": 3, "reasoning": "'Ensuing' means following as a consequence; the sentence simply describes months that came after January, not necessarily resulting from it." },
+        { "distractor": "upcoming", "closeness": 3, "reasoning": "'Upcoming' refers to future events, but the sentence uses past tense ('revealed'), indicating these months have already occurred, not are about to occur." },
+        { "distractor": "previous", "closeness": 2, "reasoning": "The previous administration came before, not after, the new director; this contradicts the temporal sequence." },
+        { "distractor": "contemporary", "closeness": 2, "reasoning": "The sentence establishes a clear time sequence starting in January; 'contemporary' suggests happening at the same time, not following." },
+        { "distractor": "alternating", "closeness": 2, "reasoning": "The sentence describes a sequence of months after a starting point, not a back-and-forth alternation." },
+        { "distractor": "consecutive", "closeness": 2, "reasoning": "While consecutive months follow one another, the sentence emphasizes a sequence starting from a specific point (January), not just any unbroken sequence." },
+        { "distractor": "preceding", "closeness": 1, "reasoning": "Preceding means coming before, which directly opposes 'succeeding' in temporal order." },
+        { "distractor": "earlier", "closeness": 1, "reasoning": "The sentence describes months after January, not months earlier in the timeline." },
+        { "distractor": "simultaneous", "closeness": 1, "reasoning": "The sentence establishes a clear sequence with a starting point, not simultaneous events." }
+      ]
+    },
+    {
+      "sentence": "After the king's death, the crown passed to his eldest son, who would be succeeding to one of Europe's most troubled thrones.",
+      "answerChoices": [
+        { "distractor": "inheriting", "closeness": 3, "reasoning": "While the son inherits the throne, 'inheriting' emphasizes receiving as an heir; 'succeeding to' captures the act of taking up the position after another's departure." },
+        { "distractor": "assuming", "closeness": 3, "reasoning": "'Assuming' means taking on responsibility or position, but 'succeeding to' specifically emphasizes coming after another in a particular office or title." },
+        { "distractor": "claiming", "closeness": 3, "reasoning": "'Claiming' suggests asserting a right; the sentence indicates the succession is established by royal succession law, not through claiming." },
+        { "distractor": "occupying", "closeness": 3, "reasoning": "The son will occupy the throne, but 'occupying' doesn't capture the specific sense of taking up a position held previously by another." },
+        { "distractor": "seizing", "closeness": 2, "reasoning": "The succession is the established order of succession, not a forceful seizure of power." },
+        { "distractor": "usurping", "closeness": 2, "reasoning": "'Usurping' implies taking power illegally or by force; the sentence describes lawful succession." },
+        { "distractor": "obtaining", "closeness": 2, "reasoning": "While the son obtains the throne, 'obtaining' is general; 'succeeding to' specifically describes inheriting a position held by another." },
+        { "distractor": "establishing", "closeness": 2, "reasoning": "The throne exists; the son is not establishing it but taking over its governance." },
+        { "distractor": "rejecting", "closeness": 1, "reasoning": "The eldest son accepts the succession, not rejecting it." },
+        { "distractor": "preceding", "closeness": 1, "reasoning": "The son comes after the king's death, not before him—'preceding' is opposite." },
+        { "distractor": "abdicating", "closeness": 1, "reasoning": "The son succeeds to the throne; abdicating would mean renouncing it." }
+      ]
+    },
+    {
+      "sentence": "The archaeologists discovered that each civilization in the valley had succeeded to power through conquest, with each new culture layer showing evidence of military displacement.",
+      "answerChoices": [
+        { "distractor": "acceded", "closeness": 3, "reasoning": "While similar in sound, 'acceded' means agreed to or accepted, whereas 'succeeded to' means came into possession of or took over a position." },
+        { "distractor": "advanced", "closeness": 3, "reasoning": "'Advanced' suggests progress or improvement, but the sentence emphasizes one civilization taking over from another through conquest, not advancing culturally." },
+        { "distractor": "ascended", "closeness": 3, "reasoning": "Though 'ascended' means rose to power, it doesn't specifically emphasize coming after another civilization's rule or the displacement involved." },
+        { "distractor": "arrived", "closeness": 3, "reasoning": "'Arrived' means came to a place, but the sentence emphasizes coming into power after another civilization, not simply appearing geographically." },
+        { "distractor": "emerged", "closeness": 2, "reasoning": "Civilizations emerge or develop; the sentence specifically describes them succeeding to power through conquest, not merely emerging." },
+        { "distractor": "developed", "closeness": 2, "reasoning": "The sentence describes how power was obtained, not how civilizations developed culturally." },
+        { "distractor": "migrated", "closeness": 2, "reasoning": "Civilizations might migrate, but the sentence focuses on succession to power through conquest, not population movement." },
+        { "distractor": "flourished", "closeness": 2, "reasoning": "Each civilization may have flourished, but the sentence emphasizes the mechanism of taking power, not prosperity." },
+        { "distractor": "preceded", "closeness": 1, "reasoning": "Each civilization came after the previous one, not before—'preceded' is the opposite direction." },
+        { "distractor": "coexisted", "closeness": 1, "reasoning": "The sentence describes sequential occupation of power through displacement, not simultaneous coexistence." },
+        { "distractor": "declined", "closeness": 1, "reasoning": "The sentence describes civilizations coming to power, not declining." }
+      ]
+    }
+  ]
+}

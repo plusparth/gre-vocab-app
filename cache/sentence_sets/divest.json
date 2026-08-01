@@ -1,0 +1,53 @@
+{
+  "word": "divest",
+  "sentenceSets": [
+    {
+      "sentence": "The company divested itself of subsidiaries that no longer aligned with its core strategy.",
+      "answerChoices": [
+        { "distractor": "freed", "closeness": 3, "reasoning": "Means to release or liberate, capturing some of divest's sense of removing something unwanted, though lacking the property/possession emphasis." },
+        { "distractor": "disposed", "closeness": 3, "reasoning": "Means to get rid of or arrange, nearly synonymous with divest when describing removal of unwanted holdings." },
+        { "distractor": "discarded", "closeness": 3, "reasoning": "Means to throw away or reject, very similar to divest in describing the act of getting rid of subsidiaries." },
+        { "distractor": "shed", "closeness": 3, "reasoning": "Means to cast off or remove, nearly identical to divest when describing the removal of business units." },
+        { "distractor": "eliminated", "closeness": 2, "reasoning": "Means to remove or exclude entirely, related to divest but emphasizes removal from operation rather than transfer of ownership." },
+        { "distractor": "separated", "closeness": 2, "reasoning": "Means to part or divide, related to divesting subsidiaries but doesn't emphasize the deprivation of ownership that divest implies." },
+        { "distractor": "abandoned", "closeness": 2, "reasoning": "Means to leave behind or forsake, related to divesting but suggests giving up rather than actively transferring ownership." },
+        { "distractor": "liquidated", "closeness": 2, "reasoning": "Means to convert to cash or dissolve, related to divesting but more specific about financial conversion than ownership transfer." },
+        { "distractor": "retained", "closeness": 1, "reasoning": "Means to keep or hold onto; directly opposite of divesting, since retained subsidiaries would still be part of the company." },
+        { "distractor": "acquired", "closeness": 1, "reasoning": "Means to obtain or gain possession, opposite of divest, since acquiring subsidiaries adds to the company rather than removing them." },
+        { "distractor": "expanded", "closeness": 1, "reasoning": "Means to grow or increase, opposite of the company's divestment strategy described in the sentence." }
+      ]
+    },
+    {
+      "sentence": "As part of the settlement, the corrupt official was divested of all authority, stripped of rank and removed from office.",
+      "answerChoices": [
+        { "distractor": "deprived", "closeness": 3, "reasoning": "Means to take away or deny access, nearly synonymous with divest when describing removal of powers from an official." },
+        { "distractor": "dispossessed", "closeness": 3, "reasoning": "Means to deprive of possession or ownership, nearly identical to divest in describing loss of authority and position." },
+        { "distractor": "relieved", "closeness": 3, "reasoning": "Means to free from duty or remove from position, capturing much of divest's sense though often used with gentler connotation." },
+        { "distractor": "shorn", "closeness": 3, "reasoning": "Means to strip bare of covering or possessions, similar to divest in describing removal of all authority and rank." },
+        { "distractor": "suspended", "closeness": 2, "reasoning": "Means to temporarily remove from office, related to divest but suggests temporary status rather than permanent deprivation." },
+        { "distractor": "dismissed", "closeness": 2, "reasoning": "Means to remove from employment or position, related to divest but less specific about deprivation of powers." },
+        { "distractor": "unseated", "closeness": 2, "reasoning": "Means to remove from a position or seat of power, related to divest but focuses on position rather than deprivation of authority itself." },
+        { "distractor": "discharged", "closeness": 2, "reasoning": "Means to release from duty or position, related to divest but emphasizes termination rather than active deprivation." },
+        { "distractor": "promoted", "closeness": 1, "reasoning": "Means to advance to higher rank or status; directly opposite of the official being divested of authority and position." },
+        { "distractor": "appointed", "closeness": 1, "reasoning": "Means to place in office or assign to position; opposite of removing and divesting authority from the corrupt official." },
+        { "distractor": "pardoned", "closeness": 1, "reasoning": "Means to forgive or exempt from punishment; the opposite action to divesting an official of authority as part of a settlement." }
+      ]
+    },
+    {
+      "sentence": "The revolutionary government divested the aristocracy of their land holdings, redistributing property to peasants.",
+      "answerChoices": [
+        { "distractor": "confiscated", "closeness": 3, "reasoning": "Means to seize property officially, nearly synonymous with divest when describing government removal of landholdings." },
+        { "distractor": "expropriated", "closeness": 3, "reasoning": "Means to take property for public use, nearly identical to divest in describing government seizure and redistribution of land." },
+        { "distractor": "appropriated", "closeness": 3, "reasoning": "Means to take for one's own use or for public purposes, very similar to divest in describing seizure of property." },
+        { "distractor": "seized", "closeness": 3, "reasoning": "Means to forcibly take possession, similar to divest in describing removal of property from aristocratic ownership." },
+        { "distractor": "claimed", "closeness": 2, "reasoning": "Means to assert ownership, related to the transfer of property but describes taking for self rather than specifically divesting from aristocracy." },
+        { "distractor": "requisitioned", "closeness": 2, "reasoning": "Means to take officially for government use, related to divesting but emphasizes government use rather than redistribution to peasants." },
+        { "distractor": "commandeered", "closeness": 2, "reasoning": "Means to take by force for public use, related to divest but emphasizes forceful taking rather than deprivation of prior owners." },
+        { "distractor": "extracted", "closeness": 2, "reasoning": "Means to pull out or remove, related to divest but doesn't specifically capture the deprivation of ownership that divest emphasizes." },
+        { "distractor": "granted", "closeness": 1, "reasoning": "Means to give or bestow; opposite of divesting, since granting lands would give rather than take from the aristocracy." },
+        { "distractor": "bequeathed", "closeness": 1, "reasoning": "Means to hand down in a will or legacy; opposite of divesting, as it describes giving property rather than taking it away." },
+        { "distractor": "protected", "closeness": 1, "reasoning": "Means to safeguard or defend; opposite of divesting aristocrats of their holdings during a revolution." }
+      ]
+    }
+  ]
+}

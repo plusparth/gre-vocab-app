@@ -1,0 +1,53 @@
+{
+  "word": "garrulous",
+  "sentenceSets": [
+    {
+      "sentence": "The garrulous host never seemed to notice when his guests had stopped listening and started waiting to leave.",
+      "answerChoices": [
+        { "distractor": "verbose", "closeness": 3, "reasoning": "Close -- 'verbose' means using more words than necessary, which fits excessive talking, but emphasizes unnecessary detail rather than the oblivious, rambling quality implied by garrulous." },
+        { "distractor": "loquacious", "closeness": 3, "reasoning": "Close -- 'loquacious' means very talkative, which fits the host's excessive speech, but is a formal synonym that lacks the implication of pointlessness and social obliviousness." },
+        { "distractor": "talkative", "closeness": 3, "reasoning": "Close -- 'talkative' means inclined to talk, which describes the host, but is less negative and doesn't convey the tedious, unaware quality that garrulous implies." },
+        { "distractor": "gregarious", "closeness": 3, "reasoning": "Close -- 'gregarious' means enjoying company and social interaction, which might describe someone who talks a lot, but emphasizes friendliness rather than the annoying, rambling obliviousness of a garrulous person." },
+        { "distractor": "enthusiastic", "closeness": 2, "reasoning": "Incorrect -- 'enthusiastic' means energetic and eager, which might accompany a host's speech, but doesn't convey the sense of pointless, tedious talking." },
+        { "distractor": "engaging", "closeness": 2, "reasoning": "Incorrect -- 'engaging' means interesting and holding attention, which is the opposite of what the host achieves despite talking excessively." },
+        { "distractor": "charming", "closeness": 2, "reasoning": "Incorrect -- 'charming' means delightfully pleasing, which contradicts the implication that guests want to leave." },
+        { "distractor": "articulate", "closeness": 2, "reasoning": "Incorrect -- 'articulate' means clear and fluent in speech, which doesn't convey the tedious quality of garrulous talking." },
+        { "distractor": "taciturn", "closeness": 1, "reasoning": "Opposite -- 'taciturn' means silent or uncommunicative, the opposite of being garrulous." },
+        { "distractor": "reticent", "closeness": 1, "reasoning": "Opposite -- 'reticent' means reluctant to speak, contrary to the excessive talking described." },
+        { "distractor": "austere", "closeness": 1, "reasoning": "Incorrect -- 'austere' means severe or stern in manner, which doesn't fit the context of an overly talkative host." }
+      ]
+    },
+    {
+      "sentence": "The old teacher's garrulous anecdotes about his early career often derailed classroom lessons entirely.",
+      "answerChoices": [
+        { "distractor": "nostalgic", "closeness": 3, "reasoning": "Close -- 'nostalgic' means longing for the past, which applies to reminiscing about early career, but doesn't convey the problematic excessive talking that derails lessons." },
+        { "distractor": "rambling", "closeness": 3, "reasoning": "Close -- 'rambling' means wandering in speech, which fits anecdotes that derail lessons, but emphasizes disorganized structure rather than the tedious, talkative nature implied by garrulous." },
+        { "distractor": "lengthy", "closeness": 3, "reasoning": "Close -- 'lengthy' means long or extended, which fits anecdotes that consume classroom time, but doesn't carry the connotation of pointlessness or annoying talkativeness." },
+        { "distractor": "tiresome", "closeness": 3, "reasoning": "Close -- 'tiresome' means boring or wearisome, which applies to anecdotes that derail lessons, but describes the effect rather than the teacher's talkative nature." },
+        { "distractor": "repetitive", "closeness": 2, "reasoning": "Incorrect -- 'repetitive' means saying the same thing multiple times, which may characterize anecdotes but doesn't capture the excessive talkativeness of garrulous speech." },
+        { "distractor": "digressive", "closeness": 2, "reasoning": "Incorrect -- 'digressive' means straying from the main topic, which anecdotes do, but describes the structure rather than the speaker's excessive talking." },
+        { "distractor": "persuasive", "closeness": 2, "reasoning": "Incorrect -- 'persuasive' means convincing or compelling, which is opposite to the derailing and boring quality of the anecdotes." },
+        { "distractor": "improvised", "closeness": 2, "reasoning": "Incorrect -- 'improvised' means spontaneous and unrehearsed, which may apply to tangential anecdotes but doesn't convey excessive talking." },
+        { "distractor": "concise", "closeness": 1, "reasoning": "Opposite -- 'concise' means brief and to the point, the opposite of excessive talking that derails lessons." },
+        { "distractor": "measured", "closeness": 1, "reasoning": "Opposite -- 'measured' means deliberate and controlled, contrary to the rambling excess implied by derailing classroom lessons." },
+        { "distractor": "germane", "closeness": 1, "reasoning": "Incorrect -- 'germane' means relevant and to the point, contrary to anecdotes that derail lessons from their proper course." }
+      ]
+    },
+    {
+      "sentence": "At the conference, the panel moderator's garrulous commentary left barely any time for the actual speakers to present their research.",
+      "answerChoices": [
+        { "distractor": "extensive", "closeness": 3, "reasoning": "Close -- 'extensive' means comprehensive and far-reaching, which fits commentary that consumes time, but emphasizes breadth rather than tedious, talkative excess." },
+        { "distractor": "grandiose", "closeness": 3, "reasoning": "Close -- 'grandiose' means pompous or overly grand, which might characterize a moderator who talks excessively, but emphasizes pretentious style rather than pointless talkativeness." },
+        { "distractor": "professorial", "closeness": 3, "reasoning": "Close -- 'professorial' means in the manner of an academic, which fits a conference moderator, but doesn't convey the problematic excessive talking that monopolizes time." },
+        { "distractor": "intrusive", "closeness": 3, "reasoning": "Close -- 'intrusive' means intrusively entering where not wanted, which fits the moderator consuming speaker time, but emphasizes inappropriate boundary-crossing rather than garrulous talking." },
+        { "distractor": "authoritative", "closeness": 2, "reasoning": "Incorrect -- 'authoritative' means commanding or confident, which a moderator might be, but doesn't convey the problematic excessive talking." },
+        { "distractor": "analytical", "closeness": 2, "reasoning": "Incorrect -- 'analytical' means examining thoroughly, which might describe good moderator commentary, but not excess talking that prevents speakers from presenting." },
+        { "distractor": "critical", "closeness": 2, "reasoning": "Incorrect -- 'critical' means offering critique or judgment, which moderator commentary might include, but doesn't capture excessive talkativeness." },
+        { "distractor": "prepared", "closeness": 2, "reasoning": "Incorrect -- 'prepared' means ready and organized, which doesn't address the problem of monopolizing panel time." },
+        { "distractor": "restrained", "closeness": 1, "reasoning": "Opposite -- 'restrained' means held back or controlled, contrary to commentary that dominates the panel and leaves no time for speakers." },
+        { "distractor": "brief", "closeness": 1, "reasoning": "Opposite -- 'brief' means short and concise, the opposite of extensive commentary that monopolizes time." },
+        { "distractor": "perfunctory", "closeness": 1, "reasoning": "Incorrect -- 'perfunctory' means routine or done without care, which doesn't fit the context of excessive speaking." }
+      ]
+    }
+  ]
+}

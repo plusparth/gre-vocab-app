@@ -1,0 +1,53 @@
+{
+  "word": "malign",
+  "sentenceSets": [
+    {
+      "sentence": "His malign influence on the culture of the team outlasted his tenure, shaping how those who remained treated those who followed.",
+      "answerChoices": [
+        { "distractor": "pernicious", "closeness": 3, "reasoning": "Close -- both describe harmful influence, but 'pernicious' emphasizes subtle, creeping damage whereas 'malign' captures the fundamental evil nature; the sentence shows lasting influence but not necessarily deceptive." },
+        { "distractor": "noxious", "closeness": 3, "reasoning": "Close -- 'noxious' fits harmful influence, but it carries a stronger sense of poisonous or repugnant quality rather than the moral evil that characterizes 'malign.'" },
+        { "distractor": "insidious", "closeness": 3, "reasoning": "Close -- 'insidious' describes harmful influence that spreads deceptively, but the sentence doesn't establish that the influence was hidden or that people were unaware of its harm." },
+        { "distractor": "baneful", "closeness": 3, "reasoning": "Close -- archaic synonym meaning harmful and destructive, which fits, but 'malign' better captures the sense of inherent evil intent or corrupting nature." },
+        { "distractor": "toxic", "closeness": 2, "reasoning": "Incorrect -- 'toxic' is a more casual, modern term for harmful, but it lacks the moral dimension and sense of deliberate corruption that 'malign' conveys." },
+        { "distractor": "corrupting", "closeness": 2, "reasoning": "Incorrect -- 'corrupting' focuses on the process of making others morally corrupt, whereas 'malign' describes the fundamental evil quality of the influence itself." },
+        { "distractor": "detrimental", "closeness": 2, "reasoning": "Incorrect -- 'detrimental' simply means causing harm or damage, but it lacks the moral evil and intentional harm implied by 'malign.'" },
+        { "distractor": "prejudicial", "closeness": 2, "reasoning": "Incorrect -- 'prejudicial' means causing unfair disadvantage, but it's narrower than 'malign' and doesn't capture the inherent evil nature of the influence." },
+        { "distractor": "benign", "closeness": 1, "reasoning": "Opposite -- 'benign' means harmless or favorable, directly contradicting the harmful, corrupting influence described in the sentence." },
+        { "distractor": "salutary", "closeness": 1, "reasoning": "Opposite -- 'salutary' means promoting health or well-being, the direct opposite of influence that poisons team culture." },
+        { "distractor": "constructive", "closeness": 1, "reasoning": "Incorrect -- 'constructive' implies building something positive and beneficial, clearly opposed to influence that harms and corrupts." }
+      ]
+    },
+    {
+      "sentence": "The ancient texts warned that certain celestial alignments carried malign portents for harvest and conflict.",
+      "answerChoices": [
+        { "distractor": "sinister", "closeness": 3, "reasoning": "Close -- 'sinister' means threatening or evil, fitting ominous portents, but it emphasizes the appearance of threat rather than the inherent evil nature that 'malign' captures." },
+        { "distractor": "ominous", "closeness": 3, "reasoning": "Close -- 'ominous' describes signs that threaten harm, which fits portents, but it focuses on the warning aspect rather than the evil quality embedded in the portents themselves." },
+        { "distractor": "baleful", "closeness": 3, "reasoning": "Close -- 'baleful' means threatening harm with a menacing quality, fitting portents of misfortune, but it emphasizes the threatening appearance more than the inherent evil." },
+        { "distractor": "inauspicious", "closeness": 3, "reasoning": "Close -- 'inauspicious' describes unfavorable omens, fitting the context of portents, but it emphasizes bad luck rather than moral evil or malicious intent." },
+        { "distractor": "dire", "closeness": 2, "reasoning": "Incorrect -- 'dire' means extremely urgent or serious, which fits portents of conflict, but it doesn't capture the evil or corrupting nature that 'malign' implies." },
+        { "distractor": "foreboding", "closeness": 2, "reasoning": "Incorrect -- 'foreboding' is a sense of impending misfortune, which fits the meaning of portents, but it refers to the emotion rather than the quality of the portents themselves." },
+        { "distractor": "gloomy", "closeness": 2, "reasoning": "Incorrect -- 'gloomy' describes a dark or depressing mood, which might accompany portents, but it's emotional rather than capturing the active evil of 'malign.'" },
+        { "distractor": "turbulent", "closeness": 2, "reasoning": "Incorrect -- 'turbulent' means chaotic or violent, fitting conflict, but it lacks the sense of moral evil or corrupting influence that 'malign' conveys." },
+        { "distractor": "auspicious", "closeness": 1, "reasoning": "Opposite -- 'auspicious' means favorable or fortunate, directly contradicting portents of crop failure and war." },
+        { "distractor": "propitious", "closeness": 1, "reasoning": "Opposite -- 'propitious' means favoring or advantageous, the opposite of portents that warn of disaster." },
+        { "distractor": "fortuitous", "closeness": 1, "reasoning": "Incorrect -- 'fortuitous' means happening by chance or luck, but in the context of celestial alignments carrying warnings, good fortune is clearly wrong." }
+      ]
+    },
+    {
+      "sentence": "The journalist's investigation exposed how a malign corruption had permeated every level of the government, turning bureaucrats into accomplices rather than servants.",
+      "answerChoices": [
+        { "distractor": "insidious", "closeness": 3, "reasoning": "Close -- 'insidious' describes harm that spreads deceptively and gradually, fitting the pervasive corruption, but it emphasizes the concealment whereas 'malign' emphasizes the inherent evil nature of the corruption." },
+        { "distractor": "pernicious", "closeness": 3, "reasoning": "Close -- 'pernicious' means subtly harmful and corrupting, which fits spreading corruption, but it stresses the subtle damage rather than the moral evil that 'malign' conveys." },
+        { "distractor": "systemic", "closeness": 3, "reasoning": "Close -- 'systemic' describes corruption affecting the entire structure, which fits the sentence's description, but it's neutral about the moral quality whereas 'malign' emphasizes inherent evil." },
+        { "distractor": "cancerous", "closeness": 3, "reasoning": "Close -- metaphorically describes harmful growth spreading through an organism, fitting the permeation of corruption, but it's more about destructive spread than the evil nature itself." },
+        { "distractor": "infectious", "closeness": 2, "reasoning": "Incorrect -- 'infectious' emphasizes rapid spreading, which fits corruption spreading through government, but it lacks the moral dimension of 'malign.'" },
+        { "distractor": "virulent", "closeness": 2, "reasoning": "Incorrect -- 'virulent' means extremely harmful and bitter, fitting severe corruption, but it emphasizes intensity rather than the fundamental evil that 'malign' implies." },
+        { "distractor": "pervasive", "closeness": 2, "reasoning": "Incorrect -- 'pervasive' describes something spreading throughout, which fits the corruption, but it's neutral about quality and doesn't capture the moral evil." },
+        { "distractor": "entrenched", "closeness": 2, "reasoning": "Incorrect -- 'entrenched' means firmly established and resistant to change, which fits corruption in government, but it emphasizes fixedness rather than inherent evil." },
+        { "distractor": "benevolent", "closeness": 1, "reasoning": "Opposite -- 'benevolent' means kind and generous, the opposite of corruption that turns officials into accomplices to wrongdoing." },
+        { "distractor": "virtuous", "closeness": 1, "reasoning": "Opposite -- 'virtuous' means morally excellent, directly opposed to corruption that compromises officials' integrity." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "Incorrect -- 'transparent' means clear and honest, the opposite of hidden corruption that requires investigation to expose." }
+      ]
+    }
+  ]
+}

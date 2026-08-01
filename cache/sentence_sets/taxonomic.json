@@ -1,0 +1,53 @@
+{
+  "word": "taxonomic",
+  "sentenceSets": [
+    {
+      "sentence": "The museum's new taxonomic system organized specimens not by evolutionary history but by geographical origin, a controversial choice that delighted some researchers while frustrating others.",
+      "answerChoices": [
+        { "distractor": "organizational", "closeness": 3, "reasoning": "Organizational means relating to structure and arrangement, but taxonomic specifically refers to scientific classification systems, not just any organization." },
+        { "distractor": "categorical", "closeness": 3, "reasoning": "Categorical means relating to categories or classes, but taxonomic specifically refers to biological or scientific classification systems." },
+        { "distractor": "systematic", "closeness": 3, "reasoning": "Systematic means orderly and methodical, but taxonomic specifically describes classification systems used in science, not just any systematic approach." },
+        { "distractor": "classificatory", "closeness": 3, "reasoning": "Classificatory means relating to classification, which overlaps with taxonomic, but taxonomic is more specific to formal scientific classification." },
+        { "distractor": "hierarchical", "closeness": 2, "reasoning": "Hierarchical means arranged in levels or ranks, but taxonomic systems aren't necessarily hierarchical; some organize by other principles." },
+        { "distractor": "biological", "closeness": 2, "reasoning": "Biological means relating to living organisms, but the sentence shows the system organizes museum specimens, not necessarily biological specimens." },
+        { "distractor": "structural", "closeness": 2, "reasoning": "Structural means relating to structure or framework, but the sentence requires a word specific to scientific classification systems." },
+        { "distractor": "empirical", "closeness": 2, "reasoning": "Empirical means based on observation, but the sentence focuses on the classification method, not the observation-based nature of the system." },
+        { "distractor": "chaotic", "closeness": 1, "reasoning": "Chaotic means disorderly or confused, which is opposite to taxonomic systems, which are organized and structured." },
+        { "distractor": "random", "closeness": 1, "reasoning": "Random means without pattern or order, which opposes taxonomic systems, which are based on deliberate classification principles." },
+        { "distractor": "arbitrary", "closeness": 1, "reasoning": "Arbitrary means based on random choice, but the sentence shows the system is based on a deliberate principle (geographical origin), not arbitrary decisions." }
+      ]
+    },
+    {
+      "sentence": "The biologist spent years developing a new taxonomic framework that challenged the conventional division of species, proposing instead a classification based on genetic similarity.",
+      "answerChoices": [
+        { "distractor": "scientific", "closeness": 3, "reasoning": "Scientific means relating to science or systematic knowledge, but taxonomic specifically refers to classification systems, not just scientific work generally." },
+        { "distractor": "systematic", "closeness": 3, "reasoning": "Systematic means methodical and orderly, but taxonomic specifically refers to scientific classification, not just any systematic approach." },
+        { "distractor": "methodological", "closeness": 3, "reasoning": "Methodological means relating to methods and procedures, but taxonomic specifically refers to classification systems used in science." },
+        { "distractor": "research", "closeness": 3, "reasoning": "Research means investigation or study, but the sentence requires a word specific to classification systems, not research generally." },
+        { "distractor": "evolutionary", "closeness": 2, "reasoning": "Evolutionary means relating to evolution, but the sentence proposes classification based on genetic similarity, not evolutionary history." },
+        { "distractor": "morphological", "closeness": 2, "reasoning": "Morphological means relating to structure or form, but the new framework is based on genetic similarity, not physical structure." },
+        { "distractor": "analytical", "closeness": 2, "reasoning": "Analytical means involving detailed examination, but the sentence requires a word specific to classification systems." },
+        { "distractor": "genetic", "closeness": 2, "reasoning": "Genetic means relating to genes or heredity, which is relevant to the classification basis, but taxonomic is the term for the classification system itself." },
+        { "distractor": "conventional", "closeness": 1, "reasoning": "Conventional means traditional or customary, but the sentence shows the new framework challenges conventional classification, so it's opposite to what's needed." },
+        { "distractor": "obsolete", "closeness": 1, "reasoning": "Obsolete means no longer useful or outdated, but the sentence describes developing a new framework, not declaring something obsolete." },
+        { "distractor": "speculative", "closeness": 1, "reasoning": "Speculative means based on conjecture rather than evidence, but the sentence describes a framework based on genetic similarity—empirical evidence." }
+      ]
+    },
+    {
+      "sentence": "Without a clear taxonomic understanding of the soil organisms, the ecologist struggled to predict how changes in temperature would affect the underground ecosystem.",
+      "answerChoices": [
+        { "distractor": "biological", "closeness": 3, "reasoning": "Biological means relating to living organisms, but taxonomic specifically means relating to classification systems; understanding organisms' classification is different from biological understanding generally." },
+        { "distractor": "systematic", "closeness": 3, "reasoning": "Systematic means orderly and methodical, but taxonomic specifically refers to scientific classification, not just systematic understanding." },
+        { "distractor": "ecological", "closeness": 3, "reasoning": "Ecological means relating to ecosystems and organisms' relationships, but the sentence specifically emphasizes understanding through classification systems." },
+        { "distractor": "comprehensive", "closeness": 3, "reasoning": "Comprehensive means thorough and complete, but taxonomic specifically refers to classification-based understanding, not just comprehensive knowledge." },
+        { "distractor": "organizational", "closeness": 2, "reasoning": "Organizational means relating to structure or arrangement, but the sentence requires knowledge specifically of scientific classification." },
+        { "distractor": "analytical", "closeness": 2, "reasoning": "Analytical means involving detailed examination, but the sentence emphasizes classification-based understanding, not analytical methods." },
+        { "distractor": "technical", "closeness": 2, "reasoning": "Technical means relating to technique or specialized knowledge, but the sentence specifically emphasizes classification knowledge." },
+        { "distractor": "environmental", "closeness": 2, "reasoning": "Environmental means relating to surroundings, but the sentence requires knowledge specifically about classification systems." },
+        { "distractor": "superficial", "closeness": 1, "reasoning": "Superficial means lacking depth, but the sentence shows the ecologist needs deep knowledge; taxonomic understanding would provide this." },
+        { "distractor": "intuitive", "closeness": 1, "reasoning": "Intuitive means based on feeling rather than fact, but taxonomic understanding is based on systematic classification, not intuition." },
+        { "distractor": "anecdotal", "closeness": 1, "reasoning": "Anecdotal means based on stories or informal accounts, but taxonomic understanding is based on formal scientific classification." }
+      ]
+    }
+  ]
+}

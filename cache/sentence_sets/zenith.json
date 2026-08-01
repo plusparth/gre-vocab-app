@@ -1,0 +1,53 @@
+{
+  "word": "zenith",
+  "sentenceSets": [
+    {
+      "sentence": "At the zenith of the organization's influence, it was easy to forget how recently it had been unknown.",
+      "answerChoices": [
+        { "distractor": "apex", "closeness": 3, "reasoning": "'Apex' describes the highest point or climax; while similar to 'zenith,' 'apex' can refer to the highest point of anything, whereas 'zenith' specifically implies a highest achieved point from which decline may follow." },
+        { "distractor": "peak", "closeness": 3, "reasoning": "'Peak' denotes the highest point; while similar to 'zenith,' it's more commonly used and less formal, and doesn't carry the specific sense of a culminating moment." },
+        { "distractor": "summit", "closeness": 3, "reasoning": "'Summit' describes the highest point, often of mountains; while applicable, it emphasizes the geographical/physical highest point more than the achieved culmination implied by 'zenith.'" },
+        { "distractor": "pinnacle", "closeness": 3, "reasoning": "'Pinnacle' describes the highest point of achievement or development; while similar to 'zenith,' it emphasizes the sharpness of the peak more than the moment of culmination." },
+        { "distractor": "height", "closeness": 2, "reasoning": "'Height' describes the highest level or degree; while the organization is at its height of influence, the word is more general than 'zenith.'" },
+        { "distractor": "climax", "closeness": 2, "reasoning": "'Climax' denotes the point of greatest intensity or development; while related, it emphasizes the moment of heightened drama rather than the achieved highest point." },
+        { "distractor": "maximum", "closeness": 2, "reasoning": "'Maximum' describes the highest degree or amount possible; while applicable, it's more technical and emphasizes quantitative peak rather than the culminating moment." },
+        { "distractor": "prime", "closeness": 2, "reasoning": "'Prime' denotes a time of highest vigor or success; while related, it emphasizes the period's quality rather than the specific highest point." },
+        { "distractor": "nadir", "closeness": 1, "reasoning": "'Nadir' is the point directly opposite and below the zenith, describing the lowest point; the sentence describes influence at its highest, making 'nadir' antithetical." },
+        { "distractor": "decline", "closeness": 1, "reasoning": "The organization is at the height of influence; 'decline' would describe a descent from that point, opposite to its current zenith." },
+        { "distractor": "obscurity", "closeness": 1, "reasoning": "The organization is at the zenith of influence, having moved beyond recent obscurity; 'obscurity' represents the opposite state of being unknown." }
+      ]
+    },
+    {
+      "sentence": "The moon reached its zenith in the night sky, casting long shadows and illuminating the landscape with silver light.",
+      "answerChoices": [
+        { "distractor": "apex", "closeness": 3, "reasoning": "'Apex' describes the highest point; while the moon reaches its apex in the sky, 'zenith' more specifically refers to the point directly overhead." },
+        { "distractor": "peak", "closeness": 3, "reasoning": "'Peak' denotes the highest point in the sky; while similar to 'zenith,' it's more general and doesn't carry the specific astronomical sense of the vertical point." },
+        { "distractor": "summit", "closeness": 3, "reasoning": "'Summit' describes the highest point; while the moon reaches a summit in the sky, the word more commonly applies to mountains than to celestial bodies." },
+        { "distractor": "maximum", "closeness": 3, "reasoning": "'Maximum' describes the greatest height or intensity; while the moon reaches its maximum altitude, 'zenith' specifically denotes the highest point directly overhead." },
+        { "distractor": "height", "closeness": 2, "reasoning": "'Height' describes the moon's elevation in the sky; while applicable, it's more general and doesn't specifically refer to the point directly overhead." },
+        { "distractor": "altitude", "closeness": 2, "reasoning": "'Altitude' describes elevation above the horizon; while the moon's zenith involves maximum altitude, the word lacks the specific sense of the overhead point." },
+        { "distractor": "elevation", "closeness": 2, "reasoning": "'Elevation' denotes height or raising up; while the moon rises to elevation, the word doesn't specify the particular overhead position." },
+        { "distractor": "meridian", "closeness": 2, "reasoning": "'Meridian' denotes a great circle passing through the poles; while the moon crosses the meridian at zenith, the word emphasizes the circle rather than the overhead point." },
+        { "distractor": "nadir", "closeness": 1, "reasoning": "'Nadir' is the point directly below the observer; zenith is the point directly overhead, making 'nadir' the opposite direction." },
+        { "distractor": "horizon", "closeness": 1, "reasoning": "Zenith is directly overhead; the 'horizon' is the line where sky meets earth, the opposite of the overhead point." },
+        { "distractor": "conjunction", "closeness": 1, "reasoning": "The moon at zenith is at its highest point; 'conjunction' describes alignment with another celestial body, unrelated to the moon's vertical position." }
+      ]
+    },
+    {
+      "sentence": "The athlete's zenith came during the Olympic trials when she set a new national record and dominated every competitor.",
+      "answerChoices": [
+        { "distractor": "apex", "closeness": 3, "reasoning": "'Apex' describes the highest point of achievement; while similar to 'zenith,' it's more commonly used and less formal, implying the sharpness of the peak." },
+        { "distractor": "peak", "closeness": 3, "reasoning": "'Peak' denotes the highest point of achievement or performance; while similar to 'zenith,' it's more general and commonly used." },
+        { "distractor": "summit", "closeness": 3, "reasoning": "'Summit' describes the highest point of accomplishment; while fitting, it emphasizes the geographical metaphor more than the specific moment of athletic achievement." },
+        { "distractor": "pinnacle", "closeness": 3, "reasoning": "'Pinnacle' describes the highest point of success; while very similar to 'zenith,' it emphasizes the sharpness of the peak more than the moment of culmination." },
+        { "distractor": "height", "closeness": 2, "reasoning": "'Height' describes the highest level of success; while the athlete is at her height of performance, the word is more general than 'zenith.'" },
+        { "distractor": "glory", "closeness": 2, "reasoning": "'Glory' denotes honor and high achievement; while her moment involves glory, the word emphasizes the honor gained rather than the peak of achievement." },
+        { "distractor": "triumph", "closeness": 2, "reasoning": "'Triumph' describes a great victory; while her record-setting dominance is a triumph, the word emphasizes winning rather than the highest point of ability." },
+        { "distractor": "prime", "closeness": 2, "reasoning": "'Prime' denotes a period of greatest vigor and success; while her zenith period was her prime, the word emphasizes the period rather than the specific highest point." },
+        { "distractor": "nadir", "closeness": 1, "reasoning": "'Nadir' denotes the lowest point; her record-setting performance represents the highest point, making 'nadir' the opposite." },
+        { "distractor": "decline", "closeness": 1, "reasoning": "Her zenith represents her highest achievement; 'decline' would describe diminishing performance, opposite to her dominant record-setting moment." },
+        { "distractor": "defeat", "closeness": 1, "reasoning": "She dominated every competitor at her zenith; 'defeat' would mean loss or failure, the opposite of her triumphant athletic performance." }
+      ]
+    }
+  ]
+}

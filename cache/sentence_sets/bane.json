@@ -1,0 +1,53 @@
+{
+  "word": "bane",
+  "sentenceSets": [
+    {
+      "sentence": "Procrastination was the bane of his otherwise organized and productive professional life.",
+      "answerChoices": [
+        { "distractor": "nemesis", "closeness": 3, "reasoning": "Both describe something that causes defeat or ruin, but nemesis emphasizes a long-standing rival or force of destiny opposing someone, while bane emphasizes a source of harm or curse." },
+        { "distractor": "scourge", "closeness": 3, "reasoning": "Both describe something causing widespread suffering, but scourge emphasizes severity and often affects many, while bane refers to a curse or source of ruin for an individual." },
+        { "distractor": "curse", "closeness": 3, "reasoning": "These are nearly synonymous, but curse can refer to an incantation or magical harm, while bane emphasizes a source of ruin in everyday circumstances." },
+        { "distractor": "obstacle", "closeness": 3, "reasoning": "Both describe something hindering success, but obstacle refers to something blocking progress, while bane refers to something that causes harm or ruin." },
+        { "distractor": "weakness", "closeness": 2, "reasoning": "Both can undermine success, but weakness refers to a lack of strength or competence, while bane refers to an external source of harm." },
+        { "distractor": "impediment", "closeness": 2, "reasoning": "Both hinder achievement, but impediment refers to something that blocks or delays, while bane refers to something that causes ruin." },
+        { "distractor": "plague", "closeness": 2, "reasoning": "Both describe pervasive problems, but plague emphasizes widespread and persistent problems, while bane emphasizes a curse or source of harm." },
+        { "distractor": "drawback", "closeness": 2, "reasoning": "Both describe disadvantages, but drawback refers to an undesirable feature, while bane refers to a source of serious harm." },
+        { "distractor": "blessing", "closeness": 1, "reasoning": "The sentence describes procrastination as harmful; blessing describes something beneficial." },
+        { "distractor": "asset", "closeness": 1, "reasoning": "Procrastination ruins productivity; asset describes something valuable and helpful." },
+        { "distractor": "advantage", "closeness": 1, "reasoning": "Bane describes a source of ruin; advantage describes a favorable condition." }
+      ]
+    },
+    {
+      "sentence": "Bureaucratic delays were the bane of the medical researcher, constantly threatening to derail her clinical trials and waste precious months.",
+      "answerChoices": [
+        { "distractor": "torment", "closeness": 3, "reasoning": "Both describe severe suffering or distress, but torment emphasizes the emotional anguish inflicted, while bane emphasizes a curse or source of ruin." },
+        { "distractor": "affliction", "closeness": 3, "reasoning": "Both describe something causing hardship, but affliction emphasizes distress or suffering, while bane refers to a source of ruin or harm." },
+        { "distractor": "burden", "closeness": 3, "reasoning": "Both describe something difficult to bear, but burden emphasizes weight or responsibility, while bane emphasizes a source of harm or curse." },
+        { "distractor": "hindrance", "closeness": 3, "reasoning": "Both block progress, but hindrance refers to something that slows or blocks advancement, while bane refers to a source of ruin." },
+        { "distractor": "setback", "closeness": 2, "reasoning": "Both describe problems, but setback refers to a reversal of progress, while bane refers to a source of persistent harm." },
+        { "distractor": "complication", "closeness": 2, "reasoning": "Both describe things that complicate work, but complication emphasizes making things more complex, while bane emphasizes a curse or ruin." },
+        { "distractor": "challenge", "closeness": 2, "reasoning": "The delays are described as threatening harm, not merely as difficult situations to overcome." },
+        { "distractor": "necessity", "closeness": 2, "reasoning": "Bureaucratic delays harm research progress; necessity describes something that must be done." },
+        { "distractor": "solution", "closeness": 1, "reasoning": "Bureaucratic delays are the problem; solution describes resolution of a problem." },
+        { "distractor": "aid", "closeness": 1, "reasoning": "Delays harm the researcher's work; aid describes help or assistance." },
+        { "distractor": "catalyst", "closeness": 1, "reasoning": "The delays threaten to derail trials; catalyst describes something that triggers positive progress." }
+      ]
+    },
+    {
+      "sentence": "In the agrarian society, crop-destroying locusts were seen as the bane of existence, capable of rendering an entire region destitute in weeks.",
+      "answerChoices": [
+        { "distractor": "plight", "closeness": 3, "reasoning": "Both describe serious suffering, but plight refers to a dire situation or condition, while bane refers to the cause of ruin or a curse." },
+        { "distractor": "calamity", "closeness": 3, "reasoning": "Both describe devastating events, but calamity emphasizes a sudden disaster, while bane emphasizes an ongoing source of harm or curse." },
+        { "distractor": "pestilence", "closeness": 3, "reasoning": "Both refer to destructive forces, but pestilence specifically refers to disease or plague, while bane refers more broadly to a source of harm." },
+        { "distractor": "misfortune", "closeness": 3, "reasoning": "Both describe bad luck or hardship, but misfortune emphasizes unlucky circumstances, while bane emphasizes a specific source of ruin." },
+        { "distractor": "crisis", "closeness": 2, "reasoning": "Both describe serious situations, but crisis refers to a critical turning point, while bane refers to a source of harm." },
+        { "distractor": "tragedy", "closeness": 2, "reasoning": "Both describe terrible events, but tragedy emphasizes emotional impact and loss, while bane emphasizes a source of ruin." },
+        { "distractor": "threat", "closeness": 2, "reasoning": "Both describe dangers, but threat emphasizes potential harm, while bane emphasizes actual ruin." },
+        { "distractor": "risk", "closeness": 2, "reasoning": "The locusts cause actual destruction; risk describes possibility of loss." },
+        { "distractor": "blessing", "closeness": 1, "reasoning": "Locusts bring destitution; blessing describes something bringing good fortune." },
+        { "distractor": "abundance", "closeness": 1, "reasoning": "Locusts destroy crops leaving people destitute; abundance describes plenty." },
+        { "distractor": "prosperity", "closeness": 1, "reasoning": "Locusts render the region destitute; prosperity describes thriving and wealth." }
+      ]
+    }
+  ]
+}

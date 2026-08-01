@@ -1,0 +1,53 @@
+{
+  "word": "stem",
+  "sentenceSets": [
+    {
+      "sentence": "The activist group attempted to stem the tide of coastal erosion through a series of experimental conservation projects.",
+      "answerChoices": [
+        { "distractor": "slow", "closeness": 3, "reasoning": "Slow describes reducing speed or pace, whereas stem means to stop or check the flow of something entirely." },
+        { "distractor": "diminish", "closeness": 3, "reasoning": "Diminish means to reduce in size or importance, whereas stem implies actively checking or stopping the flow." },
+        { "distractor": "manage", "closeness": 3, "reasoning": "Manage describes controlling or handling something, whereas stem specifically means to stop or check an advancing process." },
+        { "distractor": "limit", "closeness": 3, "reasoning": "Limit describes restricting scope, whereas stem specifically means to halt or stop the tide or flow of something." },
+        { "distractor": "restrain", "closeness": 2, "reasoning": "Restrain describes holding back, whereas stem specifically means to stop or check the advance of something." },
+        { "distractor": "contain", "closeness": 2, "reasoning": "Contain describes keeping within boundaries, whereas stem means to actively stop or check something." },
+        { "distractor": "moderate", "closeness": 2, "reasoning": "Moderate describes reducing intensity, whereas stem means to stop or halt entirely." },
+        { "distractor": "arrest", "closeness": 2, "reasoning": "Arrest describes stopping suddenly, very close to stem but often used more dramatically than stem's more measured sense." },
+        { "distractor": "accelerate", "closeness": 1, "reasoning": "Accelerate means to speed up, which is the opposite of stem which means to stop or check a process." },
+        { "distractor": "promote", "closeness": 1, "reasoning": "Promote means to encourage or advance, contrary to stem which means to halt or check the tide of something." },
+        { "distractor": "exacerbate", "closeness": 1, "reasoning": "Exacerbate means to make worse or worsen, the opposite of stem which means to stop or reduce a problem." }
+      ]
+    },
+    {
+      "sentence": "The company's current difficulties stem from poor strategic decisions made years earlier that compounded over time.",
+      "answerChoices": [
+        { "distractor": "arise", "closeness": 3, "reasoning": "Arise means to come into being or originate, very close to stem but less specific about causation than stem implies." },
+        { "distractor": "result", "closeness": 3, "reasoning": "Result describes an outcome, very close to stem but sometimes used more passively than stem's sense of originating from." },
+        { "distractor": "emanate", "closeness": 3, "reasoning": "Emanate means to originate or come forth from, nearly identical to stem but sometimes used more for abstract things." },
+        { "distractor": "derive", "closeness": 3, "reasoning": "Derive means to obtain or come from, very close to stem but sometimes more technical or formal in usage." },
+        { "distractor": "flow", "closeness": 2, "reasoning": "Flow describes continuous movement from a source, related to stem but less specific about causal connection." },
+        { "distractor": "develop", "closeness": 2, "reasoning": "Develop describes gradual growth or change, whereas stem more directly indicates the source or cause." },
+        { "distractor": "follow", "closeness": 2, "reasoning": "Follow describes coming after in sequence, whereas stem indicates origination or root cause." },
+        { "distractor": "spring", "closeness": 2, "reasoning": "Spring describes emerging or coming forth, related to stem but often used more poetically." },
+        { "distractor": "end", "closeness": 1, "reasoning": "End means to conclude or terminate, which is opposite to stem which indicates origin or beginning point." },
+        { "distractor": "cause", "closeness": 1, "reasoning": "Cause is what brings something about, whereas stem describes originating from or resulting from something else." },
+        { "distractor": "precede", "closeness": 1, "reasoning": "Precede means to come before, which is opposite to stem which indicates something springs from or originates from." }
+      ]
+    },
+    {
+      "sentence": "The scientist examined the plant stem to identify the tissue responsible for transporting water and nutrients.",
+      "answerChoices": [
+        { "distractor": "stalk", "closeness": 3, "reasoning": "Stalk describes the stem or main axis of a plant, nearly identical to stem in botanical context but sometimes used differently." },
+        { "distractor": "trunk", "closeness": 3, "reasoning": "Trunk describes the main stem of a tree, related to stem but typically used for trees rather than herbaceous plants." },
+        { "distractor": "branch", "closeness": 3, "reasoning": "Branch is a lateral part of the stem, whereas stem refers to the main central axis of the plant." },
+        { "distractor": "stock", "closeness": 3, "reasoning": "Stock describes the main stem or trunk, related to stem but more commonly used in horticultural contexts." },
+        { "distractor": "cane", "closeness": 2, "reasoning": "Cane describes a hollow jointed stem, related to stem but specific to particular plants like bamboo or grasses." },
+        { "distractor": "culm", "closeness": 2, "reasoning": "Culm describes the jointed hollow stem of grasses, specific to certain plant types rather than stem generally." },
+        { "distractor": "rachis", "closeness": 2, "reasoning": "Rachis describes the axis bearing leaflets, a specialized botanical term for part of the stem system." },
+        { "distractor": "rhizome", "closeness": 2, "reasoning": "Rhizome is an underground stem, whereas the sentence refers to examining visible plant tissue." },
+        { "distractor": "root", "closeness": 1, "reasoning": "Root describes the underground part of the plant, contrasting with the stem which is the aerial main axis." },
+        { "distractor": "leaf", "closeness": 1, "reasoning": "Leaf is an appendage on the stem, not the stem structure itself that transports water and nutrients." },
+        { "distractor": "flower", "closeness": 1, "reasoning": "Flower is a reproductive structure borne by the stem, not the stem itself." }
+      ]
+    }
+  ]
+}

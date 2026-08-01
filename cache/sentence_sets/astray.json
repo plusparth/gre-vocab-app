@@ -1,0 +1,53 @@
+{
+  "word": "astray",
+  "sentenceSets": [
+    {
+      "sentence": "Without guidance, many talented students go astray, their potential wasted on aimless pursuits.",
+      "answerChoices": [
+        { "distractor": "adrift", "closeness": 3, "reasoning": "Like 'astray,' 'adrift' suggests being off course, but 'adrift' implies helplessness and being unanchored, whereas the sentence shows active pursuit of aimless goals." },
+        { "distractor": "astir", "closeness": 3, "reasoning": "Similar in sound and suggests disturbance, but 'astir' means in motion or agitation, not off a path; it doesn't capture the sense of wrong direction." },
+        { "distractor": "awry", "closeness": 3, "reasoning": "Means things go wrong or amiss, but refers to failure or misalignment of plans rather than straying from a path or guidance." },
+        { "distractor": "wayward", "closeness": 3, "reasoning": "Describes willfully erratic behavior, but emphasizes defiance or unpredictability rather than loss of direction despite having potential talent." },
+        { "distractor": "sidetracked", "closeness": 2, "reasoning": "Means diverted from a main course, but suggests temporary distraction rather than sustained aimless wandering over time." },
+        { "distractor": "confused", "closeness": 2, "reasoning": "The students lack a clear path, but 'confused' implies mental bewilderment rather than the behavioral consequence of lacking guidance." },
+        { "distractor": "discouraged", "closeness": 2, "reasoning": "Talented students lacking direction might become discouraged, but the sentence emphasizes wasted potential through wrong paths, not emotional state." },
+        { "distractor": "neglected", "closeness": 2, "reasoning": "Students without guidance are neglected by institutions, but 'neglected' focuses on being ignored rather than the act of going off a path." },
+        { "distractor": "compromised", "closeness": 1, "reasoning": "While potential is wasted, 'compromised' suggests intentional harm or weakening, not the wandering behavior of going astray." },
+        { "distractor": "thriving", "closeness": 1, "reasoning": "The opposite of what happens; students go astray and waste potential, the opposite of thriving." },
+        { "distractor": "grounded", "closeness": 1, "reasoning": "Means firmly fixed or restricted, opposite to going astray, and lacks the sense of wayward movement off a path." }
+      ]
+    },
+    {
+      "sentence": "The detective's initial theory led the investigation astray until a new witness emerged with crucial testimony.",
+      "answerChoices": [
+        { "distractor": "off-track", "closeness": 3, "reasoning": "Both describe a wrongly-directed path, but 'off-track' emphasizes deviation from a planned course, while the sentence shows the investigation actively pursuing wrong leads." },
+        { "distractor": "misguided", "closeness": 3, "reasoning": "The theory was incorrect and the investigation followed it, but 'misguided' implies poor judgment in choosing a path, not the consequence of following a wrong one." },
+        { "distractor": "compromised", "closeness": 3, "reasoning": "The investigation was flawed, but 'compromised' suggests corruption or weakening from outside interference, not the internal misstep of a false theory." },
+        { "distractor": "derailed", "closeness": 3, "reasoning": "Both mean knocked off course, but 'derailed' implies sudden, forceful disruption, whereas following a wrong theory is more gradual and systematic." },
+        { "distractor": "misdirected", "closeness": 2, "reasoning": "The theory pointed investigation in wrong directions, but 'misdirected' is more abstract, while the sentence shows concrete pursuit of a false path." },
+        { "distractor": "stalled", "closeness": 2, "reasoning": "The investigation was ineffective, but 'stalled' suggests coming to a halt, whereas 'astray' shows active but misguided movement." },
+        { "distractor": "hindered", "closeness": 2, "reasoning": "The false theory created obstacles, but 'hindered' focuses on obstruction rather than the sense of going in a wrong direction." },
+        { "distractor": "exposed", "closeness": 2, "reasoning": "A new witness eventually revealed the truth, but 'exposed' emphasizes revelation, not the prior state of being on a wrong path." },
+        { "distractor": "successful", "closeness": 1, "reasoning": "The opposite of the investigation's state; it was led astray and thus unsuccessful until new evidence arrived." },
+        { "distractor": "accelerated", "closeness": 1, "reasoning": "The investigation was slowed by a false theory, and while it eventually moved forward with new witness, this isn't the sense of being led astray." },
+        { "distractor": "vindicated", "closeness": 1, "reasoning": "The initial theory proved false, so the detective was not vindicated; the opposite, requiring new testimony to correct the path." }
+      ]
+    },
+    {
+      "sentence": "The hikers went astray after the trail marker fell, leaving them lost in unfamiliar terrain.",
+      "answerChoices": [
+        { "distractor": "strayed", "closeness": 3, "reasoning": "Both mean to wander from a path, but 'strayed' emphasizes intentional or careless wandering, while 'astray' here results from external circumstance (missing marker)." },
+        { "distractor": "off-course", "closeness": 3, "reasoning": "Both describe deviation from the intended route, but 'off-course' is more technical or abstract, whereas the sentence shows concrete physical disorientation." },
+        { "distractor": "separated", "closeness": 3, "reasoning": "Hikers could be separated from a group, but the sentence shows the entire group lost due to missing guidance, not split apart." },
+        { "distractor": "scattered", "closeness": 3, "reasoning": "Suggests dispersal of a group, but the sentence implies they stayed together but lost their way, not that they dispersed." },
+        { "distractor": "wandered", "closeness": 2, "reasoning": "Means to walk aimlessly, but 'wandered' suggests purposeless strolling, whereas 'astray' indicates confusion and loss of intended path." },
+        { "distractor": "adrift", "closeness": 2, "reasoning": "Suggests being untethered and helpless, but the hikers are on solid ground; 'adrift' applies more to water or vast emptiness." },
+        { "distractor": "delayed", "closeness": 2, "reasoning": "The missing marker caused a problem, but 'delayed' suggests they eventually continued, whereas 'astray' shows actual loss of direction." },
+        { "distractor": "disoriented", "closeness": 2, "reasoning": "The hikers are definitely disoriented, but this describes their mental state rather than the act of leaving the correct path." },
+        { "distractor": "blocked", "closeness": 1, "reasoning": "The trail marker fell, but this didn't block their path; they went astray because they lost guidance, not because passage was blocked." },
+        { "distractor": "guided", "closeness": 1, "reasoning": "The opposite of their plight; they lacked guidance when the marker fell, causing them to go astray." },
+        { "distractor": "grounded", "closeness": 1, "reasoning": "Means firmly fixed or confined to land, and is the opposite of astray, which involves wandering from the correct path." }
+      ]
+    }
+  ]
+}

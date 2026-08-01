@@ -1,0 +1,53 @@
+{
+  "word": "plastic",
+  "sentenceSets": [
+    {
+      "sentence": "The engineers chose plastic for the housing because it could withstand extreme temperatures and required minimal maintenance.",
+      "answerChoices": [
+        { "distractor": "polymer", "closeness": 3, "reasoning": "Close but incorrect -- 'polymer' is a category of synthetic materials that includes plastic but is more technically specific; while plastic is indeed a polymer, plastic is the common choice for consumer products, whereas polymer is a broader classification." },
+        { "distractor": "synthetic", "closeness": 3, "reasoning": "Close but incorrect -- 'synthetic' means artificially made, which plastic is, but this term applies to many materials beyond plastic; the sentence's emphasis on durability and low maintenance points specifically to plastic's advantages." },
+        { "distractor": "composite", "closeness": 3, "reasoning": "Close but incorrect -- 'composite' refers to materials made from multiple substances combined, which could potentially withstand temperatures, but it is more specific and expensive than plastic for routine applications." },
+        { "distractor": "elastomer", "closeness": 3, "reasoning": "Close but incorrect -- 'elastomer' refers to flexible rubber-like materials that can be synthetic; while some elastomers resist temperature, plastic is the more common choice for rigid housings." },
+        { "distractor": "material", "closeness": 2, "reasoning": "Incorrect -- 'material' is too generic; while plastic is a material, using this term suggests the sentence could apply to any substance, whereas the specific properties mentioned point to plastic." },
+        { "distractor": "substance", "closeness": 2, "reasoning": "Incorrect -- 'substance' is overly broad; while plastic is a substance, this term would apply equally to metals, ceramics, or other materials without reflecting the specific advantages stated." },
+        { "distractor": "medium", "closeness": 2, "reasoning": "Incorrect -- 'medium' typically refers to a means of expression or transmission; while not entirely wrong, it suggests an artistic or communicative context rather than an engineering material." },
+        { "distractor": "component", "closeness": 2, "reasoning": "Incorrect -- 'component' refers to a part of a larger system, but the sentence indicates engineers chose plastic for the housing itself, not merely as a component within it." },
+        { "distractor": "glass", "closeness": 1, "reasoning": "Incorrect -- while glass is transparent and could be used for housings, it is brittle and breaks easily, unlike plastic which is durable; glass requires regular maintenance and polishing." },
+        { "distractor": "metal", "closeness": 1, "reasoning": "Incorrect -- while metal housings are common, metals are heavy, conduct heat, and require corrosion prevention and regular maintenance, contradicting the sentence's emphasis on minimal maintenance." },
+        { "distractor": "ceramic", "closeness": 1, "reasoning": "Incorrect -- ceramic is brittle and prone to cracking under temperature extremes, unlike plastic which flexes and maintains integrity." }
+      ]
+    },
+    {
+      "sentence": "The sculptor realized that working with plastic allowed her to create intricate details that would have been impossible to achieve with bronze.",
+      "answerChoices": [
+        { "distractor": "clay", "closeness": 3, "reasoning": "Close but incorrect -- 'clay' is indeed a sculptable material that can capture fine details; however, the sentence specifically states that plastic allows details impossible with bronze, suggesting plastic's superior malleability compared to bronze specifically." },
+        { "distractor": "wax", "closeness": 3, "reasoning": "Close but incorrect -- 'wax' is an excellent sculpting medium for intricate detail work, rivaling plastic; the sentence's contrast with bronze implies the material chosen must offer advantages over metal, which both wax and plastic do." },
+        { "distractor": "resin", "closeness": 3, "reasoning": "Close but incorrect -- 'resin' is a moldable substance capable of capturing intricate details; it is a viable alternative to plastic for precision work, making it a plausible choice in this context." },
+        { "distractor": "stone", "closeness": 3, "reasoning": "Close but incorrect -- 'stone' can be carved to achieve fine details; however, the sentence implies the chosen material is more amenable to detail work than alternatives, and stone sculpting requires tremendous skill to capture precision." },
+        { "distractor": "pigment", "closeness": 2, "reasoning": "Incorrect -- 'pigment' is a coloring agent used in painting, not a sculptable material; while a sculptor might use pigment to finish work, it cannot create the structural details the sentence describes." },
+        { "distractor": "tool", "closeness": 2, "reasoning": "Incorrect -- 'tool' refers to an instrument for shaping material, not the material itself; the sentence discusses the medium the sculptor works with, not the instruments used." },
+        { "distractor": "surface", "closeness": 2, "reasoning": "Incorrect -- 'surface' refers to the outer layer or area, not a sculptable substance; while a sculpture has a surface, surface is not the material being worked with." },
+        { "distractor": "form", "closeness": 2, "reasoning": "Incorrect -- 'form' refers to the shape or structure created, not the material used to create it; the sentence discusses the material chosen, not the artistic result." },
+        { "distractor": "bronze", "closeness": 1, "reasoning": "Incorrect -- the sentence explicitly states plastic allows details impossible to achieve with bronze; bronze is ruled out as inferior for this purpose." },
+        { "distractor": "wood", "closeness": 1, "reasoning": "Incorrect -- while wood can be carved, the sentence's emphasis on fine details contrasts with bronze; plastic's advantages over wood for precision detail work are not established in the passage." },
+        { "distractor": "canvas", "closeness": 1, "reasoning": "Incorrect -- 'canvas' is a surface for painting, not a sculptable material; it has no relevance to three-dimensional sculpture." }
+      ]
+    },
+    {
+      "sentence": "Single-use plastic has become so ubiquitous that finding any ecosystem completely free of contamination seems increasingly impossible.",
+      "answerChoices": [
+        { "distractor": "waste", "closeness": 3, "reasoning": "Close but incorrect -- 'waste' is a broader category that includes discarded materials of all kinds, but the sentence specifies a particular type of pollution; plastic is the specific culprit described." },
+        { "distractor": "debris", "closeness": 3, "reasoning": "Close but incorrect -- 'debris' refers to scattered fragments or remnants, which plastic becomes, but the sentence emphasizes the ubiquity of plastic itself, not generalized debris." },
+        { "distractor": "pollutant", "closeness": 3, "reasoning": "Close but incorrect -- 'pollutant' is a general term for any substance that contaminates, but the sentence focuses specifically on single-use plastic as the environmental problem." },
+        { "distractor": "residue", "closeness": 3, "reasoning": "Close but incorrect -- 'residue' refers to remaining traces or deposits, which plastic creates, but it is less specific than plastic itself in describing the pervasive contamination problem." },
+        { "distractor": "contaminant", "closeness": 2, "reasoning": "Incorrect -- 'contaminant' is a substance that makes something impure or unclean, but it refers to the contaminating agent generically, whereas the sentence identifies plastic specifically as the problem." },
+        { "distractor": "particle", "closeness": 2, "reasoning": "Incorrect -- 'particle' refers to tiny fragments or pieces, which plastic breaks into, but the sentence emphasizes the presence of plastic broadly, not specifically microplastics or fragmented particles." },
+        { "distractor": "fragment", "closeness": 2, "reasoning": "Incorrect -- 'fragment' refers to broken pieces, which plastic becomes in ecosystems, but the sentence encompasses the entire ubiquity of plastic, not just fragmented forms." },
+        { "distractor": "byproduct", "closeness": 2, "reasoning": "Incorrect -- 'byproduct' typically refers to an incidental product of manufacturing, but the sentence discusses the material itself that is ubiquitous, not a side effect of production." },
+        { "distractor": "water", "closeness": 1, "reasoning": "Incorrect -- 'water' is a medium in which plastic contamination occurs, not the contaminating substance itself." },
+        { "distractor": "soil", "closeness": 1, "reasoning": "Incorrect -- 'soil' is an ecosystem component affected by plastic contamination, not the contaminant itself." },
+        { "distractor": "sediment", "closeness": 1, "reasoning": "Incorrect -- 'sediment' accumulates on ocean and lake floors and may contain plastic, but sediment itself is not the plastic contaminant referenced in the sentence." }
+      ]
+    }
+  ]
+}

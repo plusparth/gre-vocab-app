@@ -1,0 +1,53 @@
+{
+  "word": "umbrage",
+  "sentenceSets": [
+    {
+      "sentence": "He took umbrage at the question, which was designed to be neutral and was received as anything but.",
+      "answerChoices": [
+        { "distractor": "offense", "closeness": 3, "reasoning": "Offense (feeling of resentment) is very similar but is broader and can refer to the act itself, while umbrage specifically describes the feeling of piqued resentment." },
+        { "distractor": "affront", "closeness": 3, "reasoning": "Affront (open insult or disrespectful action) is close but describes an action or intent rather than the emotional response of resentment." },
+        { "distractor": "indignation", "closeness": 3, "reasoning": "Indignation (anger at something unjust or offensive) overlaps but emphasizes righteous anger more than the subtle pique of umbrage." },
+        { "distractor": "resentment", "closeness": 3, "reasoning": "Resentment (bitter displeasure) is very close but is more sustained and deeper than the often-fancied slight of umbrage." },
+        { "distractor": "annoyance", "closeness": 2, "reasoning": "Annoyance (slight irritation) involves displeasure but is less intense than the resentful pique of umbrage." },
+        { "distractor": "irritation", "closeness": 2, "reasoning": "Irritation (state of annoyance) is lighter than umbrage and lacks the specific sense of wounded pride." },
+        { "distractor": "disapproval", "closeness": 2, "reasoning": "Disapproval (expression of disapproval) is more about judgment than the emotional resentment." },
+        { "distractor": "admiration", "closeness": 1, "reasoning": "Admiration (feeling of respect and approval) is opposite to pique and resentment." },
+        { "distractor": "acceptance", "closeness": 1, "reasoning": "Acceptance (willingness to receive) is contrary to taking offense or resentment." },
+        { "distractor": "gratitude", "closeness": 1, "reasoning": "Gratitude (thankfulness) is the opposite of piqued resentment." },
+        { "distractor": "delight", "closeness": 1, "reasoning": "Delight (intense pleasure) opposes the resentment and pique." }
+      ]
+    },
+    {
+      "sentence": "When the critic dismissed her work as derivative, she took umbrage, viewing the comment as a fancied slight that ignored her unique contributions.",
+      "answerChoices": [
+        { "distractor": "exception", "closeness": 3, "reasoning": "Exception (taking a strong objection) is close but emphasizes disagreement rather than the specific feeling of piqued resentment at an insult." },
+        { "distractor": "grudge", "closeness": 3, "reasoning": "Grudge (persistent resentment) is similar but suggests longer-lasting hostility than the momentary pique of umbrage." },
+        { "distractor": "pique", "closeness": 3, "reasoning": "Pique (feeling of irritation or resentment) is very similar but is a component of umbrage, not the full emotional response." },
+        { "distractor": "slight", "closeness": 3, "reasoning": "Slight (disrespectful or insulting treatment) is the cause of umbrage but not the response itself." },
+        { "distractor": "objection", "closeness": 2, "reasoning": "Objection (reason for disagreeing) emphasizes intellectual disagreement rather than emotional resentment." },
+        { "distractor": "disdain", "closeness": 2, "reasoning": "Disdain (contempt and lack of respect) emphasizes superior judgment rather than wounded pride." },
+        { "distractor": "contempt", "closeness": 2, "reasoning": "Contempt (feeling that someone is unworthy of respect) is more actively hostile than umbrage." },
+        { "distractor": "admiration", "closeness": 1, "reasoning": "Admiration (feeling of respect) is opposite to wounded pride and resentment." },
+        { "distractor": "approval", "closeness": 1, "reasoning": "Approval (expression of agreement) is contrary to taking offense." },
+        { "distractor": "forgiveness", "closeness": 1, "reasoning": "Forgiveness (willingness to let go of resentment) opposes taking umbrage." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Praise (expression of approval) is the opposite of wounded pride from perceived insult." }
+      ]
+    },
+    {
+      "sentence": "The elderly residents took umbrage at suggestions that they were too old for the proposed community project, seeing each recommendation as a veiled insult to their capabilities.",
+      "answerChoices": [
+        { "distractor": "exception", "closeness": 3, "reasoning": "Exception (strong objection) overlaps but emphasizes reasoned disagreement rather than the specific feeling of piqued resentment." },
+        { "distractor": "offense", "closeness": 3, "reasoning": "Offense (feeling hurt or resentful) is very close but can also refer to the action causing resentment." },
+        { "distractor": "umbrage at appearance", "closeness": 3, "reasoning": "This would be a reframing but the sentence is specifically about wounded pride at being underestimated." },
+        { "distractor": "indignation", "closeness": 3, "reasoning": "Indignation (righteous anger) overlaps but emphasizes anger at injustice more than the wounded pride of umbrage." },
+        { "distractor": "objection", "closeness": 2, "reasoning": "Objection (reason for disagreement) emphasizes logical disagreement rather than wounded feelings." },
+        { "distractor": "resentment", "closeness": 2, "reasoning": "Resentment (bitter displeasure) is related but describes a more general ill will than the specific pique of umbrage." },
+        { "distractor": "suspicion", "closeness": 2, "reasoning": "Suspicion (belief without proof) involves doubt but not the emotional resentment at insult." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Praise (expression of approval) is opposite to offense taken at perceived insult." },
+        { "distractor": "confidence", "closeness": 1, "reasoning": "Confidence (feeling of trust) is contrary to feeling wounded or insulted." },
+        { "distractor": "appreciation", "closeness": 1, "reasoning": "Appreciation (recognition of value) opposes taking offense at being underestimated." },
+        { "distractor": "encouragement", "closeness": 1, "reasoning": "Encouragement (support and inspiration) is opposite to wounded pride and resentment." }
+      ]
+    }
+  ]
+}

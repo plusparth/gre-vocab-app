@@ -1,0 +1,53 @@
+{
+  "word": "anoint",
+  "sentenceSets": [
+    {
+      "sentence": "The ceremony anointed the new leader before the assembled crowd.",
+      "answerChoices": [
+        { "distractor": "crowned", "closeness": 3, "reasoning": "Crowned also marks the installation of a leader, but emphasizes placing a crown rather than the ritual anointing with oil or ointment." },
+        { "distractor": "inaugurated", "closeness": 3, "reasoning": "Inaugurated means formally established into office, capturing the ceremonial aspect but missing the specific act of ritual anointing." },
+        { "distractor": "endorsed", "closeness": 3, "reasoning": "Endorsed means gave approval or support to, which overlaps ceremonially but doesn't convey the physical anointing ritual." },
+        { "distractor": "consecrated", "closeness": 3, "reasoning": "Consecrated means made sacred or set apart, close to anoint's religious meaning but can refer to objects rather than people." },
+        { "distractor": "recognized", "closeness": 2, "reasoning": "Recognized means acknowledged or identified, describing the ceremony's outcome but not the specific act of anointing." },
+        { "distractor": "proclaimed", "closeness": 2, "reasoning": "Proclaimed means announced or declared publicly, capturing the ceremonial public aspect but not the ritual anointing." },
+        { "distractor": "honored", "closeness": 2, "reasoning": "Honored means treated with respect or given recognition, but doesn't capture the specific ritual act of applying oil or ointment." },
+        { "distractor": "invested", "closeness": 2, "reasoning": "Invested means formally given authority or power, capturing the leadership transfer but not the anointing ritual itself." },
+        { "distractor": "rejected", "closeness": 1, "reasoning": "Rejected means refused or turned down, directly opposite to the ceremony's purpose of accepting the new leader." },
+        { "distractor": "questioned", "closeness": 1, "reasoning": "Questioned means challenged or cast doubt on, opposite to the ceremony's intent to formally establish the leader." },
+        { "distractor": "removed", "closeness": 1, "reasoning": "Removed means taken away or deposed, opposite to installing a leader through ceremony." }
+      ]
+    },
+    {
+      "sentence": "The priest would anoint the sick with holy oil as a final blessing before their passing.",
+      "answerChoices": [
+        { "distractor": "sprinkle", "closeness": 3, "reasoning": "Sprinkle involves applying liquid in small amounts, but lacks the deliberate ritual anointing with oil typically applied more generously." },
+        { "distractor": "bless", "closeness": 3, "reasoning": "Bless captures the spiritual meaning but describes the intended effect rather than the specific physical act of applying oil." },
+        { "distractor": "touch", "closeness": 3, "reasoning": "Touch describes physical contact but is too general and doesn't convey the specific act of applying oil or ointment." },
+        { "distractor": "mark", "closeness": 3, "reasoning": "Mark implies making a sign or impression, which could describe the result of anointing but not the act itself." },
+        { "distractor": "cleanse", "closeness": 2, "reasoning": "Cleanse means purify or wash, often a step before anointing but not the anointing ritual itself." },
+        { "distractor": "prepare", "closeness": 2, "reasoning": "Prepare describes getting ready, which might include anointing, but doesn't specify this particular ritual action." },
+        { "distractor": "comfort", "closeness": 2, "reasoning": "Comfort describes the spiritual purpose but not the physical act of applying sacred oil." },
+        { "distractor": "counsel", "closeness": 2, "reasoning": "Counsel means offer advice or guidance, a different form of spiritual care than the physical act of anointing." },
+        { "distractor": "abandon", "closeness": 1, "reasoning": "Abandon means leave or forsake, opposite to the caring ritual of anointing the dying." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Ignore means pay no attention to, opposite to the deliberate ritual care shown by anointing." },
+        { "distractor": "punish", "closeness": 1, "reasoning": "Punish means inflict penalty or harm, opposite to the compassionate blessing intended by anointing." }
+      ]
+    },
+    {
+      "sentence": "The athletes anointed themselves with protective balm before entering the arena, a tradition their opponents often mocked.",
+      "answerChoices": [
+        { "distractor": "coated", "closeness": 3, "reasoning": "Coated means covered with a layer of substance, describing the application but missing the ceremonial or ritual aspect." },
+        { "distractor": "rubbed", "closeness": 3, "reasoning": "Rubbed describes the motion of application but is more casual and lacks the specific meaning of applying ointment or oil." },
+        { "distractor": "daubed", "closeness": 3, "reasoning": "Daubed means applied roughly or carelessly, whereas anointing implies deliberate, often respectful application." },
+        { "distractor": "smeared", "closeness": 3, "reasoning": "Smeared suggests messy application, whereas anointing connotes careful, purposeful application of a substance." },
+        { "distractor": "treated", "closeness": 2, "reasoning": "Treated means applied medicine or preparation to, but is too general and doesn't convey the specific anointing ritual." },
+        { "distractor": "moistened", "closeness": 2, "reasoning": "Moistened means made wet, which could describe applying balm but focuses on dampness rather than protective coating." },
+        { "distractor": "wrapped", "closeness": 2, "reasoning": "Wrapped means covered or bound with material, a different form of protection than applying balm." },
+        { "distractor": "toughened", "closeness": 2, "reasoning": "Toughened means made harder or more resilient, describing the goal but not the act of applying protective balm." },
+        { "distractor": "stripped", "closeness": 1, "reasoning": "Stripped means removed or took away, opposite to the application of protective balm." },
+        { "distractor": "exposed", "closeness": 1, "reasoning": "Exposed means left unprotected or revealed, opposite to the protective purpose of anointing." },
+        { "distractor": "weakened", "closeness": 1, "reasoning": "Weakened means made less strong, opposite to the protective and strengthening purpose of the traditional balm." }
+      ]
+    }
+  ]
+}

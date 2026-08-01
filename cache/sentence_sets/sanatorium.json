@@ -1,0 +1,53 @@
+{
+  "word": "sanatorium",
+  "sentenceSets": [
+    {
+      "sentence": "The patient spent three months in a sanatorium in the Swiss Alps, where the mountain air and expert care helped her recover from tuberculosis.",
+      "answerChoices": [
+        { "distractor": "hospital", "closeness": 3, "reasoning": "Means a medical facility for acute care; while sanatoriums have hospital-like features, 'hospital' suggests acute care, whereas the sentence shows long-term recovery from chronic disease." },
+        { "distractor": "clinic", "closeness": 3, "reasoning": "Means a medical facility for outpatient care; while clinics provide medical care, the sentence requires a facility for extended residential treatment, not outpatient visits." },
+        { "distractor": "resort", "closeness": 3, "reasoning": "Means a place for rest and leisure; while the sanatorium provides rest, the sentence emphasizes specialized medical care for serious illness, not leisure." },
+        { "distractor": "retreat", "closeness": 3, "reasoning": "Means a place of withdrawal for rest; while the sanatorium provides retreat-like conditions, the sentence emphasizes the medical purpose and expert care." },
+        { "distractor": "spa", "closeness": 2, "reasoning": "Means a place for health and relaxation; while spas promote wellness, the sentence requires a facility specializing in medical recovery from tuberculosis, not general spa treatments." },
+        { "distractor": "facility", "closeness": 2, "reasoning": "Means a building or place providing a service; too generic—the sentence requires the specific term for medical recovery facilities." },
+        { "distractor": "institution", "closeness": 2, "reasoning": "Means an organization providing a service; too generic—the sentence requires the specific term for specialized medical recovery establishments." },
+        { "distractor": "lodge", "closeness": 2, "reasoning": "Means a place of accommodation; while the patient lodges there, the sentence emphasizes the medical and therapeutic purpose, not accommodation." },
+        { "distractor": "prison", "closeness": 1, "reasoning": "Means a place of detention; opposite type of facility—the sanatorium provides care and recovery, not confinement." },
+        { "distractor": "factory", "closeness": 1, "reasoning": "Means an industrial workplace; opposite type of facility—the sanatorium provides medical care, not industrial production." },
+        { "distractor": "school", "closeness": 1, "reasoning": "Means an educational institution; opposite type of facility—the sanatorium provides medical care and recovery, not education." }
+      ]
+    },
+    {
+      "sentence": "The aging industrialist donated generously to build a sanatorium where workers could recuperate from occupational illnesses.",
+      "answerChoices": [
+        { "distractor": "hospital", "closeness": 3, "reasoning": "Means a medical facility for acute care; while sanatoriums are hospital-like, 'hospital' suggests acute treatment, whereas the sentence shows specialized long-term care for chronic occupational illness." },
+        { "distractor": "clinic", "closeness": 3, "reasoning": "Means a medical facility for outpatient care; while clinics provide medical services, the sentence requires a specialized facility for extended recovery, not outpatient visits." },
+        { "distractor": "infirmary", "closeness": 3, "reasoning": "Means a hospital facility within an institution; while similar to sanatorium, 'infirmary' is smaller and usually within another organization, whereas the sentence describes a dedicated recovery facility." },
+        { "distractor": "medical center", "closeness": 3, "reasoning": "Means a place for comprehensive medical care; while applicable, the sentence requires the specific term for specialized long-term recovery facilities." },
+        { "distractor": "facility", "closeness": 2, "reasoning": "Means a building or place; too generic—the sentence requires the specific term for medical recovery establishments for chronic illness." },
+        { "distractor": "establishment", "closeness": 2, "reasoning": "Means an organization or building; too generic—the sentence requires the specific term for specialized medical recovery institutions." },
+        { "distractor": "center", "closeness": 2, "reasoning": "Means a place of activity or service; too generic—the sentence requires the specific term for medical recovery facilities." },
+        { "distractor": "institution", "closeness": 2, "reasoning": "Means an organization; too generic—the sentence requires the specific term for long-term medical care facilities." },
+        { "distractor": "factory", "closeness": 1, "reasoning": "Means an industrial workplace; opposite type of facility—the sanatorium treats workers harmed by factory conditions, not a workplace itself." },
+        { "distractor": "mine", "closeness": 1, "reasoning": "Means an extractive workplace; opposite—the sanatorium heals workers from mining illnesses, not a mining facility." },
+        { "distractor": "office", "closeness": 1, "reasoning": "Means a workplace facility; opposite purpose—the sanatorium provides medical recovery, not workplace operations." }
+      ]
+    },
+    {
+      "sentence": "She checked into a psychiatric sanatorium after her breakdown, spending weeks in a structured, therapeutic environment with constant professional support.",
+      "answerChoices": [
+        { "distractor": "asylum", "closeness": 3, "reasoning": "Means a mental health facility; very close to sanatorium in providing psychiatric care, but 'asylum' often carries negative historical connotations, whereas the sentence emphasizes therapeutic benefit." },
+        { "distractor": "clinic", "closeness": 3, "reasoning": "Means an outpatient medical facility; while clinics provide mental health services, the sentence requires a residential facility for intensive care, not outpatient treatment." },
+        { "distractor": "hospital", "closeness": 3, "reasoning": "Means a general medical facility; while applicable for psychiatric care, the sentence requires a specialized facility emphasizing long-term recovery and structure, not acute hospital care." },
+        { "distractor": "retreat", "closeness": 3, "reasoning": "Means a place of withdrawal; while the sanatorium is retreating, the sentence emphasizes the intensive professional therapeutic structure, not just a quiet retreat." },
+        { "distractor": "facility", "closeness": 2, "reasoning": "Means a building or place; too generic—the sentence requires the specific term for psychiatric recovery institutions." },
+        { "distractor": "institution", "closeness": 2, "reasoning": "Means an organization; too generic—the sentence requires the specific term for psychiatric recovery establishments." },
+        { "distractor": "center", "closeness": 2, "reasoning": "Means a place of activity; too generic—the sentence requires the specific term for psychiatric recovery facilities." },
+        { "distractor": "refuge", "closeness": 2, "reasoning": "Means a place of safety; while the sanatorium provides refuge, the sentence emphasizes structured therapeutic care, not just safety." },
+        { "distractor": "prison", "closeness": 1, "reasoning": "Means a place of detention; opposite purpose—the sanatorium provides therapeutic care, not confinement." },
+        { "distractor": "hotel", "closeness": 1, "reasoning": "Means temporary lodging; opposite purpose—the sanatorium provides medical and psychological care, not lodging services." },
+        { "distractor": "office", "closeness": 1, "reasoning": "Means a workplace facility; opposite purpose—the sanatorium provides psychiatric recovery, not business operations." }
+      ]
+    }
+  ]
+}

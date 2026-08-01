@@ -1,0 +1,53 @@
+{
+  "word": "sinecure",
+  "sentenceSets": [
+    {
+      "sentence": "The appointment was understood to be a sinecure, created to reward past service rather than in anticipation of future contribution.",
+      "answerChoices": [
+        { "distractor": "honor", "closeness": 3, "reasoning": "Honor captures the recognition aspect of the appointment, but sinecure specifically denotes a paid position requiring no work—honor doesn't necessarily involve income." },
+        { "distractor": "privilege", "closeness": 3, "reasoning": "Privilege describes an unearned advantage, but sinecure specifically means a position with income attached and minimal work requirements." },
+        { "distractor": "gift", "closeness": 3, "reasoning": "Gift captures the idea of a reward given freely, but sinecure implies a formal position with associated salary and title, not a simple present." },
+        { "distractor": "pension", "closeness": 3, "reasoning": "Pension is often given as a reward for service and provides income without current work, but typically doesn't involve holding a formal position or office." },
+        { "distractor": "promotion", "closeness": 2, "reasoning": "Promotion might be offered as recognition but typically involves new responsibilities, whereas sinecure explicitly implies minimal or no work." },
+        { "distractor": "appointment", "closeness": 2, "reasoning": "Appointment is too general; a sinecure is a specific type of appointment characterized by lack of real duties." },
+        { "distractor": "endowment", "closeness": 2, "reasoning": "Endowment refers to funds or property given to support something, not a position held by an individual." },
+        { "distractor": "bonus", "closeness": 2, "reasoning": "Bonus is a payment for work or performance, whereas sinecure provides income for holding a position with no actual duties." },
+        { "distractor": "burden", "closeness": 1, "reasoning": "Burden suggests a heavy responsibility, opposite to the minimal work requirements that define a sinecure." },
+        { "distractor": "obligation", "closeness": 1, "reasoning": "Obligation implies duties and responsibilities, directly contrary to the essential character of sinecure as work-free." },
+        { "distractor": "labor", "closeness": 1, "reasoning": "Labor represents work and effort, the opposite of what a sinecure involves." }
+      ]
+    },
+    {
+      "sentence": "After decades of demanding roles, the aging actress accepted a sinecure on the museum board, knowing she would attend a few galas annually.",
+      "answerChoices": [
+        { "distractor": "position", "closeness": 3, "reasoning": "Position is too general; while a sinecure is a position, not all positions are sinecures—the specific meaning requires minimal work and income." },
+        { "distractor": "post", "closeness": 3, "reasoning": "Post refers to a formal position or station, but doesn't carry the implication of being a cushy role with minimal responsibilities." },
+        { "distractor": "role", "closeness": 3, "reasoning": "Role describes a function or part someone plays, but sinecure implies no meaningful function or contribution." },
+        { "distractor": "title", "closeness": 3, "reasoning": "Title refers to a name of position or rank, but doesn't specify the light workload that characterizes a sinecure." },
+        { "distractor": "membership", "closeness": 2, "reasoning": "Membership implies belonging to an organization, but doesn't necessarily involve holding a formal paying position as sinecure does." },
+        { "distractor": "job", "closeness": 2, "reasoning": "Job typically implies work and responsibilities, whereas sinecure specifically means minimal or no work requirements." },
+        { "distractor": "contract", "closeness": 2, "reasoning": "Contract describes an agreement, but doesn't specifically denote a position providing income for little effort." },
+        { "distractor": "assignment", "closeness": 2, "reasoning": "Assignment suggests a task or duty, whereas sinecure implies the absence of meaningful duties." },
+        { "distractor": "employment", "closeness": 1, "reasoning": "Employment typically requires actual work, whereas sinecure explicitly involves minimal labor despite providing income." },
+        { "distractor": "career", "closeness": 1, "reasoning": "Career implies a progression of meaningful work, opposite to the do-nothing nature of a sinecure." },
+        { "distractor": "responsibility", "closeness": 1, "reasoning": "Responsibility is what a sinecure avoids, making it a direct antonym in this context." }
+      ]
+    },
+    {
+      "sentence": "The new intern realized her technical skills were underutilized when she discovered her role was essentially a sinecure—a desk, a computer, and no meaningful tasks.",
+      "answerChoices": [
+        { "distractor": "placeholder", "closeness": 3, "reasoning": "Placeholder suggests a temporary position, but sinecure typically implies an ongoing post with income, even if inactive." },
+        { "distractor": "makeshift position", "closeness": 3, "reasoning": "Makeshift suggests something hastily assembled or temporary, whereas sinecure is an established position, albeit one with minimal work." },
+        { "distractor": "dead-end job", "closeness": 3, "reasoning": "Dead-end job suggests a position with no growth or advancement, while sinecure specifically emphasizes lack of work rather than lack of opportunity." },
+        { "distractor": "busywork", "closeness": 3, "reasoning": "Busywork refers to tasks that keep someone occupied but lack value, whereas sinecure means no real work is expected at all." },
+        { "distractor": "apprenticeship", "closeness": 2, "reasoning": "Apprenticeship is a position for learning and developing skills, opposite to the meaningless character of a sinecure." },
+        { "distractor": "internship", "closeness": 2, "reasoning": "Internship is a training position, but the context indicates this particular internship lacks even the learning opportunity typical of internships." },
+        { "distractor": "formality", "closeness": 2, "reasoning": "Formality describes a procedure or requirement, not a position or role held by a person." },
+        { "distractor": "ceremony", "closeness": 2, "reasoning": "Ceremony describes a formal ritual, not an employment position." },
+        { "distractor": "engagement", "closeness": 1, "reasoning": "Engagement suggests active involvement and participation, opposite to the disengagement and inactivity of a sinecure." },
+        { "distractor": "opportunity", "closeness": 1, "reasoning": "Opportunity to develop skills is what sinecure lacks—the position offers neither real work nor genuine learning." },
+        { "distractor": "challenge", "closeness": 1, "reasoning": "Challenge implies demanding tasks, the opposite of the absence of meaningful work in a sinecure." }
+      ]
+    }
+  ]
+}

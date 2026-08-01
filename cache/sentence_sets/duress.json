@@ -1,0 +1,53 @@
+{
+  "word": "duress",
+  "sentenceSets": [
+    {
+      "sentence": "The contract was signed under duress, a circumstance that rendered it unenforceable under the relevant law.",
+      "answerChoices": [
+        { "distractor": "coercion", "closeness": 3, "reasoning": "Close -- 'coercion' means forcing someone to act against their will, which is the mechanism of duress, but it emphasizes the act of forcing rather than the restrictive state itself." },
+        { "distractor": "compulsion", "closeness": 3, "reasoning": "Close -- 'compulsion' means an irresistible urge to act, which could result from duress, but it emphasizes internal drive rather than external forcible restraint." },
+        { "distractor": "pressure", "closeness": 3, "reasoning": "Close -- 'pressure' refers to compelling force, which could include duress, but it is broader and less legally specific than the forcible restraint implied by the contract's unenforceability." },
+        { "distractor": "intimidation", "closeness": 3, "reasoning": "Close -- 'intimidation' means frightening someone into compliance, which could cause someone to sign under duress, but it emphasizes the emotional response rather than the restrictive circumstance." },
+        { "distractor": "threat", "closeness": 2, "reasoning": "Incorrect -- 'threat' is a warning of harm, which might cause duress, but it is the cause rather than the state itself." },
+        { "distractor": "manipulation", "closeness": 2, "reasoning": "Incorrect -- 'manipulation' means skillfully controlling through indirect means, which differs from the forcible restraint implied by duress." },
+        { "distractor": "extortion", "closeness": 2, "reasoning": "Incorrect -- 'extortion' means obtaining something through threats or force, which might involve duress, but it emphasizes the extraction rather than the restrictive condition." },
+        { "distractor": "blackmail", "closeness": 2, "reasoning": "Incorrect -- 'blackmail' means threatening to reveal damaging information to extract compliance, which might cause duress, but it is a specific tactic rather than a general restraint." },
+        { "distractor": "consent", "closeness": 1, "reasoning": "Opposite -- 'consent' means voluntary agreement; opposite to signing under forcible restraint or duress." },
+        { "distractor": "freedom", "closeness": 1, "reasoning": "Opposite -- 'freedom' means liberty to act without restraint; opposite to the condition of duress that made the contract unenforceable." },
+        { "distractor": "autonomy", "closeness": 1, "reasoning": "Opposite -- 'autonomy' means self-governance and freedom to make independent choices; opposite to signing under duress." }
+      ]
+    },
+    {
+      "sentence": "Held under duress by the gang for three days, the hostages knew that escape was nearly impossible.",
+      "answerChoices": [
+        { "distractor": "captivity", "closeness": 3, "reasoning": "Close -- 'captivity' means confinement or imprisonment, which is similar to being held under duress, but it emphasizes the state of being confined rather than the forcible restraint that prevents choice." },
+        { "distractor": "custody", "closeness": 3, "reasoning": "Close -- 'custody' means being held in the care or control of another, which fits the situation, but it can be neutral or legal rather than inherently forcible." },
+        { "distractor": "imprisonment", "closeness": 3, "reasoning": "Close -- 'imprisonment' means confinement, which is what duress creates, but it is more formal and legal, whereas duress emphasizes the condition of restraint preventing free will." },
+        { "distractor": "bondage", "closeness": 3, "reasoning": "Close -- 'bondage' means the state of being bound or enslaved, which describes the hostages' situation, but it emphasizes servitude rather than the specific restraint preventing escape." },
+        { "distractor": "threat", "closeness": 2, "reasoning": "Incorrect -- 'threat' is the danger posed, but duress is the resulting restraint on choice; the sentence emphasizes being held, not threatened." },
+        { "distractor": "siege", "closeness": 2, "reasoning": "Incorrect -- 'siege' means a military blockade, which creates confinement, but it is a military context, not the criminal restraint described." },
+        { "distractor": "hostility", "closeness": 2, "reasoning": "Incorrect -- 'hostility' means opposition or aggression, which might accompany duress, but it does not describe the state of being forcibly held." },
+        { "distractor": "peril", "closeness": 2, "reasoning": "Incorrect -- 'peril' means danger; while the hostages faced danger, the sentence emphasizes being held, not the danger itself." },
+        { "distractor": "liberation", "closeness": 1, "reasoning": "Opposite -- 'liberation' means freedom from restraint; opposite to being held under duress." },
+        { "distractor": "release", "closeness": 1, "reasoning": "Opposite -- 'release' means being freed from confinement; opposite to being held under duress." },
+        { "distractor": "emancipation", "closeness": 1, "reasoning": "Opposite -- 'emancipation' means freedom from bondage or restraint; opposite to being held captive under duress." }
+      ]
+    },
+    {
+      "sentence": "The witness signed the confession only under duress, and later recanted every claim when the police's threats were removed.",
+      "answerChoices": [
+        { "distractor": "protest", "closeness": 3, "reasoning": "Close -- 'protest' means to object or resist, which the witness could have done instead of signing, but it does not describe the restrictive circumstance that forced the signature." },
+        { "distractor": "objection", "closeness": 3, "reasoning": "Close -- 'objection' means a reason for disagreement, which the witness might have raised, but it does not capture the sense of external forcible restraint." },
+        { "distractor": "reluctance", "closeness": 3, "reasoning": "Close -- 'reluctance' means unwillingness to act, which the witness likely felt, but it is an emotional state rather than external restraint." },
+        { "distractor": "reservation", "closeness": 3, "reasoning": "Close -- 'reservation' means doubt or hesitation, which the witness clearly had, but it is mental rather than the external forcible restraint implied by duress." },
+        { "distractor": "hesitation", "closeness": 2, "reasoning": "Incorrect -- 'hesitation' means pausing before acting, which might accompany duress, but it is not the same as forcible restraint." },
+        { "distractor": "coercion", "closeness": 2, "reasoning": "Incorrect -- while 'coercion' is related to duress, in this sentence 'under duress' refers more specifically to the state of being forcibly restrained, not the act of forcing." },
+        { "distractor": "demand", "closeness": 2, "reasoning": "Incorrect -- 'demand' is a request for something, which the police might have made, but the sentence emphasizes the restraint rather than the request." },
+        { "distractor": "pressure", "closeness": 2, "reasoning": "Incorrect -- 'pressure' is compelling force, but it is broader than duress and does not capture the legal significance of the witness's claim." },
+        { "voluntariness", "closeness": 1, "reasoning": "Opposite -- 'voluntariness' means acting by free choice; opposite to signing under forcible restraint." },
+        { "distractor": "consent", "closeness": 1, "reasoning": "Opposite -- 'consent' means willing agreement; opposite to signing under threats and restraint." },
+        { "distractor": "autonomy", "closeness": 1, "reasoning": "Opposite -- 'autonomy' means freedom to make independent choices; opposite to signing a confession under forcible restraint." }
+      ]
+    }
+  ]
+}

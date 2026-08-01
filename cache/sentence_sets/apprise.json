@@ -1,0 +1,185 @@
+{
+  "word": "apprise",
+  "sentenceSets": [
+    {
+      "sentence": "The team was apprised of the security breach before any public announcement was made.",
+      "answerChoices": [
+        {
+          "distractor": "informed",
+          "closeness": 3,
+          "reasoning": "Both communicate information to someone, but informed is general notification, while apprised specifically means given formal notice of something important."
+        },
+        {
+          "distractor": "notified",
+          "closeness": 3,
+          "reasoning": "Both announce information to someone, but notified is general announcement, while apprised means specifically informing of something significant."
+        },
+        {
+          "distractor": "advised",
+          "closeness": 3,
+          "reasoning": "Both communicate to someone, but advised often suggests offering counsel, while apprised specifically means giving formal notice."
+        },
+        {
+          "distractor": "told",
+          "closeness": 3,
+          "reasoning": "Both communicate information, but told is general speech, while apprised means formally giving important notice."
+        },
+        {
+          "distractor": "alerted",
+          "closeness": 2,
+          "reasoning": "Alert means to notify of danger, but apprise is general communication of information, not necessarily danger."
+        },
+        {
+          "distractor": "warned",
+          "closeness": 2,
+          "reasoning": "Warning alerts to danger specifically, but apprising means giving notice of something without necessarily warning of danger."
+        },
+        {
+          "distractor": "instructed",
+          "closeness": 2,
+          "reasoning": "Instructing teaches or directs, but apprising specifically means giving notice of something."
+        },
+        {
+          "distractor": "updated",
+          "closeness": 2,
+          "reasoning": "Updating provides new information, but apprising means giving formal notice, which can include previously unknown information."
+        },
+        {
+          "distractor": "deceived",
+          "closeness": 1,
+          "reasoning": "Deceiving is misleading with false information; the sentence shows the team being apprised of truthful information."
+        },
+        {
+          "distractor": "ignored",
+          "closeness": 1,
+          "reasoning": "Ignoring means not telling someone; the sentence describes the team being apprised of the breach."
+        },
+        {
+          "distractor": "misinformed",
+          "closeness": 1,
+          "reasoning": "Misinformed means given false information; the sentence shows the team being apprised of a real security breach."
+        }
+      ]
+    },
+    {
+      "sentence": "The board apprised the shareholders of significant changes in the company's strategy during the annual meeting.",
+      "answerChoices": [
+        {
+          "distractor": "reminded",
+          "closeness": 3,
+          "reasoning": "Both communicate to someone, but reminding refers to previously known information, while apprising means giving notice of new or important information."
+        },
+        {
+          "distractor": "consulted",
+          "closeness": 3,
+          "reasoning": "Both involve communication, but consulting seeks input, while apprising specifically means giving formal notice of something."
+        },
+        {
+          "distractor": "briefed",
+          "closeness": 3,
+          "reasoning": "Both provide information, but briefing gives concise overview, while apprising specifically gives notice of important matters."
+        },
+        {
+          "distractor": "explained",
+          "closeness": 3,
+          "reasoning": "Both communicate information, but explaining clarifies meaning, while apprising means giving formal notice."
+        },
+        {
+          "distractor": "presented",
+          "closeness": 2,
+          "reasoning": "Presenting displays information, but apprising specifically means giving formal notice of important information."
+        },
+        {
+          "distractor": "discussed",
+          "closeness": 2,
+          "reasoning": "Discussing exchanges views, but apprising specifically means formally giving notice to someone."
+        },
+        {
+          "distractor": "announced",
+          "closeness": 2,
+          "reasoning": "Announcing makes something known generally, but apprising specifically means giving formal notice to particular people."
+        },
+        {
+          "distractor": "revealed",
+          "closeness": 2,
+          "reasoning": "Revealing uncovers something hidden, but apprising means giving formal notice, which may or may not involve revelation."
+        },
+        {
+          "distractor": "concealed",
+          "closeness": 1,
+          "reasoning": "Concealing hides information; the sentence describes the board apprising shareholders of strategy changes."
+        },
+        {
+          "distractor": "misled",
+          "closeness": 1,
+          "reasoning": "Misleading gives false or deceptive information; the sentence shows apprising of actual significant changes."
+        },
+        {
+          "distractor": "confused",
+          "closeness": 1,
+          "reasoning": "Confusing makes unclear; the sentence shows apprising shareholders of information, presumably clearly."
+        }
+      ]
+    },
+    {
+      "sentence": "As soon as the accident occurred, emergency services were apprised of the location and nature of injuries requiring treatment.",
+      "answerChoices": [
+        {
+          "distractor": "dispatched",
+          "closeness": 3,
+          "reasoning": "Both involve emergency communication, but dispatching sends responders, while apprising means giving notice of necessary information."
+        },
+        {
+          "distractor": "contacted",
+          "closeness": 3,
+          "reasoning": "Both reach someone, but contacting simply establishes communication, while apprising specifically gives important notice."
+        },
+        {
+          "distractor": "reached",
+          "closeness": 3,
+          "reasoning": "Both communicate with someone, but reaching just makes connection, while apprising gives formal notice of details."
+        },
+        {
+          "distractor": "called",
+          "closeness": 3,
+          "reasoning": "Both summon someone's attention, but calling is general summoning, while apprising specifically gives notice of information."
+        },
+        {
+          "distractor": "summoned",
+          "closeness": 2,
+          "reasoning": "Summoning calls someone to come, but apprising specifically means giving notice of information."
+        },
+        {
+          "distractor": "mobilized",
+          "closeness": 2,
+          "reasoning": "Mobilizing prepares for action, but apprising specifically means giving notice of situation details."
+        },
+        {
+          "distractor": "alerted",
+          "closeness": 2,
+          "reasoning": "Alerting warns of emergency, but apprising specifically means giving detailed notice of information."
+        },
+        {
+          "distractor": "reported",
+          "closeness": 2,
+          "reasoning": "Reporting tells what happened, but apprising specifically means giving notice of critical details."
+        },
+        {
+          "distractor": "withheld",
+          "closeness": 1,
+          "reasoning": "Withholding refuses to share; the sentence shows emergency services being apprised of critical information."
+        },
+        {
+          "distractor": "delayed",
+          "closeness": 1,
+          "reasoning": "Delaying postpones action; the sentence shows services being apprised as soon as the accident occurred."
+        },
+        {
+          "distractor": "ignored",
+          "closeness": 1,
+          "reasoning": "Ignoring disregards something; the sentence shows emergency services being apprised of crucial information."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "underwrite",
+  "sentenceSets": [
+    {
+      "sentence": "The foundation agreed to underwrite the first phase, providing both resources and the credibility that external funding typically conferred.",
+      "answerChoices": [
+        { "distractor": "fund", "closeness": 3, "reasoning": "Fund means to provide money; underwrite specifically means to guarantee or back with one's name/reputation, which carries connotation of endorsement beyond mere funding." },
+        { "distractor": "finance", "closeness": 3, "reasoning": "Finance means to provide capital; underwrite specifically means to guarantee or support with endorsement, not just provide money." },
+        { "distractor": "sponsor", "closeness": 3, "reasoning": "Sponsor means to provide support or backing; underwrite specifically implies guarantee of funds and credibility through formal commitment." },
+        { "distractor": "subsidize", "closeness": 3, "reasoning": "Subsidize means to support with money; underwrite implies guarantee with personal/institutional backing, adding credibility beyond financial support." },
+        { "distractor": "bankroll", "closeness": 2, "reasoning": "Bankroll means to provide all the money needed; underwrite specifically implies endorsement and guarantee, not just financial provision." },
+        { "distractor": "support", "closeness": 2, "reasoning": "Support is general; underwrite specifically means to guarantee or back with one's credibility, not just provide general support." },
+        { "distractor": "back", "closeness": 2, "reasoning": "Back means to support; underwrite specifically implies formal guarantee and endorsement with resources and credibility." },
+        { "distractor": "endorse", "closeness": 2, "reasoning": "Endorse means to support publicly; underwrite specifically means to guarantee with resources and credibility, not just public endorsement." },
+        { "distractor": "refuse", "closeness": 1, "reasoning": "Refuse means to decline, the opposite of underwrite, which means to agree to guarantee." },
+        { "distractor": "deny", "closeness": 1, "reasoning": "Deny means to refuse or reject, opposite to underwrite, which means to guarantee or support." },
+        { "distractor": "withdraw", "closeness": 1, "reasoning": "Withdraw means to take back or remove support, the opposite of underwrite, which means to commit resources and credibility." }
+      ]
+    },
+    {
+      "sentence": "The insurance company agreed to underwrite the high-risk construction project, committing to cover losses if accidents or delays exceeded the projected timeline.",
+      "answerChoices": [
+        { "distractor": "insure", "closeness": 3, "reasoning": "Insure means to protect against loss; underwrite specifically means to agree to guarantee against specified risks, which is more formal than general insurance." },
+        { "distractor": "guarantee", "closeness": 3, "reasoning": "Guarantee means to pledge responsibility; underwrite is a specific type of guarantee involving formal commitment to cover losses." },
+        { "distractor": "indemnify", "closeness": 3, "reasoning": "Indemnify means to protect against financial loss; underwrite specifically means to formally commit to covering loss, with similar meaning but more formal." },
+        { "distractor": "protect", "closeness": 3, "reasoning": "Protect means to keep safe; underwrite specifically means to formally commit to covering financial losses, a more specific relationship." },
+        { "distractor": "cover", "closeness": 2, "reasoning": "Cover means to pay for; underwrite specifically means to formally agree to cover losses through formal commitment." },
+        { "distractor": "shoulder", "closeness": 2, "reasoning": "Shoulder means to take on responsibility; underwrite specifically means to formally commit to covering losses." },
+        { "distractor": "assume", "closeness": 2, "reasoning": "Assume means to take on; underwrite specifically means to formally agree to cover losses through commitment." },
+        { "distractor": "compensate", "closeness": 2, "reasoning": "Compensate means to pay for loss; underwrite specifically means to agree to cover losses formally in advance." },
+        { "distractor": "deny", "closeness": 1, "reasoning": "Deny means to refuse; underwrite means to commit to coverage, the opposite." },
+        { "distractor": "refuse", "closeness": 1, "reasoning": "Refuse means to decline; underwrite means to agree to commit resources, the opposite." },
+        { "distractor": "disclaim", "closeness": 1, "reasoning": "Disclaim means to disavow responsibility; underwrite means to accept responsibility for losses." }
+      ]
+    },
+    {
+      "sentence": "The publisher agreed to underwrite the young author's debut novel, lending both financial resources and editorial credibility to ensure its successful launch.",
+      "answerChoices": [
+        { "distractor": "publish", "closeness": 3, "reasoning": "Publish means to print and distribute; underwrite specifically means to provide financial backing and credibility guarantee, which is broader than just publishing." },
+        { "distractor": "promote", "closeness": 3, "reasoning": "Promote means to publicize; underwrite specifically means to commit resources and backing, which can include but is broader than promotion." },
+        { "distractor": "present", "closeness": 3, "reasoning": "Present means to introduce; underwrite specifically means to financially back and guarantee credibility, not just present." },
+        { "distractor": "launch", "closeness": 3, "reasoning": "Launch means to begin or start; underwrite specifically means to guarantee with resources and credibility, not just initiate launch." },
+        { "distractor": "produce", "closeness": 2, "reasoning": "Produce means to create; underwrite specifically means to guarantee with resources and credibility backing." },
+        { "distractor": "distribute", "closeness": 2, "reasoning": "Distribute means to spread widely; underwrite specifically means to back with resources and credibility guarantee." },
+        { "distractor": "market", "closeness": 2, "reasoning": "Market means to promote for sale; underwrite specifically means to guarantee resources and credibility, not just market." },
+        { "distractor": "champion", "closeness": 2, "reasoning": "Champion means to support enthusiastically; underwrite specifically means to back with resources and credible commitment." },
+        { "distractor": "reject", "closeness": 1, "reasoning": "Reject means to refuse, the opposite of underwrite, which means to commit resources and backing." },
+        { "distractor": "dismiss", "closeness": 1, "reasoning": "Dismiss means to disregard; underwrite means to back with commitment, the opposite." },
+        { "distractor": "abandon", "closeness": 1, "reasoning": "Abandon means to leave; underwrite means to commit resources and credibility, the opposite." }
+      ]
+    }
+  ]
+}

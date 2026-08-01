@@ -1,0 +1,53 @@
+{
+  "word": "tumid",
+  "sentenceSets": [
+    {
+      "sentence": "The tumid prose style of the report communicated effort without communicating substance.",
+      "answerChoices": [
+        { "distractor": "verbose", "closeness": 3, "reasoning": "Verbose (using more words than necessary) shares excessive wordiness but focuses on length rather than the swollen, inflated quality the sentence associates with empty effort." },
+        { "distractor": "grandiose", "closeness": 3, "reasoning": "Grandiose (impressively large or ambitious) shares exaggeration but emphasizes grand scale rather than swollen emptiness." },
+        { "distractor": "ornate", "closeness": 3, "reasoning": "Ornate (elaborately decorated) involves excessive style but does not capture the swollen, bloated quality of tumid prose." },
+        { "distractor": "pretentious", "closeness": 3, "reasoning": "Pretentious (claiming more importance than warranted) is close but emphasizes false claims rather than the swollen, inflated form of expression." },
+        { "distractor": "complicated", "closeness": 2, "reasoning": "Complicated (complex and difficult) might result from tumid style but is not its defining characteristic." },
+        { "distractor": "obscure", "closeness": 2, "reasoning": "Obscure (unclear or hard to understand) might accompany tumid prose but refers to clarity rather than stylistic inflation." },
+        { "distractor": "pompous", "closeness": 2, "reasoning": "Pompous (excessively dignified) overlaps with inflated self-importance but is about manner rather than the swollen quality of style." },
+        { "distractor": "clear", "closeness": 1, "reasoning": "Clear (easy to understand) is opposite to prose that communicates poorly despite apparent effort." },
+        { "distractor": "concise", "closeness": 1, "reasoning": "Concise (brief and precise) is opposite to the swollen, inflated wordiness of tumid style." },
+        { "distractor": "sparse", "closeness": 1, "reasoning": "Sparse (thinly distributed or scant) is opposite to the swelling and inflation." },
+        { "distractor": "direct", "closeness": 1, "reasoning": "Direct (straightforward and unambiguous) is opposite to the obfuscating effect of tumid prose." }
+      ]
+    },
+    {
+      "sentence": "His tumid cheeks from the dental procedure made him look older than his years, an unexpected side effect of the anesthesia.",
+      "answerChoices": [
+        { "distractor": "puffy", "closeness": 3, "reasoning": "Puffy (swollen from fluid) is very close to tumid in describing swelling, but the medical context of dental work makes tumid more precisely descriptive of post-procedure inflammation." },
+        { "distractor": "bloated", "closeness": 3, "reasoning": "Bloated (swollen from excess) shares the swelling quality but often implies distension from internal pressure, less specific to the localized post-dental swelling." },
+        { "distractor": "enlarged", "closeness": 3, "reasoning": "Enlarged (made bigger) describes the size change but lacks the specific quality of swelling from inflammation." },
+        { "distractor": "distended", "closeness": 3, "reasoning": "Distended (stretched out) emphasizes the spreading quality but is less commonly used for facial swelling than tumid." },
+        { "distractor": "numb", "closeness": 2, "reasoning": "Numb (unable to feel sensation) is a symptom of anesthesia mentioned in the sentence but not a description of physical appearance." },
+        { "distractor": "discolored", "closeness": 2, "reasoning": "Discolored (altered in color) might accompany swelling but is not itself a description of puffiness." },
+        { "distractor": "bruised", "closeness": 2, "reasoning": "Bruised (marked by impact injury) can occur after dental work but does not specifically describe the swollen appearance." },
+        { "distractor": "gaunt", "closeness": 1, "reasoning": "Gaunt (thin and hollow-cheeked) is the opposite of swollen cheeks." },
+        { "distractor": "sunken", "closeness": 1, "reasoning": "Sunken (depressed inward) is opposite to the outward swelling described." },
+        { "distractor": "hollow", "closeness": 1, "reasoning": "Hollow (empty inside or sunken) is opposite to the fullness of swelling." },
+        { "distractor": "angular", "closeness": 1, "reasoning": "Angular (having sharp angles or edges) is opposite to the rounded, swollen appearance of tumid cheeks." }
+      ]
+    },
+    {
+      "sentence": "The speaker's tumid language and breathless delivery suggested passion, but the audience sensed only desperation beneath the theatrical presentation.",
+      "answerChoices": [
+        { "distractor": "effusive", "closeness": 3, "reasoning": "Effusive (expressing feeling with unrestrained enthusiasm) shares the excess but emphasizes emotional overflow rather than swollen, inflated expression." },
+        { "distractor": "florid", "closeness": 3, "reasoning": "Florid (flowery and ornate) overlaps with excessive stylistic inflation but focuses on decoration rather than swollen, bloated quality." },
+        { "distractor": "bombastic", "closeness": 3, "reasoning": "Bombastic (high-sounding but with little meaning) is very close but emphasizes hollow grandiosity rather than the swollen, inflated form." },
+        { "distractor": "overwrought", "closeness": 3, "reasoning": "Overwrought (elaborated excessively) shares excess but focuses on complexity rather than the swollen, bloated quality." },
+        { "distractor": "exuberant", "closeness": 2, "reasoning": "Exuberant (enthusiastically energetic) involves excess energy but is not necessarily false or swollen in expression." },
+        { "distractor": "emphatic", "closeness": 2, "reasoning": "Emphatic (expressed with force or conviction) involves strong delivery but not necessarily the swollen, inflated quality." },
+        { "distractor": "theatrical", "closeness": 2, "reasoning": "Theatrical (exaggerated for dramatic effect) shares artificiality but is mentioned as a separate quality in the sentence." },
+        { "distractor": "understated", "closeness": 1, "reasoning": "Understated (presented as less important than it is) is opposite to the swollen, inflated expression." },
+        { "distractor": "restrained", "closeness": 1, "reasoning": "Restrained (controlled and moderate) is opposite to the bloated, excessive language." },
+        { "distractor": "subdued", "closeness": 1, "reasoning": "Subdued (quiet and lacking force) is contrary to the exaggerated, swollen delivery described." },
+        { "distractor": "muted", "closeness": 1, "reasoning": "Muted (softened or dampened) opposes the loud, swollen presentation." }
+      ]
+    }
+  ]
+}

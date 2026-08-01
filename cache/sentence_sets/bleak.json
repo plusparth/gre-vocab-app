@@ -1,0 +1,53 @@
+{
+  "word": "bleak",
+  "sentenceSets": [
+    {
+      "sentence": "The economic forecast was bleak, offering little hope to workers in industries facing rapid automation.",
+      "answerChoices": [
+        { "distractor": "dim", "closeness": 3, "reasoning": "Dim can mean dark or gloomy (fitting 'exposed and barren'), but the economic context requires a word that conveys hopelessness and poor prospects, not just a lack of light." },
+        { "distractor": "austere", "closeness": 3, "reasoning": "Austere means stern and unadorned, fitting the 'exposed and barren' aspect, but it lacks the future-oriented sense of 'offering little hope' that the sentence requires." },
+        { "distractor": "sparse", "closeness": 3, "reasoning": "Sparse means thinly scattered, fitting 'barren,' but it describes distribution or abundance, not the hopeless prospects an economic forecast conveys." },
+        { "distractor": "somber", "closeness": 3, "reasoning": "Somber means dark and gloomy in mood, close to bleak, but it emphasizes mood rather than the absence of hope or positive prospects the sentence specifically mentions." },
+        { "distractor": "tempestuous", "closeness": 2, "reasoning": "Tempestuous means stormy and turbulent; while related to harsh conditions, it suggests active turmoil rather than hopelessness about automation's impact." },
+        { "distractor": "forsaken", "closeness": 2, "reasoning": "Forsaken means abandoned, which suggests bleakness, but it implies the place was actively left behind rather than facing an inherently hopeless future." },
+        { "distractor": "barren", "closeness": 2, "reasoning": "Barren is used in the definition itself and means empty or unfruitful, but it describes physical emptiness rather than the economic hopelessness the sentence conveys." },
+        { "distractor": "desolate", "closeness": 2, "reasoning": "Desolate suggests abandonment and emptiness, fitting harshness, but it emphasizes isolation and emptiness rather than the hopeless economic prospects the forecast conveys." },
+        { "distractor": "vibrant", "closeness": 1, "reasoning": "Vibrant means lively and full of energy, the opposite of bleak; a vibrant economic forecast would offer hope, not hopelessness." },
+        { "distractor": "promising", "closeness": 1, "reasoning": "Promising means showing signs of future success, the opposite of offering little hope; this contradicts the sentence's entire meaning." },
+        { "distractor": "temperate", "closeness": 1, "reasoning": "Temperate means moderate and not extreme, opposite to the harsh 'exposed' conditions and the grim hopelessness the sentence conveys." }
+      ]
+    },
+    {
+      "sentence": "The traveler found the moorlands bleak and unforgiving, stretches of barren ground offering no shelter from the wind.",
+      "answerChoices": [
+        { "distractor": "austere", "closeness": 3, "reasoning": "Austere means stern and unadorned, which fits barren landscapes, but it emphasizes severity of style rather than the exposed, windswept, and hostile physical conditions the sentence describes." },
+        { "distractor": "spartan", "closeness": 3, "reasoning": "Spartan means stripped down and lacking comfort, fitting barren terrain, but it suggests minimalist design rather than the exposed, windswept nature that creates hardship." },
+        { "distractor": "desolate", "closeness": 3, "reasoning": "Desolate means lonely and abandoned, fitting a barren landscape, but it emphasizes emptiness and isolation rather than the specific hostile conditions (wind, no shelter) described." },
+        { "distractor": "inhospitable", "closeness": 3, "reasoning": "Inhospitable means unfriendly to visitors, which fits the 'unforgiving' sense, but it's a general term for unwelcoming places rather than specifically describing exposed, windswept terrain." },
+        { "distractor": "forsaken", "closeness": 2, "reasoning": "Forsaken means abandoned, fitting the isolation, but it implies the landscape was left behind rather than being inherently exposed and windswept by nature." },
+        { "distractor": "barren", "closeness": 2, "reasoning": "Barren appears in the sentence itself and means empty, but it focuses on lack of vegetation rather than the exposed, windswept conditions that create an unforgiving environment." },
+        { "distractor": "blighted", "closeness": 2, "reasoning": "Blighted means damaged or diseased, which could describe moorlands, but it suggests active decay rather than the naturally exposed, windswept harshness." },
+        { "distractor": "tempestuous", "closeness": 2, "reasoning": "Tempestuous means stormy and turbulent, relating to wind, but it suggests dramatic storms rather than the persistently harsh, exposed conditions of the moorlands." },
+        { "distractor": "lush", "closeness": 1, "reasoning": "Lush means abundant with vegetation and greenery, the opposite of barren moorlands and the opposite of bleak, windswept terrain." },
+        { "distractor": "verdant", "closeness": 1, "reasoning": "Verdant means green and flourishing, the opposite of barren and exposed; a verdant landscape would provide shelter and comfort, not bleakness." },
+        { "distractor": "welcoming", "closeness": 1, "reasoning": "Welcoming means friendly and inviting, the opposite of unforgiving and offering no shelter; this directly contradicts the sentence's meaning." }
+      ]
+    },
+    {
+      "sentence": "The apartment had bleak white walls, a single window, and furniture salvaged from a dumpster, yet she called it home.",
+      "answerChoices": [
+        { "distractor": "stark", "closeness": 3, "reasoning": "Stark means bare and starkly simple, which fits the white walls and sparse furnishings, but it emphasizes severity of appearance rather than the exposed, windswept sense inherent to bleak." },
+        { "distractor": "austere", "closeness": 3, "reasoning": "Austere means unadorned and severely simple, fitting the minimal furnishings, but it suggests deliberate austerity rather than the barren, harsh quality of the apartment." },
+        { "distractor": "spartan", "closeness": 3, "reasoning": "Spartan means stripped down and minimal, which fits the salvaged furniture, but it implies purposeful simplicity rather than the desolate, harsh condition the sentence conveys." },
+        { "distractor": "desolate", "closeness": 3, "reasoning": "Desolate suggests emptiness and abandonment, fitting an apartment with little furniture, but it emphasizes loneliness rather than the exposed, barren quality." },
+        { "distractor": "dingy", "closeness": 2, "reasoning": "Dingy means dark and grimy, which could fit a salvaged-furniture apartment, but it emphasizes dirt and poor cleanliness rather than the exposed, barren emptiness." },
+        { "distractor": "shabby", "closeness": 2, "reasoning": "Shabby means worn and in poor condition, fitting salvaged furniture, but it focuses on age and wear rather than the inherent starkness and emptiness." },
+        { "distractor": "spartan", "closeness": 2, "reasoning": "Already used as closeness-3; choosing different word: 'cramped' means too small, which the apartment may be, but cramped suggests tight confinement rather than exposed barrenness." },
+        { "distractor": "barren", "closeness": 2, "reasoning": "Barren appears in the definition and means empty, but it describes lack of vegetation or ornamentation rather than the overall bare, harsh quality of the space." },
+        { "distractor": "ornate", "closeness": 1, "reasoning": "Ornate means elaborately decorated, the opposite of the white walls and sparse furnishings; an ornate apartment would contradict the described setting." },
+        { "distractor": "luxurious", "closeness": 1, "reasoning": "Luxurious means sumptuous and comfortable, the opposite of white walls and salvaged dumpster furniture; it contradicts the apartment's condition entirely." },
+        { "distractor": "cozy", "closeness": 1, "reasoning": "Cozy means warm and comfortable, the opposite of bleak; while she calls it home, the sentence requires a word for the apartment's harsh, exposed condition." }
+      ]
+    }
+  ]
+}

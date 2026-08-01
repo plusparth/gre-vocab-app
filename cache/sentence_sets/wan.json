@@ -1,0 +1,53 @@
+{
+  "word": "wan",
+  "sentenceSets": [
+    {
+      "sentence": "The wan light of the winter afternoon made the faces around the table look more exhausted than they might otherwise have seemed.",
+      "answerChoices": [
+        { "distractor": "dim", "closeness": 3, "reasoning": "'Dim' means not bright; the light is dim, but the sentence emphasizes light that suggests poor health through pallidness, not merely dimness." },
+        { "distractor": "dull", "closeness": 3, "reasoning": "'Dull' means lacking brightness or luster; the light is dull, but the sentence emphasizes sickly pallid light specifically." },
+        { "distractor": "pale", "closeness": 3, "reasoning": "'Pale' means light in color but lacks the suggestion of poor health that 'wan' implies; the sentence shows the light makes people appear unwell." },
+        { "distractor": "gloomy", "closeness": 3, "reasoning": "'Gloomy' means dark and depressing; the afternoon is gloomy, but the sentence emphasizes the sickly pallid quality of the light." },
+        { "distractor": "faint", "closeness": 2, "reasoning": "'Faint' means weak or indistinct; the light is weak, but the sentence emphasizes the sickly pallid appearance it creates." },
+        { "distractor": "murky", "closeness": 2, "reasoning": "'Murky' means darkly obscure; the light is murky, but the sentence emphasizes the sickly pallid quality." },
+        { "distractor": "shadowy", "closeness": 2, "reasoning": "'Shadowy' means indistinct through shadow; the light casts shadows, but the sentence emphasizes the sickly appearance it creates." },
+        { "distractor": "grey", "closeness": 2, "reasoning": "'Grey' describes a neutral color; the light is grey, but the sentence emphasizes the sickly pallid appearance." },
+        { "distractor": "bright", "closeness": 1, "reasoning": "The winter afternoon light is sickly and pallid making people look exhausted; 'bright' means full of light, opposite to wan light." },
+        { "distractor": "radiant", "closeness": 1, "reasoning": "The light makes faces look exhausted and sickly; 'radiant' means glowing with health and vitality, opposite to wan." },
+        { "distractor": "vibrant", "closeness": 1, "reasoning": "The wan light makes people appear more exhausted; 'vibrant' means full of energy and color, opposite to sickly pallid." }
+      ]
+    },
+    {
+      "sentence": "After weeks of fever, the patient's wan complexion finally showed signs of improvement as color slowly returned to her cheeks.",
+      "answerChoices": [
+        { "distractor": "sallow", "closeness": 3, "reasoning": "'Sallow' means yellowish and unhealthy; her complexion is sallow, but the sentence emphasizes the pallidness from illness." },
+        { "distractor": "ashen", "closeness": 3, "reasoning": "'Ashen' means pale as ashes from shock or illness; her complexion is ashen, but the sentence emphasizes the sickly pallid appearance." },
+        { "distractor": "pallid", "closeness": 3, "reasoning": "'Pallid' means pale and unhealthy; her complexion is pallid, essentially synonymous with wan in this context." },
+        { "distractor": "gaunt", "closeness": 3, "reasoning": "'Gaunt' means lean and hollow-eyed from illness; she appears gaunt, but the sentence emphasizes the pallid skin color specifically." },
+        { "distractor": "haggard", "closeness": 2, "reasoning": "'Haggard' means worn and exhausted from illness; her appearance is haggard, but the sentence emphasizes the pallid complexion." },
+        { "distractor": "peaked", "closeness": 2, "reasoning": "'Peaked' means looking ill; she looks ill, but the sentence emphasizes the sickly, pallid appearance specifically." },
+        { "distractor": "sickly", "closeness": 2, "reasoning": "'Sickly' describes looking ill; her complexion looks ill, but 'wan' specifically emphasizes the pallid, suggestive quality." },
+        { "distractor": "feverish", "closeness": 2, "reasoning": "'Feverish' describes a state of fever; she has had fever, but the sentence emphasizes the pallid complexion it created." },
+        { "distractor": "flushed", "closeness": 1, "reasoning": "The fever-stricken patient has a sickly pallid complexion; 'flushed' means red-faced from heat or emotion, opposite to wan." },
+        { "distractor": "rosy", "closeness": 1, "reasoning": "The patient's complexion is sickly and pallid from fever; 'rosy' means pink and healthy, opposite to wan." },
+        { "distractor": "ruddy", "closeness": 1, "reasoning": "The patient's complexion is sickly pallid from fever; 'ruddy' means red and healthy, opposite to wan appearance." }
+      ]
+    },
+    {
+      "sentence": "The refugee's wan expression reflected months of uncertainty and fear, though she tried to smile for her children's sake.",
+      "answerChoices": [
+        { "distractor": "weary", "closeness": 3, "reasoning": "'Weary' means tired and worn out; her expression is weary, but the sentence emphasizes an appearance suggesting poor health or hardship." },
+        { "distractor": "haunted", "closeness": 3, "reasoning": "'Haunted' means marked by suffering or trauma; her expression is haunted, but the sentence emphasizes the sickly pallid appearance." },
+        { "distractor": "drawn", "closeness": 3, "reasoning": "'Drawn' means tense and pale from emotion or illness; her expression is drawn, but the sentence emphasizes the sickly appearance." },
+        { "distractor": "hollow", "closeness": 3, "reasoning": "'Hollow' means empty and without feeling; her expression is hollow, but the sentence emphasizes the sickly pallid appearance." },
+        { "distractor": "dejected", "closeness": 2, "reasoning": "'Dejected' means sad and dispirited; she appears dejected, but the sentence emphasizes an appearance suggesting poor health." },
+        { "distractor": "forlorn", "closeness": 2, "reasoning": "'Forlorn' means sad and lonely; her expression is forlorn, but the sentence emphasizes the sickly appearance." },
+        { "distractor": "sorrowful", "closeness": 2, "reasoning": "'Sorrowful' means deeply sad; she appears sorrowful, but the sentence emphasizes the sickly pallid expression." },
+        { "distractor": "melancholy", "closeness": 2, "reasoning": "'Melancholy' means pensively sad; her expression is melancholy, but the sentence emphasizes the sickly appearance." },
+        { "distractor": "cheerful", "closeness": 1, "reasoning": "The refugee's expression reflects months of fear and uncertainty; 'cheerful' means happy and bright, opposite to wan." },
+        { "distractor": "animated", "closeness": 1, "reasoning": "She appears sickly pallid from fear and uncertainty; 'animated' means lively and energetic, opposite to wan." },
+        { "distractor": "vibrant", "closeness": 1, "reasoning": "Her expression is sickly and pallid from hardship; 'vibrant' means full of energy and life, opposite to wan." }
+      ]
+    }
+  ]
+}

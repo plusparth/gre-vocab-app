@@ -1,0 +1,53 @@
+{
+  "word": "verboten",
+  "sentenceSets": [
+    {
+      "sentence": "The topic was effectively verboten in internal discussions, which meant that the problem it described accumulated without acknowledgment.",
+      "answerChoices": [
+        {"distractor": "sensitive", "closeness": 3, "reasoning": "Sensitive means easily affected or requiring careful handling, which the topic is, but verboten specifically means forbidden or prohibited, not merely sensitive."},
+        {"distractor": "controversial", "closeness": 3, "reasoning": "Controversial means arousing heated debate or disagreement, which the topic is, but verboten emphasizes formal or tacit prohibition rather than mere disagreement."},
+        {"distractor": "discouraged", "closeness": 3, "reasoning": "Discouraged means made to feel reluctant or unwilling, which people are about the topic, but verboten means outright forbidden, not merely discouraged."},
+        {"distractor": "avoided", "closeness": 3, "reasoning": "Avoided means kept away from or not discussed, which people do with the topic, but verboten specifically means formally or tacitly prohibited."},
+        {"distractor": "suppressed", "closeness": 2, "reasoning": "Suppressed means kept hidden or prevented from expression, which the topic is, but verboten specifically refers to prohibition, not concealment."},
+        {"distractor": "restricted", "closeness": 2, "reasoning": "Restricted means limited or kept within bounds, which the topic discussion is, but does not specifically mean prohibited."},
+        {"distractor": "censored", "closeness": 2, "reasoning": "Censored means officially suppressed or prohibited, which might occur, but verboten is a more general term for anything forbidden or prohibited."},
+        {"distractor": "taboo", "closeness": 2, "reasoning": "Taboo means prohibited by cultural or religious custom, which the topic effectively becomes, but does not capture the authoritative prohibition that verboten suggests."},
+        {"distractor": "permitted", "closeness": 1, "reasoning": "Permitted means allowed or authorized, the opposite of verboten or forbidden."},
+        {"distractor": "endorsed", "closeness": 1, "reasoning": "Endorsed means publicly approved or supported, the opposite of a verboten topic that cannot be discussed."},
+        {"distractor": "encouraged", "closeness": 1, "reasoning": "Encouraged means given confidence or support, the opposite of a verboten topic effectively prohibited in discussions."}
+      ]
+    },
+    {
+      "sentence": "Certain financial transactions were verboten by company policy, yet employees found loopholes that technically satisfied compliance requirements while achieving the prohibited outcomes.",
+      "answerChoices": [
+        {"distractor": "discouraged", "closeness": 3, "reasoning": "Discouraged means made to feel reluctant about something, which the transactions are, but verboten specifically means formally prohibited, not merely discouraged."},
+        {"distractor": "restricted", "closeness": 3, "reasoning": "Restricted means limited or kept within certain bounds, which the transactions are, but verboten means outright forbidden rather than merely limited."},
+        {"distractor": "unwise", "closeness": 3, "reasoning": "Unwise means not prudent or ill-advised, which the transactions might be, but verboten specifically means formally prohibited."},
+        {"distractor": "irregular", "closeness": 3, "reasoning": "Irregular means not following usual patterns or procedures, which the transactions are, but does not mean prohibited."},
+        {"distractor": "inappropriate", "closeness": 2, "reasoning": "Inappropriate means not suitable or proper, which the transactions are, but does not specifically mean forbidden or prohibited."},
+        {"distractor": "risky", "closeness": 2, "reasoning": "Risky means involving potential danger or loss, which the transactions might be, but does not mean prohibited."},
+        {"distractor": "unethical", "closeness": 2, "reasoning": "Unethical means not conforming to moral principles, which the transactions might be, but does not specifically mean forbidden by policy."},
+        {"distractor": "improper", "closeness": 2, "reasoning": "Improper means not in accordance with accepted standards, which the transactions are, but verboten specifically refers to being prohibited."},
+        {"distractor": "permitted", "closeness": 1, "reasoning": "Permitted means allowed or authorized, the opposite of verboten or prohibited transactions."},
+        {"distractor": "required", "closeness": 1, "reasoning": "Required means necessary or obligatory, the opposite of verboten transactions that are forbidden."},
+        {"distractor": "mandatory", "closeness": 1, "reasoning": "Mandatory means compulsory or required by law or rule, the opposite of verboten or forbidden transactions."}
+      ]
+    },
+    {
+      "sentence": "During the authoritarian regime, certain books were verboten and could only be obtained through underground networks.",
+      "answerChoices": [
+        {"distractor": "restricted", "closeness": 3, "reasoning": "Restricted means limited or kept within bounds, which the books are, but verboten specifically means formally forbidden or prohibited by authority."},
+        {"distractor": "censored", "closeness": 3, "reasoning": "Censored means officially suppressed or prohibited, which the books are, but does not specifically capture the forbidden nature implied by verboten."},
+        {"distractor": "controlled", "closeness": 3, "reasoning": "Controlled means regulated or kept in check, which the books are, but verboten specifically means forbidden or prohibited."},
+        {"distractor": "suppressed", "closeness": 3, "reasoning": "Suppressed means kept hidden or prevented from expression, which the books are, but verboten specifically means formally prohibited."},
+        {"distractor": "discouraged", "closeness": 2, "reasoning": "Discouraged means made to feel reluctant about obtaining, which the books are, but verboten means outright forbidden."},
+        {"distractor": "dangerous", "closeness": 2, "reasoning": "Dangerous means involving risk or threat, which the books might be deemed to be, but does not specifically mean forbidden."},
+        {"distractor": "controversial", "closeness": 2, "reasoning": "Controversial means arousing heated debate, which the books are, but does not specifically mean prohibited or forbidden."},
+        {"distractor": "unpopular", "closeness": 2, "reasoning": "Unpopular means not liked or approved of, which the books might be, but does not mean formally prohibited."},
+        {"distractor": "legal", "closeness": 1, "reasoning": "Legal means allowed or permitted by law, the opposite of verboten books that are prohibited and dangerous to possess."},
+        {"distractor": "approved", "closeness": 1, "reasoning": "Approved means officially accepted or permitted, the opposite of verboten books that are prohibited by the regime."},
+        {"distractor": "sanctioned", "closeness": 1, "reasoning": "Sanctioned means officially authorized or approved, the opposite of verboten books that are forbidden and only obtainable underground."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "ashen",
+  "sentenceSets": [
+    {
+      "sentence": "She returned from the meeting ashen-faced, clearly shaken by what she had been told.",
+      "answerChoices": [
+        { "distractor": "pale", "closeness": 3, "reasoning": "While 'pale' describes loss of color from face, the sentence emphasizes both the physical pallor and emotional shock; 'pale' might describe simple fatigue or tiredness." },
+        { "distractor": "wan", "closeness": 3, "reasoning": "'Wan' means sickly or unhealthy in appearance; while similar, it suggests illness, whereas the sentence indicates the pallor comes from shock." },
+        { "distractor": "drained", "closeness": 3, "reasoning": "'Drained' suggests exhaustion or depletion; while she looks depleted, the sentence emphasizes shock-induced pallor, not tired depletion." },
+        { "distractor": "ghostly", "closeness": 3, "reasoning": "'Ghostly' suggests an eerie, spectral appearance; while her face is very pale, the sentence frames this as shock-related, not supernatural." },
+        { "distractor": "blanched", "closeness": 2, "reasoning": "'Blanched' means turned white from fear or shock; while applicable, it emphasizes the turning-white action, and the sentence emphasizes her already-altered appearance upon return." },
+        { "distractor": "sallow", "closeness": 2, "reasoning": "'Sallow' means yellowish-pale; while her face has lost color, 'sallow' specifically suggests a yellowish tint, not the gray pallor that 'ashen' conveys." },
+        { "distractor": "haggard", "closeness": 2, "reasoning": "'Haggard' means exhausted and worn; while she appears worn, the sentence emphasizes pallor from shock, not the exhaustion that 'haggard' implies." },
+        { "distractor": "crestfallen", "closeness": 2, "reasoning": "'Crestfallen' means disappointed or dejected in expression; while she is shaken, the sentence emphasizes physical pallor, not just dejection." },
+        { "distractor": "flushed", "closeness": 1, "reasoning": "Flushed means reddened in face from heat or emotion; it is the opposite of the pallor the sentence describes." },
+        { "distractor": "ruddy", "closeness": 1, "reasoning": "Ruddy means having a healthy reddish color; it contradicts the colorless appearance the sentence conveys." },
+        { "distractor": "radiant", "closeness": 1, "reasoning": "Radiant means glowing or bright; it contradicts the pallor and shock evident in her appearance." }
+      ]
+    },
+    {
+      "sentence": "The patient's ashen complexion alarmed the nurses, prompting them to check his vital signs immediately and call for the physician.",
+      "answerChoices": [
+        { "distractor": "sickly", "closeness": 3, "reasoning": "While 'sickly' describes unhealthy appearance, the sentence emphasizes the alarming pallor that triggered medical response; sickly can be chronic or mild." },
+        { "distractor": "pallid", "closeness": 3, "reasoning": "'Pallid' means pale or lacking color; while similar, it's more general than 'ashen,' which suggests the specific gray pallor of serious illness or shock." },
+        { "distractor": "wan", "closeness": 3, "reasoning": "'Wan' means pale or sickly-looking; while applicable, the sentence emphasizes the alarming severity of the pallor that triggered urgent action." },
+        { "distractor": "gray", "closeness": 3, "reasoning": "While 'gray' might describe the color, 'ashen' emphasizes the appearance of grave illness or trauma, not just gray coloring." },
+        { "distractor": "pasty", "closeness": 2, "reasoning": "'Pasty' means pale and unhealthy-looking; while descriptive, it's less medically alarming than the ashen appearance that prompted urgent vital-sign checks." },
+        { "distractor": "sallow", "closeness": 2, "reasoning": "'Sallow' means yellowish-pale; while describing pallor, it suggests a different tone than the gray 'ashen' complexion." },
+        { "distractor": "blanched", "closeness": 2, "reasoning": "'Blanched' means turned white from shock; while his face is white, 'blanched' emphasizes the action of turning white, not the ongoing alarming appearance." },
+        { "distractor": "haggard", "closeness": 2, "reasoning": "'Haggard' means exhausted and worn; while he appears worn, the sentence emphasizes the alarming pallor, not exhaustion." },
+        { "distractor": "flushed", "closeness": 1, "reasoning": "Flushed means reddened; it contradicts the ashen pallor that alarmed the nurses." },
+        { "distractor": "ruddy", "closeness": 1, "reasoning": "Ruddy means reddish and healthy-looking; it contradicts the alarming pallor." },
+        { "distractor": "robust", "closeness": 1, "reasoning": "Robust means strong and healthy; it contradicts the alarming, sickly appearance the nurses observed." }
+      ]
+    },
+    {
+      "sentence": "After hearing the news of the accident, all color drained from his face and he stood ashen and trembling, unable to speak.",
+      "answerChoices": [
+        { "distractor": "pale", "closeness": 3, "reasoning": "While 'pale' describes loss of color, the sentence emphasizes both the shock-induced pallor and the severity ('all color drained'); 'pale' might suggest mere tiredness." },
+        { "distractor": "ghostly", "closeness": 3, "reasoning": "'Ghostly' suggests an eerie, spectral appearance; while his face is very pale, the sentence frames this as shock-related pallor, not supernatural." },
+        { "distractor": "blanched", "closeness": 3, "reasoning": "'Blanched' means turned white from fear or shock; while applicable, the sentence shows ongoing shock-related pallor ('stood ashen'), not just the moment of turning white." },
+        { "distractor": "wan", "closeness": 3, "reasoning": "'Wan' means sickly or unhealthy-looking; while similar, it suggests chronic illness, whereas the sentence shows acute shock-related pallor." },
+        { "distractor": "drained", "closeness": 2, "reasoning": "'Drained' suggests emotional or physical exhaustion; while he is drained, the sentence emphasizes the visible pallor from shock." },
+        { "distractor": "stricken", "closeness": 2, "reasoning": "'Stricken' means afflicted or shocked; while his expression is stricken, the sentence emphasizes the physical ashen pallor." },
+        { "distractor": "haggard", "closeness": 2, "reasoning": "'Haggard' means exhausted and worn; while he appears worn by shock, the sentence emphasizes pallor, not exhaustion." },
+        { "distractor": "slack", "closeness": 2, "reasoning": "'Slack' means loose or limp; while his composure may be slack, the sentence emphasizes the ashen pallor of his face." },
+        { "distractor": "flushed", "closeness": 1, "reasoning": "Flushed means reddened in face; it contradicts the loss of all color the sentence describes." },
+        { "distractor": "animated", "closeness": 1, "reasoning": "Animated means lively and energetic; it contradicts his shocked, trembling state." },
+        { "distractor": "composed", "closeness": 1, "reasoning": "Composed means calm and controlled; it contradicts the shock and trembling the sentence describes." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "rotund",
+  "sentenceSets": [
+    {
+      "sentence": "His rotund sentences accumulated detail without ever reaching anything that felt like a conclusion.",
+      "answerChoices": [
+        { "distractor": "prolix", "closeness": 3, "reasoning": "While both words describe wordy speech, 'prolix' emphasizes excessive length and repetition, whereas the sentence specifically shows detail accumulation without resolution—a structural problem, not just verbosity." },
+        { "distractor": "verbose", "closeness": 3, "reasoning": "Both suggest using many words, but 'verbose' describes quantity of speech generally, while the sentence emphasizes how details pile up without reaching a point—a quality of style, not mere word count." },
+        { "distractor": "circuitous", "closeness": 3, "reasoning": "Both can describe indirect or roundabout expression, but 'circuitous' means taking an unnecessarily long route to a conclusion; the sentence shows sentences that never conclude at all." },
+        { "distractor": "meandering", "closeness": 3, "reasoning": "Both suggest a winding path through language, but 'meandering' implies eventual arrival at a destination via a wandering route; these sentences accumulate detail but reach no conclusion whatsoever." },
+        { "distractor": "turgid", "closeness": 2, "reasoning": "Describes swollen or pompous language, but the sentence's focus is on how details accumulate without resolution rather than on the inflated quality of individual words." },
+        { "distractor": "pompous", "closeness": 2, "reasoning": "Suggests self-important, pretentious speech; the sentence shows structural wordiness (detail without conclusion) rather than arrogant tone." },
+        { "distractor": "grandiose", "closeness": 2, "reasoning": "Describes impressively exaggerated language; the sentence emphasizes the structural trap of accumulation without arrival, not the impression of impressiveness." },
+        { "distractor": "expansive", "closeness": 2, "reasoning": "Means covering a wide range or being wide-ranging; the sentence shows obsessive detail within sentences, not necessarily a broad sweep across topics." },
+        { "distractor": "concise", "closeness": 1, "reasoning": "Directly opposite in meaning—the sentence explicitly describes sentences that accumulate detail extensively, not summarize briefly." },
+        { "distractor": "terse", "closeness": 1, "reasoning": "Means brief and curt, the opposite of sentences that pile up detail upon detail without conclusion." },
+        { "distractor": "laconic", "closeness": 1, "reasoning": "Means using very few words; the sentence condemns sentences for accumulating detail excessively, not for being sparse." }
+      ]
+    },
+    {
+      "sentence": "The surgeon noted that the patient's rotund abdomen indicated significant fluid retention, prompting immediate imaging studies.",
+      "answerChoices": [
+        { "distractor": "distended", "closeness": 3, "reasoning": "Both describe abnormal swelling, but 'distended' specifically means stretched or expanded by internal pressure; the sentence emphasizes the spherical shape caused by fluid accumulation as the primary observation." },
+        { "distractor": "tumid", "closeness": 3, "reasoning": "Means swollen or enlarged; while appropriate for describing an abnormal abdomen, 'tumid' is a more general term for swelling without the specific rounded shape that the clinical observation emphasizes." },
+        { "distractor": "bloated", "closeness": 3, "reasoning": "Describes puffed-up appearance from gas or fluid, but lacks the precise rounded symmetry that a surgeon would use in clinical observation of a gravity-dependent abdominal swelling." },
+        { "distractor": "engorged", "closeness": 3, "reasoning": "Means filled to excess with blood or fluid; while medically plausible for abdominal fluid, the sentence emphasizes the external rounded appearance rather than the state of being overfilled." },
+        { "distractor": "flaccid", "closeness": 2, "reasoning": "Describes loose, sagging tissue; though relating to abdominal tone, it suggests lack of firmness rather than the spherical bulging that indicates fluid retention." },
+        { "distractor": "turgid", "closeness": 2, "reasoning": "Means swollen and firm (opposite of flaccid); while applicable to abnormal abdominal conditions, it suggests internal congestion more than the distinctive rounded shape." },
+        { "distractor": "inflated", "closeness": 2, "reasoning": "Describes being expanded with air; though similar to fluid expansion visually, the sentence's clinical context (fluid retention specifically) makes air-related distension a less precise choice." },
+        { "distractor": "dilated", "closeness": 2, "reasoning": "Means widened or expanded; applies to medical findings, but typically describes hollow structures (vessels, airways), not the overall body wall contour." },
+        { "distractor": "firm", "closeness": 1, "reasoning": "Describes hardness or solidity; the sentence indicates abnormal abdominal enlargement, which contradicts a normal firm, well-defined abdominal wall." },
+        { "distractor": "taut", "closeness": 1, "reasoning": "Means stretched tight and smooth; opposite of the surgical finding of a pathologically enlarged abdomen." },
+        { "distractor": "shrunken", "closeness": 1, "reasoning": "Means reduced in size; directly contradicts the clinical picture of significant fluid accumulation causing abdominal enlargement." }
+      ]
+    },
+    {
+      "sentence": "The actor's rotund delivery of Shakespearean verse, complete with dramatic flourishes and elaborate phrasing, delighted the Elizabethan audience.",
+      "answerChoices": [
+        { "distractor": "bombastic", "closeness": 3, "reasoning": "Describes inflated, grandiose speech; while similar in suggesting exaggerated theatrical style, 'bombastic' emphasizes bluster and hollow grandiosity rather than the full-bodied, resonant richness the sentence attributes to the delivery." },
+        { "distractor": "sonorous", "closeness": 3, "reasoning": "Means deep-sounding and resonant; both words suggest ornate theatrical speech, but 'sonorous' emphasizes acoustic quality (how it sounds) whereas the sentence emphasizes the structural elaborateness (flourishes and phrasing)." },
+        { "distractor": "ornate", "closeness": 3, "reasoning": "Means elaborately decorated; while the sentence mentions 'elaborate phrasing,' it uses 'ornate' for external embellishment, whereas 'rotund' emphasizes the rounded, full quality of the delivery as a whole." },
+        { "distractor": "florid", "closeness": 3, "reasoning": "Means flowery and overly elaborate in language; very close to the sentence's picture of dramatic verse delivery, but emphasizes excessive ornamentation more than the full, rounded character of the performance." },
+        { "distractor": "melodramatic", "closeness": 2, "reasoning": "Describes exaggerated emotional expression; the sentence shows theatrical elaborateness that delighted the audience, not necessarily the emotional excess that 'melodramatic' implies." },
+        { "distractor": "grandiloquent", "closeness": 2, "reasoning": "Means using high-sounding, pompous language; similar to the sentence's theatrical style, but emphasizes pretentious wordiness rather than the full-bodied, resonant quality." },
+        { "distractor": "affected", "closeness": 2, "reasoning": "Means pretentiously adopted; while theatrical delivery can be 'affected,' the sentence frames the elaborate style as genuinely delighting the audience, not as inauthentic or artificial." },
+        { "distractor": "theatrical", "closeness": 2, "reasoning": "Means exaggerated for dramatic effect; while applicable, it's a more general term that doesn't capture the specific rounded fullness and completeness of the vocal delivery." },
+        { "distractor": "understated", "closeness": 1, "reasoning": "Means presented with restraint; directly opposite to the description of dramatic flourishes and elaborate phrasing that characterized the performance." },
+        { "distractor": "subtle", "closeness": 1, "reasoning": "Means delicate and not obvious; contradicts the sentence's emphasis on visible/audible flourishes and elaborate phrasing in the actor's verse delivery." },
+        { "distractor": "spare", "closeness": 1, "reasoning": "Means minimal and unadorned; opposite of the explicitly described dramatic flourishes and elaborate phrasing that define the actor's approach." }
+      ]
+    }
+  ]
+}

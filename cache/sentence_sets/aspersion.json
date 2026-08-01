@@ -1,0 +1,53 @@
+{
+  "word": "aspersion",
+  "sentenceSets": [
+    {
+      "sentence": "She refused to cast aspersions on her former colleague, despite having reason to doubt his account.",
+      "answerChoices": [
+        { "distractor": "doubt", "closeness": 3, "reasoning": "While 'doubt' means to question the truth, the sentence emphasizes casting aspersions—making damaging charges, not just harboring private doubt." },
+        { "distractor": "suspicion", "closeness": 3, "reasoning": "'Suspicion' means distrust or mistrust; while she has suspicion, the sentence emphasizes refusing to make damaging public charges." },
+        { "distractor": "criticism", "closeness": 3, "reasoning": "'Criticism' means disapproving comment; while aspersions are critical, the sentence emphasizes false or misleading charges meant to harm reputation." },
+        { "distractor": "judgment", "closeness": 3, "reasoning": "'Judgment' means forming an opinion; while she judges him internally, the sentence emphasizes refusing to make public damaging charges." },
+        { "distractor": "accusation", "closeness": 2, "reasoning": "'Accusation' means charging someone with wrongdoing; while aspersions are accusatory, they specifically involve false or misleading charges." },
+        { "distractor": "implication", "closeness": 2, "reasoning": "'Implication' means suggested meaning; while aspersions imply wrongdoing, the sentence emphasizes casting damaging charges, not just suggesting." },
+        { "distractor": "innuendo", "closeness": 2, "reasoning": "'Innuendo' means an indirect suggestion; while aspersions can be indirect, the sentence emphasizes refusing to make damaging charges." },
+        { "distractor": "allegation", "closeness": 2, "reasoning": "'Allegation' means a claim without proof; while aspersions are unproven charges, the sentence emphasizes the refusal to make them." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Praise means expressing approval; it contradicts the sentence about refusing to make damaging charges." },
+        { "distractor": "endorsement", "closeness": 1, "reasoning": "Endorsement means expressing approval or support; it contradicts casting damaging charges." },
+        { "distractor": "validation", "closeness": 1, "reasoning": "Validation means confirming as true or worthy; it contradicts the idea of casting false charges to harm reputation." }
+      ]
+    },
+    {
+      "sentence": "The candidate's opponents cast an aspersion about his military record, claiming without evidence that he had falsified his service dates.",
+      "answerChoices": [
+        { "distractor": "criticism", "closeness": 3, "reasoning": "'Criticism' means disapproving comment; while the aspersion is critical, the sentence emphasizes a false, evidenceless charge meant to harm reputation." },
+        { "distractor": "accusation", "closeness": 3, "reasoning": "'Accusation' means charging with wrongdoing; while aspersions are accusations, the sentence emphasizes that they are false and made without evidence." },
+        { "distractor": "challenge", "closeness": 3, "reasoning": "'Challenge' means to question or test; while they challenge his credibility, the sentence emphasizes making a false damaging charge." },
+        { "distractor": "doubt", "closeness": 3, "reasoning": "'Doubt' means to question; while they express doubt, the sentence emphasizes making a specific false charge without evidence." },
+        { "distractor": "allegation", "closeness": 2, "reasoning": "'Allegation' means an unproven claim; while similar, the sentence emphasizes it's false and made without evidence to harm reputation." },
+        { "distractor": "insinuation", "closeness": 2, "reasoning": "'Insinuation' means hinting at something negative; while the aspersion insinuates wrongdoing, it emphasizes a direct false charge." },
+        { "distractor": "implication", "closeness": 2, "reasoning": "'Implication' means suggested meaning; while aspersions imply wrongdoing, the sentence shows direct false charging." },
+        { "distractor": "rumor", "closeness": 2, "reasoning": "'Rumor' means unverified information spread by word of mouth; while aspersions spread like rumors, the sentence shows deliberate false charges." },
+        { "distractor": "confirmation", "closeness": 1, "reasoning": "Confirmation means proving something true; it contradicts the false, evidenceless charge the sentence describes." },
+        { "distractor": "verification", "closeness": 1, "reasoning": "Verification means confirming accuracy; it contradicts the false charge without evidence." },
+        { "distractor": "validation", "closeness": 1, "reasoning": "Validation means confirming as true; it contradicts the false charge designed to harm reputation." }
+      ]
+    },
+    {
+      "sentence": "He deeply resented the aspersion that he had cheated to win the scholarship, and spent months working to clear his name.",
+      "answerChoices": [
+        { "distractor": "accusation", "closeness": 3, "reasoning": "'Accusation' means a charge of wrongdoing; while the aspersion is accusatory, the sentence emphasizes a false damaging charge to his reputation." },
+        { "distractor": "allegation", "closeness": 3, "reasoning": "'Allegation' means an unproven claim; while aspersions are unproven, the sentence emphasizes it's false and required him to defend his name." },
+        { "distractor": "suspicion", "closeness": 3, "reasoning": "'Suspicion' means distrust; while the aspersion causes suspicion, the sentence emphasizes the false damaging charge." },
+        { "distractor": "implication", "closeness": 3, "reasoning": "'Implication' means suggested meaning; while aspersions imply wrongdoing, the sentence emphasizes a direct false charge that harmed his reputation." },
+        { "distractor": "suggestion", "closeness": 2, "reasoning": "'Suggestion' means a proposed idea; while the aspersion suggests cheating, it emphasizes a damaging false charge, not just a suggestion." },
+        { "distractor": "insinuation", "closeness": 2, "reasoning": "'Insinuation' means hinting at something negative; while the aspersion insinuates wrongdoing, it's a direct false charge." },
+        { "distractor": "rumor", "closeness": 2, "reasoning": "'Rumor' means unverified information; while aspersions spread like rumors, the sentence emphasizes deliberate false charges." },
+        { "distractor": "innuendo", "closeness": 2, "reasoning": "'Innuendo' means indirect reference; while aspersions can be indirect, the sentence emphasizes a direct false damaging charge." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Praise means expressing approval; it contradicts the damaging false charge that required him to clear his name." },
+        { "distractor": "compliment", "closeness": 1, "reasoning": "Compliment means expressing admiration; it contradicts the damaging charge." },
+        { "distractor": "validation", "closeness": 1, "reasoning": "Validation means confirming as worthy; it contradicts the false damaging aspersion." }
+      ]
+    }
+  ]
+}

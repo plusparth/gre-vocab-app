@@ -1,0 +1,53 @@
+{
+  "word": "sundry",
+  "sentenceSets": [
+    {
+      "sentence": "Sundry objections were raised, most of them peripheral and all of them requiring response before the substantive discussion could proceed.",
+      "answerChoices": [
+        { "distractor": "minor", "closeness": 3, "reasoning": "While sundry objections might be minor, 'minor' describes importance level, whereas 'sundry' emphasizes multiplicity and variety of different kinds." },
+        { "distractor": "various", "closeness": 3, "reasoning": "'Various' means different kinds, which is related to 'sundry,' but 'sundry' more specifically emphasizes miscellaneous variety." },
+        { "distractor": "miscellaneous", "closeness": 3, "reasoning": "'Miscellaneous' means mixed or assorted; very similar to 'sundry,' but 'sundry' adds emphasis on the various nature of different objections." },
+        { "distractor": "numerous", "closeness": 3, "reasoning": "'Numerous' means many; while the objections are multiple, 'sundry' emphasizes their different kinds, not just quantity." },
+        { "distractor": "trivial", "closeness": 2, "reasoning": "Many sundry objections might be trivial, but 'trivial' describes importance, not the diverse variety." },
+        { "distractor": "routine", "closeness": 2, "reasoning": "Some sundry objections might be routine, but 'routine' describes frequency, not variety of kinds." },
+        { "distractor": "legitimate", "closeness": 2, "reasoning": "Objections raised are presumably legitimate, but the sentence emphasizes their variety and peripheral nature, not legitimacy." },
+        { "distractor": "procedural", "closeness": 2, "reasoning": "Some objections might be procedural, but the sentence shows they are of different kinds (sundry), not specifically procedural." },
+        { "distractor": "substantial", "closeness": 1, "reasoning": "The sentence describes objections as peripheral, not substantial." },
+        { "distractor": "unified", "closeness": 1, "reasoning": "Sundry means diverse and various; unified means of one kind." },
+        { "distractor": "relevant", "closeness": 1, "reasoning": "The objections are described as mostly peripheral, not relevant to substantive discussion." }
+      ]
+    },
+    {
+      "sentence": "The estate included the main house, barns, and sundry outbuildings scattered across the property.",
+      "answerChoices": [
+        { "distractor": "various", "closeness": 3, "reasoning": "'Various' means different kinds; while the outbuildings are of different kinds, 'sundry' more specifically emphasizes miscellaneous variety scattered about." },
+        { "distractor": "miscellaneous", "closeness": 3, "reasoning": "'Miscellaneous' means mixed or assorted; very close to 'sundry,' but 'sundry' emphasizes the scattered, various nature more strongly." },
+        { "distractor": "additional", "closeness": 3, "reasoning": "'Additional' means more besides the main items; the outbuildings are additional to the house and barns, but 'sundry' emphasizes variety." },
+        { "distractor": "numerous", "closeness": 3, "reasoning": "'Numerous' means many; while there are multiple outbuildings, 'sundry' emphasizes their different kinds, not just quantity." },
+        { "distractor": "modest", "closeness": 2, "reasoning": "Outbuildings might be modest, but 'modest' describes scale or quality, not the variety characteristic of sundry." },
+        { "distractor": "old", "closeness": 2, "reasoning": "Estate buildings might be old, but 'old' describes age, not the variety of kinds." },
+        { "distractor": "useful", "closeness": 2, "reasoning": "Outbuildings are useful for various purposes, but the sentence emphasizes their variety and scattered location." },
+        { "distractor": "wooden", "closeness": 2, "reasoning": "Some might be wooden, but 'wooden' describes material, not the variety of different kinds of structures." },
+        { "distractor": "prominent", "closeness": 1, "reasoning": "Outbuildings are scattered across the property, suggesting they're not prominent like the main house." },
+        { "distractor": "identical", "closeness": 1, "reasoning": "Sundry means various and miscellaneous; identical outbuildings would be the opposite." },
+        { "distractor": "central", "closeness": 1, "reasoning": "Sundry outbuildings are scattered across the property; they're not centrally located." }
+      ]
+    },
+    {
+      "sentence": "The museum's collection included paintings, sculptures, photographs, and sundry artifacts acquired over two centuries of collecting.",
+      "answerChoices": [
+        { "distractor": "various", "closeness": 3, "reasoning": "'Various' means different kinds; while the artifacts are of different kinds, 'sundry' more specifically emphasizes miscellaneous variety." },
+        { "distractor": "miscellaneous", "closeness": 3, "reasoning": "'Miscellaneous' means mixed assortment; very close to 'sundry,' though 'sundry' emphasizes the diverse nature acquired over long collection." },
+        { "distractor": "rare", "closeness": 3, "reasoning": "Museum artifacts might be rare, but 'rare' describes uniqueness or value, not the variety of different kinds." },
+        { "distractor": "antiquarian", "closeness": 3, "reasoning": "'Antiquarian' describes things from antiquity; while the artifacts might be old, the sentence emphasizes their variety." },
+        { "distractor": "valuable", "closeness": 2, "reasoning": "Museum pieces are typically valuable, but 'valuable' describes worth, not the miscellaneous variety of kinds." },
+        { "distractor": "interesting", "closeness": 2, "reasoning": "Collection artifacts are typically interesting, but 'interesting' describes appeal, not the miscellaneous variety." },
+        { "distractor": "historical", "closeness": 2, "reasoning": "Museum artifacts are historical, but 'historical' describes age and significance, not variety of kinds." },
+        { "distractor": "fragile", "closeness": 2, "reasoning": "Some artifacts might be fragile, but 'fragile' describes delicacy, not the miscellaneous variety." },
+        { "distractor": "identical", "closeness": 1, "reasoning": "Sundry artifacts are diverse; identical pieces would be the opposite." },
+        { "distractor": "uniform", "closeness": 1, "reasoning": "Sundry describes variety and miscellaneous collection; uniform would suggest sameness." },
+        { "distractor": "homogeneous", "closeness": 1, "reasoning": "Sundry emphasizes diverse and miscellaneous; homogeneous means of one kind." }
+      ]
+    }
+  ]
+}

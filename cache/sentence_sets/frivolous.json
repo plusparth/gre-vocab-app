@@ -1,0 +1,185 @@
+{
+  "word": "frivolous",
+  "sentenceSets": [
+    {
+      "sentence": "The complaint was dismissed as frivolous, lacking the factual foundation required to proceed.",
+      "answerChoices": [
+        {
+          "distractor": "trivial",
+          "closeness": 3,
+          "reasoning": "While a trivial complaint might be dismissed, the sentence specifies that the grounds for dismissal are the absence of required factual foundation—a procedural defect, not mere unimportance."
+        },
+        {
+          "distractor": "inconsequential",
+          "closeness": 3,
+          "reasoning": "The sentence specifies that the problem is 'lacking the factual foundation required to proceed,' not that the complaint will be inconsequential; something inconsequential might still have sufficient factual support."
+        },
+        {
+          "distractor": "baseless",
+          "closeness": 3,
+          "reasoning": "Though both suggest lack of support, the sentence emphasizes factual foundation required by legal procedure; 'baseless' is vaguer and doesn't capture the specific procedural deficiency."
+        },
+        {
+          "distractor": "unfounded",
+          "closeness": 3,
+          "reasoning": "The sentence identifies the grounds as 'lacking the factual foundation required to proceed'—emphasizing procedure and standards; 'unfounded' means unsupported but lacks the sense of failing to meet a specific procedural threshold."
+        },
+        {
+          "distractor": "pointless",
+          "closeness": 2,
+          "reasoning": "The complaint's lack of factual foundation means it fails a legal requirement, not that it lacks purpose; 'pointless' suggests futility rather than legal or procedural insufficiency."
+        },
+        {
+          "distractor": "irrelevant",
+          "closeness": 2,
+          "reasoning": "The reason given is lack of factual foundation, not lack of relevance; the complaint's subject matter might be relevant to some issue but still lack the evidentiary support needed."
+        },
+        {
+          "distractor": "silly",
+          "closeness": 2,
+          "reasoning": "The tone of the dismissal is formal and legal—about procedure and factual evidence—not about the complaint being foolish or ridiculous; 'silly' emphasizes appearance or tone rather than substantive deficiency."
+        },
+        {
+          "distractor": "vexatious",
+          "closeness": 2,
+          "reasoning": "A vexatious suit is filed to harass or annoy, implying intent to cause trouble; the sentence doesn't indicate motive, only that the complaint lacks factual foundation."
+        },
+        {
+          "distractor": "serious",
+          "closeness": 1,
+          "reasoning": "The complaint is dismissed, and the sentence implies it fails to meet legal requirements; 'serious' would suggest the opposite—that the complaint is weighty and substantive."
+        },
+        {
+          "distractor": "weighty",
+          "closeness": 1,
+          "reasoning": "The complaint is found lacking in factual foundation; 'weighty' implies substance and importance, the opposite of what the dismissal indicates."
+        },
+        {
+          "distractor": "substantial",
+          "closeness": 1,
+          "reasoning": "A substantial complaint would have sufficient factual foundation; the dismissal indicates the opposite—that the complaint lacks the foundation required."
+        }
+      ]
+    },
+    {
+      "sentence": "His endless comments about celebrity gossip seemed frivolous to those focused on the urgent economic crisis.",
+      "answerChoices": [
+        {
+          "distractor": "superficial",
+          "closeness": 3,
+          "reasoning": "Though 'superficial' could describe gossip-based comments, it refers to lacking depth; the sentence emphasizes the lack of importance compared to the urgent economic crisis, not mere surface-level treatment."
+        },
+        {
+          "distractor": "shallow",
+          "closeness": 3,
+          "reasoning": "While gossip might be shallow, this emphasizes lack of depth rather than lack of importance; the sentence shows the comments are deemed unimportant precisely because the audience is focused on a more urgent matter."
+        },
+        {
+          "distractor": "lightweight",
+          "closeness": 3,
+          "reasoning": "Though 'lightweight' could describe comments lacking substance, it suggests physical or abstract insubstantiality; the sentence indicates the comments are seen as unimportant due to the contrast with urgent concerns, not merely for being insubstantial."
+        },
+        {
+          "distractor": "petty",
+          "closeness": 3,
+          "reasoning": "While petty behavior is trivial, it emphasizes smallness or meanness; the sentence frames the judgment as coming from a particular perspective (those focused on economic crisis), not from the comments inherently being petty."
+        },
+        {
+          "distractor": "inane",
+          "closeness": 2,
+          "reasoning": "Comments can be inane (pointless or silly) without being unimportant; the sentence suggests the comments seem unimportant specifically because the audience is focused on something urgent."
+        },
+        {
+          "distractor": "banal",
+          "closeness": 2,
+          "reasoning": "Banal comments are trite or lacking originality, but the sentence doesn't emphasize the comments being unoriginal—it emphasizes them seeming unimportant to people concerned with an urgent crisis."
+        },
+        {
+          "distractor": "vapid",
+          "closeness": 2,
+          "reasoning": "Vapid means dull or lifeless, but the sentence doesn't describe the comments as dull; it describes them as unimportant because the audience's attention is elsewhere."
+        },
+        {
+          "distractor": "empty",
+          "closeness": 2,
+          "reasoning": "Empty comments lack content, but the sentence emphasizes the comments being unimportant in a particular context, not that they contain nothing."
+        },
+        {
+          "distractor": "profound",
+          "closeness": 1,
+          "reasoning": "The comments are about celebrity gossip, which the sentence suggests seems unimportant to those focused on urgent economic concerns; 'profound' would suggest deep significance, the opposite."
+        },
+        {
+          "distractor": "meaningful",
+          "closeness": 1,
+          "reasoning": "The contrast in the sentence is between celebrity gossip and urgent economic crisis; 'meaningful' would suggest importance, the opposite of what the comment is deemed."
+        },
+        {
+          "distractor": "urgent",
+          "closeness": 1,
+          "reasoning": "The urgent matters are the economic crisis that the listeners are focused on; calling celebrity gossip 'urgent' would contradict the entire contrast in the sentence."
+        }
+      ]
+    },
+    {
+      "sentence": "The heiress frittered away her fortune on frivolous purchases, from diamond-encrusted phones to gold-plated furniture.",
+      "answerChoices": [
+        {
+          "distractor": "trifling",
+          "closeness": 3,
+          "reasoning": "While trifling purchases would be unimportant, the phrase 'frittered away her fortune' indicates she spent large amounts; the focus is on wasteful spending, not on the purchases being trifling in themselves."
+        },
+        {
+          "distractor": "negligible",
+          "closeness": 3,
+          "reasoning": "Though negligible purchases would be unimportant, the examples (diamond-encrusted phones, gold-plated furniture) are expensive and showy, not negligible in cost; the problem is wastefulness, not insignificance."
+        },
+        {
+          "distractor": "unimportant",
+          "closeness": 3,
+          "reasoning": "While the purchases are unimportant to her actual needs, the examples show expensive luxury items, not unimportant ones; the problem is spending fortunes on unnecessary things, not on things that cost little."
+        },
+        {
+          "distractor": "excessive",
+          "closeness": 3,
+          "reasoning": "Though 'excessive' could fit the luxury spending, it emphasizes the amount spent rather than the nature of the purchases; 'frivolous' emphasizes that the items themselves are unwarranted luxuries."
+        },
+        {
+          "distractor": "impulsive",
+          "closeness": 2,
+          "reasoning": "While the spending might be impulsive, impulsive doesn't necessarily mean wasteful; one could impulsively buy something useful or necessary, unlike the luxury purchases described."
+        },
+        {
+          "distractor": "wasteful",
+          "closeness": 2,
+          "reasoning": "Wasteful accurately describes the spending pattern, but the sentence specifically describes the purchases themselves, not just the behavior; 'wasteful' is about the act, not the nature of what was bought."
+        },
+        {
+          "distractor": "superfluous",
+          "closeness": 2,
+          "reasoning": "Superfluous items are unnecessary; while this might fit some of the examples, it doesn't emphasize the frivolity and wastefulness emphasized by 'frittered away.'"
+        },
+        {
+          "distractor": "mindless",
+          "closeness": 2,
+          "reasoning": "While the spending might be mindless, this focuses on the mental state behind the purchases rather than the nature of the purchases themselves; 'frivolous' describes the items' lack of value, not the owner's mindset."
+        },
+        {
+          "distractor": "critical",
+          "closeness": 1,
+          "reasoning": "Critical purchases would be essential and necessary; 'frittered away' indicates wastefulness, the opposite of spending on critical needs."
+        },
+        {
+          "distractor": "vital",
+          "closeness": 1,
+          "reasoning": "Vital purchases would be necessary for survival or well-being; spending on vital things wouldn't be described as frittering away a fortune."
+        },
+        {
+          "distractor": "essential",
+          "closeness": 1,
+          "reasoning": "Essential purchases are necessary and important; the sentence describes wasteful spending on luxuries, the opposite of what's essential."
+        }
+      ]
+    }
+  ]
+}

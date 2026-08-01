@@ -1,0 +1,53 @@
+{
+  "word": "pivotal",
+  "sentenceSets": [
+    {
+      "sentence": "The pivotal meeting happened without most of the principals present, producing a decision that several of them later disputed.",
+      "answerChoices": [
+        { "distractor": "crucial", "closeness": 3, "reasoning": "Close -- 'crucial' means critical or of great importance, which describes a meeting that produces a decision, but it does not specifically suggest the turning-point quality that 'pivotal' conveys." },
+        { "distractor": "critical", "closeness": 3, "reasoning": "Close -- 'critical' means at a turning point or of vital importance, which is similar to 'pivotal,' but it emphasizes the severity or importance rather than the specific axis around which events turn." },
+        { "distractor": "decisive", "closeness": 3, "reasoning": "Close -- 'decisive' means producing a clear result or conclusion, which fits a meeting that produces a decision, but it does not capture the sense of being the central turning point." },
+        { "distractor": "momentous", "closeness": 3, "reasoning": "Close -- 'momentous' means of great importance or significance, which fits a meeting with consequences, but it emphasizes weight rather than the idea of something being central to a larger arc." },
+        { "distractor": "significant", "closeness": 2, "reasoning": "Incorrect -- 'significant' means important or noteworthy; while the meeting is clearly significant, this word does not suggest the particular quality of being the point on which everything turns." },
+        { "distractor": "consequential", "closeness": 2, "reasoning": "Incorrect -- 'consequential' means important due to consequences; the meeting has consequences, but the word does not capture the structural sense of being the hinge point." },
+        { "distractor": "weighty", "closeness": 2, "reasoning": "Incorrect -- 'weighty' means heavy in significance; while the meeting is weighty, this word does not suggest its turning-point nature." },
+        { "distractor": "epochal", "closeness": 2, "reasoning": "Incorrect -- 'epochal' means marking the beginning of a new era; while the meeting may be significant, it does not necessarily mark an epoch or era." },
+        { "distractor": "peripheral", "closeness": 1, "reasoning": "Opposite -- 'peripheral' means at the edge or margin; this is the opposite of pivotal, which refers to the central axis." },
+        { "distractor": "tangential", "closeness": 1, "reasoning": "Opposite -- 'tangential' means only slightly related or beside the point; this contradicts the importance and centrality of the meeting described." },
+        { "distractor": "incidental", "closeness": 1, "reasoning": "Incorrect -- 'incidental' means occurring as a minor consequence; this contradicts the meeting's role in producing a disputed decision." }
+      ]
+    },
+    {
+      "sentence": "The coach identified the signing of the veteran quarterback as a pivotal move, one that would either resurrect the franchise or accelerate its decline.",
+      "answerChoices": [
+        { "distractor": "turning-point", "closeness": 3, "reasoning": "Close -- 'turning-point' describes a moment of change, which fits the coach's sense of the signing as a decisive moment, but it is a phrase rather than a single word." },
+        { "distractor": "gamble", "closeness": 3, "reasoning": "Close -- 'gamble' suggests a risky decision with major consequences, which fits the 'either-or' nature of the move, but it emphasizes risk and uncertainty rather than the idea of a central axis of change." },
+        { "distractor": "lynchpin", "closeness": 3, "reasoning": "Close -- 'lynchpin' (or linchpin) means a central element on which others depend, which is similar to 'pivotal,' but it emphasizes structural interdependence more than the hinge concept." },
+        { "distractor": "watershed", "closeness": 3, "reasoning": "Close -- 'watershed' describes a dividing point after which things change, which fits the turning-point sense, but it is less commonly used for specific decisions and more for major historical shifts." },
+        { "distractor": "bold", "closeness": 2, "reasoning": "Incorrect -- 'bold' means daring or courageous; while the signing may be bold, it does not capture the sense of being the central point on which the franchise's fate turns." },
+        { "distractor": "risky", "closeness": 2, "reasoning": "Incorrect -- 'risky' means involving danger or uncertainty; the coach may see the move as risky, but this word does not convey its structural role as the axis of change." },
+        { "distractor": "necessary", "closeness": 2, "reasoning": "Incorrect -- 'necessary' means essential; while the signing might be necessary, it does not capture the specific sense of being the hinge point." },
+        { "distractor": "ambitious", "closeness": 2, "reasoning": "Incorrect -- 'ambitious' means showing strong desire for success; the move may be ambitious, but this does not suggest its role as a central turning point." },
+        { "distractor": "trivial", "closeness": 1, "reasoning": "Opposite -- 'trivial' means unimportant or insignificant; this contradicts the coach's view that the signing will determine the franchise's trajectory." },
+        { "distractor": "irrelevant", "closeness": 1, "reasoning": "Opposite -- 'irrelevant' means not connected or not important to the matter at hand; this contradicts the central importance of the signing to the franchise's future." },
+        { "distractor": "ancillary", "closeness": 1, "reasoning": "Incorrect -- 'ancillary' means supporting or secondary; this contradicts the primary, central role the coach assigns to the quarterback signing." }
+      ]
+    },
+    {
+      "sentence": "Historians debate which pivotal moment truly began the revolution: the tax dispute, the failed diplomacy, or the soldiers' massacre of civilians.",
+      "answerChoices": [
+        { "distractor": "transformative", "closeness": 3, "reasoning": "Close -- 'transformative' means causing major change, which fits the revolutionary context, but it emphasizes the scope of change rather than the specific hinge-point nature." },
+        { "distractor": "catalytic", "closeness": 3, "reasoning": "Close -- 'catalytic' means triggering or prompting change, which fits the idea of a spark to revolution, but it emphasizes causation rather than being the central turning point." },
+        { "distractor": "epochal", "closeness": 3, "reasoning": "Close -- 'epochal' means marking a major transition or era, which fits a revolutionary moment, but it is more about the scale of change than about something being the central axis." },
+        { "distractor": "seminal", "closeness": 3, "reasoning": "Close -- 'seminal' means giving rise to further development or ideas, which fits a revolutionary spark, but it emphasizes influence and origins rather than the turning-point structure." },
+        { "distractor": "dramatic", "closeness": 2, "reasoning": "Incorrect -- 'dramatic' means sudden or striking; while revolutionary moments are dramatic, this word does not suggest the particular role of being the central hinge point." },
+        { "distractor": "significant", "closeness": 2, "reasoning": "Incorrect -- 'significant' means important or noteworthy; these moments are clearly significant, but the word does not convey the specific sense of being the axis on which history turns." },
+        { "distractor": "formative", "closeness": 2, "reasoning": "Incorrect -- 'formative' means serving to form character or development; while these moments shaped history, the word does not suggest the turning-point nature." },
+        { "distractor": "monumental", "closeness": 2, "reasoning": "Incorrect -- 'monumental' means very great or impressive; while revolutionary moments are monumental, this word emphasizes scale rather than structural centrality." },
+        { "distractor": "minor", "closeness": 1, "reasoning": "Opposite -- 'minor' means small or insignificant; this contradicts the historians' debate about which moment was most central to beginning the revolution." },
+        { "distractor": "tangential", "closeness": 1, "reasoning": "Opposite -- 'tangential' means only slightly related or beside the point; this contradicts the idea that these moments were central to the revolution's beginning." },
+        { "distractor": "obscure", "closeness": 1, "reasoning": "Incorrect -- 'obscure' means not clearly known or understood; historians actively debate these moments, indicating they are well-known rather than obscure." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "dubious",
+  "sentenceSets": [
+    {
+      "sentence": "She was dubious about the claim, having seen similar promises made and abandoned too many times before.",
+      "answerChoices": [
+        { "distractor": "skeptical", "closeness": 3, "reasoning": "Close -- 'skeptical' means inclined to doubt or disbelieve, which fits her hesitation based on past experience, but emphasizes questioning without necessarily committing to disbelief; 'dubious' implies unsettled or wavering doubt." },
+        { "distractor": "cynical", "closeness": 3, "reasoning": "Close -- 'cynical' describes distrust of human motives, which fits her accumulated experience, but emphasizes negative assumptions about intent rather than the unsettled state of doubt." },
+        { "distractor": "suspicious", "closeness": 3, "reasoning": "Close -- 'suspicious' means inclined to suspect wrongdoing, which fits doubt about a claim, but emphasizes suspicion of deception rather than general uncertainty and doubt." },
+        { "distractor": "incredulous", "closeness": 3, "reasoning": "Close -- 'incredulous' means unwilling or unable to believe, which fits her doubt, but emphasizes inability to accept rather than the unsettled, wavering doubt that 'dubious' conveys." },
+        { "distractor": "wary", "closeness": 2, "reasoning": "Incorrect -- 'wary' means cautious or on guard, which fits her caution about promises, but does not specifically convey doubt about the current claim." },
+        { "distractor": "mistrustful", "closeness": 2, "reasoning": "Incorrect -- 'mistrustful' means lacking trust, which fits accumulated experience, but emphasizes distrust of people rather than doubt about a specific claim." },
+        { "distractor": "hesitant", "closeness": 2, "reasoning": "Incorrect -- 'hesitant' means reluctant or uncertain, but does not specifically address doubt or disbelief in a claim." },
+        { "distractor": "apprehensive", "closeness": 2, "reasoning": "Incorrect -- 'apprehensive' means fearful or anxious about what may happen, but does not convey doubt about the truth of a claim." },
+        { "distractor": "convinced", "closeness": 1, "reasoning": "Opposite -- 'convinced' means fully persuaded or certain; opposite to doubt about the claim." },
+        { "distractor": "confident", "closeness": 1, "reasoning": "Opposite -- 'confident' means assured and trusting; wrong for someone who has seen promises abandoned." },
+        { "distractor": "credulous", "closeness": 1, "reasoning": "Opposite -- 'credulous' means too willing to believe; opposite to her experience-based doubt." }
+      ]
+    },
+    {
+      "sentence": "The witness's testimony was dubious; he admitted to poor eyesight that night and had been drinking at the scene.",
+      "answerChoices": [
+        { "distractor": "questionable", "closeness": 3, "reasoning": "Close -- 'questionable' means open to doubt or challenge, which fits unreliable testimony, but emphasizes the quality being questioned rather than the state of uncertainty." },
+        { "distractor": "unreliable", "closeness": 3, "reasoning": "Close -- 'unreliable' describes something not dependable, which fits the witness's poor vision and drinking, but emphasizes lack of trustworthiness rather than the specific sense of doubtful or uncertain truth." },
+        { "distractor": "shaky", "closeness": 3, "reasoning": "Close -- 'shaky' means unstable or uncertain, which fits testimony compromised by vision and alcohol, but is more colloquial and emphasizes instability rather than the quality of being doubted." },
+        { "distractor": "tenuous", "closeness": 3, "reasoning": "Close -- 'tenuous' means weak or insubstantial, which fits testimony undermined by circumstances, but emphasizes weakness of connection rather than the uncertain or doubtful nature." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "Incorrect -- 'ambiguous' means unclear or having multiple interpretations, but does not address the unreliability due to the witness's condition." },
+        { "distractor": "vague", "closeness": 2, "reasoning": "Incorrect -- 'vague' means imprecise or unclear, but focuses on lack of specificity rather than doubt about accuracy." },
+        { "distractor": "unclear", "closeness": 2, "reasoning": "Incorrect -- 'unclear' means not easy to understand, but does not convey the sense of untrustworthiness based on witness conditions." },
+        { "distractor": "inconsistent", "closeness": 2, "reasoning": "Incorrect -- 'inconsistent' means contradictory or not in agreement, but does not address doubt created by the witness's poor vision and drinking." },
+        { "distractor": "credible", "closeness": 1, "reasoning": "Opposite -- 'credible' means worthy of belief; opposite to testimony made dubious by poor eyesight and intoxication." },
+        { "distractor": "authentic", "closeness": 1, "reasoning": "Opposite -- 'authentic' means genuine and true; wrong for testimony undermined by the witness's compromised state." },
+        { "distractor": "verified", "closeness": 1, "reasoning": "Opposite -- 'verified' means confirmed as true; opposite to dubious testimony lacking corroboration." }
+      ]
+    },
+    {
+      "sentence": "The company's claim of environmental responsibility seemed dubious when inspectors discovered that its waste-management data had been falsified for years.",
+      "answerChoices": [
+        { "distractor": "suspect", "closeness": 3, "reasoning": "Close -- 'suspect' means regarded with doubt or suspicion, which fits the claim undermined by falsified data, but emphasizes arousing suspicion rather than the state of being doubted or uncertain." },
+        { "distractor": "disputable", "closeness": 3, "reasoning": "Close -- 'disputable' means open to debate or disagreement, which fits a claim challenged by evidence, but emphasizes that it can be disputed rather than expressing doubt about its truth." },
+        { "distractor": "equivocal", "closeness": 3, "reasoning": "Close -- 'equivocal' means ambiguous or uncertain in meaning, which fits a claim now cast in doubt, but emphasizes lack of clear meaning rather than the doubt cast by evidence of deception." },
+        { "distractor": "spurious", "closeness": 3, "reasoning": "Close -- 'spurious' means false or not genuine, which fits the actual falsification, but definitively states it is false rather than expressing doubt and uncertainty." },
+        { "distractor": "misleading", "closeness": 2, "reasoning": "Incorrect -- 'misleading' means causing someone to form a wrong impression, which fits falsified data, but emphasizes deception of others rather than doubt about the claim's truth." },
+        { "distractor": "deceptive", "closeness": 2, "reasoning": "Incorrect -- 'deceptive' means intended or serving to mislead, but focuses on the act of deception rather than expressing doubt about the claim." },
+        { "distractor": "fraudulent", "closeness": 2, "reasoning": "Incorrect -- 'fraudulent' means involving deliberate deception for gain, which fits falsified data, but is more technical and definitive than the expression of doubt." },
+        { "distractor": "evasive", "closeness": 2, "reasoning": "Incorrect -- 'evasive' means avoiding or designed to avoid, but does not address the specific doubt cast by falsified environmental data." },
+        { "distractor": "authentic", "closeness": 1, "reasoning": "Opposite -- 'authentic' means genuine and true; opposite to a claim made dubious by falsified data." },
+        { "distractor": "legitimate", "closeness": 1, "reasoning": "Opposite -- 'legitimate' means lawful and genuine; wrong for a claim undermined by systematic data falsification." },
+        { "distractor": "trustworthy", "closeness": 1, "reasoning": "Opposite -- 'trustworthy' means worthy of confidence; opposite to a company that falsifies its data." }
+      ]
+    }
+  ]
+}

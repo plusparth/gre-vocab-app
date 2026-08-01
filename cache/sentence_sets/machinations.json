@@ -1,0 +1,53 @@
+{
+  "word": "machinations",
+  "sentenceSets": [
+    {
+      "sentence": "The machinations of the competing factions delayed a decision that everyone agreed was necessary and no one was willing to make.",
+      "answerChoices": [
+        { "distractor": "conspiracies", "closeness": 3, "reasoning": "Like machinations, conspiracies suggest secret plotting, making this a plausible near-synonym that test-takers might choose." },
+        { "distractor": "intrigues", "closeness": 3, "reasoning": "Intrigues also suggest secret dealings or complex schemes similar enough to machinations' meaning to be a convincing trap." },
+        { "distractor": "schemes", "closeness": 3, "reasoning": "Schemes refer to planned arrangements and are near-synonymous enough to machinations to trap readers who conflate the two." },
+        { "distractor": "stratagems", "closeness": 3, "reasoning": "Stratagems are carefully devised plans, similar to machinations' connotation of calculated plotting against rivals." },
+        { "distractor": "tactics", "closeness": 2, "reasoning": "While tactics relate to planning, they suggest military or competitive methods rather than the internal, divisive scheming the sentence implies." },
+        { "distractor": "strategies", "closeness": 2, "reasoning": "Strategies mean overall plans but lack the connotation of secretive or conflicting activity that the sentence's context demands." },
+        { "distractor": "ploys", "closeness": 2, "reasoning": "Ploys are cunning plans, but the term emphasizes tricks more than the sustained internal conflict the sentence describes." },
+        { "distractor": "arrangements", "closeness": 2, "reasoning": "Arrangements refer to organized plans but do not convey the element of scheming or conflict implied in the delayed decision." },
+        { "distractor": "negotiations", "closeness": 1, "reasoning": "Negotiations suggest open discussion and mutual agreement, which contradicts the divisive plotting that prevents the decision." },
+        { "distractor": "scandals", "closeness": 1, "reasoning": "Scandals are revealed wrongdoings rather than the scheming actions themselves that cause delays." },
+        { "distractor": "achievements", "closeness": 1, "reasoning": "Achievements are successful accomplishments, the opposite of impediments that delay necessary decisions." }
+      ]
+    },
+    {
+      "sentence": "The political machinations of the administration were exposed by investigative journalists, revealing years of backroom deals and quid pro quo arrangements.",
+      "answerChoices": [
+        { "distractor": "plots", "closeness": 3, "reasoning": "Like machinations, plots mean secret plans to achieve something, making this a strong near-synonym that would trap informed readers." },
+        { "distractor": "subterfuges", "closeness": 3, "reasoning": "Subterfuges are deceptive stratagems that fit the sense of administrative scheming the sentence conveys." },
+        { "distractor": "artifices", "closeness": 3, "reasoning": "Artifices are clever tricks or deceptive contrivances, similar enough to the deceptive political schemes to be a plausible distractor." },
+        { "distractor": "wiles", "closeness": 3, "reasoning": "Wiles are cunning stratagems used to entrap or beguile, fitting the context of concealed administrative scheming perfectly." },
+        { "distractor": "operations", "closeness": 2, "reasoning": "Operations suggest organized activities but lack the implication of deception and backroom dealing shown in the sentence." },
+        { "distractor": "actions", "closeness": 2, "reasoning": "While related to what was done, this word is too generic and does not capture the calculated scheming the context requires." },
+        { "distractor": "dealings", "closeness": 2, "reasoning": "Dealings can refer to arrangements, but when coupled with 'backroom deals,' this word is too explicit compared to the hidden nature of machinations." },
+        { "distractor": "efforts", "closeness": 2, "reasoning": "Efforts describe attempts or tries but do not imply the calculated scheming or quid pro quo elements the sentence emphasizes." },
+        { "distractor": "disputes", "closeness": 1, "reasoning": "Disputes are conflicts or disagreements, not the behind-the-scenes scheming that was exposed." },
+        { "distractor": "conflicts", "closeness": 1, "reasoning": "Conflicts describe clashes between parties rather than the hidden schemes orchestrated by those in power." },
+        { "distractor": "allegations", "closeness": 1, "reasoning": "Allegations are claims or accusations, not the actual scheming actions themselves." }
+      ]
+    },
+    {
+      "sentence": "She dismissed her rival's machinations as transparent attempts to monopolize the company's influence and resources.",
+      "answerChoices": [
+        { "distractor": "shenanigans", "closeness": 3, "reasoning": "Shenanigans suggest mischievous trickery similar enough to the deceptive plotting the sentence describes." },
+        { "distractor": "antics", "closeness": 3, "reasoning": "Antics can mean foolish or playful tricks that are nearly synonymous enough with machinations to trap a reader." },
+        { "distractor": "contrivances", "closeness": 3, "reasoning": "Contrivances are cleverly invented but artificial schemes, fitting the 'transparent attempts' described in the sentence." },
+        { "distractor": "maneuvers", "closeness": 3, "reasoning": "Maneuvers are calculated moves or stratagems, similar to the machinations being dismissed as transparent plots." },
+        { "distractor": "initiatives", "closeness": 2, "reasoning": "Initiatives suggest projects or undertakings but lack the deceptive plotting quality that 'transparent attempts' implies." },
+        { "distractor": "movements", "closeness": 2, "reasoning": "Movements suggest organized efforts or campaigns but not specifically the scheming or manipulation of influence." },
+        { "distractor": "gambits", "closeness": 2, "reasoning": "Gambits are opening moves in a game suggesting strategy but not the behind-the-scenes manipulation of corporate influence." },
+        { "distractor": "ruses", "closeness": 2, "reasoning": "Ruses are tricks or stratagems but are less calculated or sustained than the machinations described here." },
+        { "distractor": "successes", "closeness": 1, "reasoning": "Success is the opposite of what the rival's attempts represent in the sentence." },
+        { "distractor": "decisions", "closeness": 1, "reasoning": "Decisions are choices or determinations, not scheming attempts to monopolize influence." },
+        { "distractor": "proposals", "closeness": 1, "reasoning": "Proposals are suggestions for consideration, not the underhanded machinations being dismissed." }
+      ]
+    }
+  ]
+}

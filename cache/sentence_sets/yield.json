@@ -1,0 +1,53 @@
+{
+  "word": "yield",
+  "sentenceSets": [
+    {
+      "sentence": "The strategy eventually yielded the outcome she had pursued for years, though by a route no one had anticipated.",
+      "answerChoices": [
+        { "distractor": "produced", "closeness": 3, "reasoning": "While 'produced' denotes creating or bringing forth a result, it lacks the specific sense of bearing fruit through sustained effort over time that 'yield' implies." },
+        { "distractor": "generated", "closeness": 3, "reasoning": "'Generated' describes bringing something into existence, but it emphasizes creation without the connotation of a natural outcome from cultivation." },
+        { "distractor": "bore", "closeness": 3, "reasoning": "Though 'bore' (as past tense) means produced or brought forth, it is more archaic and formal than the contemporary sense of 'yield.'" },
+        { "distractor": "delivered", "closeness": 3, "reasoning": "'Delivered' suggests successful provision of something promised; while the strategy delivers results, the word emphasizes fulfillment rather than natural production." },
+        { "distractor": "returned", "closeness": 2, "reasoning": "The strategy 'returned' results, but 'returned' emphasizes coming back or providing compensation rather than bearing fruit from effort." },
+        { "distractor": "provided", "closeness": 2, "reasoning": "The strategy 'provided' the outcome, but 'provided' focuses on supply without the implication of production through sustained effort." },
+        { "distractor": "furnished", "closeness": 2, "reasoning": "'Furnished' means supplied or equipped with something; while applicable, it emphasizes active supply rather than natural bearing of results." },
+        { "distractor": "achieved", "closeness": 2, "reasoning": "She 'achieved' the outcome, but 'achieved' emphasizes the accomplishment through effort rather than the productive bearing of results." },
+        { "distractor": "prevented", "closeness": 1, "reasoning": "The strategy pursued a desired outcome; 'prevented' describes stopping or avoiding something, the opposite of its productive effect." },
+        { "distractor": "postponed", "closeness": 1, "reasoning": "The outcome was finally attained; 'postponed' would mean delayed, contradicting the eventual successful result." },
+        { "distractor": "eliminated", "closeness": 1, "reasoning": "The strategy produced a desired outcome; 'eliminated' would mean removed or destroyed, opposite to what the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "The orchard yielded an abundant crop of apples that season, far exceeding expectations after years of careful pruning and pest management.",
+      "answerChoices": [
+        { "distractor": "produced", "closeness": 3, "reasoning": "Though 'produced' denotes creating something, it lacks the specific agricultural sense of bearing or generating a natural crop through cultivation." },
+        { "distractor": "generated", "closeness": 3, "reasoning": "'Generated' suggests bringing something into existence, but it emphasizes creation rather than the natural bearing of fruit from plants." },
+        { "distractor": "bore", "closeness": 3, "reasoning": "While 'bore' means produced or brought forth, it is more archaic; 'yield' is the contemporary agricultural term for bringing forth crops." },
+        { "distractor": "delivered", "closeness": 3, "reasoning": "'Delivered' suggests providing something promised; while the orchard provides apples, the word doesn't capture the natural productive growth." },
+        { "distractor": "provided", "closeness": 2, "reasoning": "The orchard 'provided' apples, but 'provided' emphasizes supply without the specific agricultural sense of bearing or producing a crop." },
+        { "distractor": "returned", "closeness": 2, "reasoning": "'Returned' suggests coming back with something; while the orchard offers a return on investment, the word doesn't specify the natural growth of fruit." },
+        { "distractor": "cultivated", "closeness": 2, "reasoning": "Though the farmers cultivated the orchard, 'cultivated' describes the care taken rather than the resulting crop itself." },
+        { "distractor": "harvested", "closeness": 2, "reasoning": "'Harvested' describes the gathering of crops, but it occurs after the orchard yields; the word describes the action following yield, not yield itself." },
+        { "distractor": "depleted", "closeness": 1, "reasoning": "An abundant crop that exceeds expectations represents growth; 'depleted' would mean exhausted or emptied, the opposite of productive yield." },
+        { "distractor": "destroyed", "closeness": 1, "reasoning": "A successful orchard bearing abundant fruit contradicts 'destroyed,' which would mean ruined or eliminated." },
+        { "distractor": "withered", "closeness": 1, "reasoning": "An orchard yielding abundantly shows thriving growth; 'withered' would describe drooping, dying plants—opposite to this fruitful production." }
+      ]
+    },
+    {
+      "sentence": "Her experiments finally yielded results that supported the hypothesis, though the data came from an unexpected source she hadn't considered initially.",
+      "answerChoices": [
+        { "distractor": "produced", "closeness": 3, "reasoning": "While 'produced' denotes creating or bringing forth results, it lacks the sense of bearing fruit through methodical, sustained investigative effort." },
+        { "distractor": "generated", "closeness": 3, "reasoning": "'Generated' suggests creating data or results, but it emphasizes production without the connotation of emergence through systematic investigation." },
+        { "distractor": "provided", "closeness": 3, "reasoning": "The experiments 'provided' results, but 'provided' suggests supply without the specific sense of bearing forth from investigation." },
+        { "distractor": "revealed", "closeness": 3, "reasoning": "'Revealed' suggests uncovering something already present; 'yield' emphasizes results emerging directly from the experimental process itself." },
+        { "distractor": "demonstrated", "closeness": 2, "reasoning": "'Demonstrated' means showed or proved, fitting the sense that results supported the hypothesis; however, it emphasizes presentation rather than the emergence of results." },
+        { "distractor": "established", "closeness": 2, "reasoning": "'Established' denotes setting up or confirming; while the results confirm the hypothesis, the word focuses on the outcome's validity rather than its emergence." },
+        { "distractor": "uncovered", "closeness": 2, "reasoning": "'Uncovered' suggests discovering existing evidence; however, 'yield' implies results arising from the investigative process rather than pre-existing facts." },
+        { "distractor": "found", "closeness": 2, "reasoning": "Though she 'found' supporting results, 'found' suggests locating something rather than the productive emergence from experimental investigation." },
+        { "distractor": "refuted", "closeness": 1, "reasoning": "The results supported the hypothesis; 'refuted' would mean disproved or contradicted, the opposite of what the sentence states." },
+        { "distractor": "obscured", "closeness": 1, "reasoning": "Clear results supporting the hypothesis emerged; 'obscured' would mean hidden or made unclear, contradicting the emergence of supporting evidence." },
+        { "distractor": "hindered", "closeness": 1, "reasoning": "Results that support a hypothesis represent progress; 'hindered' would mean obstructed or impeded progress, opposite to this outcome." }
+      ]
+    }
+  ]
+}

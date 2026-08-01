@@ -1,0 +1,53 @@
+{
+  "word": "unprecedented",
+  "sentenceSets": [
+    {
+      "sentence": "The scale of the response was unprecedented, though the situation it was designed to address had been predicted for years.",
+      "answerChoices": [
+        { "distractor": "unexpected", "closeness": 3, "reasoning": "Unexpected means not anticipated; unprecedented specifically means never done or known before, which is different from merely unexpected." },
+        { "distractor": "enormous", "closeness": 3, "reasoning": "Enormous means very large; unprecedented emphasizes being novel and without precedent, not just the size." },
+        { "distractor": "massive", "closeness": 3, "reasoning": "Massive means very large in scale; unprecedented refers to novelty and lack of prior example, not just size." },
+        { "distractor": "extraordinary", "closeness": 3, "reasoning": "Extraordinary means very unusual; unprecedented specifically emphasizes having no precedent or prior example." },
+        { "distractor": "substantial", "closeness": 2, "reasoning": "Substantial means considerable in amount; unprecedented emphasizes novelty and lack of precedent." },
+        { "distractor": "dramatic", "closeness": 2, "reasoning": "Dramatic means striking and notable; unprecedented emphasizes having no prior example." },
+        { "distractor": "remarkable", "closeness": 2, "reasoning": "Remarkable means worthy of notice; unprecedented specifically refers to having no precedent." },
+        { "distractor": "novel", "closeness": 2, "reasoning": "Novel means new; unprecedented specifically means never done or known before." },
+        { "distractor": "predictable", "closeness": 1, "reasoning": "Predictable means foreseeable or following a pattern; unprecedented means never done before, the opposite." },
+        { "distractor": "routine", "closeness": 1, "reasoning": "Routine means usual and standard; unprecedented means novel and without precedent, the opposite." },
+        { "distractor": "precedented", "closeness": 1, "reasoning": "Precedented means having a prior example; unprecedented means having no precedent, the direct opposite." }
+      ]
+    },
+    {
+      "sentence": "The athlete's unprecedented achievement—breaking three world records in a single competition—left spectators in disbelief.",
+      "answerChoices": [
+        { "distractor": "remarkable", "closeness": 3, "reasoning": "Remarkable means worthy of notice; unprecedented specifically means never accomplished before." },
+        { "distractor": "extraordinary", "closeness": 3, "reasoning": "Extraordinary means very unusual; unprecedented specifically means never done or achieved before." },
+        { "distractor": "exceptional", "closeness": 3, "reasoning": "Exceptional means unusually good; unprecedented specifically emphasizes having no prior precedent." },
+        { "distractor": "impressive", "closeness": 3, "reasoning": "Impressive means striking in effect; unprecedented emphasizes the novelty of never being done before." },
+        { "distractor": "spectacular", "closeness": 2, "reasoning": "Spectacular means visually striking; unprecedented emphasizes having no precedent, not just visual impact." },
+        { "distractor": "historic", "closeness": 2, "reasoning": "Historic means of great importance; unprecedented specifically means never done before." },
+        { "distractor": "monumental", "closeness": 2, "reasoning": "Monumental means impressively large; unprecedented emphasizes novelty and lack of prior example." },
+        { "distractor": "astonishing", "closeness": 2, "reasoning": "Astonishing means surprising; unprecedented emphasizes having no precedent or prior occurrence." },
+        { "distractor": "common", "closeness": 1, "reasoning": "Common means ordinary and frequent; unprecedented means unique and never done before, the opposite." },
+        { "distractor": "routine", "closeness": 1, "reasoning": "Routine means usual and standard; unprecedented means novel and without precedent, the opposite." },
+        { "distractor": "expected", "closeness": 1, "reasoning": "Expected means anticipated; unprecedented emphasizes novelty and absence of prior example, the opposite." }
+      ]
+    },
+    {
+      "sentence": "Researchers documented an unprecedented phenomenon in the deep ocean, with creatures displaying behaviors that contradicted all existing models of animal adaptation.",
+      "answerChoices": [
+        { "distractor": "unexpected", "closeness": 3, "reasoning": "Unexpected means not anticipated; unprecedented specifically means never observed or documented before." },
+        { "distractor": "novel", "closeness": 3, "reasoning": "Novel means new; unprecedented specifically emphasizes having no prior documented precedent." },
+        { "distractor": "anomalous", "closeness": 3, "reasoning": "Anomalous means deviating from norm; unprecedented specifically means never observed or recorded before." },
+        { "distractor": "mysterious", "closeness": 3, "reasoning": "Mysterious means difficult to understand; unprecedented emphasizes having no prior precedent or example." },
+        { "distractor": "unfamiliar", "closeness": 2, "reasoning": "Unfamiliar means not known; unprecedented specifically means never documented or observed before." },
+        { "distractor": "exotic", "closeness": 2, "reasoning": "Exotic means from a distant place; unprecedented emphasizes having no prior scientific record." },
+        { "distractor": "strange", "closeness": 2, "reasoning": "Strange means unusual; unprecedented emphasizes being undocumented and without precedent." },
+        { "distractor": "remarkable", "closeness": 2, "reasoning": "Remarkable means noteworthy; unprecedented emphasizes having no prior observed example." },
+        { "distractor": "common", "closeness": 1, "reasoning": "Common means ordinary and frequent; unprecedented means unique and never before observed, the opposite." },
+        { "distractor": "documented", "closeness": 1, "reasoning": "Documented means recorded with evidence; unprecedented means never documented or observed before, the opposite." },
+        { "distractor": "established", "closeness": 1, "reasoning": "Established means known and confirmed; unprecedented means never observed or confirmed before, the opposite." }
+      ]
+    }
+  ]
+}

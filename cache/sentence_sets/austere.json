@@ -1,0 +1,53 @@
+{
+  "word": "austere",
+  "sentenceSets": [
+    {
+      "sentence": "The courtroom was deliberately austere, its bare walls designed to discourage distraction.",
+      "answerChoices": [
+        { "distractor": "plain", "closeness": 3, "reasoning": "The courtroom is plain without ornamentation, but 'plain' emphasizes lack of decoration, whereas 'austere' implies stern, cold severity." },
+        { "distractor": "barren", "closeness": 3, "reasoning": "The courtroom is barren of comfort, but 'barren' emphasizes emptiness, whereas 'austere' implies stern, deliberate severity." },
+        { "distractor": "stark", "closeness": 3, "reasoning": "The courtroom is stark in appearance, closely related to 'austere,' but 'stark' emphasizes harsh severity, while 'austere' adds rigorous dignity." },
+        { "distractor": "sparse", "closeness": 3, "reasoning": "The courtroom is sparse in furnishings, but 'sparse' emphasizes minimal presence, not stern coldness." },
+        { "distractor": "minimal", "closeness": 2, "reasoning": "The courtroom has minimal decoration, but 'minimal' describes quantity, not the stern, cold quality." },
+        { "distractor": "empty", "closeness": 2, "reasoning": "The walls are empty, but this describes absence of items, not stern coldness." },
+        { "distractor": "cold", "closeness": 2, "reasoning": "The courtroom feels cold in tone, but 'cold' is too general, not capturing austere's deliberate severity." },
+        { "distractor": "formal", "closeness": 2, "reasoning": "The design is formal and serious, but 'formal' emphasizes protocol, not stern coldness." },
+        { "distractor": "luxurious", "closeness": 1, "reasoning": "The opposite quality; an austere courtroom lacks ornamentation, whereas luxurious would be filled with comforts." },
+        { "distractor": "welcoming", "closeness": 1, "reasoning": "The opposite effect; austere coldness discourages comfort, whereas welcoming encourages ease." },
+        { "distractor": "ornate", "closeness": 1, "reasoning": "The opposite appearance; an austere courtroom has bare walls, not ornate decoration." }
+      ]
+    },
+    {
+      "sentence": "His austere manner and clipped speech made subordinates uncomfortable and cautious in his presence.",
+      "answerChoices": [
+        { "distractor": "stern", "closeness": 3, "reasoning": "His manner is stern and strict, but 'stern' emphasizes severity of demeanor, not the cold, rigorous quality of austere." },
+        { "distractor": "cold", "closeness": 3, "reasoning": "His manner is cold and detached, but 'cold' emphasizes emotional distance, not austere's rigorous, severe quality." },
+        { "distractor": "distant", "closeness": 3, "reasoning": "He maintains distance from subordinates, but 'distant' describes emotional separation, not stern coldness." },
+        { "distractor": "aloof", "closeness": 3, "reasoning": "He is aloof and detached, but 'aloof' emphasizes emotional separation, not austere's stern coldness." },
+        { "distractor": "severe", "closeness": 2, "reasoning": "His manner is severe, but 'severe' emphasizes harshness, not the rigorous dignity of austere." },
+        { "distractor": "strict", "closeness": 2, "reasoning": "His manner is strict and rigid, but 'strict' emphasizes rule-following, not stern coldness." },
+        { "distractor": "reserved", "closeness": 2, "reasoning": "He is reserved in behavior, but 'reserved' emphasizes emotional restraint, not stern coldness." },
+        { "distractor": "unfriendly", "closeness": 2, "reasoning": "He is unfriendly to subordinates, but 'unfriendly' describes social attitude, not austere's stern quality." },
+        { "distractor": "warm", "closeness": 1, "reasoning": "The opposite quality; austere coldness makes people uncomfortable, whereas warmth would make them feel at ease." },
+        { "distractor": "jovial", "closeness": 1, "reasoning": "The opposite demeanor; austere sternness contrasts with jovial friendliness." },
+        { "distractor": "relaxed", "closeness": 1, "reasoning": "The opposite manner; his austere bearing causes caution, not the comfort of a relaxed presence." }
+      ]
+    },
+    {
+      "sentence": "The austere lifestyle of the monastery—with vows of poverty and simple diet—reflected the monks' commitment to spiritual discipline.",
+      "answerChoices": [
+        { "distractor": "ascetic", "closeness": 3, "reasoning": "The lifestyle is ascetic with renunciation of comforts, closely related to 'austere,' but 'ascetic' emphasizes spiritual denial, while 'austere' emphasizes stern simplicity." },
+        { "distractor": "spartan", "closeness": 3, "reasoning": "The lifestyle is spartan in its simplicity and hardship, but 'spartan' emphasizes military austerity, not stern coldness." },
+        { "distractor": "frugal", "closeness": 3, "reasoning": "The lifestyle is frugal with resources, but 'frugal' emphasizes economical use, not stern rigorous severity." },
+        { "distractor": "humble", "closeness": 3, "reasoning": "The lifestyle is humble and modest, but 'humble' emphasizes modesty, not stern coldness or rigorous discipline." },
+        { "distractor": "simple", "closeness": 2, "reasoning": "The lifestyle is simple without luxuries, but 'simple' emphasizes plainness, not stern severity." },
+        { "distractor": "plain", "closeness": 2, "reasoning": "The diet is plain and unadorned, but 'plain' describes absence of ornament, not stern discipline." },
+        { "distractor": "rigorous", "closeness": 2, "reasoning": "The discipline is rigorous, but 'rigorous' emphasizes strictness, not austere's stern coldness." },
+        { "distractor": "strict", "closeness": 2, "reasoning": "The discipline is strict and demanding, but 'strict' emphasizes rule-following, not austere's stern quality." },
+        { "distractor": "luxurious", "closeness": 1, "reasoning": "The opposite lifestyle; austere simplicity rejects comfort, whereas luxurious pursues it." },
+        { "distractor": "indulgent", "closeness": 1, "reasoning": "The opposite approach; austere vows of poverty reject indulgence and sensual pleasure." },
+        { "distractor": "comfortable", "closeness": 1, "reasoning": "The opposite quality; austere lifestyle deliberately renounces comfort and ease." }
+      ]
+    }
+  ]
+}

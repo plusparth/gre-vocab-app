@@ -1,0 +1,53 @@
+{
+  "word": "stasis",
+  "sentenceSets": [
+    {
+      "sentence": "A period of organizational stasis followed the merger, as structures were renegotiated and responsibilities reallocated.",
+      "answerChoices": [
+        { "distractor": "paralysis", "closeness": 3, "reasoning": "Paralysis emphasizes inability to move or function, whereas stasis describes an unchanged state where systems remain suspended but not necessarily frozen." },
+        { "distractor": "dormancy", "closeness": 3, "reasoning": "Dormancy implies something temporarily inactive but ready to resume, whereas stasis reflects a state of equilibrium where things have settled into stasis without expectation of immediate change." },
+        { "distractor": "equilibrium", "closeness": 3, "reasoning": "Equilibrium describes balance between opposing forces, whereas stasis in this context refers to a period of non-movement during transition, not necessarily a balanced state." },
+        { "distractor": "impasse", "closeness": 3, "reasoning": "Impasse suggests a complete deadlock preventing progress, whereas stasis here describes an interim state of structural uncertainty following a merger." },
+        { "distractor": "suspension", "closeness": 2, "reasoning": "Suspension can mean temporary interruption, whereas stasis in organizational contexts implies a more prolonged state of holding patterns during restructuring." },
+        { "distractor": "pause", "closeness": 2, "reasoning": "Pause typically refers to a brief interruption, whereas the sentence suggests a more substantial period of organizational inactivity." },
+        { "distractor": "moratorium", "closeness": 2, "reasoning": "Moratorium implies an officially imposed halt, whereas the stasis described follows from the process of merger and renegotiation rather than formal prohibition." },
+        { "distractor": "stagnation", "closeness": 2, "reasoning": "Stagnation carries a negative connotation of decay or lack of growth, whereas stasis in this merger context describes a necessary transitional holding state." },
+        { "distractor": "momentum", "closeness": 1, "reasoning": "Momentum describes forward movement or energy, which directly contradicts the stillness implied by stasis." },
+        { "distractor": "acceleration", "closeness": 1, "reasoning": "Acceleration refers to increased rate of change or speed, the opposite of the static quality that stasis represents." },
+        { "distractor": "fluidity", "closeness": 1, "reasoning": "Fluidity describes smooth continuous movement, which is contrary to the stopped or slowed flow that stasis conveys." }
+      ]
+    },
+    {
+      "sentence": "The patient's blood had fallen into a dangerous stasis within the lower extremities, increasing the risk of clot formation.",
+      "answerChoices": [
+        { "distractor": "stagnation", "closeness": 3, "reasoning": "Stagnation describes sluggish, murky water or slow decay, but in medical contexts stasis more precisely refers to a slowed or halted flow rather than general deterioration." },
+        { "distractor": "pooling", "closeness": 3, "reasoning": "Pooling suggests fluid gathering in one location, whereas stasis describes the slowing or cessation of normal circulation without necessarily implying accumulation." },
+        { "distractor": "blockage", "closeness": 3, "reasoning": "Blockage implies complete obstruction, whereas stasis can describe incomplete or partial slowing of fluid movement that still permits some circulation." },
+        { "distractor": "congestion", "closeness": 3, "reasoning": "Congestion emphasizes excessive accumulation or crowding, whereas stasis focuses on the slowed or stopped flow itself." },
+        { "distractor": "atrophy", "closeness": 2, "reasoning": "Atrophy describes tissue wasting or muscle degeneration, whereas stasis refers specifically to disrupted fluid flow that can lead to complications." },
+        { "distractor": "occlusion", "closeness": 2, "reasoning": "Occlusion refers to blockage or closure, which is more extreme than stasis, which may be incomplete slowing rather than total obstruction." },
+        { "distractor": "embolism", "closeness": 2, "reasoning": "Embolism describes a blood clot traveling through vessels, whereas stasis is the condition of slowed flow that increases clot formation risk." },
+        { "distractor": "thrombosis", "closeness": 2, "reasoning": "Thrombosis is clot formation itself, whereas stasis is the slowed or stopped flow that creates conditions favoring clot development." },
+        { "distractor": "circulation", "closeness": 1, "reasoning": "Circulation describes the normal movement of blood through vessels, the opposite of the stopped or slowed condition that stasis represents." },
+        { "distractor": "flow", "closeness": 1, "reasoning": "Flow indicates smooth movement or continuous passage, which directly contradicts the concept of stasis as halted movement." },
+        { "distractor": "perfusion", "closeness": 1, "reasoning": "Perfusion refers to the passage of blood through tissue, the opposite state from stasis which indicates reduced or halted blood movement." }
+      ]
+    },
+    {
+      "sentence": "The scientific consensus about the origin of the universe had remained in stasis for decades until new telescope observations forced a reconsideration.",
+      "answerChoices": [
+        { "distractor": "limbo", "closeness": 3, "reasoning": "Limbo implies uncertainty or a state in between definite positions, whereas stasis describes a fixed settled state that remains unchanged rather than suspended between two points." },
+        { "distractor": "suspension", "closeness": 3, "reasoning": "Suspension suggests holding something temporarily unresolved, whereas stasis indicates a stable settled state where belief has solidified for an extended time." },
+        { "distractor": "standstill", "closeness": 3, "reasoning": "Standstill emphasizes complete lack of progress, whereas stasis describes the maintenance of a particular established position over time." },
+        { "distractor": "deadlock", "closeness": 3, "reasoning": "Deadlock implies two opposing forces preventing movement, whereas stasis describes a unified consensus that had remained unchanged." },
+        { "distractor": "hiatus", "closeness": 2, "reasoning": "Hiatus refers to a temporary gap or break in continuity, whereas stasis in scientific consensus suggests a prolonged steady state rather than an interruption." },
+        { "distractor": "interregnum", "closeness": 2, "reasoning": "Interregnum implies a transitional period between established regimes, whereas stasis indicates an extended period of unchanged belief." },
+        { "distractor": "cessation", "closeness": 2, "reasoning": "Cessation describes the complete stopping of an activity, whereas stasis refers to unchanging persistence of a theoretical position." },
+        { "distractor": "dormancy", "closeness": 2, "reasoning": "Dormancy suggests something temporarily inactive awaiting reactivation, whereas stasis implies a state that seemed permanent until external evidence disrupted it." },
+        { "distractor": "revolution", "closeness": 1, "reasoning": "Revolution describes rapid fundamental change, which is the opposite of the static unchanging condition that stasis represents." },
+        { "distractor": "progress", "closeness": 1, "reasoning": "Progress indicates advancement or forward movement, which contradicts the notion of remaining fixed in stasis." },
+        { "distractor": "evolution", "closeness": 1, "reasoning": "Evolution describes gradual change over time, whereas stasis indicates an absence of change despite the passage of time." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "unalloyed",
+  "sentenceSets": [
+    {
+      "sentence": "The praise was unalloyed, which made it either unusually generous or evidence that the reviewer had not read carefully enough.",
+      "answerChoices": [
+        { "distractor": "excessive", "closeness": 3, "reasoning": "Excessive (more than necessary) involves surplus but does not capture the specific sense of purity without mixture." },
+        { "distractor": "unqualified", "closeness": 3, "reasoning": "Unqualified (not modified by conditions) is very similar but emphasizes lack of limitation rather than absence of admixture." },
+        { "distractor": "unreserved", "closeness": 3, "reasoning": "Unreserved (complete and ungrudging) is close but emphasizes wholehearted commitment rather than purity from mixture." },
+        { "distractor": "categorical", "closeness": 3, "reasoning": "Categorical (absolute and unambiguous) overlaps but emphasizes definitiveness rather than purity from admixture." },
+        { "distractor": "unstinting", "closeness": 2, "reasoning": "Unstinting (not limited or grudging) involves generosity but does not capture purity from mixture." },
+        { "distractor": "lavish", "closeness": 2, "reasoning": "Lavish (luxuriously abundant) involves excess but not the sense of purity." },
+        { "distractor": "effusive", "closeness": 2, "reasoning": "Effusive (expressing emotion with unrestrained enthusiasm) involves emotional overflow but not purity from admixture." },
+        { "distractor": "qualified", "closeness": 1, "reasoning": "Qualified (modified by conditions or limitations) is the opposite of unalloyed purity." },
+        { "distractor": "mixed", "closeness": 1, "reasoning": "Mixed (containing or composed of different elements) directly opposes unalloyed purity." },
+        { "distractor": "ambivalent", "closeness": 1, "reasoning": "Ambivalent (having conflicting feelings) is the opposite of pure, unmixed praise." },
+        { "distractor": "conditional", "closeness": 1, "reasoning": "Conditional (subject to conditions or limitations) opposes the unmixed quality of unalloyed praise." }
+      ]
+    },
+    {
+      "sentence": "The joy of winning the lottery was not unalloyed; the windfall forced difficult decisions about family expectations and personal integrity.",
+      "answerChoices": [
+        { "distractor": "pure", "closeness": 3, "reasoning": "Pure (not mixed with anything else) is very close but is more general and does not specifically capture the sense of unmixed quality." },
+        { "distractor": "unadulterated", "closeness": 3, "reasoning": "Unadulterated (not mixed with other substances) is nearly identical but emphasizes absence of contamination." },
+        { "distractor": "absolute", "closeness": 3, "reasoning": "Absolute (not limited or qualified) overlaps but emphasizes completeness rather than absence of admixture." },
+        { "distractor": "simple", "closeness": 3, "reasoning": "Simple (uncomplicated or consisting of one element) is similar but does not capture the specific meaning of unmixed." },
+        { "distractor": "unburdened", "closeness": 2, "reasoning": "Unburdened (free from load or weight) involves freedom but not the sense of purity from admixture." },
+        { "distractor": "untroubled", "closeness": 2, "reasoning": "Untroubled (free from worry) describes emotional state but not purity from admixture." },
+        { "distractor": "untainted", "closeness": 2, "reasoning": "Untainted (not contaminated or corrupted) is similar but emphasizes absence of corruption rather than purity from mixture." },
+        { "distractor": "mixed", "closeness": 1, "reasoning": "Mixed (containing multiple elements) directly opposes unalloyed purity." },
+        { "distractor": "complicated", "closeness": 1, "reasoning": "Complicated (complex and difficult) is the opposite of pure, unmixed emotion." },
+        { "distractor": "adulterated", "closeness": 1, "reasoning": "Adulterated (contaminated or corrupted) is the opposite of unalloyed purity." },
+        { "distractor": "qualified", "closeness": 1, "reasoning": "Qualified (limited or modified by conditions) opposes the unmixed nature." }
+      ]
+    },
+    {
+      "sentence": "The champion's success was unalloyed only in the moment of victory; reflection later brought doubts about whether the victory had been earned fairly.",
+      "answerChoices": [
+        { "distractor": "unmixed", "closeness": 3, "reasoning": "Unmixed (not combined with something else) is very similar but is less commonly used as a single word descriptor." },
+        { "distractor": "uncomplicated", "closeness": 3, "reasoning": "Uncomplicated (simple and straightforward) overlaps but emphasizes simplicity rather than purity from admixture." },
+        { "distractor": "undiluted", "closeness": 3, "reasoning": "Undiluted (not reduced in strength or concentration) is very close but emphasizes intensity rather than purity." },
+        { "distractor": "unadulterated", "closeness": 3, "reasoning": "Unadulterated (not mixed with other substances) is nearly identical but emphasizes contamination rather than neutral admixture." },
+        { "distractor": "absolute", "closeness": 2, "reasoning": "Absolute (complete and total) involves completeness but not the specific sense of purity." },
+        { "distractor": "definitive", "closeness": 2, "reasoning": "Definitive (final and authoritative) describes finality but not purity from mixture." },
+        { "distractor": "unconditional", "closeness": 2, "reasoning": "Unconditional (not subject to conditions) shares lack of qualification but not the purity meaning." },
+        { "distractor": "tainted", "closeness": 1, "reasoning": "Tainted (contaminated or corrupted) directly opposes purity." },
+        { "distractor": "mixed", "closeness": 1, "reasoning": "Mixed (containing multiple elements) is the opposite of unalloyed purity." },
+        { "distractor": "adulterated", "closeness": 1, "reasoning": "Adulterated (corrupted with foreign elements) opposes the unmixed quality." },
+        { "distractor": "complicated", "closeness": 1, "reasoning": "Complicated (complex with many factors) is opposite to pure, unmixed emotion." }
+      ]
+    }
+  ]
+}

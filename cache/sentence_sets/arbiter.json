@@ -4,49 +4,181 @@
     {
       "sentence": "She had long served as the arbiter of taste in the small literary community.",
       "answerChoices": [
-        { "distractor": "critic", "closeness": 3, "reasoning": "Someone who shapes taste in a literary community could be called a critic, but 'critic' implies a person who writes reviews and evaluates individual works, whereas the sentence describes someone who holds the general power to decide what is considered good taste — a broader, more authoritative role." },
-        { "distractor": "judge", "closeness": 3, "reasoning": "'Judge' captures the decision-making power the sentence implies, and 'judge of taste' is a plausible phrase, but it carries a connotation of formal adjudication rather than the longstanding, community-recognized cultural authority the sentence describes." },
-        { "distractor": "guardian", "closeness": 3, "reasoning": "Someone who presides over a literary community's standards might be called a 'guardian of taste,' but 'guardian' emphasizes protection and preservation rather than the power to settle and decide what counts as good taste." },
-        { "distractor": "champion", "closeness": 3, "reasoning": "'Champion of taste' suggests advocacy on behalf of certain standards rather than the neutral, decisive authority the sentence attributes to her position." },
-        { "distractor": "patron", "closeness": 2, "reasoning": "A powerful figure in a literary community might be a patron who funds writers, but 'patron' describes financial support rather than the role of deciding and setting standards of taste." },
-        { "distractor": "mentor", "closeness": 2, "reasoning": "A long-serving influential figure could be a mentor, but 'mentor' implies guidance and teaching of individuals rather than holding communal authority over matters of taste." },
-        { "distractor": "spokesperson", "closeness": 2, "reasoning": "'Spokesperson' implies representing and communicating others' views, whereas the sentence indicates she exercised independent authority over what the community considered good taste." },
-        { "distractor": "founder", "closeness": 2, "reasoning": "A foundational figure in a literary community might be called its founder, but 'founder of taste' is not a natural phrase and the sentence focuses on an ongoing authoritative role rather than an originating act." },
-        { "distractor": "opponent", "closeness": 1, "reasoning": "'Opponent' implies adversarial opposition to the community's standards rather than the authority to shape them, the opposite of what the sentence establishes." },
-        { "distractor": "newcomer", "closeness": 1, "reasoning": "The sentence says she 'had long served' in this role, making 'newcomer' directly contradictory." },
-        { "distractor": "scapegoat", "closeness": 1, "reasoning": "'Scapegoat' means someone blamed for others' problems; it has no connection to holding cultural authority in a community." }
+        {
+          "distractor": "critic",
+          "closeness": 3,
+          "reasoning": "Both evaluate and judge, but a critic expresses opinions about quality, while an arbiter has authority to decide matters."
+        },
+        {
+          "distractor": "expert",
+          "closeness": 3,
+          "reasoning": "Both possess authoritative knowledge, but an expert has knowledge, while an arbiter has power to decide disputes."
+        },
+        {
+          "distractor": "authority",
+          "closeness": 3,
+          "reasoning": "Both have power and status, but an authority commands obedience, while an arbiter decides disputes."
+        },
+        {
+          "distractor": "authority figure",
+          "closeness": 3,
+          "reasoning": "Both have influence, but an authority figure commands obedience, while an arbiter decides disputes fairly."
+        },
+        {
+          "distractor": "connoisseur",
+          "closeness": 2,
+          "reasoning": "A connoisseur has refined taste and knowledge, but an arbiter has the power to judge and decide."
+        },
+        {
+          "distractor": "tastemaker",
+          "closeness": 2,
+          "reasoning": "A tastemaker influences trends, but an arbiter officially judges and decides disputes."
+        },
+        {
+          "distractor": "leader",
+          "closeness": 2,
+          "reasoning": "A leader guides people, but an arbiter specifically judges disputes and decides matters."
+        },
+        {
+          "distractor": "mentor",
+          "closeness": 2,
+          "reasoning": "A mentor advises and guides, but an arbiter judges disputes and decides matters."
+        },
+        {
+          "distractor": "follower",
+          "closeness": 1,
+          "reasoning": "A follower accepts others' guidance; she served as arbiter, deciding matters of taste."
+        },
+        {
+          "distractor": "newcomer",
+          "closeness": 1,
+          "reasoning": "A newcomer is inexperienced and without authority; she had long served as arbiter."
+        },
+        {
+          "distractor": "participant",
+          "closeness": 1,
+          "reasoning": "A participant engages equally; an arbiter has authority to judge and decide."
+        }
       ]
     },
     {
-      "sentence": "When the two departments could not agree on budget priorities, the CFO was called in as arbiter.",
+      "sentence": "When the dispute arose between the homeowners and the contractor, both sides agreed to submit to the arbiter's decision, which would be binding.",
       "answerChoices": [
-        { "distractor": "mediator", "closeness": 3, "reasoning": "Both an arbiter and a mediator are brought in to resolve disputes between parties, but a mediator facilitates negotiation and helps the parties reach their own agreement, whereas an arbiter is empowered to make a binding decision, which is what the CFO's role implies here." },
-        { "distractor": "negotiator", "closeness": 3, "reasoning": "The CFO's involvement in a budget dispute could be cast as negotiation, but 'negotiator' implies working toward a compromise between parties rather than being called in to exercise decision-making authority over them." },
-        { "distractor": "supervisor", "closeness": 3, "reasoning": "A CFO outranks the disagreeing departments, making 'supervisor' plausible, but 'supervisor' describes an ongoing hierarchical relationship, not the specific role of being called in to resolve a dispute and deliver a decision." },
-        { "distractor": "consultant", "closeness": 3, "reasoning": "'Consultant' implies someone brought in to offer expert advice that parties may or may not follow; the sentence implies the CFO was brought in with authority to settle the disagreement, not merely to advise." },
-        { "distractor": "observer", "closeness": 2, "reasoning": "An observer watches without participating in decisions; the sentence describes the CFO being brought in specifically to resolve the disagreement, not to watch it." },
-        { "distractor": "auditor", "closeness": 2, "reasoning": "A CFO might call in an auditor to review financial records, but the sentence identifies a dispute-resolution role, not a financial examination role." },
-        { "distractor": "liaison", "closeness": 2, "reasoning": "A liaison facilitates communication between groups, but the sentence describes an authority figure called in to decide a dispute that the departments themselves could not resolve." },
-        { "distractor": "advocate", "closeness": 2, "reasoning": "An advocate argues on behalf of a particular position or party, whereas the sentence places the CFO in a neutral decision-making role above the disagreeing departments." },
-        { "distractor": "subordinate", "closeness": 1, "reasoning": "'Subordinate' implies a lower-ranking person, whereas the sentence establishes the CFO as having authority over the two disagreeing departments." },
-        { "distractor": "instigator", "closeness": 1, "reasoning": "'Instigator' implies someone who provokes a dispute, the opposite of someone called in to resolve one." },
-        { "distractor": "bystander", "closeness": 1, "reasoning": "'Bystander' means someone present but uninvolved, directly contradicting the CFO's active, authoritative role in the sentence." }
+        {
+          "distractor": "mediator",
+          "closeness": 3,
+          "reasoning": "Both help resolve disputes, but a mediator facilitates agreement, while an arbiter decides and renders judgment."
+        },
+        {
+          "distractor": "negotiator",
+          "closeness": 3,
+          "reasoning": "Both help parties reach settlement, but a negotiator brings parties to agreement, while an arbiter decides."
+        },
+        {
+          "distractor": "referee",
+          "closeness": 3,
+          "reasoning": "Both enforce rules and decide disputes, but a referee's role is primarily in sports, while an arbiter's is broader."
+        },
+        {
+          "distractor": "judge",
+          "closeness": 3,
+          "reasoning": "Both render binding decisions, but a judge works within courts while an arbiter works outside formal legal systems."
+        },
+        {
+          "distractor": "facilitator",
+          "closeness": 2,
+          "reasoning": "A facilitator helps discussion, but an arbiter renders binding judgment."
+        },
+        {
+          "distractor": "counselor",
+          "closeness": 2,
+          "reasoning": "A counselor advises, but an arbiter renders binding judgment."
+        },
+        {
+          "distractor": "peacemaker",
+          "closeness": 2,
+          "reasoning": "A peacemaker reconciles disputes, but an arbiter renders judgment, which may not please both sides."
+        },
+        {
+          "distractor": "observer",
+          "closeness": 2,
+          "reasoning": "An observer watches impartially, but an arbiter actively decides disputes."
+        },
+        {
+          "distractor": "defendant",
+          "closeness": 1,
+          "reasoning": "A defendant is accused; the arbiter judges the dispute and renders binding decision."
+        },
+        {
+          "distractor": "advocate",
+          "closeness": 1,
+          "reasoning": "An advocate argues for one side; an arbiter judges both sides impartially."
+        },
+        {
+          "distractor": "plaintiff",
+          "closeness": 1,
+          "reasoning": "A plaintiff brings the dispute; an arbiter judges and decides the dispute."
+        }
       ]
     },
     {
-      "sentence": "Fashion houses compete fiercely for the approval of a handful of editors who serve as arbiters of what will be considered elegant each season.",
+      "sentence": "As the arbiter of disputes in the family business, she had to render judgments that preserved relationships while enforcing fairness.",
       "answerChoices": [
-        { "distractor": "tastemakers", "closeness": 3, "reasoning": "'Tastemakers' is a contemporary synonym for those who shape aesthetic preferences, and the sentence is about just that, but 'tastemakers' lacks the connotation of adjudicatory authority — of deciding between competing claims — that 'arbiters' carries, and fashion houses are described as competing for approval, implying the editors hold decision power, not just influence." },
-        { "distractor": "gatekeepers", "closeness": 3, "reasoning": "'Gatekeepers' captures the editors' power to control what passes into the category of 'elegant,' and the competitive approval-seeking by fashion houses supports this, but 'gatekeepers' emphasizes control of access rather than the judging and deciding role 'arbiters' conveys." },
-        { "distractor": "influencers", "closeness": 3, "reasoning": "'Influencers' is plausible since editors shape public perception, but it implies shaping opinion through example and persuasion rather than exercising the kind of authoritative decision-making power that fashion houses 'compete fiercely' to receive recognition from." },
-        { "distractor": "curators", "closeness": 3, "reasoning": "'Curators' fits the editorial role of selecting and organizing what counts as significant, but curation implies selection from a body of existing material rather than the active adjudication of competing claims for the label of 'elegant.'" },
-        { "distractor": "consumers", "closeness": 2, "reasoning": "Fashion houses care about consumer response, but 'consumers' as 'arbiters of elegance' would mean the buying public decides what is elegant — a different dynamic entirely from the small group of editors the sentence describes." },
-        { "distractor": "advertisers", "closeness": 2, "reasoning": "Fashion media involves advertising relationships, but advertisers buy space and do not serve as judges of what counts as elegant in a given season." },
-        { "distractor": "designers", "closeness": 2, "reasoning": "The sentence says fashion houses compete for the editors' approval, implying the editors are distinct from the designers; making designers the 'arbiters' would collapse that distinction." },
-        { "distractor": "celebrities", "closeness": 2, "reasoning": "Celebrities wearing fashion can influence trends, but the sentence specifies a handful of editors in a formal evaluative role — a different social position from celebrity endorsement." },
-        { "distractor": "opponents", "closeness": 1, "reasoning": "'Opponents' implies adversarial rivalry, whereas the editors are described as a shared reference point that fashion houses seek to satisfy." },
-        { "distractor": "manufacturers", "closeness": 1, "reasoning": "'Manufacturers' refers to production, not the evaluative authority the sentence describes; fashion houses are already the manufacturers competing for approval." },
-        { "distractor": "apprentices", "closeness": 1, "reasoning": "'Apprentices' suggests beginners learning under a master, the opposite of the seasoned authority the sentence attributes to these editors." }
+        {
+          "distractor": "spokesperson",
+          "closeness": 3,
+          "reasoning": "Both represent authority, but a spokesperson communicates positions, while an arbiter decides disputes."
+        },
+        {
+          "distractor": "administrator",
+          "closeness": 3,
+          "reasoning": "Both manage operations, but an administrator oversees functions, while an arbiter judges disputes."
+        },
+        {
+          "distractor": "manager",
+          "closeness": 3,
+          "reasoning": "Both oversee and make decisions, but a manager directs operations, while an arbiter judges disputes."
+        },
+        {
+          "distractor": "keeper of peace",
+          "closeness": 3,
+          "reasoning": "Both maintain harmony, but a peace keeper reconciles, while an arbiter judges disputes."
+        },
+        {
+          "distractor": "director",
+          "closeness": 2,
+          "reasoning": "A director oversees operations, but an arbiter specifically judges disputes."
+        },
+        {
+          "distractor": "overseer",
+          "closeness": 2,
+          "reasoning": "An overseer supervises, but an arbiter specifically judges disputes."
+        },
+        {
+          "distractor": "guardian",
+          "closeness": 2,
+          "reasoning": "A guardian protects, but an arbiter judges disputes rendering binding decisions."
+        },
+        {
+          "distractor": "custodian",
+          "closeness": 2,
+          "reasoning": "A custodian preserves and maintains, but an arbiter judges disputes."
+        },
+        {
+          "distractor": "participant",
+          "closeness": 1,
+          "reasoning": "A participant engages equally in disputes; an arbiter judges from authority."
+        },
+        {
+          "distractor": "bystander",
+          "closeness": 1,
+          "reasoning": "A bystander remains uninvolved; she actively rendered judgments as arbiter."
+        },
+        {
+          "distractor": "combatant",
+          "closeness": 1,
+          "reasoning": "A combatant takes sides in disputes; an arbiter judges impartially."
+        }
       ]
     }
   ]

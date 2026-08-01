@@ -1,0 +1,53 @@
+{
+  "word": "plod",
+  "sentenceSets": [
+    {
+      "sentence": "He plodded through the administrative requirements, doing what was necessary without the engagement that would have made it useful.",
+      "answerChoices": [
+        { "distractor": "trudge", "closeness": 3, "reasoning": "Close -- trudge means to walk slowly with heavy steps, which conveys labored movement like plodding; but the sentence is metaphorical about administrative work, and trudge emphasizes physical exhaustion more than the mental disengagement the sentence identifies." },
+        { "distractor": "slog", "closeness": 3, "reasoning": "Close -- slog means to work hard and steadily through difficulty, fitting his passage through requirements, but 'slog' emphasizes the physical effort; the sentence focuses on emotional or intellectual disengagement." },
+        { "distractor": "grind", "closeness": 3, "reasoning": "Close -- grind means to work monotonously and laboriously, which fits the administrative drudgery, but 'grind' emphasizes the repetitive nature; the sentence's concern is his lack of constructive engagement." },
+        { "distractor": "toil", "closeness": 3, "reasoning": "Close -- toil means to work hard and exhaustingly, fitting his passage through requirements, but it emphasizes the hardship and effort; the sentence criticizes his lack of meaningful contribution, not his physical effort." },
+        { "distractor": "labor", "closeness": 2, "reasoning": "Incorrect -- labor means to work hard, but it is a general term without the connotation of monotonous or disengaged effort that the sentence implies." },
+        { "distractor": "rush", "closeness": 2, "reasoning": "Incorrect -- rush means to move or work quickly; the sentence describes someone moving through requirements without engagement, not necessarily rushing through them." },
+        { "distractor": "navigate", "closeness": 2, "reasoning": "Incorrect -- navigate means to find one's way or manage successfully; the sentence describes passive endurance of requirements, not active navigation of a path." },
+        { "distractor": "fumble", "closeness": 2, "reasoning": "Incorrect -- fumble means to handle clumsily or awkwardly; the sentence describes someone doing what was necessary, not handling things fumblingly." },
+        { "distractor": "race", "closeness": 1, "reasoning": "Opposite -- race means to move at high speed; the sentence describes slow, laborious progress through administrative tasks, the opposite of racing." },
+        { "distractor": "excel", "closeness": 1, "reasoning": "Opposite -- excel means to perform outstandingly; the sentence describes doing only what was necessary without meaningful engagement, the opposite of excellence." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Incorrect -- ignore means to pay no attention to; the sentence states he 'did what was necessary,' meaning he did not ignore the requirements." }
+      ]
+    },
+    {
+      "sentence": "The research assistant plodded through the database, documenting each entry methodically but without noticing the pattern that would have revealed the source of the error.",
+      "answerChoices": [
+        { "distractor": "trawl", "closeness": 3, "reasoning": "Close -- trawl means to search methodically through a large quantity of material, fitting the systematic documentation, but it emphasizes breadth of search; the sentence focuses on the monotonous pace preventing insight." },
+        { "distractor": "wade", "closeness": 3, "reasoning": "Close -- wade means to move slowly through something, fitting the passage through the database, but it is more physical; the sentence emphasizes the mental narrowness of focusing on each entry without seeing the larger pattern." },
+        { "distractor": "sift", "closeness": 3, "reasoning": "Close -- sift means to examine carefully and systematically, which fits documented entries, but it implies selection and analysis; the sentence describes someone missing the analytical insight." },
+        { "distractor": "comb", "closeness": 3, "reasoning": "Close -- comb means to search thoroughly, fitting the systematic work, but it often implies purposeful searching for something specific; the sentence describes unfocused entry-by-entry processing." },
+        { "distractor": "process", "closeness": 2, "reasoning": "Incorrect -- process means to handle or deal with according to a procedure; while it fits the work, it lacks the connotation of laborious monotony that makes insight difficult." },
+        { "distractor": "scan", "closeness": 2, "reasoning": "Incorrect -- scan means to look quickly or superficially; the sentence emphasizes methodical documentation, not quick scanning." },
+        { "distractor": "shuffle", "closeness": 2, "reasoning": "Incorrect -- shuffle means to mix or move items around; the sentence describes organized documentation, not shuffling or mixing." },
+        { "distractor": "skim", "closeness": 2, "reasoning": "Incorrect -- skim means to read superficially; the sentence specifies he was 'methodical,' not skimming." },
+        { "distractor": "accelerate", "closeness": 1, "reasoning": "Opposite -- accelerate means to increase speed; the sentence describes slow, laborious progress, the opposite of acceleration." },
+        { "distractor": "synthesize", "closeness": 1, "reasoning": "Opposite -- synthesize means to combine elements into a coherent whole; the sentence describes someone missing the pattern, unable to synthesize." },
+        { "distractor": "intuit", "closeness": 1, "reasoning": "Opposite -- intuit means to understand by intuition or insight; the sentence emphasizes his failure to perceive the pattern, the opposite of intuition." }
+      ]
+    },
+    {
+      "sentence": "Despite the coach's encouragement to attack aggressively, the team plodded through the second half, moving the ball methodically but unable to generate momentum.",
+      "answerChoices": [
+        { "distractor": "grind", "closeness": 3, "reasoning": "Close -- grind means to work monotonously, fitting the methodical ball movement, but it emphasizes repetitive drudgery; the sentence highlights the loss of momentum and competitive edge despite encouragement to attack." },
+        { "distractor": "slog", "closeness": 3, "reasoning": "Close -- slog means to work hard steadily through difficulty, fitting methodical progress, but it emphasizes effort against resistance; the sentence's concern is the loss of aggressive initiative." },
+        { "distractor": "labor", "closeness": 3, "reasoning": "Close -- labor means to work hard, which fits methodical effort, but the specific point in the sentence is the contrast between encouraged aggression and actual disengaged motion." },
+        { "distractor": "proceed", "closeness": 3, "reasoning": "Close -- proceed means to move forward, fitting the ball movement, but it is neutral about pace or engagement; the sentence emphasizes the problematic slowness and lack of momentum." },
+        { "distractor": "advance", "closeness": 2, "reasoning": "Incorrect -- advance means to move forward or make progress; while the team is moving the ball, the sentence criticizes their lack of momentum and competitive edge, not their positional progress." },
+        { "distractor": "navigate", "closeness": 2, "reasoning": "Incorrect -- navigate means to find one's way; the team is not finding their way but moving formulaically without competitive intensity." },
+        { "distractor": "drift", "closeness": 2, "reasoning": "Incorrect -- drift means to move aimlessly; the sentence specifies 'methodically,' suggesting purposeful if uninspired movement, not aimless drifting." },
+        { "distractor": "stall", "closeness": 2, "reasoning": "Incorrect -- stall means to stop making progress; the sentence indicates they are moving the ball and proceeding, not stalled." },
+        { "distractor": "surge", "closeness": 1, "reasoning": "Opposite -- surge means to move with a sudden powerful rush; the sentence describes slow methodical movement lacking momentum, the opposite of a surge." },
+        { "distractor": "sprint", "closeness": 1, "reasoning": "Opposite -- sprint means to run at full speed; the sentence describes methodical slow movement, the opposite of sprinting." },
+        { "distractor": "accelerate", "closeness": 1, "reasoning": "Opposite -- accelerate means to increase speed; the sentence describes movement that generates no momentum, the opposite of acceleration." }
+      ]
+    }
+  ]
+}

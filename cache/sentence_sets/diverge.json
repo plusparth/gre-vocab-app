@@ -1,0 +1,53 @@
+{
+  "word": "diverge",
+  "sentenceSets": [
+    {
+      "sentence": "Their approaches began to diverge once they disagreed about the fundamental goal of the project.",
+      "answerChoices": [
+        { "distractor": "branch", "closeness": 3, "reasoning": "Branching suggests division into separate parts, but doesn't capture the specifically intellectual separation created by disagreement about goals." },
+        { "distractor": "separate", "closeness": 3, "reasoning": "Separate conveys moving apart, but is less specific about the independent direction each approach takes." },
+        { "distractor": "part", "closeness": 3, "reasoning": "Parting implies going separate ways, but doesn't emphasize the continuing independent development of each approach." },
+        { "distractor": "split", "closeness": 3, "reasoning": "Splitting indicates division into parts, but doesn't necessarily convey the sense of moving in different directions over time." },
+        { "distractor": "deviate", "closeness": 2, "reasoning": "Deviating suggests departing from a standard, but doesn't capture the mutual separation of two approaches from each other." },
+        { "distractor": "differ", "closeness": 2, "reasoning": "Differ means to be unlike, but emphasizes existing differences rather than the process of approaches moving in different directions." },
+        { "distractor": "clash", "closeness": 2, "reasoning": "Clashing suggests active conflict, but doesn't capture the neutral sense of simply moving in different directions." },
+        { "distractor": "vary", "closeness": 2, "reasoning": "Varying means to change or differ, but doesn't specifically convey the directional separation between two distinct approaches." },
+        { "distractor": "converge", "closeness": 1, "reasoning": "Converging means coming together, opposite to the approaches moving apart described in the sentence." },
+        { "distractor": "merge", "closeness": 1, "reasoning": "Merging means combining, opposite to the separation of approaches implied by disagreement." },
+        { "distractor": "align", "closeness": 1, "reasoning": "Aligning means arranging in agreement, opposite to the movement in different directions shown by the disagreement." }
+      ]
+    },
+    {
+      "sentence": "The river diverged into two channels as it passed through the valley, creating an island in its middle.",
+      "answerChoices": [
+        { "distractor": "fork", "closeness": 3, "reasoning": "Forking suggests splitting into branches like a tree fork, closely related but emphasizes the branching shape rather than continuous separation." },
+        { "distractor": "bifurcate", "closeness": 3, "reasoning": "Bifurcating means splitting into two parts, which is related but is more formal and emphasizes the binary split over the flowing process." },
+        { "distractor": "divide", "closeness": 3, "reasoning": "Dividing means separating into parts, but is less specific to the physical movement of water creating separate channels." },
+        { "distractor": "fragment", "closeness": 3, "reasoning": "Fragmenting suggests breaking into many pieces, but the sentence describes division into specifically two channels, not fragmentation." },
+        { "distractor": "meander", "closeness": 2, "reasoning": "Meandering means winding and turning, which describes river movement but not the separation into distinct channels." },
+        { "distractor": "scatter", "closeness": 2, "reasoning": "Scattering suggests dispersing in many directions randomly, but the river creates two specific channels, not a scattered dispersal." },
+        { "distractor": "disperse", "closeness": 2, "reasoning": "Dispersing means spreading out in different directions, but implies less organized separation than water flowing into two distinct channels." },
+        { "distractor": "flow", "closeness": 2, "reasoning": "Flowing describes the general movement of water but doesn't capture the specific sense of splitting into two separate channels." },
+        { "distractor": "combine", "closeness": 1, "reasoning": "Combining means joining together, opposite to the river separating into two channels." },
+        { "distractor": "fuse", "closeness": 1, "reasoning": "Fusing means blending or joining, opposite to the creation of separate channels described in the sentence." },
+        { "distractor": "unite", "closeness": 1, "reasoning": "Uniting means coming together, opposite to the physical separation of the river into distinct channels." }
+      ]
+    },
+    {
+      "sentence": "Their opinions diverged sharply when discussing budget priorities, forcing them to work independently on separate initiatives.",
+      "answerChoices": [
+        { "distractor": "collide", "closeness": 3, "reasoning": "Colliding suggests forceful impact and conflict, but doesn't capture the sense of moving in different directions over time." },
+        { "distractor": "conflict", "closeness": 3, "reasoning": "Conflicting suggests direct opposition or dispute, but emphasizes the struggle rather than the simple directional separation." },
+        { "distractor": "oppose", "closeness": 3, "reasoning": "Opposing means resisting or working against, which implies active resistance rather than simply moving in different directions." },
+        { "distractor": "splinter", "closeness": 3, "reasoning": "Splintering suggests breaking into fragments, which emphasizes breaking apart more than the gradual separation shown in the sentence." },
+        { "distractor": "detach", "closeness": 2, "reasoning": "Detaching means separating from something, but implies a withdrawal or removal rather than mutual movement in different directions." },
+        { "distractor": "divert", "closeness": 2, "reasoning": "Diverting means turning away or redirecting, but is more about changing one direction rather than two approaches moving apart." },
+        { "distractor": "spread", "closeness": 2, "reasoning": "Spreading suggests becoming dispersed or distributed, but the sentence emphasizes the specific separation of two opinions, not general dispersal." },
+        { "distractor": "ramify", "closeness": 2, "reasoning": "Ramifying means branching out or having consequences, which is about expansion rather than the separation of two specific directions." },
+        { "distractor": "connect", "closeness": 1, "reasoning": "Connecting means joining or linking together, opposite to opinions moving in different directions." },
+        { "distractor": "unify", "closeness": 1, "reasoning": "Unifying means bringing together into one, opposite to the sharp separation of opinions described." },
+        { "distractor": "bridge", "closeness": 1, "reasoning": "Bridging means creating a connection between, opposite to the movement in different directions caused by disagreement." }
+      ]
+    }
+  ]
+}

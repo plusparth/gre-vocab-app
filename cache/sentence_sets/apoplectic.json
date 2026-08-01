@@ -2,51 +2,183 @@
   "word": "apoplectic",
   "sentenceSets": [
     {
-      "sentence": "When the referee's error cost his team the championship, the coach became apoplectic, turning purple with rage and hurling his clipboard across the sideline.",
+      "sentence": "The manager was apoplectic when he discovered the shipment had been canceled without his approval.",
       "answerChoices": [
-        { "distractor": "furious", "closeness": 3, "reasoning": "Close -- 'furious' means extremely angry; the sentence shows rage, but apoplectic emphasizes the extreme physical manifestation (turning purple), suggesting intensity beyond mere anger." },
-        { "distractor": "enraged", "closeness": 3, "reasoning": "Close -- 'enraged' means filled with intense anger; while the coach was clearly enraged, apoplectic specifically connotes extreme physical convulsion and loss of composure." },
-        { "distractor": "livid", "closeness": 3, "reasoning": "Close -- 'livid' means extremely angry with a specific physical manifestation of color; apoplectic goes further to suggest a state approaching losing consciousness from rage." },
-        { "distractor": "incensed", "closeness": 3, "reasoning": "Close -- 'incensed' means extremely angered; the coach was clearly incensed, but apoplectic emphasizes the violent physical manifestation and extreme nature." },
-        { "distractor": "annoyed", "closeness": 2, "reasoning": "Incorrect -- 'annoyed' suggests mild irritation; the coach's violent behavior (hurling equipment) indicates a far more extreme emotional state." },
-        { "distractor": "frustrated", "closeness": 2, "reasoning": "Incorrect -- 'frustrated' means hindered or disappointed; while the coach was frustrated, the sentence shows extreme rage, not frustration." },
-        { "distractor": "defensive", "closeness": 2, "reasoning": "Incorrect -- 'defensive' means protective; the coach's behavior was aggressive and explosive, not defensive." },
-        { "distractor": "determined", "closeness": 2, "reasoning": "Incorrect -- 'determined' means resolved or focused; the coach's violent reaction suggests loss of control, not determination." },
-        { "distractor": "serene", "closeness": 1, "reasoning": "Opposite -- 'serene' means calm and peaceful; apoplectic is the opposite—an extreme loss of emotional control." },
-        { "distractor": "composed", "closeness": 1, "reasoning": "Opposite -- 'composed' means calm and in control; the coach was apoplectic—completely out of control and physically convulsing with rage." },
-        { "distractor": "pleased", "closeness": 1, "reasoning": "Incorrect -- 'pleased' means satisfied; the referee's error caused apoplectic rage, not pleasure." }
+        {
+          "distractor": "irate",
+          "closeness": 3,
+          "reasoning": "Both describe intense anger, but 'apoplectic' conveys uncontrolled rage bordering on physical illness, while 'irate' is a controlled expression of anger."
+        },
+        {
+          "distractor": "furious",
+          "closeness": 3,
+          "reasoning": "Both convey extreme anger, but 'apoplectic' suggests a physical loss of control or violent emotion, while 'furious' is more general intense anger."
+        },
+        {
+          "distractor": "indignant",
+          "closeness": 3,
+          "reasoning": "Both express displeasure at mistreatment, but 'apoplectic' suggests near-violent rage and loss of control, while 'indignant' conveys justified offense."
+        },
+        {
+          "distractor": "enraged",
+          "closeness": 3,
+          "reasoning": "Both describe intense anger, but 'apoplectic' carries a medical connotation of uncontrolled physical reaction, while 'enraged' is simply extreme anger."
+        },
+        {
+          "distractor": "angry",
+          "closeness": 2,
+          "reasoning": "While anger is present in both, 'apoplectic' specifically denotes an extreme, uncontrolled, near-violent state, not merely general anger."
+        },
+        {
+          "distractor": "displeased",
+          "closeness": 2,
+          "reasoning": "Displeasure is present, but 'apoplectic' describes an extreme loss of control and violent emotion, far beyond simple displeasure."
+        },
+        {
+          "distractor": "livid",
+          "closeness": 2,
+          "reasoning": "Both describe intense anger with physical manifestation, but 'apoplectic' implies a medical emergency-level reaction, while 'livid' is more controlled intensity."
+        },
+        {
+          "distractor": "exasperated",
+          "closeness": 2,
+          "reasoning": "Exasperation involves frustration, but 'apoplectic' describes a complete loss of control and violent emotion, not mere frustration."
+        },
+        {
+          "distractor": "disappointed",
+          "closeness": 1,
+          "reasoning": "Disappointment is sadness about an outcome; the sentence shows uncontrolled violent rage, the opposite emotional tone."
+        },
+        {
+          "distractor": "apathetic",
+          "closeness": 1,
+          "reasoning": "Apathy means indifference; the sentence shows someone in an extreme emotional state about the canceled shipment, the opposite of apathy."
+        },
+        {
+          "distractor": "serene",
+          "closeness": 1,
+          "reasoning": "Serenity implies calmness; the sentence shows someone in an uncontrolled, violent emotional state, the opposite of serene."
+        }
       ]
     },
     {
-      "sentence": "The senator became apoplectic during the debate, his voice rising to a shout and his face flushing deeply as he attacked the opposing argument.",
+      "sentence": "The senator's apoplectic response to the bill's language left even his allies unsure whether to defend or distance themselves from his position.",
       "answerChoices": [
-        { "distractor": "passionate", "closeness": 3, "reasoning": "Close -- 'passionate' means deeply felt emotion; while the senator was passionate, apoplectic emphasizes the extreme physical manifestation and loss of control." },
-        { "distractor": "vehement", "closeness": 3, "reasoning": "Close -- 'vehement' means forcefully expressed; the senator's response was vehement, but apoplectic suggests a more extreme, physically convulsive state." },
-        { "distractor": "animated", "closeness": 3, "reasoning": "Close -- 'animated' means lively and energetic; while his delivery was animated, apoplectic emphasizes extreme physical agitation and emotional loss of control." },
-        { "distractor": "emphatic", "closeness": 3, "reasoning": "Close -- 'emphatic' means strongly expressed; his attack was emphatic, but apoplectic conveys extreme physical convulsion beyond emphatic expression." },
-        { "distractor": "skeptical", "closeness": 2, "reasoning": "Incorrect -- 'skeptical' means doubtful; the sentence shows the senator attacking an argument, not expressing doubt." },
-        { "distractor": "contemptuous", "closeness": 2, "reasoning": "Incorrect -- 'contemptuous' means scornful; while his attack may have been scornful, the key feature is the extreme physical agitation." },
-        { "distractor": "sarcastic", "closeness": 2, "reasoning": "Incorrect -- 'sarcastic' means using irony to mock; the sentence describes a forceful attack with physical manifestations of rage." },
-        { "distractor": "intellectual", "closeness": 2, "reasoning": "Incorrect -- 'intellectual' refers to mental/reasoned engagement; his physical response (shouting, flushing) indicates emotional loss of control." },
-        { "distractor": "calm", "closeness": 1, "reasoning": "Opposite -- 'calm' means peaceful and controlled; apoplectic indicates extreme emotional agitation and loss of control." },
-        { "distractor": "rational", "closeness": 1, "reasoning": "Opposite -- 'rational' means logical and controlled; apoplectic indicates loss of composure and control." },
-        { "distractor": "reserved", "closeness": 1, "reasoning": "Incorrect -- 'reserved' means restrained; the senator was extremely expressive and physically agitated." }
+        {
+          "distractor": "vehement",
+          "closeness": 3,
+          "reasoning": "Both convey passionate intensity, but 'apoplectic' suggests an out-of-control emotional state that alarms observers, while 'vehement' is passionate but controlled."
+        },
+        {
+          "distractor": "heated",
+          "closeness": 3,
+          "reasoning": "Both describe emotional intensity, but 'apoplectic' implies a loss of self-control and alarming physical manifestation, while 'heated' is simply an emotional exchange."
+        },
+        {
+          "distractor": "volatile",
+          "closeness": 3,
+          "reasoning": "Both suggest unpredictability, but 'apoplectic' describes a specific extreme emotional outburst, while 'volatile' refers to general instability."
+        },
+        {
+          "distractor": "explosive",
+          "closeness": 3,
+          "reasoning": "Both convey sudden intense emotion, but 'apoplectic' specifically denotes an uncontrolled rage bordering on physical collapse, not merely a sudden outburst."
+        },
+        {
+          "distractor": "indignant",
+          "closeness": 2,
+          "reasoning": "Indignation can be part of the response, but 'apoplectic' describes an extreme physical and emotional reaction that alarms others, beyond justified offense."
+        },
+        {
+          "distractor": "stern",
+          "closeness": 2,
+          "reasoning": "A stern response is serious and formal; 'apoplectic' describes an uncontrolled emotional state that leaves allies uncertain, far more extreme."
+        },
+        {
+          "distractor": "critical",
+          "closeness": 2,
+          "reasoning": "Critical response involves disapproval, but 'apoplectic' describes an extreme loss of emotional control that unsettles even his own allies."
+        },
+        {
+          "distractor": "dismissive",
+          "closeness": 2,
+          "reasoning": "A dismissive response rejects something, but 'apoplectic' describes an extreme emotional outburst of uncontrolled rage, quite different."
+        },
+        {
+          "distractor": "measured",
+          "closeness": 1,
+          "reasoning": "Measured implies careful control; 'apoplectic' describes an uncontrolled extreme state that alarmed his allies, the opposite of measured."
+        },
+        {
+          "distractor": "calm",
+          "closeness": 1,
+          "reasoning": "Calm means composed; the sentence shows someone whose reaction was so extreme that allies were unsure how to respond, far from calm."
+        },
+        {
+          "distractor": "resigned",
+          "closeness": 1,
+          "reasoning": "Resigned implies acceptance and surrender; the sentence shows extreme emotional outrage and loss of control, the opposite sentiment."
+        }
       ]
     },
     {
-      "sentence": "The grandmother's apoplectic fit came when she discovered her grandson had dropped her antique vase; she couldn't catch her breath from the intensity of her distress.",
+      "sentence": "His apoplectic fit during the meeting, marked by flushed face and trembling hands, frightened the younger colleagues who had never witnessed such loss of control.",
       "answerChoices": [
-        { "distractor": "emotional", "closeness": 3, "reasoning": "Close -- 'emotional' means feeling-driven; the grandmother was clearly emotional, but apoplectic emphasizes the extreme physical manifestation (breathlessness) and loss of composure." },
-        { "distractor": "distraught", "closeness": 3, "reasoning": "Close -- 'distraught' means deeply upset; while she was distraught, apoplectic emphasizes the extreme physical convulsion and physical symptoms." },
-        { "distractor": "devastated", "closeness": 3, "reasoning": "Close -- 'devastated' means deeply hurt or shocked; she was devastated by the loss, but apoplectic emphasizes the extreme physical manifestations of emotion." },
-        { "distractor": "outraged", "closeness": 3, "reasoning": "Close -- 'outraged' means extremely offended and angry; while she may have been outraged, apoplectic specifically emphasizes the physical convulsive symptoms." },
-        { "distractor": "tired", "closeness": 2, "reasoning": "Incorrect -- 'tired' refers to fatigue; her breathlessness came from emotional intensity, not physical fatigue." },
-        { "distractor": "confused", "closeness": 2, "reasoning": "Incorrect -- 'confused' means unclear in mind; the sentence describes a strong emotional reaction, not confusion." },
-        { "distractor": "surprised", "closeness": 2, "reasoning": "Incorrect -- 'surprised' means caught off guard; her extreme physical reaction suggests much stronger emotion than surprise." },
-        { "distractor": "relieved", "closeness": 2, "reasoning": "Incorrect -- 'relieved' means no longer worried; she was experiencing intense distress, not relief." },
-        { "distractor": "delighted", "closeness": 1, "reasoning": "Opposite -- 'delighted' means pleased and happy; apoplectic indicates extreme distress and loss of control." },
-        { "distractor": "indifferent", "closeness": 1, "reasoning": "Opposite -- 'indifferent' means unconcerned; apoplectic indicates intense emotional and physical response." },
-        { "distractor": "amused", "closeness": 1, "reasoning": "Incorrect -- 'amused' means entertained; the grandmother's extreme distress is the opposite of amusement." }
+        {
+          "distractor": "frenzied",
+          "closeness": 3,
+          "reasoning": "Both describe wild, uncontrolled behavior, but 'apoplectic' specifically implies a medical/physical emergency state with rage, while 'frenzied' is more general wildness."
+        },
+        {
+          "distractor": "violent",
+          "closeness": 3,
+          "reasoning": "Both suggest aggressive energy, but 'apoplectic' describes an emotionally-driven uncontrolled state with specific physical symptoms, while 'violent' is more general."
+        },
+        {
+          "distractor": "unhinged",
+          "closeness": 3,
+          "reasoning": "Both describe loss of emotional control, but 'apoplectic' specifically refers to a rage-filled state with physical manifestations, while 'unhinged' is broader mental disturbance."
+        },
+        {
+          "distractor": "manic",
+          "closeness": 3,
+          "reasoning": "Both describe extreme loss of control, but 'apoplectic' is a sudden rage-driven state, while 'manic' refers to elevated, energetic mental state."
+        },
+        {
+          "distractor": "agitated",
+          "closeness": 2,
+          "reasoning": "Agitation is present, but 'apoplectic' describes an extreme uncontrolled state with physical symptoms that frightened observers, far beyond mere agitation."
+        },
+        {
+          "distractor": "irritable",
+          "closeness": 2,
+          "reasoning": "While irritability may precede it, 'apoplectic' describes an extreme loss of control with physical manifestations, not simply irritability."
+        },
+        {
+          "distractor": "tense",
+          "closeness": 2,
+          "reasoning": "Tension is emotional strain, but 'apoplectic' describes an explosive extreme state with flushed face and trembling, far more severe than tension."
+        },
+        {
+          "distractor": "uncomfortable",
+          "closeness": 2,
+          "reasoning": "While present, discomfort is too mild for what the sentence describes; 'apoplectic' involves extreme uncontrolled rage with alarming physical symptoms."
+        },
+        {
+          "distractor": "pleased",
+          "closeness": 1,
+          "reasoning": "Pleased means satisfied or happy; the sentence describes an extreme uncontrolled state that frightened observers, the opposite emotional tone."
+        },
+        {
+          "distractor": "composed",
+          "closeness": 1,
+          "reasoning": "Composed means calm and controlled; the sentence shows someone in an extreme uncontrolled state with flushed face and trembling."
+        },
+        {
+          "distractor": "indifferent",
+          "closeness": 1,
+          "reasoning": "Indifference means unconcern; the sentence describes extreme passionate uncontrolled rage with physical symptoms, the opposite of indifference."
+        }
       ]
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "word": "gaffe",
+  "sentenceSets": [
+    {
+      "sentence": "His gaffe at the press conference dominated the next day's coverage, overshadowing the announcement it had been meant to introduce.",
+      "answerChoices": [
+        { "distractor": "blunder", "closeness": 3, "reasoning": "A blunder is a major mistake very similar to a gaffe, but blunder emphasizes careless error while gaffe emphasizes the social embarrassment and public nature of the mistake." },
+        { "distractor": "slip", "closeness": 3, "reasoning": "A slip is a minor unintended mistake, which could describe what happened, but slip suggests a small lapse rather than a significant public embarrassment." },
+        { "distractor": "misstep", "closeness": 3, "reasoning": "A misstep is a wrong step or mistake, fitting the public error context, but misstep more broadly suggests any wrong move rather than the social or diplomatic nature of the error." },
+        { "distractor": "faux pas", "closeness": 3, "reasoning": "A faux pas is a social mistake or breach of etiquette, very similar to gaffe, but faux pas emphasizes the violation of social convention while gaffe emphasizes the resulting public embarrassment." },
+        { "distractor": "scandal", "closeness": 2, "reasoning": "A scandal is an embarrassing incident causing public outrage, which fits the dominating news coverage, but scandal implies moral wrongdoing or corruption rather than simply a careless mistake." },
+        { "distractor": "embarrassment", "closeness": 2, "reasoning": "An embarrassment is something causing shame or embarrassment, which relates to the public nature of his mistake, but embarrassment emphasizes the emotional response rather than the mistake itself." },
+        { "distractor": "mishap", "closeness": 2, "reasoning": "A mishap is an unfortunate accident, which could describe a public speaking error, but mishap suggests an uncontrollable accident rather than a mistake rooted in poor judgment." },
+        { "distractor": "impropriety", "closeness": 2, "reasoning": "Impropriety is inappropriate or improper behavior, which could fit a press conference mistake, but impropriety emphasizes violation of proper conduct rather than the specific quality of a social blunder." },
+        { "distractor": "triumph", "closeness": 1, "reasoning": "A triumph is a great success or victory; the sentence describes a mistake that overshadowed the intended announcement, making triumph semantically opposed to the outcome." },
+        { "distractor": "achievement", "closeness": 1, "reasoning": "An achievement is an accomplishment or successful result; the sentence describes a public mistake that dominated coverage, making achievement opposed to what actually occurred." },
+        { "distractor": "success", "closeness": 1, "reasoning": "A success is achieving intended goals; the mistake overshadowed the intended announcement, making success the opposite of the described outcome." }
+      ]
+    },
+    {
+      "sentence": "The ambassador's gaffe about the trade agreement created a diplomatic crisis that took weeks to resolve.",
+      "answerChoices": [
+        { "distractor": "indiscretion", "closeness": 3, "reasoning": "An indiscretion is a careless or thoughtless disclosure, which fits the ambassador's mistake about trade negotiations, but indiscretion emphasizes thoughtless revelation rather than the specific public blunder." },
+        { "distractor": "bungle", "closeness": 3, "reasoning": "A bungle is a clumsy mishandling or botched job, which fits the context of mishandling diplomatic communication, but bungle emphasizes incompetence rather than the social embarrassment of the mistake." },
+        { "distractor": "transgression", "closeness": 3, "reasoning": "A transgression is a violation of a rule or boundary, which fits breaking diplomatic protocol, but transgression emphasizes rule-breaking rather than the embarrassing nature of the mistake." },
+        { "distractor": "solecism", "closeness": 3, "reasoning": "A solecism is a social or grammatical error, fitting a mistake at a diplomatic event, but solecism emphasizes incorrect form or breaches of convention rather than the serious consequences of the mistake." },
+        { "distractor": "offense", "closeness": 2, "reasoning": "An offense is something causing displeasure or breaking protocol, which could fit a diplomatic mistake, but offense emphasizes the harm caused rather than the nature of the blunder itself." },
+        { "distractor": "presumption", "closeness": 2, "reasoning": "Presumption is arrogant or inappropriate behavior, which could relate to a diplomatic mistake, but presumption emphasizes overstepping bounds rather than the mistake itself." },
+        { "distractor": "violation", "closeness": 2, "reasoning": "A violation is breaking a rule or agreement, which could fit breaking diplomatic protocol, but violation emphasizes breach of rules rather than the mistake or the embarrassment it caused." },
+        { "distractor": "trespass", "closeness": 2, "reasoning": "A trespass is an intrusion or violation, which could relate to overstepping in diplomacy, but trespass emphasizes intrusion rather than making a public mistake." },
+        { "distractor": "resolution", "closeness": 1, "reasoning": "A resolution is a solution or decision to resolve something; the sentence describes how the mistake created a crisis that took weeks to resolve, making resolution opposite to the initial gaffe." },
+        { "distractor": "treaty", "closeness": 1, "reasoning": "A treaty is a formal agreement, which relates to trade agreements, but the gaffe hindered rather than created such agreements, making treaty opposed to what the mistake caused." },
+        { "distractor": "harmony", "closeness": 1, "reasoning": "Harmony is a state of agreement and peace; the gaffe created a diplomatic crisis, making harmony the opposite of what resulted from the ambassador's mistake." }
+      ]
+    },
+    {
+      "sentence": "At the dinner party, his gaffe about her weight caused an awkward silence that no one knew how to break.",
+      "answerChoices": [
+        { "distractor": "insult", "closeness": 3, "reasoning": "An insult is an offensive remark, which resembles his comment about her weight, but insult implies deliberate offense while a gaffe is an unintentional mistake." },
+        { "distractor": "jest", "closeness": 3, "reasoning": "A jest is a joking remark meant to be humorous, which could describe an ill-advised comment, but jest implies intentional humor while a gaffe is an unintended embarrassment." },
+        { "distractor": "taunt", "closeness": 3, "reasoning": "A taunt is a mocking or challenging remark, which could describe his comment, but taunt implies deliberate mockery while a gaffe is a thoughtless mistake." },
+        { "distractor": "aspersion", "closeness": 3, "reasoning": "An aspersion is a damaging or derogatory remark, which fits an offensive comment about her weight, but aspersion implies intentional disparagement rather than a blundering mistake." },
+        { "distractor": "comment", "closeness": 2, "reasoning": "A comment is a remark or observation, which fits what he made about her weight, but comment is a neutral term that doesn't capture the embarrassing or blundering nature of his statement." },
+        { "distractor": "remark", "closeness": 2, "reasoning": "A remark is a statement or observation, which could describe his comment about her weight, but remark is too general and doesn't convey the social embarrassment or blunder." },
+        { "distractor": "insinuation", "closeness": 2, "reasoning": "An insinuation is an indirect or subtle suggestion, which could describe a comment about weight, but insinuation implies a calculated indirect approach rather than a blundering mistake." },
+        { "distractor": "witticism", "closeness": 2, "reasoning": "A witticism is a clever or witty remark, which could describe an attempted joke, but witticism implies cleverness and intentional humor while a gaffe is an awkward mistake." },
+        { "distractor": "compliment", "closeness": 1, "reasoning": "A compliment is a flattering or approving remark; his comment about her weight caused an awkward silence, making compliment semantically opposed to the embarrassing gaffe." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Praise expresses approval or admiration; his remark created awkward silence, making praise the opposite of the social discomfort caused by his gaffe." },
+        { "distractor": "flattery", "closeness": 1, "reasoning": "Flattery is excessive or insincere compliments; his comment caused embarrassment and awkwardness, making flattery opposed to the socially damaging nature of his gaffe." }
+      ]
+    }
+  ]
+}

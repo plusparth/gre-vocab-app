@@ -1,0 +1,53 @@
+{
+  "word": "gargantuan",
+  "sentenceSets": [
+    {
+      "sentence": "The gargantuan undertaking required a level of coordination the organization had never previously attempted.",
+      "answerChoices": [
+        { "distractor": "massive", "closeness": 3, "reasoning": "Close -- 'massive' also describes something very large, but it emphasizes weight and physical scale rather than the overwhelming scope and complexity implied by a undertaking requiring unprecedented coordination." },
+        { "distractor": "ambitious", "closeness": 3, "reasoning": "Close -- 'ambitious' describes a goal that is challenging or grand in scope, which fits the sentence, but it emphasizes aspiration and difficulty rather than the sheer size and magnitude of the project." },
+        { "distractor": "daunting", "closeness": 3, "reasoning": "Close -- 'daunting' describes something that seems overwhelmingly difficult, which applies here, but it focuses on the emotional response rather than the magnitude of the undertaking itself." },
+        { "distractor": "monumental", "closeness": 3, "reasoning": "Close -- 'monumental' means very large and impressive, which fits the context, but it carries more weight of historical significance than the scale implied by gargantuan." },
+        { "distractor": "laborious", "closeness": 2, "reasoning": "Incorrect -- 'laborious' means requiring hard work, which may accompany a large project, but it describes the effort rather than the size or scope." },
+        { "distractor": "complex", "closeness": 2, "reasoning": "Incorrect -- 'complex' describes something with many interlocking parts, which might characterize the undertaking, but it doesn't convey the sense of enormous scale." },
+        { "distractor": "unprecedented", "closeness": 2, "reasoning": "Incorrect -- 'unprecedented' means never done before, which the sentence explicitly states about the coordination required, but it doesn't describe the size or scope of the undertaking." },
+        { "distractor": "demanding", "closeness": 2, "reasoning": "Incorrect -- 'demanding' means requiring great effort, which follows from the undertaking, but doesn't capture its magnitude." },
+        { "distractor": "modest", "closeness": 1, "reasoning": "Opposite -- 'modest' means small or limited in size, the opposite of gargantuan." },
+        { "distractor": "trivial", "closeness": 1, "reasoning": "Opposite -- 'trivial' means of little importance or difficulty, contradicting the scale implied by unprecedented coordination." },
+        { "distractor": "routine", "closeness": 1, "reasoning": "Incorrect -- 'routine' means ordinary or habitual, contrary to the implied magnitude and novelty of the undertaking." }
+      ]
+    },
+    {
+      "sentence": "The restaurant's gargantuan portions left diners overwhelmed and unable to finish their meals.",
+      "answerChoices": [
+        { "distractor": "excessive", "closeness": 3, "reasoning": "Close -- 'excessive' means more than necessary or reasonable, which accurately describes portions that overwhelm diners, but emphasizes surplus rather than sheer size." },
+        { "distractor": "lavish", "closeness": 3, "reasoning": "Close -- 'lavish' suggests abundance and luxurious generosity, which might apply to oversized restaurant servings, but emphasizes extravagant splendor rather than overwhelming magnitude." },
+        { "distractor": "abundant", "closeness": 3, "reasoning": "Close -- 'abundant' means plentiful, which fits portions that leave diners unable to finish, but doesn't carry the connotation of size that makes them difficult to consume." },
+        { "distractor": "bountiful", "closeness": 3, "reasoning": "Close -- 'bountiful' means generous and plentiful, which describes large servings, but emphasizes the blessing of abundance rather than the overwhelming nature of the portions." },
+        { "distractor": "expensive", "closeness": 2, "reasoning": "Incorrect -- 'expensive' relates to cost, not portion size, and doesn't fit the context of overwhelming diners." },
+        { "distractor": "elaborate", "closeness": 2, "reasoning": "Incorrect -- 'elaborate' means complex or carefully designed, which may describe dishes but not the quantity that overwhelms eaters." },
+        { "distractor": "rich", "closeness": 2, "reasoning": "Incorrect -- 'rich' describes flavor intensity or fatness of food, not the volume that causes inability to finish." },
+        { "distractor": "unusual", "closeness": 2, "reasoning": "Incorrect -- 'unusual' means uncommon, which doesn't address the size or quantity of portions." },
+        { "distractor": "meager", "closeness": 1, "reasoning": "Opposite -- 'meager' means small or scant, the opposite of portions that overwhelm diners." },
+        { "distractor": "modest", "closeness": 1, "reasoning": "Opposite -- 'modest' means modest in size, contradicting the overwhelming portions described." },
+        { "distractor": "refined", "closeness": 1, "reasoning": "Incorrect -- 'refined' means elegant or sophisticated, unrelated to portion size or the inability to finish meals." }
+      ]
+    },
+    {
+      "sentence": "The city's gargantuan parking garage, with its seventeen levels, still could not accommodate all the vehicles seeking spaces during rush hour.",
+      "answerChoices": [
+        { "distractor": "sprawling", "closeness": 3, "reasoning": "Close -- 'sprawling' means extending over a wide area, which fits a seventeen-level structure, but emphasizes spread and extent rather than overwhelming size relative to demand." },
+        { "distractor": "towering", "closeness": 3, "reasoning": "Close -- 'towering' emphasizes height and prominence, which applies to a seventeen-level building, but focuses on vertical dominance rather than the sheer magnitude that still proves insufficient." },
+        { "distractor": "cavernous", "closeness": 3, "reasoning": "Close -- 'cavernous' suggests vast hollow space like a cave, which fits a huge parking garage, but implies darkness and emptiness rather than overwhelming size relative to capacity demands." },
+        { "distractor": "expansive", "closeness": 3, "reasoning": "Close -- 'expansive' means extending over wide area, which describes the structure, but emphasizes breadth and open scope rather than the absolute magnitude implied by gargantuan." },
+        { "distractor": "congested", "closeness": 2, "reasoning": "Incorrect -- 'congested' refers to overcrowding or blockage, which results from the garage being insufficient, but doesn't describe the size of the garage itself." },
+        { "distractor": "inefficient", "closeness": 2, "reasoning": "Incorrect -- 'inefficient' means not working well, which the garage proves to be, but doesn't convey its size." },
+        { "distractor": "multistory", "closeness": 2, "reasoning": "Incorrect -- 'multistory' simply means having multiple levels, which is true of the garage, but doesn't carry the connotation of enormous scale." },
+        { "distractor": "inadequate", "closeness": 2, "reasoning": "Incorrect -- 'inadequate' means insufficient, which the garage proves to be despite its size, but it describes the failure to meet demand rather than the garage's magnitude." },
+        { "distractor": "tiny", "closeness": 1, "reasoning": "Opposite -- 'tiny' means extremely small, the opposite of a seventeen-level structure." },
+        { "distractor": "narrow", "closeness": 1, "reasoning": "Opposite -- 'narrow' means restricted in width, contrary to the implied vastness of the structure." },
+        { "distractor": "intimate", "closeness": 1, "reasoning": "Incorrect -- 'intimate' means small and cozy, unrelated to the scale of a parking structure." }
+      ]
+    }
+  ]
+}

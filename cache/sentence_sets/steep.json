@@ -1,0 +1,53 @@
+{
+  "word": "steep",
+  "sentenceSets": [
+    {
+      "sentence": "The mountain trail descended at such a steep angle that hikers required specialized equipment to navigate safely.",
+      "answerChoices": [
+        { "distractor": "high", "closeness": 3, "reasoning": "High describes altitude or elevation, whereas steep specifically describes the angle or grade of descent relative to horizontal." },
+        { "distractor": "elevated", "closeness": 3, "reasoning": "Elevated describes being raised up, whereas steep refers to the angle of slope or incline rather than absolute height." },
+        { "distractor": "vertical", "closeness": 3, "reasoning": "Vertical describes a perpendicular orientation, whereas steep describes a significant but not necessarily perpendicular angle." },
+        { "distractor": "dramatic", "closeness": 3, "reasoning": "Dramatic describes something striking or impressive, whereas steep specifically refers to the angle of incline." },
+        { "distractor": "sharp", "closeness": 2, "reasoning": "Sharp can describe a keen angle, but steep specifically refers to significant slope, particularly downward." },
+        { "distractor": "precipitous", "closeness": 2, "reasoning": "Precipitous describes both steep slope and dangerousness, whereas steep focuses specifically on the angle of incline." },
+        { "distractor": "abrupt", "closeness": 2, "reasoning": "Abrupt describes sudden change, whereas steep describes the degree of angle rather than the suddenness of change." },
+        { "distractor": "rugged", "closeness": 2, "reasoning": "Rugged describes rough uneven terrain, whereas steep specifically refers to the angle of slope." },
+        { "distractor": "flat", "closeness": 1, "reasoning": "Flat describes level ground with minimal slope, which is the opposite of the significant incline that steep implies." },
+        { "distractor": "gentle", "closeness": 1, "reasoning": "Gentle describes a slight gradual slope, contrary to the sharp significant angle that steep represents." },
+        { "distractor": "gradual", "closeness": 1, "reasoning": "Gradual describes slowly changing inclination, whereas steep implies a sharp significant angle." }
+      ]
+    },
+    {
+      "sentence": "The company's revenue had experienced a steep increase over the past quarter, surprising even optimistic investors.",
+      "answerChoices": [
+        { "distractor": "dramatic", "closeness": 3, "reasoning": "Dramatic describes something striking and impressive, whereas steep specifically indicates a sharp significant rise in measurable quantity." },
+        { "distractor": "sharp", "closeness": 3, "reasoning": "Sharp describes a sudden change, very close to steep in describing sudden increases, though steep emphasizes the magnitude of the rise." },
+        { "distractor": "notable", "closeness": 3, "reasoning": "Notable describes something worthy of attention, whereas steep specifically indicates a sharp significant quantitative increase." },
+        { "distractor": "remarkable", "closeness": 3, "reasoning": "Remarkable describes something worthy of notice, whereas steep specifically indicates a sharp rise in numerical value." },
+        { "distractor": "significant", "closeness": 2, "reasoning": "Significant describes importance or considerable size, whereas steep specifically implies a sharp rather than merely large increase." },
+        { "distractor": "considerable", "closeness": 2, "reasoning": "Considerable describes large size or quantity, whereas steep specifically emphasizes the sharpness of the increase." },
+        { "distractor": "impressive", "closeness": 2, "reasoning": "Impressive describes something worthy of admiration, whereas steep focuses on the measurable sharpness of increase." },
+        { "distractor": "substantial", "closeness": 2, "reasoning": "Substantial describes large size, but steep specifically refers to the sharp angle of increase rather than just size." },
+        { "distractor": "modest", "closeness": 1, "reasoning": "Modest describes a small or humble increase, which is contrary to the significant sharp rise that steep conveys." },
+        { "distractor": "gradual", "closeness": 1, "reasoning": "Gradual describes slow incremental increase, the opposite of the sharp quick rise that steep implies." },
+        { "distractor": "flat", "closeness": 1, "reasoning": "Flat describes no change or minimal increase, contrary to the significant sharp rise represented by steep." }
+      ]
+    },
+    {
+      "sentence": "The professor's demands were so steep that even her best students found the assignment overwhelming.",
+      "answerChoices": [
+        { "distractor": "stringent", "closeness": 3, "reasoning": "Stringent describes strict demanding requirements, very close to steep in demanding contexts, though stringent may be more about strictness than height of demand." },
+        { "distractor": "exorbitant", "closeness": 3, "reasoning": "Exorbitant describes excessive or unreasonable demands, whereas steep in this context means demanding a high level of performance." },
+        { "distractor": "rigorous", "closeness": 3, "reasoning": "Rigorous describes thorough strict standards, whereas steep refers more to the height or magnitude of the demands." },
+        { "distractor": "extreme", "closeness": 3, "reasoning": "Extreme describes excessive or intense demands, whereas steep specifically suggests demands that reach an unusually high level." },
+        { "distractor": "difficult", "closeness": 2, "reasoning": "Difficult describes challenging nature, whereas steep specifically emphasizes demands set at a high level." },
+        { "distractor": "ambitious", "closeness": 2, "reasoning": "Ambitious describes reaching high goals, whereas steep emphasizes demands that go beyond reasonable expectations." },
+        { "distractor": "impossible", "closeness": 2, "reasoning": "Impossible describes something that cannot be done, whereas steep indicates difficult but theoretically achievable demands." },
+        { "distractor": "harsh", "closeness": 2, "reasoning": "Harsh describes severe or unkind treatment, whereas steep specifically refers to the height of demands." },
+        { "distractor": "lenient", "closeness": 1, "reasoning": "Lenient describes permissive and forgiving standards, the opposite of the demanding high standards that steep implies." },
+        { "distractor": "reasonable", "closeness": 1, "reasoning": "Reasonable describes fair and moderate demands, contrary to the excessively high demands that steep conveys." },
+        { "distractor": "modest", "closeness": 1, "reasoning": "Modest describes humble or modest demands, which is the opposite of steep demands that are notably high." }
+      ]
+    }
+  ]
+}

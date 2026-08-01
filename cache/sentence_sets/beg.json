@@ -1,0 +1,53 @@
+{
+  "word": "beg",
+  "sentenceSets": [
+    {
+      "sentence": "She refused to beg for leniency, presenting her case with quiet dignity instead.",
+      "answerChoices": [
+        { "distractor": "plead", "closeness": 3, "reasoning": "Both describe asking urgently, but plead emphasizes making an emotional appeal, while beg emphasizes asking as a charity." },
+        { "distractor": "implore", "closeness": 3, "reasoning": "Both describe earnest asking, but implore emphasizes urgent emotional appeal, while beg emphasizes asking for charity." },
+        { "distractor": "beseech", "closeness": 3, "reasoning": "Both describe urgent asking, but beseech emphasizes supplication and emotional appeal, while beg emphasizes asking for charity." },
+        { "distractor": "petition", "closeness": 3, "reasoning": "Both describe formal requesting, but petition emphasizes making a formal request, while beg emphasizes asking for mercy." },
+        { "distractor": "appeal", "closeness": 2, "reasoning": "She could appeal for leniency, but appeal is broader and doesn't necessarily emphasize the begging nature." },
+        { "distractor": "solicit", "closeness": 2, "reasoning": "She could solicit sympathy, but solicit emphasizes requesting in general, not specifically begging." },
+        { "distractor": "supplicate", "closeness": 2, "reasoning": "She could supplicate for mercy, but supplicate emphasizes kneeling or humbling, not specifically begging." },
+        { "distractor": "entreat", "closeness": 2, "reasoning": "She could entreat for leniency, but entreat emphasizes passionate appeal, not specifically begging." },
+        { "distractor": "demand", "closeness": 1, "reasoning": "She refused to beg; demand means asking forcefully as a right." },
+        { "distractor": "assert", "closeness": 1, "reasoning": "She presented her case with dignity rather than begging; assert means stating something firmly." },
+        { "distractor": "protest", "closeness": 1, "reasoning": "She presented her case rather than begging; protest means expressing objection." }
+      ]
+    },
+    {
+      "sentence": "The homeless man had to beg outside the restaurant every evening to earn enough for food.",
+      "answerChoices": [
+        { "distractor": "solicit", "closeness": 3, "reasoning": "Both involve asking for something, but solicit is formal, while beg emphasizes asking as a charity." },
+        { "distractor": "request", "closeness": 3, "reasoning": "Both involve asking, but request is neutral and formal, while beg emphasizes urgent asking for charity." },
+        { "distractor": "panhandle", "closeness": 3, "reasoning": "Both describe asking for money from strangers, but panhandle emphasizes the street method, while beg is broader." },
+        { "distractor": "hustle", "closeness": 3, "reasoning": "Both describe seeking money on the street, but hustle emphasizes aggressive earning, while beg emphasizes asking." },
+        { "distractor": "ask", "closeness": 2, "reasoning": "The man asks for money, but ask is too general and doesn't capture the desperation of begging." },
+        { "distractor": "appeal", "closeness": 2, "reasoning": "The man appeals for charity, but appeal doesn't specifically emphasize begging." },
+        { "distractor": "work", "closeness": 2, "reasoning": "The man must earn money, but working implies employment, while begging implies asking for charity." },
+        { "distractor": "earn", "closeness": 2, "reasoning": "The man earns money by begging, but earn emphasizes gaining through effort, not specifically asking." },
+        { "distractor": "demand", "closeness": 1, "reasoning": "The man must beg for food; demand means asking forcefully as a right." },
+        { "distractor": "steal", "closeness": 1, "reasoning": "The man begs for food; steal means taking without permission." },
+        { "distractor": "purchase", "closeness": 1, "reasoning": "The man begs for food; purchase means buying with money." }
+      ]
+    },
+    {
+      "sentence": "The injured bird seemed to beg for help through its desperate chirping, unable to survive alone in the wild.",
+      "answerChoices": [
+        { "distractor": "plead", "closeness": 3, "reasoning": "Both describe urgent appeals, but plead emphasizes emotional urgency, while beg emphasizes asking for mercy or help." },
+        { "distractor": "cry out", "closeness": 3, "reasoning": "Both describe expressing urgent need, but crying out emphasizes vocalizing, while begging emphasizes asking for help." },
+        { "distractor": "signal", "closeness": 3, "reasoning": "Both describe communicating need, but signal emphasizes conveying information, while beg emphasizes asking for help." },
+        { "distractor": "appeal", "closeness": 3, "reasoning": "Both express need for help, but appeal is more general, while beg emphasizes asking for mercy." },
+        { "distractor": "cry", "closeness": 2, "reasoning": "The bird cries, but crying is a vocalization, not specifically begging." },
+        { "distractor": "struggle", "closeness": 2, "reasoning": "The bird struggles to survive, but struggle describes effort, not begging for help." },
+        { "distractor": "call", "closeness": 2, "reasoning": "The bird calls through chirping, but call describes vocalization, not specifically begging." },
+        { "distractor": "express", "closeness": 2, "reasoning": "The bird expresses need, but express is too general." },
+        { "distractor": "celebrate", "closeness": 1, "reasoning": "The injured bird desperately needs help; celebrate means rejoicing or expressing joy." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "The bird begs for help; ignore means paying no attention." },
+        { "distractor": "abandon", "closeness": 1, "reasoning": "The bird begs for help; abandon means leaving someone to their fate." }
+      ]
+    }
+  ]
+}

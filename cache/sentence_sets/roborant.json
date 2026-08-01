@@ -1,0 +1,53 @@
+{
+  "word": "roborant",
+  "sentenceSets": [
+    {
+      "sentence": "The physician prescribed a roborant broth of beef and medicinal herbs to restore strength to the convalescent patient after weeks of severe illness.",
+      "answerChoices": [
+        { "distractor": "mild", "closeness": 3, "reasoning": "A mild treatment might be prescribed, but mild emphasizes gentleness, not the strengthening and invigorating quality that roborant conveys." },
+        { "distractor": "soothing", "closeness": 3, "reasoning": "A soothing treatment brings comfort, but soothing emphasizes calming or relieving, not the strengthening invigorating purpose of roborant." },
+        { "distractor": "restorative", "closeness": 3, "reasoning": "The broth is restorative and restores strength, but restorative describes something that restores, not necessarily the invigorating strengthening quality of roborant." },
+        { "distractor": "tonifying", "closeness": 3, "reasoning": "The broth might tonify or strengthen, but tonifying emphasizes adjusting tone or strength, not the comprehensive invigorating sense of roborant." },
+        { "distractor": "nourishing", "closeness": 2, "reasoning": "The broth nourishes the patient, but nourishing emphasizes providing food or sustenance, not the invigorating strengthening quality." },
+        { "distractor": "healthful", "closeness": 2, "reasoning": "The broth promotes health, but healthful simply means conducive to health, not specifically strengthening or invigorating." },
+        { "distractor": "stimulating", "closeness": 2, "reasoning": "The broth stimulates recovery, but stimulating emphasizes arousing activity, not the comprehensive strengthening of roborant." },
+        { "distractor": "beneficial", "closeness": 2, "reasoning": "The broth is beneficial to the patient, but beneficial means helpful or advantageous, not specifically strengthening or invigorating." },
+        { "distractor": "debilitating", "closeness": 1, "reasoning": "The broth is prescribed to restore strength; debilitating would mean weakening or making feeble, opposite." },
+        { "distractor": "harmful", "closeness": 1, "reasoning": "The roborant broth strengthens the patient; harmful would mean causing damage or injury, opposite." },
+        { "distractor": "poisonous", "closeness": 1, "reasoning": "The roborant treatment invigorates; poisonous would be injurious and deadly, opposite." }
+      ]
+    },
+    {
+      "sentence": "The athlete's coach recommended a roborant supplement of protein and vitamins to enhance performance and accelerate muscle recovery between training sessions.",
+      "answerChoices": [
+        { "distractor": "dietary", "closeness": 3, "reasoning": "The supplement is dietary in nature, fitting nutritional category, but dietary simply means pertaining to diet, not the strengthening invigorating quality." },
+        { "distractor": "nutritious", "closeness": 3, "reasoning": "The supplement is nutritious and provides nourishment, but nutritious emphasizes providing food value, not the invigorating strengthening purpose." },
+        { "distractor": "energy-boosting", "closeness": 3, "reasoning": "The supplement boosts energy, fitting performance enhancement, but energy-boosting emphasizes increasing vigor, not the comprehensive strengthening of roborant." },
+        { "distractor": "performance-enhancing", "closeness": 3, "reasoning": "The supplement enhances performance, but performance-enhancing describes effect, not the invigorating strengthening nature of roborant." },
+        { "distractor": "conditioning", "closeness": 2, "reasoning": "The supplement aids conditioning, but conditioning emphasizes training or preparing, not the invigorating strengthening quality." },
+        { "distractor": "endurance-building", "closeness": 2, "reasoning": "The supplement builds endurance, but endurance-building emphasizes capacity for sustained effort, not the strengthening invigorating quality." },
+        { "distractor": "fortifying", "closeness": 2, "reasoning": "The supplement fortifies the athlete, and fortifying means strengthening, but fortified emphasizes making strong, not the invigorating quality of roborant." },
+        { "distractor": "supportive", "closeness": 2, "reasoning": "The supplement supports recovery, but supportive emphasizes providing help, not the invigorating strengthening of roborant." },
+        { "distractor": "depleting", "closeness": 1, "reasoning": "The roborant supplement enhances performance and recovery; depleting would mean draining or weakening, opposite." },
+        { "distractor": "debilitating", "closeness": 1, "reasoning": "The supplement invigorate and strengthens; debilitating would mean weakening or weakening, opposite." },
+        { "distractor": "harmful", "closeness": 1, "reasoning": "The roborant supplement enhances performance; harmful would mean injurious, opposite." }
+      ]
+    },
+    {
+      "sentence": "Herbalists prepared a roborant tincture from ginseng and other warming roots, describing it as a preparation that would restore vital energy to the elderly.",
+      "answerChoices": [
+        { "distractor": "soothing", "closeness": 3, "reasoning": "The tincture might be soothing to the digestive system, but soothing emphasizes calming or relieving, not the strengthening invigorating purpose." },
+        { "distractor": "herbal", "closeness": 3, "reasoning": "The tincture is herbal in origin, fitting its plant-based nature, but herbal simply describes the source, not the strengthening invigorating quality." },
+        { "distractor": "warming", "closeness": 3, "reasoning": "The tincture is made from warming roots, and warming describes the herbs' nature, but warming is not the invigorating strengthening quality of roborant." },
+        { "distractor": "medicinal", "closeness": 3, "reasoning": "The tincture is medicinal and therapeutic, but medicinal describes its function as medicine, not specifically the strengthening invigorating quality." },
+        { "distractor": "tonifying", "closeness": 2, "reasoning": "The tincture might tonify or invigorate, but tonifying emphasizes adjusting tone, not the comprehensive strengthening of roborant." },
+        { "distractor": "energizing", "closeness": 2, "reasoning": "The tincture energizes the elderly, but energizing emphasizes giving energy, not the invigorating strengthening quality." },
+        { "distractor": "revitalizing", "closeness": 2, "reasoning": "The tincture revitalizes vital energy, but revitalizing emphasizes bringing back life, not specifically the strengthening of roborant." },
+        { "distractor": "rejuvenating", "closeness": 2, "reasoning": "The tincture rejuvenates the elderly, but rejuvenating emphasizes making young again, not the invigorating strengthening quality." },
+        { "distractor": "enervating", "closeness": 1, "reasoning": "The roborant tincture restores vital energy; enervating would mean weakening or sapping strength, opposite." },
+        { "distractor": "debilitating", "closeness": 1, "reasoning": "The tincture is described as strengthening vital energy; debilitating would mean weakening, opposite." },
+        { "distractor": "toxic", "closeness": 1, "reasoning": "The roborant tincture restores health and strength; toxic would be poisonous and harmful, opposite." }
+      ]
+    }
+  ]
+}

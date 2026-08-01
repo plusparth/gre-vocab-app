@@ -1,0 +1,53 @@
+{
+  "word": "document",
+  "sentenceSets": [
+    {
+      "sentence": "She documented every decision carefully, knowing that the record might be the only defense available later.",
+      "answerChoices": [
+        { "distractor": "recorded", "closeness": 3, "reasoning": "Close -- 'recorded' emphasizes capturing information mechanically; 'documented' implies a deliberate, systematic effort to preserve evidence for justification." },
+        { "distractor": "noted", "closeness": 3, "reasoning": "Close -- 'noted' means to observe and mark; while similar, it is less formal and carries less weight as evidence compared to 'documented'." },
+        { "distractor": "filed", "closeness": 3, "reasoning": "Close -- 'filed' means to store systematically, which overlaps with documentation, but it emphasizes the organizational aspect rather than the defensive preservation of proof." },
+        { "distractor": "archived", "closeness": 3, "reasoning": "Close -- 'archived' means to preserve for historical record; the sentence's emphasis on potential legal defense suggests active documentation for protective purposes, not historical preservation." },
+        { "distractor": "logged", "closeness": 2, "reasoning": "Incorrect -- 'logged' implies a simple, ongoing record (like a captain's log); it lacks the deliberate defensive intent implied by 'documented'." },
+        { "distractor": "compiled", "closeness": 2, "reasoning": "Incorrect -- 'compiled' means to assemble from multiple sources; the sentence focuses on systematic capturing of individual decisions, not compilation." },
+        { "distractor": "catalogued", "closeness": 2, "reasoning": "Incorrect -- 'catalogued' emphasizes organizing and listing; it does not convey the sense of preserving evidence for defense." },
+        { "distractor": "witnessed", "closeness": 2, "reasoning": "Incorrect -- 'witnessed' means to observe and testify; while related to proof-gathering, it suggests a passive observing role rather than active documentation." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Opposite -- 'ignored' means to disregard; it directly contradicts the careful preservation described in the sentence." },
+        { "distractor": "destroyed", "closeness": 1, "reasoning": "Opposite -- 'destroyed' means to eliminate; it is the opposite of preserving records for future defense." },
+        { "distractor": "concealed", "closeness": 1, "reasoning": "Opposite -- 'concealed' means to hide; the sentence emphasizes transparency and careful preservation, not secrecy." }
+      ]
+    },
+    {
+      "sentence": "The auditor's meticulous notes served as documents that proved the company had misallocated funds across three fiscal years.",
+      "answerChoices": [
+        { "distractor": "evidence", "closeness": 3, "reasoning": "Close -- 'evidence' is synonymous with proof, but 'documents' specifically denotes written or recorded proof, which fits the auditor's 'meticulous notes'." },
+        { "distractor": "records", "closeness": 3, "reasoning": "Close -- 'records' refers to stored information, but 'documents' emphasizes proof that can be formally submitted, fitting the legal/audit context." },
+        { "distractor": "testimony", "closeness": 3, "reasoning": "Close -- 'testimony' provides proof through spoken account; the sentence refers to written notes that serve as 'documents', not oral statements." },
+        { "distractor": "proofs", "closeness": 3, "reasoning": "Close -- 'proofs' is a general term for verification; 'documents' specifically refers to written or recorded material, which matches the auditor's notes." },
+        { "distractor": "indicators", "closeness": 2, "reasoning": "Incorrect -- 'indicators' are signs or signals; they lack the formal, documentary weight needed to prove misallocation in an audit context." },
+        { "distractor": "clues", "closeness": 2, "reasoning": "Incorrect -- 'clues' are hints for investigation; they do not constitute the formal proof that 'documents' implies." },
+        { "distractor": "observations", "closeness": 2, "reasoning": "Incorrect -- 'observations' are general findings; the sentence specifies that the auditor's notes functioned as formal proof documents." },
+        { "distractor": "theories", "closeness": 2, "reasoning": "Incorrect -- 'theories' are proposed explanations; the sentence emphasizes factual proof, not speculation." },
+        { "distractor": "rumors", "closeness": 1, "reasoning": "Opposite -- 'rumors' are unverified claims; 'documents' are concrete proof, the opposite of hearsay." },
+        { "distractor": "allegations", "closeness": 1, "reasoning": "Incorrect -- 'allegations' are claims without proof; the sentence shows that the auditor's notes actually provided documented proof." },
+        { "distractor": "speculation", "closeness": 1, "reasoning": "Incorrect -- 'speculation' is conjecture; the sentence emphasizes that meticulous notes served as concrete, factual proof." }
+      ]
+    },
+    {
+      "sentence": "To establish her legal claim, the plaintiff gathered documents ranging from emails to bank statements that would support her position.",
+      "answerChoices": [
+        { "distractor": "artifacts", "closeness": 3, "reasoning": "Close -- 'artifacts' are material objects; while emails and bank statements are artifacts in a broad sense, 'documents' specifically refers to records intended to serve as evidence." },
+        { "distractor": "exhibits", "closeness": 3, "reasoning": "Close -- 'exhibits' are items presented in court; the sentence emphasizes gathering items for legal support, but 'documents' more precisely names written or recorded proof." },
+        { "distractor": "materials", "closeness": 3, "reasoning": "Close -- 'materials' is a generic term for component items; 'documents' specifically refers to formal records suitable for legal proceedings." },
+        { "distractor": "submissions", "closeness": 3, "reasoning": "Close -- 'submissions' refers to items formally presented; the sentence emphasizes the gathering phase before submission, making 'documents' more precise than 'submissions'." },
+        { "distractor": "items", "closeness": 2, "reasoning": "Incorrect -- 'items' is too generic; the sentence specifies emails and bank statements, which are particular types of recorded materials best described as 'documents'." },
+        { "distractor": "resources", "closeness": 2, "reasoning": "Incorrect -- 'resources' suggests tools or assets; the sentence focuses on specific proof items, not general resources." },
+        { "distractor": "references", "closeness": 2, "reasoning": "Incorrect -- 'references' are citations or allusions; emails and bank statements are direct proof, not references to something else." },
+        { "distractor": "examples", "closeness": 2, "reasoning": "Incorrect -- 'examples' are illustrations; the sentence shows the plaintiff gathering specific items as legal proof, not examples." },
+        { "distractor": "lies", "closeness": 1, "reasoning": "Opposite -- 'lies' are false statements; the sentence emphasizes gathering materials to support a legal position, implying truthfulness and substantiation." },
+        { "distractor": "fabrications", "closeness": 1, "reasoning": "Opposite -- 'fabrications' are false constructions; gathering them would undermine rather than support a legal claim." },
+        { "distractor": "contradictions", "closeness": 1, "reasoning": "Opposite -- 'contradictions' would weaken rather than support her position; the sentence describes gathering items that would help her legal claim." }
+      ]
+    }
+  ]
+}

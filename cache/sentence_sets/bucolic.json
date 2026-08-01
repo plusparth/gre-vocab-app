@@ -1,0 +1,53 @@
+{
+  "word": "bucolic",
+  "sentenceSets": [
+    {
+      "sentence": "The painting depicted a bucolic landscape of rolling fields and grazing animals, a world untouched by industry.",
+      "answerChoices": [
+        { "distractor": "romantic", "closeness": 3, "reasoning": "The sentence focuses on a concrete pastoral scene (rolling fields, grazing animals) rather than emotional or sentimental idealization; 'romantic' emphasizes emotional fantasy rather than agricultural reality." },
+        { "distractor": "idyllic", "closeness": 3, "reasoning": "While both could describe an appealing countryside, 'idyllic' emphasizes perfect paradise; the sentence emphasizes the specific agricultural and pastoral elements (grazing animals, fields), not idealized perfection." },
+        { "distractor": "serene", "closeness": 3, "reasoning": "'Serene' refers only to peaceful calm; the sentence's specific mention of grazing animals and fields points to shepherding or farming tradition and heritage, which is more particular than tranquility alone." },
+        { "distractor": "tranquil", "closeness": 3, "reasoning": "Tranquil means calm and undisturbed, which the landscape may be; however, the sentence emphasizes the agricultural and pastoral character (grazing animals, fields), a tradition rather than just a peaceful quality." },
+        { "distractor": "artistic", "closeness": 2, "reasoning": "'Artistic' describes the painter's skill or the work's style; the sentence requires a word describing what kind of landscape content the painting shows, not the art form itself." },
+        { "distractor": "scenic", "closeness": 2, "reasoning": "'Scenic' refers to visual impressiveness and beauty; the sentence emphasizes the agricultural and pastoral elements (fields, grazing animals) over mere visual scenery." },
+        { "distractor": "picturesque", "closeness": 2, "reasoning": "'Picturesque' stresses charming visual appeal; the sentence's focus on grazing animals and fields indicates a shepherding or farming tradition, which is more substantive than charm." },
+        { "distractor": "restful", "closeness": 2, "reasoning": "Restful refers to providing relaxation or repose; while the landscape may be restful, the sentence emphasizes the agricultural and pastoral elements (fields, grazing animals), which are more substantive than mere repose." },
+        { "distractor": "industrial", "closeness": 1, "reasoning": "The sentence explicitly states the landscape is 'untouched by industry,' making industrial the direct opposite of what is being described." },
+        { "distractor": "urban", "closeness": 1, "reasoning": "The landscape is explicitly rural and non-urban; urban contradicts the countryside scene of fields and animals." },
+        { "distractor": "modern", "closeness": 1, "reasoning": "The phrase 'untouched by industry' implies timelessness and tradition rather than contemporary innovation; this depicts ancient pastoral practice, not modern development." }
+      ]
+    },
+    {
+      "sentence": "The entrepreneur abandoned her corporate career to pursue a bucolic dream of starting an organic farm with her partner, inspired by childhood memories of rural simplicity.",
+      "answerChoices": [
+        { "distractor": "agrarian", "closeness": 3, "reasoning": "Agrarian relates to farming and agriculture in general; however, the sentence's reference to 'childhood memories' and 'dream' suggests a lifestyle centered on shepherding and pastoral tradition rather than industrial farming." },
+        { "distractor": "rustic", "closeness": 3, "reasoning": "Rustic emphasizes old-fashioned or rough simplicity; the sentence's mention of a 'dream' and 'childhood memories' points to a specific pastoral and shepherding heritage, not merely rustic quaintness." },
+        { "distractor": "humble", "closeness": 3, "reasoning": "Humble refers to modest status or simplicity; while relevant, the sentence's focus on 'childhood memories' and a specific lifestyle connected to shepherds suggests a pastoral tradition rather than just humility." },
+        { "distractor": "simple", "closeness": 3, "reasoning": "Simple describes plainness or lack of complexity; the sentence emphasizes a particular pastoral and shepherding tradition ('memories of rural simplicity'), not merely simplicity in general." },
+        { "distractor": "rural", "closeness": 2, "reasoning": "Rural refers to countryside living; the sentence's mention of 'organic farm' and 'pastoral' memories suggests a heritage tied to shepherding and pastoral traditions, not just geographic setting." },
+        { "distractor": "wholesome", "closeness": 2, "reasoning": "Wholesome means morally good or healthy; while the dream may be wholesome, the sentence points to a particular pastoral and shepherding lifestyle tradition." },
+        { "distractor": "quiet", "closeness": 2, "reasoning": "Quiet describes absence of noise; the sentence's reference to 'childhood memories' and a specific lifestyle points to a shepherding and pastoral heritage rather than merely quiet surroundings." },
+        { "distractor": "peaceful", "closeness": 2, "reasoning": "Peaceful means undisturbed and calm; while the lifestyle may be peaceful, the sentence emphasizes a particular shepherding and pastoral tradition connected to 'childhood memories.'" },
+        { "distractor": "sophisticated", "closeness": 1, "reasoning": "Sophisticated describes refinement or complexity; this directly opposes the 'simplicity' explicitly mentioned in the sentence." },
+        { "distractor": "ambitious", "closeness": 1, "reasoning": "The sentence describes abandoning a corporate career; 'ambitious' suggests career-driven achievement, the opposite of this choice." },
+        { "distractor": "cosmopolitan", "closeness": 1, "reasoning": "Cosmopolitan refers to urban worldliness; this contradicts the escape from corporate city life to rural and pastoral simplicity." }
+      ]
+    },
+    {
+      "sentence": "The poet's latest collection features bucolic odes to the shepherds and farmers of the Appalachian highlands, celebrating their daily connection to the land.",
+      "answerChoices": [
+        { "distractor": "lyrical", "closeness": 3, "reasoning": "Lyrical means expressing emotion or beauty in verse; the sentence's reference to 'odes' and 'shepherds and farmers' specifically indicates a pastoral and shepherding tradition, not merely emotional expression." },
+        { "distractor": "nostalgic", "closeness": 3, "reasoning": "Nostalgic refers to longing for the past; while the collection may evoke nostalgia, the sentence emphasizes a specific shepherding and farming heritage, not just sentimental yearning." },
+        { "distractor": "commemorative", "closeness": 3, "reasoning": "Commemorative means honoring or marking a significant event; the sentence's focus on 'shepherds and farmers' and their 'connection to the land' points to a pastoral and shepherding tradition rather than ceremonial memorialization." },
+        { "distractor": "allegorical", "closeness": 3, "reasoning": "Allegorical means using symbolic narrative; while the poems may be symbolic, the sentence emphasizes 'shepherds and farmers' and their actual 'daily connection to the land,' suggesting a pastoral tradition rather than allegory." },
+        { "distractor": "poetic", "closeness": 2, "reasoning": "Poetic is a general term for verse or elevated language; the sentence specifies 'odes to the shepherds and farmers,' pointing to a particular pastoral and shepherding subject matter." },
+        { "distractor": "reflective", "closeness": 2, "reasoning": "Reflective means thoughtful or introspective; while the collection may be reflective, 'shepherds and farmers' and their 'connection to the land' indicate a pastoral and shepherding focus." },
+        { "distractor": "wistful", "closeness": 2, "reasoning": "Wistful means yearning or pensive; the sentence emphasizes 'shepherds and farmers' and their 'daily connection to the land,' a pastoral and shepherding tradition rather than a wistful mood." },
+        { "distractor": "elegiac", "closeness": 2, "reasoning": "Elegiac refers to mourning or lamentation; while the tone may be elegiac, the sentence focuses on 'shepherds and farmers' and their pastoral and shepherding heritage." },
+        { "distractor": "satirical", "closeness": 1, "reasoning": "Satirical means mocking or ridiculing; the sentence's tone of 'celebrating their connection to the land' contradicts mockery or satire." },
+        { "distractor": "cynical", "closeness": 1, "reasoning": "Cynical implies distrust or negativity; 'celebrating their connection to the land' expresses positive regard, opposite to cynicism." },
+        { "distractor": "realistic", "closeness": 1, "reasoning": "Realistic emphasizes factual representation; 'odes' are traditionally celebratory and elevated verse, not realistic documentation." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "succinct",
+  "sentenceSets": [
+    {
+      "sentence": "Her most succinct summary of the argument was also her most persuasive, which was not a coincidence.",
+      "answerChoices": [
+        { "distractor": "concise", "closeness": 3, "reasoning": "While 'concise' means brief and to the point, it doesn't capture the precise sense of 'succinct,' which emphasizes using the minimal necessary words." },
+        { "distractor": "terse", "closeness": 3, "reasoning": "'Terse' means brief and abrupt in manner, but 'succinct' allows for elegance and grace while still using few words, whereas 'terse' often sounds rude." },
+        { "distractor": "eloquent", "closeness": 3, "reasoning": "'Eloquent' means expressive and persuasive language, but the sentence shows that brevity—not eloquent detail—made the summary persuasive." },
+        { "distractor": "clear", "closeness": 3, "reasoning": "A clear summary need not be brief; the sentence specifically emphasizes using the fewest words to make a point, not just clarity." },
+        { "distractor": "insightful", "closeness": 2, "reasoning": "An insightful summary might be persuasive, but that's about the depth of thought, not about using few words as the sentence indicates." },
+        { "distractor": "logical", "closeness": 2, "reasoning": "A logical argument structure contributes to persuasiveness, but the sentence emphasizes brevity, not logical structure." },
+        { "distractor": "accurate", "closeness": 2, "reasoning": "An accurate summary is important, but the sentence shows that using few words specifically contributed to persuasiveness." },
+        { "distractor": "persuasive", "closeness": 2, "reasoning": "The summary is persuasive, but that's the result; 'succinct' describes the method—using few words." },
+        { "distractor": "verbose", "closeness": 1, "reasoning": "'Verbose' means using many more words than necessary, which is directly opposite to succinct." },
+        { "distractor": "elaborate", "closeness": 1, "reasoning": "An elaborate summary uses many details and extensive language, opposite to the economy of words in 'succinct.'" },
+        { "distractor": "rambling", "closeness": 1, "reasoning": "'Rambling' means disorganized and long-winded, the opposite of succinct." }
+      ]
+    },
+    {
+      "sentence": "The memo was succinct—two paragraphs instead of the usual ten—yet it conveyed all essential information without sacrifice of accuracy.",
+      "answerChoices": [
+        { "distractor": "abbreviated", "closeness": 3, "reasoning": "'Abbreviated' means shortened, but it describes the process of cutting content; 'succinct' emphasizes achieving something with minimal words while preserving value." },
+        { "distractor": "condensed", "closeness": 3, "reasoning": "'Condensed' suggests compressing content, but 'succinct' implies using few words naturally, not forcing content into a smaller space." },
+        { "distractor": "compact", "closeness": 3, "reasoning": "'Compact' means closely fitted together; the sentence emphasizes economy of words, not physical tightness or arrangement." },
+        { "distractor": "crisp", "closeness": 3, "reasoning": "'Crisp' suggests clear and sharp but doesn't specifically mean using few words; something can be crisp and still be lengthy." },
+        { "distractor": "detailed", "closeness": 2, "reasoning": "A detailed memo would contain more information; the sentence shows the memo uses few words by reducing length, not adding details." },
+        { "distractor": "comprehensive", "closeness": 2, "reasoning": "While this memo conveys essential information, 'comprehensive' suggests thorough coverage, which the brevity (two paragraphs vs. ten) contradicts." },
+        { "distractor": "technical", "closeness": 2, "reasoning": "The memo conveys information, but 'technical' describes the type of content, not the economy of language." },
+        { "distractor": "professional", "closeness": 2, "reasoning": "Professional memos can be any length; the sentence emphasizes the specific quality of using few words." },
+        { "distractor": "lengthy", "closeness": 1, "reasoning": "The memo is notably short (two paragraphs vs. ten), making 'lengthy' directly opposite." },
+        { "distractor": "redundant", "closeness": 1, "reasoning": "A succinct memo without sacrifice of accuracy implies no redundancy; 'redundant' contradicts this." },
+        { "distractor": "incomplete", "closeness": 1, "reasoning": "The memo conveys all essential information, so 'incomplete' contradicts the sentence." }
+      ]
+    },
+    {
+      "sentence": "The lawyer's succinct closing argument—cutting away the details to focus on the single unambiguous fact—proved more effective than his opponent's lengthy rebuttal.",
+      "answerChoices": [
+        { "distractor": "pointed", "closeness": 3, "reasoning": "A 'pointed' argument is sharp and direct, but it emphasizes the cutting quality rather than specifically using few words to maximum effect." },
+        { "distractor": "direct", "closeness": 3, "reasoning": "'Direct' means straightforward and to the point, but the sentence shows the lawyer achieved this by cutting details and using few words." },
+        { "distractor": "forceful", "closeness": 3, "reasoning": "'Forceful' emphasizes strength of argument, but the sentence shows the effectiveness comes from brevity and focus, not force." },
+        { "distractor": "strategic", "closeness": 3, "reasoning": "The lawyer's choice to cut details is strategic, but 'strategic' describes planning, whereas 'succinct' describes the result of using few words." },
+        { "distractor": "eloquent", "closeness": 2, "reasoning": "Eloquence achieves persuasiveness through powerful language; the lawyer achieves it through cutting away details and brevity." },
+        { "distractor": "confident", "closeness": 2, "reasoning": "A single unambiguous fact might inspire confidence, but 'confident' describes the tone, not the use of few words." },
+        { "distractor": "compelling", "closeness": 2, "reasoning": "The argument is compelling, but 'compelling' describes the effect; 'succinct' describes the method." },
+        { "distractor": "logical", "closeness": 2, "reasoning": "Focusing on one fact might be logical, but the sentence emphasizes brevity, not logic." },
+        { "distractor": "verbose", "closeness": 1, "reasoning": "Verbose means using many words; the lawyer's succinct approach uses few words, opposite to verbose." },
+        { "distractor": "meandering", "closeness": 1, "reasoning": "The lawyer focuses on a single fact; a meandering argument would wander through many points." },
+        { "distractor": "rambling", "closeness": 1, "reasoning": "Rambling means long and disorganized; succinct means using few words with focus." }
+      ]
+    }
+  ]
+}

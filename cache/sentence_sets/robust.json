@@ -1,0 +1,53 @@
+{
+  "word": "robust",
+  "sentenceSets": [
+    {
+      "sentence": "A robust methodology produces findings that survive the challenges of replication, varied conditions, and critical scrutiny.",
+      "answerChoices": [
+        { "distractor": "thorough", "closeness": 3, "reasoning": "A robust methodology is thorough in its approach, but thorough emphasizes completeness, not the strength and vigor that robust conveys." },
+        { "distractor": "rigorous", "closeness": 3, "reasoning": "A robust methodology is rigorous and exacting, but rigorous emphasizes strict adherence to standards, not the strength and vigor of robust." },
+        { "distractor": "sound", "closeness": 3, "reasoning": "A robust methodology is sound and well-founded, but sound emphasizes being correct or well-based, not the strength and vigor of robust." },
+        { "distractor": "reliable", "closeness": 3, "reasoning": "A robust methodology is reliable and dependable, but reliable emphasizes consistency and dependability, not the strength and vigor of robust." },
+        { "distractor": "valid", "closeness": 2, "reasoning": "A robust methodology is valid and well-justified, but valid emphasizes having a sound basis, not the strength and vigor." },
+        { "distractor": "solid", "closeness": 2, "reasoning": "A robust methodology has a solid foundation, but solid emphasizes being firm or substantial, not the vigorous strength of robust." },
+        { "distractor": "credible", "closeness": 2, "reasoning": "A robust methodology is credible and worthy of belief, but credible emphasizes being believable, not the strength and vigor." },
+        { "distractor": "empirical", "closeness": 2, "reasoning": "A robust methodology is empirically grounded, but empirical emphasizes being based on observation or data, not the strength aspect." },
+        { "distractor": "flawed", "closeness": 1, "reasoning": "A robust methodology survives critical scrutiny; flawed would mean having defects, opposite." },
+        { "distractor": "weak", "closeness": 1, "reasoning": "The methodology is robust and survives challenges; weak would mean lacking strength or vigor, opposite." },
+        { "distractor": "fragile", "closeness": 1, "reasoning": "A robust methodology is strong and survives varied conditions; fragile would mean easily broken or damaged, opposite." }
+      ]
+    },
+    {
+      "sentence": "The robust economy of the region weathered the financial crisis better than surrounding areas, maintaining employment and growth throughout the downturn.",
+      "answerChoices": [
+        { "distractor": "strong", "closeness": 3, "reasoning": "The economy is strong and robust, but strong simply describes power or vigor, not the combination of strength and health that robust conveys." },
+        { "distractor": "stable", "closeness": 3, "reasoning": "The economy is stable and resilient, but stable emphasizes not changing, whereas robust emphasizes having inherent strength and vigor." },
+        { "distractor": "healthy", "closeness": 3, "reasoning": "The economy is healthy and vigorous, but healthy emphasizes good condition, not the comprehensive strength and vigor of robust." },
+        { "distractor": "thriving", "closeness": 3, "reasoning": "The economy is thriving and growing, but thriving emphasizes prospering or flourishing, not the inherent strength and vigor of robust." },
+        { "distractor": "prosperous", "closeness": 2, "reasoning": "The economy is prosperous and successful, but prosperous emphasizes financial success, not the robust strength and vigor." },
+        { "distractor": "dynamic", "closeness": 2, "reasoning": "The economy is dynamic and growing, but dynamic emphasizes energetic activity, not the robust strength and vigor." },
+        { "distractor": "flourishing", "closeness": 2, "reasoning": "The economy is flourishing and growing, but flourishing emphasizes thriving or prospering, not the inherent strength." },
+        { "distractor": "vibrant", "closeness": 2, "reasoning": "The economy is vibrant and lively, but vibrant emphasizes lively energy, not the comprehensive robust strength." },
+        { "distractor": "fragile", "closeness": 1, "reasoning": "The robust economy weathered the crisis well; fragile would mean delicate and easily broken, opposite." },
+        { "distractor": "vulnerable", "closeness": 1, "reasoning": "The robust economy maintained growth; vulnerable would mean open to harm, opposite." },
+        { "distractor": "declining", "closeness": 1, "reasoning": "The robust economy maintained employment and growth; declining would mean decreasing or weakening, opposite." }
+      ]
+    },
+    {
+      "sentence": "The wine had a robust flavor profile, with bold tannins and a full body that stood up well to rich meat dishes.",
+      "answerChoices": [
+        { "distractor": "full-bodied", "closeness": 3, "reasoning": "The wine has a full body, and full-bodied is mentioned in the sentence, but full-bodied describes the body weight specifically, not the overall robust strength." },
+        { "distractor": "powerful", "closeness": 3, "reasoning": "The wine is powerful and bold, but powerful emphasizes strength of effect, not the comprehensive vigor and health of robust." },
+        { "distractor": "rich", "closeness": 3, "reasoning": "The wine is rich and complex, but rich emphasizes abundance of flavor, not the strength and vigor of robust." },
+        { "distractor": "complex", "closeness": 3, "reasoning": "The wine has complexity in its flavors, but complex emphasizes intricacy, not the strength and vigor of robust." },
+        { "distractor": "intense", "closeness": 2, "reasoning": "The wine has intense flavors and tannins, but intense emphasizes strength of sensation, not the comprehensive vigor of robust." },
+        { "distractor": "assertive", "closeness": 2, "reasoning": "The wine is assertive with bold tannins, but assertive emphasizes pronounced quality, not the inherent strength and vigor." },
+        { "distractor": "bold", "closeness": 2, "reasoning": "The wine is bold in flavor, and bold is mentioned in the sentence, but bold emphasizes daring or noticeable, not the comprehensive robust vigor." },
+        { "distractor": "sophisticated", "closeness": 2, "reasoning": "The wine might be sophisticated, but sophisticated emphasizes refinement, not the strength and vigor of robust." },
+        { "distractor": "delicate", "closeness": 1, "reasoning": "The wine is robust with bold tannins and full body; delicate would mean fragile or subtle, opposite." },
+        { "distractor": "light", "closeness": 1, "reasoning": "The wine has a robust full body; light would mean not substantial in weight or strength, opposite." },
+        { "distractor": "thin", "closeness": 1, "reasoning": "The wine has a robust full body and strong flavors; thin would mean lacking substance or strength, opposite." }
+      ]
+    }
+  ]
+}

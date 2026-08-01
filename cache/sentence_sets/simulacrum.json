@@ -1,0 +1,53 @@
+{
+  "word": "simulacrum",
+  "sentenceSets": [
+    {
+      "sentence": "The consultation was a simulacrum of genuine participation, providing form without the substance that would have made it meaningful.",
+      "answerChoices": [
+        { "distractor": "illusion", "closeness": 3, "reasoning": "Illusion suggests a false perception or trick of the mind, but simulacrum specifically denotes a visible representation or copy, regardless of whether it deceives." },
+        { "distractor": "mockery", "closeness": 3, "reasoning": "Mockery implies ridicule or scorn, whereas simulacrum is neutral—it is a copy that lacks substance without necessarily being derisive." },
+        { "distractor": "facade", "closeness": 3, "reasoning": "Facade describes a false front, but simulacrum emphasizes the representation itself rather than the deliberate concealment of what lies behind it." },
+        { "distractor": "pretense", "closeness": 3, "reasoning": "Pretense suggests a deliberate false claim, while simulacrum is simply an image or copy—something can be a simulacrum without anyone falsely claiming it to be real." },
+        { "distractor": "substitute", "closeness": 2, "reasoning": "Substitute indicates a replacement for something else, but simulacrum stresses the notion of it being a mere representation or echo rather than a functional alternative." },
+        { "distractor": "counterpart", "closeness": 2, "reasoning": "Counterpart suggests something that matches or corresponds to another, without the connotation that it lacks the substance or depth of the original." },
+        { "distractor": "phantom", "closeness": 2, "reasoning": "Phantom implies something intangible or ghostlike, whereas simulacrum refers to a concrete representation or copy that may have material form." },
+        { "distractor": "duplicate", "closeness": 2, "reasoning": "Duplicate describes an exact copy, while simulacrum emphasizes the gap between surface appearance and underlying reality or substance." },
+        { "distractor": "original", "closeness": 1, "reasoning": "Original is the opposite of simulacrum, which is by definition a representation or image of something else." },
+        { "distractor": "substance", "closeness": 1, "reasoning": "Substance is what the sentence says the simulacrum lacks, making it a direct antonym in context." },
+        { "distractor": "authenticity", "closeness": 1, "reasoning": "Authenticity represents the genuine article, directly opposite to the false or merely representative nature of a simulacrum." }
+      ]
+    },
+    {
+      "sentence": "The company's new community outreach program was revealed to be largely a simulacrum after journalists discovered the budget allocated was merely decorative.",
+      "answerChoices": [
+        { "distractor": "scheme", "closeness": 3, "reasoning": "Scheme implies a devised plan with intention to deceive, whereas simulacrum stresses the emptiness of form; the program could be a simulacrum without anyone actively plotting." },
+        { "distractor": "performance", "closeness": 3, "reasoning": "Performance suggests a deliberate act put on for an audience, while simulacrum can refer to something that merely appears or is structured to resemble something without active stagecraft." },
+        { "distractor": "hoax", "closeness": 3, "reasoning": "Hoax implies deliberate deception intended to trick people, whereas simulacrum simply denotes a representation lacking substance—deception may not be the intent." },
+        { "distractor": "ruse", "closeness": 3, "reasoning": "Ruse emphasizes the trick or stratagem aspect, while simulacrum is more purely descriptive of the form-without-substance quality regardless of intent." },
+        { "distractor": "sham", "closeness": 2, "reasoning": "Sham is close but carries stronger connotations of fraudulent intent; simulacrum can describe an empty representation without moral judgment about deception." },
+        { "distractor": "show", "closeness": 2, "reasoning": "Show can mean merely presenting an appearance, but simulacrum emphasizes the structural gap between image and reality rather than just the visible presentation." },
+        { "distractor": "invention", "closeness": 2, "reasoning": "Invention suggests something created, whereas simulacrum refers specifically to a representation or copy of something that already exists." },
+        { "distractor": "fiasco", "closeness": 2, "reasoning": "Fiasco denotes a dramatic failure or collapse, while simulacrum simply means an empty representation—the outcome is different from the meaning." },
+        { "distractor": "success", "closeness": 1, "reasoning": "Success is the opposite of what the sentence suggests about a program that lacks actual substance or impact." },
+        { "distractor": "genuine effort", "closeness": 1, "reasoning": "The context makes clear the program lacks genuine effort, so genuine effort directly contradicts what simulacrum conveys here." },
+        { "distractor": "transparency", "closeness": 1, "reasoning": "Transparency and genuine substance are what the sentence indicates is absent from the simulacrum program." }
+      ]
+    },
+    {
+      "sentence": "The forger created a simulacrum so convincing that even museum conservators initially mistook it for the Renaissance original.",
+      "answerChoices": [
+        { "distractor": "forgery", "closeness": 3, "reasoning": "Forgery is what was created, but simulacrum describes the nature of what exists—a deceptive imitation. The terms are related but forged objects are simulacra, not vice versa." },
+        { "distractor": "replica", "closeness": 3, "reasoning": "Replica means an accurate copy or reproduction, but simulacrum stresses the representation's inadequacy or divergence from the original, even when visually similar." },
+        { "distractor": "imitation", "closeness": 3, "reasoning": "Imitation describes the act or result of copying, while simulacrum emphasizes the simulacral nature—the gap between appearance and reality that an imitation might bridge." },
+        { "distractor": "counterfeit", "closeness": 3, "reasoning": "Counterfeit specifically means made to deceive for fraud, whereas simulacrum can be any representation that lacks the depth or authenticity of the original." },
+        { "distractor": "facsimile", "closeness": 2, "reasoning": "Facsimile denotes an exact or close copy, while simulacrum emphasizes representation without substance, a subtler distinction than mere accuracy." },
+        { "distractor": "copy", "closeness": 2, "reasoning": "Copy is generic and could mean a faithful reproduction, whereas simulacrum carries the connotation that something essential is missing." },
+        { "distractor": "echo", "closeness": 2, "reasoning": "Echo implies a faint or weaker version of something, but simulacrum refers to a representation that may be visually convincing while lacking internal authenticity." },
+        { "distractor": "shadow", "closeness": 2, "reasoning": "Shadow suggests a faint trace or outline, whereas simulacrum can be visually detailed and elaborate while remaining a mere representation." },
+        { "distractor": "original", "closeness": 1, "reasoning": "Original is what the conservators initially thought they were seeing, the opposite of simulacrum in this context." },
+        { "distractor": "authentic", "closeness": 1, "reasoning": "Authentic art stands opposite to simulacrum, which is defined by its representational, non-original nature." },
+        { "distractor": "genuine", "closeness": 1, "reasoning": "Genuine means real and original, directly opposed to the imitative and representational quality that defines a simulacrum." }
+      ]
+    }
+  ]
+}

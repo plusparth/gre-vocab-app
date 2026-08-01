@@ -1,0 +1,53 @@
+{
+  "word": "biased",
+  "sentenceSets": [
+    {
+      "sentence": "The study was criticized as biased because its funding came entirely from an industry group.",
+      "answerChoices": [
+        { "distractor": "prejudiced", "closeness": 3, "reasoning": "Both mean to have an unfair preference, but 'prejudiced' typically refers to personal beliefs about groups of people, whereas 'biased' in a study context refers to systematic errors in methodology or funding conflicts." },
+        { "distractor": "tainted", "closeness": 3, "reasoning": "Both suggest corrupted or compromised, but 'tainted' implies something has been contaminated or poisoned, whereas 'biased' in research refers to systematic favoritism in collection or analysis." },
+        { "distractor": "skewed", "closeness": 3, "reasoning": "Both refer to lack of objectivity, and 'skewed' specifically means twisted or distorted from true representation, which is similar to being biased, making this a very close alternative." },
+        { "distractor": "compromised", "closeness": 3, "reasoning": "Both suggest a loss of integrity, but 'compromised' implies the integrity was undermined by external pressure or conflict, while 'biased' describes the state of lacking objectivity." },
+        { "distractor": "partial", "closeness": 2, "reasoning": "Related but different—'partial' means favoring one side over another, which resembles 'biased,' but the term less commonly describes scientific studies and might imply conscious favoritism." },
+        { "distractor": "unfair", "closeness": 2, "reasoning": "Related—'unfair' refers to not treating parties equally, which is an effect of bias, but it is more general and does not specifically capture the systematic error of bias in research." },
+        { "distractor": "slanted", "closeness": 2, "reasoning": "Related—'slanted' means to present from a particular angle or perspective, which resembles bias, but it is more commonly used for media reporting than scientific studies." },
+        { "distractor": "distorted", "closeness": 2, "reasoning": "Related—'distorted' means twisted or altered from truth, but it emphasizes the degree of alteration rather than the systematic favoritism that bias conveys." },
+        { "distractor": "objective", "closeness": 1, "reasoning": "Opposite—'objective' means free from bias or personal prejudice." },
+        { "distractor": "impartial", "closeness": 1, "reasoning": "Opposite—'impartial' means not taking sides, the opposite of bias." },
+        { "distractor": "neutral", "closeness": 1, "reasoning": "Opposite—'neutral' means not favoring either side, opposite of bias." }
+      ]
+    },
+    {
+      "sentence": "The teacher's biased grading favored students from wealthy families.",
+      "answerChoices": [
+        { "distractor": "discriminatory", "closeness": 3, "reasoning": "Both refer to unfair treatment, but 'discriminatory' specifically means treating people unequally based on group membership, which is similar to, but slightly different from, systematic favoritism in grading." },
+        { "distractor": "preferential", "closeness": 3, "reasoning": "Both suggest favoring one option, but 'preferential' treatment is when someone receives special advantage, whereas 'biased' grading means the grading process itself systematically favors certain students." },
+        { "distractor": "inequitable", "closeness": 3, "reasoning": "Both refer to unfairness, but 'inequitable' emphasizes unequal distribution of resources or treatment, while 'biased' specifically describes a systematic tilt in judgment toward one group." },
+        { "distractor": "unequal", "closeness": 3, "reasoning": "Both refer to lack of fairness, but 'unequal' emphasizes differences in treatment or conditions, while 'biased' specifically describes a systematic tilt in judgment toward one group." },
+        { "distractor": "subjective", "closeness": 2, "reasoning": "Related but different—'subjective' means based on personal opinion rather than objective fact, which contributes to bias but does not necessarily mean biased against a particular group." },
+        { "distractor": "arbitrary", "closeness": 2, "reasoning": "Related—'arbitrary' means based on whim or chance rather than reason; while this might result in bias, it suggests randomness rather than systematic favoritism." },
+        { "distractor": "capricious", "closeness": 2, "reasoning": "Related—'capricious' means changeable or unpredictable in decisions, which could create unfairness but not necessarily systematic bias toward wealthy students." },
+        { "distractor": "inconsistent", "closeness": 2, "reasoning": "Related but wrong—'inconsistent' means varying or not uniform; while biased grading might be inconsistent, the word itself does not convey the specific sense of systematic favoritism." },
+        { "distractor": "equal", "closeness": 1, "reasoning": "Opposite—'equal' treatment is the opposite of 'biased' grading." },
+        { "distractor": "fair", "closeness": 1, "reasoning": "Opposite—'fair' grading treats all students equitably, opposite of 'biased.'" },
+        { "distractor": "unbiased", "closeness": 1, "reasoning": "Opposite—directly opposite of 'biased.'" }
+      ]
+    },
+    {
+      "sentence": "The algorithm's biased recommendations consistently steered users toward products from major corporations.",
+      "answerChoices": [
+        { "distractor": "selective", "closeness": 3, "reasoning": "Both suggest favoring certain options, but 'selective' means choosing carefully or being choosy, whereas 'biased' implies an unfair or systematic tilt toward major corporations." },
+        { "distractor": "weighted", "closeness": 3, "reasoning": "Both suggest favoring one option over others, but 'weighted' implies intentional mathematical favoritism built into a system, whereas 'biased' in this context means systematic favoritism despite appearing neutral." },
+        { "distractor": "predetermined", "closeness": 3, "reasoning": "Both suggest non-random outcomes, but 'predetermined' means decided in advance, while 'biased' refers to systematic favoritism built into the algorithm's decision-making." },
+        { "distractor": "manipulated", "closeness": 3, "reasoning": "Both suggest unfair influence on outcomes, but 'manipulated' implies deliberate intervention to change results, whereas 'biased' describes a built-in systematic tilt in the algorithm." },
+        { "distractor": "filtered", "closeness": 2, "reasoning": "Related but different—'filtered' suggests content is being screened or selected by criteria, which could result from bias but is not the same as describing an algorithm as biased." },
+        { "distractor": "curated", "closeness": 2, "reasoning": "Related—'curated' means carefully selected by someone, but it emphasizes intentional human choices rather than algorithmic bias." },
+        { "distractor": "programmed", "closeness": 2, "reasoning": "Related but wrong—'programmed' means set with instructions, but it does not convey the sense of systematic favoritism that 'biased' suggests." },
+        { "distractor": "conditioned", "closeness": 2, "reasoning": "Related—'conditioned' suggests the algorithm has been trained a certain way, which might cause bias, but the word itself does not directly mean biased." },
+        { "distractor": "random", "closeness": 1, "reasoning": "Opposite—'random' recommendations would be the opposite of 'biased' recommendations." },
+        { "distractor": "indifferent", "closeness": 1, "reasoning": "Opposite—'indifferent' recommendations would treat all products without favor, opposite of 'biased.'" },
+        { "distractor": "disinterested", "closeness": 1, "reasoning": "Opposite—'disinterested' means having no interest in the outcome, opposite of being biased toward certain corporations." }
+      ]
+    }
+  ]
+}

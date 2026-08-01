@@ -1,0 +1,53 @@
+{
+  "word": "attrition",
+  "sentenceSets": [
+    {
+      "sentence": "The company reduced staff by attrition rather than layoffs, allowing retirements to shrink the workforce.",
+      "answerChoices": [
+        { "distractor": "resignation", "closeness": 3, "reasoning": "Attrition includes resignations, but 'resignation' refers to the act of quitting, while 'attrition' encompasses retirements, deaths, and resignations as a gradual reduction." },
+        { "distractor": "retirement", "closeness": 3, "reasoning": "Retirement is part of attrition, but the sentence uses both words to show attrition includes retirement as one mechanism." },
+        { "distractor": "downsizing", "closeness": 3, "reasoning": "Both reduce workforce size, but 'downsizing' typically refers to deliberate layoffs or restructuring, whereas 'attrition' is natural reduction through departures." },
+        { "distractor": "elimination", "closeness": 3, "reasoning": "Positions are eliminated through attrition, but 'elimination' suggests deliberate removal, not the passive process of natural departures." },
+        { "distractor": "reduction", "closeness": 2, "reasoning": "Attrition causes reduction, but 'reduction' is too general; it doesn't specify the method of natural departure through resignations or retirements." },
+        { "distractor": "turnover", "closeness": 2, "reasoning": "Attrition creates turnover, but 'turnover' emphasizes the cycle of departures and replacements, not necessarily net workforce reduction." },
+        { "distractor": "transition", "closeness": 2, "reasoning": "The workforce transitions to smaller size, but 'transition' focuses on change, not the specific mechanism of natural departures." },
+        { "distractor": "erosion", "closeness": 2, "reasoning": "The workforce erodes through departures, but 'erosion' suggests external wearing, not the internal natural departures of attrition." },
+        { "distractor": "termination", "closeness": 1, "reasoning": "Attrition is specifically not termination; the company chose attrition to avoid layoffs, making termination the opposite approach." },
+        { "distractor": "expansion", "closeness": 1, "reasoning": "The opposite action; workforce shrinks through attrition, not expands." },
+        { "distractor": "hiring", "closeness": 1, "reasoning": "The opposite of attrition; while attrition reduces staff, hiring increases it." }
+      ]
+    },
+    {
+      "sentence": "The military campaign wore down the enemy through sustained attrition, exhausting their supplies and morale until surrender became inevitable.",
+      "answerChoices": [
+        { "distractor": "siege", "closeness": 3, "reasoning": "Both are military strategies to wear down an enemy, but 'siege' involves surrounding and cutting off supplies, whereas 'attrition' is gradual reduction through continuous losses." },
+        { "distractor": "harassment", "closeness": 3, "reasoning": "Both weaken the enemy through persistent action, but 'harassment' emphasizes irritating attacks, not the cumulative reduction of capacity." },
+        { "distractor": "depletion", "closeness": 3, "reasoning": "Attrition depletes resources, but 'depletion' refers to running out, not the specific process of gradual loss through sustained engagement." },
+        { "distractor": "exhaustion", "closeness": 3, "reasoning": "Attrition causes exhaustion, but 'exhaustion' describes the state of being drained, not the mechanism of gradual reduction." },
+        { "distractor": "bombardment", "closeness": 2, "reasoning": "Continuous bombardment can weaken an enemy, but 'bombardment' emphasizes intensity of fire, not the cumulative reduction of capacity." },
+        { "distractor": "blockade", "closeness": 2, "reasoning": "A blockade starves an enemy, but 'blockade' focuses on cutting off supplies, not the sustained losses and gradual weakening." },
+        { "distractor": "warfare", "closeness": 2, "reasoning": "Attrition is a form of warfare, but 'warfare' is too general, encompassing all military engagement." },
+        { "distractor": "pressure", "closeness": 2, "reasoning": "Attrition creates pressure on the enemy, but 'pressure' is abstract, not the specific gradual reduction of forces and resources." },
+        { "distractor": "annihilation", "closeness": 1, "reasoning": "The opposite scale; attrition is gradual reduction, not the sudden, complete destruction of annihilation." },
+        { "distractor": "reinforcement", "closeness": 1, "reasoning": "The opposite effect; attrition weakens the enemy's capacity, not reinforces it." },
+        { "distractor": "victory", "closeness": 1, "reasoning": "Attrition is the strategy leading to eventual victory, not the opposite outcome." }
+      ]
+    },
+    {
+      "sentence": "The startup lost its core team through attrition when key employees left for better opportunities at larger companies.",
+      "answerChoices": [
+        { "distractor": "poaching", "closeness": 3, "reasoning": "Larger companies recruit talented employees, but 'poaching' emphasizes the act of deliberate recruitment, whereas 'attrition' is the passive loss of departing employees." },
+        { "distractor": "defection", "closeness": 3, "reasoning": "Employees defect to other companies, but 'defection' emphasizes disloyalty or betrayal, whereas 'attrition' is neutral loss of departing staff." },
+        { "distractor": "exodus", "closeness": 3, "reasoning": "Multiple employees left, creating an exodus, but 'exodus' implies sudden mass departure, whereas 'attrition' can be gradual loss." },
+        { "distractor": "departure", "closeness": 3, "reasoning": "Employees depart through attrition, but 'departure' describes the individual act, not the cumulative organizational loss." },
+        { "distractor": "resignation", "closeness": 2, "reasoning": "Employees resign, contributing to attrition, but 'resignation' is the individual's action, not the organizational result." },
+        { "distractor": "abandonment", "closeness": 2, "reasoning": "Employees abandon the startup, but 'abandonment' implies betrayal or irresponsibility, not the neutral process of staff loss." },
+        { "distractor": "migration", "closeness": 2, "reasoning": "Employees migrate to other companies, but 'migration' is the movement, not the organizational consequence." },
+        { "distractor": "turnover", "closeness": 2, "reasoning": "High turnover occurs, but 'turnover' includes both departures and replacements, whereas attrition emphasizes net loss." },
+        { "distractor": "retention", "closeness": 1, "reasoning": "The opposite problem; attrition is loss of employees, whereas retention means keeping them." },
+        { "distractor": "recruitment", "closeness": 1, "reasoning": "The opposite activity; attrition describes employees leaving, not joining the organization." },
+        { "distractor": "growth", "closeness": 1, "reasoning": "The opposite direction; losing core team through attrition causes decline, not growth." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "duplicitous",
+  "sentenceSets": [
+    {
+      "sentence": "His duplicitous behavior—saying one thing to each party and the opposite to the other—was eventually exposed.",
+      "answerChoices": [
+        { "distractor": "deceptive", "closeness": 3, "reasoning": "Close -- 'deceptive' means misleading, which overlaps with duplicitous, but it does not specifically imply the two-faced aspect of saying opposite things to different parties." },
+        { "distractor": "dishonest", "closeness": 3, "reasoning": "Close -- 'dishonest' means lacking truthfulness, which covers the lying element, but it is broader and does not capture the specific sense of double-dealing or contradicting oneself to different audiences." },
+        { "distractor": "insincere", "closeness": 3, "reasoning": "Close -- 'insincere' means not genuinely felt, which implies dishonesty, but it emphasizes false emotion rather than the specific contradictory statements to different parties." },
+        { "distractor": "hypocritical", "closeness": 3, "reasoning": "Close -- 'hypocritical' means acting contrary to stated values, which fits the idea of contradictions, but it emphasizes a gap between words and values rather than specifically telling opposite things to different groups." },
+        { "distractor": "treacherous", "closeness": 2, "reasoning": "Incorrect -- 'treacherous' means disloyal or faithless, which might accompany duplicity, but it emphasizes betrayal rather than the specific act of contradictory speech." },
+        { "distractor": "untrustworthy", "closeness": 2, "reasoning": "Incorrect -- 'untrustworthy' means not reliable or credible, which could result from duplicity, but it describes a general condition rather than the specific double-dealing behavior." },
+        { "distractor": "manipulative", "closeness": 2, "reasoning": "Incorrect -- 'manipulative' means using clever tactics to control others, which might be a tactic of duplicity, but it emphasizes influence-seeking rather than contradictory statements." },
+        { "distractor": "cunning", "closeness": 2, "reasoning": "Incorrect -- 'cunning' means skillfully deceptive, which could describe someone duplicitous, but it emphasizes cleverness rather than the specific pattern of opposite claims." },
+        { "distractor": "sincere", "closeness": 1, "reasoning": "Opposite -- 'sincere' means genuinely honest and truthful; opposite to saying opposite things to different parties." },
+        { "distractor": "candid", "closeness": 1, "reasoning": "Opposite -- 'candid' means frank and truthful; opposite to the contradictory, hidden-faced behavior described." },
+        { "distractor": "forthright", "closeness": 1, "reasoning": "Opposite -- 'forthright' means direct and honest; opposite to someone who hides contradictions from different parties." }
+      ]
+    },
+    {
+      "sentence": "The duplicitous politician promised jobs to the industrial workers while secretly supporting policies that would outsource their positions.",
+      "answerChoices": [
+        { "distractor": "backstabbing", "closeness": 3, "reasoning": "Close -- 'backstabbing' captures the sense of betrayal through hidden action, but it emphasizes personal treachery and betrayal of trust rather than the contradiction between public promise and private action." },
+        { "distractor": "two-faced", "closeness": 3, "reasoning": "Close -- 'two-faced' literally means presenting different faces to different audiences, which overlaps with duplicitous, but it is more colloquial and emphasizes the mask rather than the specific contradiction." },
+        { "distractor": "deceitful", "closeness": 3, "reasoning": "Close -- 'deceitful' means deliberately misleading, which fits the context, but it does not specifically capture the sense of contradictory positions or broken promises." },
+        { "distractor": "furtive", "closeness": 3, "reasoning": "Close -- 'furtive' means stealthy and secretive, which fits the secret support for outsourcing, but it emphasizes concealment rather than the specific contradiction between promise and policy." },
+        { "distractor": "scheming", "closeness": 2, "reasoning": "Incorrect -- 'scheming' means plotting or planning deception, which might accompany duplicity, but it emphasizes the planning process rather than the contradictory claims themselves." },
+        { "distractor": "evasive", "closeness": 2, "reasoning": "Incorrect -- 'evasive' means avoiding direct answers or commitment, which could describe the politician's approach, but it does not capture the specific act of making opposite promises." },
+        { "distractor": "cynical", "closeness": 2, "reasoning": "Incorrect -- 'cynical' means believing people are motivated by self-interest, but it describes an attitude rather than the specific behavior of contradictory statements." },
+        { "distractor": "ambitious", "closeness": 2, "reasoning": "Incorrect -- 'ambitious' means seeking power or success, which might explain the motive, but it does not describe the contradictory behavior." },
+        { "distractor": "principled", "closeness": 1, "reasoning": "Opposite -- 'principled' means guided by strong moral values; opposite to someone who privately contradicts public promises." },
+        { "distractor": "steadfast", "closeness": 1, "reasoning": "Opposite -- 'steadfast' means firm and unwavering in commitment; opposite to someone supporting opposite policies." },
+        { "distractor": "consistent", "closeness": 1, "reasoning": "Opposite -- 'consistent' means maintaining the same principles and positions; opposite to someone promising jobs while covertly supporting outsourcing." }
+      ]
+    },
+    {
+      "sentence": "Her duplicitous remarks in the meeting—praising the plan to colleagues while dismissing it to superiors—cost her credibility when the truth emerged.",
+      "answerChoices": [
+        { "distractor": "contradictory", "closeness": 3, "reasoning": "Close -- 'contradictory' means opposing or conflicting, which describes the opposing remarks, but it is a broader term that does not necessarily imply intentional deception or two-faced behavior." },
+        { "distractor": "equivocal", "closeness": 3, "reasoning": "Close -- 'equivocal' means open to multiple interpretations or ambiguous, which could describe remarks designed to please different audiences, but it emphasizes ambiguity rather than overt contradiction." },
+        { "distractor": "disingenuous", "closeness": 3, "reasoning": "Close -- 'disingenuous' means not sincere, which fits remarks meant to deceive, but it does not specifically emphasize the contradictory nature of saying opposite things to different groups." },
+        { "distractor": "misleading", "closeness": 3, "reasoning": "Close -- 'misleading' means giving a false impression, which fits remarks designed to fool different audiences, but it is broader and does not capture the specific two-faced aspect." },
+        { "distractor": "sarcastic", "closeness": 2, "reasoning": "Incorrect -- 'sarcastic' means expressing meaning through ironic exaggeration, but it implies a different communicative intent than the deliberate contradiction in the sentence." },
+        { "distractor": "evasive", "closeness": 2, "reasoning": "Incorrect -- 'evasive' means avoiding direct commitment, which could describe vague remarks, but the sentence shows explicit contrary statements rather than evasion." },
+        { "distractor": "presumptuous", "closeness": 2, "reasoning": "Incorrect -- 'presumptuous' means overly bold or confident, which does not fit remarks designed to deceive different audiences." },
+        { "distractor": "inflammatory", "closeness": 2, "reasoning": "Incorrect -- 'inflammatory' means provocative or inciting anger, which does not fit remarks meant to please colleagues and superiors." },
+        { "distractor": "honest", "closeness": 1, "reasoning": "Opposite -- 'honest' means truthful; opposite to remarks that contradict each other depending on the audience." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "Opposite -- 'transparent' means clear and open; opposite to two-faced remarks that cost credibility." },
+        { "distractor": "forthcoming", "closeness": 1, "reasoning": "Opposite -- 'forthcoming' means open and willing to disclose information; opposite to contradictory remarks meant to deceive." }
+      ]
+    }
+  ]
+}

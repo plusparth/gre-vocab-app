@@ -1,0 +1,53 @@
+{
+  "word": "trite",
+  "sentenceSets": [
+    {
+      "sentence": "The trite formulation had been adequate when the question was simple, but the question was no longer simple.",
+      "answerChoices": [
+        { "distractor": "hackneyed", "closeness": 3, "reasoning": "'Hackneyed' means overused to the point of losing freshness, exactly describing a trite formulation; 'hackneyed' is so similar that it could trap someone." },
+        { "distractor": "clichéd", "closeness": 3, "reasoning": "'Clichéd' means overused and lacking originality, fitting a trite formulation; 'clichéd' is very close to 'trite.'" },
+        { "distractor": "banal", "closeness": 3, "reasoning": "'Banal' means lacking originality or freshness, fitting a worn-out formulation; however, 'banal' emphasizes lack of originality, while 'trite' emphasizes overuse." },
+        { "distractor": "stale", "closeness": 3, "reasoning": "'Stale' means no longer fresh or interesting from overuse, fitting a formulation that was once adequate; 'stale' is very close to 'trite.'" },
+        { "distractor": "outdated", "closeness": 2, "reasoning": "'Outdated' means no longer current or suitable; while fitting a formulation that's no longer adequate, it emphasizes age rather than lack of freshness." },
+        { "distractor": "obsolete", "closeness": 2, "reasoning": "'Obsolete' means no longer useful or current; while fitting a formulation that's outgrown, it emphasizes being surpassed." },
+        { "distractor": "worn-out", "closeness": 2, "reasoning": "'Worn-out' means exhausted from use; while fitting an overused formulation, it emphasizes exhaustion rather than lack of originality." },
+        { "distractor": "conventional", "closeness": 2, "reasoning": "'Conventional' means traditional or standard; while fitting a formulation that was once adequate, it doesn't specifically convey tiredness from overuse." },
+        { "distractor": "original", "closeness": 1, "reasoning": "'Original' means fresh and new; the sentence describes a formulation that has become worn-out and inadequate, opposite to original." },
+        { "distractor": "innovative", "closeness": 1, "reasoning": "'Innovative' means introducing new ideas; the sentence describes a trite, overused formulation, opposite to innovative." },
+        { "distractor": "fresh", "closeness": 1, "reasoning": "'Fresh' means new or interesting; the sentence describes a formulation that is no longer fresh or adequate, opposite to fresh." }
+      ]
+    },
+    {
+      "sentence": "Her essay was undermined by trite observations about friendship and beauty, relying on clichéd phrases rather than original insight.",
+      "answerChoices": [
+        { "distractor": "hackneyed", "closeness": 3, "reasoning": "'Hackneyed' means overused to the point of tedium, fitting observations that rely on clichés; 'hackneyed' is so close that it could trap someone." },
+        { "distractor": "clichéd", "closeness": 3, "reasoning": "'Clichéd' means overused and lacking originality; the sentence actually mentions 'clichéd phrases,' making this an obvious trap." },
+        { "distractor": "banal", "closeness": 3, "reasoning": "'Banal' means lacking originality from overuse, fitting observations undermining the essay; however, 'banal' emphasizes lack of originality more than overuse." },
+        { "distractor": "stale", "closeness": 3, "reasoning": "'Stale' means no longer fresh or interesting from overuse, fitting worn-out observations; 'stale' is very close to 'trite.'" },
+        { "distractor": "superficial", "closeness": 2, "reasoning": "'Superficial' means lacking depth; while her observations might be superficial, the sentence emphasizes their overused nature." },
+        { "distractor": "shallow", "closeness": 2, "reasoning": "'Shallow' means lacking depth; while fitting, the sentence emphasizes tired clichés rather than depth." },
+        { "distractor": "simplistic", "closeness": 2, "reasoning": "'Simplistic' means overly simplified; while her observations might be simplistic, the sentence emphasizes their overused nature." },
+        { "distractor": "predictable", "closeness": 2, "reasoning": "'Predictable' means expected or foreseeable; while clichés are predictable, the sentence emphasizes their overuse, not just predictability." },
+        { "distractor": "insightful", "closeness": 1, "reasoning": "'Insightful' means showing deep understanding; the sentence describes trite observations lacking original insight, opposite to insightful." },
+        { "distractor": "thoughtful", "closeness": 1, "reasoning": "'Thoughtful' means showing careful consideration; the sentence describes observations that rely on clichés rather than original thinking, opposite to thoughtful." },
+        { "distractor": "original", "closeness": 1, "reasoning": "'Original' means fresh and new; the sentence emphasizes that her observations are trite clichés rather than original insight, opposite to original." }
+      ]
+    },
+    {
+      "sentence": "The sculptor had moved beyond the trite conventions of his early work, developing a more challenging and inventive artistic voice.",
+      "answerChoices": [
+        { "distractor": "hackneyed", "closeness": 3, "reasoning": "'Hackneyed' means overused and tedious, fitting conventions that have been moved beyond; 'hackneyed' is very close to 'trite.'" },
+        { "distractor": "clichéd", "closeness": 3, "reasoning": "'Clichéd' means lacking originality from overuse, fitting conventions that are abandoned for innovation; 'clichéd' is very close to 'trite.'" },
+        { "distractor": "banal", "closeness": 3, "reasoning": "'Banal' means lacking originality, fitting conventions moved beyond; however, 'banal' emphasizes lack of originality more than overuse." },
+        { "distractor": "conventional", "closeness": 3, "reasoning": "'Conventional' means traditional or standard, fitting conventions; however, the sentence uses this term differently—'conventional' describes what's standard, 'trite' emphasizes overuse." },
+        { "distractor": "traditional", "closeness": 2, "reasoning": "'Traditional' means following established patterns; while fitting conventions, it doesn't capture the sense of being overused or tired." },
+        { "distractor": "formulaic", "closeness": 2, "reasoning": "'Formulaic' means following a set pattern; while fitting early work conventions, it emphasizes rigid pattern rather than overuse." },
+        { "distractor": "antiquated", "closeness": 2, "reasoning": "'Antiquated' means outdated or old-fashioned; while fitting conventions moved beyond, it emphasizes age rather than lack of freshness." },
+        { "distractor": "uninspired", "closeness": 2, "reasoning": "'Uninspired' means lacking creative energy; while fitting work with trite conventions, it emphasizes lack of inspiration rather than overuse." },
+        { "distractor": "original", "closeness": 1, "reasoning": "'Original' means fresh and new; the sentence describes conventions the sculptor moved beyond in favor of more inventive work, so the conventions are opposite to original." },
+        { "distractor": "inventive", "closeness": 1, "reasoning": "'Inventive' means creative and original; the sentence contrasts trite conventions with inventive new work, so the conventions are opposite." },
+        { "distractor": "challenging", "closeness": 1, "reasoning": "'Challenging' means demanding and complex; the sentence contrasts trite conventions with more challenging work, so the conventions are opposite." }
+      ]
+    }
+  ]
+}

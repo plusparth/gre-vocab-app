@@ -1,0 +1,53 @@
+{
+  "word": "annotation",
+  "sentenceSets": [
+    {
+      "sentence": "The annotated edition included hundreds of annotations that transformed a cryptic poem into something illuminating.",
+      "answerChoices": [
+        { "distractor": "illustrations", "closeness": 3, "reasoning": "Illustrations are pictures or visual representations; annotations are written notes explaining the text, not visual images." },
+        { "distractor": "summaries", "closeness": 3, "reasoning": "Summaries condense the main ideas; annotations add explanatory notes to specific passages, not comprehensive recaps." },
+        { "distractor": "revisions", "closeness": 3, "reasoning": "Revisions are changes to the original; annotations add explanatory notes without altering the poem itself." },
+        { "distractor": "endorsements", "closeness": 3, "reasoning": "Endorsements show approval; annotations provide explanation and comment, not expressions of support." },
+        { "distractor": "translations", "closeness": 2, "reasoning": "Translations convert text to another language; annotations explain the existing poem in its original language." },
+        { "distractor": "critiques", "closeness": 2, "reasoning": "Critiques evaluate quality; annotations explain meaning and clarify obscure passages." },
+        { "distractor": "excerpts", "closeness": 2, "reasoning": "Excerpts are selected passages; annotations are explanatory notes added to the text." },
+        { "distractor": "marginalia", "closeness": 2, "reasoning": "Marginalia are notes in margins; while related to annotations, marginalia specifically refer to handwritten marks, not the formal explanatory notes that transform understanding." },
+        { "distractor": "erasures", "closeness": 1, "reasoning": "Erasures remove content; annotations add explanatory notes to illuminate, not remove or erase." },
+        { "distractor": "distortions", "closeness": 1, "reasoning": "Distortions misrepresent meaning; hundreds of annotations transforming a cryptic poem into something illuminating show clarification, not distortion." },
+        { "distractor": "obscurities", "closeness": 1, "reasoning": "Obscurities are unclear passages; the annotations serve to clear up obscurities, not add more obscurity." }
+      ]
+    },
+    {
+      "sentence": "The professor required students to add annotations in the margins as they read the dense philosophical text, marking key concepts and unclear passages.",
+      "answerChoices": [
+        { "distractor": "doodles", "closeness": 3, "reasoning": "Doodles are casual drawings; the professor requires students to mark key concepts with written notes, not casual drawings." },
+        { "distractor": "summaries", "closeness": 3, "reasoning": "Summaries condense entire works; annotations mark specific key concepts and passages, not comprehensive recaps." },
+        { "distractor": "corrections", "closeness": 3, "reasoning": "Corrections fix errors; annotations mark concepts and unclear passages for understanding, not to correct the text." },
+        { "distractor": "highlights", "closeness": 3, "reasoning": "Highlights emphasize text by coloring; annotations are written notes marking key concepts and passages." },
+        { "distractor": "underlines", "closeness": 2, "reasoning": "Underlines mark text visually; while related, annotations are written explanatory notes, not just visual marks." },
+        { "distractor": "bookmarks", "closeness": 2, "reasoning": "Bookmarks mark places in a text; annotations are written notes explaining key concepts and passages." },
+        { "distractor": "sketches", "closeness": 2, "reasoning": "Sketches are drawings; the professor requires written notes marking key concepts, not visual sketches." },
+        { "distractor": "commentaries", "closeness": 2, "reasoning": "Commentaries provide broader analysis; annotations in margins are more targeted notes on specific passages and concepts." },
+        { "distractor": "erasures", "closeness": 1, "reasoning": "Erasures remove content; annotations mark key concepts to aid understanding, not erase text." },
+        { "distractor": "distortions", "closeness": 1, "reasoning": "Distortions misrepresent meaning; annotations marking key concepts provide clarification, not misrepresentation." },
+        { "distractor": "omissions", "closeness": 1, "reasoning": "Omissions are things left out; annotations add written notes, not omit content." }
+      ]
+    },
+    {
+      "sentence": "The scholar's painstaking annotations throughout the primary document revealed layers of historical context that enriched understanding of the original author's intent.",
+      "answerChoices": [
+        { "distractor": "censorship", "closeness": 3, "reasoning": "Censorship removes or suppresses content; painstaking annotations add explanatory context, not suppress content." },
+        { "distractor": "distortion", "closeness": 3, "reasoning": "Distortion misrepresents truth; annotations revealing historical context provide clarification, not misrepresentation." },
+        { "distractor": "forgery", "closeness": 3, "reasoning": "Forgery creates false documents; annotations add explanatory notes to existing documents, not create false ones." },
+        { "distractor": "erasure", "closeness": 3, "reasoning": "Erasure removes content; annotations add explanatory notes enriching understanding, not remove content." },
+        { "distractor": "speculation", "closeness": 2, "reasoning": "Speculation means guessing without evidence; painstaking annotations are grounded in historical research, not mere guessing." },
+        { "distractor": "paraphrase", "closeness": 2, "reasoning": "Paraphrase rewrites content in different words; annotations add explanatory notes to the original text." },
+        { "distractor": "gloss", "closeness": 2, "reasoning": "Gloss is brief explanatory notes; while similar, annotations are typically more extensive and painstaking." },
+        { "distractor": "interpretation", "closeness": 2, "reasoning": "Interpretation means explaining meaning; annotations support the author's original intent, not impose interpretations upon it." },
+        { "distractor": "plagiarism", "closeness": 1, "reasoning": "Plagiarism steals others' work; scholarly annotations add original research and explanation." },
+        { "distractor": "libel", "closeness": 1, "reasoning": "Libel is a false damaging statement; scholarly annotations revealing historical context provide truthful clarification." },
+        { "distractor": "obscuration", "closeness": 1, "reasoning": "Obscuration hides or clouds meaning; painstaking annotations reveal layers of context, clarifying meaning." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "posthumous",
+  "sentenceSets": [
+    {
+      "sentence": "His posthumous reputation far exceeded what had been accorded him during his lifetime, a common trajectory for work that was ahead of its moment.",
+      "answerChoices": [
+        { "distractor": "delayed", "closeness": 3, "reasoning": "Close but incorrect -- 'delayed' means occurring later than expected, which could apply to recognition, but doesn't specifically indicate something happening after death." },
+        { "distractor": "deferred", "closeness": 3, "reasoning": "Close -- 'deferred' means postponed or delayed, which fits the timing of recognition, but lacks the specific sense of occurring after death." },
+        { "distractor": "retro spective", "closeness": 3, "reasoning": "Close -- 'retrospective' means looking back on the past, which applies to later evaluation, but doesn't specifically convey the sense of recognition occurring after death." },
+        { "distractor": "belated", "closeness": 3, "reasoning": "Close -- 'belated' means coming late or too late, which applies to delayed recognition, but doesn't specifically indicate posthumous timing." },
+        { "distractor": "eventual", "closeness": 2, "reasoning": "Incorrect -- 'eventual' means occurring at last or finally, which could apply to recognition, but doesn't specifically indicate timing in relation to death." },
+        { "distractor": "final", "closeness": 2, "reasoning": "Incorrect -- 'final' means last or ultimate, but doesn't carry the temporal sense of occurring after death." },
+        { "distractor": "lasting", "closeness": 2, "reasoning": "Incorrect -- 'lasting' means enduring over time, which applies to a reputation, but doesn't indicate when the recognition occurs." },
+        { "distractor": "legacy", "closeness": 2, "reasoning": "Incorrect -- 'legacy' is something handed down after death, but as a noun, it doesn't fit the adjective slot in the sentence." },
+        { "distractor": "contemporary", "closeness": 1, "reasoning": "Opposite -- 'contemporary' means of the same time, opposite to posthumous, which means after death and beyond one's lifetime." },
+        { "distractor": "immediate", "closeness": 1, "reasoning": "Opposite -- 'immediate' means occurring at once or during one's lifetime, opposite to posthumous recognition." },
+        { "distractor": "lifetime", "closeness": 1, "reasoning": "Opposite -- 'lifetime' indicates occurring during life, opposite to posthumous, which occurs after death." }
+      ]
+    },
+    {
+      "sentence": "The artist's posthumous exhibition drew more visitors than any show during her career, finally validating her vision.",
+      "answerChoices": [
+        { "distractor": "retrospective", "closeness": 3, "reasoning": "Close but incorrect -- 'retrospective' describes an exhibition reviewing past work, which could be posthumous, but doesn't specifically indicate the exhibition occurs after the artist's death." },
+        { "distractor": "memorial", "closeness": 3, "reasoning": "Close -- 'memorial' refers to honoring or commemorating someone, often after death, but is more explicitly commemorative than simply posthumous." },
+        { "distractor": "final", "closeness": 3, "reasoning": "Close -- 'final' suggests a last exhibition, but doesn't necessarily indicate it occurs after death." },
+        { "distractor": "legacy", "closeness": 3, "reasoning": "Close -- 'legacy' describes something left behind, which applies to an artist's work shown after death, but is more commonly used as a noun." },
+        { "distractor": "recent", "closeness": 2, "reasoning": "Incorrect -- 'recent' means happening lately, which could apply to an exhibition, but gives no indication of timing relative to the artist's life." },
+        { "distractor": "major", "closeness": 2, "reasoning": "Incorrect -- 'major' means significant in size or importance, which the exhibition may be, but doesn't indicate posthumous timing." },
+        { "distractor": "traveling", "closeness": 2, "reasoning": "Incorrect -- 'traveling' describes an exhibition that moves to different locations, but has no relation to posthumous timing." },
+        { "distractor": "comprehensive", "closeness": 2, "reasoning": "Incorrect -- 'comprehensive' means complete or thorough, which could describe an exhibition, but doesn't indicate posthumous timing." },
+        { "distractor": "living", "closeness": 1, "reasoning": "Opposite -- 'living' would indicate the artist is alive, opposite to posthumous." },
+        { "distractor": "contemporary", "closeness": 1, "reasoning": "Opposite -- 'contemporary' suggests occurring during the artist's active period, opposite to posthumous." },
+        { "distractor": "solo", "closeness": 1, "reasoning": "Incorrect -- 'solo' means a single person's work, which the exhibition may be, but has no relation to timing or posthumous status." }
+      ]
+    },
+    {
+      "sentence": "The posthumous publication of her letters revealed thoughts and doubts she had never shared publicly, offering scholars new insight into her creative process.",
+      "answerChoices": [
+        { "distractor": "private", "closeness": 3, "reasoning": "Close but incorrect -- 'private' means not public or shared, which describes the letters before publication, but doesn't indicate they were published after her death." },
+        { "distractor": "unpublished", "closeness": 3, "reasoning": "Close -- 'unpublished' means not yet made public, which accurately describes the letters before being shared, but doesn't convey the sense of occurring after death." },
+        { "distractor": "undisclosed", "closeness": 3, "reasoning": "Close -- 'undisclosed' means kept secret or hidden, which applies to the letters before publication, but doesn't specify posthumous timing." },
+        { "distractor": "recovered", "closeness": 3, "reasoning": "Close -- 'recovered' means found or retrieved, which could apply to previously unknown letters, but doesn't indicate posthumous publication." },
+        { "distractor": "hidden", "closeness": 2, "reasoning": "Incorrect -- 'hidden' means concealed, which describes the state of the letters, but doesn't relate to posthumous publication." },
+        { "distractor": "lost", "closeness": 2, "reasoning": "Incorrect -- 'lost' could apply to letters found after her death, but doesn't specifically convey the sense of publication occurring posthumously." },
+        { "distractor": "secret", "closeness": 2, "reasoning": "Incorrect -- 'secret' means kept concealed, but doesn't indicate the timing of publication relative to her life." },
+        { "distractor": "forgotten", "closeness": 2, "reasoning": "Incorrect -- 'forgotten' means lost to memory, but doesn't specifically relate to posthumous publication." },
+        { "distractor": "authorized", "closeness": 1, "reasoning": "Opposite -- 'authorized' suggests permission from the author, opposite to posthumous publication which occurs without the author's permission." },
+        { "distractor": "contemporary", "closeness": 1, "reasoning": "Opposite -- 'contemporary' would indicate publication during her lifetime, opposite to posthumous." },
+        { "distractor": "personal", "closeness": 1, "reasoning": "Incorrect -- 'personal' describes the nature of the letters, not the timing of publication." }
+      ]
+    }
+  ]
+}

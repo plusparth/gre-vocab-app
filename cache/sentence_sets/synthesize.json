@@ -1,0 +1,53 @@
+{
+  "word": "synthesize",
+  "sentenceSets": [
+    {
+      "sentence": "She synthesized the competing accounts into a framework that acknowledged their disagreements without pretending to resolve them.",
+      "answerChoices": [
+        { "distractor": "separated", "closeness": 3, "reasoning": "Separated would mean dividing accounts further; the sentence shows combining competing accounts into a framework, the opposite of separation." },
+        { "distractor": "dismissed", "closeness": 3, "reasoning": "Dismissed means rejecting or ignoring; the sentence shows acknowledging disagreements within a framework, not dismissing them." },
+        { "distractor": "reconciled", "closeness": 3, "reasoning": "Reconciled means resolved conflict; the sentence explicitly states the framework did not pretend to resolve disagreements, indicating incomplete or false reconciliation." },
+        { "distractor": "averaged", "closeness": 3, "reasoning": "Averaging takes a middle point but does not create a framework acknowledging disagreement; the sentence shows building something that contains unresolved tensions." },
+        { "distractor": "collected", "closeness": 2, "reasoning": "Collected means gathered but does not describe organizing into a framework or acknowledging disagreements; the sentence emphasizes creating coherent structure." },
+        { "distractor": "juxtaposed", "closeness": 2, "reasoning": "Juxtaposed means placed side by side but does not describe creating a framework; the sentence emphasizes combining into something unified." },
+        { "distractor": "catalogued", "closeness": 2, "reasoning": "Catalogued means listed systematically but does not describe creating a framework or acknowledging disagreements within a coherent structure." },
+        { "distractor": "archived", "closeness": 2, "reasoning": "Archived means stored but does not describe organizing into a framework that acknowledges disagreements." },
+        { "distractor": "duplicated", "closeness": 1, "reasoning": "Duplicated means copying; the sentence describes creating a new framework from competing accounts, not copying existing material." },
+        { "distractor": "eliminated", "closeness": 1, "reasoning": "Eliminated means removed; the sentence acknowledges disagreements in the framework, showing inclusion not removal." },
+        { "distractor": "destroyed", "closeness": 1, "reasoning": "Destroyed means broken down; the sentence shows creating a coherent framework from accounts, opposite of destruction." }
+      ]
+    },
+    {
+      "sentence": "The chemist synthesized a new compound from base elements, combining hydrogen and oxygen to create something entirely distinct from its components.",
+      "answerChoices": [
+        { "distractor": "isolated", "closeness": 3, "reasoning": "Isolated means separated; the sentence shows combining elements to create something new, opposite of isolation." },
+        { "distractor": "extracted", "closeness": 3, "reasoning": "Extracted means drew out or removed; the sentence describes creating something new through combination, not separating existing elements." },
+        { "distractor": "fractured", "closeness": 3, "reasoning": "Fractured means broken apart; the sentence shows combining elements to create something unified and distinct, opposite of breaking." },
+        { "distractor": "purified", "closeness": 3, "reasoning": "Purified means removing impurities to concentrate a substance; the sentence describes creation of something entirely new, not separation of existing components." },
+        { "distractor": "analyzed", "closeness": 2, "reasoning": "Analyzed means broke down to understand components; the sentence shows combining elements to create, opposite of breaking down for analysis." },
+        { "distractor": "decomposed", "closeness": 2, "reasoning": "Decomposed means broken into parts; the sentence shows creating from combination, opposite of breaking down." },
+        { "distractor": "diluted", "closeness": 2, "reasoning": "Diluted means made weaker or less concentrated; the sentence shows combination creating something distinct and new, not weakening." },
+        { "distractor": "heated", "closeness": 2, "reasoning": "Heated is a technique that might be used but does not describe the combining action; the sentence emphasizes creation from base elements." },
+        { "distractor": "discovered", "closeness": 1, "reasoning": "Discovered means found existing material; the sentence shows creating something entirely new that did not exist before." },
+        { "distractor": "observed", "closeness": 1, "reasoning": "Observed means watched or noticed; the sentence describes active creation, not passive observation." },
+        { "distractor": "stored", "closeness": 1, "reasoning": "Stored means kept or preserved; the sentence describes creating a new compound, not keeping existing material." }
+      ]
+    },
+    {
+      "sentence": "The director synthesized influences from film noir, surrealism, and documentary to create a visual language that belonged to none of these traditions independently.",
+      "answerChoices": [
+        { "distractor": "imitated", "closeness": 3, "reasoning": "Imitated means copied but the resulting visual language belonged to none of the traditions independently, indicating original creation not mere copying." },
+        { "distractor": "mimicked", "closeness": 3, "reasoning": "Mimicked means reproduced another's style; the sentence shows creation of something new belonging to none of the source traditions." },
+        { "distractor": "adopted", "closeness": 3, "reasoning": "Adopted means took on an existing style; the sentence shows creation of original visual language, not adoption of existing ones." },
+        { "distractor": "referenced", "closeness": 3, "reasoning": "Referenced means alluded to without creating something new; the sentence emphasizes creating a distinct visual language, not merely alluding." },
+        { "distractor": "compiled", "closeness": 2, "reasoning": "Compiled means gathered together but does not describe creating original visual language; the sentence emphasizes something belonging to none independently." },
+        { "distractor": "extracted", "closeness": 2, "reasoning": "Extracted means drew out existing elements; the sentence shows creating something new, not separating existing parts." },
+        { "distractor": "borrowed", "closeness": 2, "reasoning": "Borrowed means took something to use; the sentence shows creating a new language from influences, not just borrowing." },
+        { "distractor": "displayed", "closeness": 2, "reasoning": "Displayed means showed but does not describe creating from influences; the sentence emphasizes creative synthesis into new language." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Ignored means disregarded; the sentence shows the director drew from multiple influences and combined them." },
+        { "distractor": "rejected", "closeness": 1, "reasoning": "Rejected means refused; the sentence shows the director drew from and combined these traditions into new language." },
+        { "distractor": "contradicted", "closeness": 1, "reasoning": "Contradicted means opposed directly; the sentence shows the director combining influences, not opposing them." }
+      ]
+    }
+  ]
+}

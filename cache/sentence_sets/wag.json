@@ -1,0 +1,53 @@
+{
+  "word": "wag",
+  "sentenceSets": [
+    {
+      "sentence": "The dog's tail continued to wag throughout the entire car ride, expressing joy despite the stressful nature of visiting the veterinarian.",
+      "answerChoices": [
+        { "distractor": "twitch", "closeness": 3, "reasoning": "'Twitch' means to move with a sudden jerk; the tail moves, but the sentence shows continuous motion indicating joy, not jerky involuntary movement." },
+        { "distractor": "quiver", "closeness": 3, "reasoning": "'Quiver' means to tremble or shake; the tail moves, but the sentence emphasizes continuous motion in motion, not trembling." },
+        { "distractor": "shake", "closeness": 3, "reasoning": "'Shake' means to move back and forth; the tail moves back and forth, but the sentence shows purposeful motion expressing joy." },
+        { "distractor": "flutter", "closeness": 3, "reasoning": "'Flutter' means to move rapidly and lightly; the tail moves, but the sentence emphasizes continuous purposeful motion." },
+        { "distractor": "wave", "closeness": 2, "reasoning": "'Wave' means to move back and forth; while similar, the sentence emphasizes the specific motion of wagging expressing emotion." },
+        { "distractor": "swing", "closeness": 2, "reasoning": "'Swing' means to move in an arc; the tail moves in arcs, but the sentence emphasizes the purposeful wagging motion." },
+        { "distractor": "bob", "closeness": 2, "reasoning": "'Bob' means to move up and down; the tail moves, but the sentence emphasizes the wagging motion of back and forth." },
+        { "distractor": "move", "closeness": 2, "reasoning": "'Move' is too general; while the tail moves, the sentence specifies the wagging motion expressing emotion." },
+        { "distractor": "freeze", "closeness": 1, "reasoning": "The dog's tail continues to wag expressing joy; 'freeze' means to stop and become immobile, opposite to continuous motion." },
+        { "distractor": "stop", "closeness": 1, "reasoning": "The tail continues to wag throughout the ride; 'stop' means to cease motion, opposite to continuous wagging." },
+        { "distractor": "stiffen", "closeness": 1, "reasoning": "The dog's tail wags expressing joy; 'stiffen' means to become rigid and immobile, opposite to continuous motion." }
+      ]
+    },
+    {
+      "sentence": "After months of negotiations, the stalled project began to wag forward again as both parties agreed on key terms.",
+      "answerChoices": [
+        { "distractor": "proceed", "closeness": 3, "reasoning": "'Proceed' means to move forward or continue; the project moves forward, but the sentence emphasizes beginning motion after being stalled." },
+        { "distractor": "advance", "closeness": 3, "reasoning": "'Advance' means to move forward; the project moves forward, but the sentence emphasizes the motion of stirring or beginning to move." },
+        { "distractor": "progress", "closeness": 3, "reasoning": "'Progress' means to move forward with development; the project progresses, but the sentence emphasizes the specific motion of beginning to stir." },
+        { "distractor": "resume", "closeness": 3, "reasoning": "'Resume' means to start again; the project starts again, but the sentence emphasizes the motion of beginning to move, not restarting." },
+        { "distractor": "activate", "closeness": 2, "reasoning": "'Activate' means to make active; the project becomes active, but the sentence emphasizes the motion itself." },
+        { "distractor": "mobilize", "closeness": 2, "reasoning": "'Mobilize' means to put into motion; the project is put in motion, but the sentence emphasizes the specific motion of stirring." },
+        { "distractor": "jumpstart", "closeness": 2, "reasoning": "'Jumpstart' means to start quickly; the project starts, but the sentence emphasizes the motion of beginning to move." },
+        { "distractor": "rev", "closeness": 2, "reasoning": "'Rev' means to increase motion or activity; the project increases activity, but the sentence emphasizes the motion of beginning to stir." },
+        { "distractor": "stall", "closeness": 1, "reasoning": "The project begins to move and wag forward after stalling; 'stall' means to stop, opposite to motion." },
+        { "distractor": "freeze", "closeness": 1, "reasoning": "The project begins to move in motion after stalling; 'freeze' means to become immobile, opposite to wagging." },
+        { "distractor": "deadlock", "closeness": 1, "reasoning": "The project begins to move after stalling months; 'deadlock' means complete stoppage, opposite to wagging forward." }
+      ]
+    },
+    {
+      "sentence": "The scandal began to wag tongues throughout the community, with gossip spreading quickly despite official denials.",
+      "answerChoices": [
+        { "distractor": "loosen", "closeness": 3, "reasoning": "'Loosen' means to make less tight; while tongues become loose in gossip, the sentence emphasizes the motion of tongues wagging." },
+        { "distractor": "stimulate", "closeness": 3, "reasoning": "'Stimulate' means to encourage or prompt; the scandal stimulates gossip, but the sentence emphasizes the motion of tongues wagging." },
+        { "distractor": "provoke", "closeness": 3, "reasoning": "'Provoke' means to stir up or incite; the scandal provokes gossip, but the sentence emphasizes the motion of wagging tongues." },
+        { "distractor": "ignite", "closeness": 3, "reasoning": "'Ignite' means to set on fire or spark; the scandal sparks gossip, but the sentence emphasizes the motion of tongues wagging." },
+        { "distractor": "excite", "closeness": 2, "reasoning": "'Excite' means to cause emotion or interest; the scandal excites gossip, but the sentence emphasizes the motion of wagging." },
+        { "distractor": "inflame", "closeness": 2, "reasoning": "'Inflame' means to arouse passion; the scandal inflames discussion, but the sentence emphasizes the motion of tongues." },
+        { "distractor": "unleash", "closeness": 2, "reasoning": "'Unleash' means to release or set free; the scandal unleashes gossip, but the sentence emphasizes the motion of wagging tongues." },
+        { "distractor": "instigate", "closeness": 2, "reasoning": "'Instigate' means to start or incite; the scandal instigates gossip, but the sentence emphasizes the motion of tongues wagging." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "The scandal causes tongues to wag with gossip spreading; 'silence' means to make quiet, opposite to tongues wagging." },
+        { "distractor": "calm", "closeness": 1, "reasoning": "The scandal causes tongues to wag with gossip spreading; 'calm' means to quiet or soothe, opposite to wagging tongues." },
+        { "distractor": "suppress", "closeness": 1, "reasoning": "The scandal causes tongues to wag despite denials; 'suppress' means to hold back, opposite to tongues wagging and gossip spreading." }
+      ]
+    }
+  ]
+}

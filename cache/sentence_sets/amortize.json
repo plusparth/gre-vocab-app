@@ -1,0 +1,185 @@
+{
+  "word": "amortize",
+  "sentenceSets": [
+    {
+      "sentence": "They were able to amortize the construction loan over thirty years, keeping payments manageable.",
+      "answerChoices": [
+        {
+          "distractor": "secure",
+          "closeness": 3,
+          "reasoning": "To secure means to obtain or make safe; spreading loan payments is a repayment strategy, not the process of securing or obtaining a loan."
+        },
+        {
+          "distractor": "refinance",
+          "closeness": 3,
+          "reasoning": "To refinance means to replace an existing loan with new terms; amortizing spreads an existing loan's payments, not replacing it."
+        },
+        {
+          "distractor": "default",
+          "closeness": 3,
+          "reasoning": "To default means to fail to pay; spreading payments over time is the opposite of defaulting\u2014it's a strategy to ensure payment."
+        },
+        {
+          "distractor": "defer",
+          "closeness": 3,
+          "reasoning": "To defer means to postpone; while amortizing involves spreading payments over time, it doesn't mean postponing the full payment."
+        },
+        {
+          "distractor": "accelerate",
+          "closeness": 2,
+          "reasoning": "To accelerate means to speed up; amortizing spreads payments over an extended period, the opposite of accelerating payment."
+        },
+        {
+          "distractor": "consolidate",
+          "closeness": 2,
+          "reasoning": "To consolidate means to combine into one; while consolidating loans might then be amortized, 'amortize' refers to spreading payments specifically."
+        },
+        {
+          "distractor": "liquidate",
+          "closeness": 2,
+          "reasoning": "To liquidate means to convert to cash or settle completely; amortizing spreads repayment over time, not rapid liquidation."
+        },
+        {
+          "distractor": "forgive",
+          "closeness": 2,
+          "reasoning": "To forgive means to release from obligation; amortizing requires payment over time, the opposite of forgiving or canceling the debt."
+        },
+        {
+          "distractor": "guarantee",
+          "closeness": 1,
+          "reasoning": "To guarantee means to promise payment if someone else fails; amortizing involves the borrower making regular payments, not guaranteeing someone else's debt."
+        },
+        {
+          "distractor": "withhold",
+          "closeness": 1,
+          "reasoning": "To withhold means to refuse to give; amortizing requires paying in regular installments, not withholding payments."
+        },
+        {
+          "distractor": "demand",
+          "closeness": 1,
+          "reasoning": "To demand means to insist on immediate payment; amortizing allows spreading payments over time, the opposite of demanding full immediate payment."
+        }
+      ]
+    },
+    {
+      "sentence": "The mortgage broker explained how the family would amortize the home loan through monthly payments over a twenty-five-year period.",
+      "answerChoices": [
+        {
+          "distractor": "appraise",
+          "closeness": 3,
+          "reasoning": "To appraise means to evaluate value; the broker is explaining how to repay the loan, not how to determine its value."
+        },
+        {
+          "distractor": "collateralize",
+          "closeness": 3,
+          "reasoning": "To collateralize means to pledge property as security; amortizing is the repayment method, not the process of providing collateral."
+        },
+        {
+          "distractor": "underwrite",
+          "closeness": 3,
+          "reasoning": "To underwrite means to assess risk and approve a loan; the broker is discussing repayment structure, not the loan approval process."
+        },
+        {
+          "distractor": "invest",
+          "closeness": 3,
+          "reasoning": "To invest means to put money into an asset for gain; amortizing a home loan involves paying it down, not investing in returns."
+        },
+        {
+          "distractor": "acquire",
+          "closeness": 2,
+          "reasoning": "To acquire means to obtain; while getting the loan is part of the process, amortizing refers specifically to the repayment method."
+        },
+        {
+          "distractor": "allocate",
+          "closeness": 2,
+          "reasoning": "To allocate means to distribute resources; while budgeting for payments involves allocation, 'amortize' refers to the structured repayment schedule."
+        },
+        {
+          "distractor": "assess",
+          "closeness": 2,
+          "reasoning": "To assess means to evaluate; the broker is explaining a repayment strategy, not assessing the loan's quality or value."
+        },
+        {
+          "distractor": "forfeit",
+          "closeness": 2,
+          "reasoning": "To forfeit means to lose by failure to pay; amortizing involves making regular payments to retain the property, not forfeiting it."
+        },
+        {
+          "distractor": "speculate",
+          "closeness": 1,
+          "reasoning": "To speculate means to invest hoping for gain; taking out a home loan to live in is not speculation about price changes."
+        },
+        {
+          "distractor": "exempt",
+          "closeness": 1,
+          "reasoning": "To exempt means to exclude or release from obligation; amortizing requires regular payments, not exemption from repayment."
+        },
+        {
+          "distractor": "seize",
+          "closeness": 1,
+          "reasoning": "To seize means to take forcibly; amortizing involves voluntary monthly payments to satisfy the loan, not seizure of property."
+        }
+      ]
+    },
+    {
+      "sentence": "The company decided to amortize its intangible assets over ten years, gradually reducing their value on the balance sheet.",
+      "answerChoices": [
+        {
+          "distractor": "depreciate",
+          "closeness": 3,
+          "reasoning": "To depreciate means to decrease in value; while similar to amortizing intangibles, depreciation applies to physical assets, whereas amortization applies specifically to intangibles."
+        },
+        {
+          "distractor": "dilute",
+          "closeness": 3,
+          "reasoning": "To dilute means to weaken by mixing with other substance; amortizing reduces asset value on the balance sheet, not by mixing but by scheduled write-down."
+        },
+        {
+          "distractor": "liquidate",
+          "closeness": 3,
+          "reasoning": "To liquidate means to convert to cash or eliminate; amortizing gradually reduces value over time, not rapid liquidation."
+        },
+        {
+          "distractor": "devalue",
+          "closeness": 3,
+          "reasoning": "To devalue means to reduce the value of something; while amortizing does reduce value on the balance sheet, it's a specific accounting method, not general devaluation."
+        },
+        {
+          "distractor": "allocate",
+          "closeness": 2,
+          "reasoning": "To allocate means to distribute resources; amortizing is specifically about reducing intangible asset value, not distributing resources."
+        },
+        {
+          "distractor": "write-off",
+          "closeness": 2,
+          "reasoning": "To write-off means to remove from accounts as loss; amortizing gradually reduces value, not immediately removing it."
+        },
+        {
+          "distractor": "impair",
+          "closeness": 2,
+          "reasoning": "To impair means to reduce capacity or quality; while amortizing reduces value, it's a systematic accounting process, not an unexpected impairment."
+        },
+        {
+          "distractor": "appreciate",
+          "closeness": 2,
+          "reasoning": "To appreciate means to increase in value; reducing asset value over ten years indicates the opposite of appreciation."
+        },
+        {
+          "distractor": "restore",
+          "closeness": 1,
+          "reasoning": "To restore means to bring back to original condition; gradually reducing value contradicts restoring assets to their original value."
+        },
+        {
+          "distractor": "inflate",
+          "closeness": 1,
+          "reasoning": "To inflate means to increase in size or value; reducing value on the balance sheet is the opposite of inflation."
+        },
+        {
+          "distractor": "capitalize",
+          "closeness": 1,
+          "reasoning": "To capitalize means to record as an asset; while intangible assets are capitalized initially, amortizing involves systematic reduction."
+        }
+      ]
+    }
+  ]
+}

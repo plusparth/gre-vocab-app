@@ -1,0 +1,53 @@
+{
+  "word": "odium",
+  "sentenceSets": [
+    {
+      "sentence": "The scandal surrounding the executive's corruption brought widespread odium upon the entire corporation, damaging its reputation for decades.",
+      "answerChoices": [
+        { "distractor": "opprobrium", "closeness": 3, "reasoning": "Close -- 'opprobrium' means strong public disapproval; nearly synonymous, but the sentence emphasizes hatred and contempt rather than merely critical disapproval." },
+        { "distractor": "disgrace", "closeness": 3, "reasoning": "Close -- 'disgrace' means loss of honor or reputation; both fit, but 'odium' emphasizes directed hatred from others, not merely loss of standing." },
+        { "distractor": "infamy", "closeness": 3, "reasoning": "Close -- 'infamy' means notoriety for wrongdoing; similar to odium, but emphasizes fame for bad actions rather than active hatred directed at the person." },
+        { "distractor": "notoriety", "closeness": 3, "reasoning": "Close -- 'notoriety' means being widely known for something bad; the sentence requires active negative sentiment, not just being known." },
+        { "distractor": "contempt", "closeness": 2, "reasoning": "Incorrect -- 'contempt' means scorn; while contempt is present in the sentence, 'odium' specifically refers to hatred from the public." },
+        { "distractor": "scorn", "closeness": 2, "reasoning": "Incorrect -- 'scorn' is mockery or contempt; while present, it's more individual than the widespread public hatred that 'odium' implies." },
+        { "distractor": "shame", "closeness": 2, "reasoning": "Incorrect -- 'shame' is a feeling of mortification; it emphasizes the emotional state rather than the public hatred that 'odium' represents." },
+        { "distractor": "blame", "closeness": 2, "reasoning": "Incorrect -- 'blame' means to assign fault; the sentence requires more than holding responsible—it requires public hatred." },
+        { "distractor": "admiration", "closeness": 1, "reasoning": "Opposite -- 'admiration' means respect and approval; contrary to the hatred and contempt of odium." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Opposite -- 'praise' means to express approval; the opposite sentiment of widespread odium." },
+        { "distractor": "esteem", "closeness": 1, "reasoning": "Incorrect -- 'esteem' means respect or regard; not relevant to hatred or contempt." }
+      ]
+    },
+    {
+      "sentence": "Years after the incident, he still carried the odium of his betrayal, an outcast in the community that once welcomed him.",
+      "answerChoices": [
+        { "distractor": "stigma", "closeness": 3, "reasoning": "Close -- 'stigma' means a mark of shame; both fit, but 'odium' emphasizes the hatred and contempt directed at him, not merely a mark of shame." },
+        { "distractor": "shame", "closeness": 3, "reasoning": "Close -- 'shame' is mortification; while present, the sentence emphasizes community hatred ('outcast'), not his own shame." },
+        { "distractor": "taint", "closeness": 3, "reasoning": "Close -- 'taint' means to diminish in purity; the betrayal tainted his reputation, but 'odium' emphasizes active hatred, not passive corruption." },
+        { "distractor": "stain", "closeness": 3, "reasoning": "Close -- 'stain' means a mark or blot; similar to taint, but the sentence requires the hatred and contempt that 'odium' conveys." },
+        { "distractor": "burden", "closeness": 2, "reasoning": "Incorrect -- 'burden' means a heavy load; while carrying consequences, the sentence emphasizes community hatred, not a burden." },
+        { "distractor": "scar", "closeness": 2, "reasoning": "Incorrect -- 'scar' means a lasting mark; the betrayal left scars, but the sentence emphasizes ongoing public hatred." },
+        { "distractor": "curse", "closeness": 2, "reasoning": "Incorrect -- 'curse' can mean a spell or fate; while he was cursed by events, the sentence indicates community contempt." },
+        { "distractor": "debt", "closeness": 2, "reasoning": "Incorrect -- 'debt' means something owed; the sentence doesn't present his situation as owing something." },
+        { "distractor": "honor", "closeness": 1, "reasoning": "Opposite -- 'honor' means respect and dignity; the opposite of carrying odium." },
+        { "distractor": "acceptance", "closeness": 1, "reasoning": "Opposite -- 'acceptance' means being received favorably; contrary to being an outcast under odium." },
+        { "distractor": "forgiveness", "closeness": 1, "reasoning": "Incorrect -- 'forgiveness' means releasing someone from blame; the opposite of the ongoing hatred of odium." }
+      ]
+    },
+    {
+      "sentence": "The regime's atrocities earned it lasting odium among nations that imposed sanctions and diplomatic isolation for generations.",
+      "answerChoices": [
+        { "distractor": "enmity", "closeness": 3, "reasoning": "Close -- 'enmity' means hostility or hatred; both fit, but 'odium' specifically emphasizes contempt rather than merely hostile relations." },
+        { "distractor": "animosity", "closeness": 3, "reasoning": "Close -- 'animosity' means strong dislike or hatred; nearly synonymous, but the sentence emphasizes widespread public contempt rather than bilateral hostility." },
+        { "distractor": "detestation", "closeness": 3, "reasoning": "Close -- 'detestation' means intense hatred; both fit, but 'odium' emphasizes social/public contempt, while 'detestation' emphasizes intense personal dislike." },
+        { "distractor": "abhorrence", "closeness": 3, "reasoning": "Close -- 'abhorrence' means extreme hatred; both fit, but the sentence emphasizes organized international response to contempt rather than intense personal revulsion." },
+        { "distractor": "outrage", "closeness": 2, "reasoning": "Incorrect -- 'outrage' means anger; while the nations felt outrage, the sentence emphasizes the contempt and sanctions that follow." },
+        { "distractor": "fury", "closeness": 2, "reasoning": "Incorrect -- 'fury' is intense anger; the nations' response went beyond anger to contempt and isolation." },
+        { "distractor": "wrath", "closeness": 2, "reasoning": "Incorrect -- 'wrath' means extreme anger; while wrath may be involved, the sentence emphasizes contempt and formal sanctions." },
+        { "distractor": "vendetta", "closeness": 2, "reasoning": "Incorrect -- 'vendetta' means a prolonged feud; the sentence shows organized diplomatic response, not personal vengeance." },
+        { "distractor": "respect", "closeness": 1, "reasoning": "Opposite -- 'respect' means regard and esteem; contrary to the contempt of odium." },
+        { "distractor": "alliance", "closeness": 1, "reasoning": "Opposite -- 'alliance' means partnership; the opposite of the isolation and sanctions resulting from odium." },
+        { "distractor": "approval", "closeness": 1, "reasoning": "Incorrect -- 'approval' means acceptance or agreement; the opposite of widespread contempt." }
+      ]
+    }
+  ]
+}

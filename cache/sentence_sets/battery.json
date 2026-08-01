@@ -1,0 +1,53 @@
+{
+  "word": "battery",
+  "sentenceSets": [
+    {
+      "sentence": "The attorney objected to the battery of tests being required of the plaintiff before trial.",
+      "answerChoices": [
+        { "distractor": "barrage", "closeness": 3, "reasoning": "Both describe multiple items in succession, but barrage emphasizes rapid overwhelming attack, while battery emphasizes a group or series of similar things." },
+        { "distractor": "volley", "closeness": 3, "reasoning": "Both describe rapid succession of things, but volley emphasizes shots or blows delivered in quick succession, while battery emphasizes a series of tests." },
+        { "distractor": "array", "closeness": 3, "reasoning": "Both describe collection of items, but array emphasizes arrangement or display, while battery emphasizes a series of similar items." },
+        { "distractor": "succession", "closeness": 3, "reasoning": "Both describe items in sequence, but succession emphasizes one after another, while battery emphasizes a group series." },
+        { "distractor": "sequence", "closeness": 2, "reasoning": "The tests come in sequence, but sequence just means one after another, not emphasizing the group nature." },
+        { "distractor": "sequence", "closeness": 2, "reasoning": "The tests follow sequence, but this doesn't capture battery's sense of a complete group." },
+        { "distractor": "regiment", "closeness": 2, "reasoning": "A battery of tests is highly organized, but regiment refers to military organization or strict discipline." },
+        { "distractor": "course", "closeness": 2, "reasoning": "Tests may follow a course, but course suggests a path or sequence, not a group." },
+        { "distractor": "single", "closeness": 1, "reasoning": "The attorney objected to a battery of many tests; single means one." },
+        { "distractor": "exemption", "closeness": 1, "reasoning": "The attorney objected to the battery of tests; exemption means being freed from requirement." },
+        { "distractor": "elimination", "closeness": 1, "reasoning": "The attorney objected to the battery of tests; elimination means removing them." }
+      ]
+    },
+    {
+      "sentence": "The assault charge specified battery—the defendant had struck the officer multiple times during the altercation.",
+      "answerChoices": [
+        { "distractor": "assault", "closeness": 3, "reasoning": "Both refer to attacking someone, but assault refers to attack in general, while battery specifically refers to physical blows or striking." },
+        { "distractor": "beating", "closeness": 3, "reasoning": "Both involve striking repeatedly, but beating emphasizes the result of repeated strikes, while battery emphasizes the act of striking someone." },
+        { "distractor": "violence", "closeness": 3, "reasoning": "Both describe harmful acts, but violence is broader and includes non-physical harm, while battery specifically refers to striking." },
+        { "distractor": "mayhem", "closeness": 3, "reasoning": "Both involve violent acts, but mayhem emphasizes chaotic violence and harm, while battery refers specifically to striking." },
+        { "distractor": "attack", "closeness": 2, "reasoning": "Battery is an attack, but attack can include non-physical harm, while battery specifically means striking." },
+        { "distractor": "aggression", "closeness": 2, "reasoning": "Battery involves aggression, but aggression can be hostile behavior without striking." },
+        { "distractor": "combat", "closeness": 2, "reasoning": "The altercation involved combat, but combat refers to fighting between parties, while battery emphasizes striking by one person." },
+        { "distractor": "confrontation", "closeness": 2, "reasoning": "An altercation is a confrontation, but confrontation doesn't specifically refer to physical striking." },
+        { "distractor": "defense", "closeness": 1, "reasoning": "The defendant committed battery; defense means protection against harm." },
+        { "distractor": "protection", "closeness": 1, "reasoning": "Battery involves striking someone; protection means guarding from harm." },
+        { "distractor": "avoidance", "closeness": 1, "reasoning": "Battery involves striking; avoidance means keeping away from." }
+      ]
+    },
+    {
+      "sentence": "The marine biologist observed the battery of the waves against the rocky shore, each impact wearing away the stone over millennia.",
+      "answerChoices": [
+        { "distractor": "bombardment", "closeness": 3, "reasoning": "Both describe sustained forceful impact, but bombardment emphasizes heavy sustained attack, while battery emphasizes repeated impacts." },
+        { "distractor": "pounding", "closeness": 3, "reasoning": "Both describe repeated forceful striking, but pounding emphasizes the sound and force, while battery emphasizes the repeated impacts." },
+        { "distractor": "assault", "closeness": 3, "reasoning": "Both describe repeated attack, but assault emphasizes violent attack on someone, while battery emphasizes repeated impacts." },
+        { "distractor": "onslaught", "closeness": 3, "reasoning": "Both describe sustained forceful action, but onslaught emphasizes violent attack, while battery emphasizes repeated battering." },
+        { "distractor": "erosion", "closeness": 2, "reasoning": "Wave battery causes erosion, but erosion describes the wearing away process, not the battering action." },
+        { "distractor": "impact", "closeness": 2, "reasoning": "Each wave creates impact, but impact refers to a single strike, while battery refers to repeated strikes." },
+        { "distractor": "collision", "closeness": 2, "reasoning": "Waves collide with the shore, but collision refers to a single strike, while battery emphasizes repeated striking." },
+        { "distractor": "grinding", "closeness": 2, "reasoning": "The shore is ground away, but grinding emphasizes a different process from battery's striking action." },
+        { "distractor": "protection", "closeness": 1, "reasoning": "Waves batter the shore; protection describes guarding against harm." },
+        { "distractor": "support", "closeness": 1, "reasoning": "The battery erodes the shore; support means holding up." },
+        { "distractor": "preservation", "closeness": 1, "reasoning": "Waves batter and erode the shore; preservation means protecting from damage." }
+      ]
+    }
+  ]
+}
