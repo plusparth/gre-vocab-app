@@ -50,8 +50,8 @@ export function Progress({ allWords }: { allWords: Word[] }) {
   const total = allWords.length;
 
   return (
-    <div style={{ padding: 24, maxWidth: 600 }}>
-      <h2 style={{ marginBottom: 20 }}>Progress</h2>
+    <div className="progress-page page" style={{ padding: 24, maxWidth: 600 }}>
+      <header className="page-header"><h1>Study progress</h1><p>Your review cadence, at a glance.</p></header>
 
       {/* Stat cards — count and label in a single text node so getByText regex can match */}
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(130px, 1fr))', gap: 12, marginBottom: 24 }}>
@@ -74,7 +74,7 @@ export function Progress({ allWords }: { allWords: Word[] }) {
         <div style={{ fontSize: 32, fontWeight: 700 }}>{streak} day{streak !== 1 ? 's' : ''} 🔥</div>
       </div>
 
-      <div style={{ background: 'white', border: '1px solid #eee', borderRadius: 10, padding: 16 }}>
+      <div data-testid="progress-ledger" className="progress-ledger" style={{ background: 'white', border: '1px solid #eee', borderRadius: 10, padding: 16 }}>
         <div style={{ fontSize: 13, color: '#666', marginBottom: 8 }}>Word breakdown</div>
         {(['mastered', 'due', 'learning', 'struggling', 'new'] as WordStatus[]).map(status => (
           <div key={status} style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 6 }}>

@@ -1,4 +1,4 @@
-import { useMemo, useEffect, useRef } from 'react';
+import { useMemo, useRef, useState, type PointerEvent } from 'react';
 import { useFilteredWords } from '../hooks/useFilteredWords';
 import { useWordSelectionStore } from '../store/wordSelectionStore';
 import { useProgressStore } from '../store/progressStore';
@@ -8,6 +8,8 @@ interface WordBankProps {
   allWords: Word[];
   onStart: () => void;
 }
+
+const MARQUEE_THRESHOLD_PX = 20;
 
 export function WordBank({ allWords, onStart }: WordBankProps) {
   const {
@@ -23,27 +25,65 @@ export function WordBank({ allWords, onStart }: WordBankProps) {
     [allWords]
   );
 
-  // Drag-to-select state (refs so no re-render overhead)
-  const dragging = useRef(false);
-  const dragAction = useRef<'select' | 'deselect'>('select');
+  const listRef = useRef<HTMLDivElement>(null);
+  const dragStart = useRef<{ x: number; y: number; word?: string; mode: 'add' | 'subtract' } | null>(null);
+  const [marquee, setMarquee] = useState<{ x: number; y: number; width: number; height: number; mode: 'add' | 'subtract' } | null>(null);
+  const [previewWords, setPreviewWords] = useState<Set<string>>(new Set());
 
-  useEffect(() => {
-    const onUp = () => { dragging.current = false; };
-    window.addEventListener('pointerup', onUp);
-    return () => window.removeEventListener('pointerup', onUp);
-  }, []);
-
-  function handlePointerDown(word: string, currentlySelected: boolean) {
-    dragging.current = true;
-    dragAction.current = currentlySelected ? 'deselect' : 'select';
-    toggleWord(word);
+  function handlePointerDown(event: PointerEvent<HTMLDivElement>) {
+    if ((event.target as HTMLElement).closest('input, button, select')) return;
+    const row = (event.target as HTMLElement).closest<HTMLElement>('[data-word]');
+    const word = row?.dataset.word;
+    const mode = word && selectedWords.has(word) ? 'subtract' : 'add';
+    dragStart.current = { x: event.clientX, y: event.clientY, word, mode };
+    event.currentTarget.setPointerCapture?.(event.pointerId);
+    setMarquee({ x: event.clientX, y: event.clientY, width: 0, height: 0, mode });
   }
 
-  function handlePointerEnter(word: string) {
-    if (!dragging.current) return;
-    const isSelected = selectedWords.has(word);
-    if (dragAction.current === 'select' && !isSelected) toggleWord(word);
-    if (dragAction.current === 'deselect' && isSelected) toggleWord(word);
+  function handlePointerMove(event: PointerEvent<HTMLDivElement>) {
+    if (!dragStart.current) return;
+    const { x, y, mode } = dragStart.current;
+    const width = Math.abs(event.clientX - x); const height = Math.abs(event.clientY - y);
+    if (Math.hypot(width, height) < MARQUEE_THRESHOLD_PX) {
+      setMarquee(null);
+      setPreviewWords(new Set());
+      return;
+    }
+    (event.target as HTMLElement).blur?.();
+    setMarquee({ x: Math.min(x, event.clientX), y: Math.min(y, event.clientY), width, height, mode });
+    if (listRef.current) {
+      const left = Math.min(x, event.clientX); const right = Math.max(x, event.clientX);
+      const top = Math.min(y, event.clientY); const bottom = Math.max(y, event.clientY);
+      setPreviewWords(new Set([...listRef.current.querySelectorAll<HTMLElement>('[data-word]')]
+        .filter(row => { const rect = row.getBoundingClientRect(); return rect.right >= left && rect.left <= right && rect.bottom >= top && rect.top <= bottom; })
+        .map(row => row.dataset.word!).filter(Boolean)));
+    }
+  }
+
+  function handlePointerUp(event: PointerEvent<HTMLDivElement>) {
+    if (!dragStart.current || !listRef.current) return;
+    const start = dragStart.current;
+    if (Math.hypot(event.clientX - start.x, event.clientY - start.y) < MARQUEE_THRESHOLD_PX) {
+      if (start.word) toggleWord(start.word);
+      dragStart.current = null;
+      setMarquee(null);
+      setPreviewWords(new Set());
+      return;
+    }
+    const left = Math.min(start.x, event.clientX); const right = Math.max(start.x, event.clientX);
+    const top = Math.min(start.y, event.clientY); const bottom = Math.max(start.y, event.clientY);
+    const hit = [...listRef.current.querySelectorAll<HTMLElement>('[data-word]')].filter(row => {
+      const rect = row.getBoundingClientRect();
+      return rect.right >= left && rect.left <= right && rect.bottom >= top && rect.top <= bottom;
+    }).map(row => row.dataset.word!).filter(Boolean);
+    if (hit.length) {
+      const next = new Set(selectedWords);
+      hit.forEach(word => start.mode === 'add' ? next.add(word) : next.delete(word));
+      selectWords([...next]);
+    }
+    dragStart.current = null;
+    setMarquee(null);
+    setPreviewWords(new Set());
   }
 
   function handleSelectAll() {
@@ -59,8 +99,9 @@ export function WordBank({ allWords, onStart }: WordBankProps) {
   };
 
   return (
-    <div style={{ padding: 16, maxWidth: 800 }}>
-      <div style={{ display: 'flex', gap: 8, marginBottom: 8, flexWrap: 'wrap' }}>
+    <div className="word-bank page">
+      <header className="page-header"><h1>Vocabulary ledger</h1><p>Curate a focused set, then study it your way.</p></header>
+      <div className="word-bank-filters" style={{ display: 'flex', gap: 8, marginBottom: 8, flexWrap: 'wrap' }}>
         <input
           placeholder="Search words or definitions..."
           value={search}
@@ -81,7 +122,7 @@ export function WordBank({ allWords, onStart }: WordBankProps) {
         </select>
       </div>
 
-      <div style={{ display: 'flex', gap: 6, marginBottom: 8, flexWrap: 'wrap', alignItems: 'center' }}>
+      <div className="prefix-filters" style={{ display: 'flex', gap: 6, marginBottom: 8, flexWrap: 'wrap', alignItems: 'center' }}>
         <span style={{ fontSize: 12, color: '#666' }}>Prefix:</span>
         <button
           onClick={() => setPrefixFilter('')}
@@ -100,8 +141,9 @@ export function WordBank({ allWords, onStart }: WordBankProps) {
         ))}
       </div>
 
-      <div style={{ display: 'flex', gap: 8, alignItems: 'center', marginBottom: 12, fontSize: 13 }}>
-        <span>{filtered.length} words shown · {selectedWords.size} selected</span>
+      <div data-testid="selection-tray" className="selection-tray" style={{ display: 'flex', gap: 8, alignItems: 'center', marginBottom: 12, fontSize: 13 }}>
+        <span className="selection-summary">{filtered.length} words shown · {selectedWords.size} selected</span>
+        <span className="drag-hint"><span aria-hidden="true">▧</span> Drag a box to select · start on selected rows to remove</span>
         <button onClick={handleSelectAll} style={{ fontSize: 12, padding: '2px 8px', cursor: 'pointer' }}>
           Select all {filtered.length}
         </button>
@@ -129,24 +171,24 @@ export function WordBank({ allWords, onStart }: WordBankProps) {
         </button>
       </div>
 
-      <div style={{ display: 'flex', flexDirection: 'column', gap: 4, touchAction: 'none' }}>
+      <div ref={listRef} className={`word-list ${marquee ? 'word-list--dragging' : ''}`} style={{ display: 'flex', flexDirection: 'column', gap: 4, touchAction: 'none' }} onPointerDown={handlePointerDown} onPointerMove={handlePointerMove} onPointerUp={handlePointerUp}>
         {filtered.map(word => {
           const status = getStatus(word.word);
           const selected = selectedWords.has(word.word);
           return (
             <label
               key={word.word}
+              data-word={word.word}
+              className={`word-row word-row--brush-select ${selected ? 'word-row--selected' : ''} ${previewWords.has(word.word) ? `word-row--preview-${marquee?.mode}` : ''}`}
               style={{ display: 'flex', alignItems: 'center', gap: 10, padding: '6px 10px',
                        border: `1px solid ${selected ? '#0071e3' : '#ddd'}`,
                        background: selected ? '#e8f4fd' : 'white',
                        borderRadius: 6, cursor: 'pointer', userSelect: 'none' }}
-              onPointerDown={() => handlePointerDown(word.word, selected)}
-              onPointerEnter={() => handlePointerEnter(word.word)}
             >
               <input
                 type="checkbox"
                 checked={selected}
-                onChange={() => {}}
+                onChange={() => toggleWord(word.word)}
                 style={{ cursor: 'pointer' }}
               />
               <span style={{ fontWeight: 600, minWidth: 100 }}>{word.word}</span>
@@ -161,6 +203,7 @@ export function WordBank({ allWords, onStart }: WordBankProps) {
           );
         })}
       </div>
+      {marquee && <div className={`selection-marquee selection-marquee--${marquee.mode}`} style={{ left: marquee.x, top: marquee.y, width: marquee.width, height: marquee.height }} aria-hidden="true" />}
     </div>
   );
 }

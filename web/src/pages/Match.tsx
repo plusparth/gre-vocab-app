@@ -92,7 +92,7 @@ export function Match({ allWords }: { allWords: Word[] }) {
   }
 
   return (
-    <div style={{ padding: 24, maxWidth: 700, margin: '0 auto' }}>
+    <div data-testid="match-workspace" className="study-workspace" style={{ padding: 24, maxWidth: 700, margin: '0 auto' }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 16, fontSize: 13, color: '#666' }}>
         <span>Round {roundIndex + 1} of {rounds.length}</span>
         <span>{matched.size} / {round.length} matched</span>

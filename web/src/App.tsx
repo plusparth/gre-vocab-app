@@ -31,13 +31,13 @@ export default function App() {
   }
 
   return (
-    <div style={{ display: 'flex', height: '100vh', overflow: 'hidden' }}>
+    <div className="app-shell">
       <Sidebar
         activeMode={activeMode}
         onSetMode={handleSetMode}
         selectedCount={selectedWords.size}
       />
-      <main style={{ flex: 1, overflow: 'auto' }}>
+      <main className="app-main">
         <Routes>
           <Route path="/"              element={<WordBank allWords={allWords} onStart={() => handleSetMode('flashcards')} />} />
           <Route path="/flashcards"    element={<Flashcards allWords={allWords} />} />

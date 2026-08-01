@@ -51,7 +51,7 @@ export function Flashcards({ allWords }: { allWords: Word[] }) {
   }
 
   return (
-    <div style={{ padding: 24, maxWidth: 600, margin: '0 auto' }}>
+    <div data-testid="flashcard-workspace" className="study-workspace" style={{ padding: 24, maxWidth: 600, margin: '0 auto' }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 16, fontSize: 13, color: '#666' }}>
         <span>{index + 1} / {sessionWords.length}</span>
         <label>
@@ -61,7 +61,7 @@ export function Flashcards({ allWords }: { allWords: Word[] }) {
         </label>
       </div>
 
-      <div style={{ border: '1px solid #ddd', borderRadius: 12, minHeight: 220, padding: 32,
+      <div className="study-panel" style={{ border: '1px solid #ddd', borderRadius: 12, minHeight: 220, padding: 32,
                     display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
                     textAlign: 'center', background: 'white', boxShadow: '0 2px 8px rgba(0,0,0,.08)' }}>
         {!revealed ? (
@@ -69,7 +69,7 @@ export function Flashcards({ allWords }: { allWords: Word[] }) {
             {showWord ? (
               <>
                 <div style={{ fontSize: 11, color: '#999', textTransform: 'uppercase', letterSpacing: '.05em', marginBottom: 4 }}>{word.pos}</div>
-                <div style={{ fontSize: 32, fontWeight: 700 }}>{word.word}</div>
+                <div className="flashcard-word" style={{ fontSize: 32, fontWeight: 700 }}>{word.word}</div>
                 {word.prefix && <div style={{ fontSize: 12, color: '#bbb', marginTop: 4 }}>{word.prefix}-</div>}
               </>
             ) : (
@@ -100,7 +100,7 @@ export function Flashcards({ allWords }: { allWords: Word[] }) {
                 )}
               </>
             ) : (
-              <div style={{ fontSize: 24, fontWeight: 700 }}>{word.word}</div>
+              <div className="flashcard-word" style={{ fontSize: 24, fontWeight: 700 }}>{word.word}</div>
             )}
             <div style={{ display: 'flex', gap: 8, marginTop: 20, flexWrap: 'wrap', justifyContent: 'center' }}>
               {RATINGS.map(r => (

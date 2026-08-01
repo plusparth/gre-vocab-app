@@ -19,6 +19,15 @@ beforeEach(() => useWordSelectionStore.setState({
 }));
 
 describe('WordBank', () => {
+  it('renders the vocabulary ledger shell and selection summary', () => {
+    render(<WordBank allWords={mockWords} onStart={mockOnStart} />);
+    expect(screen.getByRole('heading', { name: /vocabulary ledger/i })).toBeInTheDocument();
+    expect(screen.getByText(/words shown/i)).toHaveClass('selection-summary');
+    expect(screen.getByTestId('selection-tray')).toHaveClass('selection-tray');
+    expect(screen.getByText(/drag a box to select/i)).toBeVisible();
+    expect(screen.getAllByText('abase')[0].closest('label')).toHaveClass('word-row--brush-select');
+  });
+
   it('renders all words', () => {
     render(<WordBank allWords={mockWords} onStart={mockOnStart} />);
     expect(screen.getByText('abase')).toBeInTheDocument();
