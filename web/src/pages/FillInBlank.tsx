@@ -92,7 +92,7 @@ export function FillInBlank({ allWords }: { allWords: Word[] }) {
   }
 
   return (
-    <div style={{ padding: 24, maxWidth: 640, margin: '0 auto' }}>
+    <div data-testid="fill-blank-workspace" className="study-workspace" style={{ padding: 24, maxWidth: 640, margin: '0 auto' }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 16, fontSize: 13 }}>
         <span style={{ color: '#666' }}>{index + 1} / {sessionWords.length}</span>
         <label>
@@ -102,7 +102,7 @@ export function FillInBlank({ allWords }: { allWords: Word[] }) {
         </label>
       </div>
 
-      <div style={{ background: 'white', border: '1px solid #ddd', borderRadius: 10, padding: 20,
+      <div className="study-panel" style={{ background: 'white', border: '1px solid #ddd', borderRadius: 10, padding: 20,
                     fontSize: 15, lineHeight: 1.8, marginBottom: 16 }}>
         {blanked}
       </div>

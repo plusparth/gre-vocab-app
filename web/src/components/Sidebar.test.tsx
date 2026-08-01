@@ -6,6 +6,17 @@ import { Sidebar } from './Sidebar';
 const mockSetMode = vi.fn();
 
 describe('Sidebar', () => {
+  it('uses the study-desk navigation shell in word bank mode', () => {
+    render(<Sidebar activeMode="wordbank" onSetMode={mockSetMode} selectedCount={5} />);
+    expect(screen.getByRole('navigation')).toHaveClass('app-sidebar', 'app-sidebar--expanded');
+    expect(screen.getByText('GRE Vocab')).toHaveClass('sidebar-brand');
+  });
+
+  it('uses a compact rail for quiz modes', () => {
+    render(<Sidebar activeMode="flashcards" onSetMode={mockSetMode} selectedCount={5} />);
+    expect(screen.getByRole('navigation')).toHaveClass('app-sidebar', 'app-sidebar--rail');
+  });
+
   it('renders expanded labels in wordbank mode', () => {
     render(<Sidebar activeMode="wordbank" onSetMode={mockSetMode} selectedCount={5} />);
     expect(screen.getByText('Flashcards')).toBeVisible();
@@ -14,10 +25,10 @@ describe('Sidebar', () => {
     expect(screen.getByText('Progress')).toBeVisible();
   });
 
-  it('does not render text labels in quiz mode (icon rail)', () => {
+  it('visually hides text labels in quiz mode (icon rail)', () => {
     render(<Sidebar activeMode="flashcards" onSetMode={mockSetMode} selectedCount={5} />);
-    expect(screen.queryByText('Flashcards')).toBeNull();
-    expect(screen.queryByText('Fill in Blank')).toBeNull();
+    expect(screen.getByRole('navigation')).toHaveClass('app-sidebar--rail');
+    expect(screen.getByText('Flashcards')).toHaveClass('sidebar-nav-label');
   });
 
   it('calls onSetMode when a nav item is clicked', async () => {
