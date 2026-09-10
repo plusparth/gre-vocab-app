@@ -1,8 +1,7 @@
 import { useState } from 'react';
-import { useWordSelectionStore } from '../store/wordSelectionStore';
 import { useProgressStore } from '../store/progressStore';
 import { useSessionStore } from '../store/sessionStore';
-import { useFilteredWords } from '../hooks/useFilteredWords';
+import { useSessionWords } from '../hooks/useSessionWords';
 import type { Word, SM2Quality } from '../types';
 
 const RATINGS: { label: string; quality: SM2Quality; color: string }[] = [
@@ -14,16 +13,14 @@ const RATINGS: { label: string; quality: SM2Quality; color: string }[] = [
 
 export function Flashcards({ allWords }: { allWords: Word[] }) {
   const { flashcardDirection } = useSessionStore();
-  const { selectedWords } = useWordSelectionStore();
   const { recordAnswer } = useProgressStore();
-  const filtered = useFilteredWords(allWords);
-  const sessionWords = filtered.filter(w => selectedWords.has(w.word));
+  const { words: sessionWords, reshuffle } = useSessionWords(allWords);
 
   const [index, setIndex] = useState(0);
   const [revealed, setRevealed] = useState(false);
   const [done, setDone] = useState(false);
 
-  if (selectedWords.size === 0) {
+  if (sessionWords.length === 0) {
     return <div style={{ padding: 32, color: '#888' }}>No words selected — go to Word Bank to pick words.</div>;
   }
 
@@ -32,7 +29,7 @@ export function Flashcards({ allWords }: { allWords: Word[] }) {
       <div style={{ padding: 32, textAlign: 'center' }}>
         <h2>Session complete!</h2>
         <p>{sessionWords.length} cards reviewed.</p>
-        <button onClick={() => { setIndex(0); setRevealed(false); setDone(false); }}
+        <button onClick={() => { setIndex(0); setRevealed(false); setDone(false); reshuffle(); }}
           style={{ marginTop: 16, padding: '8px 20px', background: '#0071e3', color: 'white', border: 'none', borderRadius: 6, cursor: 'pointer' }}>
           Restart
         </button>

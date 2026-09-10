@@ -52,3 +52,26 @@ describe('Flashcards', () => {
     expect(screen.getByText(/no words selected/i)).toBeInTheDocument();
   });
 });
+
+describe('Flashcards - presentation order', () => {
+  const deck: Word[] = Array.from({ length: 12 }, (_, i) => ({
+    word: `word${String.fromCharCode(97 + i)}`, prefix: 'ab', pos: 'verb',
+    definition: `meaning ${i}`, mwSentence: '', etymology: '', notes: '',
+    stems: [`word${String.fromCharCode(97 + i)}`], sentenceSets: [],
+  }));
+
+  beforeEach(() => useWordSelectionStore.setState({
+    selectedWords: new Set(deck.map(w => w.word)),
+    search: '', prefixFilter: '', masteryFilter: 'all', sortOrder: 'az', topN: null,
+  }));
+
+  it('does not always start with the alphabetically first card', () => {
+    const firsts = new Set<string>();
+    for (let i = 0; i < 30; i++) {
+      const { unmount } = render(<Flashcards allWords={deck} />);
+      firsts.add(screen.getByText(/^word[a-l]$/).textContent!);
+      unmount();
+    }
+    expect(firsts.size).toBeGreaterThan(1);
+  });
+});

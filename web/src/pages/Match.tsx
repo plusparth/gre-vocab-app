@@ -1,28 +1,14 @@
-import { useState, useMemo, useEffect } from 'react';
-import { useWordSelectionStore } from '../store/wordSelectionStore';
+import { useState, useMemo } from 'react';
 import { useProgressStore } from '../store/progressStore';
-import { useFilteredWords } from '../hooks/useFilteredWords';
+import { useSessionWords } from '../hooks/useSessionWords';
+import { shuffle } from '../utils/shuffle';
 import type { Word } from '../types';
 
 const ROUND_SIZE = 6;
 
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
-
 export function Match({ allWords }: { allWords: Word[] }) {
-  const { selectedWords } = useWordSelectionStore();
   const { recordAnswer } = useProgressStore();
-  const filtered = useFilteredWords(allWords);
-  const sessionWords = useMemo(
-    () => filtered.filter(w => selectedWords.has(w.word)),
-    [filtered, selectedWords]
-  );
+  const { words: sessionWords, reshuffle } = useSessionWords(allWords);
 
   const [roundIndex, setRoundIndex] = useState(0);
   const [selectedWord, setSelectedWord] = useState<string | null>(null);
@@ -37,13 +23,14 @@ export function Match({ allWords }: { allWords: Word[] }) {
     return r;
   }, [sessionWords]);
 
-  const [shuffledDefs, setShuffledDefs] = useState<Word[]>(() =>
-    rounds[0] ? shuffle(rounds[0]) : []
-  );
-
-  useEffect(() => {
-    if (rounds[roundIndex]) setShuffledDefs(shuffle(rounds[roundIndex]));
-  }, [roundIndex, rounds]);
+  // The definition column is shuffled independently of the word column, once
+  // per round, so the two lists never line up.
+  const [defs, setDefs] = useState<{ rounds: Word[][]; roundIndex: number; words: Word[] } | null>(null);
+  const currentDefs = defs && defs.rounds === rounds && defs.roundIndex === roundIndex
+    ? defs
+    : { rounds, roundIndex, words: rounds[roundIndex] ? shuffle(rounds[roundIndex]) : [] };
+  if (currentDefs !== defs) setDefs(currentDefs);
+  const shuffledDefs = currentDefs.words;
 
   if (sessionWords.length < 2) {
     return <div style={{ padding: 32, color: '#888' }}>Not enough words selected — select at least 2 words in the Word Bank.</div>;
@@ -53,7 +40,7 @@ export function Match({ allWords }: { allWords: Word[] }) {
     return (
       <div style={{ padding: 32, textAlign: 'center' }}>
         <h2>All rounds complete!</h2>
-        <button onClick={() => { setRoundIndex(0); setMatched(new Set()); }}
+        <button onClick={() => { setRoundIndex(0); setMatched(new Set()); reshuffle(); }}
           style={{ marginTop: 16, padding: '8px 20px', background: '#0071e3', color: 'white', border: 'none', borderRadius: 6, cursor: 'pointer' }}>
           Restart
         </button>

@@ -43,7 +43,7 @@ export type StudyMode = 'wordbank' | 'flashcards' | 'match' | 'fillInBlank' | 'p
 
 export type FlashcardDirection = 'wordFirst' | 'definitionFirst';
 
-export type FillInBlankMode = 'multipleChoice' | 'typed';
+export type FillInBlankMode = 'multipleChoice' | 'greWords' | 'typed';
 
 export interface QuizOption {
   text: string;

@@ -45,3 +45,24 @@ describe('Match', () => {
     expect(screen.getByText(/not enough words/i)).toBeInTheDocument();
   });
 });
+
+describe('Match - presentation order', () => {
+  const twelve = Array.from({ length: 12 }, (_, i) =>
+    makeWord(`word${String.fromCharCode(97 + i)}`, `meaning ${i}`)
+  );
+
+  beforeEach(() => useWordSelectionStore.setState({
+    selectedWords: new Set(twelve.map(w => w.word)),
+    search: '', prefixFilter: '', masteryFilter: 'all', sortOrder: 'az', topN: null,
+  }));
+
+  it('does not always put the same words in the first round', () => {
+    const rounds = new Set<string>();
+    for (let i = 0; i < 30; i++) {
+      const { unmount } = render(<Match allWords={twelve} />);
+      rounds.add(screen.getAllByText(/^word[a-l]$/).map(e => e.textContent).join(','));
+      unmount();
+    }
+    expect(rounds.size).toBeGreaterThan(1);
+  });
+});

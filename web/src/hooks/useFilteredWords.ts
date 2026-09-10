@@ -1,6 +1,7 @@
 import { useMemo } from 'react';
 import { useWordSelectionStore } from '../store/wordSelectionStore';
 import { useProgressStore } from '../store/progressStore';
+import { shuffle } from '../utils/shuffle';
 import type { Word } from '../types';
 
 export function useFilteredWords(allWords: Word[]): Word[] {
@@ -29,10 +30,10 @@ export function useFilteredWords(allWords: Word[]): Word[] {
       });
     }
 
-    const sorted = [...filtered];
+    let sorted = [...filtered];
     if (sortOrder === 'az') sorted.sort((a, b) => a.word.localeCompare(b.word));
     else if (sortOrder === 'za') sorted.sort((a, b) => b.word.localeCompare(a.word));
-    else if (sortOrder === 'random') sorted.sort(() => Math.random() - 0.5);
+    else if (sortOrder === 'random') sorted = shuffle(sorted);
 
     return topN !== null ? sorted.slice(0, topN) : sorted;
   }, [allWords, search, prefixFilter, masteryFilter, sortOrder, topN, getStatus]);

@@ -1,5 +1,5 @@
 import { describe, it, expect, beforeEach } from 'vitest';
-import { render, screen } from '@testing-library/react';
+import { render, screen, within } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { FillInBlank } from './FillInBlank';
 import { useWordSelectionStore } from '../store/wordSelectionStore';
@@ -75,5 +75,94 @@ describe('FillInBlank - typed', () => {
     await userEvent.type(screen.getByRole('textbox'), 'extol');
     await userEvent.click(screen.getByRole('button', { name: /submit/i }));
     expect(screen.getByText(/incorrect/i)).toBeInTheDocument();
+  });
+});
+
+function makeVerb(word: string, definition: string, stems: string[]): Word {
+  return { word, prefix: '', pos: 'verb', definition, mwSentence: '', etymology: '', notes: '', stems, sentenceSets: [] };
+}
+
+const greCorpus: Word[] = [
+  mockWord,
+  makeVerb('humble',   'to lower in esteem or dignity', ['humble', 'humbled', 'humbles']),
+  makeVerb('demean',   'to lower in character or rank', ['demean', 'demeaned', 'demeans']),
+  makeVerb('degrade',  'to lower in grade or rank',     ['degrade', 'degraded', 'degrades']),
+  makeVerb('censure',  'to blame or condemn formally',  ['censure', 'censured', 'censures']),
+  makeVerb('rebuke',   'to criticize sharply',          ['rebuke', 'rebuked', 'rebukes']),
+  makeVerb('extol',    'to praise highly',              ['extol', 'extolled', 'extols']),
+  makeVerb('lionize',  'to treat as a celebrity',       ['lionize', 'lionized', 'lionizes']),
+];
+
+describe('FillInBlank - GRE word distractors', () => {
+  beforeEach(() => useSessionStore.setState({ fillInBlankMode: 'greWords', activeMode: 'fillInBlank', flashcardDirection: 'wordFirst', currentIndex: 0, answers: [], sessionActive: false }));
+
+  it('renders 5 answer choices', () => {
+    render(<FillInBlank allWords={greCorpus} />);
+    expect(screen.getAllByRole('button', { name: /^\([A-E]\)/ })).toHaveLength(5);
+  });
+
+  it('draws its distractors from the GRE word list, not the generated choices', () => {
+    render(<FillInBlank allWords={greCorpus} />);
+    const texts = screen.getAllByRole('button', { name: /^\([A-E]\)/ }).map(b => b.textContent!.replace(/^\([A-E]\)\s*/, ''));
+    const generated = mockWord.sentenceSets[0].answerChoices.map(a => a.distractor);
+    texts.forEach(t => expect(generated).not.toContain(t));
+    const greForms = new Set(greCorpus.flatMap(w => [w.word, ...w.stems]));
+    texts.forEach(t => expect(greForms.has(t)).toBe(true));
+  });
+
+  it('marks the inflected target as the correct answer', async () => {
+    render(<FillInBlank allWords={greCorpus} />);
+    await userEvent.click(screen.getByRole('button', { name: /^\([A-E]\) abased$/ }));
+    await userEvent.click(screen.getByRole('button', { name: /submit/i }));
+    expect(screen.getByText(/✓ Correct/)).toBeInTheDocument();
+  });
+
+  it('explains a wrong answer with that word own definition', async () => {
+    render(<FillInBlank allWords={greCorpus} />);
+    const wrong = screen.getAllByRole('button', { name: /^\([A-E]\)/ }).find(b => !/abased/.test(b.textContent!))!;
+    const text = wrong.textContent!.replace(/^\([A-E]\)\s*/, '');
+    await userEvent.click(wrong);
+    await userEvent.click(screen.getByRole('button', { name: /submit/i }));
+    const source = greCorpus.find(w => [w.word, ...w.stems].includes(text))!;
+    expect(screen.getByText(new RegExp(source.definition))).toBeInTheDocument();
+  });
+
+  it('works for a word that has no generated sentence sets', () => {
+    const bare: Word = { ...mockWord, word: 'abase', sentenceSets: [], mwSentence: 'He abased himself before the king.' };
+    useWordSelectionStore.setState({ selectedWords: new Set(['abase']) });
+    render(<FillInBlank allWords={[bare, ...greCorpus.slice(1)]} />);
+    expect(screen.getByText(/before the king/)).toBeInTheDocument();
+    expect(screen.getAllByRole('button', { name: /^\([A-E]\)/ })).toHaveLength(5);
+  });
+});
+
+describe('FillInBlank - unusable words', () => {
+  it('skips a word with no sentence to blank rather than crashing', () => {
+    const noSentence: Word = { ...mockWord, word: 'orphan', stems: ['orphan'], sentenceSets: [], mwSentence: '' };
+    useWordSelectionStore.setState({ selectedWords: new Set(['orphan', 'abase']) });
+    render(<FillInBlank allWords={[noSentence, mockWord]} />);
+    expect(screen.getByText(/The general was/)).toBeInTheDocument();
+    expect(screen.getByText('1 / 1')).toBeInTheDocument();
+  });
+
+  it('reports when no selected word has a usable sentence', () => {
+    const noSentence: Word = { ...mockWord, word: 'orphan', stems: ['orphan'], sentenceSets: [], mwSentence: '' };
+    useWordSelectionStore.setState({ selectedWords: new Set(['orphan']) });
+    render(<FillInBlank allWords={[noSentence]} />);
+    expect(screen.getByText(/none of the selected words has a sentence/i)).toBeInTheDocument();
+  });
+});
+
+describe('FillInBlank - answer mode switcher', () => {
+  it('offers all three answer modes', () => {
+    render(<FillInBlank allWords={greCorpus} />);
+    const group = screen.getByRole('radiogroup', { name: /answer mode/i });
+    expect(within(group).getAllByRole('radio')).toHaveLength(3);
+  });
+
+  it('switches to GRE word distractors when selected', async () => {
+    render(<FillInBlank allWords={greCorpus} />);
+    await userEvent.click(screen.getByRole('radio', { name: /gre words/i }));
+    expect(useSessionStore.getState().fillInBlankMode).toBe('greWords');
   });
 });

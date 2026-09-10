@@ -1,28 +1,48 @@
-import { useState, useMemo } from 'react';
-import { useWordSelectionStore } from '../store/wordSelectionStore';
+import { useMemo, useState } from 'react';
 import { useProgressStore } from '../store/progressStore';
 import { useSessionStore } from '../store/sessionStore';
-import { useFilteredWords } from '../hooks/useFilteredWords';
-import { buildQuizOptions, pickSentenceSet } from '../utils/quiz';
+import { useSessionWords } from '../hooks/useSessionWords';
+import { buildQuizOptions, buildGreWordQuizOptions, sentenceSetFor, hasUsableSentence } from '../utils/quiz';
 import { isCorrectAnswer } from '../utils/text';
 import { QuizResults } from '../components/QuizResults';
-import type { Word, QuizOption, SentenceSet } from '../types';
+import type { Word, QuizOption, SentenceSet, FillInBlankMode } from '../types';
 
 const LABELS = ['(A)', '(B)', '(C)', '(D)', '(E)'];
+
+const ANSWER_MODES: { value: FillInBlankMode; label: string }[] = [
+  { value: 'multipleChoice', label: 'Generated choices' },
+  { value: 'greWords', label: 'GRE words' },
+  { value: 'typed', label: 'Type answer' },
+];
+
+interface Question {
+  key: string;
+  set: SentenceSet;
+  options: QuizOption[];
+}
 
 function blankSentence(sentence: string, word: string, stems: string[]): string {
   const allForms = [word, ...stems].join('|');
   return sentence.replace(new RegExp(`\\b(${allForms})\\b`, 'gi'), '______');
 }
 
+function buildQuestion(word: Word, mode: FillInBlankMode, allWords: Word[], key: string): Question {
+  const set = sentenceSetFor(word)!;
+  if (mode === 'multipleChoice') return { key, set, options: buildQuizOptions(word, set) };
+  if (mode === 'greWords') return { key, set, options: buildGreWordQuizOptions(word, set.sentence, allWords) };
+  return { key, set, options: [] };
+}
+
 export function FillInBlank({ allWords }: { allWords: Word[] }) {
   const { fillInBlankMode, setFillInBlankMode } = useSessionStore();
-  const { selectedWords } = useWordSelectionStore();
   const { recordAnswer } = useProgressStore();
-  const filtered = useFilteredWords(allWords);
+  const { words, reshuffle } = useSessionWords(allWords);
+
+  // Generated-distractor questions need generated answer choices; the other
+  // modes can fall back to the dictionary sentence.
   const sessionWords = useMemo(
-    () => filtered.filter(w => selectedWords.has(w.word)),
-    [filtered, selectedWords]
+    () => words.filter(w => hasUsableSentence(w, fillInBlankMode)),
+    [words, fillInBlankMode]
   );
 
   const [index, setIndex] = useState(0);
@@ -30,53 +50,41 @@ export function FillInBlank({ allWords }: { allWords: Word[] }) {
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [typedAnswer, setTypedAnswer] = useState('');
   const [correct, setCorrect] = useState(false);
-  const [currentSet, setCurrentSet] = useState<SentenceSet | null>(null);
-  const [currentOptions, setCurrentOptions] = useState<QuizOption[]>([]);
+  const [question, setQuestion] = useState<Question | null>(null);
 
-  if (sessionWords.length === 0) {
-    return <div style={{ padding: 32, color: '#888' }}>No words selected — go to Word Bank to pick words.</div>;
-  }
-
-  if (index >= sessionWords.length) {
-    return (
-      <div style={{ padding: 32, textAlign: 'center' }}>
-        <h2>Session complete!</h2>
-        <button onClick={() => { setIndex(0); setSubmitted(false); setSelectedOption(null); setTypedAnswer(''); setCurrentSet(null); setCurrentOptions([]); }}
-          style={{ marginTop: 16, padding: '8px 20px', background: '#0071e3', color: 'white', border: 'none', borderRadius: 6, cursor: 'pointer' }}>
-          Restart
-        </button>
-      </div>
-    );
+  // Switching answer mode changes which words are usable, so start over.
+  const [modeInProgress, setModeInProgress] = useState(fillInBlankMode);
+  if (modeInProgress !== fillInBlankMode) {
+    setModeInProgress(fillInBlankMode);
+    setIndex(0);
+    setSubmitted(false);
+    setSelectedOption(null);
+    setTypedAnswer('');
+    setQuestion(null);
   }
 
   const word = sessionWords[index];
+  const key = word ? `${word.word}|${fillInBlankMode}` : '';
+  const current = word && question?.key === key
+    ? question
+    : word
+      ? buildQuestion(word, fillInBlankMode, allWords, key)
+      : null;
+  if (current && current !== question) setQuestion(current);
 
-  const set = (() => {
-    if (currentSet) return currentSet;
-    const s = pickSentenceSet(word);
-    setCurrentSet(s);
-    return s;
-  })();
-
-  const options = (() => {
-    if (currentOptions.length > 0) return currentOptions;
-    if (fillInBlankMode === 'multipleChoice') {
-      const o = buildQuizOptions(word, set);
-      setCurrentOptions(o);
-      return o;
-    }
-    return [];
-  })();
-
-  const blanked = blankSentence(set.sentence, word.word, word.stems);
+  function restart() {
+    setIndex(0);
+    setSubmitted(false);
+    setSelectedOption(null);
+    setTypedAnswer('');
+    setQuestion(null);
+    reshuffle();
+  }
 
   function handleSubmit() {
-    let isCorrect = false;
-    if (fillInBlankMode === 'multipleChoice') {
-      isCorrect = selectedOption === word.word;
-    } else {
-      isCorrect = isCorrectAnswer(typedAnswer, word.word, word.stems);
-    }
+    const isCorrect = fillInBlankMode === 'typed'
+      ? isCorrectAnswer(typedAnswer, word.word, word.stems)
+      : current!.options.find(o => o.text === selectedOption)?.isCorrect === true;
     setCorrect(isCorrect);
     setSubmitted(true);
     recordAnswer(word.word, isCorrect ? 4 : 1);
@@ -86,20 +94,69 @@ export function FillInBlank({ allWords }: { allWords: Word[] }) {
     setSubmitted(false);
     setSelectedOption(null);
     setTypedAnswer('');
-    setCurrentSet(null);
-    setCurrentOptions([]);
+    setQuestion(null);
     setIndex(i => i + 1);
   }
+
+  const modeSwitch = (
+    <div role="radiogroup" aria-label="Answer mode" style={{ display: 'flex', gap: 4 }}>
+      {ANSWER_MODES.map(m => {
+        const active = fillInBlankMode === m.value;
+        return (
+          <button
+            key={m.value}
+            role="radio"
+            aria-checked={active}
+            aria-label={m.label}
+            onClick={() => setFillInBlankMode(m.value)}
+            style={{
+              padding: '4px 10px', fontSize: 12, borderRadius: 6, cursor: 'pointer',
+              border: `1px solid ${active ? '#0071e3' : '#ddd'}`,
+              background: active ? '#e8f4fd' : 'white',
+              fontWeight: active ? 600 : 400,
+            }}
+          >
+            {m.label}
+          </button>
+        );
+      })}
+    </div>
+  );
+
+  if (words.length === 0) {
+    return <div style={{ padding: 32, color: '#888' }}>No words selected — go to Word Bank to pick words.</div>;
+  }
+
+  if (sessionWords.length === 0) {
+    return (
+      <div style={{ padding: 32, color: '#888' }}>
+        <p style={{ margin: 0 }}>
+          None of the selected words has a sentence to fill in — try another answer mode or pick different words.
+        </p>
+        <div style={{ marginTop: 16 }}>{modeSwitch}</div>
+      </div>
+    );
+  }
+
+  if (!word || !current) {
+    return (
+      <div style={{ padding: 32, textAlign: 'center' }}>
+        <h2>Session complete!</h2>
+        <button onClick={restart}
+          style={{ marginTop: 16, padding: '8px 20px', background: '#0071e3', color: 'white', border: 'none', borderRadius: 6, cursor: 'pointer' }}>
+          Restart
+        </button>
+      </div>
+    );
+  }
+
+  const blanked = blankSentence(current.set.sentence, word.word, word.stems);
 
   return (
     <div data-testid="fill-blank-workspace" className="study-workspace" style={{ padding: 24, maxWidth: 640, margin: '0 auto' }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 16, fontSize: 13 }}>
         <span style={{ color: '#666' }}>{index + 1} / {sessionWords.length}</span>
-        <label>
-          <input type="checkbox" checked={fillInBlankMode === 'typed'}
-            onChange={e => setFillInBlankMode(e.target.checked ? 'typed' : 'multipleChoice')} />
-          {' '}Type answer
-        </label>
+        {modeSwitch}
       </div>
 
       <div className="study-panel" style={{ background: 'white', border: '1px solid #ddd', borderRadius: 10, padding: 20,
@@ -107,10 +164,10 @@ export function FillInBlank({ allWords }: { allWords: Word[] }) {
         {blanked}
       </div>
 
-      {!submitted && fillInBlankMode === 'multipleChoice' && (
+      {!submitted && fillInBlankMode !== 'typed' && (
         <>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 8, marginBottom: 16 }}>
-            {options.map((opt, i) => (
+            {current.options.map((opt, i) => (
               <button
                 key={opt.text}
                 aria-label={`${LABELS[i]} ${opt.text}`}
@@ -162,7 +219,7 @@ export function FillInBlank({ allWords }: { allWords: Word[] }) {
           word={word.word}
           definition={word.definition}
           correct={correct}
-          options={fillInBlankMode === 'multipleChoice' ? options : undefined}
+          options={fillInBlankMode !== 'typed' ? current.options : undefined}
           onNext={handleNext}
         />
       )}
