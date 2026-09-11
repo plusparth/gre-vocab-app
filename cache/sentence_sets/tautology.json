@@ -2,22 +2,6 @@
   "word": "tautology",
   "sentenceSets": [
     {
-      "sentence": "The argument had a tautological quality—it assumed the conclusion as a premise, making refutation impossible and persuasion unnecessary.",
-      "answerChoices": [
-        { "distractor": "circular reasoning", "closeness": 3, "reasoning": "Circular reasoning describes arguments that loop back to their starting point, but tautology specifically means unnecessary repetition of the same idea; a tautology can be stated without the full loop." },
-        { "distractor": "begging the question", "closeness": 3, "reasoning": "Begging the question means assuming the conclusion, which overlaps with tautology, but tautology emphasizes needless repetition of an idea, not just the logical fallacy of assumption." },
-        { "distractor": "logical fallacy", "closeness": 3, "reasoning": "Logical fallacy is a broad category of reasoning errors, but tautology is a specific type—needless repetition; not all fallacies are tautologies." },
-        { "distractor": "contradiction", "closeness": 3, "reasoning": "Contradiction means statements that oppose each other, but the sentence shows an argument that's internally consistent (too consistent), not self-contradicting." },
-        { "distractor": "paradox", "closeness": 2, "reasoning": "Paradox means a seemingly contradictory statement, but the sentence shows an argument that's insufficiently critical, not paradoxical." },
-        { "distractor": "sophistry", "closeness": 2, "reasoning": "Sophistry means clever but false reasoning, but tautology isn't necessarily false; it's just needlessly repetitive and immune to refutation." },
-        { "distractor": "ambiguity", "closeness": 2, "reasoning": "Ambiguity means having multiple meanings, but the sentence's problem is excessive clarity and repetition, not unclear meaning." },
-        { "distractor": "equivocation", "closeness": 2, "reasoning": "Equivocation means using words with double meanings to deceive, but tautology is needless repetition, not deceptive wordplay." },
-        { "distractor": "clarity", "closeness": 1, "reasoning": "Clarity means being clear or understandable; the sentence's problem is the argument is too self-referential and repetitive, not lacking clarity." },
-        { "distractor": "originality", "closeness": 1, "reasoning": "Originality means creating something new; the sentence shows the opposite—the argument merely restates itself rather than presenting something fresh." },
-        { "distractor": "coherence", "closeness": 1, "reasoning": "Coherence means logical consistency; the sentence shows the argument is too consistent (circularly so), not incoherent." }
-      ]
-    },
-    {
       "sentence": "The company's defensive tautology—'We are successful because we perform well'—avoided any actual analysis of what had changed in the market.",
       "answerChoices": [
         { "distractor": "truism", "closeness": 3, "reasoning": "A truism is a statement so obvious it's hardly worth saying, but tautology is specifically about needless repetition of the same idea in different words." },

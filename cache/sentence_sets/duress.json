@@ -44,7 +44,7 @@
         { "distractor": "coercion", "closeness": 2, "reasoning": "Incorrect -- while 'coercion' is related to duress, in this sentence 'under duress' refers more specifically to the state of being forcibly restrained, not the act of forcing." },
         { "distractor": "demand", "closeness": 2, "reasoning": "Incorrect -- 'demand' is a request for something, which the police might have made, but the sentence emphasizes the restraint rather than the request." },
         { "distractor": "pressure", "closeness": 2, "reasoning": "Incorrect -- 'pressure' is compelling force, but it is broader than duress and does not capture the legal significance of the witness's claim." },
-        { "voluntariness", "closeness": 1, "reasoning": "Opposite -- 'voluntariness' means acting by free choice; opposite to signing under forcible restraint." },
+        { "distractor": "voluntariness", "closeness": 1, "reasoning": "Opposite -- 'voluntariness' means acting by free choice; opposite to signing under forcible restraint." },
         { "distractor": "consent", "closeness": 1, "reasoning": "Opposite -- 'consent' means willing agreement; opposite to signing under threats and restraint." },
         { "distractor": "autonomy", "closeness": 1, "reasoning": "Opposite -- 'autonomy' means freedom to make independent choices; opposite to signing a confession under forcible restraint." }
       ]

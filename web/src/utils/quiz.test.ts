@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { buildQuizOptions, buildGreWordQuizOptions, pickSentenceSet, sentenceSetFor, hasUsableSentence } from './quiz';
+import { buildQuizOptions, buildGreWordQuizOptions, pickSentenceSet, sentenceSetFor, hasUsableSentence, isWellFormedSentence } from './quiz';
 import { mulberry32 } from './shuffle';
 import type { Word } from '../types';
 
@@ -165,6 +165,45 @@ describe('buildGreWordQuizOptions', () => {
     }
   });
 
+  it('renders the target in the blanked form even when its stem list lacks it', () => {
+    // 'scoff' is filed as a noun, so M-W records no -ed form for it. When the
+    // sentence uses 'scoffed' and the distractors render as -ed, a lemma
+    // correct answer would be the only odd form on the list.
+    const scoff = makeWord('scoff', 'noun', 'an expression of scorn', ['scoff', 'scoffs']);
+    const edNouns = [
+      makeWord('buttress',  'noun', 'a projecting support', ['buttress', 'buttressed', 'buttresses']),
+      makeWord('crescendo', 'noun', 'a peak of intensity',  ['crescendo', 'crescendoed', 'crescendos']),
+      makeWord('interplay', 'noun', 'reciprocal action',    ['interplay', 'interplayed', 'interplays']),
+      makeWord('ire',       'noun', 'intense anger',        ['ire', 'ired', 'ires']),
+      makeWord('quarrel',   'noun', 'an angry dispute',     ['quarrel', 'quarrelled', 'quarrels']),
+    ];
+    const opts = buildGreWordQuizOptions(scoff, 'He scoffed at the concern.', [scoff, ...edNouns], mulberry32(2));
+    expect(opts.find(o => o.isCorrect)!.text).toBe('scoffed');
+    opts.forEach(o => expect(o.text.endsWith('ed')).toBe(true));
+  });
+
+  it('keeps the target as a lemma when the list falls back to lemmas', () => {
+    // Same target, but no candidate can take the inflection, so everything
+    // including the answer must render as a lemma.
+    const scoff = makeWord('scoff', 'noun', 'an expression of scorn', ['scoff', 'scoffs']);
+    const plainNouns = [
+      makeWord('disdain',   'noun', 'a feeling of contempt',  ['disdain', 'disdains']),
+      makeWord('coffer',    'noun', 'a strongbox',            ['coffer', 'coffers']),
+      makeWord('neologism', 'noun', 'a new word',             ['neologism', 'neologisms']),
+      makeWord('rebuff',    'noun', 'a blunt refusal',        ['rebuff', 'rebuffs']),
+    ];
+    const opts = buildGreWordQuizOptions(scoff, 'He scoffed at the concern.', [scoff, ...plainNouns], mulberry32(2));
+    expect(opts.find(o => o.isCorrect)!.text).toBe('scoff');
+    opts.forEach(o => expect(o.text.endsWith('ed')).toBe(false));
+  });
+
+  it('renders everything as lemmas when the blank is a derived form', () => {
+    // 'admonishment' is not an inflection any distractor could match.
+    const opts = buildGreWordQuizOptions(mockWord, 'His abasement stung.', greCorpus, mulberry32(2));
+    const lemmas = new Set(greCorpus.map(w => w.word));
+    opts.forEach(o => expect(lemmas.has(o.text)).toBe(true));
+  });
+
   it('is deterministic for a given seed', () => {
     const a = buildGreWordQuizOptions(mockWord, sentence, greCorpus, mulberry32(4)).map(o => o.text);
     const b = buildGreWordQuizOptions(mockWord, sentence, greCorpus, mulberry32(4)).map(o => o.text);
@@ -217,5 +256,54 @@ describe('hasUsableSentence', () => {
     expect(hasUsableSentence(none, 'multipleChoice')).toBe(false);
     expect(hasUsableSentence(none, 'greWords')).toBe(false);
     expect(hasUsableSentence(none, 'typed')).toBe(false);
+  });
+});
+
+describe('isWellFormedSentence', () => {
+  it('accepts a complete sentence', () => {
+    expect(isWellFormedSentence('He abased himself before the king.')).toBe(true);
+  });
+
+  it('rejects a dictionary collocation with no terminal punctuation', () => {
+    expect(isWellFormedSentence('adorned the wall with her paintings')).toBe(false);
+    expect(isWellFormedSentence('a cabal of artists')).toBe(false);
+  });
+
+  it('rejects a fragment that starts mid-sentence', () => {
+    expect(isWellFormedSentence('burdensome restrictions on the import of goods.')).toBe(false);
+  });
+
+  it('rejects anything too short to give context', () => {
+    expect(isWellFormedSentence('Freud\'s adherents.')).toBe(false);
+  });
+
+  it("rejects Merriam-Webster's elided quotations", () => {
+    expect(isWellFormedSentence('… they are adequate for almost any computing need.')).toBe(false);
+    expect(isWellFormedSentence('The mill foreman so badgered them ... that they quit.')).toBe(false);
+  });
+
+  it('allows a closing quote or bracket after the terminal punctuation', () => {
+    expect(isWellFormedSentence('She called the plan "an unmitigated disaster."')).toBe(true);
+  });
+});
+
+describe('sentenceSetFor rejects unusable sentences', () => {
+  it('rejects a Merriam-Webster fragment even though it contains the word', () => {
+    const bare = { ...mockWord, sentenceSets: [], mwSentence: 'abased the defeated general' };
+    expect(sentenceSetFor(bare)).toBeNull();
+    expect(hasUsableSentence(bare, 'greWords')).toBe(false);
+  });
+
+  it('skips a generated set whose sentence never uses the word', () => {
+    const broken = { sentence: 'The genetic anomaly went unexplained.', answerChoices: [] };
+    const word = { ...mockWord, sentenceSets: [broken, mockWord.sentenceSets[0]] };
+    for (let i = 0; i < 30; i++) {
+      expect(sentenceSetFor(word)!.sentence).toBe(mockWord.sentenceSets[0].sentence);
+    }
+  });
+
+  it('returns null when every generated set is unusable', () => {
+    const word = { ...mockWord, mwSentence: '', sentenceSets: [{ sentence: 'The genetic anomaly went unexplained.', answerChoices: [] }] };
+    expect(sentenceSetFor(word)).toBeNull();
   });
 });

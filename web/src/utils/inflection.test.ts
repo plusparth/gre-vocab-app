@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { baseForm, classifyInflection, findStemInSentence, stemForClass } from './inflection';
+import { baseForm, classifyInflection, findStemInSentence, foldAccents, regularInflections, stemForClass } from './inflection';
 import type { Word } from '../types';
 
 function makeWord(word: string, stems: string[], pos = 'verb'): Word {
@@ -166,5 +166,66 @@ describe('stemForClass ignores stems that are not forms of the base', () => {
   it('still matches inflections that double a final consonant', () => {
     const extol = makeWord('extol', ['extol', 'extolled', 'extolling', 'extols']);
     expect(stemForClass(extol, 'ed')).toBe('extolled');
+  });
+});
+
+describe('foldAccents', () => {
+  it('strips diacritics so the word list matches accented text', () => {
+    // The entry is filed as 'soupcon'; the sentences spell it 'soupçon'.
+    expect(foldAccents('soupçon')).toBe('soupcon');
+    expect(foldAccents('naïve résumé')).toBe('naive resume');
+  });
+
+  it('leaves unaccented text untouched', () => {
+    expect(foldAccents('admonish')).toBe('admonish');
+  });
+});
+
+describe('regularInflections', () => {
+  it('adds the regular endings', () => {
+    expect(regularInflections('badger')).toEqual(
+      expect.arrayContaining(['badger', 'badgers', 'badgered', 'badgering'])
+    );
+  });
+
+  it('drops a trailing e before -ing', () => {
+    const forms = regularInflections('base');
+    expect(forms).toEqual(expect.arrayContaining(['based', 'bases', 'basing']));
+    expect(forms).not.toContain('baseing');
+  });
+
+  it('replaces a trailing y', () => {
+    expect(regularInflections('carry')).toEqual(
+      expect.arrayContaining(['carries', 'carried', 'carrying'])
+    );
+  });
+
+  it('uses -es after a sibilant', () => {
+    expect(regularInflections('abash')).toEqual(expect.arrayContaining(['abashes', 'abashed']));
+  });
+
+  it('doubles a final consonant after a short vowel', () => {
+    expect(regularInflections('extol')).toEqual(expect.arrayContaining(['extolled', 'extolling']));
+  });
+});
+
+describe('findStemInSentence beyond the recorded stems', () => {
+  // Merriam-Webster files 'badger' as the animal, so its stems carry no verb forms.
+  const badger = makeWord('badger', ['badger', 'badgers'], 'verb');
+
+  it('finds a regular inflection the stem list is missing', () => {
+    expect(findStemInSentence('The journalist badgered the spokesperson.', badger)).toBe('badgered');
+    expect(findStemInSentence('The vendor had been badgering shopkeepers.', badger)).toBe('badgering');
+  });
+
+  it('matches across a diacritic difference', () => {
+    const soupcon = makeWord('soupcon', ['soupcon'], 'noun');
+    expect(findStemInSentence('The chef added a soupçon of salt.', soupcon)).toBe('soupcon');
+  });
+
+  it('still returns null when the sentence uses a derived word instead', () => {
+    // 'voyeurism' is not an inflection of 'voyeur'; the question has no blank.
+    const voyeur = makeWord('voyeur', ['voyeur', 'voyeurs'], 'noun');
+    expect(findStemInSentence('His history of voyeurism was discovered.', voyeur)).toBeNull();
   });
 });

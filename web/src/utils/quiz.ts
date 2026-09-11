@@ -2,6 +2,7 @@ import type { Word, SentenceSet, QuizOption, AnswerChoice, FillInBlankMode } fro
 import { sample, shuffle, type Rng } from './shuffle';
 import { pickGreDistractors, scoreSimilarity } from './similarity';
 import { baseForm, classifyInflection, findStemInSentence, stemForClass, type InflectionClass } from './inflection';
+import { blankOut } from './blank';
 
 const DISTRACTOR_COUNT = 4;
 
@@ -12,14 +13,43 @@ export function pickSentenceSet(word: Word): SentenceSet {
   return word.sentenceSets[Math.floor(Math.random() * word.sentenceSets.length)];
 }
 
+/** Shortest sentence that can carry enough context to be answerable. */
+const MIN_SENTENCE_WORDS = 6;
+
 /**
- * The sentence a question is built on. Roughly half the list has no generated
- * sentence sets; those words are still usable with GRE-word or typed answers as
- * long as the dictionary sentence actually contains the word to blank out.
+ * Whether the text is a sentence rather than a dictionary snippet.
+ *
+ * Merriam-Webster's examples are usage evidence, not prose: most are bare
+ * collocations ('a cabal of artists'), start mid-clause, or are quotations
+ * elided with an ellipsis. Blanking a word out of one of those leaves nothing
+ * to reason from.
+ */
+export function isWellFormedSentence(text: string): boolean {
+  const trimmed = text.trim();
+
+  return trimmed.split(/\s+/).length >= MIN_SENTENCE_WORDS
+    && /^[A-Z]/.test(trimmed)
+    && /[.!?]["'\u2019)\]]?$/.test(trimmed)
+    && !/\u2026|\.\.\./.test(trimmed);
+}
+
+/** A sentence is only usable if the word actually appears in it to blank out. */
+function isUsableSentence(sentence: string, word: Word): boolean {
+  return blankOut(sentence, word).count > 0;
+}
+
+/**
+ * The sentence a question is built on.
+ *
+ * Generated sets come first, skipping any whose sentence never uses the word.
+ * Roughly half the list has no generated sets at all; those words fall back to
+ * the dictionary sentence, but only when it is a real sentence.
  */
 export function sentenceSetFor(word: Word): SentenceSet | null {
-  if (word.sentenceSets.length > 0) return pickSentenceSet(word);
-  if (word.mwSentence && findStemInSentence(word.mwSentence, word)) {
+  const usable = word.sentenceSets.filter(s => isUsableSentence(s.sentence, word));
+  if (usable.length > 0) return usable[Math.floor(Math.random() * usable.length)];
+
+  if (word.mwSentence && isWellFormedSentence(word.mwSentence) && isUsableSentence(word.mwSentence, word)) {
     return { sentence: word.mwSentence, answerChoices: [] };
   }
   return null;
@@ -27,17 +57,32 @@ export function sentenceSetFor(word: Word): SentenceSet | null {
 
 /** Generated distractors need generated answer choices; the other modes do not. */
 export function hasUsableSentence(word: Word, mode: FillInBlankMode): boolean {
-  if (mode === 'multipleChoice') return word.sentenceSets.length > 0;
+  if (mode === 'multipleChoice') {
+    return word.sentenceSets.some(s => s.answerChoices.length > 0 && isUsableSentence(s.sentence, word));
+  }
   return sentenceSetFor(word) !== null;
 }
 
 /**
- * The sentence blanks out one particular form of the word. Options must all be
- * rendered in that form, or the odd one out gives the answer away.
+ * The form of the word the sentence blanks out, and its class. Options must all
+ * be rendered in that class, or the odd one out gives the answer away.
  */
-function blankedInflection(word: Word, sentence: string): InflectionClass {
-  const form = findStemInSentence(sentence, word);
-  return form ? classifyInflection(baseForm(word), form) : 'lemma';
+function blankedForm(word: Word, sentence: string): { surface: string | null; cls: InflectionClass } {
+  const surface = findStemInSentence(sentence, word);
+  return { surface, cls: surface ? classifyInflection(baseForm(word), surface) : 'lemma' };
+}
+
+/**
+ * How the target itself is written on the answer list.
+ *
+ * When the list is rendered in the blanked class, the surface form taken from
+ * the sentence wins: it is attested there, and a word whose recorded stems lack
+ * that inflection would otherwise fall back to its lemma and stand out as the
+ * only odd form. When the list has fallen back to lemmas, so must the target.
+ */
+function renderTarget(word: Word, blanked: { surface: string | null; cls: InflectionClass }, renderAs: InflectionClass): string {
+  if (renderAs === blanked.cls && blanked.surface) return blanked.surface;
+  return render(word, renderAs);
 }
 
 function render(word: Word, cls: InflectionClass): string {
@@ -53,8 +98,10 @@ export function buildQuizOptions(word: Word, set: SentenceSet, rng: Rng = Math.r
     ...sample(byCloseness(1), 1, rng),
   ];
 
+  const blanked = blankedForm(word, set.sentence);
+
   const options: QuizOption[] = [
-    { text: render(word, blankedInflection(word, set.sentence)), isCorrect: true, reasoning: '', closeness: 3 },
+    { text: renderTarget(word, blanked, blanked.cls), isCorrect: true, reasoning: '', closeness: 3 },
     ...distractors.map(d => ({
       text: d.distractor,
       isCorrect: false,
@@ -81,7 +128,8 @@ export function buildGreWordQuizOptions(
   allWords: Word[],
   rng: Rng = Math.random
 ): QuizOption[] {
-  const cls = blankedInflection(word, sentence);
+  const blanked = blankedForm(word, sentence);
+  const cls = blanked.cls;
   const samePos = allWords.filter(w => w.pos === word.pos);
 
   const tiers: { candidates: Word[]; renderAs: InflectionClass }[] = [
@@ -104,7 +152,7 @@ export function buildGreWordQuizOptions(
   const ranked = [...distractors].sort((a, b) => scoreSimilarity(word, b) - scoreSimilarity(word, a));
 
   const options: QuizOption[] = [
-    { text: render(word, renderAs), isCorrect: true, reasoning: '', closeness: 3 },
+    { text: renderTarget(word, blanked, renderAs), isCorrect: true, reasoning: '', closeness: 3 },
     ...ranked.map((d, i) => ({
       text: render(d, renderAs),
       isCorrect: false,

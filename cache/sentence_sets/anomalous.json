@@ -32,22 +32,6 @@
         { "distractor": "balanced", "closeness": 1, "reasoning": "Balanced means well-proportioned or stable, opposite to the disparity and puzzlement shown in the sentence." },
         { "distractor": "mediocre", "closeness": 1, "reasoning": "Mediocre means ordinary or average, contradicted by the excelling in mathematics shown in the sentence." }
       ]
-    },
-    {
-      "sentence": "The genetic anomaly in the disease-resistant crop strain could not be explained by standard evolutionary theory, prompting researchers to investigate unexpected mechanisms.",
-      "answerChoices": [
-        { "distractor": "mutation", "closeness": 3, "reasoning": "Mutation describes a genetic change, but not necessarily one that deviates from expected or understood mechanisms." },
-        { "distractor": "variation", "closeness": 3, "reasoning": "Variation means difference or change within a population, but doesn't necessarily imply deviation from normal or expected patterns." },
-        { "distractor": "defect", "closeness": 3, "reasoning": "Defect means a flaw or imperfection, whereas the crop is disease-resistant, suggesting the genetic change is beneficial rather than flawed." },
-        { "distractor": "aberration", "closeness": 3, "reasoning": "Aberration means deviation from normal, very close to anomaly, but is more abstract than the concrete genetic phenomenon." },
-        { "distractor": "irregularity", "closeness": 2, "reasoning": "Irregularity means lack of uniformity, but doesn't specifically indicate deviation from theoretical expectations." },
-        { "distractor": "oddity", "closeness": 2, "reasoning": "Oddity means something strange or peculiar, but focuses on strangeness rather than deviation from expected mechanisms." },
-        { "distractor": "novelty", "closeness": 2, "reasoning": "Novelty means something new or previously unknown, but doesn't capture the sense of deviation from standard theory." },
-        { "distractor": "phenomenon", "closeness": 2, "reasoning": "Phenomenon means an observable fact or event, but is too general to convey the specific deviation from expectations." },
-        { "distractor": "advantage", "closeness": 1, "reasoning": "Advantage means a beneficial condition, and while the disease resistance is advantageous, the sentence emphasizes the unexplained deviation from theory." },
-        { "distractor": "commonality", "closeness": 1, "reasoning": "Commonality means a shared feature or characteristic, opposite to deviation from expected or standard patterns." },
-        { "distractor": "predictability", "closeness": 1, "reasoning": "Predictability means the quality of being foreseeable, opposite to a genetic change that cannot be explained by standard theory." }
-      ]
     }
   ]
 }

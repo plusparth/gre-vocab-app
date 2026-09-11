@@ -14,9 +14,64 @@ const SUFFIXES: { suffix: string; cls: InflectionClass }[] = [
   { suffix: 's', cls: 's' },
 ];
 
+/**
+ * Strips diacritics. Entries are filed under an unaccented spelling ('soupcon')
+ * while the sentences use the accented one ('soupçon'), so every comparison
+ * between a word and sentence text runs through this.
+ */
+export function foldAccents(text: string): string {
+  // Folded one code point at a time so the result lines up with the input
+  // character for character; blanking maps matches back onto the original text.
+  return text.replace(/./gu, char => {
+    const stripped = char.normalize('NFD').replace(/\p{Mn}/gu, '');
+    return stripped.length === 1 ? stripped : char;
+  });
+}
+
+/**
+ * The regular inflections of a lemma.
+ *
+ * Merriam-Webster's stem lists follow its own primary sense, so a word filed as
+ * a noun carries no verb forms -- 'badger' lists only badger/badgers, and a
+ * sentence using 'badgered' would leave the answer sitting in plain sight.
+ * These are spelling rules, not a lookup, so they can over-generate; that is
+ * harmless, since a form only matters when it actually appears in a sentence.
+ */
+export function regularInflections(lemma: string): string[] {
+  const l = foldAccents(lemma.toLowerCase());
+  const forms = new Set<string>([l]);
+
+  if (l.endsWith('e')) {
+    forms.add(`${l}d`).add(`${l}s`).add(`${l.slice(0, -1)}ing`);
+  } else if (/[^aeiou]y$/.test(l)) {
+    forms.add(`${l.slice(0, -1)}ies`).add(`${l.slice(0, -1)}ied`).add(`${l}ing`);
+  } else if (/(?:[sxz]|ch|sh)$/.test(l)) {
+    forms.add(`${l}es`).add(`${l}ed`).add(`${l}ing`);
+  } else {
+    forms.add(`${l}s`).add(`${l}ed`).add(`${l}ing`);
+  }
+
+  // 'extol' -> 'extolled': a short vowel between consonants doubles the last.
+  if (/[^aeiou][aeiou][^aeiouwxy]$/.test(l)) {
+    forms.add(`${l}${l.slice(-1)}ed`).add(`${l}${l.slice(-1)}ing`);
+  }
+
+  return [...forms];
+}
+
+/** Every surface form of the word, accent-folded, longest first. */
+export function surfaceForms(word: Word): string[] {
+  const forms = new Set<string>([
+    foldAccents(word.word.toLowerCase()),
+    ...word.stems.map(s => foldAccents(s.toLowerCase())),
+    ...regularInflections(word.word),
+  ]);
+  return [...forms].sort((a, b) => b.length - a.length);
+}
+
 export function classifyInflection(lemma: string, form: string): InflectionClass {
-  const l = lemma.toLowerCase();
-  const f = form.toLowerCase();
+  const l = foldAccents(lemma.toLowerCase());
+  const f = foldAccents(form.toLowerCase());
   if (f === l) return 'lemma';
   for (const { suffix, cls } of SUFFIXES) {
     if (f.endsWith(suffix)) return cls;
@@ -34,12 +89,10 @@ function escapeRegExp(s: string): string {
  * 'admonish' it contains.
  */
 export function findStemInSentence(sentence: string, word: Word): string | null {
-  const forms = [word.word, ...word.stems]
-    .map(s => s.toLowerCase())
-    .sort((a, b) => b.length - a.length);
+  const folded = foldAccents(sentence);
 
-  for (const form of forms) {
-    if (new RegExp(`\\b${escapeRegExp(form)}\\b`, 'i').test(sentence)) return form;
+  for (const form of surfaceForms(word)) {
+    if (new RegExp(`\\b${escapeRegExp(form)}\\b`, 'i').test(folded)) return form;
   }
   return null;
 }

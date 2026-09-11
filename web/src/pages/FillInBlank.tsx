@@ -3,6 +3,7 @@ import { useProgressStore } from '../store/progressStore';
 import { useSessionStore } from '../store/sessionStore';
 import { useSessionWords } from '../hooks/useSessionWords';
 import { buildQuizOptions, buildGreWordQuizOptions, sentenceSetFor, hasUsableSentence } from '../utils/quiz';
+import { blankOut } from '../utils/blank';
 import { isCorrectAnswer } from '../utils/text';
 import { QuizResults } from '../components/QuizResults';
 import type { Word, QuizOption, SentenceSet, FillInBlankMode } from '../types';
@@ -19,11 +20,6 @@ interface Question {
   key: string;
   set: SentenceSet;
   options: QuizOption[];
-}
-
-function blankSentence(sentence: string, word: string, stems: string[]): string {
-  const allForms = [word, ...stems].join('|');
-  return sentence.replace(new RegExp(`\\b(${allForms})\\b`, 'gi'), '______');
 }
 
 function buildQuestion(word: Word, mode: FillInBlankMode, allWords: Word[], key: string): Question {
@@ -150,7 +146,7 @@ export function FillInBlank({ allWords }: { allWords: Word[] }) {
     );
   }
 
-  const blanked = blankSentence(current.set.sentence, word.word, word.stems);
+  const blanked = blankOut(current.set.sentence, word).text;
 
   return (
     <div data-testid="fill-blank-workspace" className="study-workspace" style={{ padding: 24, maxWidth: 640, margin: '0 auto' }}>
