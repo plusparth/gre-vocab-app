@@ -1,0 +1,53 @@
+{
+  "word": "cabal",
+  "sentenceSets": [
+    {
+      "sentence": "A small cabal of loyalists controlled access to the director, screening all requests for audiences.",
+      "answerChoices": [
+        { "distractor": "clique", "closeness": 3, "reasoning": "A clique is an exclusive social circle defined by whom it shuts out socially, while this group holds a lever of institutional power by deciding who may reach the director." },
+        { "distractor": "committee", "closeness": 3, "reasoning": "A committee is formally constituted with an announced mandate, but these loyalists screen requests informally on the director's behalf." },
+        { "distractor": "coalition", "closeness": 3, "reasoning": "A coalition is an open alliance between parties with distinct interests, whereas these are loyalists bound to one man and working quietly around him." },
+        { "distractor": "entourage", "closeness": 3, "reasoning": "An entourage merely accompanies an important person, while this group actively controls who gets through to him." },
+        { "distractor": "congregation", "closeness": 2, "reasoning": "A congregation gathers for worship and has no role in screening petitions to an office holder." },
+        { "distractor": "jury", "closeness": 2, "reasoning": "A jury is empaneled to decide a case, not to regulate access to a director." },
+        { "distractor": "delegation", "closeness": 2, "reasoning": "A delegation is sent to represent others elsewhere, the opposite of a group stationed around the director to filter arrivals." },
+        { "distractor": "workforce", "closeness": 2, "reasoning": "A workforce is the whole body of employees, not the small circle the sentence says guarded the director." },
+        { "distractor": "throng", "closeness": 1, "reasoning": "A throng is a large disorganized crowd, contradicting the sentence's emphasis on a small controlling group." },
+        { "distractor": "menagerie", "closeness": 1, "reasoning": "A menagerie is a collection of animals and cannot screen requests for audiences." },
+        { "distractor": "electorate", "closeness": 1, "reasoning": "An electorate is the whole voting public, which is neither small nor positioned to guard one official's door." }
+      ]
+    },
+    {
+      "sentence": "Historians have long argued over whether a genuine cabal engineered the coup or whether the colonels simply moved at the same moment out of panic.",
+      "answerChoices": [
+        { "distractor": "conspiracy", "closeness": 3, "reasoning": "A conspiracy is the secret plan itself, but the sentence asks whether a group of plotters existed as against colonels acting independently, which makes the question one of persons rather than schemes." },
+        { "distractor": "faction", "closeness": 3, "reasoning": "A faction is an openly identifiable wing within a larger body, while the historians' dispute turns on whether anything was secretly organized at all." },
+        { "distractor": "junta", "closeness": 3, "reasoning": "A junta is the military government that rules after a seizure of power, whereas the sentence concerns whoever might have planned the coup beforehand." },
+        { "distractor": "mutiny", "closeness": 3, "reasoning": "A mutiny is the act of revolt, not a body of people who could be said to have engineered it." },
+        { "distractor": "tribunal", "closeness": 2, "reasoning": "A tribunal judges cases after the fact and could not have engineered the coup." },
+        { "distractor": "regiment", "closeness": 2, "reasoning": "A regiment is a formal military unit whose existence no historian would dispute, unlike the hidden group in question." },
+        { "distractor": "assembly", "closeness": 2, "reasoning": "An assembly meets publicly and on the record, which is at odds with something historians can only argue about the existence of." },
+        { "distractor": "bureaucracy", "closeness": 2, "reasoning": "A bureaucracy is the standing administrative apparatus, not a hidden group that might have coordinated the colonels." },
+        { "distractor": "populace", "closeness": 1, "reasoning": "The populace is the general public, which could not have secretly engineered anything." },
+        { "distractor": "anniversary", "closeness": 1, "reasoning": "An anniversary is a date, not an agent capable of engineering a coup." },
+        { "distractor": "referendum", "closeness": 1, "reasoning": "A referendum is a public vote, the opposite of the secret coordination the historians debate." }
+      ]
+    },
+    {
+      "sentence": "He was convinced that a cabal within the department was feeding his rivals the minutes of every meeting he attended.",
+      "answerChoices": [
+        { "distractor": "mole", "closeness": 3, "reasoning": "A mole is a single planted informant, while the sentence's suspicion is of a group operating together inside the department." },
+        { "distractor": "rumor", "closeness": 3, "reasoning": "A rumor is talk that circulates, not something capable of handing his rivals the actual minutes of meetings." },
+        { "distractor": "supervisor", "closeness": 3, "reasoning": "A supervisor is one identifiable superior, whereas his conviction is about a hidden set of colleagues acting in concert." },
+        { "distractor": "network", "closeness": 3, "reasoning": "A network is a neutral web of connections that may serve any purpose, and the sentence describes a group he believes is secretly working against him." },
+        { "distractor": "ledger", "closeness": 2, "reasoning": "A ledger is a record book and cannot feed anything to anyone." },
+        { "distractor": "union", "closeness": 2, "reasoning": "A union is an open representative body with declared membership, unlike a hidden group leaking his meeting notes." },
+        { "distractor": "vendetta", "closeness": 2, "reasoning": "A vendetta is a feud, an activity rather than the set of people he believes is passing documents along." },
+        { "distractor": "protocol", "closeness": 2, "reasoning": "A protocol is a rule of procedure and has no capacity to leak minutes to rivals." },
+        { "distractor": "custodian", "closeness": 1, "reasoning": "A custodian maintains a building and does not fit a suspicion about leaked meeting records." },
+        { "distractor": "holiday", "closeness": 1, "reasoning": "A holiday is a period of time and cannot feed minutes to anyone." },
+        { "distractor": "printer", "closeness": 1, "reasoning": "A printer is a machine, not a group within the department conspiring against him." }
+      ]
+    }
+  ]
+}

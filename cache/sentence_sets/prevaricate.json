@@ -1,0 +1,53 @@
+{
+  "word": "prevaricate",
+  "sentenceSets": [
+    {
+      "sentence": "He prevaricated when a direct answer would have served him better, suggesting that the direct answer was something he preferred not to give.",
+      "answerChoices": [
+        { "distractor": "hedged", "closeness": 3, "reasoning": "Hedging protects against being wrong by qualifying a claim, but the sentence infers that he had a true answer in hand and steered away from it, which points to wandering from the truth rather than guarding against error." },
+        { "distractor": "hesitated", "closeness": 3, "reasoning": "Hesitation is a pause before speaking, whereas the sentence contrasts what he said with the direct answer he could have given, meaning he said something else instead of nothing." },
+        { "distractor": "demurred", "closeness": 3, "reasoning": "To demur is to raise an objection or politely decline, which would be an open refusal rather than the evasive substitute the sentence implies." },
+        { "distractor": "deflected", "closeness": 3, "reasoning": "Deflecting turns the question toward another subject entirely, but the sentence suggests he addressed the question while shading away from the truth of it." },
+        { "distractor": "elaborated", "closeness": 2, "reasoning": "Elaborating adds detail to an answer already given, and the sentence says the direct answer never came." },
+        { "distractor": "apologized", "closeness": 2, "reasoning": "An apology expresses regret and would not conceal what he preferred not to say." },
+        { "distractor": "shouted", "closeness": 2, "reasoning": "Volume is irrelevant to the sentence's contrast between a direct answer and what he actually did." },
+        { "distractor": "capitulated", "closeness": 2, "reasoning": "Capitulating means giving in, but he withheld rather than yielded." },
+        { "distractor": "confessed", "closeness": 1, "reasoning": "Confessing would supply the very answer the sentence says he preferred not to give." },
+        { "distractor": "clarified", "closeness": 1, "reasoning": "Clarifying makes matters plainer, the opposite of avoiding a direct answer." },
+        { "distractor": "embroidered", "closeness": 1, "reasoning": "Embroidering decorates cloth with thread, and in speech it means adding invented flourishes to a story rather than avoiding a question." }
+      ]
+    },
+    {
+      "sentence": "Asked twice whether he had signed the waiver, the contractor began to prevaricate about what the word 'signed' covered.",
+      "answerChoices": [
+        { "distractor": "quibble", "closeness": 3, "reasoning": "To quibble is to argue over a trivial distinction for its own sake, but the contractor's fussing over 'signed' comes after a twice-repeated yes-or-no question, which makes it a way of getting around the truth rather than pedantry." },
+        { "distractor": "speculate", "closeness": 3, "reasoning": "Speculating ventures guesses about something unknown, yet he knows perfectly well whether he signed." },
+        { "distractor": "stammer", "closeness": 3, "reasoning": "Stammering is a disfluency in delivery, while the sentence describes the content of what he raised, namely the scope of a word." },
+        { "distractor": "expostulate", "closeness": 3, "reasoning": "To expostulate is to protest earnestly against something, but he is not objecting to the question; he is evading it." },
+        { "distractor": "recant", "closeness": 2, "reasoning": "Recanting withdraws a statement previously made, and he has made no statement to take back." },
+        { "distractor": "reimburse", "closeness": 2, "reasoning": "Reimbursing is a payment and has nothing to do with answering a question about a waiver." },
+        { "distractor": "acquiesce", "closeness": 2, "reasoning": "Acquiescing means accepting without protest, whereas he is complicating the question." },
+        { "distractor": "abscond", "closeness": 2, "reasoning": "Absconding is fleeing, but he stays and talks." },
+        { "distractor": "admit", "closeness": 1, "reasoning": "Admitting would answer the question directly, which is what he is avoiding." },
+        { "distractor": "affirm", "closeness": 1, "reasoning": "Affirming would settle the matter rather than open a dispute about the meaning of 'signed.'" },
+        { "distractor": "hibernate", "closeness": 1, "reasoning": "Passing the winter dormant is not a way of responding to questioning." }
+      ]
+    },
+    {
+      "sentence": "Children learn early to prevaricate about small things, testing how much of the truth an adult will actually check.",
+      "answerChoices": [
+        { "distractor": "exaggerate", "closeness": 3, "reasoning": "Exaggerating inflates something real, but the sentence describes children testing how much of the truth goes unverified, which points to shading away from it rather than enlarging it." },
+        { "distractor": "conceal", "closeness": 3, "reasoning": "Concealing means saying nothing at all, while these children are speaking and watching whether the adult checks what they say." },
+        { "distractor": "boast", "closeness": 3, "reasoning": "Boasting claims credit for oneself, but the sentence concerns 'small things' and the verification an adult may or may not perform." },
+        { "distractor": "improvise", "closeness": 3, "reasoning": "Improvising means inventing on the spot, which describes the manner rather than the departure from truth the testing depends on." },
+        { "distractor": "obey", "closeness": 2, "reasoning": "Obedience concerns following instructions and has nothing to do with what the child reports as true." },
+        { "distractor": "eavesdrop", "closeness": 2, "reasoning": "Eavesdropping is listening in secret, whereas the sentence is about what children say." },
+        { "distractor": "memorize", "closeness": 2, "reasoning": "Memorizing is a feat of retention, not an approach to telling the truth." },
+        { "distractor": "apologize", "closeness": 2, "reasoning": "Apologizing follows an acknowledged fault, but these children are avoiding acknowledgment." },
+        { "distractor": "corroborate", "closeness": 1, "reasoning": "Corroborating confirms that something is so, the opposite of testing what will go unchecked." },
+        { "distractor": "verify", "closeness": 1, "reasoning": "Verification is what the sentence assigns to the adult, not to the child." },
+        { "distractor": "photograph", "closeness": 1, "reasoning": "Taking pictures is unrelated to how children handle the truth in speech." }
+      ]
+    }
+  ]
+}

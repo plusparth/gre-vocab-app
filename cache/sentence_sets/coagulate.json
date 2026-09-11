@@ -1,0 +1,53 @@
+{
+  "word": "coagulate",
+  "sentenceSets": [
+    {
+      "sentence": "The blood had coagulated around the wound, forming a natural barrier against further loss.",
+      "answerChoices": [
+        { "distractor": "pooled", "closeness": 3, "reasoning": "Blood that has pooled is still liquid and merely collected in one place, which would do nothing to form the barrier the sentence says stopped further loss." },
+        { "distractor": "dried", "closeness": 3, "reasoning": "Drying is the loss of water to the air and takes far longer than the sealing described, and it is the thickening of the blood itself, not evaporation, that plugs the wound." },
+        { "distractor": "crusted", "closeness": 3, "reasoning": "A crust is a surface film over something still soft underneath, but the sentence describes a barrier substantial enough to hold back the flow." },
+        { "distractor": "hardened", "closeness": 3, "reasoning": "Hardened suggests a rigid final state, whereas what seals a fresh wound is a dense, still-pliable mass rather than something stiff." },
+        { "distractor": "seeped", "closeness": 2, "reasoning": "Seeping is slow escape through the tissue, the very thing the sentence says was prevented." },
+        { "distractor": "spread", "closeness": 2, "reasoning": "Spreading would carry the blood away from the wound rather than concentrate it into a barrier at the opening." },
+        { "distractor": "drained", "closeness": 2, "reasoning": "Draining means flowing out and away, which contradicts the protection against further loss." },
+        { "distractor": "circulated", "closeness": 2, "reasoning": "Circulation is the normal movement of blood through the body and is not something that happens around an open wound to seal it." },
+        { "distractor": "evaporated", "closeness": 1, "reasoning": "Evaporated blood would be gone, leaving nothing behind to serve as a barrier." },
+        { "distractor": "dissolved", "closeness": 1, "reasoning": "Dissolving disperses a substance into a liquid, the opposite of massing at the wound." },
+        { "distractor": "boiled", "closeness": 1, "reasoning": "Boiling requires heat no body supplies and has no part in sealing an injury." }
+      ]
+    },
+    {
+      "sentence": "Rubber tappers stir formic acid into the day's collected latex so that it will coagulate into pale slabs before the trucks come up the hill.",
+      "answerChoices": [
+        { "distractor": "solidify", "closeness": 3, "reasoning": "Solidify describes any liquid becoming solid, including by simple cooling, but here a chemical is deliberately stirred in to make the suspended matter clump together into slabs." },
+        { "distractor": "crystallize", "closeness": 3, "reasoning": "Crystallization builds an ordered lattice out of a dissolved substance, which is not what produces the soft pale slabs the tappers carry down." },
+        { "distractor": "ferment", "closeness": 3, "reasoning": "Fermentation is the work of microbes over days, and the sentence gives the tappers only the hours before the trucks arrive." },
+        { "distractor": "cure", "closeness": 3, "reasoning": "Curing is the later treatment that toughens rubber for use, whereas this step happens in the collecting pans on the same day the latex is tapped." },
+        { "distractor": "settle", "closeness": 2, "reasoning": "Settling would only let solids sink to the bottom of the pan, leaving liquid above rather than slabs that can be loaded onto a truck." },
+        { "distractor": "foam", "closeness": 2, "reasoning": "Foaming traps air in bubbles and would ruin rather than produce the dense slabs described." },
+        { "distractor": "bleach", "closeness": 2, "reasoning": "The slabs are already pale, and bleaching would change color rather than turn the latex into a form that can be carried away." },
+        { "distractor": "dilute", "closeness": 2, "reasoning": "Diluting thins a liquid, which would make it harder, not easier, to get solid slabs before the trucks arrive." },
+        { "distractor": "vaporize", "closeness": 1, "reasoning": "Vaporized latex would leave nothing on the hillside to load." },
+        { "distractor": "scatter", "closeness": 1, "reasoning": "Scattering disperses material, the opposite of gathering it into slabs." },
+        { "distractor": "bloom", "closeness": 1, "reasoning": "Blooming belongs to flowers and has no meaning for collected latex in a pan." }
+      ]
+    },
+    {
+      "sentence": "Left overnight in the cold pan, the gravy coagulated into a solid disk that had to be prised out with the edge of a knife.",
+      "answerChoices": [
+        { "distractor": "froze", "closeness": 3, "reasoning": "Freezing requires temperatures below the freezing point, and a pan merely left out in a cold kitchen overnight will not reach them; the disk forms because the fats and proteins set, not because ice did." },
+        { "distractor": "compacted", "closeness": 3, "reasoning": "Compacting is pressing loose material into a smaller volume, and nothing pressed on the gravy while it sat untouched in the pan." },
+        { "distractor": "stiffened", "closeness": 3, "reasoning": "Stiffened describes a loss of flexibility in something that already had a shape, while the gravy went from a pourable liquid to a single solid mass." },
+        { "distractor": "shrank", "closeness": 3, "reasoning": "Shrinking is a change of size, which would not explain why the contents had to be levered out with a knife." },
+        { "distractor": "browned", "closeness": 2, "reasoning": "Browning is a change of color produced by heat, and the pan spent the night cold." },
+        { "distractor": "curdled", "closeness": 2, "reasoning": "Curdling breaks a liquid into lumps floating in a thin residue, but what the sentence describes is one continuous disk with nothing left around it." },
+        { "distractor": "fermented", "closeness": 2, "reasoning": "Fermentation would sour the gravy rather than give it the solidity that required a knife." },
+        { "distractor": "caked", "closeness": 2, "reasoning": "Caking describes powder clumping from damp, whereas the gravy went into the pan as a liquid." },
+        { "distractor": "melted", "closeness": 1, "reasoning": "Melting turns a solid to liquid, the reverse of what the knife had to deal with." },
+        { "distractor": "simmered", "closeness": 1, "reasoning": "Simmering needs a lit burner, and the pan was left cold overnight." },
+        { "distractor": "vanished", "closeness": 1, "reasoning": "Nothing vanished, since a solid disk remained in the pan the next morning." }
+      ]
+    }
+  ]
+}

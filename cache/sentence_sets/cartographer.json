@@ -1,0 +1,53 @@
+{
+  "word": "cartographer",
+  "sentenceSets": [
+    {
+      "sentence": "The cartographer spent twenty years mapping the coastline by hand before satellite data made his method obsolete.",
+      "answerChoices": [
+        { "distractor": "surveyor", "closeness": 3, "reasoning": "A surveyor measures the land and records distances and elevations, but the sentence says the outcome of his twenty years was a map of the coastline, a document rather than a set of measurements." },
+        { "distractor": "topographer", "closeness": 3, "reasoning": "Topography concerns the relief and contours of terrain, while the work described here follows a coastline, the boundary between land and sea." },
+        { "distractor": "geographer", "closeness": 3, "reasoning": "A geographer studies why places are as they are, whereas the sentence describes two decades spent drawing one shoreline and a method that satellite imagery could replace outright." },
+        { "distractor": "engraver", "closeness": 3, "reasoning": "An engraver cuts someone else's drawing into a plate for printing, but this man is out mapping the coast himself, and satellites replaced the surveying, not the printing." },
+        { "distractor": "draftsman", "closeness": 2, "reasoning": "A draftsman renders technical drawings from specifications handed to him, and nothing here suggests he was working from another person's data during those twenty years." },
+        { "distractor": "archivist", "closeness": 2, "reasoning": "Archivists preserve documents that already exist, while the sentence describes the slow creation of a new record of the shoreline." },
+        { "distractor": "illustrator", "closeness": 2, "reasoning": "Illustration serves a text or a story, but the product here is displaced by satellite data, which indicates a measured representation rather than a picture." },
+        { "distractor": "explorer", "closeness": 2, "reasoning": "An explorer's achievement is reaching unknown places, and the sentence emphasizes the patient recording of a coast he clearly returned to for twenty years." },
+        { "distractor": "tourist", "closeness": 1, "reasoning": "Tourists do not spend twenty years producing something that satellite data could render obsolete." },
+        { "distractor": "poet", "closeness": 1, "reasoning": "Poetry is never superseded by satellite imagery, which the sentence names as the thing that ended his method." },
+        { "distractor": "blacksmith", "closeness": 1, "reasoning": "Smithing has no relation to charting a coastline by hand." }
+      ]
+    },
+    {
+      "sentence": "Aboard the survey ship, the cartographer corrected the admiralty charts each evening, redrawing shoals that earlier expeditions had placed miles from where they actually lay.",
+      "answerChoices": [
+        { "distractor": "hydrographer", "closeness": 3, "reasoning": "Hydrography is the measurement of the water itself — depths, tides, currents — whereas the evening work described here is the redrawing of charts to fix errors already printed on them." },
+        { "distractor": "navigator", "closeness": 3, "reasoning": "A navigator uses charts to decide where the ship should steer, but this person is amending the charts for whoever sails after, which is why the misplaced shoals matter." },
+        { "distractor": "pilot", "closeness": 3, "reasoning": "A pilot's expertise is in guiding vessels safely through particular waters in the moment, not in spending evenings revising documents." },
+        { "distractor": "astronomer", "closeness": 3, "reasoning": "Astronomy aboard ship is about fixing position from the stars, and the object being corrected here is the placement of shoals on paper." },
+        { "distractor": "helmsman", "closeness": 2, "reasoning": "The helmsman steers by orders given, an activity that ends when the watch does and produces no revised charts." },
+        { "distractor": "quartermaster", "closeness": 2, "reasoning": "Quartermasters handle stores and supplies, which has no bearing on the accuracy of shoal positions." },
+        { "distractor": "naturalist", "closeness": 2, "reasoning": "A naturalist aboard a survey ship collects specimens and observes wildlife, not the placement of underwater hazards." },
+        { "distractor": "scribe", "closeness": 2, "reasoning": "A scribe copies what is dictated or already written, while the sentence shows earlier work being contradicted and replaced." },
+        { "distractor": "stowaway", "closeness": 1, "reasoning": "A stowaway hides aboard and would hardly be entrusted with the admiralty's charts." },
+        { "distractor": "chaplain", "closeness": 1, "reasoning": "A chaplain's duties are religious and have nothing to do with correcting the recorded positions of shoals." },
+        { "distractor": "cook", "closeness": 1, "reasoning": "Cooking the crew's meals bears no relation to the nightly revision of nautical charts." }
+      ]
+    },
+    {
+      "sentence": "Critics came to call her the cartographer of the city's forgotten neighborhoods, since each novel filled in streets and alleys that official accounts left blank.",
+      "answerChoices": [
+        { "distractor": "chronicler", "closeness": 3, "reasoning": "A chronicler sets down events in the order they happened, but the praise here is for filling in streets and alleys — the layout of a place rather than its history." },
+        { "distractor": "historian", "closeness": 3, "reasoning": "History explains how a neighborhood came to be, whereas the metaphor turns on the blankness of the official record's spatial coverage, which her novels fill." },
+        { "distractor": "ethnographer", "closeness": 3, "reasoning": "Ethnography describes the customs and lives of a community, and what the sentence says her books supply is the missing terrain itself." },
+        { "distractor": "biographer", "closeness": 3, "reasoning": "A biographer takes a single life as a subject, while the blanks she fills belong to whole neighborhoods." },
+        { "distractor": "journalist", "closeness": 2, "reasoning": "Journalism reports current events, and the sentence identifies her output as novels, praised for what they render rather than what they report." },
+        { "distractor": "memoirist", "closeness": 2, "reasoning": "A memoirist writes her own life, but the metaphor credits her with recording the city, not herself." },
+        { "distractor": "archaeologist", "closeness": 2, "reasoning": "Archaeology recovers the buried past by excavation, while these neighborhoods are missing from official accounts, not from the ground." },
+        { "distractor": "custodian", "closeness": 2, "reasoning": "A custodian looks after something that already exists, and her achievement is putting on record what the official version had never included." },
+        { "distractor": "landlord", "closeness": 1, "reasoning": "Owning property in the neighborhoods has nothing to do with what her novels record about them." },
+        { "distractor": "arsonist", "closeness": 1, "reasoning": "Destroying the neighborhoods is the opposite of documenting them in book after book." },
+        { "distractor": "developer", "closeness": 1, "reasoning": "A developer rebuilds a district, whereas the sentence credits her with representing one that official accounts ignored." }
+      ]
+    }
+  ]
+}

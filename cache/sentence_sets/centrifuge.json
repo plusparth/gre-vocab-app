@@ -1,0 +1,53 @@
+{
+  "word": "centrifuge",
+  "sentenceSets": [
+    {
+      "sentence": "The centrifuge separated the blood components in minutes, producing results the older method took hours to yield.",
+      "answerChoices": [
+        { "distractor": "filter", "closeness": 3, "reasoning": "A filter divides a mixture by trapping particles too large to pass through it, which would sort blood by size of solids rather than delivering the layered components the sentence says were obtained in minutes." },
+        { "distractor": "sieve", "closeness": 3, "reasoning": "A sieve works on dry or coarse material by letting smaller pieces fall through, and nothing of that kind is at work in separating the constituents of a liquid sample." },
+        { "distractor": "still", "closeness": 3, "reasoning": "A still separates by boiling one substance off from another, a heating process that would destroy the blood components the sentence says were recovered." },
+        { "distractor": "spectrometer", "closeness": 3, "reasoning": "A spectrometer identifies what a sample contains without dividing it into parts, while the sentence describes the components being physically separated." },
+        { "distractor": "incubator", "closeness": 2, "reasoning": "An incubator holds samples at a steady temperature so cultures can grow, which is the opposite of a device praised for finishing in minutes." },
+        { "distractor": "autoclave", "closeness": 2, "reasoning": "An autoclave sterilizes equipment with pressurized steam and performs no separation of any kind." },
+        { "distractor": "microscope", "closeness": 2, "reasoning": "A microscope lets you look at blood, but looking is not separating, and the sentence measures the machine by the separation it achieved." },
+        { "distractor": "pipette", "closeness": 2, "reasoning": "A pipette transfers measured volumes of liquid by hand and cannot by itself divide whole blood into its components." },
+        { "distractor": "stethoscope", "closeness": 1, "reasoning": "A stethoscope is for listening to the body and has no role in processing a blood sample." },
+        { "distractor": "scalpel", "closeness": 1, "reasoning": "A scalpel cuts tissue and cannot separate the constituents of a liquid." },
+        { "distractor": "ledger", "closeness": 1, "reasoning": "A ledger records figures and is not laboratory equipment at all." }
+      ]
+    },
+    {
+      "sentence": "Technicians load the sample tubes in opposing pairs so that the centrifuge will not walk itself off the bench once it reaches full speed.",
+      "answerChoices": [
+        { "distractor": "rotor", "closeness": 3, "reasoning": "The rotor is the spinning part that holds the tubes, but it is the whole machine that would walk off the bench, and technicians load tubes into the machine rather than into a component named on its own." },
+        { "distractor": "agitator", "closeness": 3, "reasoning": "An agitator stirs a mixture to keep it uniform, which gives no reason for tubes to be balanced against one another in pairs." },
+        { "distractor": "turbine", "closeness": 3, "reasoning": "A turbine extracts power from a moving fluid and is not something you load sample tubes into." },
+        { "distractor": "gyroscope", "closeness": 3, "reasoning": "A gyroscope spins to hold an orientation, and no one places specimen tubes inside one." },
+        { "distractor": "blender", "closeness": 2, "reasoning": "A blender mixes its contents together, so arranging tubes in balanced pairs would serve no purpose in one." },
+        { "distractor": "oven", "closeness": 2, "reasoning": "An oven has no moving parts to unbalance and would never travel across a bench at speed." },
+        { "distractor": "compressor", "closeness": 2, "reasoning": "A compressor pressurizes gas and does not accept racks of sample tubes." },
+        { "distractor": "refrigerator", "closeness": 2, "reasoning": "A refrigerator holds samples cold and has no full speed at which vibration becomes a hazard." },
+        { "distractor": "telescope", "closeness": 1, "reasoning": "A telescope is an optical instrument and does not spin tubes." },
+        { "distractor": "chalkboard", "closeness": 1, "reasoning": "A chalkboard is not equipment that could be loaded or reach full speed." },
+        { "distractor": "stapler", "closeness": 1, "reasoning": "A stapler has nothing to do with balanced sample tubes or a vibrating bench." }
+      ]
+    },
+    {
+      "sentence": "Inspectors watch such facilities closely, since a single hall of centrifuges can raise the purity of uranium a little further with every year it runs undisturbed.",
+      "answerChoices": [
+        { "distractor": "reactors", "closeness": 3, "reasoning": "Reactors consume enriched fuel to generate power or isotopes; the machines described here are the ones that raise purity, which is a step that happens before any fuel is burned." },
+        { "distractor": "kilns", "closeness": 3, "reasoning": "Kilns bake material at high temperature and do not sort one isotope from another over years of continuous running." },
+        { "distractor": "condensers", "closeness": 3, "reasoning": "A condenser turns vapor back into liquid, a change of phase rather than the incremental purification the sentence describes." },
+        { "distractor": "accelerators", "closeness": 3, "reasoning": "Accelerators drive particles to high energy for experiments and collisions, not to concentrate a fissile isotope stockpile." },
+        { "distractor": "furnaces", "closeness": 2, "reasoning": "Furnaces melt and refine metal by heat, which does not distinguish between isotopes of the same element." },
+        { "distractor": "generators", "closeness": 2, "reasoning": "A generator produces electricity, and the output the inspectors care about here is increasing purity of uranium." },
+        { "distractor": "boilers", "closeness": 2, "reasoning": "Boilers raise steam and have no separating function that would concern an inspector." },
+        { "distractor": "silos", "closeness": 2, "reasoning": "A silo merely stores material and cannot make what it holds purer the longer it stands." },
+        { "distractor": "windmills", "closeness": 1, "reasoning": "Windmills generate power from moving air and perform no processing of uranium." },
+        { "distractor": "aqueducts", "closeness": 1, "reasoning": "Aqueducts carry water and have no bearing on isotope purity." },
+        { "distractor": "greenhouses", "closeness": 1, "reasoning": "Greenhouses grow plants and would never be housed in a facility under this kind of inspection." }
+      ]
+    }
+  ]
+}

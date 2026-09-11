@@ -1,0 +1,53 @@
+{
+  "word": "condign",
+  "sentenceSets": [
+    {
+      "sentence": "The court delivered condign punishment, calibrating the sentence precisely to the severity of the offense.",
+      "answerChoices": [
+        { "distractor": "proportionate", "closeness": 3, "reasoning": "Proportionate simply restates the calibration described in the second half of the sentence, leaving the first clause saying nothing new about whether the offender had earned what he got." },
+        { "distractor": "merited", "closeness": 3, "reasoning": "Merited would credit the offender with earning something, and the natural reading of a penalty being earned needs the harsher framing that the court's careful weighing of the offense implies." },
+        { "distractor": "exemplary", "closeness": 3, "reasoning": "Exemplary punishment is set deliberately high to warn others, which contradicts a sentence tuned precisely to this one offense rather than to future deterrence." },
+        { "distractor": "fitting", "closeness": 3, "reasoning": "Fitting speaks only to suitability for the occasion, a vague standard beside the court's explicit matching of penalty to the gravity of what was done." },
+        { "distractor": "statutory", "closeness": 2, "reasoning": "Statutory punishment is fixed in advance by law, which leaves no room for the precise calibration the sentence credits to the court." },
+        { "distractor": "mandatory", "closeness": 2, "reasoning": "A mandatory sentence removes judicial discretion, contradicting a court that tailored the penalty to the offense's severity." },
+        { "distractor": "swift", "closeness": 2, "reasoning": "Swift concerns timing, and the sentence says nothing about how quickly the punishment followed the crime." },
+        { "distractor": "public", "closeness": 2, "reasoning": "Public describes where a punishment is carried out, a matter the sentence never touches." },
+        { "distractor": "arbitrary", "closeness": 1, "reasoning": "Arbitrary means chosen without reason, the opposite of a sentence calibrated precisely to the offense." },
+        { "distractor": "excessive", "closeness": 1, "reasoning": "Excessive would mean the penalty overshot the offense, contradicting the precise matching described." },
+        { "distractor": "undeserved", "closeness": 1, "reasoning": "Undeserved clashes with a court that weighed the severity of the offense before sentencing." }
+      ]
+    },
+    {
+      "sentence": "Fans who had watched the club falsify its accounts for years found the relegation condign, and almost none of them signed the petition to appeal it.",
+      "answerChoices": [
+        { "distractor": "warranted", "closeness": 3, "reasoning": "Warranted says the penalty had sufficient grounds, but the sentence's emphasis on years of falsified accounts and fans refusing to appeal points to the club getting what it had coming, not merely to a defensible decision." },
+        { "distractor": "apt", "closeness": 3, "reasoning": "Apt means well-suited to the situation, a stylistic judgment that would not explain why fans declined to sign an appeal on their own club's behalf." },
+        { "distractor": "overdue", "closeness": 3, "reasoning": "Overdue would fault the authorities for waiting too long, whereas the sentence is about the fans' view of the punishment itself, not its timing." },
+        { "distractor": "satisfying", "closeness": 3, "reasoning": "Satisfying reports the fans' pleasure, but the sentence describes them withholding support from an appeal, which is a judgment about desert rather than an emotion." },
+        { "distractor": "inevitable", "closeness": 2, "reasoning": "Inevitable would say the relegation could not have been avoided, which says nothing about whether the fans thought the club had it coming." },
+        { "distractor": "humiliating", "closeness": 2, "reasoning": "Humiliating describes how the demotion felt, yet the sentence shows fans declining to protest it, which is an endorsement rather than a report of shame." },
+        { "distractor": "symbolic", "closeness": 2, "reasoning": "Symbolic implies a gesture without real consequence, but relegation moves the club down a division in fact." },
+        { "distractor": "lawful", "closeness": 2, "reasoning": "Lawful addresses whether the governing body had authority to act, a technical point separate from the fans' evident sense that the club had earned this." },
+        { "distractor": "unfair", "closeness": 1, "reasoning": "Unfair contradicts fans who watched the falsification for years and then refused to appeal." },
+        { "distractor": "gratuitous", "closeness": 1, "reasoning": "Gratuitous means uncalled for, which cannot describe a penalty following years of falsified accounts." },
+        { "distractor": "tragic", "closeness": 1, "reasoning": "Tragic would invite sympathy, which the sentence says the fans withheld." }
+      ]
+    },
+    {
+      "sentence": "The novel closes with a condign fate for the swindler, who loses exactly the fortune he had taken from his neighbors.",
+      "answerChoices": [
+        { "distractor": "ironic", "closeness": 3, "reasoning": "Ironic would stress the reversal's wit, but the sentence's arithmetic of losing exactly what he took frames the ending as a payment owed rather than a clever twist." },
+        { "distractor": "symmetrical", "closeness": 3, "reasoning": "Symmetrical describes only the shape of the exchange, which the clause about losing exactly what he took already spells out." },
+        { "distractor": "retributive", "closeness": 3, "reasoning": "Retributive points to a punisher exacting payback, yet the sentence names no avenger and presents the loss as the swindler's own outcome." },
+        { "distractor": "appropriate", "closeness": 3, "reasoning": "Appropriate is a mild word for fitting the occasion, which is too weak to carry the exact accounting of stolen and lost fortune the sentence supplies." },
+        { "distractor": "grim", "closeness": 2, "reasoning": "Grim reports only that the ending is bleak, missing the precise correspondence between what he took and what he lost." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "Ambiguous would mean the ending is unclear, but the sentence states exactly what happens to the fortune." },
+        { "distractor": "abrupt", "closeness": 2, "reasoning": "Abrupt concerns pacing, and the sentence describes the content of the ending rather than how suddenly it arrives." },
+        { "distractor": "comic", "closeness": 2, "reasoning": "Comic would make the ending funny, whereas the sentence presents a swindler stripped of everything he stole." },
+        { "distractor": "merciful", "closeness": 1, "reasoning": "Merciful contradicts a fate in which he loses the entire fortune." },
+        { "distractor": "random", "closeness": 1, "reasoning": "Random conflicts with a loss that matches the theft exactly." },
+        { "distractor": "triumphant", "closeness": 1, "reasoning": "Triumphant cannot describe a swindler's ruin." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "prate",
+  "sentenceSets": [
+    {
+      "sentence": "He prated about the importance of brevity for longer than the subject deserved.",
+      "answerChoices": [
+        { "distractor": "expounded", "closeness": 3, "reasoning": "To expound is to set out a subject in detail with some substance behind it, but the joke of the sentence is that he went on well past what the topic warranted, which marks the talk as empty running-on." },
+        { "distractor": "lectured", "closeness": 3, "reasoning": "Lecturing implies instructing an audience from a position of authority, whereas the sentence's irony lies in the sheer excess of his talk rather than in any pose of teaching." },
+        { "distractor": "digressed", "closeness": 3, "reasoning": "To digress is to leave the topic, yet he stayed squarely on brevity; his failing was staying on it too long." },
+        { "distractor": "harangued", "closeness": 3, "reasoning": "A harangue is aggressive and hectoring, but nothing in the sentence suggests he was attacking anyone, only that he would not stop." },
+        { "distractor": "muttered", "closeness": 2, "reasoning": "Muttering is quiet and half-audible, which would not register as taking up more time than the subject deserved." },
+        { "distractor": "conceded", "closeness": 2, "reasoning": "To concede is to grant a point, an act that is over in a moment and cannot go on at length." },
+        { "distractor": "whispered", "closeness": 2, "reasoning": "Volume is not at issue; the sentence measures his speech against the time the topic warranted." },
+        { "distractor": "inquired", "closeness": 2, "reasoning": "Inquiring seeks information, while he was the one holding forth on the subject." },
+        { "distractor": "listened", "closeness": 1, "reasoning": "Listening produces no talk at all, so it cannot exceed what the subject deserved." },
+        { "distractor": "abstained", "closeness": 1, "reasoning": "To abstain is to refrain, the opposite of going on at length." },
+        { "distractor": "sprinted", "closeness": 1, "reasoning": "Running fast has nothing to do with speaking about brevity." }
+      ]
+    },
+    {
+      "sentence": "The passengers grew glassy-eyed as the guide prated on about her cousin's dogs, the bus having long since passed the aqueduct they had paid to see.",
+      "answerChoices": [
+        { "distractor": "rambled", "closeness": 3, "reasoning": "Rambling wanders from topic to topic, but the guide sticks to one trivial subject, her cousin's dogs, and simply will not leave it." },
+        { "distractor": "gushed", "closeness": 3, "reasoning": "Gushing is a burst of extravagant enthusiasm, whereas the passengers' glassy eyes indicate a flat, unending stream rather than an outpouring of feeling." },
+        { "distractor": "reminisced", "closeness": 3, "reasoning": "Reminiscing dwells on one's own remembered past, and the sentence's target is the idle chatter itself, which concerns someone else's pets." },
+        { "distractor": "rhapsodized", "closeness": 3, "reasoning": "To rhapsodize is to speak with rapturous praise, but the passengers' reaction registers tedium rather than an outpouring they might find excessive but energetic." },
+        { "distractor": "apologized", "closeness": 2, "reasoning": "An apology would acknowledge the missed aqueduct, which is precisely what she fails to notice." },
+        { "distractor": "narrated", "closeness": 2, "reasoning": "Narrating the sights is the guide's actual job, and the sentence contrasts what she did with that duty." },
+        { "distractor": "bargained", "closeness": 2, "reasoning": "Bargaining involves negotiating terms, and no transaction is under way on the bus." },
+        { "distractor": "dozed", "closeness": 2, "reasoning": "Dozing is silent, but the passengers are being subjected to continuous speech." },
+        { "distractor": "hushed", "closeness": 1, "reasoning": "Hushing quiets others, the reverse of filling the bus with idle talk." },
+        { "distractor": "navigated", "closeness": 1, "reasoning": "Steering the bus is the driver's task and not a form of speech." },
+        { "distractor": "excavated", "closeness": 1, "reasoning": "Digging is a physical activity unrelated to a tour guide's monologue." }
+      ]
+    },
+    {
+      "sentence": "Do not prate at me about tradition while you are dismantling the one wall that has held since my grandmother's day.",
+      "answerChoices": [
+        { "distractor": "preach", "closeness": 3, "reasoning": "Preaching urges a moral course on the listener, but the speaker's scorn falls on the hollowness of the talk, since the man is contradicting it with his hands even as he speaks." },
+        { "distractor": "argue", "closeness": 3, "reasoning": "To argue is to offer reasons that can be answered, whereas the speaker refuses the talk outright as worthless noise beside what is being done to the wall." },
+        { "distractor": "boast", "closeness": 3, "reasoning": "A boast claims credit for oneself, but the subject of his talk is tradition rather than his own achievements." },
+        { "distractor": "quibble", "closeness": 3, "reasoning": "To quibble is to niggle over small distinctions, and the speaker objects to being talked at about a large principle rather than to fine-grained hairsplitting." },
+        { "distractor": "confess", "closeness": 2, "reasoning": "A confession admits fault, but the man is invoking tradition in his own defense." },
+        { "distractor": "consult", "closeness": 2, "reasoning": "Consulting seeks the other's view, and the speaker's complaint is that she is being talked at instead." },
+        { "distractor": "negotiate", "closeness": 2, "reasoning": "Negotiation would involve an exchange of terms, but the wall is already coming down while he speaks." },
+        { "distractor": "translate", "closeness": 2, "reasoning": "Translation renders one language into another, which has nothing to do with invoking tradition." },
+        { "distractor": "listen", "closeness": 1, "reasoning": "The speaker's grievance is that he is doing the talking, so 'listen' reverses the situation." },
+        { "distractor": "demolish", "closeness": 1, "reasoning": "Demolishing is the physical act already under way at the wall, not something one does 'at' a person about tradition." },
+        { "distractor": "inherit", "closeness": 1, "reasoning": "Inheriting is a legal transfer and cannot be directed at someone in speech." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "impugn",
+  "sentenceSets": [
+    {
+      "sentence": "She impugned the integrity of the review process without specifying a single finding she could demonstrate was wrong.",
+      "answerChoices": [
+        { "distractor": "disparaged", "closeness": 3, "reasoning": "Disparagement belittles the worth of something, while the sentence has her going after the honesty of the process, a charge that would ordinarily require the specifics she withheld." },
+        { "distractor": "denounced", "closeness": 3, "reasoning": "A denunciation condemns a wrong already established, and the second clause says she established nothing." },
+        { "distractor": "discredited", "closeness": 3, "reasoning": "To discredit something is to succeed in destroying belief in it, yet the sentence stresses that she supplied nothing capable of accomplishing that." },
+        { "distractor": "doubted", "closeness": 3, "reasoning": "Doubt is an inward state, whereas the sentence describes an act public enough that specifics were expected of her." },
+        { "distractor": "audited", "closeness": 2, "reasoning": "An audit works through records and produces findings, and the sentence says she produced none." },
+        { "distractor": "criticized", "closeness": 2, "reasoning": "Criticism points to particular faults, but no particular fault is named anywhere in the sentence." },
+        { "distractor": "obstructed", "closeness": 2, "reasoning": "Obstruction stops a process from running, while this one ran to completion and yielded findings she chose not to contest individually." },
+        { "distractor": "misrepresented", "closeness": 2, "reasoning": "Misrepresentation distorts what something says, and the sentence never claims she described the process inaccurately." },
+        { "distractor": "endorsed", "closeness": 1, "reasoning": "Endorsement would put her behind the process, which the missing specifics show she was working against." },
+        { "distractor": "vindicated", "closeness": 1, "reasoning": "Vindicating the process would make the absence of damaging findings unremarkable rather than pointed." },
+        { "distractor": "summarized", "closeness": 1, "reasoning": "Summarizing is a neutral act of description and would not raise the question of what she could demonstrate." }
+      ]
+    },
+    {
+      "sentence": "Counsel spent the afternoon impugning the witness, suggesting motives for her testimony that the jury had not previously considered.",
+      "answerChoices": [
+        { "distractor": "cross-examining", "closeness": 3, "reasoning": "Cross-examination is the procedure of putting questions to a witness, while the sentence describes motives being supplied to the jury rather than questions put to her." },
+        { "distractor": "contradicting", "closeness": 3, "reasoning": "Contradiction sets a rival account against hers, but counsel offers reasons she might have spoken rather than a competing version of events." },
+        { "distractor": "badgering", "closeness": 3, "reasoning": "Badgering is relentless pressure on a witness, whereas the detail given is the content of the suggestions, not the manner of questioning." },
+        { "distractor": "rebutting", "closeness": 3, "reasoning": "Rebuttal answers the substance of what was said, yet these suggestions concern why she testified at all." },
+        { "distractor": "interrogating", "closeness": 2, "reasoning": "Interrogation seeks information, and counsel is putting a construction before the jury rather than trying to learn anything." },
+        { "distractor": "intimidating", "closeness": 2, "reasoning": "Nothing in the sentence concerns the witness's fear; the effect described lands on what the jury now considers." },
+        { "distractor": "correcting", "closeness": 2, "reasoning": "Correction presumes an identified error of fact, and no factual mistake is mentioned." },
+        { "distractor": "coaching", "closeness": 2, "reasoning": "Coaching shapes what a witness will say, but she has already testified by the time the afternoon's work begins." },
+        { "distractor": "corroborating", "closeness": 1, "reasoning": "Corroboration supports a witness, which is the reverse of planting motives for the jury to weigh against her." },
+        { "distractor": "praising", "closeness": 1, "reasoning": "Praise would not lead a jury to reconsider why she testified." },
+        { "distractor": "thanking", "closeness": 1, "reasoning": "Gratitude has no place in a sentence whose only described effect is new suspicion about her motives." }
+      ]
+    },
+    {
+      "sentence": "Later scholars impugned the dating of the manuscript, pointing to a watermark they argued could not have existed when the scribe was said to have worked.",
+      "answerChoices": [
+        { "distractor": "refuted", "closeness": 3, "reasoning": "Refutation is a completed disproof, while the sentence says only that the scholars argued from the watermark, leaving the outcome open." },
+        { "distractor": "derided", "closeness": 3, "reasoning": "Derision treats a claim as beneath argument, yet these scholars argue from a specific physical feature of the page." },
+        { "distractor": "questioned", "closeness": 3, "reasoning": "Questioning leaves a matter open for others to settle, whereas the sentence shows them pressing a positive case against the received date." },
+        { "distractor": "overturned", "closeness": 3, "reasoning": "Overturning is an accomplished reversal, but the sentence reports the case they made rather than its acceptance." },
+        { "distractor": "annotated", "closeness": 2, "reasoning": "Annotation adds notes to a text, and what is at issue here is the date assigned to the manuscript." },
+        { "distractor": "reconstructed", "closeness": 2, "reasoning": "Reconstruction rebuilds a damaged text, while the scholars are working on when the surviving object was made." },
+        { "distractor": "scrutinized", "closeness": 2, "reasoning": "Scrutiny is close inspection with no verdict attached, but the sentence reports a conclusion pressed against the existing dating." },
+        { "distractor": "dismissed", "closeness": 2, "reasoning": "Dismissal refuses engagement, and these scholars engage closely enough to build their case on a watermark." },
+        { "distractor": "authenticated", "closeness": 1, "reasoning": "Authentication would confirm the manuscript's claimed origin, the opposite of arguing that its date is impossible." },
+        { "distractor": "confirmed", "closeness": 1, "reasoning": "Confirming the dating is incompatible with citing evidence that the scribe could not have been at work then." },
+        { "distractor": "catalogued", "closeness": 1, "reasoning": "Cataloguing records an item's existence and makes no argument about anything." }
+      ]
+    }
+  ]
+}

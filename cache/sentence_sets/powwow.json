@@ -1,0 +1,53 @@
+{
+  "word": "powwow",
+  "sentenceSets": [
+    {
+      "sentence": "The three department heads called a powwow in the hallway to settle the schedule before the client arrived.",
+      "answerChoices": [
+        { "distractor": "conference", "closeness": 3, "reasoning": "A conference suggests a scheduled and formal event, but this one is convened on the spot in a hallway under time pressure, which marks it as an informal huddle." },
+        { "distractor": "summit", "closeness": 3, "reasoning": "A summit is a meeting of the highest-ranking figures of separate powers, whereas these are three colleagues in one organization sorting out a schedule." },
+        { "distractor": "symposium", "closeness": 3, "reasoning": "A symposium is an organized occasion for presenting papers or ideas, which does not fit a hurried hallway exchange aimed at a practical decision." },
+        { "distractor": "deliberation", "closeness": 3, "reasoning": "Deliberation implies careful weighing over time, but the sentence sets a deadline of the client's arrival." },
+        { "distractor": "rehearsal", "closeness": 2, "reasoning": "A rehearsal practices a performance, while the purpose here is to settle a schedule." },
+        { "distractor": "audit", "closeness": 2, "reasoning": "An audit examines records for accuracy and would not be called in a hallway minutes before a client walks in." },
+        { "distractor": "referendum", "closeness": 2, "reasoning": "A referendum puts a question to a whole electorate rather than to three department heads." },
+        { "distractor": "reprimand", "closeness": 2, "reasoning": "A reprimand is issued downward to someone at fault, but nobody is being corrected here." },
+        { "distractor": "dismissal", "closeness": 1, "reasoning": "A dismissal ends something, whereas the heads are gathering in order to reach a decision." },
+        { "distractor": "banquet", "closeness": 1, "reasoning": "A formal meal cannot be convened in a hallway in the minutes before a client arrives." },
+        { "distractor": "sabbatical", "closeness": 1, "reasoning": "A sabbatical is an extended leave and could not be called to settle an immediate scheduling problem." }
+      ]
+    },
+    {
+      "sentence": "Every August the families drove four hundred miles for the powwow, where the drum circle ran from dusk until the food tents closed.",
+      "answerChoices": [
+        { "distractor": "festival", "closeness": 3, "reasoning": "'Festival' would describe any recurring celebration, but the drum circle running through the night and the families traveling together point to a specific Indigenous gathering with its own established form." },
+        { "distractor": "pilgrimage", "closeness": 3, "reasoning": "A pilgrimage is the journey itself to a sacred site, whereas the four hundred miles here are only the means of reaching an event that has drums, tents, and a nightly schedule." },
+        { "distractor": "reunion", "closeness": 3, "reasoning": "A reunion brings back people once connected, but the sentence describes an annual public gathering with food tents and a drum circle rather than a private family reconvening." },
+        { "distractor": "carnival", "closeness": 3, "reasoning": "A carnival centers on rides, masks, and revelry before a fast, none of which matches a drum circle running from dusk to closing." },
+        { "distractor": "conclave", "closeness": 2, "reasoning": "A conclave is a closed meeting held to decide something, while this gathering is a public occasion with food tents." },
+        { "distractor": "regatta", "closeness": 2, "reasoning": "A regatta is a series of boat races and has no connection to drums or tents." },
+        { "distractor": "requiem", "closeness": 2, "reasoning": "A requiem is a service for the dead, which does not fit an annual August event families travel to with anticipation." },
+        { "distractor": "seminar", "closeness": 2, "reasoning": "A seminar is an instructional session and cannot account for the drum circle and food tents." },
+        { "distractor": "eviction", "closeness": 1, "reasoning": "An eviction removes people from property and is not something families drive four hundred miles to attend." },
+        { "distractor": "blizzard", "closeness": 1, "reasoning": "A snowstorm is not an event held every August with tents and drums." },
+        { "distractor": "inventory", "closeness": 1, "reasoning": "Counting stock has no relation to an annual gathering with a drum circle." }
+      ]
+    },
+    {
+      "sentence": "Rather than circulate another memo, she pulled the two feuding editors into her office for a powwow that lasted the better part of an afternoon.",
+      "answerChoices": [
+        { "distractor": "parley", "closeness": 3, "reasoning": "A parley is a negotiation between opposed sides under a formal truce, but she is their superior pulling them in, which makes this an internal working session rather than talks between equals." },
+        { "distractor": "tribunal", "closeness": 3, "reasoning": "A tribunal delivers a judgment on a dispute, whereas the sentence presents an afternoon of talk chosen as an alternative to issuing directives on paper." },
+        { "distractor": "mediation", "closeness": 3, "reasoning": "Mediation requires a neutral third party, but she is their manager with her own stake in how the section runs." },
+        { "distractor": "interrogation", "closeness": 3, "reasoning": "An interrogation extracts information from a subject, while this meeting was convened to work out a quarrel between two people who both work for her." },
+        { "distractor": "appraisal", "closeness": 2, "reasoning": "An appraisal evaluates an individual's performance, but both editors were brought in together over a feud." },
+        { "distractor": "soliloquy", "closeness": 2, "reasoning": "A soliloquy is speech by one person alone, which cannot involve two editors and their manager." },
+        { "distractor": "petition", "closeness": 2, "reasoning": "A petition is a formal written request, and she deliberately set aside the written route by declining another memo." },
+        { "distractor": "dictation", "closeness": 2, "reasoning": "Dictation means speaking text for someone to transcribe, which does not describe a long meeting between feuding colleagues." },
+        { "distractor": "ovation", "closeness": 1, "reasoning": "An ovation is applause and could not be what two feuding editors are pulled into an office for." },
+        { "distractor": "quarantine", "closeness": 1, "reasoning": "Isolation for contagion has nothing to do with settling a dispute between editors." },
+        { "distractor": "invoice", "closeness": 1, "reasoning": "A bill for payment is a document, not an occasion that lasts an afternoon." }
+      ]
+    }
+  ]
+}

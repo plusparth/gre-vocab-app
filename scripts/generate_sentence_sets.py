@@ -34,6 +34,9 @@ POPULATED_CSV = os.path.join(BASE_DIR, "output", "populated.csv")
 os.makedirs(SENTENCE_SETS_DIR, exist_ok=True)
 
 
+EXPECTED_SETS = 3
+
+
 def load_populated_csv():
     rows = {}
     with open(POPULATED_CSV, newline="", encoding="utf-8") as f:
@@ -51,13 +54,17 @@ def load_existing_sentence(word):
 
 
 def is_cached(word):
-    """A file whose sets were all pruned as unusable still needs generating."""
+    """Cached means the full complement of sets, not merely a file.
+
+    Pruning unusable sentences leaves some files short, and those words need
+    topping back up, so anything under EXPECTED_SETS counts as not cached.
+    """
     path = os.path.join(SENTENCE_SETS_DIR, f"{word}.json")
     if not os.path.exists(path):
         return False
     try:
         with open(path, encoding="utf-8") as f:
-            return len(json.load(f).get("sentenceSets", [])) > 0
+            return len(json.load(f).get("sentenceSets", [])) >= EXPECTED_SETS
     except json.JSONDecodeError:
         return False
 
@@ -69,8 +76,8 @@ def validate_sentence_set(word, data):
             f"word field mismatch: expected '{word}', got '{data.get('word')}'"
         )
     sets = data.get("sentenceSets", [])
-    if len(sets) != 3:
-        errors.append(f"expected 3 sentenceSets, got {len(sets)}")
+    if len(sets) != EXPECTED_SETS:
+        errors.append(f"expected {EXPECTED_SETS} sentenceSets, got {len(sets)}")
     for i, sentence_set in enumerate(sets):
         if not sentence_set.get("sentence"):
             errors.append(f"set {i}: missing sentence")

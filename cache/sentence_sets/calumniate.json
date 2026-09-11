@@ -1,0 +1,53 @@
+{
+  "word": "calumniate",
+  "sentenceSets": [
+    {
+      "sentence": "He calumniated his rivals at every opportunity, spreading rumors that were later proven entirely false.",
+      "answerChoices": [
+        { "distractor": "libeled", "closeness": 3, "reasoning": "The damage here is done by 'spreading rumors' — talk passed from person to person — whereas the word chosen would have to name an attack made in print or writing, which the sentence never mentions." },
+        { "distractor": "impugned", "closeness": 3, "reasoning": "To impugn is to challenge the truthfulness of a particular claim someone has made, but the sentence shows him originating false stories about the rivals themselves rather than disputing anything they said." },
+        { "distractor": "denounced", "closeness": 3, "reasoning": "A denunciation is an open condemnation that can rest on perfectly accurate charges, yet the sentence specifies that what he circulated turned out to be untrue, so open condemnation does not capture what he did." },
+        { "distractor": "disparaged", "closeness": 3, "reasoning": "Disparagement is dismissive belittling, which can be accomplished with true facts or mere sneering; the sentence hinges on fabricated rumors, a stronger and more specific charge than talking someone down." },
+        { "distractor": "berated", "closeness": 2, "reasoning": "Berating happens face to face and directed at the person being scolded, but the sentence shows him talking about his rivals to others, not addressing them." },
+        { "distractor": "outmaneuvered", "closeness": 2, "reasoning": "Outmaneuvering describes strategic advantage over a rival, and nothing in the sentence involves tactics — only the circulation of stories that proved false." },
+        { "distractor": "lampooned", "closeness": 2, "reasoning": "A lampoon is comic ridicule that its audience recognizes as exaggeration, which does not match rumors that people evidently believed until they were disproved." },
+        { "distractor": "interrogated", "closeness": 2, "reasoning": "Interrogation means questioning someone closely, and the sentence describes him making assertions to third parties rather than putting questions to anyone." },
+        { "distractor": "lauded", "closeness": 1, "reasoning": "Praise is the opposite of what the sentence describes: the stories he circulated were damaging enough that their falsity had to be established later." },
+        { "distractor": "championed", "closeness": 1, "reasoning": "Championing means publicly supporting someone, which contradicts the sentence's picture of a man working against rivals at every opportunity." },
+        { "distractor": "consulted", "closeness": 1, "reasoning": "Consulting a rival would mean seeking their advice, an activity with no connection to the rumor-spreading the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "The pamphleteer calumniated the widowed queen for three years in print, inventing liaisons that no witness was ever produced to confirm.",
+      "answerChoices": [
+        { "distractor": "slandered", "closeness": 3, "reasoning": "Slander covers attacks made in speech, but this campaign is explicitly conducted 'in print' over three years, so a term restricted to the spoken word does not fit the medium the sentence names." },
+        { "distractor": "satirized", "closeness": 3, "reasoning": "Satire depends on its readers seeing the exaggeration as a joke, whereas the sentence stresses invented liaisons offered as fact and the absence of any witness to back them." },
+        { "distractor": "scrutinized", "closeness": 3, "reasoning": "Scrutiny means examining what is actually there, and the pamphleteer supplies material that never existed rather than investigating the queen's conduct." },
+        { "distractor": "chronicled", "closeness": 3, "reasoning": "A chronicler records events in sequence, but the sentence says the affairs were invented and unsupported, so nothing was being recorded." },
+        { "distractor": "harangued", "closeness": 2, "reasoning": "A harangue is delivered at its target in person, while these pamphlets are written about the queen for an audience of readers." },
+        { "distractor": "prosecuted", "closeness": 2, "reasoning": "Prosecution requires a court and formal charges, and the sentence places the whole campaign in pamphlets where no witness was ever called." },
+        { "distractor": "shunned", "closeness": 2, "reasoning": "Shunning is avoidance and silence, the reverse of three years spent writing about someone at length." },
+        { "distractor": "eulogized", "closeness": 2, "reasoning": "A eulogy honors its subject, which cannot square with fabricated liaisons intended to shame a widow." },
+        { "distractor": "vindicated", "closeness": 1, "reasoning": "To vindicate is to clear someone of suspicion, the opposite of manufacturing the suspicion in the first place." },
+        { "distractor": "canonized", "closeness": 1, "reasoning": "Canonization elevates its subject to sanctity, an absurd reading of a campaign built on invented sexual scandal." },
+        { "distractor": "photographed", "closeness": 1, "reasoning": "Photography belongs to an entirely different activity and has no bearing on a printed campaign of unverifiable accusations." }
+      ]
+    },
+    {
+      "sentence": "Rather than concede the recount, the defeated candidate set out to calumniate the officials who had certified it, accusing them of forgeries he privately knew had never occurred.",
+      "answerChoices": [
+        { "distractor": "malign", "closeness": 3, "reasoning": "Maligning is speaking ill of someone, but the sentence turns on his knowledge that the forgeries never happened, which makes deliberate fabrication rather than general ill-speaking the point." },
+        { "distractor": "indict", "closeness": 3, "reasoning": "An indictment is a formal charge brought by a legal authority, and the candidate is a private loser of a recount making accusations on his own, not an authority filing charges." },
+        { "distractor": "audit", "closeness": 3, "reasoning": "Auditing means checking the certification records, yet the sentence says he already knew the forgeries had not occurred, so he had no interest in what an examination would show." },
+        { "distractor": "petition", "closeness": 3, "reasoning": "Petitioning officials means formally asking them for relief, whereas the sentence has him attacking those same officials rather than making a request of them." },
+        { "distractor": "cross-examine", "closeness": 2, "reasoning": "Cross-examination is questioning a witness under oath in a proceeding, and the sentence shows him refusing the recount's outcome rather than participating in any hearing." },
+        { "distractor": "reprimand", "closeness": 2, "reasoning": "A reprimand comes from someone with authority over the person corrected, and a defeated candidate holds no such authority over the certifying officials." },
+        { "distractor": "bribe", "closeness": 2, "reasoning": "Bribery would mean paying the officials to change the result, but the sentence describes accusations made after certification, not inducements offered to alter it." },
+        { "distractor": "sue", "closeness": 2, "reasoning": "Filing suit is a procedural step in court, and the sentence contrasts his behavior with conceding, describing accusations he himself knew to be baseless rather than a legal filing." },
+        { "distractor": "commend", "closeness": 1, "reasoning": "Commending the officials would mean praising their handling of the recount, which contradicts his refusal to accept it." },
+        { "distractor": "exonerate", "closeness": 1, "reasoning": "Exoneration clears people of wrongdoing, the reverse of pinning invented forgeries on them." },
+        { "distractor": "reimburse", "closeness": 1, "reasoning": "Reimbursement involves paying money back and has nothing to do with the accusations the sentence describes." }
+      ]
+    }
+  ]
+}

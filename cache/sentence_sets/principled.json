@@ -1,0 +1,53 @@
+{
+  "word": "principled",
+  "sentenceSets": [
+    {
+      "sentence": "A principled refusal to participate in a process she considered compromised cost her opportunities she might otherwise have had.",
+      "answerChoices": [
+        { "distractor": "stubborn", "closeness": 3, "reasoning": "Stubbornness holds out for its own sake, but her refusal is grounded in a judgment that the process was compromised, which gives it a reason beyond mere resistance." },
+        { "distractor": "prudent", "closeness": 3, "reasoning": "Prudence looks after one's own interests, and the sentence says this choice cost her opportunities." },
+        { "distractor": "strategic", "closeness": 3, "reasoning": "A strategic refusal would be a move calculated to gain something later, while the sentence records only what it cost her." },
+        { "distractor": "conscientious", "closeness": 3, "reasoning": "Conscientiousness is care in carrying out one's duties well, which describes how someone does a job rather than a decision to stand outside a process altogether." },
+        { "distractor": "impulsive", "closeness": 2, "reasoning": "An impulsive act comes without reflection, but she had formed a considered view that the process was compromised." },
+        { "distractor": "belated", "closeness": 2, "reasoning": "Nothing in the sentence concerns the timing of her refusal, only its basis and its cost." },
+        { "distractor": "anonymous", "closeness": 2, "reasoning": "Her refusal was visible enough to cost her opportunities, which means it was attributed to her." },
+        { "distractor": "provisional", "closeness": 2, "reasoning": "A provisional refusal would be open to reversal, yet the sentence treats the cost as settled." },
+        { "distractor": "opportunistic", "closeness": 1, "reasoning": "Opportunism seizes advantage, the opposite of forgoing opportunities on grounds of judgment." },
+        { "distractor": "venal", "closeness": 1, "reasoning": "Venality means being open to bribery, which is incompatible with turning down a compromised process at personal cost." },
+        { "distractor": "aquatic", "closeness": 1, "reasoning": "Living in water is a biological description and cannot characterize a refusal." }
+      ]
+    },
+    {
+      "sentence": "The judge was known as a principled jurist who ruled against the party whose politics she shared more often than not.",
+      "answerChoices": [
+        { "distractor": "impartial", "closeness": 3, "reasoning": "Impartiality is the absence of a stake, but the sentence says she does share the party's politics and rules against it anyway, which shows commitments she holds above her preferences." },
+        { "distractor": "consistent", "closeness": 3, "reasoning": "Consistency means ruling the same way in like cases, which a judge could achieve by applying a bad rule reliably; the sentence's point is that she subordinates her own sympathies." },
+        { "distractor": "contrarian", "closeness": 3, "reasoning": "A contrarian opposes whatever is favored for the pleasure of opposing, but she is described as ruling on grounds that happen to cut against her own side." },
+        { "distractor": "lenient", "closeness": 3, "reasoning": "Leniency is mildness in sentencing, which has nothing to do with which party prevails in her rulings." },
+        { "distractor": "elected", "closeness": 2, "reasoning": "How she came to the bench is never raised, and it would not explain her rulings against her own side." },
+        { "distractor": "verbose", "closeness": 2, "reasoning": "The length of her opinions is not at issue in a sentence about how she rules." },
+        { "distractor": "junior", "closeness": 2, "reasoning": "Seniority says nothing about the pattern of her decisions." },
+        { "distractor": "reclusive", "closeness": 2, "reasoning": "Avoiding company would not account for rulings that go against her political allies." },
+        { "distractor": "partisan", "closeness": 1, "reasoning": "A partisan judge would favor the party whose politics she shares, which is the opposite of what the sentence reports." },
+        { "distractor": "corrupt", "closeness": 1, "reasoning": "Corruption would bend rulings toward whoever pays, not against one's own sympathies." },
+        { "distractor": "illiterate", "closeness": 1, "reasoning": "An inability to read could not describe a sitting jurist known for her opinions." }
+      ]
+    },
+    {
+      "sentence": "There is a principled distinction between the two exemptions, but the clerk applied whichever one produced the shorter queue.",
+      "answerChoices": [
+        { "distractor": "legal", "closeness": 3, "reasoning": "A merely legal distinction would be one the rules happen to draw, but the sentence contrasts it with the clerk's convenience, implying a distinction resting on a genuine reason rather than administrative fiat." },
+        { "distractor": "technical", "closeness": 3, "reasoning": "A technical distinction is one of formal detail without substance behind it, which would make the clerk's shortcut harmless rather than a lapse." },
+        { "distractor": "arbitrary", "closeness": 3, "reasoning": "An arbitrary distinction has no reason behind it, yet the sentence sets this one against the clerk's groundless choice as its rebuke." },
+        { "distractor": "subtle", "closeness": 3, "reasoning": "Subtlety concerns how fine the distinction is to perceive, which would excuse the clerk rather than contrast with his behavior." },
+        { "distractor": "numerical", "closeness": 2, "reasoning": "A numerical distinction would turn on counting, and the counting in the sentence is the clerk's own tally of the queue." },
+        { "distractor": "historical", "closeness": 2, "reasoning": "The exemptions' origins in time are never raised; what matters is that a real reason separates them." },
+        { "distractor": "clerical", "closeness": 2, "reasoning": "'Clerical' would describe the clerk's own domain, which is precisely what the sentence says failed to respect the distinction." },
+        { "distractor": "provisional", "closeness": 2, "reasoning": "A temporary distinction subject to revision would not stand as a reproach to the clerk's shortcut." },
+        { "distractor": "imaginary", "closeness": 1, "reasoning": "If the distinction were imaginary the clerk's indifference would be perfectly correct." },
+        { "distractor": "illegible", "closeness": 1, "reasoning": "Unreadability applies to handwriting rather than to the difference between two exemptions." },
+        { "distractor": "carnivorous", "closeness": 1, "reasoning": "A diet of meat cannot characterize a distinction between administrative exemptions." }
+      ]
+    }
+  ]
+}

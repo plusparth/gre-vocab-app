@@ -1,0 +1,53 @@
+{
+  "word": "conglomerate",
+  "sentenceSets": [
+    {
+      "sentence": "The media conglomerate owned dozens of outlets spanning print, broadcast, and digital platforms.",
+      "answerChoices": [
+        { "distractor": "corporation", "closeness": 3, "reasoning": "A corporation is a single legal company pursuing one line of business, which fails to capture the sentence's picture of dozens of separate outlets in three different media held under one owner." },
+        { "distractor": "syndicate", "closeness": 3, "reasoning": "A syndicate is an alliance of separate parties pooling effort on a venture, whereas the sentence describes one entity that owns the outlets outright." },
+        { "distractor": "monopoly", "closeness": 3, "reasoning": "A monopoly requires that competitors be shut out of a market, but the sentence only counts what this owner holds and says nothing about rivals." },
+        { "distractor": "empire", "closeness": 3, "reasoning": "Empire is a loose metaphor for reach and influence, while the sentence is precise about a formal ownership structure covering named categories of outlet." },
+        { "distractor": "network", "closeness": 2, "reasoning": "A network is a single broadcast system, too narrow for holdings that include print and digital as well." },
+        { "distractor": "publisher", "closeness": 2, "reasoning": "A publisher works in print, which covers only one of the three platforms the sentence lists." },
+        { "distractor": "agency", "closeness": 2, "reasoning": "An agency acts on behalf of clients rather than owning dozens of outlets itself." },
+        { "distractor": "partnership", "closeness": 2, "reasoning": "A partnership is a form of ownership among individuals, which says nothing about the sprawl across print, broadcast, and digital." },
+        { "distractor": "cooperative", "closeness": 1, "reasoning": "A cooperative is owned by its members, contradicting a single owner holding dozens of outlets." },
+        { "distractor": "startup", "closeness": 1, "reasoning": "A startup is young and small, incompatible with dozens of outlets across three platforms." },
+        { "distractor": "charity", "closeness": 1, "reasoning": "A charity does not own commercial media properties for profit." }
+      ]
+    },
+    {
+      "sentence": "What began as a single shoe factory had become, after forty years of acquisitions, a conglomerate with holdings in insurance, shipping, and frozen food.",
+      "answerChoices": [
+        { "distractor": "trust", "closeness": 3, "reasoning": "A trust unites competing firms in one industry to control its market, but the holdings listed here are in three unrelated businesses." },
+        { "distractor": "cartel", "closeness": 3, "reasoning": "A cartel is an agreement among independent rivals to fix terms, whereas the sentence describes one company absorbing others through acquisitions." },
+        { "distractor": "chain", "closeness": 3, "reasoning": "A chain repeats the same kind of outlet in many places, which cannot describe insurance sitting alongside shipping and frozen food." },
+        { "distractor": "consortium", "closeness": 3, "reasoning": "A consortium is a temporary alliance of separate members for one project, but the sentence traces a single firm's growth over forty years of buying companies." },
+        { "distractor": "manufacturer", "closeness": 2, "reasoning": "A manufacturer makes goods, which describes only the original shoe factory rather than what the company grew into." },
+        { "distractor": "brand", "closeness": 2, "reasoning": "A brand is a name and identity, not the structure that owns businesses in three unrelated sectors." },
+        { "distractor": "subsidiary", "closeness": 2, "reasoning": "A subsidiary is owned by another company, reversing the direction of ownership the acquisitions established." },
+        { "distractor": "enterprise", "closeness": 2, "reasoning": "Enterprise is a generic word for any business venture and captures nothing about holdings spread across unrelated industries." },
+        { "distractor": "boutique", "closeness": 1, "reasoning": "A boutique is small and specialized, contradicting forty years of acquisitions across three sectors." },
+        { "distractor": "nonprofit", "closeness": 1, "reasoning": "A nonprofit does not build holdings in insurance and shipping through acquisitions." },
+        { "distractor": "guild", "closeness": 1, "reasoning": "A guild is an association of craftspeople, not an owner of frozen food businesses." }
+      ]
+    },
+    {
+      "sentence": "Ash, sand, and shattered shell had fused over centuries into a conglomerate that geologists could date to the eruption.",
+      "answerChoices": [
+        { "distractor": "aggregate", "closeness": 3, "reasoning": "Aggregate names loose material gathered together, but the sentence stresses that these components fused into a single datable body of rock." },
+        { "distractor": "composite", "closeness": 3, "reasoning": "Composite is a general term for anything made of mixed materials, which would not tell a geologist that what is being dated is a rock formed in place." },
+        { "distractor": "amalgam", "closeness": 3, "reasoning": "An amalgam properly describes a metal alloy with mercury, and its figurative use covers blended ideas rather than a datable stratum of ash, sand, and shell." },
+        { "distractor": "sediment", "closeness": 3, "reasoning": "Sediment is unconsolidated material that has settled out, whereas the sentence says the components fused over centuries into something solid." },
+        { "distractor": "mineral", "closeness": 2, "reasoning": "A mineral is a single chemically uniform substance, contradicting a body made of three distinct materials." },
+        { "distractor": "crust", "closeness": 2, "reasoning": "Crust names the earth's outer layer as a whole, far larger than the local deposit the geologists dated." },
+        { "distractor": "residue", "closeness": 2, "reasoning": "Residue is leftover matter, which does not convey the fusing into rock that the sentence describes." },
+        { "distractor": "matrix", "closeness": 2, "reasoning": "A matrix is the fine material surrounding embedded fragments, a part of such a rock rather than the rock itself." },
+        { "distractor": "crystal", "closeness": 1, "reasoning": "A crystal has a regular internal structure, incompatible with shattered shell mixed into ash and sand." },
+        { "distractor": "liquid", "closeness": 1, "reasoning": "A liquid could not be dated as a fused deposit centuries old." },
+        { "distractor": "vapor", "closeness": 1, "reasoning": "Vapor is gaseous and cannot contain fused sand and shell." }
+      ]
+    }
+  ]
+}

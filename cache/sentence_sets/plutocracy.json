@@ -1,0 +1,53 @@
+{
+  "word": "plutocracy",
+  "sentenceSets": [
+    {
+      "sentence": "The critique of the system as a plutocracy was dismissed by those who benefited from it and accepted by those who did not.",
+      "answerChoices": [
+        { "distractor": "oligarchy", "closeness": 3, "reasoning": "The sentence splits the population cleanly into beneficiaries and non-beneficiaries of the system, a division drawn along what people have rather than which small clique holds office; 'oligarchy' names rule by a few without saying what qualifies them, so it does not explain why the line falls where the sentence says it falls." },
+        { "distractor": "aristocracy", "closeness": 3, "reasoning": "Nothing in the sentence mentions birth, title, or inherited rank, which is what would be required for the beneficiary class to be an aristocratic one." },
+        { "distractor": "kleptocracy", "closeness": 3, "reasoning": "The critique here is merely 'dismissed' by its beneficiaries rather than denied as criminal, and the sentence describes no theft of public funds, which a kleptocracy charge would require as its central accusation." },
+        { "distractor": "technocracy", "closeness": 3, "reasoning": "A technocracy would sort people by expertise, but the sentence's dividing line is who profits from the arrangement, and expertise is never mentioned as the qualification." },
+        { "distractor": "bureaucracy", "closeness": 2, "reasoning": "The sentence describes a system that produces winners and losers, not one characterized by procedural machinery or administrative layers." },
+        { "distractor": "meritocracy", "closeness": 2, "reasoning": "If the system were a meritocracy the critique would concern earned advantage, yet the sentence presents the split as something the disadvantaged recognize and the advantaged deny." },
+        { "distractor": "hierarchy", "closeness": 2, "reasoning": "'Hierarchy' describes ranked order generally and is too neutral to be the object of a critique that people accept or dismiss according to their position in it." },
+        { "distractor": "monopoly", "closeness": 2, "reasoning": "A monopoly concerns control of a market by a single seller; the sentence is about a whole system of governance being characterized, not about commerce." },
+        { "distractor": "democracy", "closeness": 1, "reasoning": "A charge that would be dismissed by its beneficiaries and accepted by everyone else cannot be the label 'democracy,' which is invoked as praise rather than as a critique." },
+        { "distractor": "anarchy", "closeness": 1, "reasoning": "Anarchy means the absence of governing order, but the sentence describes a functioning system that reliably rewards one group." },
+        { "distractor": "diaspora", "closeness": 1, "reasoning": "A diaspora is a scattered population, which has nothing to do with a critique of how a system distributes benefits." }
+      ]
+    },
+    {
+      "sentence": "Once the three shipping families controlled the harbor tariffs, the council seats, and the militia payroll, the republic was a plutocracy in everything but name.",
+      "answerChoices": [
+        { "distractor": "oligarchy", "closeness": 3, "reasoning": "The sentence itemizes tariffs, payrolls, and purse-controlled offices, tracing the families' grip specifically to money; 'oligarchy' would leave unexplained why commercial fortunes in particular are the route to the council seats." },
+        { "distractor": "dynasty", "closeness": 3, "reasoning": "A dynasty passes rule down a bloodline, but the sentence describes three separate families sharing control through commercial levers, not a line of succession." },
+        { "distractor": "cartel", "closeness": 3, "reasoning": "A cartel is a price-fixing arrangement among firms, yet the families here have taken over council seats and the militia, which is political rule rather than market collusion." },
+        { "distractor": "junta", "closeness": 3, "reasoning": "The militia appears here as a payroll the families fund, not as the force that seized power, so the sentence does not describe rule by military officers." },
+        { "distractor": "protectorate", "closeness": 2, "reasoning": "A protectorate is governed under the guardianship of an outside power, but every actor in the sentence is local." },
+        { "distractor": "fiefdom", "closeness": 2, "reasoning": "A fiefdom implies land granted in exchange for feudal service, which is unrelated to harbor tariffs and council seats." },
+        { "distractor": "syndicate", "closeness": 2, "reasoning": "'Syndicate' names an association formed for a joint venture and would not account for the sentence's claim that the whole republic had become something else." },
+        { "distractor": "magistracy", "closeness": 2, "reasoning": "A magistracy is a body of judicial officers, but the sentence is describing who really holds power, not the composition of the courts." },
+        { "distractor": "commonwealth", "closeness": 1, "reasoning": "The phrase 'in everything but name' signals that the republic had degenerated into something worse, which 'commonwealth' would not convey." },
+        { "distractor": "theocracy", "closeness": 1, "reasoning": "No priesthood, doctrine, or religious authority appears anywhere in a sentence concerned with tariffs and payrolls." },
+        { "distractor": "peninsula", "closeness": 1, "reasoning": "A peninsula is a landform and cannot be what a republic becomes." }
+      ]
+    },
+    {
+      "sentence": "Her dissertation argued that a plutocracy need not abolish elections; it need only make campaigns expensive enough that no one without a fortune can survive a primary.",
+      "answerChoices": [
+        { "distractor": "oligarchy", "closeness": 3, "reasoning": "The mechanism described is a price of entry that only a fortune can pay, so the filter is explicitly monetary; 'oligarchy' names rule by the few without identifying money as the gate." },
+        { "distractor": "autocracy", "closeness": 3, "reasoning": "The whole point of the argument is that elections continue, which rules out a system resting on the will of a single ruler." },
+        { "distractor": "aristocracy", "closeness": 3, "reasoning": "The barrier in the sentence is the cost of a campaign, something a newly rich outsider could clear, whereas aristocratic exclusion turns on lineage that money cannot buy." },
+        { "distractor": "gerontocracy", "closeness": 3, "reasoning": "Age never enters the argument; the disqualifying condition is being 'without a fortune.'" },
+        { "distractor": "demagoguery", "closeness": 2, "reasoning": "Demagoguery is a style of appealing to crowds, but the sentence describes a structural filter operating before the crowd ever votes." },
+        { "distractor": "patronage", "closeness": 2, "reasoning": "Patronage involves handing out offices as rewards for loyalty, while the sentence describes candidates self-funding their way past a primary." },
+        { "distractor": "corruption", "closeness": 2, "reasoning": "The argument's force is that nothing illicit is required, since the expense of campaigning does the work openly and lawfully." },
+        { "distractor": "nepotism", "closeness": 2, "reasoning": "Nepotism favors relatives, but the sentence describes a threshold anyone with sufficient money could cross regardless of family." },
+        { "distractor": "egalitarianism", "closeness": 1, "reasoning": "A system that screens out everyone without a fortune is the opposite of one committed to equality." },
+        { "distractor": "populism", "closeness": 1, "reasoning": "Populism claims to advance ordinary people against elites, whereas the sentence describes ordinary people being priced out entirely." },
+        { "distractor": "referendum", "closeness": 1, "reasoning": "A referendum is a single vote on a question, not a form of rule that could persist across campaigns and primaries." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "precursor",
+  "sentenceSets": [
+    {
+      "sentence": "The early signs were recognized as a precursor only in retrospect, when the full pattern had become visible.",
+      "answerChoices": [
+        { "distractor": "symptom", "closeness": 3, "reasoning": "A symptom manifests a condition already present, but these signs are read against a pattern that became visible later, which makes them the announcement of something still to come." },
+        { "distractor": "omen", "closeness": 3, "reasoning": "An omen is a portent whose significance is asserted in advance by belief, whereas these signs carried no meaning at all until the pattern emerged." },
+        { "distractor": "catalyst", "closeness": 3, "reasoning": "A catalyst brings about what follows, but the sentence describes signs that merely preceded and pointed toward it." },
+        { "distractor": "anomaly", "closeness": 3, "reasoning": "An anomaly is an outlier that does not fit, while these signs turned out to fit the eventual pattern exactly." },
+        { "distractor": "aftermath", "closeness": 2, "reasoning": "An aftermath follows an event, but these signs came first and were described as early." },
+        { "distractor": "rebuttal", "closeness": 2, "reasoning": "A rebuttal answers an argument, which has no bearing on signs read against an emerging pattern." },
+        { "distractor": "coincidence", "closeness": 2, "reasoning": "Calling them a coincidence would deny the connection that the visible pattern eventually established." },
+        { "distractor": "remnant", "closeness": 2, "reasoning": "A remnant is what survives after something has passed, not what appears before it." },
+        { "distractor": "epilogue", "closeness": 1, "reasoning": "An epilogue comes at the end, contradicting the sentence's word 'early.'" },
+        { "distractor": "consequence", "closeness": 1, "reasoning": "A consequence results from what came before, reversing the order the sentence sets out." },
+        { "distractor": "pedestal", "closeness": 1, "reasoning": "A base for a statue is a physical object and cannot be recognized in retrospect as a sign." }
+      ]
+    },
+    {
+      "sentence": "The bulky mechanical calculator in the museum's third case is the direct precursor of the machine in every pocket today.",
+      "answerChoices": [
+        { "distractor": "prototype", "closeness": 3, "reasoning": "A prototype is a first working model of the very same device, but this calculator is a separate earlier machine from which today's descended across a long line." },
+        { "distractor": "archetype", "closeness": 3, "reasoning": "An archetype is the pattern that later examples imitate, whereas the sentence stresses a line of descent in time rather than a template for copying." },
+        { "distractor": "counterpart", "closeness": 3, "reasoning": "A counterpart is a contemporary equivalent in another setting, but the museum piece is placed earlier in a sequence leading to the pocket device." },
+        { "distractor": "replica", "closeness": 3, "reasoning": "A replica copies an original, while this machine came first and the modern device followed from it." },
+        { "distractor": "relic", "closeness": 2, "reasoning": "A relic is merely an object surviving from the past, which would not account for the stated line of descent to today's machine." },
+        { "distractor": "successor", "closeness": 2, "reasoning": "A successor comes after, but the calculator is the older of the two devices." },
+        { "distractor": "artifact", "closeness": 2, "reasoning": "'Artifact' names any human-made object in a museum and says nothing about the connection to the pocket machine." },
+        { "distractor": "anomaly", "closeness": 2, "reasoning": "An anomaly would be an oddity outside the line of development the sentence traces." },
+        { "distractor": "descendant", "closeness": 1, "reasoning": "The pocket machine is what descended, so the calculator cannot be the descendant." },
+        { "distractor": "byproduct", "closeness": 1, "reasoning": "A byproduct is an incidental result of making something else, not the ancestor of a later device." },
+        { "distractor": "caricature", "closeness": 1, "reasoning": "An exaggerated likeness of a person has no place in a line of mechanical development." }
+      ]
+    },
+    {
+      "sentence": "In the liver the compound is harmless, but enzymes convert it into a precursor of the toxin that damages the kidneys.",
+      "answerChoices": [
+        { "distractor": "analogue", "closeness": 3, "reasoning": "An analogue resembles a substance in structure without becoming it, but this molecule lies one step upstream in a chain that ends in the toxin." },
+        { "distractor": "byproduct", "closeness": 3, "reasoning": "A byproduct is an incidental leftover of a reaction, whereas this substance is on the direct path toward the toxin that does the damage." },
+        { "distractor": "metabolite", "closeness": 3, "reasoning": "'Metabolite' names anything the body has processed, including dead ends, but the sentence places this compound specifically ahead of the toxin in the sequence." },
+        { "distractor": "solvent", "closeness": 3, "reasoning": "A solvent dissolves other substances and is not itself transformed into them, while enzymes here convert the compound into something new." },
+        { "distractor": "antidote", "closeness": 2, "reasoning": "An antidote counters a poison, but this substance leads to the toxin rather than neutralizing it." },
+        { "distractor": "residue", "closeness": 2, "reasoning": "A residue is what remains after a process finishes, not a stage on the way to a further product." },
+        { "distractor": "catalyst", "closeness": 2, "reasoning": "A catalyst speeds a reaction without being consumed, whereas the enzymes are the catalysts here and this compound is what they act on." },
+        { "distractor": "isotope", "closeness": 2, "reasoning": "An isotope differs only in neutron count and cannot be produced by enzymatic conversion." },
+        { "distractor": "antagonist", "closeness": 1, "reasoning": "An antagonist blocks a biological effect, the opposite of feeding into the toxin that harms the kidneys." },
+        { "distractor": "placebo", "closeness": 1, "reasoning": "A placebo is an inert treatment given in a trial and plays no role in an enzymatic pathway." },
+        { "distractor": "ligament", "closeness": 1, "reasoning": "A band of connective tissue is anatomical rather than chemical and cannot be produced by enzymes from a compound." }
+      ]
+    }
+  ]
+}

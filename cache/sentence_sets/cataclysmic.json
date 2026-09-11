@@ -1,0 +1,53 @@
+{
+  "word": "cataclysmic",
+  "sentenceSets": [
+    {
+      "sentence": "The merger had a cataclysmic effect on the smaller company's culture, destroying what had made it successful.",
+      "answerChoices": [
+        { "distractor": "corrosive", "closeness": 3, "reasoning": "Corrosive damage works slowly and by degrees, but the sentence ties the destruction directly to the merger itself, a single event with an immediate and total result." },
+        { "distractor": "disruptive", "closeness": 3, "reasoning": "Disruption interrupts how things were done and often leaves something better behind, whereas here the culture that made the company succeed is described as destroyed outright." },
+        { "distractor": "transformative", "closeness": 3, "reasoning": "Transformation implies being remade into something new, and the sentence reports only loss — the qualities responsible for the company's success were wiped out." },
+        { "distractor": "unsettling", "closeness": 3, "reasoning": "Unsettling describes discomfort felt by people, far too mild for an outcome the sentence characterizes as the destruction of everything that had worked." },
+        { "distractor": "gradual", "closeness": 2, "reasoning": "Gradual speaks to pace alone and cannot convey the severity the second half of the sentence spells out." },
+        { "distractor": "incidental", "closeness": 2, "reasoning": "Incidental means a side effect of no great importance, contradicted by the loss of the very thing that made the company successful." },
+        { "distractor": "contentious", "closeness": 2, "reasoning": "Contentious would mean the merger provoked argument, but the sentence measures its effect by what it destroyed, not by who fought over it." },
+        { "distractor": "reversible", "closeness": 2, "reasoning": "Reversibility suggests the culture could be restored, while the sentence says what made the company successful was destroyed." },
+        { "distractor": "salutary", "closeness": 1, "reasoning": "Salutary means beneficial, the opposite of an effect that eliminated the source of the company's success." },
+        { "distractor": "negligible", "closeness": 1, "reasoning": "Negligible means too small to matter, which cannot describe the destruction of an organization's culture." },
+        { "distractor": "restorative", "closeness": 1, "reasoning": "Restorative means healing or bringing something back, and nothing was brought back here." }
+      ]
+    },
+    {
+      "sentence": "The impact was cataclysmic enough to end the long reign of the dinosaurs and to leave a thin layer of ash in rock on every continent.",
+      "answerChoices": [
+        { "distractor": "seismic", "closeness": 3, "reasoning": "Seismic refers to the shaking of the earth, which would not by itself lay ash down on every continent or end an entire order of life." },
+        { "distractor": "indelible", "closeness": 3, "reasoning": "Indelible describes something that cannot be erased, and while the ash layer persists, the word says nothing about the destruction that ended the dinosaurs." },
+        { "distractor": "anomalous", "closeness": 3, "reasoning": "Anomalous means merely unlike other cases, a label that leaves the extinction and the worldwide ash unexplained." },
+        { "distractor": "protracted", "closeness": 3, "reasoning": "Protracted means drawn out over a long period, but the sentence describes a single impact whose consequences followed from it." },
+        { "distractor": "volcanic", "closeness": 2, "reasoning": "Ash suggests volcanoes, yet the sentence identifies the cause as an impact, so the adjective would misstate what happened." },
+        { "distractor": "audible", "closeness": 2, "reasoning": "Audible describes what could be heard, and the evidence the sentence offers is an extinction and a layer preserved in rock." },
+        { "distractor": "theoretical", "closeness": 2, "reasoning": "Theoretical implies the event is only supposed, while the sentence points to ash physically present in rock everywhere." },
+        { "distractor": "localized", "closeness": 2, "reasoning": "Localized is contradicted by an ash layer found on every continent." },
+        { "distractor": "harmless", "closeness": 1, "reasoning": "Harmlessness is impossible for an event credited with ending the dinosaurs." },
+        { "distractor": "fertile", "closeness": 1, "reasoning": "Fertile suggests the encouragement of life, the reverse of a mass extinction." },
+        { "distractor": "imperceptible", "closeness": 1, "reasoning": "Nothing imperceptible leaves a layer in the rock record of the entire planet." }
+      ]
+    },
+    {
+      "sentence": "The election that commentators had spent a year calling cataclysmic shifted, in the end, a grand total of four seats.",
+      "answerChoices": [
+        { "distractor": "decisive", "closeness": 3, "reasoning": "A decisive election settles a contested question, and the joke of the sentence is not that nothing was settled but that the predicted scale of destruction never materialized — four seats changed hands." },
+        { "distractor": "unprecedented", "closeness": 3, "reasoning": "Unprecedented would only claim the election was unlike earlier ones, whereas the punchline turns on how small the actual upheaval proved to be." },
+        { "distractor": "divisive", "closeness": 3, "reasoning": "Divisive describes how the campaign split the electorate, which the four-seat result does nothing to deflate; the deflated prediction concerns magnitude of change." },
+        { "distractor": "imminent", "closeness": 3, "reasoning": "Imminent concerns timing, but the commentators were wrong about consequence, not about when the vote would occur." },
+        { "distractor": "fraudulent", "closeness": 2, "reasoning": "Fraud would be an accusation about how votes were counted, and the sentence contrasts predictions with the modest number of seats that actually moved." },
+        { "distractor": "compulsory", "closeness": 2, "reasoning": "Compulsory voting is a rule about turnout, unrelated to the year of dire forecasts the sentence mocks." },
+        { "distractor": "overdue", "closeness": 2, "reasoning": "Overdue would say the election came late, not that its predicted effects were wildly overstated." },
+        { "distractor": "expensive", "closeness": 2, "reasoning": "Cost has no bearing on a sentence whose measure of the outcome is the number of seats that changed." },
+        { "distractor": "routine", "closeness": 1, "reasoning": "Commentators would not spend a year warning about something routine; the sentence needs a word they could later be shown to have exaggerated." },
+        { "distractor": "trivial", "closeness": 1, "reasoning": "Calling it trivial for a year would make the four-seat result a confirmation rather than the anticlimax the sentence presents." },
+        { "distractor": "uncontested", "closeness": 1, "reasoning": "An uncontested election would have no seats shifting at all and would give commentators nothing to predict." }
+      ]
+    }
+  ]
+}

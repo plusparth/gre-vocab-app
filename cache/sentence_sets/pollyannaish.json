@@ -1,0 +1,53 @@
+{
+  "word": "pollyannaish",
+  "sentenceSets": [
+    {
+      "sentence": "The forecast struck the board as pollyannaish, since it assumed record sales in each of the next five quarters and no competitor response at all.",
+      "answerChoices": [
+        { "distractor": "optimistic", "closeness": 3, "reasoning": "The sentence does not merely say the forecast leaned hopeful; it shows the projection ignoring competitors entirely, which marks a refusal to see anything unfavorable rather than a cheerful reading of real odds." },
+        { "distractor": "ambitious", "closeness": 3, "reasoning": "An ambitious forecast would set a hard target and acknowledge what stands in the way, but this one erases the obstacle by assuming no competitor reacts." },
+        { "distractor": "speculative", "closeness": 3, "reasoning": "Speculative projections admit their own uncertainty, whereas the board's objection is that this one treats an unbroken run of records as settled." },
+        { "distractor": "aggressive", "closeness": 3, "reasoning": "An aggressive plan pushes hard against known resistance, and the flaw here is that the plan does not register resistance in the first place." },
+        { "distractor": "provisional", "closeness": 2, "reasoning": "A provisional figure is offered subject to revision, which would not have troubled the board the way an unqualified five-quarter run of records did." },
+        { "distractor": "meticulous", "closeness": 2, "reasoning": "Meticulous work would have accounted for competitor response rather than omitting it." },
+        { "distractor": "obsolete", "closeness": 2, "reasoning": "The complaint concerns assumptions about the future, not that the forecast was built on outdated information." },
+        { "distractor": "confidential", "closeness": 2, "reasoning": "Confidentiality concerns who may see the forecast and has nothing to do with the board's objection to its assumptions." },
+        { "distractor": "pessimistic", "closeness": 1, "reasoning": "A forecast assuming record sales every quarter is the opposite of gloomy." },
+        { "distractor": "fraudulent", "closeness": 1, "reasoning": "The board faults the assumptions as unrealistically rosy, not as deliberately falsified." },
+        { "distractor": "waterlogged", "closeness": 1, "reasoning": "A physical condition of saturation cannot describe a sales forecast." }
+      ]
+    },
+    {
+      "sentence": "After the third flood, the mayor's pollyannaish insistence that the town had been lucky each time began to exhaust even his supporters.",
+      "answerChoices": [
+        { "distractor": "cheerful", "closeness": 3, "reasoning": "Cheerfulness is a mood, but the sentence describes him making a claim about the facts, namely that three floods amounted to luck, which is a determined reading of misfortune as good fortune." },
+        { "distractor": "stubborn", "closeness": 3, "reasoning": "Stubbornness is captured already by 'insistence'; what wears on his supporters is the particular content of what he insists on, that repeated disaster counts as good fortune." },
+        { "distractor": "evasive", "closeness": 3, "reasoning": "An evasive mayor would avoid characterizing the floods at all, while this one keeps offering a positive account of them." },
+        { "distractor": "complacent", "closeness": 3, "reasoning": "Complacency is satisfaction that leads to inaction, but the sentence shows him actively and repeatedly asserting a favorable interpretation." },
+        { "distractor": "belligerent", "closeness": 2, "reasoning": "He is tiring his own supporters with reassurance, not attacking anyone." },
+        { "distractor": "cryptic", "closeness": 2, "reasoning": "His claim is perfectly clear, which is precisely why it grates after a third flood." },
+        { "distractor": "apologetic", "closeness": 2, "reasoning": "An apologetic mayor would accept blame, whereas this one is calling the town lucky." },
+        { "distractor": "litigious", "closeness": 2, "reasoning": "Nothing in the sentence involves lawsuits or claims against anyone." },
+        { "distractor": "morose", "closeness": 1, "reasoning": "Calling three floods a run of luck is incompatible with gloom." },
+        { "distractor": "alarmist", "closeness": 1, "reasoning": "An alarmist would magnify the danger, the opposite of insisting the town got off lightly." },
+        { "distractor": "nautical", "closeness": 1, "reasoning": "Relating to ships and sailing has no bearing on the mayor's attitude, flood or no flood." }
+      ]
+    },
+    {
+      "sentence": "Critics dismissed the documentary as pollyannaish for ending on a single restored wetland while leaving the drained ten thousand acres offscreen.",
+      "answerChoices": [
+        { "distractor": "sentimental", "closeness": 3, "reasoning": "Sentimentality is an excess of feeling, but the objection here is structural: the film shows one recovery and withholds the vastly larger loss, producing a falsely hopeful picture." },
+        { "distractor": "selective", "closeness": 3, "reasoning": "'Selective' names the omission without saying which way it tilts, yet the critics' complaint is specifically that the choice leaves viewers with an unwarrantedly bright impression." },
+        { "distractor": "superficial", "closeness": 3, "reasoning": "Superficiality is a failure to go deep, whereas this film's flaw is a slant, since it goes deep on the one wetland it chose to show." },
+        { "distractor": "propagandistic", "closeness": 3, "reasoning": "Propaganda serves an identified sponsor's interest, but the sentence attributes the ending only to a rosy framing, with no beneficiary named." },
+        { "distractor": "meandering", "closeness": 2, "reasoning": "The film's ending is described as pointedly focused on one site rather than as wandering." },
+        { "distractor": "derivative", "closeness": 2, "reasoning": "Nothing suggests the documentary copied earlier work; the charge concerns what it left offscreen." },
+        { "distractor": "unauthorized", "closeness": 2, "reasoning": "Permission to film is never at issue in the critics' objection." },
+        { "distractor": "interminable", "closeness": 2, "reasoning": "The complaint is about the content of the ending, not about the film's length." },
+        { "distractor": "harrowing", "closeness": 1, "reasoning": "A harrowing film would confront viewers with the ten thousand drained acres instead of closing on a restoration." },
+        { "distractor": "cynical", "closeness": 1, "reasoning": "Cynicism assumes the worst, the opposite of a closing image that suggests recovery is underway." },
+        { "distractor": "subterranean", "closeness": 1, "reasoning": "Existing below ground is a physical description and cannot characterize a documentary's outlook." }
+      ]
+    }
+  ]
+}

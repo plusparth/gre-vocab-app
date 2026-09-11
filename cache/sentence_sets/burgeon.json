@@ -1,0 +1,53 @@
+{
+  "word": "burgeon",
+  "sentenceSets": [
+    {
+      "sentence": "New startups began to burgeon in the district once the tax incentives were announced.",
+      "answerChoices": [
+        { "distractor": "proliferate", "closeness": 3, "reasoning": "Proliferate stresses multiplication in sheer number, often with a hint of things getting out of hand, while the sentence presents a district coming to life after favorable conditions were created for it." },
+        { "distractor": "flourish", "closeness": 3, "reasoning": "Flourishing describes established firms thriving, but these are new startups only beginning to appear after the announcement." },
+        { "distractor": "multiply", "closeness": 3, "reasoning": "Multiplying requires an existing base to double from, whereas the incentives are drawing fresh ventures into a district that lacked them." },
+        { "distractor": "mushroom", "closeness": 3, "reasoning": "Mushrooming implies sudden, almost overnight appearance, which overstates a response to a policy that firms would take time to act on." },
+        { "distractor": "consolidate", "closeness": 2, "reasoning": "Consolidating means merging into fewer entities, which would reduce the number of startups rather than fill the district with them." },
+        { "distractor": "relocate", "closeness": 2, "reasoning": "Relocating says only that firms moved, leaving out the growth in activity the sentence attributes to the incentives." },
+        { "distractor": "compete", "closeness": 2, "reasoning": "Competing describes how firms behave toward one another, not the increase in their number after the tax announcement." },
+        { "distractor": "register", "closeness": 2, "reasoning": "Registering is a paperwork step and would not by itself describe the district's transformation." },
+        { "distractor": "wither", "closeness": 1, "reasoning": "Withering is decline, the opposite of what favorable tax treatment produced." },
+        { "distractor": "dissolve", "closeness": 1, "reasoning": "Dissolving means companies shutting down, contradicting the effect of the incentives." },
+        { "distractor": "evacuate", "closeness": 1, "reasoning": "Evacuating means leaving the district, the reverse of the movement the announcement caused." }
+      ]
+    },
+    {
+      "sentence": "By late March the bare hedgerows had begun to burgeon, and the lane was green again within a fortnight.",
+      "answerChoices": [
+        { "distractor": "blossom", "closeness": 3, "reasoning": "Blossoming means producing flowers, but the sentence's result is greenery filling the lane, which is leaf and shoot rather than bloom." },
+        { "distractor": "ripen", "closeness": 3, "reasoning": "Ripening happens to fruit at the end of a season, while this is late March and the hedgerows are only starting out from bareness." },
+        { "distractor": "swell", "closeness": 3, "reasoning": "Swelling describes buds thickening in place, which falls short of the new growth that turned the whole lane green." },
+        { "distractor": "sprawl", "closeness": 3, "reasoning": "Sprawling describes spreading untidily over ground, but the change here is vertical new growth on bare hedges over a fortnight." },
+        { "distractor": "thaw", "closeness": 2, "reasoning": "Thawing is ice melting, which might precede the change but is not something hedgerows themselves do." },
+        { "distractor": "creep", "closeness": 2, "reasoning": "Creeping describes slow spreading movement, at odds with hedges that turned the lane green in two weeks." },
+        { "distractor": "sway", "closeness": 2, "reasoning": "Swaying is motion in the wind and would not account for the lane becoming green again." },
+        { "distractor": "harden", "closeness": 2, "reasoning": "Hardening is what wood does as it matures, not what bare hedgerows do at the start of spring." },
+        { "distractor": "wilt", "closeness": 1, "reasoning": "Wilting is drooping from lack of water, contradicting a lane that turned green." },
+        { "distractor": "shed", "closeness": 1, "reasoning": "Shedding drops leaves, the reverse of hedgerows greening in March." },
+        { "distractor": "petrify", "closeness": 1, "reasoning": "Petrifying turns things to stone and has nothing to do with seasonal growth." }
+      ]
+    },
+    {
+      "sentence": "What began as a single reading group burgeoned into a network of forty chapters across the province.",
+      "answerChoices": [
+        { "distractor": "expanded", "closeness": 3, "reasoning": "Expanded is a flat report of increased size, while the sentence traces organic outgrowth from one small group into forty, which conveys growth the founders did not engineer." },
+        { "distractor": "evolved", "closeness": 3, "reasoning": "Evolving means changing in kind over time, but the reading group did not become something different; there are simply forty of it now." },
+        { "distractor": "fragmented", "closeness": 3, "reasoning": "Fragmenting means splitting apart into unconnected pieces, whereas the forty chapters form a single network." },
+        { "distractor": "escalated", "closeness": 3, "reasoning": "Escalating applies to conflicts or demands intensifying, which misfits a voluntary reading group spreading across a province." },
+        { "distractor": "dwindled", "closeness": 2, "reasoning": "Dwindling is shrinking, which cannot lead from one group to forty chapters." },
+        { "distractor": "relocated", "closeness": 2, "reasoning": "Relocating moves an organization without increasing it, contradicting the growth to forty chapters." },
+        { "distractor": "dissolved", "closeness": 2, "reasoning": "Dissolving would end the group rather than produce a provincial network." },
+        { "distractor": "stabilized", "closeness": 2, "reasoning": "Stabilizing implies holding steady, at odds with movement from one group to forty." },
+        { "distractor": "collapsed", "closeness": 1, "reasoning": "Collapsing is failure, the opposite of a network spanning the province." },
+        { "distractor": "stagnated", "closeness": 1, "reasoning": "Stagnating means no growth at all, contradicting the forty chapters." },
+        { "distractor": "retreated", "closeness": 1, "reasoning": "Retreating is pulling back, which cannot describe expansion into a province-wide network." }
+      ]
+    }
+  ]
+}

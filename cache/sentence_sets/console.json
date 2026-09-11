@@ -1,0 +1,53 @@
+{
+  "word": "console",
+  "sentenceSets": [
+    {
+      "sentence": "Friends tried to console her, but the loss was too recent and too large for comfort to penetrate.",
+      "answerChoices": [
+        { "distractor": "soothe", "closeness": 3, "reasoning": "Soothing works on agitation or physical discomfort, whereas the sentence describes a recent and large loss that friends are addressing directly." },
+        { "distractor": "reassure", "closeness": 3, "reasoning": "Reassuring removes doubt about something uncertain, but nothing in the sentence is in question; a loss has already happened." },
+        { "distractor": "calm", "closeness": 3, "reasoning": "Calming implies she was agitated, yet the sentence describes grief so deep that nothing reached her, not visible distress to be settled." },
+        { "distractor": "cheer", "closeness": 3, "reasoning": "Cheering aims at raising spirits toward gladness, which is a bigger and less apt ambition than what friends attempt in the immediate wake of a loss." },
+        { "distractor": "advise", "closeness": 2, "reasoning": "Advising offers guidance on a decision, but the sentence presents a bereavement rather than a problem to be solved." },
+        { "distractor": "pity", "closeness": 2, "reasoning": "Pitying is a feeling held about someone, not an effort directed at her that could fail to penetrate." },
+        { "distractor": "accompany", "closeness": 2, "reasoning": "Accompanying describes being present, which the sentence treats as given since the friends are already there trying something." },
+        { "distractor": "congratulate", "closeness": 2, "reasoning": "Congratulating responds to good fortune, contradicting a recent and large loss." },
+        { "distractor": "abandon", "closeness": 1, "reasoning": "Abandoning contradicts friends who tried to help." },
+        { "distractor": "mock", "closeness": 1, "reasoning": "Mocking is incompatible with friends acting kindly after a bereavement." },
+        { "distractor": "upset", "closeness": 1, "reasoning": "Upsetting her would add to the grief the friends are trying to relieve." }
+      ]
+    },
+    {
+      "sentence": "He had no words that could console the boy, so he sat on the step beside him until the rain stopped.",
+      "answerChoices": [
+        { "distractor": "encourage", "closeness": 3, "reasoning": "Encouraging pushes someone toward an action or effort, but the man's response is to sit silently through the rain rather than to spur the boy to do anything." },
+        { "distractor": "hearten", "closeness": 3, "reasoning": "Heartening restores courage for a task ahead, whereas the sentence shows a boy who needs company in the present moment." },
+        { "distractor": "counsel", "closeness": 3, "reasoning": "Counselling supplies guidance, which would be precisely the sort of words the man discovers he does not have, yet the sentence implies what was missing was solace rather than advice." },
+        { "distractor": "distract", "closeness": 3, "reasoning": "Distracting would pull the boy's attention elsewhere, but sitting wordlessly beside him does the opposite of diverting him." },
+        { "distractor": "scold", "closeness": 2, "reasoning": "Scolding is reproach, at odds with a man who chooses to sit quietly beside the boy." },
+        { "distractor": "instruct", "closeness": 2, "reasoning": "Instructing conveys information, which cannot be what the man's wordless vigil on the step supplies." },
+        { "distractor": "question", "closeness": 2, "reasoning": "Questioning seeks information from the boy, while the sentence describes the man trying to give him something." },
+        { "distractor": "entertain", "closeness": 2, "reasoning": "Entertaining amuses, which sits badly with a boy on a step in the rain needing to be reached." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Ignoring contradicts a man who sits beside the boy until the rain stops." },
+        { "distractor": "ridicule", "closeness": 1, "reasoning": "Ridiculing conflicts with the silent kindness the second clause describes." },
+        { "distractor": "dismiss", "closeness": 1, "reasoning": "Dismissing the boy would end the scene the sentence goes on to describe." }
+      ]
+    },
+    {
+      "sentence": "No amount of prize money could console the runner who had fallen on the final turn.",
+      "answerChoices": [
+        { "distractor": "placate", "closeness": 3, "reasoning": "Placating calms someone who is angry at another party, but the runner's misfortune is a fall, with no one to be angry at." },
+        { "distractor": "appease", "closeness": 3, "reasoning": "Appeasing yields to demands, and the runner has made none; she has simply lost the race after falling." },
+        { "distractor": "mollify", "closeness": 3, "reasoning": "Mollifying softens temper, whereas the sentence describes a loss suffered rather than an offense taken." },
+        { "distractor": "satisfy", "closeness": 3, "reasoning": "Satisfying would mean meeting a want or requirement, but money that arrives after a fall in the final turn addresses grief, not an unmet demand." },
+        { "distractor": "compensate", "closeness": 2, "reasoning": "Compensating repays a measurable loss, yet the sentence's point is that a sum of money cannot answer what the fall cost her." },
+        { "distractor": "motivate", "closeness": 2, "reasoning": "Motivating looks toward future effort, while the sentence stays with the aftermath of the race just lost." },
+        { "distractor": "impress", "closeness": 2, "reasoning": "Impressing concerns admiration, which has no bearing on a runner who has just fallen." },
+        { "distractor": "enrich", "closeness": 2, "reasoning": "Enriching is exactly what prize money would do, which makes the sentence's 'no amount could' clause nonsensical." },
+        { "distractor": "injure", "closeness": 1, "reasoning": "Injuring adds harm rather than answering the fall the sentence describes." },
+        { "distractor": "disqualify", "closeness": 1, "reasoning": "Disqualifying is a ruling, not something prize money could do to a runner." },
+        { "distractor": "humiliate", "closeness": 1, "reasoning": "Humiliating compounds the fall instead of easing it." }
+      ]
+    }
+  ]
+}

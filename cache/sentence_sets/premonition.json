@@ -1,0 +1,53 @@
+{
+  "word": "premonition",
+  "sentenceSets": [
+    {
+      "sentence": "She had a premonition about the meeting that she could not articulate but that kept her from sleeping the night before.",
+      "answerChoices": [
+        { "distractor": "hunch", "closeness": 3, "reasoning": "A hunch is a guess one could state if asked, but she cannot put this into words at all, and it disturbs her sleep rather than merely inclining her toward a view." },
+        { "distractor": "suspicion", "closeness": 3, "reasoning": "A suspicion has an object one could name, such as a person or a motive, whereas hers is inarticulate and attaches only to what the meeting will bring." },
+        { "distractor": "recollection", "closeness": 3, "reasoning": "A recollection reaches backward, but this concerns a meeting that has not yet happened." },
+        { "distractor": "anxiety", "closeness": 3, "reasoning": "Anxiety is a diffuse state of dread with no particular outcome in view, while hers fastens onto one meeting and arrives before it as a kind of forewarning." },
+        { "distractor": "grievance", "closeness": 2, "reasoning": "A grievance is a complaint about a past wrong and would be easy to articulate." },
+        { "distractor": "resolution", "closeness": 2, "reasoning": "A resolution is a decision one has made, but she has formed no plan; she has lost a night's sleep." },
+        { "distractor": "insomnia", "closeness": 2, "reasoning": "Insomnia is the sleeplessness itself, which the sentence gives as the effect of what she had rather than its name." },
+        { "distractor": "obligation", "closeness": 2, "reasoning": "An obligation is a duty one owes and would be perfectly articulable." },
+        { "distractor": "certainty", "closeness": 1, "reasoning": "Something she could not articulate is the opposite of a settled certainty." },
+        { "distractor": "reassurance", "closeness": 1, "reasoning": "Reassurance would have let her sleep rather than keeping her awake." },
+        { "distractor": "invitation", "closeness": 1, "reasoning": "An invitation is a written or spoken request to attend and would present no difficulty in articulating." }
+      ]
+    },
+    {
+      "sentence": "Her mother turned back at the platform, seized by a premonition, and so missed the train that derailed outside Bristol.",
+      "answerChoices": [
+        { "distractor": "foreboding", "closeness": 3, "reasoning": "Foreboding is a persisting atmosphere of dread, but this arrived suddenly enough to seize her mid-departure and to change her course on the spot." },
+        { "distractor": "superstition", "closeness": 3, "reasoning": "A superstition is a standing belief held in advance, whereas what stopped her came over her at the platform in that moment." },
+        { "distractor": "hallucination", "closeness": 3, "reasoning": "A hallucination is a false perception of something present, while she perceived nothing and simply knew to turn back." },
+        { "distractor": "impulse", "closeness": 3, "reasoning": "An impulse is a bare urge to act with no reference to what lies ahead, but the sentence's point is that what she felt anticipated the derailment." },
+        { "distractor": "migraine", "closeness": 2, "reasoning": "A headache would explain abandoning a journey but not the sentence's implied connection to the crash she avoided." },
+        { "distractor": "errand", "closeness": 2, "reasoning": "An errand is a task to run, which would not be described as seizing someone." },
+        { "distractor": "telegram", "closeness": 2, "reasoning": "A telegram is an external message that would have given her explicit information rather than an unexplained sense." },
+        { "distractor": "nostalgia", "closeness": 2, "reasoning": "Nostalgia longs for the past and would not turn someone back from a train about to crash." },
+        { "distractor": "hindsight", "closeness": 1, "reasoning": "Hindsight comes only after the event, but she acted before the derailment." },
+        { "distractor": "souvenir", "closeness": 1, "reasoning": "A keepsake is an object and cannot seize a person on a platform." },
+        { "distractor": "timetable", "closeness": 1, "reasoning": "A schedule of departures would have sent her toward the train rather than away from it." }
+      ]
+    },
+    {
+      "sentence": "Fifty pages in, the rotting orchard and the unanswered telephone work on the reader as a premonition of the violence in the final chapter.",
+      "answerChoices": [
+        { "distractor": "foreshadowing", "closeness": 3, "reasoning": "Foreshadowing names the author's technique, but the sentence says these images 'work on the reader,' locating the effect in the reader's own sense of what is coming." },
+        { "distractor": "allegory", "closeness": 3, "reasoning": "An allegory makes each element stand for something in a parallel scheme, whereas the orchard and telephone create a sense of dread about what the book will later do." },
+        { "distractor": "metaphor", "closeness": 3, "reasoning": "A metaphor identifies one thing with another, but these details point forward in time toward the final chapter rather than standing in for anything now." },
+        { "distractor": "flashback", "closeness": 3, "reasoning": "A flashback returns to earlier events, while these images anticipate the ending." },
+        { "distractor": "denouement", "closeness": 2, "reasoning": "The denouement is the unwinding after the climax, but these details appear fifty pages in, long before the violence." },
+        { "distractor": "epigraph", "closeness": 2, "reasoning": "An epigraph is a quotation placed before the text begins, not imagery encountered fifty pages into it." },
+        { "distractor": "digression", "closeness": 2, "reasoning": "A digression is a detour from the story, whereas these images are doing work that points toward its end." },
+        { "distractor": "caricature", "closeness": 2, "reasoning": "A caricature exaggerates a person's traits and does not apply to an orchard and a telephone." },
+        { "distractor": "reassurance", "closeness": 1, "reasoning": "A rotting orchard and an unanswered telephone preparing the reader for violence cannot be a comfort." },
+        { "distractor": "footnote", "closeness": 1, "reasoning": "A footnote is a bibliographic or explanatory note and is not an effect worked on a reader by imagery." },
+        { "distractor": "typography", "closeness": 1, "reasoning": "The arrangement of type is a matter of design rather than of what the images convey." }
+      ]
+    }
+  ]
+}

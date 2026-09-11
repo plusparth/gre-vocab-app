@@ -1,0 +1,53 @@
+{
+  "word": "burgeoning",
+  "sentenceSets": [
+    {
+      "sentence": "The burgeoning demand for skilled technicians outpaced the supply, driving salaries upward rapidly.",
+      "answerChoices": [
+        { "distractor": "steady", "closeness": 3, "reasoning": "Steady demand would rise predictably and let training programs keep pace, but this demand outran supply fast enough to push salaries up rapidly." },
+        { "distractor": "persistent", "closeness": 3, "reasoning": "Persistent describes demand that simply does not go away, which by itself would not create the widening gap the sentence reports." },
+        { "distractor": "volatile", "closeness": 3, "reasoning": "Volatile demand swings up and down, yet the sentence describes movement in one direction that leaves supply behind." },
+        { "distractor": "unmet", "closeness": 3, "reasoning": "Unmet names the result the sentence already states separately, that supply fell short, rather than the increase in demand that caused it." },
+        { "distractor": "seasonal", "closeness": 2, "reasoning": "Seasonal demand rises and falls on a calendar and would not push wages up on a lasting basis." },
+        { "distractor": "regional", "closeness": 2, "reasoning": "Regional describes where the demand is located, not the growth that outstripped the available workers." },
+        { "distractor": "speculative", "closeness": 2, "reasoning": "Speculative implies the demand may not be real, contradicting salaries that are actually rising." },
+        { "distractor": "artificial", "closeness": 2, "reasoning": "Artificial suggests demand manufactured by policy or hype, and the sentence offers no such cause." },
+        { "distractor": "shrinking", "closeness": 1, "reasoning": "Shrinking demand would push salaries down rather than up." },
+        { "distractor": "negligible", "closeness": 1, "reasoning": "Negligible demand could not outpace any supply." },
+        { "distractor": "obsolete", "closeness": 1, "reasoning": "Obsolete would mean the technicians were no longer needed, contradicting rising pay." }
+      ]
+    },
+    {
+      "sentence": "She spent her twenties tending a burgeoning career and let nearly everything else in her life go untended.",
+      "answerChoices": [
+        { "distractor": "demanding", "closeness": 3, "reasoning": "Demanding describes what a job takes from a person, but the sentence pairs the career with a decade of tending, which is language for something growing under her care." },
+        { "distractor": "lucrative", "closeness": 3, "reasoning": "Lucrative concerns money earned, and nothing in the sentence measures her career in pay rather than in growth." },
+        { "distractor": "precarious", "closeness": 3, "reasoning": "Precarious implies the career might collapse, which does not explain a decade of steady cultivation." },
+        { "distractor": "fledgling", "closeness": 3, "reasoning": "Fledgling marks a career as newly begun and still small, while the sentence covers her whole twenties and describes something she was feeding as it grew." },
+        { "distractor": "conventional", "closeness": 2, "reasoning": "Conventional describes the kind of path chosen and says nothing about the growth that consumed her attention." },
+        { "distractor": "solitary", "closeness": 2, "reasoning": "Solitary would describe how she worked, whereas the sentence contrasts the career's development with the parts of her life she neglected." },
+        { "distractor": "brief", "closeness": 2, "reasoning": "Brief conflicts with a career she tended across an entire decade." },
+        { "distractor": "unpaid", "closeness": 2, "reasoning": "Unpaid introduces a financial detail the sentence never raises about the work she devoted her twenties to." },
+        { "distractor": "stalled", "closeness": 1, "reasoning": "A stalled career is going nowhere, which would not repay a decade of tending." },
+        { "distractor": "ruined", "closeness": 1, "reasoning": "A ruined career is finished, contradicting the effort she poured into it through her twenties." },
+        { "distractor": "imaginary", "closeness": 1, "reasoning": "An imaginary career could not have occupied the years the sentence says it did." }
+      ]
+    },
+    {
+      "sentence": "Photographs from 1955 show a burgeoning suburb where cattle had grazed five years before.",
+      "answerChoices": [
+        { "distractor": "sprawling", "closeness": 3, "reasoning": "Sprawling describes a settlement that has already spread wide, while the photographs catch a place still in the act of filling in the pasture." },
+        { "distractor": "prosperous", "closeness": 3, "reasoning": "Prosperous concerns wealth, but the comparison the sentence draws is with grazing land five years earlier, a matter of growth rather than income." },
+        { "distractor": "planned", "closeness": 3, "reasoning": "Planned describes how the suburb was laid out, which a photograph of former pasture does not establish." },
+        { "distractor": "crowded", "closeness": 3, "reasoning": "Crowded implies too many people for the space, whereas a five-year-old suburb on old pasture is expanding into room it still has." },
+        { "distractor": "derelict", "closeness": 2, "reasoning": "Derelict means abandoned and decayed, which cannot describe a place that did not exist five years earlier." },
+        { "distractor": "historic", "closeness": 2, "reasoning": "Historic implies age and significance, at odds with houses built on land that was pasture in 1950." },
+        { "distractor": "fortified", "closeness": 2, "reasoning": "Fortified means defended with walls, which has no bearing on suburban construction replacing grazing land." },
+        { "distractor": "coastal", "closeness": 2, "reasoning": "Coastal describes location, and the sentence's only geographic detail is that cattle used to graze there." },
+        { "distractor": "vanishing", "closeness": 1, "reasoning": "Vanishing is the opposite of a suburb that has appeared where a pasture was." },
+        { "distractor": "ancient", "closeness": 1, "reasoning": "Ancient contradicts a settlement younger than five years in the photographs." },
+        { "distractor": "deserted", "closeness": 1, "reasoning": "Deserted would mean nobody lives there, which conflicts with a suburb replacing farmland in that decade." }
+      ]
+    }
+  ]
+}

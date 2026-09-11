@@ -1,0 +1,53 @@
+{
+  "word": "condemn",
+  "sentenceSets": [
+    {
+      "sentence": "The international community moved swiftly to condemn the attack, issuing a joint statement within hours.",
+      "answerChoices": [
+        { "distractor": "denounce", "closeness": 3, "reasoning": "Denouncing points a finger at a named wrongdoer, while the joint statement in the sentence is directed at the attack itself and no perpetrator is identified." },
+        { "distractor": "decry", "closeness": 3, "reasoning": "Decrying expresses public lament over a situation, but the swift formal statement described here carries the weight of a verdict rather than an outcry." },
+        { "distractor": "protest", "closeness": 3, "reasoning": "Protesting implies objecting to something being done to you or your interests, whereas the sentence shows a collective body passing judgment on an event." },
+        { "distractor": "deplore", "closeness": 3, "reasoning": "Deploring registers regret at a misfortune, which would understate a formal joint statement issued within hours of an attack." },
+        { "distractor": "investigate", "closeness": 2, "reasoning": "Investigating takes time and withholds judgment, contradicting a response that arrived within hours in the form of a statement." },
+        { "distractor": "retaliate", "closeness": 2, "reasoning": "Retaliating means striking back, but the sentence's only action is the issuing of a statement." },
+        { "distractor": "acknowledge", "closeness": 2, "reasoning": "Acknowledging merely registers that the attack occurred, which would not require the community to move swiftly and jointly." },
+        { "distractor": "mourn", "closeness": 2, "reasoning": "Mourning honors victims, whereas a joint diplomatic statement about an attack is an act of judgment against it." },
+        { "distractor": "endorse", "closeness": 1, "reasoning": "Endorsing the attack is the opposite of what a joint international statement issued within hours would do." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Ignoring is incompatible with moving swiftly to issue a statement." },
+        { "distractor": "commemorate", "closeness": 1, "reasoning": "Commemorating marks an anniversary, which cannot happen within hours of the event." }
+      ]
+    },
+    {
+      "sentence": "City inspectors condemned the tenement after finding that the load-bearing walls had shifted several inches since the last survey.",
+      "answerChoices": [
+        { "distractor": "vacated", "closeness": 3, "reasoning": "Vacating describes emptying the building of people, which is a consequence of the inspectors' finding rather than the official ruling that the structure could not be used." },
+        { "distractor": "demolished", "closeness": 3, "reasoning": "Demolishing is physical destruction, but inspectors issue findings and orders rather than swinging wrecking balls." },
+        { "distractor": "quarantined", "closeness": 3, "reasoning": "Quarantining isolates a site because of contagion, while the danger here is structural movement in load-bearing walls." },
+        { "distractor": "cited", "closeness": 3, "reasoning": "Citing issues a violation notice that a landlord can cure, which understates walls that have shifted several inches and make the building unusable." },
+        { "distractor": "renovated", "closeness": 2, "reasoning": "Renovating would be the owner's remedy, not the inspectors' act upon discovering the shift." },
+        { "distractor": "surveyed", "closeness": 2, "reasoning": "Surveying is what produced the comparison in the sentence, so it cannot also be the action taken after the finding." },
+        { "distractor": "purchased", "closeness": 2, "reasoning": "Purchasing has no place in a sentence about inspectors responding to a structural hazard." },
+        { "distractor": "reinforced", "closeness": 2, "reasoning": "Reinforcing repairs the walls, which is construction work rather than an inspector's response to a failed inspection." },
+        { "distractor": "commended", "closeness": 1, "reasoning": "Commending praises, which makes no sense for a building whose walls have moved several inches." },
+        { "distractor": "insured", "closeness": 1, "reasoning": "Insuring is a financial transaction unrelated to the inspectors' authority in this sentence." },
+        { "distractor": "advertised", "closeness": 1, "reasoning": "Advertising a structurally unsound tenement contradicts the hazard the inspectors uncovered." }
+      ]
+    },
+    {
+      "sentence": "A single mistranslated clause condemned the treaty's signatories to forty years of litigation over fishing rights.",
+      "answerChoices": [
+        { "distractor": "doomed", "closeness": 3, "reasoning": "Dooming implies an unavoidable catastrophe, but the sentence describes a long legal grind traceable to a specific clause, not a fate beyond remedy." },
+        { "distractor": "subjected", "closeness": 3, "reasoning": "Subjected would require the preposition 'to' in a different construction of blame and lacks the sense of a sentence imposed by the clause on the parties." },
+        { "distractor": "committed", "closeness": 3, "reasoning": "Committing implies the signatories bound themselves willingly, whereas the sentence blames a mistranslation nobody intended." },
+        { "distractor": "obligated", "closeness": 3, "reasoning": "Obligating creates a duty the parties must perform, but litigation over fishing rights is a burden that befell them rather than a duty they owe." },
+        { "distractor": "invited", "closeness": 2, "reasoning": "Inviting suggests the signatories brought the litigation on themselves knowingly, which a mistranslation rules out." },
+        { "distractor": "prepared", "closeness": 2, "reasoning": "Preparing suggests readiness for what came, contradicting a clause whose error went unnoticed." },
+        { "distractor": "exposed", "closeness": 2, "reasoning": "Exposing implies risk of something that might happen, but the sentence reports forty years of litigation as an accomplished fact." },
+        { "distractor": "reconciled", "closeness": 2, "reasoning": "Reconciling would have ended the dispute, not started four decades of it." },
+        { "distractor": "spared", "closeness": 1, "reasoning": "Sparing the signatories is the opposite of leaving them in court for forty years." },
+        { "distractor": "rewarded", "closeness": 1, "reasoning": "Rewarding cannot describe the imposition of decades of litigation." },
+        { "distractor": "translated", "closeness": 1, "reasoning": "Translating is what went wrong in the clause, not what the clause did to the signatories." }
+      ]
+    }
+  ]
+}

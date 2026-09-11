@@ -1,0 +1,53 @@
+{
+  "word": "poseur",
+  "sentenceSets": [
+    {
+      "sentence": "The poseur's attempt to project deep familiarity with the subject collapsed under the first specific question.",
+      "answerChoices": [
+        { "distractor": "novice", "closeness": 3, "reasoning": "A novice makes no claim to deep familiarity, but this person was actively 'projecting' one, which means the failure exposed a pretense rather than an admitted inexperience." },
+        { "distractor": "amateur", "closeness": 3, "reasoning": "An amateur pursues a subject without professional standing and need not pretend to anything, whereas the collapse here follows from an attempt to seem expert." },
+        { "distractor": "charlatan", "closeness": 3, "reasoning": "A charlatan pretends in order to defraud someone, but the sentence describes only a bid for the appearance of knowledge, with no victim or gain in sight." },
+        { "distractor": "dilettante", "closeness": 3, "reasoning": "A dilettante dabbles for pleasure and is often candid about doing so, while this person's downfall was a claim to depth he could not support." },
+        { "distractor": "skeptic", "closeness": 2, "reasoning": "A skeptic doubts claims rather than making unsupportable ones, and it was this person's own assertion that collapsed." },
+        { "distractor": "interlocutor", "closeness": 2, "reasoning": "'Interlocutor' merely names a participant in conversation and says nothing about the false display the sentence describes." },
+        { "distractor": "apprentice", "closeness": 2, "reasoning": "An apprentice is openly learning under supervision, which is incompatible with projecting mastery." },
+        { "distractor": "critic", "closeness": 2, "reasoning": "A critic evaluates the work of others, but the person here was fielding a question about the subject and failing it." },
+        { "distractor": "authority", "closeness": 1, "reasoning": "A genuine authority would have answered the specific question rather than collapsing under it." },
+        { "distractor": "custodian", "closeness": 1, "reasoning": "A custodian looks after a building and has no bearing on a claim to expertise." },
+        { "distractor": "benefactor", "closeness": 1, "reasoning": "A benefactor gives financial support, which is unrelated to pretending to know a subject." }
+      ]
+    },
+    {
+      "sentence": "He carried an unread copy of the novel through three parties, which convinced the hostess that she had a poseur in her kitchen.",
+      "answerChoices": [
+        { "distractor": "impostor", "closeness": 3, "reasoning": "An impostor passes as a specific other person, but this man is only carrying a book to be seen with it; no assumed identity is involved." },
+        { "distractor": "hypocrite", "closeness": 3, "reasoning": "A hypocrite preaches one standard and lives by another, whereas nothing here concerns morality, only a display of taste he has not earned." },
+        { "distractor": "pedant", "closeness": 3, "reasoning": "A pedant parades real if tedious knowledge, and the damning detail is precisely that the copy is unread." },
+        { "distractor": "gossip", "closeness": 3, "reasoning": "A gossip trades in talk about other people, but the hostess's judgment rests on a prop he carried rather than on anything he said about anyone." },
+        { "distractor": "gatecrasher", "closeness": 2, "reasoning": "A gatecrasher attends uninvited, and his presence at the parties is not what she objects to; it is the book." },
+        { "distractor": "librarian", "closeness": 2, "reasoning": "A librarian's job would make carrying books unremarkable rather than revealing." },
+        { "distractor": "recluse", "closeness": 2, "reasoning": "A recluse avoids company, yet this man went to three parties." },
+        { "distractor": "raconteur", "closeness": 2, "reasoning": "A raconteur entertains with well-told stories, but the sentence gives him no stories at all, only an unopened prop." },
+        { "distractor": "scholar", "closeness": 1, "reasoning": "A scholar would have read the novel, which is the one thing the sentence says he did not do." },
+        { "distractor": "philanthropist", "closeness": 1, "reasoning": "Charitable giving has nothing to do with carrying an unread book to parties." },
+        { "distractor": "arsonist", "closeness": 1, "reasoning": "Setting fires is wholly outside the social judgment the hostess is making." }
+      ]
+    },
+    {
+      "sentence": "Two decades on, the guitarist is still dismissed as a poseur by purists who cannot forgive him for learning the tradition from records rather than from his grandfather.",
+      "answerChoices": [
+        { "distractor": "interloper", "closeness": 3, "reasoning": "An interloper is resented for intruding where he does not belong, but the purists' complaint is about the authenticity of the manner he presents, since the charge has survived twenty years of his actually playing." },
+        { "distractor": "imitator", "closeness": 3, "reasoning": "An imitator copies a particular predecessor, while the grievance here is that he adopted a whole tradition's stance without having been born into it." },
+        { "distractor": "apostate", "closeness": 3, "reasoning": "An apostate abandons a faith he once held, whereas this guitarist is accused of never having genuinely belonged in the first place." },
+        { "distractor": "revisionist", "closeness": 3, "reasoning": "A revisionist reinterprets the tradition's content, but the sentence's objection concerns how he came to it rather than any change he made to it." },
+        { "distractor": "virtuoso", "closeness": 2, "reasoning": "'Virtuoso' is a term of praise, and the sentence says he is being dismissed." },
+        { "distractor": "archivist", "closeness": 2, "reasoning": "An archivist preserves records, while this man learned from records in order to perform." },
+        { "distractor": "apprentice", "closeness": 2, "reasoning": "Apprenticeship would mean training under a master, which the grandfather route describes and which he explicitly lacked." },
+        { "distractor": "patron", "closeness": 2, "reasoning": "A patron funds artists rather than plays, and the sentence is about how he learned to play." },
+        { "distractor": "heir", "closeness": 1, "reasoning": "Being an heir to the tradition through a grandfather is exactly the credential the purists say he lacks." },
+        { "distractor": "luthier", "closeness": 1, "reasoning": "A luthier builds instruments, but the dispute concerns how the guitarist learned to play one." },
+        { "distractor": "cartographer", "closeness": 1, "reasoning": "Mapmaking belongs to an unrelated field entirely." }
+      ]
+    }
+  ]
+}

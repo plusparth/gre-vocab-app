@@ -1,0 +1,53 @@
+{
+  "word": "presentiment",
+  "sentenceSets": [
+    {
+      "sentence": "A vague presentiment of difficulty preceded the announcement, though no one could have specified where it came from.",
+      "answerChoices": [
+        { "distractor": "rumor", "closeness": 3, "reasoning": "A rumor travels as a report someone passes on, so its source could at least be traced back a step, whereas this arose without anyone able to say where it came from." },
+        { "distractor": "suspicion", "closeness": 3, "reasoning": "A suspicion is directed at a particular person or act, but what preceded the announcement is described as vague and unattached to anything nameable." },
+        { "distractor": "consensus", "closeness": 3, "reasoning": "A consensus is an agreement people arrive at by talking, while nobody here could even locate the origin of the feeling." },
+        { "distractor": "warning", "closeness": 3, "reasoning": "A warning is issued by someone to someone, which would give it exactly the identifiable source the sentence says was missing." },
+        { "distractor": "grievance", "closeness": 2, "reasoning": "A grievance concerns a wrong already suffered, but this came before the announcement and anticipated trouble." },
+        { "distractor": "consequence", "closeness": 2, "reasoning": "A consequence follows an event, while this preceded the announcement." },
+        { "distractor": "memorandum", "closeness": 2, "reasoning": "A memorandum is a document with an author and a date, which is incompatible with something no one could trace." },
+        { "distractor": "calculation", "closeness": 2, "reasoning": "A calculation proceeds from stated inputs, whereas the sentence stresses that nothing specifiable lay behind this." },
+        { "distractor": "certainty", "closeness": 1, "reasoning": "The sentence calls it vague, which rules out anything held with certainty." },
+        { "distractor": "aftermath", "closeness": 1, "reasoning": "An aftermath comes after, contradicting the word 'preceded.'" },
+        { "distractor": "invoice", "closeness": 1, "reasoning": "A demand for payment is a document and could not be described as vague or untraceable in origin." }
+      ]
+    },
+    {
+      "sentence": "Sailors on the old route kept a superstition about gulls flying inland, but the captain's own presentiment came from nothing so nameable.",
+      "answerChoices": [
+        { "distractor": "omen", "closeness": 3, "reasoning": "An omen is an outward sign like the gulls, and the sentence sets the captain's feeling against exactly that kind of nameable cue." },
+        { "distractor": "conviction", "closeness": 3, "reasoning": "A conviction is a settled belief one can state and defend, but the captain's came from nothing he could name." },
+        { "distractor": "calculation", "closeness": 3, "reasoning": "A calculation rests on identifiable inputs, which the sentence explicitly denies him." },
+        { "distractor": "premise", "closeness": 3, "reasoning": "A premise is a stated starting point in an argument, whereas the captain's sense has no articulable ground at all." },
+        { "distractor": "superstition", "closeness": 2, "reasoning": "The sentence assigns superstition to the other sailors and contrasts the captain's experience with it." },
+        { "distractor": "manifest", "closeness": 2, "reasoning": "A manifest is the ship's cargo list, which is a document rather than an inward sense." },
+        { "distractor": "mutiny", "closeness": 2, "reasoning": "A mutiny is a revolt by the crew, not something a captain has that comes from an unnameable source." },
+        { "distractor": "bearing", "closeness": 2, "reasoning": "A bearing is a navigational direction taken from instruments, which would be entirely nameable." },
+        { "distractor": "memory", "closeness": 1, "reasoning": "A memory reaches into the past, but the contrast with gull omens shows the captain's feeling concerned what lay ahead." },
+        { "distractor": "anchorage", "closeness": 1, "reasoning": "A place to anchor is a location rather than something a captain feels." },
+        { "distractor": "barnacle", "closeness": 1, "reasoning": "A shellfish on a hull has no relation to an inward sense of what is coming." }
+      ]
+    },
+    {
+      "sentence": "He answered the telephone at four in the morning with the flat voice of a man whose presentiment the call had merely confirmed.",
+      "answerChoices": [
+        { "distractor": "expectation", "closeness": 3, "reasoning": "An expectation rests on known grounds, such as an appointment or a promise, but a flat voice at four in the morning suggests he had been braced by something he could not have justified." },
+        { "distractor": "diagnosis", "closeness": 3, "reasoning": "A diagnosis is an expert judgment about a present condition, while what the call confirmed concerned an event he had sensed was coming." },
+        { "distractor": "accusation", "closeness": 3, "reasoning": "An accusation is a charge made against someone, but the call confirms something he had felt rather than something he had alleged." },
+        { "distractor": "resolve", "closeness": 3, "reasoning": "Resolve is a determination to act, which a telephone call could not confirm or disconfirm." },
+        { "distractor": "insomnia", "closeness": 2, "reasoning": "Sleeplessness would explain his being awake but not the flatness of a man already braced for the news." },
+        { "distractor": "alibi", "closeness": 2, "reasoning": "An alibi accounts for one's whereabouts and has no bearing on how he received the call." },
+        { "distractor": "confession", "closeness": 2, "reasoning": "A confession is something one utters, and the sentence describes him receiving news rather than admitting anything." },
+        { "distractor": "itinerary", "closeness": 2, "reasoning": "A schedule of travel could be confirmed by a call, but it would not account for the flat voice of a man who already knew." },
+        { "distractor": "astonishment", "closeness": 1, "reasoning": "His flat voice is the sentence's evidence that the news did not astonish him." },
+        { "distractor": "oblivion", "closeness": 1, "reasoning": "Being unaware is contradicted by the call merely confirming what he already sensed." },
+        { "distractor": "thermostat", "closeness": 1, "reasoning": "A device regulating temperature cannot be confirmed by a telephone call." }
+      ]
+    }
+  ]
+}

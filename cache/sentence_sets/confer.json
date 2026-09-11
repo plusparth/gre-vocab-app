@@ -1,0 +1,53 @@
+{
+  "word": "confer",
+  "sentenceSets": [
+    {
+      "sentence": "The two experts conferred privately before presenting their joint recommendation to the committee.",
+      "answerChoices": [
+        { "distractor": "consulted", "closeness": 3, "reasoning": "Consulting usually means going to an authority for advice, but the sentence sets two experts of equal standing beside each other working toward a shared position." },
+        { "distractor": "huddled", "closeness": 3, "reasoning": "Huddling suggests a hurried, informal clustering, which sits oddly with a deliberate private exchange that produced a formal joint recommendation." },
+        { "distractor": "conspired", "closeness": 3, "reasoning": "Conspiring implies a secret plot against someone, yet the experts take their conclusion openly to the committee immediately afterward." },
+        { "distractor": "strategized", "closeness": 3, "reasoning": "Strategizing means planning tactics to achieve an aim, whereas the sentence shows them arriving at a shared substantive recommendation rather than plotting how to sell it." },
+        { "distractor": "rehearsed", "closeness": 2, "reasoning": "Rehearsing would mean practicing a presentation already written, but the sentence puts their private exchange before the recommendation exists as a joint one." },
+        { "distractor": "argued", "closeness": 2, "reasoning": "Arguing emphasizes disagreement, which is hard to square with the joint recommendation they produce moments later." },
+        { "distractor": "corresponded", "closeness": 2, "reasoning": "Corresponding implies an exchange of letters or messages over time, while the sentence locates the exchange in the interval just before the meeting." },
+        { "distractor": "negotiated", "closeness": 2, "reasoning": "Negotiating requires competing interests to trade concessions, but both experts are advising the same committee." },
+        { "distractor": "presented", "closeness": 1, "reasoning": "Presenting is the very act the sentence says came afterward, in front of the committee rather than privately." },
+        { "distractor": "disbanded", "closeness": 1, "reasoning": "Disbanding would end their collaboration, contradicting the joint recommendation that follows." },
+        { "distractor": "testified", "closeness": 1, "reasoning": "Testifying is public sworn statement, the opposite of a private exchange." }
+      ]
+    },
+    {
+      "sentence": "Before answering the reporter's question, the mayor conferred briefly with her chief of staff, who had the latest figures.",
+      "answerChoices": [
+        { "distractor": "checked", "closeness": 3, "reasoning": "Checking with someone means verifying a fact you already have, but the sentence indicates the mayor lacked the latest figures and needed her aide's input before she could answer." },
+        { "distractor": "whispered", "closeness": 3, "reasoning": "Whispering describes only the volume of speech, whereas the point of the pause is that information passed between them before the answer." },
+        { "distractor": "coordinated", "closeness": 3, "reasoning": "Coordinating means aligning separate activities, but the two are not carrying out parallel tasks; the aide holds numbers the mayor needs on the spot." },
+        { "distractor": "debated", "closeness": 3, "reasoning": "Debating implies opposing positions being contested, which does not fit an aide supplying figures to her own boss." },
+        { "distractor": "agreed", "closeness": 2, "reasoning": "Agreeing names an outcome rather than the exchange itself, and nothing in the sentence says the two had a disagreement to settle." },
+        { "distractor": "sparred", "closeness": 2, "reasoning": "Sparring suggests combative back-and-forth, which clashes with a staff member handing over data on request." },
+        { "distractor": "gestured", "closeness": 2, "reasoning": "Gesturing is wordless signaling, too thin a channel for transmitting the latest figures." },
+        { "distractor": "joked", "closeness": 2, "reasoning": "Joking has no bearing on a pause taken specifically to get numbers before answering a reporter." },
+        { "distractor": "quarreled", "closeness": 1, "reasoning": "Quarreling with her own chief of staff in front of a reporter contradicts the brief, purposeful pause described." },
+        { "distractor": "dined", "closeness": 1, "reasoning": "Dining cannot happen briefly in the middle of answering a reporter's question." },
+        { "distractor": "parted", "closeness": 1, "reasoning": "Parting would end the encounter rather than produce the information the mayor needed." }
+      ]
+    },
+    {
+      "sentence": "The three captains conferred over a spread of charts for most of the night but could not settle on a landing site.",
+      "answerChoices": [
+        { "distractor": "pored", "closeness": 3, "reasoning": "Poring over charts describes solitary close reading, but the sentence turns on three people trying and failing to reach a shared decision." },
+        { "distractor": "deliberated", "closeness": 3, "reasoning": "Deliberating implies a formal weighing of options by a body with authority to decide, whereas the sentence shows three peers talking through the night with no verdict reached." },
+        { "distractor": "wrangled", "closeness": 3, "reasoning": "Wrangling stresses noisy dispute, yet the sentence reports only that they failed to agree, not that the night was acrimonious." },
+        { "distractor": "labored", "closeness": 3, "reasoning": "Laboring over the charts describes effort expended on the documents themselves rather than the exchange among the three captains that the failure to agree presupposes." },
+        { "distractor": "puzzled", "closeness": 2, "reasoning": "Puzzling over the charts would locate the difficulty in reading them, but the sentence says the obstacle was settling on a site." },
+        { "distractor": "fussed", "closeness": 2, "reasoning": "Fussing implies trivial fretting, too slight for a night-long effort to choose a landing site." },
+        { "distractor": "agonized", "closeness": 2, "reasoning": "Agonizing suggests inner torment, while the sentence describes three people working on the problem together." },
+        { "distractor": "fretted", "closeness": 2, "reasoning": "Fretting is anxious worrying rather than the exchange of views a three-way deadlock implies." },
+        { "distractor": "grieved", "closeness": 1, "reasoning": "Grieving over charts makes no sense in a sentence about choosing where to land." },
+        { "distractor": "gloated", "closeness": 1, "reasoning": "Gloating requires a victory, and the captains reach no conclusion at all." },
+        { "distractor": "reminisced", "closeness": 1, "reasoning": "Reminiscing looks backward, whereas the captains are trying to decide something ahead of them." }
+      ]
+    }
+  ]
+}

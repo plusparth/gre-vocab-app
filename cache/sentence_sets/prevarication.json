@@ -1,0 +1,53 @@
+{
+  "word": "prevarication",
+  "sentenceSets": [
+    {
+      "sentence": "His prevarication on the central question made every adjacent answer unreliable.",
+      "answerChoices": [
+        { "distractor": "hesitation", "closeness": 3, "reasoning": "A pause before answering would say nothing about whether the surrounding answers were true, but the sentence draws exactly that inference, which requires that he shaded the truth rather than merely stalled." },
+        { "distractor": "silence", "closeness": 3, "reasoning": "Saying nothing at all on the central question would leave a gap, whereas the sentence treats what he gave as an answer that contaminated the others." },
+        { "distractor": "confusion", "closeness": 3, "reasoning": "Confusion is an innocent failure to keep things straight, which would make his answers unhelpful rather than untrustworthy." },
+        { "distractor": "digression", "closeness": 3, "reasoning": "A digression wanders off the subject, but the sentence locates the problem in what he said 'on the central question' itself." },
+        { "distractor": "brevity", "closeness": 2, "reasoning": "Shortness of answer gives no reason to doubt the adjacent ones." },
+        { "distractor": "arrogance", "closeness": 2, "reasoning": "Arrogance is a manner rather than a defect that would spread doubt across his other answers." },
+        { "distractor": "ignorance", "closeness": 2, "reasoning": "Not knowing the answer would limit his usefulness without implying that his other statements were unreliable." },
+        { "distractor": "generosity", "closeness": 2, "reasoning": "Openhandedness has no bearing on the truthfulness of testimony." },
+        { "distractor": "candor", "closeness": 1, "reasoning": "Frankness on the central question would have strengthened confidence in the rest rather than undermining it." },
+        { "distractor": "precision", "closeness": 1, "reasoning": "An exact answer would have made the adjacent ones more credible, not less." },
+        { "distractor": "punctuality", "closeness": 1, "reasoning": "Arriving on time has nothing to do with the reliability of what someone says." }
+      ]
+    },
+    {
+      "sentence": "Six months of prevarication about the leak ended when a technician produced the maintenance log at the inquiry.",
+      "answerChoices": [
+        { "distractor": "denial", "closeness": 3, "reasoning": "Flat denial is a clear negative claim, but six months of it would have ended in a simple contradiction, whereas the sentence implies a drawn-out course of shifting and half-true accounts that only a document could pin down." },
+        { "distractor": "delay", "closeness": 3, "reasoning": "Delay is a matter of timing alone, yet the sentence says the log ended what had been going on, which means the six months were filled with statements the log refuted." },
+        { "distractor": "negligence", "closeness": 3, "reasoning": "Negligence would concern the failure to fix the leak, but what the maintenance log put a stop to was the account being given about it." },
+        { "distractor": "litigation", "closeness": 3, "reasoning": "Litigation is a court proceeding, and the setting here is an inquiry where a document finally settled a disputed account." },
+        { "distractor": "excavation", "closeness": 2, "reasoning": "Digging would be work done on the leak itself rather than something a log could bring to an end." },
+        { "distractor": "publicity", "closeness": 2, "reasoning": "Publicity would spread information, whereas the log is what finally supplied it." },
+        { "distractor": "arbitration", "closeness": 2, "reasoning": "Arbitration is a process for settling a dispute between parties, not something a single produced document concludes." },
+        { "distractor": "renovation", "closeness": 2, "reasoning": "Rebuilding work would be halted by circumstances rather than by a technician's testimony at an inquiry." },
+        { "distractor": "transparency", "closeness": 1, "reasoning": "Openness for six months would have made the log unnecessary." },
+        { "distractor": "disclosure", "closeness": 1, "reasoning": "Disclosure is what the technician provided, not what preceded him for half a year." },
+        { "distractor": "hydration", "closeness": 1, "reasoning": "Taking in water is a bodily process and cannot be ended by a maintenance record." }
+      ]
+    },
+    {
+      "sentence": "The memoir is honest about the affair and about the money, and its only prevarication concerns who first suggested leaving the country.",
+      "answerChoices": [
+        { "distractor": "omission", "closeness": 3, "reasoning": "An omission leaves something out, but the sentence says this passage 'concerns' the question of who suggested leaving, meaning the book addresses it and shades the answer." },
+        { "distractor": "inaccuracy", "closeness": 3, "reasoning": "An inaccuracy can be an innocent slip, whereas the contrast with a book otherwise 'honest' marks this single passage as a deliberate swerve from the truth." },
+        { "distractor": "obscurity", "closeness": 3, "reasoning": "Obscurity would mean the passage is hard to follow, but the sentence implies the reader can tell exactly what claim is being made and that it is shaded." },
+        { "distractor": "digression", "closeness": 3, "reasoning": "A digression is a departure into another subject, and this is instead a claim on one of the memoir's own central questions." },
+        { "distractor": "apology", "closeness": 2, "reasoning": "An apology expresses regret, but the point at issue is an account of who proposed the departure." },
+        { "distractor": "footnote", "closeness": 2, "reasoning": "A footnote is a formal feature of a book rather than a departure from honesty." },
+        { "distractor": "epilogue", "closeness": 2, "reasoning": "An epilogue is a closing section, not a defect the sentence sets against the memoir's honesty." },
+        { "distractor": "royalty", "closeness": 2, "reasoning": "Payments to an author have nothing to do with the truthfulness of a passage." },
+        { "distractor": "confession", "closeness": 1, "reasoning": "A confession would be of a piece with the honesty about the affair and the money rather than the exception to it." },
+        { "distractor": "frankness", "closeness": 1, "reasoning": "The sentence sets this passage against the book's honesty, so it cannot itself be frankness." },
+        { "distractor": "photograph", "closeness": 1, "reasoning": "An image reproduced in a book is not a way of handling the truth of a claim." }
+      ]
+    }
+  ]
+}

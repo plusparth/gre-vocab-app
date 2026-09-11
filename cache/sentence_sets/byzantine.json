@@ -1,0 +1,53 @@
+{
+  "word": "byzantine",
+  "sentenceSets": [
+    {
+      "sentence": "The byzantine approval process frustrated even experienced applicants, who could never learn how many offices a file had to pass through.",
+      "answerChoices": [
+        { "distractor": "convoluted", "closeness": 3, "reasoning": "Convoluted describes something twisted and hard to follow, but the applicants' particular complaint is that they cannot map the hidden chain of offices, which points to intricacy compounded by secrecy." },
+        { "distractor": "rigorous", "closeness": 3, "reasoning": "A rigorous process is demanding but transparent about its standards, whereas these applicants cannot even discover where their file goes." },
+        { "distractor": "protracted", "closeness": 3, "reasoning": "Protracted means merely long, while the frustration described comes from the number and opacity of the offices involved rather than from elapsed time." },
+        { "distractor": "arbitrary", "closeness": 3, "reasoning": "Arbitrary means decided without consistent rules, yet the sentence suggests there are many rules and stages, just too many to trace." },
+        { "distractor": "antiquated", "closeness": 2, "reasoning": "Antiquated would make the process old-fashioned, a charge the sentence never levels; the difficulty lies in its structure, not its age." },
+        { "distractor": "expensive", "closeness": 2, "reasoning": "Expensive concerns cost, and no fees appear anywhere in the applicants' complaint." },
+        { "distractor": "selective", "closeness": 2, "reasoning": "Selective means few applicants succeed, but the frustration here is procedural rather than a matter of low acceptance." },
+        { "distractor": "inconsistent", "closeness": 2, "reasoning": "Inconsistent would mean different applicants meet different standards, while these applicants share one maze of offices." },
+        { "distractor": "streamlined", "closeness": 1, "reasoning": "Streamlined means simplified to a minimum of steps, contradicting a file that passes through untold offices." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "Transparent would mean applicants could see exactly where their file stood, which the sentence denies." },
+        { "distractor": "effortless", "closeness": 1, "reasoning": "Effortless conflicts with a process that frustrates even seasoned applicants." }
+      ]
+    },
+    {
+      "sentence": "Untangling the estate required three years of litigation, so byzantine were the trusts the old man had layered one inside another.",
+      "answerChoices": [
+        { "distractor": "intricate", "closeness": 3, "reasoning": "Intricate praises fine complexity of design, but three years of litigation to untangle nested trusts suggests a complexity that obstructs rather than delights." },
+        { "distractor": "fraudulent", "closeness": 3, "reasoning": "Fraudulent would mean the trusts were illegal, an accusation the sentence never makes about structures that merely took years to unravel." },
+        { "distractor": "obscure", "closeness": 3, "reasoning": "Obscure means hard to perceive or little known, while the problem here is the layering of one instrument inside another rather than anything being hidden from view." },
+        { "distractor": "voluminous", "closeness": 3, "reasoning": "Voluminous points to sheer quantity of paper, whereas the sentence emphasizes how the trusts were nested within one another." },
+        { "distractor": "archaic", "closeness": 2, "reasoning": "Archaic would mean the instruments used outdated forms, which has nothing to do with their being layered inside each other." },
+        { "distractor": "contested", "closeness": 2, "reasoning": "Contested describes the litigation itself, not the quality of the trusts that made the litigation last three years." },
+        { "distractor": "generous", "closeness": 2, "reasoning": "Generous concerns how much the trusts gave away, which is irrelevant to the difficulty of untangling them." },
+        { "distractor": "informal", "closeness": 2, "reasoning": "Informal suggests casual arrangements, at odds with layered trusts drafted to nest within one another." },
+        { "distractor": "straightforward", "closeness": 1, "reasoning": "Straightforward is the opposite of an estate that took three years of litigation to sort out." },
+        { "distractor": "modest", "closeness": 1, "reasoning": "Modest describes size and would not explain years of legal work." },
+        { "distractor": "verbal", "closeness": 1, "reasoning": "Verbal trusts would leave no layered documents to untangle at all." }
+      ]
+    },
+    {
+      "sentence": "Readers abandoned the novel halfway through, defeated by a byzantine plot in which every character turned out to be someone else's informant.",
+      "answerChoices": [
+        { "distractor": "labyrinthine", "closeness": 3, "reasoning": "Labyrinthine emphasizes getting lost in passages, while what defeats these readers is a web of concealed allegiances in which everyone secretly reports on everyone else." },
+        { "distractor": "meandering", "closeness": 3, "reasoning": "Meandering implies a plot that wanders without direction, but this one is densely wired with hidden connections rather than aimless." },
+        { "distractor": "predictable", "closeness": 3, "reasoning": "Predictable would mean readers saw the turns coming, which cannot be why they gave up halfway defeated." },
+        { "distractor": "derivative", "closeness": 3, "reasoning": "Derivative means copied from other books, a charge unrelated to the tangle of informants the sentence describes." },
+        { "distractor": "grim", "closeness": 2, "reasoning": "Grim describes mood, and the readers quit from being defeated by the plot's construction rather than depressed by its tone." },
+        { "distractor": "lengthy", "closeness": 2, "reasoning": "Lengthy would explain quitting halfway only as fatigue, not as defeat by a structure of hidden allegiances." },
+        { "distractor": "explicit", "closeness": 2, "reasoning": "Explicit concerns frankness about sex or violence, which the sentence never raises." },
+        { "distractor": "experimental", "closeness": 2, "reasoning": "Experimental would point to unconventional form, whereas the difficulty lies in who is secretly reporting on whom." },
+        { "distractor": "transparent", "closeness": 1, "reasoning": "A transparent plot would be easy to follow, contradicting readers defeated halfway through." },
+        { "distractor": "slight", "closeness": 1, "reasoning": "Slight means thin and simple, at odds with a novel in which every character conceals a second role." },
+        { "distractor": "wholesome", "closeness": 1, "reasoning": "Wholesome describes moral tone and cannot explain why a plot proved impossible to follow." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "politesse",
+  "sentenceSets": [
+    {
+      "sentence": "The politesse of the official exchange concealed the depth of the disagreement beneath it.",
+      "answerChoices": [
+        { "distractor": "civility", "closeness": 3, "reasoning": "Civility is the baseline of not being rude, but the exchange is 'official,' and what conceals the rift is the elaborate observance of form that such occasions impose rather than mere restraint." },
+        { "distractor": "cordiality", "closeness": 3, "reasoning": "Cordiality implies genuine warmth, which the sentence contradicts by placing deep disagreement directly beneath the surface." },
+        { "distractor": "tact", "closeness": 3, "reasoning": "Tact is a sensitivity to what would wound, exercised by a person, whereas the sentence attributes the concealing quality to the exchange itself as a formal occasion." },
+        { "distractor": "diplomacy", "closeness": 3, "reasoning": "Diplomacy names the skill of managing a dispute, but the sentence says nothing was managed; the disagreement remained as deep as before and was merely hidden." },
+        { "distractor": "candor", "closeness": 2, "reasoning": "Candor would have exposed the disagreement rather than concealing it." },
+        { "distractor": "levity", "closeness": 2, "reasoning": "Levity is lightness and joking, which does not fit an exchange described as official." },
+        { "distractor": "brevity", "closeness": 2, "reasoning": "Shortness by itself would not hide a disagreement, and the sentence attributes the concealment to the exchange's manner." },
+        { "distractor": "protocol", "closeness": 2, "reasoning": "Protocol is the set of rules governing such an occasion, but what conceals the rift is the courteous manner the participants displayed, not the rulebook itself." },
+        { "distractor": "hostility", "closeness": 1, "reasoning": "Open hostility would have revealed the disagreement rather than hiding it." },
+        { "distractor": "vulgarity", "closeness": 1, "reasoning": "Vulgarity is coarseness, which is incompatible with an exchange that kept a smooth official surface." },
+        { "distractor": "insolence", "closeness": 1, "reasoning": "Insolence is contemptuous disrespect and could not be what concealed a rift in an official setting." }
+      ]
+    },
+    {
+      "sentence": "Her grandmother had drilled a rigid politesse into her: the standing when an elder entered, the handwritten note within three days, the second helping refused once before accepted.",
+      "answerChoices": [
+        { "distractor": "etiquette", "closeness": 3, "reasoning": "Etiquette names the code of rules itself, but the sentence describes something drilled into a person until it governs her conduct, which is a cultivated manner rather than a list she consults." },
+        { "distractor": "discipline", "closeness": 3, "reasoning": "The habits listed all govern how one treats other people in company, whereas discipline concerns self-control for its own sake and would not explain why every example involves a guest or an elder." },
+        { "distractor": "deference", "closeness": 3, "reasoning": "Deference is submission to someone's superior standing, which fits the standing for an elder but not the handwritten note or the ritual of refusing a second helping." },
+        { "distractor": "piety", "closeness": 3, "reasoning": "Piety concerns religious or filial devotion, and none of the three examples involves worship or duty to a parent." },
+        { "distractor": "pedantry", "closeness": 2, "reasoning": "Pedantry is fussiness over minor points of learning, while these rules govern social conduct at the table and the door." },
+        { "distractor": "frugality", "closeness": 2, "reasoning": "Refusing the second helping once before accepting is a ritual of manners, not an economy, since she accepts it in the end." },
+        { "distractor": "nostalgia", "closeness": 2, "reasoning": "Nostalgia is a longing for the past, but the grandmother is imposing present rules of conduct." },
+        { "distractor": "superstition", "closeness": 2, "reasoning": "Superstition attributes hidden consequences to actions, whereas these customs are openly about how to behave before others." },
+        { "distractor": "boorishness", "closeness": 1, "reasoning": "Boorishness is exactly what this training was meant to prevent." },
+        { "distractor": "spontaneity", "closeness": 1, "reasoning": "The sentence stresses rigidity and fixed intervals, which is the opposite of acting on impulse." },
+        { "distractor": "amnesia", "closeness": 1, "reasoning": "A loss of memory has nothing to do with a code of conduct being instilled." }
+      ]
+    },
+    {
+      "sentence": "Foreign traders learned quickly that no contract advanced until they had mastered the politesse expected in the merchants' guildhall.",
+      "answerChoices": [
+        { "distractor": "decorum", "closeness": 3, "reasoning": "Decorum is what a setting demands as appropriate, but the sentence describes something the traders must 'master' in their own bearing toward the guild members, which is a performed courtesy rather than a standard the room sets." },
+        { "distractor": "jargon", "closeness": 3, "reasoning": "Jargon is specialized vocabulary, and the sentence describes something 'expected' as conduct in the hall rather than a technical language." },
+        { "distractor": "hierarchy", "closeness": 3, "reasoning": "A hierarchy is a structure of rank one can learn about, but the sentence requires the traders to master something they must themselves perform before contracts move." },
+        { "distractor": "bookkeeping", "closeness": 3, "reasoning": "Bookkeeping is a commercial skill, yet the sentence makes the obstacle something 'expected in the guildhall' as a condition of being dealt with at all." },
+        { "distractor": "dialect", "closeness": 2, "reasoning": "A dialect is a regional form of speech, and the sentence ties the requirement to the guildhall as an institution rather than to a locality's language." },
+        { "distractor": "arbitration", "closeness": 2, "reasoning": "Arbitration settles disputes that have already arisen, while here nothing has gone wrong; contracts simply have not yet begun to move." },
+        { "distractor": "liturgy", "closeness": 2, "reasoning": "Liturgy is the fixed order of religious worship, which does not belong in a merchants' guildhall." },
+        { "distractor": "cartography", "closeness": 2, "reasoning": "Mapmaking might matter to traders at sea but has no bearing on advancing a contract inside a hall." },
+        { "distractor": "rudeness", "closeness": 1, "reasoning": "Mastering rudeness would hinder rather than advance dealings with the guild." },
+        { "distractor": "sabotage", "closeness": 1, "reasoning": "Sabotage destroys an undertaking, the opposite of what the traders need to get contracts moving." },
+        { "distractor": "humidity", "closeness": 1, "reasoning": "A property of air cannot be something traders master to do business." }
+      ]
+    }
+  ]
+}

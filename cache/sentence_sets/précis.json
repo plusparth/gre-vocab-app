@@ -1,0 +1,53 @@
+{
+  "word": "précis",
+  "sentenceSets": [
+    {
+      "sentence": "The editor asked for a two-hundred-word précis of the manuscript before she would commit to reading all six hundred pages.",
+      "answerChoices": [
+        { "distractor": "synopsis", "closeness": 3, "reasoning": "A synopsis conventionally traces the story's events in order, but an editor deciding whether to invest in six hundred pages wants the whole work compressed to its essentials rather than a plot walkthrough." },
+        { "distractor": "excerpt", "closeness": 3, "reasoning": "An excerpt would give her two hundred words lifted from one place, which tells her nothing about what the other pages contain." },
+        { "distractor": "blurb", "closeness": 3, "reasoning": "A blurb is promotional copy written to sell a finished book to buyers, while this is requested privately to inform an editorial decision." },
+        { "distractor": "prologue", "closeness": 3, "reasoning": "A prologue is part of the manuscript itself and would be one more thing to read rather than a condensation of the whole." },
+        { "distractor": "dedication", "closeness": 2, "reasoning": "A dedication names the person the book honors and says nothing about its contents." },
+        { "distractor": "manifesto", "closeness": 2, "reasoning": "A manifesto declares a program of intent, whereas the editor wants to learn what the existing manuscript contains." },
+        { "distractor": "epigraph", "closeness": 2, "reasoning": "An epigraph is a quotation set at the head of a work and does not summarize it." },
+        { "distractor": "contract", "closeness": 2, "reasoning": "A contract would follow a decision to publish, and she has not yet agreed even to read the book." },
+        { "distractor": "sequel", "closeness": 1, "reasoning": "A sequel is a further book entirely, not a shorter account of this one." },
+        { "distractor": "amplification", "closeness": 1, "reasoning": "Amplifying makes a text longer, defeating the purpose of a two-hundred-word request." },
+        { "distractor": "typeface", "closeness": 1, "reasoning": "The design of letters has nothing to do with what the editor is asking to be written." }
+      ]
+    },
+    {
+      "sentence": "Every treaty in the archive is filed with a French-language précis prepared by the clerk who first received it.",
+      "answerChoices": [
+        { "distractor": "abstract", "closeness": 3, "reasoning": "An abstract is normally composed by the document's own author and travels with it from the start, but these were written afterward by the receiving clerk as a finding aid." },
+        { "distractor": "translation", "closeness": 3, "reasoning": "A translation renders the treaty's full text into another language, whereas one clerk producing a filing companion for every treaty implies a short condensed account." },
+        { "distractor": "transcription", "closeness": 3, "reasoning": "A transcription copies the document out at full length, which would double the archive rather than aid searching it." },
+        { "distractor": "annotation", "closeness": 3, "reasoning": "Annotations are remarks keyed to particular passages, not a single freestanding document filed alongside the treaty." },
+        { "distractor": "ratification", "closeness": 2, "reasoning": "Ratification is the formal act of approving a treaty, performed by a state rather than by a clerk at intake." },
+        { "distractor": "addendum", "closeness": 2, "reasoning": "An addendum adds new terms to the agreement itself and could not be the clerk's own work." },
+        { "distractor": "seal", "closeness": 2, "reasoning": "A seal authenticates a document but conveys none of its content." },
+        { "distractor": "receipt", "closeness": 2, "reasoning": "A receipt acknowledges that something arrived without describing what it says." },
+        { "distractor": "forgery", "closeness": 1, "reasoning": "A forgery is a fraudulent document, which an archive would not routinely file with every treaty as a matter of procedure." },
+        { "distractor": "expansion", "closeness": 1, "reasoning": "Lengthening each treaty would serve no archival purpose." },
+        { "distractor": "chandelier", "closeness": 1, "reasoning": "A light fixture cannot be filed with a document." }
+      ]
+    },
+    {
+      "sentence": "He could not write a précis to save his life, returning from every assignment with a summary longer than the article itself.",
+      "answerChoices": [
+        { "distractor": "abridgment", "closeness": 3, "reasoning": "An abridgment shortens a work by cutting passages out of it, but the task he keeps failing is to restate an article's essentials in his own compact account." },
+        { "distractor": "caption", "closeness": 3, "reasoning": "A caption labels an image and is not produced by reading an article." },
+        { "distractor": "headline", "closeness": 3, "reasoning": "A headline names the story in a phrase, whereas his failure is producing prose that runs longer than the source, which implies the assignment was a condensed account of it." },
+        { "distractor": "critique", "closeness": 3, "reasoning": "A critique judges the article's merits, and length would not be the measure of its failure in the way the sentence makes it." },
+        { "distractor": "rebuttal", "closeness": 2, "reasoning": "A rebuttal argues against the article, but his assignments involve reporting what it says." },
+        { "distractor": "citation", "closeness": 2, "reasoning": "A citation records where a source may be found and could never exceed an article in length." },
+        { "distractor": "interview", "closeness": 2, "reasoning": "An interview is conducted with a person, not produced by reading an article." },
+        { "distractor": "footnote", "closeness": 2, "reasoning": "A footnote supplies a small aside and is not the whole product of an assignment." },
+        { "distractor": "treatise", "closeness": 1, "reasoning": "A treatise is expected to be long, so producing one would not be a failure." },
+        { "distractor": "anthology", "closeness": 1, "reasoning": "Collecting many works together is the opposite of the compression he cannot manage." },
+        { "distractor": "umbrella", "closeness": 1, "reasoning": "An object carried against rain is not something one writes." }
+      ]
+    }
+  ]
+}

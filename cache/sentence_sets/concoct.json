@@ -1,0 +1,53 @@
+{
+  "word": "concoct",
+  "sentenceSets": [
+    {
+      "sentence": "He concocted an elaborate excuse that took longer to explain than the truth would have.",
+      "answerChoices": [
+        { "distractor": "fabricated", "closeness": 3, "reasoning": "Fabricating stresses that the excuse was false, but the sentence's joke is about how many moving parts he assembled, not about the lie's untruth." },
+        { "distractor": "devised", "closeness": 3, "reasoning": "Devising suggests solving a problem with an ingenious plan, whereas the sentence mocks the result as needlessly elaborate and self-defeating." },
+        { "distractor": "improvised", "closeness": 3, "reasoning": "Improvising means inventing on the spot without preparation, which sits awkwardly beside an excuse described as elaborate enough to require lengthy explanation." },
+        { "distractor": "rehearsed", "closeness": 3, "reasoning": "Rehearsing is practicing something already composed, but the sentence is about where the excuse came from in the first place." },
+        { "distractor": "recited", "closeness": 2, "reasoning": "Reciting means delivering a text from memory, and the sentence credits him with originating the excuse rather than repeating one." },
+        { "distractor": "withheld", "closeness": 2, "reasoning": "Withholding would mean keeping the excuse back, which contradicts a sentence about how long it took him to explain it." },
+        { "distractor": "confessed", "closeness": 2, "reasoning": "Confessing would mean telling the truth, the very thing the sentence says he avoided." },
+        { "distractor": "embellished", "closeness": 2, "reasoning": "Embellishing decorates an existing account, but nothing in the sentence indicates there was an earlier version of the excuse to dress up." },
+        { "distractor": "verified", "closeness": 1, "reasoning": "Verifying means confirming something is true, which makes no sense for an excuse offered in place of the truth." },
+        { "distractor": "shortened", "closeness": 1, "reasoning": "Shortening contradicts an excuse that took longer to explain than the truth." },
+        { "distractor": "forgot", "closeness": 1, "reasoning": "Forgetting cannot produce the elaborate explanation the sentence describes him delivering." }
+      ]
+    },
+    {
+      "sentence": "In the back of the pharmacy her grandmother would concoct a cough syrup from honey, thyme, and whatever else the garden had yielded that week.",
+      "answerChoices": [
+        { "distractor": "brew", "closeness": 3, "reasoning": "Brewing implies steeping or boiling a liquid, but the sentence lists honey among the ingredients and emphasizes assembling whatever the garden offered rather than any particular method." },
+        { "distractor": "distill", "closeness": 3, "reasoning": "Distilling extracts a pure essence by evaporation, the opposite of the improvised mixing of several garden ingredients described here." },
+        { "distractor": "dispense", "closeness": 3, "reasoning": "Dispensing means handing out a remedy that already exists, whereas the sentence walks through the raw ingredients she started from." },
+        { "distractor": "blend", "closeness": 3, "reasoning": "Blending refers only to the physical act of combining, which would leave out the inventiveness the sentence signals by noting the recipe changed with each week's harvest." },
+        { "distractor": "prescribe", "closeness": 2, "reasoning": "Prescribing is an act of authorizing medicine for a patient, but the sentence keeps her in the back room working with ingredients." },
+        { "distractor": "bottle", "closeness": 2, "reasoning": "Bottling is packaging a finished product, and the sentence is concerned with how the syrup came to be." },
+        { "distractor": "harvest", "closeness": 2, "reasoning": "Harvesting is gathering from the garden, an earlier step the sentence treats as already done when it says what the garden had yielded." },
+        { "distractor": "sweeten", "closeness": 2, "reasoning": "Sweetening names one effect of the honey rather than the making of the syrup from all three sorts of ingredient." },
+        { "distractor": "diagnose", "closeness": 1, "reasoning": "Diagnosing identifies an illness and has nothing to do with combining honey and thyme." },
+        { "distractor": "discard", "closeness": 1, "reasoning": "Discarding would throw the ingredients away rather than turn them into syrup." },
+        { "distractor": "memorize", "closeness": 1, "reasoning": "Memorizing cannot take honey and thyme as its object." }
+      ]
+    },
+    {
+      "sentence": "Bored during the long flight, the two of them concocted a business plan on the back of a napkin and laughed about it for years afterward.",
+      "answerChoices": [
+        { "distractor": "hatched", "closeness": 3, "reasoning": "Hatching a plan implies a scheme they intended to carry out in secret, but the sentence says they simply laughed about it for years, marking it as an amusement rather than a plot." },
+        { "distractor": "drafted", "closeness": 3, "reasoning": "Drafting suggests a working version meant for revision and use, which does not fit something written on a napkin out of boredom and remembered as a joke." },
+        { "distractor": "negotiated", "closeness": 3, "reasoning": "Negotiating requires opposing interests to be reconciled, but the sentence shows two bored friends amusing each other, not bargaining." },
+        { "distractor": "outlined", "closeness": 3, "reasoning": "Outlining means laying out the structure of something that already exists in the mind, whereas the sentence shows the plan coming into being on the napkin itself." },
+        { "distractor": "financed", "closeness": 2, "reasoning": "Financing would require money the sentence never mentions, and a napkin sketch laughed about for years clearly never got funded." },
+        { "distractor": "abandoned", "closeness": 2, "reasoning": "Abandoning presupposes an existing plan, but the sentence describes the moment the plan came into existence." },
+        { "distractor": "critiqued", "closeness": 2, "reasoning": "Critiquing evaluates someone else's work, and this plan was their own creation." },
+        { "distractor": "memorized", "closeness": 2, "reasoning": "Memorizing would be pointless for something they wrote down on a napkin in front of them." },
+        { "distractor": "inherited", "closeness": 1, "reasoning": "Inheriting a business plan contradicts the sentence's picture of two people inventing one mid-flight." },
+        { "distractor": "audited", "closeness": 1, "reasoning": "Auditing examines finished accounts, not a joke sketched on a napkin." },
+        { "distractor": "regretted", "closeness": 1, "reasoning": "Regretting clashes with the laughter the sentence says the plan produced for years." }
+      ]
+    }
+  ]
+}

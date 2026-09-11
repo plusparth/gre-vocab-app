@@ -1,0 +1,53 @@
+{
+  "word": "consensus",
+  "sentenceSets": [
+    {
+      "sentence": "The committee reached consensus only after three days of debate, during which every objection was heard.",
+      "answerChoices": [
+        { "distractor": "agreement", "closeness": 3, "reasoning": "An agreement can be struck between two parties or imposed by a vote, but the sentence stresses that every objection was aired first, pointing to a position the whole committee could live with." },
+        { "distractor": "unanimity", "closeness": 3, "reasoning": "Unanimity requires every member to hold the identical view, which is a stronger claim than the sentence supports after three days of aired objections." },
+        { "distractor": "accord", "closeness": 3, "reasoning": "An accord is a negotiated settlement between distinct sides, whereas the sentence describes a single committee working through its own internal objections." },
+        { "distractor": "compromise", "closeness": 3, "reasoning": "A compromise means each side surrendered something, but the sentence records objections being heard rather than concessions being traded." },
+        { "distractor": "quorum", "closeness": 2, "reasoning": "A quorum is the minimum attendance needed to conduct business, a precondition for the debate rather than its outcome." },
+        { "distractor": "resolution", "closeness": 2, "reasoning": "A resolution is a formal text a body adopts, but the sentence reports what the committee arrived at collectively, not a document it passed." },
+        { "distractor": "majority", "closeness": 2, "reasoning": "A majority would leave the losing objections unresolved, contradicting three days spent hearing every one of them out." },
+        { "distractor": "mandate", "closeness": 2, "reasoning": "A mandate is authority granted from outside to act, which has nothing to do with the committee's internal deliberations." },
+        { "distractor": "stalemate", "closeness": 1, "reasoning": "A stalemate would mean nothing was reached, contradicting the sentence's account of a conclusion after three days." },
+        { "distractor": "deadlock", "closeness": 1, "reasoning": "Deadlock names a failure to converge, the opposite of what the committee achieved." },
+        { "distractor": "dissent", "closeness": 1, "reasoning": "Dissent is the objection itself rather than the collective position the committee arrived at." }
+      ]
+    },
+    {
+      "sentence": "Among climate scientists the consensus on warming has held for decades, even as the public argument has grown louder.",
+      "answerChoices": [
+        { "distractor": "orthodoxy", "closeness": 3, "reasoning": "Orthodoxy implies a doctrine enforced against dissenters, but the sentence contrasts a settled scientific position with noisy public argument, not with suppressed opinion inside the field." },
+        { "distractor": "conviction", "closeness": 3, "reasoning": "Conviction names what an individual believes, whereas the sentence locates the position among climate scientists as a body." },
+        { "distractor": "doctrine", "closeness": 3, "reasoning": "Doctrine suggests teaching handed down by authority, which clashes with a field whose shared position is described as having held up over decades." },
+        { "distractor": "verdict", "closeness": 3, "reasoning": "A verdict is a single ruling delivered at one moment, but the sentence describes something that has persisted across decades of ongoing work." },
+        { "distractor": "hypothesis", "closeness": 2, "reasoning": "A hypothesis is a proposal awaiting testing, which cannot be said to have held for decades among the people who test it." },
+        { "distractor": "speculation", "closeness": 2, "reasoning": "Speculation lacks evidential grounding, contradicting a position that endured while the public debate raged." },
+        { "distractor": "rumor", "closeness": 2, "reasoning": "Rumor circulates without verification, an odd thing to attribute to climate scientists as a group." },
+        { "distractor": "tradition", "closeness": 2, "reasoning": "Tradition is inherited practice, but the sentence is about what researchers currently hold to be the case." },
+        { "distractor": "confusion", "closeness": 1, "reasoning": "Confusion cannot hold steady for decades in the way the sentence describes." },
+        { "distractor": "disagreement", "closeness": 1, "reasoning": "Disagreement among the scientists would collapse the contrast with the louder public argument." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence on warming contradicts scientists maintaining a position for decades." }
+      ]
+    },
+    {
+      "sentence": "No consensus emerged from the town meeting, so the council postponed the vote until every household could be surveyed.",
+      "answerChoices": [
+        { "distractor": "settlement", "closeness": 3, "reasoning": "A settlement resolves a dispute between identified parties, but a town meeting gathers a whole population whose collective view failed to take shape." },
+        { "distractor": "conclusion", "closeness": 3, "reasoning": "A conclusion can be reached by a single reasoner, whereas what the council needed before voting was a sense of where the town as a whole stood." },
+        { "distractor": "plan", "closeness": 3, "reasoning": "A plan lays out steps to take, but the council's response was to survey households, which shows it was opinion rather than a programme that was missing." },
+        { "distractor": "understanding", "closeness": 3, "reasoning": "An understanding is an informal arrangement between particular parties, too narrow for a meeting whose outcome the council measured by surveying every household." },
+        { "distractor": "proposal", "closeness": 2, "reasoning": "A proposal is something put forward for consideration, and a meeting could produce many without the town's view becoming clear." },
+        { "distractor": "motion", "closeness": 2, "reasoning": "A motion is a procedural device offered at a meeting, not the collective sense of the room that the council was looking for." },
+        { "distractor": "petition", "closeness": 2, "reasoning": "A petition is a request signed by some residents, which would not require the council to survey everyone." },
+        { "distractor": "ordinance", "closeness": 2, "reasoning": "An ordinance is a law the council would enact after the vote, not something a town meeting produces." },
+        { "distractor": "uproar", "closeness": 1, "reasoning": "An uproar emerging from the meeting would not lead the council to survey households for their views." },
+        { "distractor": "quarrel", "closeness": 1, "reasoning": "A quarrel is conflict itself rather than the shared position the council was waiting for." },
+        { "distractor": "apathy", "closeness": 1, "reasoning": "Apathy conflicts with residents whose opinions the council thought worth surveying." }
+      ]
+    }
+  ]
+}

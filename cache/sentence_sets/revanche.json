@@ -1,0 +1,53 @@
+{
+  "word": "revanche",
+  "sentenceSets": [
+    {
+      "sentence": "The revanche motive behind the policy was denied in public statements that the documentary record made difficult to credit.",
+      "answerChoices": [
+        { "distractor": "profit", "closeness": 2, "reasoning": "A profit motive would be an ordinary commercial aim, but a government denying it in public statements while documents contradict the denial implies something more disreputable than moneymaking." },
+        { "distractor": "retaliation", "closeness": 3, "reasoning": "Retaliation is a direct response to a specific recent injury, while the sentence's official denials and buried documentary trail suggest a long-nursed national grievance driving policy." },
+        { "distractor": "vengeance", "closeness": 3, "reasoning": "Vengeance describes personal payback taken by an individual, whereas what is being denied here is the purpose animating a state's policy." },
+        { "distractor": "grievance", "closeness": 3, "reasoning": "A grievance is the complaint itself rather than a motive for action, and the sentence identifies what the policy was for, not what was resented." },
+        { "distractor": "reprisal", "closeness": 3, "reasoning": "A reprisal is a discrete punitive act answering a particular offense, but the sentence describes a standing motive behind an entire policy." },
+        { "distractor": "deterrence", "closeness": 2, "reasoning": "Deterrence aims at preventing future attacks, an aim governments announce proudly rather than deny in public statements." },
+        { "distractor": "prestige", "closeness": 2, "reasoning": "A desire for prestige is embarrassing at worst, hardly the sort of motive a documentary record would make officials squirm to deny." },
+        { "distractor": "expansion", "closeness": 2, "reasoning": "Expansion describes acquiring territory or markets rather than the settling of accounts the concealment in this sentence implies." },
+        { "distractor": "reconciliation", "closeness": 1, "reasoning": "Reconciliation seeks to repair a relationship, a motive no government would deny having." },
+        { "distractor": "charity", "closeness": 1, "reasoning": "A charitable motive would be advertised rather than denied against a documentary record." },
+        { "distractor": "curiosity", "closeness": 1, "reasoning": "Curiosity is not a motive that drives national policy or that anyone would issue denials about." }
+      ]
+    },
+    {
+      "sentence": "Schoolbooks printed in the decade after the treaty kept the memory of the lost provinces alive, and with it a quiet appetite for revanche.",
+      "answerChoices": [
+        { "distractor": "restitution", "closeness": 3, "reasoning": "Restitution means restoring what was taken, which would be satisfied by the provinces' return, while the appetite the schoolbooks nurse is fed on memory of humiliation and points toward settling scores." },
+        { "distractor": "rebellion", "closeness": 3, "reasoning": "Rebellion rises against one's own rulers, but the loss recorded in these books was inflicted by another state under a treaty." },
+        { "distractor": "secession", "closeness": 3, "reasoning": "Secession means breaking away from a state one belongs to, whereas these provinces have already been lost to an outside power." },
+        { "distractor": "conquest", "closeness": 3, "reasoning": "Conquest is seizing territory for its own sake, while the appetite here is inseparable from the memory of a specific defeat the books keep alive." },
+        { "distractor": "nostalgia", "closeness": 2, "reasoning": "Nostalgia is wistful attachment to the past and carries no impulse to act, yet the sentence calls this an appetite kept alive across a decade." },
+        { "distractor": "diplomacy", "closeness": 2, "reasoning": "Diplomacy is negotiation between states, not something schoolbooks cultivate in children through memory of lost provinces." },
+        { "distractor": "amnesty", "closeness": 2, "reasoning": "Amnesty forgives past offenses, which is at odds with books that keep a grievance from fading." },
+        { "distractor": "emigration", "closeness": 2, "reasoning": "Emigration means leaving the country, and the sentence describes a desire directed at territory the nation lost, not at departure." },
+        { "distractor": "forgiveness", "closeness": 1, "reasoning": "Forgiveness would release the grievance the schoolbooks were keeping alive." },
+        { "distractor": "prosperity", "closeness": 1, "reasoning": "Prosperity is material well-being and has no connection to memory of lost provinces." },
+        { "distractor": "literacy", "closeness": 1, "reasoning": "Literacy is the ability to read, which the schoolbooks might promote but which is not an appetite bound up with a lost territory." }
+      ]
+    },
+    {
+      "sentence": "He insisted the lawsuit was a matter of principle, though his friends saw only revanche for a slight he had suffered at the firm.",
+      "answerChoices": [
+        { "distractor": "spite", "closeness": 3, "reasoning": "Spite is petty malice that wants the other party to suffer for its own sake, while his friends read the lawsuit as an attempt to get even for a specific humiliation he took at the firm." },
+        { "distractor": "compensation", "closeness": 3, "reasoning": "Compensation would aim at recovering losses, but the sentence contrasts his stated principle with a motive his friends find less respectable than money." },
+        { "distractor": "vindication", "closeness": 3, "reasoning": "Vindication seeks to prove oneself right in others' eyes, which is close to the principle he claims rather than the motive his friends detect behind it." },
+        { "distractor": "redress", "closeness": 3, "reasoning": "Redress is the neutral legal remedy any plaintiff may seek, and the sentence sets what his friends see against the respectable account he gives." },
+        { "distractor": "publicity", "closeness": 2, "reasoning": "Publicity would mean he wanted attention, but the sentence traces his friends' reading to the slight he suffered, not to any appetite for an audience." },
+        { "distractor": "leverage", "closeness": 2, "reasoning": "Leverage implies using the suit to extract something in another negotiation, and no such bargaining appears in the sentence." },
+        { "distractor": "closure", "closeness": 2, "reasoning": "Closure suggests wanting to put the episode behind him, which conflicts with his friends' skeptical view of why he is prolonging it." },
+        { "distractor": "precedent", "closeness": 2, "reasoning": "Setting a precedent is a forward-looking legal aim that would support his claim of principle rather than undercut it." },
+        { "distractor": "generosity", "closeness": 1, "reasoning": "Generosity is giving freely, which cannot describe why someone sues over a slight." },
+        { "distractor": "indifference", "closeness": 1, "reasoning": "Indifference would have left him uninterested in filing anything at all." },
+        { "distractor": "gratitude", "closeness": 1, "reasoning": "Gratitude toward the firm is incompatible with a lawsuit his friends trace to an insult he received there." }
+      ]
+    }
+  ]
+}

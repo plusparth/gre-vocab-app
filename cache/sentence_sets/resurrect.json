@@ -1,0 +1,53 @@
+{
+  "word": "resurrect",
+  "sentenceSets": [
+    {
+      "sentence": "She attempted to resurrect a proposal that had been tabled two years earlier, arguing that the conditions that had defeated it had changed.",
+      "answerChoices": [
+        { "distractor": "revive", "closeness": 3, "reasoning": "Reviving fits something that has weakened and needs strengthening, but this proposal was fully stopped two years ago and has to be brought back from nothing." },
+        { "distractor": "amend", "closeness": 3, "reasoning": "Amending changes a proposal's text, whereas her argument is that circumstances rather than the proposal itself have changed." },
+        { "distractor": "revisit", "closeness": 3, "reasoning": "Revisiting means looking at something again for discussion, while she is trying to put a dead measure back into active play." },
+        { "distractor": "salvage", "closeness": 3, "reasoning": "Salvaging rescues usable parts from a failure, but she is pressing for the whole proposal on the ground that it would now succeed." },
+        { "distractor": "table", "closeness": 2, "reasoning": "Tabling is exactly what was done to the proposal two years earlier, so doing it again would repeat the setback rather than reverse it." },
+        { "distractor": "circulate", "closeness": 2, "reasoning": "Circulating merely distributes a document and would not address the defeat the sentence says she is trying to overcome." },
+        { "distractor": "summarize", "closeness": 2, "reasoning": "Summarizing condenses the proposal and does nothing about its having been defeated." },
+        { "distractor": "endorse", "closeness": 2, "reasoning": "Endorsing is lending support to something already under consideration, but this proposal has been off the agenda for two years." },
+        { "distractor": "bury", "closeness": 1, "reasoning": "Burying the proposal would keep it dead, the opposite of what her argument about changed conditions is meant to accomplish." },
+        { "distractor": "withdraw", "closeness": 1, "reasoning": "Withdrawing removes something from consideration, and the proposal has already been out of consideration for two years." },
+        { "distractor": "ratify", "closeness": 1, "reasoning": "Ratifying formally approves a measure, a final step that cannot apply to a proposal that is not even before the body." }
+      ]
+    },
+    {
+      "sentence": "A young conductor has resurrected the symphony, which had not been performed since its disastrous premiere in 1911.",
+      "answerChoices": [
+        { "distractor": "rehabilitated", "closeness": 3, "reasoning": "Rehabilitating restores a damaged reputation, but the sentence's point is that the music had gone entirely unplayed for over a century, not that it was thought badly of." },
+        { "distractor": "transcribed", "closeness": 3, "reasoning": "Transcribing rewrites a work for different forces, and nothing here suggests the score was altered, only that it was heard again." },
+        { "distractor": "premiered", "closeness": 3, "reasoning": "Premiering means giving a first performance, which the sentence explicitly assigns to 1911." },
+        { "distractor": "championed", "closeness": 3, "reasoning": "Championing means advocating for something over time, while the sentence's contrast with a century of silence points to the act of bringing the piece back into performance." },
+        { "distractor": "recorded", "closeness": 2, "reasoning": "Recording captures a performance on tape, a narrower act than ending the work's absence from the concert hall." },
+        { "distractor": "composed", "closeness": 2, "reasoning": "Composing would make the conductor the author, contradicting the symphony's existence since 1911." },
+        { "distractor": "abridged", "closeness": 2, "reasoning": "Abridging shortens a work, which says nothing about why it had gone unperformed for so long." },
+        { "distractor": "catalogued", "closeness": 2, "reasoning": "Cataloguing records the work in a list, an archival act that would not bring it back to the stage." },
+        { "distractor": "suppressed", "closeness": 1, "reasoning": "Suppressing the symphony would keep it silent, extending rather than ending the century of neglect." },
+        { "distractor": "shelved", "closeness": 1, "reasoning": "Shelving puts a work away, the opposite of the conductor's achievement described here." },
+        { "distractor": "auctioned", "closeness": 1, "reasoning": "Auctioning sells an object, and a symphony's return to performance is not a sale." }
+      ]
+    },
+    {
+      "sentence": "Every few years a tabloid resurrects the old rumor about the actress, and every few years her lawyers kill it again.",
+      "answerChoices": [
+        { "distractor": "recycles", "closeness": 3, "reasoning": "Recycling implies reusing material that has stayed in circulation, but the lawyers kill the rumor each time, so it must be brought back from the dead rather than simply reused." },
+        { "distractor": "embellishes", "closeness": 3, "reasoning": "Embellishing adds invented detail to a story already in play, whereas this rumor has been extinguished before each reappearance." },
+        { "distractor": "corroborates", "closeness": 3, "reasoning": "Corroborating supplies supporting evidence, which is hard to square with a story her lawyers are able to shut down every time." },
+        { "distractor": "retracts", "closeness": 3, "reasoning": "Retracting withdraws a published claim, which is what the lawyers force rather than what the tabloid does every few years." },
+        { "distractor": "denies", "closeness": 2, "reasoning": "Denying the rumor would put the tabloid on the actress's side, contradicting the fight her lawyers must repeatedly win." },
+        { "distractor": "investigates", "closeness": 2, "reasoning": "Investigating is sober inquiry, while the sentence describes a cycle of publication and legal suppression rather than research." },
+        { "distractor": "licenses", "closeness": 2, "reasoning": "Licensing is a matter of paying for rights to content, which has nothing to do with a rumor being killed by lawyers." },
+        { "distractor": "ignores", "closeness": 2, "reasoning": "Ignoring the rumor would give her lawyers nothing to kill every few years." },
+        { "distractor": "buries", "closeness": 1, "reasoning": "Burying the rumor is what the lawyers accomplish, the opposite of what the tabloid keeps doing." },
+        { "distractor": "praises", "closeness": 1, "reasoning": "Praising a rumor makes no sense as a description of tabloid behavior that provokes legal action." },
+        { "distractor": "translates", "closeness": 1, "reasoning": "Translating moves text between languages and has no connection to a rumor's repeated revival." }
+      ]
+    }
+  ]
+}

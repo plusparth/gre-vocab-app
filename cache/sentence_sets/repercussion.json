@@ -1,0 +1,53 @@
+{
+  "word": "repercussion",
+  "sentenceSets": [
+    {
+      "sentence": "The repercussions of the announcement extended further than the organization's leadership had anticipated or prepared for.",
+      "answerChoices": [
+        { "distractor": "ramifications", "closeness": 3, "reasoning": "Ramifications are the branching complications that follow logically from a decision, but the sentence stresses reach beyond anyone's preparation, which suggests shocks felt at a distance rather than a tree of consequences someone could have traced out." },
+        { "distractor": "aftershocks", "closeness": 3, "reasoning": "Aftershocks name a series of diminishing tremors following one event, whereas the sentence describes effects that grew wider than expected rather than fading." },
+        { "distractor": "ripples", "closeness": 3, "reasoning": "Ripples imply small, gentle spreading effects, which understates something leadership was unprepared to handle." },
+        { "distractor": "backlash", "closeness": 3, "reasoning": "Backlash requires hostile reaction from people, and the sentence mentions no anger or opposition, only unexpected breadth of effect." },
+        { "distractor": "implications", "closeness": 2, "reasoning": "Implications are meanings that can be drawn from the announcement, and meanings are interpreted rather than something that arrives and outruns an organization's preparations." },
+        { "distractor": "echoes", "closeness": 2, "reasoning": "Echoes suggest faint repetitions of the original event, which cannot be what leadership needed to prepare for." },
+        { "distractor": "disruptions", "closeness": 2, "reasoning": "Disruptions name interruptions to operations, but the sentence never says anything stopped working, only that effects spread farther than expected." },
+        { "distractor": "tremors", "closeness": 2, "reasoning": "Tremors describe unease or instability in the moment rather than the downstream results the sentence says leadership had failed to plan for." },
+        { "distractor": "preludes", "closeness": 1, "reasoning": "A prelude comes before an event, contradicting the sentence's sequence in which these follow the announcement." },
+        { "distractor": "rehearsals", "closeness": 1, "reasoning": "Rehearsals are practice sessions held in advance and cannot result from an announcement already made." },
+        { "distractor": "precautions", "closeness": 1, "reasoning": "Precautions are protective measures taken beforehand, which is exactly what the sentence says leadership had failed to take." }
+      ]
+    },
+    {
+      "sentence": "Nobody warned the new analyst that a single misplaced decimal could carry repercussions through three departments and into next year's budget.",
+      "answerChoices": [
+        { "distractor": "consequences", "closeness": 3, "reasoning": "Consequences are the direct results of an act, but the sentence traces an error rebounding into distant departments and a future budget, which is about indirect knock-on damage rather than the immediate result of the typo." },
+        { "distractor": "fallout", "closeness": 3, "reasoning": "Fallout carries the sense of public damage settling after a scandal, and the sentence describes a quiet accounting error propagating through internal systems." },
+        { "distractor": "reverberations", "closeness": 3, "reasoning": "Reverberations emphasize sound-like persistence of an event's memory, while the sentence is concerned with concrete effects on departmental figures and next year's money." },
+        { "distractor": "complications", "closeness": 3, "reasoning": "Complications are tangles arising within the same problem, yet the sentence's harm travels outward into other departments rather than making the original spreadsheet harder to fix." },
+        { "distractor": "costs", "closeness": 2, "reasoning": "Costs would name only the monetary total, missing the spread through three separate departments that the sentence emphasizes." },
+        { "distractor": "audits", "closeness": 2, "reasoning": "Audits are investigations that someone must decide to launch, not something a decimal point carries on its own." },
+        { "distractor": "disputes", "closeness": 2, "reasoning": "Disputes require parties in disagreement, and the sentence describes a mistake nobody warned about rather than a quarrel." },
+        { "distractor": "headaches", "closeness": 2, "reasoning": "Headaches suggest mere annoyance, which does not match an error reaching into an entire budget cycle." },
+        { "distractor": "rewards", "closeness": 1, "reasoning": "Rewards are benefits, and nothing good follows from a misplaced decimal in this warning." },
+        { "distractor": "safeguards", "closeness": 1, "reasoning": "Safeguards are protections put in place ahead of time, not things an error carries with it." },
+        { "distractor": "apologies", "closeness": 1, "reasoning": "Apologies are offered by people afterward and cannot travel through departments into a future budget." }
+      ]
+    },
+    {
+      "sentence": "The 1929 crash had repercussions that shaped banking regulation for the next half century.",
+      "answerChoices": [
+        { "distractor": "legacies", "closeness": 3, "reasoning": "A legacy is something intentionally handed down and valued, but a market collapse is not bequeathed; the sentence describes damage whose pressure forced later rulemaking." },
+        { "distractor": "aftereffects", "closeness": 3, "reasoning": "Aftereffects describe lingering physical or psychological traces in the affected body, while the sentence's effects reach a different domain entirely and drive new law." },
+        { "distractor": "influences", "closeness": 3, "reasoning": "Influences suggest gradual shaping by example or persuasion, whereas the sentence begins from a crash, an event that compelled response rather than persuaded anyone." },
+        { "distractor": "residues", "closeness": 3, "reasoning": "Residues are leftovers that remain after something passes, which fails to account for the active force the sentence credits with shaping fifty years of regulation." },
+        { "distractor": "lessons", "closeness": 2, "reasoning": "Lessons are conclusions people draw, and the sentence attributes the shaping to the crash itself rather than to anyone's reflection on it." },
+        { "distractor": "precedents", "closeness": 2, "reasoning": "A precedent is an earlier case cited as authority, but a crash is an economic event, not a ruling later regulators were bound to follow." },
+        { "distractor": "warnings", "closeness": 2, "reasoning": "Warnings come before the danger they announce, while these arise out of the crash that has already occurred." },
+        { "distractor": "symptoms", "closeness": 2, "reasoning": "Symptoms are signs of an underlying condition, so they would point back to the crash's causes rather than forward to half a century of regulation." },
+        { "distractor": "origins", "closeness": 1, "reasoning": "Origins are what produced the crash, the reverse of what followed from it." },
+        { "distractor": "causes", "closeness": 1, "reasoning": "Causes precede the event, so the crash cannot have had causes that shaped later decades in the way the sentence describes." },
+        { "distractor": "forecasts", "closeness": 1, "reasoning": "Forecasts are predictions made in advance and are not something an event produces after the fact." }
+      ]
+    }
+  ]
+}

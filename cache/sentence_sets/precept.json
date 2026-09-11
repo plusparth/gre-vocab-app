@@ -1,0 +1,53 @@
+{
+  "word": "precept",
+  "sentenceSets": [
+    {
+      "sentence": "She had internalized the precept so thoroughly that its application no longer required conscious deliberation.",
+      "answerChoices": [
+        { "distractor": "principle", "closeness": 3, "reasoning": "A principle can be a purely descriptive truth one holds, but the sentence speaks of its 'application,' which means a directive that tells her what to do in a situation." },
+        { "distractor": "habit", "closeness": 3, "reasoning": "A habit is already unreflective by definition, so it could not be something that became automatic only after thorough internalization." },
+        { "distractor": "instinct", "closeness": 3, "reasoning": "An instinct is innate and requires no internalizing at all, whereas the sentence describes something she took in and absorbed over time." },
+        { "distractor": "heuristic", "closeness": 3, "reasoning": "A heuristic is a rough shortcut adopted because it usually works, but the sentence presents something she absorbed as a standing rule for conduct rather than a convenient approximation." },
+        { "distractor": "anecdote", "closeness": 2, "reasoning": "An anecdote is a story, and a story cannot be 'applied' the way the sentence describes." },
+        { "distractor": "hypothesis", "closeness": 2, "reasoning": "A hypothesis is held tentatively for testing, which is incompatible with something internalized so thoroughly that it operates without thought." },
+        { "distractor": "statute", "closeness": 2, "reasoning": "A statute is law enacted by a legislature, but the sentence concerns something she absorbed personally rather than something imposed by the state." },
+        { "distractor": "grievance", "closeness": 2, "reasoning": "A grievance is a complaint about a wrong and cannot be applied as a guide to action." },
+        { "distractor": "whim", "closeness": 1, "reasoning": "A whim is a passing impulse, the opposite of something held firmly enough to govern conduct automatically." },
+        { "distractor": "blunder", "closeness": 1, "reasoning": "A blunder is a mistake and is not something one internalizes for guidance." },
+        { "distractor": "trinket", "closeness": 1, "reasoning": "A small ornament is a physical object and cannot be internalized or applied." }
+      ]
+    },
+    {
+      "sentence": "The guild's founding charter opens with a single precept: no apprentice shall be charged for the tools of his trade.",
+      "answerChoices": [
+        { "distractor": "clause", "closeness": 3, "reasoning": "A clause is simply a numbered piece of a document, but the sentence presents this line as the guild's opening commandment, a rule of conduct set above the rest." },
+        { "distractor": "proviso", "closeness": 3, "reasoning": "A proviso qualifies or limits something already granted, whereas this stands at the very opening with nothing before it to condition." },
+        { "distractor": "motto", "closeness": 3, "reasoning": "A motto is a brief expression of spirit or ideal, while this line issues a specific binding prohibition about tools and apprentices." },
+        { "distractor": "preamble", "closeness": 3, "reasoning": "A preamble states the purposes behind a document, but this sentence lays down what shall and shall not be done." },
+        { "distractor": "footnote", "closeness": 2, "reasoning": "A footnote is subordinate commentary at the bottom of a page, and this stands at the head of the charter." },
+        { "distractor": "anecdote", "closeness": 2, "reasoning": "An anecdote recounts an incident, while this text prescribes future conduct." },
+        { "distractor": "inventory", "closeness": 2, "reasoning": "An inventory lists holdings, but this line forbids charging for tools rather than counting them." },
+        { "distractor": "signature", "closeness": 2, "reasoning": "A signature authenticates a document and carries no rule of conduct." },
+        { "distractor": "invoice", "closeness": 1, "reasoning": "An invoice demands payment, which is the very thing this line prohibits." },
+        { "distractor": "vacancy", "closeness": 1, "reasoning": "An unfilled position is not something a charter opens with as a stated rule." },
+        { "distractor": "scaffold", "closeness": 1, "reasoning": "A scaffold is a physical structure and cannot appear as the opening line of a charter." }
+      ]
+    },
+    {
+      "sentence": "Medical students recite the precept about doing no harm long before they understand how often the two obligations of a case conflict.",
+      "answerChoices": [
+        { "distractor": "maxim", "closeness": 3, "reasoning": "A maxim is a pithy saying that condenses general wisdom, but the sentence treats this as binding on students as one of two 'obligations' in a case, which makes it a rule of practice rather than a proverb." },
+        { "distractor": "creed", "closeness": 3, "reasoning": "A creed is a statement of beliefs held, whereas the sentence puts this in the register of duty, describing what the student owes the patient in a case." },
+        { "distractor": "axiom", "closeness": 3, "reasoning": "An axiom is a self-evident starting point for reasoning that cannot conflict with another the way the sentence says these obligations do." },
+        { "distractor": "diagnosis", "closeness": 3, "reasoning": "A diagnosis identifies what ails a particular patient, but this is recited by all students before they have any cases at all." },
+        { "distractor": "incantation", "closeness": 2, "reasoning": "An incantation is a formula thought to work by magic, while this one is presented as an obligation students later learn to weigh against another." },
+        { "distractor": "curriculum", "closeness": 2, "reasoning": "A curriculum is a course of study and is not something one recites as a single line." },
+        { "distractor": "syllabus", "closeness": 2, "reasoning": "A syllabus outlines what a course will cover and could not be one of two obligations in conflict at a bedside." },
+        { "distractor": "prognosis", "closeness": 2, "reasoning": "A prognosis forecasts how an illness will proceed rather than directing the physician's conduct." },
+        { "distractor": "loophole", "closeness": 1, "reasoning": "A loophole is a way around a rule, not the rule students are made to recite." },
+        { "distractor": "scalpel", "closeness": 1, "reasoning": "An instrument cannot be recited." },
+        { "distractor": "epidemic", "closeness": 1, "reasoning": "A widespread outbreak is an event, not a line students learn by heart." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "condolence",
+  "sentenceSets": [
+    {
+      "sentence": "She offered her condolences in a brief handwritten note, knowing words were inadequate but necessary.",
+      "answerChoices": [
+        { "distractor": "congratulations", "closeness": 3, "reasoning": "Congratulation greets good news, but the note is written in the knowledge that no words can be adequate, which is the situation of a loss rather than an achievement." },
+        { "distractor": "apologies", "closeness": 3, "reasoning": "An apology admits fault on the writer's part, and nothing in the sentence suggests she had done anything requiring amends." },
+        { "distractor": "compliments", "closeness": 3, "reasoning": "Compliments praise the recipient, which has no relation to a message sent because silence would be worse than inadequate words." },
+        { "distractor": "reassurances", "closeness": 3, "reasoning": "Reassurance tells someone things will be all right, and the sentence is explicit that she believed no words would be equal to the occasion." },
+        { "distractor": "instructions", "closeness": 2, "reasoning": "Instructions tell a reader what to do, which would be an odd purpose for a brief handwritten note whose author doubted words could suffice." },
+        { "distractor": "invitations", "closeness": 2, "reasoning": "An invitation asks someone to attend something, and the sentence describes a message sent for its own sake." },
+        { "distractor": "objections", "closeness": 2, "reasoning": "Objections register disagreement, which the mixture of humility and obligation in the note rules out." },
+        { "distractor": "denials", "closeness": 2, "reasoning": "A denial rejects an accusation, and no accusation appears anywhere in the sentence." },
+        { "distractor": "insults", "closeness": 1, "reasoning": "Nobody writes an insult by hand out of a sense that words are inadequate but necessary." },
+        { "distractor": "receipts", "closeness": 1, "reasoning": "A receipt records a transaction and could not be described as inadequate to the moment." },
+        { "distractor": "wagers", "closeness": 1, "reasoning": "A wager is a bet and has no place in a note sent in a spirit of obligation and insufficiency." }
+      ]
+    },
+    {
+      "sentence": "The ambassador's letter of condolence reached the capital within a day of the flood, well before any offer of material aid had been authorized.",
+      "answerChoices": [
+        { "distractor": "solidarity", "closeness": 3, "reasoning": "A message of solidarity declares that one stands with the other side in a struggle, which suits a political conflict rather than a flood whose victims are being mourned." },
+        { "distractor": "protest", "closeness": 3, "reasoning": "A protest objects to something the receiving government has done, but the occasion the sentence gives is a natural disaster." },
+        { "distractor": "credit", "closeness": 3, "reasoning": "A letter of credit is a financial instrument, and the sentence pointedly contrasts this letter with the material assistance that had not yet been approved." },
+        { "distractor": "introduction", "closeness": 3, "reasoning": "A letter of introduction presents a person to a new post, which has nothing to do with arriving a day after a flood." },
+        { "distractor": "resignation", "closeness": 2, "reasoning": "A letter of resignation would be about the ambassador's own position, not a response to the disaster in the country he serves in." },
+        { "distractor": "intent", "closeness": 2, "reasoning": "A letter of intent signals a future commitment, which is precisely what the sentence says had not yet been authorized." },
+        { "distractor": "inquiry", "closeness": 2, "reasoning": "An inquiry asks questions, whereas the letter is contrasted with aid as one thing a government can send in the first day after a catastrophe." },
+        { "distractor": "demand", "closeness": 2, "reasoning": "A demand requires something of the recipient, an ungracious thing to send to a country a day into a flood." },
+        { "distractor": "congratulation", "closeness": 1, "reasoning": "A flood is not an occasion for congratulating anyone." },
+        { "distractor": "warning", "closeness": 1, "reasoning": "A warning would need to come before the flood, not the day after it." },
+        { "distractor": "invoice", "closeness": 1, "reasoning": "Billing a flood-struck capital is not what a diplomatic letter delivered in that first day would contain." }
+      ]
+    },
+    {
+      "sentence": "Neighbors filled the front hall with casseroles and murmured condolences while the widow stood by the door accepting each in turn.",
+      "answerChoices": [
+        { "distractor": "pleasantries", "closeness": 3, "reasoning": "Pleasantries are the light small talk of ordinary social occasions, which does not fit a hall of neighbors bringing food to a woman recently widowed." },
+        { "distractor": "gossip", "closeness": 3, "reasoning": "Gossip is talk about absent third parties, and what the neighbors are saying is addressed directly to the widow, who accepts each of them at the door." },
+        { "distractor": "encouragements", "closeness": 3, "reasoning": "Encouragement urges someone toward an effort, whereas the neighbors are arriving with food and something said in passing to a woman standing still at her own door." },
+        { "distractor": "introductions", "closeness": 3, "reasoning": "These are neighbors, already known to her, so introductions would be redundant in the scene the sentence sets." },
+        { "distractor": "rumors", "closeness": 2, "reasoning": "Rumors are unverified reports, and nothing here suggests information is being passed rather than sympathy offered." },
+        { "distractor": "requests", "closeness": 2, "reasoning": "Requests would ask something of a woman in mourning, which reverses the direction of everything else in the scene, including the casseroles." },
+        { "distractor": "confessions", "closeness": 2, "reasoning": "A confession discloses one's own wrongdoing, which the passing greetings at a crowded front hall would not accommodate." },
+        { "distractor": "recipes", "closeness": 2, "reasoning": "The casseroles make food part of the scene, but what is murmured to the widow one by one is addressed to her situation, not to cooking." },
+        { "distractor": "accusations", "closeness": 1, "reasoning": "Accusing a newly widowed woman as one files past her door contradicts the gifts of food and the hushed tone." },
+        { "distractor": "cheers", "closeness": 1, "reasoning": "Cheering is loud celebration, incompatible with murmuring and with a house full of mourners." },
+        { "distractor": "sales", "closeness": 1, "reasoning": "Nothing is being bought or sold in a hall of neighbors bringing casseroles." }
+      ]
+    }
+  ]
+}

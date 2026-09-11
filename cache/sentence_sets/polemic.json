@@ -1,0 +1,53 @@
+{
+  "word": "polemic",
+  "sentenceSets": [
+    {
+      "sentence": "The polemic generated heat but not light; its most devoted readers were those least in need of persuasion.",
+      "answerChoices": [
+        { "distractor": "diatribe", "closeness": 3, "reasoning": "A diatribe is pure abuse with no position to defend, but this piece is described as attempting persuasion and finding readers who already agree, which implies it argues a case rather than merely rails." },
+        { "distractor": "critique", "closeness": 3, "reasoning": "A critique would be expected to produce light as well as heat, so the sentence's complaint that it produced only heat marks the piece as something more combative than analysis." },
+        { "distractor": "manifesto", "closeness": 3, "reasoning": "A manifesto declares its own program, whereas the sentence's concern with persuasion and readers who already agree points to a piece aimed at an opponent's position." },
+        { "distractor": "screed", "closeness": 3, "reasoning": "'Screed' emphasizes tedious length, but the sentence faults the piece for its combative futility rather than for going on too long." },
+        { "distractor": "eulogy", "closeness": 2, "reasoning": "A eulogy praises, which cannot generate the heat the sentence describes or require persuasion at all." },
+        { "distractor": "treatise", "closeness": 2, "reasoning": "A treatise is a systematic exposition, and the sentence explicitly denies that this piece produced illumination." },
+        { "distractor": "anecdote", "closeness": 2, "reasoning": "An anecdote is a brief story and would not be the sort of thing that gathers devoted readers for its argumentative force." },
+        { "distractor": "editorial", "closeness": 2, "reasoning": "'Editorial' names where a piece was published rather than its combative character, and the sentence is judging the latter." },
+        { "distractor": "concession", "closeness": 1, "reasoning": "A concession yields ground, which is incompatible with generating heat." },
+        { "distractor": "lullaby", "closeness": 1, "reasoning": "A lullaby belongs to a wholly different domain and has no relation to persuasion or argument." },
+        { "distractor": "apology", "closeness": 1, "reasoning": "An expression of regret would not draw devoted partisan readers or produce heat." }
+      ]
+    },
+    {
+      "sentence": "Rather than answer the review point by point, he published a sprawling polemic against the entire school of criticism the reviewer belonged to.",
+      "answerChoices": [
+        { "distractor": "rebuttal", "closeness": 3, "reasoning": "A rebuttal answers the specific charges, which the sentence says he pointedly declined to do in favor of attacking a whole school." },
+        { "distractor": "retraction", "closeness": 3, "reasoning": "A retraction withdraws something one said oneself, but he is going after the reviewer's camp rather than taking anything back." },
+        { "distractor": "commentary", "closeness": 3, "reasoning": "Commentary observes and explains, while this piece is aimed 'against' a school, which is a posture of attack rather than remark." },
+        { "distractor": "digression", "closeness": 3, "reasoning": "A digression is a wandering aside within a larger work, but this was published on its own as a deliberate response." },
+        { "distractor": "synopsis", "closeness": 2, "reasoning": "A synopsis condenses, which is incompatible with the sentence's description of the piece as sprawling." },
+        { "distractor": "errata", "closeness": 2, "reasoning": "Errata list corrections of small mistakes, not a broad assault on a critical movement." },
+        { "distractor": "monograph", "closeness": 2, "reasoning": "A monograph is a scholarly study of one narrow subject and would not be the natural vehicle for refusing to answer a review." },
+        { "distractor": "postscript", "closeness": 2, "reasoning": "A postscript is appended to an existing text, whereas this was published as a separate and sprawling work." },
+        { "distractor": "encomium", "closeness": 1, "reasoning": "An encomium is formal praise, the opposite of something written 'against' a school of criticism." },
+        { "distractor": "inventory", "closeness": 1, "reasoning": "An inventory is a list of holdings and has no argumentative function." },
+        { "distractor": "truce", "closeness": 1, "reasoning": "A truce ends hostilities, while his response escalated them by widening the target." }
+      ]
+    },
+    {
+      "sentence": "Read now, the pamphlet survives less as a polemic than as evidence of how bitterly the two congregations had come to regard each other.",
+      "answerChoices": [
+        { "distractor": "invective", "closeness": 3, "reasoning": "Invective is abusive language considered as speech, but the sentence treats the pamphlet as a document with a case to make, since it contrasts that function with its later use as historical evidence." },
+        { "distractor": "sermon", "closeness": 3, "reasoning": "A sermon addresses its own congregation for edification, whereas this pamphlet is defined by the hostility between two congregations." },
+        { "distractor": "chronicle", "closeness": 3, "reasoning": "A chronicle records events, but the sentence says the pamphlet became evidence only 'read now,' implying it was not written as a record in the first place." },
+        { "distractor": "allegory", "closeness": 3, "reasoning": "An allegory conveys meaning through sustained symbolic narrative, and nothing in the sentence suggests the pamphlet worked by figuration." },
+        { "distractor": "parable", "closeness": 2, "reasoning": "A parable teaches through a simple story, which does not match a document whose surviving interest is the bitterness it documents." },
+        { "distractor": "catechism", "closeness": 2, "reasoning": "A catechism instructs believers through set questions and answers rather than attacking a rival body." },
+        { "distractor": "petition", "closeness": 2, "reasoning": "A petition asks an authority for redress, but no authority is being addressed in the sentence." },
+        { "distractor": "reverie", "closeness": 2, "reasoning": "A reverie is a drifting meditation, incompatible with a text remembered for the bitterness between two parties." },
+        { "distractor": "benediction", "closeness": 1, "reasoning": "A blessing cannot be what a text is read as when its subject is mutual loathing." },
+        { "distractor": "almanac", "closeness": 1, "reasoning": "An almanac is a table of dates and forecasts, entirely outside the sentence's subject." },
+        { "distractor": "reconciliation", "closeness": 1, "reasoning": "Reconciliation is the healing of a breach, the opposite of what the sentence says the pamphlet records." }
+      ]
+    }
+  ]
+}

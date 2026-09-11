@@ -1,0 +1,53 @@
+{
+  "word": "precis",
+  "sentenceSets": [
+    {
+      "sentence": "She prepared a précis of the report for those who needed the conclusions without the methodology.",
+      "answerChoices": [
+        { "distractor": "abstract", "closeness": 3, "reasoning": "An abstract is written by the author and published with the work itself, but she prepared this separately afterward for a particular group of readers." },
+        { "distractor": "outline", "closeness": 3, "reasoning": "An outline lays out the skeleton of a document's organization, whereas these readers want the conclusions delivered, not a map of where the report puts things." },
+        { "distractor": "excerpt", "closeness": 3, "reasoning": "An excerpt lifts passages unchanged from the original, but omitting the methodology while keeping the conclusions requires condensing the whole rather than quoting a part." },
+        { "distractor": "digest", "closeness": 3, "reasoning": "A digest gathers and organizes material from many sources, while she worked from a single report." },
+        { "distractor": "appendix", "closeness": 2, "reasoning": "An appendix adds supporting material at the end, which is the opposite of stripping the methodology away." },
+        { "distractor": "transcript", "closeness": 2, "reasoning": "A transcript reproduces spoken words in full and would preserve everything rather than cutting the methodology." },
+        { "distractor": "affidavit", "closeness": 2, "reasoning": "An affidavit is a sworn written statement and has no place in circulating a report's findings internally." },
+        { "distractor": "annotation", "closeness": 2, "reasoning": "Annotations are notes added alongside a text, but these readers are being spared the text rather than given commentary on it." },
+        { "distractor": "expansion", "closeness": 1, "reasoning": "Enlarging the report would defeat the purpose of serving readers who want less of it." },
+        { "distractor": "rebuttal", "closeness": 1, "reasoning": "A rebuttal argues against the report, whereas she is passing its conclusions along." },
+        { "distractor": "invoice", "closeness": 1, "reasoning": "A bill for payment is unrelated to conveying a report's findings." }
+      ]
+    },
+    {
+      "sentence": "Each cadet was required to reduce the forty-page field manual to a one-page precis that a squad leader could read in the dark.",
+      "answerChoices": [
+        { "distractor": "synopsis", "closeness": 3, "reasoning": "A synopsis conventionally summarizes the plot of a narrative work, but this exercise condenses an instructional manual down to what a squad leader must know to act." },
+        { "distractor": "checklist", "closeness": 3, "reasoning": "A checklist is a bare series of items to tick off, whereas the assignment is to reduce the manual itself, preserving its substance in shorter form." },
+        { "distractor": "paraphrase", "closeness": 3, "reasoning": "A paraphrase restates a text in different words at roughly the same length, which cannot take forty pages down to one." },
+        { "distractor": "index", "closeness": 3, "reasoning": "An index points to where topics appear in the original, but a squad leader reading in the dark has no manual to turn to." },
+        { "distractor": "facsimile", "closeness": 2, "reasoning": "A facsimile reproduces the original exactly and would still run to forty pages." },
+        { "distractor": "errata", "closeness": 2, "reasoning": "Errata list corrections to a printed text rather than compress its contents." },
+        { "distractor": "glossary", "closeness": 2, "reasoning": "A glossary defines terms and would leave the manual's actual instructions out." },
+        { "distractor": "manifest", "closeness": 2, "reasoning": "A manifest inventories cargo or passengers, which has nothing to do with condensing a field manual." },
+        { "distractor": "anthology", "closeness": 1, "reasoning": "An anthology collects many works together, the opposite of reducing one to a page." },
+        { "distractor": "elaboration", "closeness": 1, "reasoning": "Elaborating adds detail, which would take the manual past forty pages rather than down to one." },
+        { "distractor": "bayonet", "closeness": 1, "reasoning": "A weapon is not something a cadet writes on a single page." }
+      ]
+    },
+    {
+      "sentence": "The minister read only the precis her staff had left on the desk, which is why she was unprepared for the question about the Kenyan supplier.",
+      "answerChoices": [
+        { "distractor": "briefing", "closeness": 3, "reasoning": "A briefing is an oral session in which aides walk an official through a matter, but this was left on the desk as a document to be read." },
+        { "distractor": "memorandum", "closeness": 3, "reasoning": "A memorandum conveys new information or instruction of its own, whereas the failure here is that a longer source existed and she took only its shortened version." },
+        { "distractor": "dossier", "closeness": 3, "reasoning": "A dossier is a thick collection of documents on a subject, which would have contained the detail about the supplier rather than omitting it." },
+        { "distractor": "transcript", "closeness": 3, "reasoning": "A transcript records everything said and could not have left out the Kenyan supplier." },
+        { "distractor": "agenda", "closeness": 2, "reasoning": "An agenda lists the items to be taken up, but her gap was in substance rather than in knowing what topics would arise." },
+        { "distractor": "communiqué", "closeness": 2, "reasoning": "A communiqué is an official statement issued outward to the public, not a document left for a minister's own preparation." },
+        { "distractor": "subpoena", "closeness": 2, "reasoning": "A subpoena compels testimony and is not reading material prepared by staff." },
+        { "distractor": "itinerary", "closeness": 2, "reasoning": "An itinerary sets out travel arrangements and would not bear on a question about a supplier." },
+        { "distractor": "verbatim", "closeness": 1, "reasoning": "'Verbatim' describes reproducing every word, which would have included the detail she lacked." },
+        { "distractor": "ovation", "closeness": 1, "reasoning": "Applause is not something left on a desk to be read." },
+        { "distractor": "carafe", "closeness": 1, "reasoning": "A water jug is an object on a desk, not something one reads before a hearing." }
+      ]
+    }
+  ]
+}

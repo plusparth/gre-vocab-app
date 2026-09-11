@@ -1,0 +1,53 @@
+{
+  "word": "impudence",
+  "sentenceSets": [
+    {
+      "sentence": "The impudence of the request was remarkable, coming as it did from someone who had done nothing to earn the favor.",
+      "answerChoices": [
+        { "distractor": "audacity", "closeness": 3, "reasoning": "Audacity is daring in the face of difficulty, but the sentence's emphasis falls on the absence of any claim behind the asking rather than on nerve." },
+        { "distractor": "temerity", "closeness": 3, "reasoning": "Temerity implies rashness before a risk, and nothing here suggests the request exposed its maker to any danger." },
+        { "distractor": "arrogance", "closeness": 3, "reasoning": "Arrogance is an inflated sense of one's own worth, while what strikes the observer is the request arriving with nothing whatever to support it." },
+        { "distractor": "ingratitude", "closeness": 3, "reasoning": "Ingratitude concerns failing to acknowledge favors received, yet in this sentence the favor has not even been granted." },
+        { "distractor": "novelty", "closeness": 2, "reasoning": "Nothing marks the request as unusual in kind; what is remarkable is who was making it and on what basis." },
+        { "distractor": "urgency", "closeness": 2, "reasoning": "No deadline or pressure appears in the sentence, only the asker's lack of standing." },
+        { "distractor": "vagueness", "closeness": 2, "reasoning": "The request is described as unearned rather than unclear; its content is not at issue." },
+        { "distractor": "greed", "closeness": 2, "reasoning": "Greed would concern how much was wanted, while the sentence weighs whether the asker had any right to ask at all." },
+        { "distractor": "humility", "closeness": 1, "reasoning": "Humility would have kept the request unmade by someone with no claim on the favor." },
+        { "distractor": "deference", "closeness": 1, "reasoning": "Deference is the opposite of what makes an unearned request remarkable." },
+        { "distractor": "precision", "closeness": 1, "reasoning": "Exactness of wording has nothing to do with whether the asker had earned anything." }
+      ]
+    },
+    {
+      "sentence": "The boy answered the magistrate with an impudence that drew laughter from the gallery and a warning from the bench.",
+      "answerChoices": [
+        { "distractor": "insolence", "closeness": 3, "reasoning": "Insolence carries open contempt, but the gallery's laughter marks the reply as cheeky rather than scornful." },
+        { "distractor": "flippancy", "closeness": 3, "reasoning": "Flippancy brushes a serious matter aside, whereas the boy does answer the question the magistrate put to him." },
+        { "distractor": "defiance", "closeness": 3, "reasoning": "Defiance refuses what is demanded, and the sentence shows him complying to the extent of giving an answer." },
+        { "distractor": "wit", "closeness": 3, "reasoning": "Cleverness alone would explain the laughter but not the warning from the bench, which shows the reply crossed a line rather than merely amused." },
+        { "distractor": "bravado", "closeness": 2, "reasoning": "Bravado is courage performed for an audience, while the gallery's laughter is given as a reaction rather than as something he was playing to." },
+        { "distractor": "candor", "closeness": 2, "reasoning": "Plain truthfulness would not earn a caution from a magistrate who had asked for an answer." },
+        { "distractor": "obscenity", "closeness": 2, "reasoning": "Nothing indicates coarse language; what is at issue is how he addressed the court." },
+        { "distractor": "petulance", "closeness": 2, "reasoning": "Petulance is sulky irritability, but this reply amuses the gallery rather than souring the room." },
+        { "distractor": "meekness", "closeness": 1, "reasoning": "A meek answer draws neither laughter from a gallery nor a warning from a bench." },
+        { "distractor": "courtesy", "closeness": 1, "reasoning": "Courtesy toward the magistrate is exactly what the warning shows was absent." },
+        { "distractor": "timidity", "closeness": 1, "reasoning": "Timidity would have produced a quiet answer that nobody laughed at." }
+      ]
+    },
+    {
+      "sentence": "There was an impudence in the company's apology, which conceded nothing and asked customers to admire its honesty.",
+      "answerChoices": [
+        { "distractor": "cynicism", "closeness": 3, "reasoning": "Cynicism attributes bad faith to others, while here the company is making a claim on its customers' admiration rather than doubting theirs." },
+        { "distractor": "hypocrisy", "closeness": 3, "reasoning": "Hypocrisy professes a standard it privately violates, but the sentence shows the refusal to concede stated openly alongside the request for credit." },
+        { "distractor": "evasiveness", "closeness": 3, "reasoning": "Evasion dodges the subject, whereas this apology addresses it plainly and simply gives nothing up." },
+        { "distractor": "condescension", "closeness": 3, "reasoning": "Condescension talks down to its audience, yet this statement asks the audience to look up at the company instead." },
+        { "distractor": "incoherence", "closeness": 2, "reasoning": "The apology is entirely consistent on its own terms: no concession, plus a bid for admiration." },
+        { "distractor": "negligence", "closeness": 2, "reasoning": "Negligence is inattention to a duty, while the sentence describes a statement carefully composed to do two things at once." },
+        { "distractor": "vanity", "closeness": 2, "reasoning": "Vanity is self-admiration held privately, and here admiration is being solicited from customers." },
+        { "distractor": "opacity", "closeness": 2, "reasoning": "Nothing is being hidden; the refusal to concede sits on the surface of the statement." },
+        { "distractor": "contrition", "closeness": 1, "reasoning": "Genuine remorse would have conceded something, which the sentence says the apology pointedly did not." },
+        { "distractor": "modesty", "closeness": 1, "reasoning": "Modesty is incompatible with asking customers to admire you." },
+        { "distractor": "brevity", "closeness": 1, "reasoning": "Length is nowhere at issue in a statement described by what it withholds and what it requests." }
+      ]
+    }
+  ]
+}

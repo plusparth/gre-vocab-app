@@ -1,0 +1,53 @@
+{
+  "word": "rent",
+  "sentenceSets": [
+    {
+      "sentence": "After the third increase in two years, the rent on their one-bedroom apartment swallowed nearly half of what the couple earned.",
+      "answerChoices": [
+        { "distractor": "mortgage", "closeness": 3, "reasoning": "A mortgage is what owners pay a bank, but the sentence describes a sum charged on an apartment that keeps being raised by someone else, which is not how a fixed loan payment behaves." },
+        { "distractor": "lease", "closeness": 3, "reasoning": "A lease is the agreement itself, so it cannot be the thing that swallows half their earnings; the sentence names an amount of money, not a document." },
+        { "distractor": "fee", "closeness": 3, "reasoning": "A fee is a one-time or occasional charge for a service, which does not match a recurring housing cost that consumes half of a couple's income." },
+        { "distractor": "dues", "closeness": 3, "reasoning": "Dues are paid by members to an organization they belong to, and nothing in the sentence puts the couple in a club or union." },
+        { "distractor": "deposit", "closeness": 2, "reasoning": "A deposit is paid once at move-in and returned later, so it could not be raised three times or absorb an ongoing share of their pay." },
+        { "distractor": "surcharge", "closeness": 2, "reasoning": "A surcharge is an extra amount added on top of a base price, whereas the sentence treats this sum as the whole housing cost." },
+        { "distractor": "levy", "closeness": 2, "reasoning": "A levy is imposed by a government body, but the sentence locates the charge on their apartment rather than on their income or property taxes." },
+        { "distractor": "installment", "closeness": 2, "reasoning": "An installment is one slice of a debt being paid down toward an end point, while the sentence describes a cost that only keeps climbing." },
+        { "distractor": "wage", "closeness": 1, "reasoning": "A wage is money the couple receives, and the sentence already contrasts this sum with what they earn." },
+        { "distractor": "dividend", "closeness": 1, "reasoning": "A dividend is income paid to shareholders, the opposite of an expense that consumes half their pay." },
+        { "distractor": "refund", "closeness": 1, "reasoning": "A refund returns money to them and could not swallow any portion of their earnings." }
+      ]
+    },
+    {
+      "sentence": "The landlord agreed to waive a month's rent while the building's heating system was torn out and replaced.",
+      "answerChoices": [
+        { "distractor": "payment", "closeness": 3, "reasoning": "Payment is generic and could name any sum owed to anyone, but the sentence specifies a landlord forgiving a monthly housing charge to tenants enduring construction." },
+        { "distractor": "rate", "closeness": 3, "reasoning": "A rate is a price per unit rather than an amount actually due, and one waives money owed, not the pricing formula behind it." },
+        { "distractor": "charge", "closeness": 3, "reasoning": "A charge points to a specific billed item, yet the concession here covers an entire month of occupancy rather than one line on a bill." },
+        { "distractor": "board", "closeness": 3, "reasoning": "Board is payment for meals provided with lodging, and the disruption described is to heating, not to any food service." },
+        { "distractor": "insurance", "closeness": 2, "reasoning": "Insurance is bought from an insurer, not waived by a landlord, and a broken furnace would not suspend a policy." },
+        { "distractor": "maintenance", "closeness": 2, "reasoning": "Maintenance is precisely what the landlord is performing in the sentence, so it is the service being rendered rather than the money being forgiven." },
+        { "distractor": "utilities", "closeness": 2, "reasoning": "Utilities are metered services billed by suppliers, and waiving them for one month would not be the landlord's to grant in the way the sentence implies." },
+        { "distractor": "interest", "closeness": 2, "reasoning": "Interest accrues on borrowed money, and no loan between tenant and landlord appears anywhere in the sentence." },
+        { "distractor": "profit", "closeness": 1, "reasoning": "Profit is what the landlord keeps, not a monthly amount he can excuse a tenant from paying." },
+        { "distractor": "salary", "closeness": 1, "reasoning": "A salary is paid to an employee, and the sentence describes a building's occupants, not its staff." },
+        { "distractor": "bonus", "closeness": 1, "reasoning": "A bonus is extra money given out, so waiving one would be a penalty rather than the relief the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "Because the storefront sat empty through an entire year, the owner finally dropped the rent low enough to tempt a tenant inside.",
+      "answerChoices": [
+        { "distractor": "price", "closeness": 3, "reasoning": "Dropping the price suggests selling the storefront outright, but the sentence's goal is to attract a tenant, someone who occupies rather than buys." },
+        { "distractor": "quote", "closeness": 3, "reasoning": "A quote is a figure offered to one prospective customer, whereas the sentence describes a standing amount lowered until anyone would take the space." },
+        { "distractor": "commission", "closeness": 3, "reasoning": "A commission is what an agent earns on a deal, and cutting it would motivate the broker rather than the tenant the owner is trying to lure in." },
+        { "distractor": "overhead", "closeness": 3, "reasoning": "Overhead is the owner's own cost of running the property, which he could reduce without changing anything a prospective tenant sees." },
+        { "distractor": "taxes", "closeness": 2, "reasoning": "Taxes are set by the municipality, not dropped at an owner's discretion to fill a vacancy." },
+        { "distractor": "valuation", "closeness": 2, "reasoning": "A valuation is an estimate of worth for accounting or sale purposes and has no direct effect on what a tenant would pay each month." },
+        { "distractor": "appraisal", "closeness": 2, "reasoning": "An appraisal is a professional judgment of value that the owner cannot simply lower himself to attract occupants." },
+        { "distractor": "upkeep", "closeness": 2, "reasoning": "Cutting upkeep would make the empty storefront less appealing, working against the aim of tempting someone inside." },
+        { "distractor": "tuition", "closeness": 1, "reasoning": "Tuition is charged to students by a school and has no place in a transaction about commercial floor space." },
+        { "distractor": "gratuity", "closeness": 1, "reasoning": "A gratuity is a voluntary tip for service and is not something an owner sets for a vacant shop." },
+        { "distractor": "stipend", "closeness": 1, "reasoning": "A stipend is money paid out to support someone, the reverse of a sum collected from whoever occupies the storefront." }
+      ]
+    }
+  ]
+}

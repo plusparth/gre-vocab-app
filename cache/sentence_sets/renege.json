@@ -1,0 +1,53 @@
+{
+  "word": "renege",
+  "sentenceSets": [
+    {
+      "sentence": "He reneged on the commitment when it became inconvenient, making future negotiations with him considerably more cautious.",
+      "answerChoices": [
+        { "distractor": "defaulted", "closeness": 3, "reasoning": "The sentence describes a deliberate choice made once the promise 'became inconvenient,' whereas defaulting names a failure to pay or perform that is usually framed as inability rather than a change of mind." },
+        { "distractor": "backpedaled", "closeness": 3, "reasoning": "Backpedaling describes retreating from a position one has stated, but the sentence's consequence is that partners now bargain more warily with him, which points to an abandoned obligation rather than a softened opinion." },
+        { "distractor": "equivocated", "closeness": 3, "reasoning": "Equivocating means speaking ambiguously, yet nothing in the sentence suggests vague language; it reports a clean break from the commitment itself." },
+        { "distractor": "hedged", "closeness": 3, "reasoning": "Hedging would mean qualifying or protecting himself while still nominally keeping the commitment, but the wariness he now provokes implies the commitment was dropped outright." },
+        { "distractor": "wavered", "closeness": 2, "reasoning": "Wavering suggests indecision, which would not by itself justify the lasting caution the sentence says other parties now bring to negotiations with him." },
+        { "distractor": "deliberated", "closeness": 2, "reasoning": "Deliberating is simply weighing options, an ordinary and unobjectionable act that would not damage his standing in later talks." },
+        { "distractor": "stalled", "closeness": 2, "reasoning": "Stalling implies delay, but the sentence's framing—inconvenience followed by permanently diminished trust—indicates the obligation ended rather than slowed." },
+        { "distractor": "expounded", "closeness": 2, "reasoning": "Expounding on a commitment means explaining it at length, which is not something that would make counterparties approach him cautiously." },
+        { "distractor": "insisted", "closeness": 1, "reasoning": "Insisting on the commitment would mean holding firm to it, the opposite of the behavior that the sentence says cost him credibility." },
+        { "distractor": "capitalized", "closeness": 1, "reasoning": "Capitalizing on something means exploiting it for gain, which does not explain why others became more guarded about dealing with him." },
+        { "distractor": "reported", "closeness": 1, "reasoning": "Reporting on a commitment is merely describing it to others and has no connection to the loss of trust the sentence records." }
+      ]
+    },
+    {
+      "sentence": "The label reneged on its promise of a second album once the debut sold poorly, leaving the band without studio time or an advance.",
+      "answerChoices": [
+        { "distractor": "welshed", "closeness": 3, "reasoning": "This slang for skipping out on a debt fits a gambler dodging a payout, but the sentence describes a corporation formally withdrawing a contractual promise, not a furtive personal escape." },
+        { "distractor": "retracted", "closeness": 3, "reasoning": "Retracting takes a statement as its object rather than working with 'on,' and the harm described—lost studio time and money—flows from an abandoned obligation, not from an announcement being taken back." },
+        { "distractor": "reversed", "closeness": 3, "reasoning": "Reversing suggests turning a decision the other way, which would imply the label had first refused and then agreed, the opposite sequence from the one the poor sales trigger." },
+        { "distractor": "waffled", "closeness": 3, "reasoning": "Waffling implies continuing indecision, yet the band is left with nothing at all, which shows a settled withdrawal rather than vacillation." },
+        { "distractor": "haggled", "closeness": 2, "reasoning": "Haggling is negotiating over terms, and the sentence shows no counteroffer—the band simply receives nothing." },
+        { "distractor": "delivered", "closeness": 2, "reasoning": "Delivering on a promise would have produced the album, contradicting the loss of studio time the sentence records." },
+        { "distractor": "relied", "closeness": 2, "reasoning": "Relying on a promise is what the band did, not what the label did; the sentence puts the label in the role of the party that failed." },
+        { "distractor": "soured", "closeness": 2, "reasoning": "Souring describes a relationship going bad over time, whereas the sentence ties the outcome to one decisive event, the debut's poor sales." },
+        { "distractor": "honored", "closeness": 1, "reasoning": "Honoring the promise would mean the second album went forward, which the sentence explicitly denies." },
+        { "distractor": "doubled", "closeness": 1, "reasoning": "Doubling down on the promise would mean committing further, the reverse of leaving the band with no advance." },
+        { "distractor": "toured", "closeness": 1, "reasoning": "Touring is unrelated to a label's contractual behavior and does not explain the band's loss of studio time." }
+      ]
+    },
+    {
+      "sentence": "If the ministry reneges now, the families who surrendered their land in exchange for housing will have no recourse at all.",
+      "answerChoices": [
+        { "distractor": "demurs", "closeness": 3, "reasoning": "Demurring is raising a polite objection before agreeing to something, but the families have already handed over their land, so what is at stake is an agreement being broken rather than one being hesitated over." },
+        { "distractor": "balks", "closeness": 3, "reasoning": "Balking describes refusing to take a step one was expected to take next, while the sentence's exchange has already been half performed, making the issue a pledge already given." },
+        { "distractor": "dithers", "closeness": 3, "reasoning": "Dithering means delaying through indecision, yet the consequence described is total loss of recourse, which follows from a repudiated bargain rather than a slow one." },
+        { "distractor": "temporizes", "closeness": 3, "reasoning": "Temporizing is stalling to gain time, but the families' predicament is permanent and absolute, which points to the deal being abandoned rather than postponed." },
+        { "distractor": "retreats", "closeness": 2, "reasoning": "Retreating suggests withdrawing from a confrontation, and the sentence describes no dispute with the families, only an exchange the ministry might fail to complete." },
+        { "distractor": "economizes", "closeness": 2, "reasoning": "Economizing means spending less, which might delay the housing but would not leave the families entirely without remedy." },
+        { "distractor": "relents", "closeness": 2, "reasoning": "Relenting means yielding to pressure and would help the families, not strip them of recourse." },
+        { "distractor": "deliberates", "closeness": 2, "reasoning": "Deliberating is weighing a question, an ordinary administrative act that would not produce the catastrophic outcome the sentence warns of." },
+        { "distractor": "compensates", "closeness": 1, "reasoning": "Compensating the families would give them exactly the remedy the sentence says they would lack." },
+        { "distractor": "reimburses", "closeness": 1, "reasoning": "Reimbursing them would restore what they surrendered, contradicting the warning that they will be left with nothing." },
+        { "distractor": "surveys", "closeness": 1, "reasoning": "Surveying is a routine measurement of land and has no bearing on whether the promised housing ever materializes." }
+      ]
+    }
+  ]
+}

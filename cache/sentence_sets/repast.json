@@ -1,0 +1,53 @@
+{
+  "word": "repast",
+  "sentenceSets": [
+    {
+      "sentence": "The repast that followed the ceremony was as carefully curated as everything else about the occasion.",
+      "answerChoices": [
+        { "distractor": "banquet", "closeness": 3, "reasoning": "A banquet implies a large ceremonial dinner staged as an event in its own right, but the sentence treats this as one curated element among many rather than the centerpiece." },
+        { "distractor": "feast", "closeness": 3, "reasoning": "A feast emphasizes abundance and indulgence, while the sentence praises careful curation, a matter of selection rather than quantity." },
+        { "distractor": "buffet", "closeness": 3, "reasoning": "A buffet names a serving arrangement in which guests help themselves, a detail the sentence never touches on as it focuses on how deliberately everything was chosen." },
+        { "distractor": "spread", "closeness": 3, "reasoning": "A spread refers to food laid out for display, which describes presentation rather than the eating that follows a ceremony." },
+        { "distractor": "reception", "closeness": 2, "reasoning": "A reception is the whole gathering after a ceremony, not the food served at it, and the sentence distinguishes this from 'everything else about the occasion.'" },
+        { "distractor": "menu", "closeness": 2, "reasoning": "A menu is the written list of what will be served, and a list does not itself 'follow the ceremony.'" },
+        { "distractor": "toast", "closeness": 2, "reasoning": "A toast is a brief speech with raised glasses, which would not be described as curated in the way the surrounding arrangements were." },
+        { "distractor": "procession", "closeness": 2, "reasoning": "A procession is a formal walk, and nothing in the sentence suggests movement or a parade following the ceremony." },
+        { "distractor": "sermon", "closeness": 1, "reasoning": "A sermon is a religious address, which belongs to the ceremony itself rather than to what came after it." },
+        { "distractor": "invoice", "closeness": 1, "reasoning": "An invoice is a bill, and describing a bill as curated makes no sense alongside the occasion's other arrangements." },
+        { "distractor": "rehearsal", "closeness": 1, "reasoning": "A rehearsal necessarily precedes a ceremony, contradicting the sentence's explicit statement that this followed it." }
+      ]
+    },
+    {
+      "sentence": "The hikers unwrapped a modest repast of bread, cheese, and dried apricots on a flat rock beside the stream.",
+      "answerChoices": [
+        { "distractor": "picnic", "closeness": 3, "reasoning": "A picnic names the outing as a whole, including the setting and the occasion, whereas the sentence puts the emphasis on what was unwrapped and eaten." },
+        { "distractor": "ration", "closeness": 3, "reasoning": "A ration is a fixed allotment doled out under scarcity or discipline, but these hikers are simply stopping to eat what they packed." },
+        { "distractor": "snack", "closeness": 3, "reasoning": "A snack is a small bite between meals, while bread, cheese, and fruit laid out on a rock constitute the hikers' sitting-down meal." },
+        { "distractor": "portion", "closeness": 3, "reasoning": "A portion is one person's share of a larger dish, which does not fit an assortment shared by a group of hikers at a rest stop." },
+        { "distractor": "hamper", "closeness": 2, "reasoning": "A hamper is the basket the food travels in, a container rather than the food that is unwrapped from it." },
+        { "distractor": "provision", "closeness": 2, "reasoning": "Provisions are supplies held in reserve for a journey, not the specific spread being eaten at this moment by the stream." },
+        { "distractor": "course", "closeness": 2, "reasoning": "A course is one stage of a multi-part meal, and there is no sequence of dishes here, only a single modest assortment." },
+        { "distractor": "platter", "closeness": 2, "reasoning": "A platter is the dish food rests on, which one does not unwrap alongside bread and cheese." },
+        { "distractor": "appetite", "closeness": 1, "reasoning": "An appetite is a desire to eat and cannot be unwrapped and set on a rock." },
+        { "distractor": "recipe", "closeness": 1, "reasoning": "A recipe is a set of instructions, not something consisting of bread, cheese, and apricots." },
+        { "distractor": "campfire", "closeness": 1, "reasoning": "A campfire is a fire, which could not be made of dried fruit or unwrapped." }
+      ]
+    },
+    {
+      "sentence": "The innkeeper set a hot repast before the travelers before sending them back out into the storm.",
+      "answerChoices": [
+        { "distractor": "supper", "closeness": 3, "reasoning": "Supper names the evening meal specifically, but the sentence gives no time of day and stresses only that the food was hot before the travelers went back out." },
+        { "distractor": "refreshment", "closeness": 3, "reasoning": "Refreshment suggests a light restorative such as a drink, which would not be what an innkeeper sets before people about to face a storm." },
+        { "distractor": "broth", "closeness": 3, "reasoning": "Broth names one particular dish, while the sentence leaves the food unspecified and emphasizes only that it was served hot." },
+        { "distractor": "helping", "closeness": 3, "reasoning": "A helping is an individual serving spooned from a dish, yet the sentence describes what was set before the travelers as a group before their departure." },
+        { "distractor": "beverage", "closeness": 2, "reasoning": "A beverage is a drink alone, which the phrase 'set before the travelers' as their sustenance before a hard journey does not adequately cover." },
+        { "distractor": "kettle", "closeness": 2, "reasoning": "A kettle is a vessel for heating liquid, not something an innkeeper would offer travelers to consume." },
+        { "distractor": "welcome", "closeness": 2, "reasoning": "A welcome is a greeting, and the sentence's contrast with being sent back into the storm points to something the travelers consumed, not merely how they were received." },
+        { "distractor": "remedy", "closeness": 2, "reasoning": "A remedy treats an illness, and nothing in the sentence indicates the travelers were sick rather than cold and hungry." },
+        { "distractor": "bath", "closeness": 1, "reasoning": "A bath is not something set before a person at a table, however hot it might be." },
+        { "distractor": "lecture", "closeness": 1, "reasoning": "A lecture cannot be hot, and delivering one has no connection to preparing travelers for a storm." },
+        { "distractor": "ledger", "closeness": 1, "reasoning": "A ledger is an account book, which an innkeeper might keep but would not serve to guests." }
+      ]
+    }
+  ]
+}

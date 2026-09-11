@@ -1,0 +1,53 @@
+{
+  "word": "consequential",
+  "sentenceSets": [
+    {
+      "sentence": "The decision was more consequential than it appeared; the precedent it set would shape policy for years.",
+      "answerChoices": [
+        { "distractor": "significant", "closeness": 3, "reasoning": "Significant reports that something matters in the moment, but the sentence measures the decision by the downstream policy it would shape for years." },
+        { "distractor": "momentous", "closeness": 3, "reasoning": "Momentous describes an event felt as historic as it happens, which contradicts a decision that looked minor at the time." },
+        { "distractor": "weighty", "closeness": 3, "reasoning": "Weighty points to the seriousness of the matter being decided, whereas the sentence's evidence is entirely about what followed from the decision." },
+        { "distractor": "influential", "closeness": 3, "reasoning": "Influential usually describes people or works that persuade others, but a precedent binds by rule rather than by persuasion." },
+        { "distractor": "controversial", "closeness": 2, "reasoning": "Controversial would require opposition, and the sentence says only that the decision's importance was underestimated." },
+        { "distractor": "deliberate", "closeness": 2, "reasoning": "Deliberate concerns how carefully the decision was made, not the long shadow it cast over later policy." },
+        { "distractor": "technical", "closeness": 2, "reasoning": "Technical describes the subject matter, which would explain why the decision looked minor but not why it mattered so much." },
+        { "distractor": "unpopular", "closeness": 2, "reasoning": "Unpopular concerns public reception, a point the sentence never raises." },
+        { "distractor": "trivial", "closeness": 1, "reasoning": "Trivial contradicts a precedent that shaped policy for years." },
+        { "distractor": "negligible", "closeness": 1, "reasoning": "Negligible is the reading the sentence explicitly corrects with the word 'more'." },
+        { "distractor": "routine", "closeness": 1, "reasoning": "Routine clashes with a decision singled out for setting a lasting precedent." }
+      ]
+    },
+    {
+      "sentence": "Choosing the sampling method looked like a technicality, but it turned out to be the most consequential choice in the entire study.",
+      "answerChoices": [
+        { "distractor": "decisive", "closeness": 3, "reasoning": "Decisive means the choice settled the outcome by itself, but the sentence ranks it against every other choice in the study rather than crediting it with determining the result." },
+        { "distractor": "pivotal", "closeness": 3, "reasoning": "Pivotal implies a turning point where a course reversed, whereas this choice was made at the outset and shaped everything after it without any reversal." },
+        { "distractor": "critical", "closeness": 3, "reasoning": "Critical suggests a point of failure where things could go badly wrong, but the sentence measures importance relative to other design choices rather than flagging a risk." },
+        { "distractor": "fateful", "closeness": 3, "reasoning": "Fateful carries a sense of doom, which the sentence's neutral comparison across the study's choices does not support." },
+        { "distractor": "contentious", "closeness": 2, "reasoning": "Contentious would mean researchers argued about it, contradicting a choice that looked like a mere technicality at the time." },
+        { "distractor": "laborious", "closeness": 2, "reasoning": "Laborious describes effort required, which has nothing to do with how much the choice mattered to the study." },
+        { "distractor": "expensive", "closeness": 2, "reasoning": "Expensive concerns cost, but the sentence compares the choice's importance, not its price." },
+        { "distractor": "arbitrary", "closeness": 2, "reasoning": "Arbitrary would mean the method was picked without reason, which says nothing about the weight the sentence assigns the choice." },
+        { "distractor": "incidental", "closeness": 1, "reasoning": "Incidental is the mistaken first impression the sentence overturns." },
+        { "distractor": "cosmetic", "closeness": 1, "reasoning": "Cosmetic means surface-level and without effect, contradicting the choice's ranking above all others." },
+        { "distractor": "inconsequential", "closeness": 1, "reasoning": "Inconsequential is the direct opposite of what the sentence concludes." }
+      ]
+    },
+    {
+      "sentence": "He moved with the deliberate slowness of a consequential man, though his office had been abolished two years earlier.",
+      "answerChoices": [
+        { "distractor": "distinguished", "closeness": 3, "reasoning": "Distinguished points to honors earned over a career, but the joke of the sentence rests on the office he no longer holds, which is about standing and reach rather than reputation." },
+        { "distractor": "eminent", "closeness": 3, "reasoning": "Eminent describes renown in a field, whereas the abolished office indicates the man's pretension concerns institutional weight, not fame." },
+        { "distractor": "powerful", "closeness": 3, "reasoning": "Powerful states the case too baldly for a sentence built on mere bearing and posture, and it would leave no room for the irony the abolished office supplies." },
+        { "distractor": "self-important", "closeness": 3, "reasoning": "Self-important would put the pretension in the man's own view of himself, which spoils the sentence's construction of a bearing borrowed from men who really do matter." },
+        { "distractor": "elderly", "closeness": 2, "reasoning": "Elderly would explain slowness physically, but the sentence calls the slowness deliberate and ties it to his lost office." },
+        { "distractor": "wealthy", "closeness": 2, "reasoning": "Wealthy concerns money, and the sentence's irony turns on an official position rather than a fortune." },
+        { "distractor": "tenured", "closeness": 2, "reasoning": "Tenured describes secure academic employment, which does not match an office that could simply be abolished." },
+        { "distractor": "ceremonial", "closeness": 2, "reasoning": "Ceremonial would describe a role stripped of power, which is closer to his actual situation than to the impression he is trying to give." },
+        { "distractor": "obscure", "closeness": 1, "reasoning": "Obscure is what he is trying not to look like as he moves through the room." },
+        { "distractor": "anonymous", "closeness": 1, "reasoning": "Anonymous contradicts a bearing meant to convey standing." },
+        { "distractor": "frivolous", "closeness": 1, "reasoning": "Frivolous clashes with deliberate slowness cultivated to project gravity." }
+      ]
+    }
+  ]
+}

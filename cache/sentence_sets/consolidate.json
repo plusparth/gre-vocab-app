@@ -1,0 +1,53 @@
+{
+  "word": "consolidate",
+  "sentenceSets": [
+    {
+      "sentence": "The company moved to consolidate its regional offices into a single headquarters, cutting overhead significantly.",
+      "answerChoices": [
+        { "distractor": "merge", "closeness": 3, "reasoning": "Merging normally joins separate companies into a new entity, but these offices already belong to one firm and are simply being gathered into one site." },
+        { "distractor": "combine", "closeness": 3, "reasoning": "Combining is a bare statement of putting things together, which leaves out the strengthening through simplification that the overhead savings point to." },
+        { "distractor": "centralize", "closeness": 3, "reasoning": "Centralizing moves authority to a single point while local offices may remain open, whereas the sentence has the offices themselves collapsing into one headquarters." },
+        { "distractor": "integrate", "closeness": 3, "reasoning": "Integrating makes separate systems work together without abolishing them, which would not produce the reduction in overhead the sentence reports." },
+        { "distractor": "relocate", "closeness": 2, "reasoning": "Relocating moves offices to new addresses, which would not by itself reduce their number or their cost." },
+        { "distractor": "expand", "closeness": 2, "reasoning": "Expanding adds capacity and expense, contradicting the significant cut in overhead." },
+        { "distractor": "franchise", "closeness": 2, "reasoning": "Franchising licenses the brand to independent operators, which disperses rather than gathers the company's offices." },
+        { "distractor": "downsize", "closeness": 2, "reasoning": "Downsizing cuts staff, but the sentence describes offices being brought together rather than people being let go." },
+        { "distractor": "disperse", "closeness": 1, "reasoning": "Dispersing scatters the offices, the reverse of gathering them into a single headquarters." },
+        { "distractor": "fragment", "closeness": 1, "reasoning": "Fragmenting would break the company into more pieces, not fewer." },
+        { "distractor": "duplicate", "closeness": 1, "reasoning": "Duplicating offices would raise overhead rather than cut it." }
+      ]
+    },
+    {
+      "sentence": "After two seasons of experiment the coach set out to consolidate the gains, drilling the same three plays until they were automatic.",
+      "answerChoices": [
+        { "distractor": "entrench", "closeness": 3, "reasoning": "Entrenching suggests digging in defensively against attack, but the drilling described is about making a young team's progress reliable, not about resisting anyone." },
+        { "distractor": "cement", "closeness": 3, "reasoning": "Cementing fixes something permanently in place, whereas repetitive drilling builds a working proficiency the team can still develop further." },
+        { "distractor": "reinforce", "closeness": 3, "reasoning": "Reinforcing adds strength from outside, while the coach adds nothing new and instead works the existing three plays until they hold." },
+        { "distractor": "preserve", "closeness": 3, "reasoning": "Preserving keeps something unchanged, which fails to capture the active drilling that turns tentative gains into automatic execution." },
+        { "distractor": "exploit", "closeness": 2, "reasoning": "Exploiting means cashing in on an advantage, but the sentence shows the coach in practice rather than in a match." },
+        { "distractor": "showcase", "closeness": 2, "reasoning": "Showcasing displays the gains to others, which repeated closed drilling does not do." },
+        { "distractor": "audit", "closeness": 2, "reasoning": "Auditing measures what has been achieved, whereas the coach is working to make it stick." },
+        { "distractor": "celebrate", "closeness": 2, "reasoning": "Celebrating marks the gains, but the sentence describes grinding repetition instead." },
+        { "distractor": "abandon", "closeness": 1, "reasoning": "Abandoning the gains contradicts drilling the same plays until they are automatic." },
+        { "distractor": "squander", "closeness": 1, "reasoning": "Squandering would waste two seasons of progress the coach is plainly protecting." },
+        { "distractor": "reverse", "closeness": 1, "reasoning": "Reversing would undo the gains the drilling is meant to secure." }
+      ]
+    },
+    {
+      "sentence": "She consolidated six credit cards into one loan at a lower rate and finally stopped losing track of the due dates.",
+      "answerChoices": [
+        { "distractor": "refinanced", "closeness": 3, "reasoning": "Refinancing replaces a debt with a cheaper one, which explains the lower rate but not the six separate balances becoming a single obligation with one due date." },
+        { "distractor": "bundled", "closeness": 3, "reasoning": "Bundling packages items together while they remain individually identifiable, whereas the sentence's relief comes from six due dates being replaced by one." },
+        { "distractor": "converted", "closeness": 3, "reasoning": "Converting changes something from one form to another one for one, but here six obligations become a single loan." },
+        { "distractor": "transferred", "closeness": 3, "reasoning": "Transferring moves balances from one card to another, which would leave her with a card rather than the loan the sentence names." },
+        { "distractor": "canceled", "closeness": 2, "reasoning": "Cancelling the cards would not create the loan that now carries the balance." },
+        { "distractor": "renegotiated", "closeness": 2, "reasoning": "Renegotiating adjusts terms with existing creditors, which would leave the six due dates she was losing track of." },
+        { "distractor": "itemized", "closeness": 2, "reasoning": "Itemizing lists debts separately, the opposite of the single obligation she ended up with." },
+        { "distractor": "deferred", "closeness": 2, "reasoning": "Deferring postpones payment, which would not lower the rate or reduce the number of due dates." },
+        { "distractor": "multiplied", "closeness": 1, "reasoning": "Multiplying the cards would worsen the tracking problem the sentence says she solved." },
+        { "distractor": "misplaced", "closeness": 1, "reasoning": "Misplacing cards cannot produce a loan at a lower rate." },
+        { "distractor": "shredded", "closeness": 1, "reasoning": "Shredding the cards would destroy them without addressing the balances they carried." }
+      ]
+    }
+  ]
+}

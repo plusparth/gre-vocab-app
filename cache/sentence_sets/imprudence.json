@@ -1,0 +1,53 @@
+{
+  "word": "imprudence",
+  "sentenceSets": [
+    {
+      "sentence": "The imprudence of the decision became apparent only after the circumstances that had made it seem reasonable had changed.",
+      "answerChoices": [
+        { "distractor": "folly", "closeness": 3, "reasoning": "Folly marks something as foolish on its face, yet the sentence concedes that the decision looked reasonable under the conditions that held when it was made." },
+        { "distractor": "recklessness", "closeness": 3, "reasoning": "Recklessness requires a risk consciously run, while the sentence says the flaw surfaced only once conditions shifted." },
+        { "distractor": "negligence", "closeness": 3, "reasoning": "Negligence is a failure to do what one owed, whereas the sentence describes a judgment that was actually made and defended at the time." },
+        { "distractor": "rashness", "closeness": 3, "reasoning": "Rashness concerns acting too quickly, and nothing here bears on how fast the decision was reached." },
+        { "distractor": "futility", "closeness": 2, "reasoning": "A futile decision achieves nothing from the outset, but this one served well enough until the surrounding circumstances changed." },
+        { "distractor": "arrogance", "closeness": 2, "reasoning": "No claim about the decider's self-regard appears; the sentence turns entirely on what happened to the conditions afterward." },
+        { "distractor": "obscurity", "closeness": 2, "reasoning": "Obscurity would mean the decision was hard to understand, while the sentence says its quality was plain enough until circumstances moved." },
+        { "distractor": "illegality", "closeness": 2, "reasoning": "Nothing suggests a rule was broken, since the fault appears only when the situation the decision rested on alters." },
+        { "distractor": "prudence", "closeness": 1, "reasoning": "Sound judgment would not be something that becomes apparent as a problem after circumstances change." },
+        { "distractor": "foresight", "closeness": 1, "reasoning": "Foresight would have survived the change in circumstances rather than being exposed by it." },
+        { "distractor": "clarity", "closeness": 1, "reasoning": "Clarity describes how plainly something is expressed and has no bearing on a decision undone by changed conditions." }
+      ]
+    },
+    {
+      "sentence": "A single imprudence at the reception, one remark about the host's finances, cost her invitations for years afterward.",
+      "answerChoices": [
+        { "distractor": "impertinence", "closeness": 3, "reasoning": "Impertinence is a failure of respect toward someone's standing, but the sentence gives no rank between her and the host and traces the damage to what the remark touched." },
+        { "distractor": "indelicacy", "closeness": 3, "reasoning": "Indelicacy is coarseness of taste, while the lasting cost here follows from raising a subject she should have seen would close doors." },
+        { "distractor": "blunder", "closeness": 3, "reasoning": "A blunder is a slip made by accident, yet the sentence describes a remark she chose to make in company." },
+        { "distractor": "candor", "closeness": 3, "reasoning": "Candor is simply speaking frankly, which by itself would not account for years of withdrawn invitations." },
+        { "distractor": "gaucherie", "closeness": 2, "reasoning": "Gaucherie is awkwardness of bearing, and the sentence points at the content of one remark rather than at clumsy manner." },
+        { "distractor": "malice", "closeness": 2, "reasoning": "Nothing indicates she meant harm; the remark is reported without any motive attached to it." },
+        { "distractor": "vulgarity", "closeness": 2, "reasoning": "Vulgarity is crudeness, but a comment on a host's finances is a matter of what should not be raised, not of coarse language." },
+        { "distractor": "flippancy", "closeness": 2, "reasoning": "Flippancy is treating a serious thing lightly, whereas the sentence emphasizes the subject the remark touched rather than the tone she took." },
+        { "distractor": "tact", "closeness": 1, "reasoning": "Tact would have kept the host's finances out of the conversation entirely." },
+        { "distractor": "discretion", "closeness": 1, "reasoning": "Discretion is what the lost invitations show was missing, not what caused them." },
+        { "distractor": "punctuality", "closeness": 1, "reasoning": "Arriving on time has nothing to do with a remark about someone's money." }
+      ]
+    },
+    {
+      "sentence": "Historians attribute the bank's collapse less to fraud than to the imprudence of lending against collateral no one had inspected in a decade.",
+      "answerChoices": [
+        { "distractor": "carelessness", "closeness": 3, "reasoning": "Carelessness is momentary inattention, while the sentence describes a lending practice sustained as policy across ten years." },
+        { "distractor": "temerity", "closeness": 3, "reasoning": "Temerity is boldness in the face of a known danger, but the sentence's point is that no one had looked, so the danger was never confronted at all." },
+        { "distractor": "credulity", "closeness": 3, "reasoning": "Credulity is believing what one is told, and nothing in the sentence says the bank was given any account of the collateral to believe." },
+        { "distractor": "profligacy", "closeness": 3, "reasoning": "Profligacy is wasteful spending, whereas the bank was lending against assets rather than squandering funds of its own." },
+        { "distractor": "corruption", "closeness": 2, "reasoning": "The sentence expressly sets this cause apart from fraud, which is where corruption would belong." },
+        { "distractor": "incompetence", "closeness": 2, "reasoning": "Wholesale incapacity would not describe a bank that ran for a decade; the failure named is specific to inspecting the collateral." },
+        { "distractor": "avarice", "closeness": 2, "reasoning": "Greed might explain an appetite for lending, but the sentence locates the failure in an inspection that never happened." },
+        { "distractor": "insolvency", "closeness": 2, "reasoning": "Insolvency is the collapse itself, and the sentence is naming the practice historians blame for it." },
+        { "distractor": "caution", "closeness": 1, "reasoning": "Caution would have sent someone to look at the collateral long before ten years had passed." },
+        { "distractor": "rigor", "closeness": 1, "reasoning": "Rigor is the opposite of leaving security uninspected for a decade." },
+        { "distractor": "brevity", "closeness": 1, "reasoning": "Brevity concerns length of expression and has no application to a lending practice." }
+      ]
+    }
+  ]
+}

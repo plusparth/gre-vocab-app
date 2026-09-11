@@ -1,0 +1,53 @@
+{
+  "word": "confound",
+  "sentenceSets": [
+    {
+      "sentence": "The unexpected result confounded even the researchers who had designed the experiment.",
+      "answerChoices": [
+        { "distractor": "puzzled", "closeness": 3, "reasoning": "Puzzling suggests a mild curiosity waiting to be worked out, which is too gentle for a result that defeated the very people who built the experiment." },
+        { "distractor": "baffled", "closeness": 3, "reasoning": "Baffling stops someone from understanding, but the sentence's emphasis on the designers being caught out points to their expectations being overturned, not merely to a gap in comprehension." },
+        { "distractor": "mystified", "closeness": 3, "reasoning": "Mystifying implies an air of mystery around something obscure, whereas the sentence describes a concrete experimental result that landed where nobody predicted." },
+        { "distractor": "stumped", "closeness": 3, "reasoning": "Stumping means being unable to answer a question put to you, but the researchers were not asked anything; their own design produced an outcome they did not expect." },
+        { "distractor": "alarmed", "closeness": 2, "reasoning": "Alarming implies fear of danger, and nothing in the sentence suggests the result threatened anyone." },
+        { "distractor": "embarrassed", "closeness": 2, "reasoning": "Embarrassing implies public loss of face, but the sentence reports only that the outcome was unexpected to its own designers." },
+        { "distractor": "delighted", "closeness": 2, "reasoning": "Delighting would make the surprise welcome, which the word 'even' in the sentence does not support." },
+        { "distractor": "contradicted", "closeness": 2, "reasoning": "Contradicting takes a claim as its object, but the object here is the researchers themselves rather than a stated hypothesis." },
+        { "distractor": "reassured", "closeness": 1, "reasoning": "Reassuring clashes with a result described as unexpected." },
+        { "distractor": "bored", "closeness": 1, "reasoning": "Boring is impossible for an outcome that caught its own designers off guard." },
+        { "distractor": "confirmed", "closeness": 1, "reasoning": "Confirming would mean the result matched expectations, contradicting 'unexpected'." }
+      ]
+    },
+    {
+      "sentence": "Sloppy record-keeping confounded the two shipments in the warehouse database, and it took weeks to work out which crate belonged to which order.",
+      "answerChoices": [
+        { "distractor": "conflated", "closeness": 3, "reasoning": "Conflating treats two ideas as one by argument or assumption, but the muddle here is a clerical one in a database, discovered crate by crate." },
+        { "distractor": "merged", "closeness": 3, "reasoning": "Merging would be a deliberate combination into a single record, whereas the sentence blames sloppy work and describes weeks spent untangling an accident." },
+        { "distractor": "transposed", "closeness": 3, "reasoning": "Transposing swaps two items cleanly into each other's places, which a simple reversal could undo rather than requiring weeks of sorting crate by crate." },
+        { "distractor": "duplicated", "closeness": 3, "reasoning": "Duplicating would create extra copies of each shipment, but the problem described is not knowing which crate belonged to which order." },
+        { "distractor": "mislabeled", "closeness": 2, "reasoning": "Mislabeling takes the crates or entries as its object, while the sentence makes the two shipments themselves what got mixed together." },
+        { "distractor": "relocated", "closeness": 2, "reasoning": "Relocating concerns physical movement, but the sentence puts the failure in the database rather than on the warehouse floor." },
+        { "distractor": "concealed", "closeness": 2, "reasoning": "Concealing would hide the shipments, whereas the records clearly contained both and simply could not keep them apart." },
+        { "distractor": "delayed", "closeness": 2, "reasoning": "Delaying describes a consequence in time, but the sentence's second clause shows the problem was identity, not schedule." },
+        { "distractor": "separated", "closeness": 1, "reasoning": "Separating the shipments is exactly what the weeks of untangling had to accomplish afterward." },
+        { "distractor": "itemized", "closeness": 1, "reasoning": "Itemizing would produce the clear per-crate listing the warehouse turned out not to have." },
+        { "distractor": "insured", "closeness": 1, "reasoning": "Insuring is a financial step unrelated to two shipments becoming indistinguishable in the records." }
+      ]
+    },
+    {
+      "sentence": "The team's late surge confounded the pundits who had written them off in October.",
+      "answerChoices": [
+        { "distractor": "astonished", "closeness": 3, "reasoning": "Astonishing records only the pundits' shock, while the sentence pits the surge directly against the verdict they had issued months earlier." },
+        { "distractor": "silenced", "closeness": 3, "reasoning": "Silencing would mean the pundits stopped commenting, but the sentence says nothing about them going quiet." },
+        { "distractor": "humbled", "closeness": 3, "reasoning": "Humbling would lower their pride, whereas the sentence sets their October dismissal against later results that made it wrong." },
+        { "distractor": "refuted", "closeness": 3, "reasoning": "Refuting answers an argument with a counterargument, but writing a team off is a forecast that events rather than reasoning overturn." },
+        { "distractor": "vindicated", "closeness": 2, "reasoning": "Vindicating would prove the pundits right, which a late surge by a team they dismissed cannot do." },
+        { "distractor": "infuriated", "closeness": 2, "reasoning": "Infuriating attributes anger to the pundits, an emotion the sentence never raises." },
+        { "distractor": "amused", "closeness": 2, "reasoning": "Amusing would make the surge entertaining to them rather than a rebuke of their judgment." },
+        { "distractor": "outpaced", "closeness": 2, "reasoning": "Outpacing implies a race between the team and the pundits, but the pundits were only making predictions." },
+        { "distractor": "pleased", "closeness": 1, "reasoning": "Pleasing sits badly with commentators whose October judgment the surge undid." },
+        { "distractor": "echoed", "closeness": 1, "reasoning": "Echoing would repeat the pundits' dismissal rather than overturn it." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Ignoring cannot be done by a surge, and the sentence makes the pundits the ones affected." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "conferred",
+  "sentenceSets": [
+    {
+      "sentence": "The university conferred an honorary degree on the scientist who had transformed the field.",
+      "answerChoices": [
+        { "distractor": "presented", "closeness": 3, "reasoning": "Presenting is the ceremonial handing over of an object at an event, but the sentence's actor is the institution itself and its object is a status the university alone can create." },
+        { "distractor": "awarded", "closeness": 3, "reasoning": "Awarding implies a field of candidates judged against one another, whereas the sentence singles out one scientist for work that reshaped a discipline, with no contest in view." },
+        { "distractor": "bestowed", "closeness": 3, "reasoning": "Bestowing casts the degree as a gift flowing from the giver's generosity, but the sentence grounds it in what the recipient had already accomplished." },
+        { "distractor": "endowed", "closeness": 3, "reasoning": "Endowing means supplying funds or a lasting quality, which does not fit a degree that names a person's standing rather than supporting an activity." },
+        { "distractor": "accredited", "closeness": 2, "reasoning": "Accrediting is what an outside body does to certify a university's programs, reversing the direction of authority the sentence establishes." },
+        { "distractor": "issued", "closeness": 2, "reasoning": "Issuing suits routine documents produced in quantity, which clashes with an honorary distinction tied to a singular career." },
+        { "distractor": "dedicated", "closeness": 2, "reasoning": "Dedicating sets something aside in a person's honor, but the degree in the sentence is received by the scientist, not named after him." },
+        { "distractor": "nominated", "closeness": 2, "reasoning": "Nominating puts a name forward for later consideration, whereas the sentence describes the university completing the act itself." },
+        { "distractor": "revoked", "closeness": 1, "reasoning": "Revoking would take a degree away, contradicting a scientist being honored for transforming the field." },
+        { "distractor": "sold", "closeness": 1, "reasoning": "Selling an honorary degree contradicts its being tied to the recipient's achievement." },
+        { "distractor": "borrowed", "closeness": 1, "reasoning": "Borrowing reverses the direction of the transaction the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "Citizenship conferred rights the refugees had gone a decade without, beginning with the right to work legally.",
+      "answerChoices": [
+        { "distractor": "granted", "closeness": 3, "reasoning": "Granting suits a benefit handed out case by case by an official, but the sentence makes the rights follow automatically from the legal status itself." },
+        { "distractor": "guaranteed", "closeness": 3, "reasoning": "Guaranteeing promises that existing rights will be honored, whereas the sentence describes rights the refugees did not have at all until citizenship arrived." },
+        { "distractor": "extended", "closeness": 3, "reasoning": "Extending implies widening an entitlement that already reached some people, but the sentence traces the rights to the status a refugee acquires, not to a policy being broadened." },
+        { "distractor": "afforded", "closeness": 3, "reasoning": "Affording something merely makes it available in practice, which understates a legal status that creates the entitlement outright." },
+        { "distractor": "promised", "closeness": 2, "reasoning": "Promising leaves the rights still in the future, contradicting the sentence's example of legal work beginning at once." },
+        { "distractor": "expanded", "closeness": 2, "reasoning": "Expanding requires a smaller version of the same rights to have existed before, but the sentence says the refugees went a decade without them." },
+        { "distractor": "clarified", "closeness": 2, "reasoning": "Clarifying would make existing rights easier to understand rather than create the ability to work legally." },
+        { "distractor": "advertised", "closeness": 2, "reasoning": "Advertising publicizes something, which would not change what the refugees were legally permitted to do." },
+        { "distractor": "suspended", "closeness": 1, "reasoning": "Suspending rights is the opposite of a status that lets refugees work legally at last." },
+        { "distractor": "denied", "closeness": 1, "reasoning": "Denying contradicts the sentence's account of what citizenship made possible." },
+        { "distractor": "curtailed", "closeness": 1, "reasoning": "Curtailing would shrink the rights the sentence says the refugees finally obtained." }
+      ]
+    },
+    {
+      "sentence": "The medal conferred a prestige that opened doors for him long after the war had ended.",
+      "answerChoices": [
+        { "distractor": "lent", "closeness": 3, "reasoning": "Lending implies a temporary loan of borrowed standing, yet the sentence says the prestige kept working for him long after the war." },
+        { "distractor": "imparted", "closeness": 3, "reasoning": "Imparting suits knowledge or a quality passed on through teaching or contact, which does not match a decoration that establishes a man's public standing." },
+        { "distractor": "carried", "closeness": 3, "reasoning": "Carrying would place the prestige in the medal as an attribute it merely holds, but the sentence traces the effect to what the medal did for him personally." },
+        { "distractor": "projected", "closeness": 3, "reasoning": "Projecting means giving an outward impression, whereas the doors that actually opened show real standing rather than an appearance of it." },
+        { "distractor": "symbolized", "closeness": 2, "reasoning": "Symbolizing would make the medal a mere emblem of prestige he already had, which cannot explain the doors it opened for him afterward." },
+        { "distractor": "purchased", "closeness": 2, "reasoning": "Purchasing implies a transaction with money, but the sentence's source of standing is a wartime decoration." },
+        { "distractor": "concealed", "closeness": 2, "reasoning": "Concealing prestige would keep it hidden, contradicting doors opening on the strength of it." },
+        { "distractor": "replaced", "closeness": 2, "reasoning": "Replacing suggests a prior prestige being swapped out, which the sentence never mentions." },
+        { "distractor": "destroyed", "closeness": 1, "reasoning": "Destroying prestige is the opposite of an advantage that lasted for decades." },
+        { "distractor": "forfeited", "closeness": 1, "reasoning": "Forfeiting means losing standing, contradicting the doors that opened for him." },
+        { "distractor": "taxed", "closeness": 1, "reasoning": "Taxing belongs to finance and has no sense in which a medal taxes prestige." }
+      ]
+    }
+  ]
+}

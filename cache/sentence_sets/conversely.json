@@ -1,0 +1,185 @@
+{
+  "word": "conversely",
+  "sentenceSets": [
+    {
+      "sentence": "High inflation can slow an economy; conversely, very low inflation may signal dangerously weak demand.",
+      "answerChoices": [
+        {
+          "distractor": "similarly",
+          "closeness": 3,
+          "reasoning": "Similarly announces that the second case parallels the first, but the two halves here take opposite ends of the same scale, high inflation against very low."
+        },
+        {
+          "distractor": "consequently",
+          "closeness": 3,
+          "reasoning": "Consequently would make weak demand a result of the slowdown in the first clause, whereas the second clause introduces a separate scenario in which inflation is low instead of high."
+        },
+        {
+          "distractor": "moreover",
+          "closeness": 3,
+          "reasoning": "Moreover adds a further point on the same side, and the sentence is pivoting to the mirror-image case rather than piling on."
+        },
+        {
+          "distractor": "admittedly",
+          "closeness": 3,
+          "reasoning": "Admittedly concedes a weakness in one's own argument, but neither clause undercuts the other; they describe two symmetrical dangers."
+        },
+        {
+          "distractor": "meanwhile",
+          "closeness": 2,
+          "reasoning": "Meanwhile relates two things happening at once, and inflation cannot be both high and very low at the same time."
+        },
+        {
+          "distractor": "accordingly",
+          "closeness": 2,
+          "reasoning": "Accordingly signals action taken in light of the first clause, and no action is described in either half."
+        },
+        {
+          "distractor": "incidentally",
+          "closeness": 2,
+          "reasoning": "Incidentally marks a digression, while the second clause is the deliberate counterpart of the first."
+        },
+        {
+          "distractor": "thereafter",
+          "closeness": 2,
+          "reasoning": "Thereafter puts the second statement later in time, but these are two alternative conditions, not a sequence."
+        },
+        {
+          "distractor": "namely",
+          "closeness": 1,
+          "reasoning": "Namely introduces a specification of what was just said, and low inflation is not an instance of high inflation."
+        },
+        {
+          "distractor": "regardless",
+          "closeness": 1,
+          "reasoning": "Regardless dismisses the first clause as irrelevant, when the sentence depends on setting the two cases side by side."
+        },
+        {
+          "distractor": "finally",
+          "closeness": 1,
+          "reasoning": "Finally closes a list, and the sentence offers a matched pair rather than the last of several items."
+        }
+      ]
+    },
+    {
+      "sentence": "Children praised for effort tend to work harder after a failure; conversely, those praised for raw talent often stop trying the moment a task turns difficult.",
+      "answerChoices": [
+        {
+          "distractor": "likewise",
+          "closeness": 3,
+          "reasoning": "Likewise signals that the second group behaves as the first does, but one group redoubles its effort and the other quits, which are opposite responses to the same setback."
+        },
+        {
+          "distractor": "predictably",
+          "closeness": 3,
+          "reasoning": "Predictably comments on how expected the second finding is, and the sentence is not rating expectations but pairing one result against its mirror image."
+        },
+        {
+          "distractor": "ultimately",
+          "closeness": 3,
+          "reasoning": "Ultimately would make the second clause the eventual fate of the children in the first, when it in fact concerns a different group praised differently."
+        },
+        {
+          "distractor": "arguably",
+          "closeness": 3,
+          "reasoning": "Arguably hedges a claim as open to dispute, and nothing in the second clause is presented as the weaker of the two findings."
+        },
+        {
+          "distractor": "nevertheless",
+          "closeness": 2,
+          "reasoning": "Nevertheless concedes that something holds despite the first clause, but the second clause does not survive an obstacle; it reports a contrasting group."
+        },
+        {
+          "distractor": "therefore",
+          "closeness": 2,
+          "reasoning": "Therefore draws a conclusion from the first clause, and the behavior of talent-praised children does not follow from how effort-praised children act."
+        },
+        {
+          "distractor": "elsewhere",
+          "closeness": 2,
+          "reasoning": "Elsewhere points to a different place, while the contrast here is between two kinds of praise, not two locations."
+        },
+        {
+          "distractor": "furthermore",
+          "closeness": 2,
+          "reasoning": "Furthermore stacks another supporting point, whereas the second clause cuts the other way."
+        },
+        {
+          "distractor": "accordingly",
+          "closeness": 1,
+          "reasoning": "Accordingly signals a step taken in light of the first clause, and the talent-praised children are a separate group, not a response to how the first group behaved."
+        },
+        {
+          "distractor": "specifically",
+          "closeness": 1,
+          "reasoning": "Specifically narrows the first statement, but quitting under difficulty is not a narrower version of working harder."
+        },
+        {
+          "distractor": "hopefully",
+          "closeness": 1,
+          "reasoning": "Hopefully expresses a wish, and the clause reports a research finding rather than a hope."
+        }
+      ]
+    },
+    {
+      "sentence": "A thick reinforced hull keeps a ship safe in pack ice but slow in open water; conversely, the light racing hull is fast everywhere and safe almost nowhere.",
+      "answerChoices": [
+        {
+          "distractor": "equally",
+          "closeness": 3,
+          "reasoning": "Equally would claim the two hulls share a property, but the sentence trades the strengths and weaknesses of one for exactly the reverse in the other."
+        },
+        {
+          "distractor": "additionally",
+          "closeness": 3,
+          "reasoning": "Additionally would add a second fact about the same reinforced hull, while the clause introduces a different hull with the opposite profile."
+        },
+        {
+          "distractor": "presumably",
+          "closeness": 3,
+          "reasoning": "Presumably marks a guess, and the racing hull's speed and fragility are stated as flatly as the ice hull's virtues."
+        },
+        {
+          "distractor": "historically",
+          "closeness": 3,
+          "reasoning": "Historically would set the second design in the past, but both are offered as present alternatives a builder chooses between."
+        },
+        {
+          "distractor": "thereby",
+          "closeness": 2,
+          "reasoning": "Thereby makes the second clause a consequence of the first, and a racing hull is not produced by reinforcing a ship for ice."
+        },
+        {
+          "distractor": "notably",
+          "closeness": 2,
+          "reasoning": "Notably highlights something remarkable without signaling the reversal of every term that the sentence performs."
+        },
+        {
+          "distractor": "initially",
+          "closeness": 2,
+          "reasoning": "Initially would put the racing hull first in a sequence, and the sentence compares two options rather than narrating stages."
+        },
+        {
+          "distractor": "supposedly",
+          "closeness": 2,
+          "reasoning": "Supposedly casts doubt on the claim that follows, but the second clause is asserted with the same confidence as the first."
+        },
+        {
+          "distractor": "naturally",
+          "closeness": 1,
+          "reasoning": "Naturally presents the second clause as the unsurprising continuation of the first, when it in fact inverts every term of it."
+        },
+        {
+          "distractor": "otherwise",
+          "closeness": 1,
+          "reasoning": "Otherwise introduces what happens if a condition fails, and no condition has been set."
+        },
+        {
+          "distractor": "briefly",
+          "closeness": 1,
+          "reasoning": "Briefly comments on the length of what follows rather than its logical relation to the first clause."
+        }
+      ]
+    }
+  ]
+}

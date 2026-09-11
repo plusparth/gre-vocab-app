@@ -1,0 +1,53 @@
+{
+  "word": "restitution",
+  "sentenceSets": [
+    {
+      "sentence": "Restitution was ordered but never paid; the judgment remained on the record as a symbol of what the process had established.",
+      "answerChoices": [
+        { "distractor": "damages", "closeness": 3, "reasoning": "Damages compensate a victim for harm suffered, but the sentence pairs the order with a judgment kept on the record for what it established, which points to returning what was wrongly taken rather than pricing an injury." },
+        { "distractor": "reparations", "closeness": 3, "reasoning": "Reparations are payments made by a state or group for collective historical wrongs, and the sentence describes an individual judgment entered in a court record." },
+        { "distractor": "indemnity", "closeness": 3, "reasoning": "An indemnity is protection against future loss arranged in advance by contract, whereas this sum was ordered after the fact by the process the sentence describes." },
+        { "distractor": "compensation", "closeness": 3, "reasoning": "Compensation covers any offsetting payment including insurance and severance, while the sentence's context of a court order and a symbolic judgment concerns restoring what the wrongdoer gained." },
+        { "distractor": "penance", "closeness": 2, "reasoning": "Penance is a religious act of contrition, not something a tribunal orders and enters on a record." },
+        { "distractor": "forfeiture", "closeness": 2, "reasoning": "Forfeiture takes property to the state, which would not produce an unpaid obligation sitting on the record the way the sentence describes." },
+        { "distractor": "alimony", "closeness": 2, "reasoning": "Alimony is ongoing spousal support, but nothing in the sentence involves a marriage or a recurring obligation." },
+        { "distractor": "arbitration", "closeness": 2, "reasoning": "Arbitration is a procedure for resolving disputes, not a sum that can be ordered and left unpaid." },
+        { "distractor": "immunity", "closeness": 1, "reasoning": "Immunity shields someone from liability, the opposite of an obligation entered against them in a judgment." },
+        { "distractor": "acquittal", "closeness": 1, "reasoning": "An acquittal clears a defendant, which would leave nothing to be paid or recorded as the sentence describes." },
+        { "distractor": "clemency", "closeness": 1, "reasoning": "Clemency is mercy that reduces a punishment, contradicting the imposition of an obligation the record preserves." }
+      ]
+    },
+    {
+      "sentence": "The museum finally made restitution of the bronzes to the nation from which they had been looted in 1897.",
+      "answerChoices": [
+        { "distractor": "restoration", "closeness": 3, "reasoning": "Restoration of bronzes would describe cleaning and repairing the objects themselves, not handing them back across a border to their country of origin." },
+        { "distractor": "surrender", "closeness": 3, "reasoning": "Surrender implies yielding to superior force or demand, while the sentence presents the museum acting at last on a claim of rightful ownership." },
+        { "distractor": "donation", "closeness": 3, "reasoning": "A donation is a voluntary gift of what the giver owns, which misdescribes returning objects the sentence says were looted." },
+        { "distractor": "transfer", "closeness": 3, "reasoning": "A transfer is a neutral change of custody and would not register the 1897 looting that makes this a matter of giving property back to those it was taken from." },
+        { "distractor": "loan", "closeness": 2, "reasoning": "A loan is temporary and expects return to the museum, contradicting the finality the sentence's history of looting implies." },
+        { "distractor": "exhibition", "closeness": 2, "reasoning": "An exhibition displays objects, and displaying them would keep them in the museum's hands rather than deliver them to another nation." },
+        { "distractor": "appraisal", "closeness": 2, "reasoning": "An appraisal values the bronzes and would not move them anywhere or settle the wrong of 1897." },
+        { "distractor": "acquisition", "closeness": 2, "reasoning": "An acquisition brings works into a collection, the reverse direction from the one the sentence describes." },
+        { "distractor": "confiscation", "closeness": 1, "reasoning": "Confiscation is seizure by authority, which describes how the bronzes left in 1897 rather than how they came back." },
+        { "distractor": "demolition", "closeness": 1, "reasoning": "Demolition destroys, and the sentence is about bronzes reaching a nation intact." },
+        { "distractor": "curation", "closeness": 1, "reasoning": "Curation is the scholarly work of organizing a collection and is not something made 'to' a nation." }
+      ]
+    },
+    {
+      "sentence": "He offered restitution to the neighbors whose fence his truck had flattened, replacing every post at his own expense.",
+      "answerChoices": [
+        { "distractor": "apology", "closeness": 3, "reasoning": "An apology is only words, but the sentence shows him paying for and replacing every post, which is the offer itself rather than an expression of regret accompanying it." },
+        { "distractor": "assistance", "closeness": 3, "reasoning": "Assistance means helping with a task, and the fence was destroyed by his own truck, which makes this a matter of undoing his own damage rather than lending a hand." },
+        { "distractor": "settlement", "closeness": 3, "reasoning": "A settlement resolves a dispute through negotiation, yet the sentence shows him acting on his own initiative with no claim pending against him." },
+        { "distractor": "tribute", "closeness": 3, "reasoning": "A tribute honors someone, which has nothing to do with the flattened fence he is paying to rebuild." },
+        { "distractor": "condolences", "closeness": 2, "reasoning": "Condolences are offered after a death, and the loss here is a row of fence posts." },
+        { "distractor": "insurance", "closeness": 2, "reasoning": "Insurance is a policy bought in advance from an insurer, not something one neighbor offers another after an accident." },
+        { "distractor": "advice", "closeness": 2, "reasoning": "Advice costs nothing, which conflicts with the sentence's emphasis that he bore the expense himself." },
+        { "distractor": "hospitality", "closeness": 2, "reasoning": "Hospitality is entertaining guests and would not repair the damage his truck caused." },
+        { "distractor": "resistance", "closeness": 1, "reasoning": "Offering resistance would mean fighting the neighbors' claim, the opposite of paying to replace their fence." },
+        { "distractor": "congratulations", "closeness": 1, "reasoning": "Congratulations celebrate good fortune, which no one whose fence was flattened has enjoyed." },
+        { "distractor": "employment", "closeness": 1, "reasoning": "Employment is a job offered to a worker, and the neighbors here are the injured party, not applicants." }
+      ]
+    }
+  ]
+}

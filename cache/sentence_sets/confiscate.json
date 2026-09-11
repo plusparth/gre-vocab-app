@@ -1,0 +1,185 @@
+{
+  "word": "confiscate",
+  "sentenceSets": [
+    {
+      "sentence": "Customs officials confiscated the items at the border, citing violations of import regulations.",
+      "answerChoices": [
+        {
+          "distractor": "impounded",
+          "closeness": 3,
+          "reasoning": "Impounding holds property temporarily pending a decision, but the officials here cite a regulatory violation as settled grounds, which points to the goods being taken for good rather than parked."
+        },
+        {
+          "distractor": "inspected",
+          "closeness": 3,
+          "reasoning": "Inspection is what precedes a finding, and the sentence has the officials already citing violations, so the examination stage is behind them."
+        },
+        {
+          "distractor": "quarantined",
+          "closeness": 3,
+          "reasoning": "Quarantine isolates goods because of a contamination or pest risk, whereas the reason given is a breach of import rules."
+        },
+        {
+          "distractor": "appraised",
+          "closeness": 3,
+          "reasoning": "Appraisal sets a value for duty purposes and would not be justified by citing violations of the regulations."
+        },
+        {
+          "distractor": "taxed",
+          "closeness": 2,
+          "reasoning": "Taxing goods lets them through on payment, which is not consistent with an action justified by a violation."
+        },
+        {
+          "distractor": "catalogued",
+          "closeness": 2,
+          "reasoning": "Cataloguing is mere record-keeping and would not require regulatory grounds to be cited."
+        },
+        {
+          "distractor": "delayed",
+          "closeness": 2,
+          "reasoning": "A delay postpones passage, a lighter measure than one for which officials invoke a breach of the import rules."
+        },
+        {
+          "distractor": "insured",
+          "closeness": 2,
+          "reasoning": "Insuring goods protects their owner against loss, the opposite of an official action taken against a shipment."
+        },
+        {
+          "distractor": "released",
+          "closeness": 1,
+          "reasoning": "Releasing the items would contradict the violation the officials cite as their reason."
+        },
+        {
+          "distractor": "purchased",
+          "closeness": 1,
+          "reasoning": "Buying the goods would mean paying the importer, which is not how a regulatory breach is answered."
+        },
+        {
+          "distractor": "manufactured",
+          "closeness": 1,
+          "reasoning": "Customs officials do not make goods at the border."
+        }
+      ]
+    },
+    {
+      "sentence": "The teacher confiscated the phone for the remainder of the period and slid it into the top drawer of her desk.",
+      "answerChoices": [
+        {
+          "distractor": "commandeered",
+          "closeness": 3,
+          "reasoning": "Commandeering means taking something in order to use it yourself, but the phone goes straight into a drawer for the rest of the hour."
+        },
+        {
+          "distractor": "pocketed",
+          "closeness": 3,
+          "reasoning": "Pocketing suggests quietly keeping something for oneself, which conflicts with the open, temporary custody of a desk drawer until the period ends."
+        },
+        {
+          "distractor": "silenced",
+          "closeness": 3,
+          "reasoning": "Silencing would address the noise alone and would not explain why the device had to leave the student's hands entirely."
+        },
+        {
+          "distractor": "borrowed",
+          "closeness": 3,
+          "reasoning": "Borrowing implies the owner agreed to lend it, and nothing suggests the student offered up the phone."
+        },
+        {
+          "distractor": "repaired",
+          "closeness": 2,
+          "reasoning": "Repair would mean the phone was broken, and the sentence gives no hint of a malfunction."
+        },
+        {
+          "distractor": "charged",
+          "closeness": 2,
+          "reasoning": "Charging the phone would be a favor to its owner, not a measure that lasts only until the period is over."
+        },
+        {
+          "distractor": "photographed",
+          "closeness": 2,
+          "reasoning": "Photographing the device would serve some evidentiary purpose the drawer and the class period do not suggest."
+        },
+        {
+          "distractor": "labeled",
+          "closeness": 2,
+          "reasoning": "Labeling identifies an object but does not involve taking it away from a student mid-lesson."
+        },
+        {
+          "distractor": "returned",
+          "closeness": 1,
+          "reasoning": "Returning the phone is the opposite of shutting it in a drawer for the rest of the period."
+        },
+        {
+          "distractor": "smashed",
+          "closeness": 1,
+          "reasoning": "The phone is set carefully in a drawer, not destroyed."
+        },
+        {
+          "distractor": "rented",
+          "closeness": 1,
+          "reasoning": "Renting the phone would mean paying its owner for its use, which cannot describe an item shut in a drawer until class ends."
+        }
+      ]
+    },
+    {
+      "sentence": "Under the new decree the state could confiscate the estates of anyone convicted of sedition, leaving the heirs with no claim whatever.",
+      "answerChoices": [
+        {
+          "distractor": "mortgage",
+          "closeness": 3,
+          "reasoning": "Mortgaging pledges property as security for a loan and leaves ownership intact, while the sentence says the heirs are left with no claim at all."
+        },
+        {
+          "distractor": "audit",
+          "closeness": 3,
+          "reasoning": "Auditing examines accounts and would not by itself strip a family of everything it expected to inherit."
+        },
+        {
+          "distractor": "lease",
+          "closeness": 3,
+          "reasoning": "A lease grants temporary use while title stays with the owner, which cannot produce heirs with no claim whatever."
+        },
+        {
+          "distractor": "partition",
+          "closeness": 3,
+          "reasoning": "Partition divides an estate among claimants, whereas here there is to be nothing left for anyone to divide."
+        },
+        {
+          "distractor": "insure",
+          "closeness": 2,
+          "reasoning": "Insuring the estates would protect their value rather than transfer them away from the convicted family."
+        },
+        {
+          "distractor": "survey",
+          "closeness": 2,
+          "reasoning": "Surveying measures land boundaries and has no effect on who owns it."
+        },
+        {
+          "distractor": "inherit",
+          "closeness": 2,
+          "reasoning": "Inheritance passes property to heirs, the very parties the decree is said to leave empty-handed."
+        },
+        {
+          "distractor": "register",
+          "closeness": 2,
+          "reasoning": "Registering land records who holds it and would not dispossess anyone by itself."
+        },
+        {
+          "distractor": "bequeath",
+          "closeness": 1,
+          "reasoning": "Bequeathing is an owner giving property away by will, which is the opposite of the state stripping it from a convict's family."
+        },
+        {
+          "distractor": "cultivate",
+          "closeness": 1,
+          "reasoning": "Cultivating land is farming it and says nothing about the loss of legal claim."
+        },
+        {
+          "distractor": "pardon",
+          "closeness": 1,
+          "reasoning": "A pardon would undo the conviction rather than impose a penalty flowing from it."
+        }
+      ]
+    }
+  ]
+}
