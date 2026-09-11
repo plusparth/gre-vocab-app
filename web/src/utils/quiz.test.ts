@@ -307,3 +307,33 @@ describe('sentenceSetFor rejects unusable sentences', () => {
     expect(sentenceSetFor(word)).toBeNull();
   });
 });
+
+describe('buildQuizOptions - short closeness tiers', () => {
+  const word = makeWord('gratis', 'adjective', 'free of charge', ['gratis']);
+
+  function setWith(counts: Record<number, number>) {
+    const choices = [] as { distractor: string; closeness: number; reasoning: string }[];
+    for (const [closeness, n] of Object.entries(counts)) {
+      for (let i = 0; i < n; i++) {
+        choices.push({ distractor: `c${closeness}_${i}`, closeness: Number(closeness), reasoning: '' });
+      }
+    }
+    return { sentence: 'The clinic offered the vaccine gratis to anyone who asked.', answerChoices: choices };
+  }
+
+  it('still offers five options when a closeness tier is short', () => {
+    // gratis set 2 ships only one closeness-3 choice.
+    const options = buildQuizOptions(word, setWith({ 3: 1, 2: 5, 1: 5 }), mulberry32(7));
+    expect(options).toHaveLength(5);
+  });
+
+  it('does not repeat a distractor when topping up', () => {
+    const options = buildQuizOptions(word, setWith({ 3: 1, 2: 5, 1: 5 }), mulberry32(7));
+    expect(new Set(options.map(o => o.text)).size).toBe(5);
+  });
+
+  it('offers only what exists when the whole set is short', () => {
+    const options = buildQuizOptions(word, setWith({ 3: 1, 2: 1 }), mulberry32(7));
+    expect(options).toHaveLength(3);
+  });
+});

@@ -98,6 +98,15 @@ export function buildQuizOptions(word: Word, set: SentenceSet, rng: Rng = Math.r
     ...sample(byCloseness(1), 1, rng),
   ];
 
+  // A set whose closeness tiers are unevenly filled would otherwise leave the
+  // question a choice short, so make it up from whatever is left, closest first.
+  if (distractors.length < DISTRACTOR_COUNT) {
+    const spare = set.answerChoices
+      .filter(a => !distractors.includes(a))
+      .sort((a, b) => b.closeness - a.closeness);
+    distractors.push(...sample(spare, DISTRACTOR_COUNT - distractors.length, rng));
+  }
+
   const blanked = blankedForm(word, set.sentence);
 
   const options: QuizOption[] = [

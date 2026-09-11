@@ -51,7 +51,15 @@ def load_existing_sentence(word):
 
 
 def is_cached(word):
-    return os.path.exists(os.path.join(SENTENCE_SETS_DIR, f"{word}.json"))
+    """A file whose sets were all pruned as unusable still needs generating."""
+    path = os.path.join(SENTENCE_SETS_DIR, f"{word}.json")
+    if not os.path.exists(path):
+        return False
+    try:
+        with open(path, encoding="utf-8") as f:
+            return len(json.load(f).get("sentenceSets", [])) > 0
+    except json.JSONDecodeError:
+        return False
 
 
 def validate_sentence_set(word, data):
