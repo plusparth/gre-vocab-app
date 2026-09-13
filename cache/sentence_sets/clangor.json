@@ -1,0 +1,53 @@
+{
+  "word": "clangor",
+  "sentenceSets": [
+    {
+      "sentence": "The clangor of the factory filled the neighborhood day and night, making sleep difficult for residents.",
+      "answerChoices": [
+        { "distractor": "din", "closeness": 3, "reasoning": "A din is any confused loud noise, but a factory running around the clock produces metal striking metal, a ringing racket rather than an undifferentiated blur of sound." },
+        { "distractor": "hum", "closeness": 3, "reasoning": "A hum is steady and low, which residents can sleep through, whereas the sentence says sleep was difficult." },
+        { "distractor": "rumble", "closeness": 3, "reasoning": "A rumble is a deep continuous vibration, but heavy machinery in a plant announces itself with harsh metallic strikes." },
+        { "distractor": "bustle", "closeness": 3, "reasoning": "Bustle describes busy activity rather than the sound that reaches into neighboring houses at night." },
+        { "distractor": "pollution", "closeness": 2, "reasoning": "Pollution would be a matter of air or water, but the residents' complaint in the sentence is about being kept awake." },
+        { "distractor": "traffic", "closeness": 2, "reasoning": "The sentence attributes the disturbance to the factory itself, not to vehicles around it." },
+        { "distractor": "glare", "closeness": 2, "reasoning": "Glare could also disturb sleep, but the phrase describes something the factory produces and sends across the neighborhood as sound." },
+        { "distractor": "tremor", "closeness": 2, "reasoning": "A tremor is felt through the ground rather than filling a neighborhood the way noise does." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence would help residents sleep rather than prevent it." },
+        { "distractor": "melody", "closeness": 1, "reasoning": "Nothing musical is suggested by industrial noise that keeps people awake." },
+        { "distractor": "fragrance", "closeness": 1, "reasoning": "A smell is not what the sentence says fills the neighborhood day and night." }
+      ]
+    },
+    {
+      "sentence": "At noon the clangor of every bell in the old city began at once, and conversation on the square became impossible.",
+      "answerChoices": [
+        { "distractor": "peal", "closeness": 3, "reasoning": "A peal is an ordered ringing pattern played by ringers, but here every bell in the city starts at the same moment with no coordination between them." },
+        { "distractor": "chime", "closeness": 3, "reasoning": "A chime is a tuned, pleasant sequence of notes, while the sentence describes a sound that makes talking on the square impossible." },
+        { "distractor": "toll", "closeness": 3, "reasoning": "A toll is the slow single stroke rung for a death or a summons, whereas the sentence has all the bells sounding together at noon." },
+        { "distractor": "echo", "closeness": 3, "reasoning": "An echo is sound returning off surfaces after the fact, but the bells themselves are what overwhelm the square." },
+        { "distractor": "hush", "closeness": 2, "reasoning": "A hush would leave conversation perfectly possible." },
+        { "distractor": "vibration", "closeness": 2, "reasoning": "Vibration is felt rather than heard, and what defeats speech on the square is the sound itself." },
+        { "distractor": "signal", "closeness": 2, "reasoning": "Calling it a signal explains the bells' purpose but not why nobody on the square can hear one another." },
+        { "distractor": "murmur", "closeness": 2, "reasoning": "A murmur is soft, and the sentence describes something that swallows conversation whole." },
+        { "distractor": "whisper", "closeness": 1, "reasoning": "Whispering could not drown out talk in an open square." },
+        { "distractor": "aroma", "closeness": 1, "reasoning": "Smell has no bearing on whether people can hear each other." },
+        { "distractor": "drought", "closeness": 1, "reasoning": "Weather is unrelated to bells sounding at noon." }
+      ]
+    },
+    {
+      "sentence": "He remembers the clangor of the shipyard more vividly than anything his father ever said to him there.",
+      "answerChoices": [
+        { "distractor": "clatter", "closeness": 3, "reasoning": "Clatter is the light rattling of small objects knocking together, too slight for a shipyard whose noise outlasts his father's voice in memory." },
+        { "distractor": "roar", "closeness": 3, "reasoning": "A roar is one continuous swell, but a shipyard is remembered for hammers and plate steel, sounds that ring and strike." },
+        { "distractor": "clamor", "closeness": 3, "reasoning": "Clamor is made of raised human voices, while the sentence sets what he remembers against the words his father spoke." },
+        { "distractor": "smell", "closeness": 3, "reasoning": "A smell could also outlast speech in memory, but the sentence draws its contrast with something heard, namely what his father said." },
+        { "distractor": "rhythm", "closeness": 2, "reasoning": "Rhythm implies an orderly beat, whereas what stayed with him competes with and overpowers his father's voice." },
+        { "distractor": "danger", "closeness": 2, "reasoning": "Danger is a condition of the place rather than something remembered in the way words are remembered." },
+        { "distractor": "grime", "closeness": 2, "reasoning": "Grime is visible dirt, and the memory in the sentence is set against something spoken and heard." },
+        { "distractor": "routine", "closeness": 2, "reasoning": "Routine is a pattern of days, not a single overwhelming impression contrasted with speech." },
+        { "distractor": "stillness", "closeness": 1, "reasoning": "Stillness at a working shipyard would not overwhelm a father's voice." },
+        { "distractor": "vacancy", "closeness": 1, "reasoning": "Emptiness is not something that could compete with remembered words." },
+        { "distractor": "sweetness", "closeness": 1, "reasoning": "Nothing about a shipyard in this memory is sweet." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "punctilious",
+  "sentenceSets": [
+    {
+      "sentence": "Her punctilious attention to procedural requirements made her an invaluable ally in any dispute about process.",
+      "answerChoices": [
+        { "distractor": "meticulous", "closeness": 3, "reasoning": "Meticulousness is care taken in work of any kind, but her value is tied specifically to disputes about process, where exactness about stated rules is what decides matters." },
+        { "distractor": "scrupulous", "closeness": 3, "reasoning": "Scrupulousness is carefulness of conscience about doing right, whereas the disputes named here turn on formal requirements rather than on moral qualms." },
+        { "distractor": "vigilant", "closeness": 3, "reasoning": "Vigilance watches out for approaching trouble, while what makes her useful is her command of the requirements themselves." },
+        { "distractor": "pedantic", "closeness": 3, "reasoning": "Pedantry is a fault others resent, yet the sentence calls her an invaluable ally, so her exactness is being praised rather than deplored." },
+        { "distractor": "diligent", "closeness": 2, "reasoning": "Steady effort would not by itself make her decisive in an argument about the rules." },
+        { "distractor": "shrewd", "closeness": 2, "reasoning": "Shrewdness is tactical cunning, but the sentence credits her mastery of what the procedures actually require." },
+        { "distractor": "tenacious", "closeness": 2, "reasoning": "Tenacity is refusal to let go, and her usefulness comes from knowing the requirements rather than from outlasting opponents." },
+        { "distractor": "impartial", "closeness": 2, "reasoning": "Impartiality would prevent her from being anyone's ally, which is exactly what the sentence calls her." },
+        { "distractor": "careless", "closeness": 1, "reasoning": "Carelessness about procedure would make her a liability in a dispute about process." },
+        { "distractor": "slapdash", "closeness": 1, "reasoning": "Rough and hasty work is the opposite of what the sentence values in her." },
+        { "distractor": "indifferent", "closeness": 1, "reasoning": "Indifference contradicts the attention the sentence credits her with." }
+      ]
+    },
+    {
+      "sentence": "He was punctilious about seating: the ambassador on the hostess's right, the bishop opposite, and no one moved once the cards were laid.",
+      "answerChoices": [
+        { "distractor": "fastidious", "closeness": 3, "reasoning": "Fastidiousness is being hard to please about taste or cleanliness, whereas what he enforces is an established order of precedence with fixed places for each rank." },
+        { "distractor": "dogmatic", "closeness": 3, "reasoning": "Dogmatism asserts one's own doctrines as beyond question, but the arrangement here is a received convention he is following rather than inventing." },
+        { "distractor": "imperious", "closeness": 3, "reasoning": "Imperiousness is a domineering manner toward people, while the sentence describes exact conformity to where rank says each guest belongs." },
+        { "distractor": "systematic", "closeness": 3, "reasoning": "A system is any consistent method, yet the particular order named — ambassador right, bishop opposite — is a code of etiquette being observed." },
+        { "distractor": "hospitable", "closeness": 2, "reasoning": "Hospitality is warmth toward guests, and the emphasis here falls on an arrangement no guest is allowed to alter." },
+        { "distractor": "superstitious", "closeness": 2, "reasoning": "Superstition fears bad luck, but the seating follows rank rather than omen." },
+        { "distractor": "gregarious", "closeness": 2, "reasoning": "Sociability is enjoyment of company, not insistence on where each person sits." },
+        { "distractor": "capricious", "closeness": 2, "reasoning": "Caprice would shift the cards on a whim, yet nobody moved once they were laid." },
+        { "distractor": "slovenly", "closeness": 1, "reasoning": "Slovenliness cannot describe seating fixed to the ambassador's and bishop's exact places." },
+        { "distractor": "oblivious", "closeness": 1, "reasoning": "Someone unaware of rank would not know to put the ambassador on the hostess's right." },
+        { "distractor": "improvisational", "closeness": 1, "reasoning": "Improvisation is ruled out by cards laid in advance that no one may move." }
+      ]
+    },
+    {
+      "sentence": "The editor's punctilious footnotes record every variant spelling in the manuscript, down to a scribe's slip of the pen in the third quire.",
+      "answerChoices": [
+        { "distractor": "exhaustive", "closeness": 3, "reasoning": "Exhaustiveness is covering everything, but what the example singles out is fidelity to a formal detail so small it carries no meaning at all." },
+        { "distractor": "erudite", "closeness": 3, "reasoning": "Erudition is deep learning on display, whereas these notes simply register spellings as they stand in the manuscript." },
+        { "distractor": "copious", "closeness": 3, "reasoning": "Copiousness is sheer quantity, and the sentence's illustration is a single trivial deviation faithfully preserved." },
+        { "distractor": "rigorous", "closeness": 3, "reasoning": "Rigor is strictness of reasoning, while the strictness here is about transcription conventions rather than argument." },
+        { "distractor": "tedious", "closeness": 2, "reasoning": "Tedium would be a reader's complaint, but the sentence reports what the notes accomplish." },
+        { "distractor": "opaque", "closeness": 2, "reasoning": "Opacity would make the notes hard to use, and these are clear enough to locate a slip in the third quire." },
+        { "distractor": "digressive", "closeness": 2, "reasoning": "Digression wanders from the subject, yet every note here stays fixed on the manuscript's text." },
+        { "distractor": "speculative", "closeness": 2, "reasoning": "Speculation goes beyond the evidence, while these notes record what is physically on the page." },
+        { "distractor": "cursory", "closeness": 1, "reasoning": "A hasty glance would never catch a scribe's slip in the third quire." },
+        { "distractor": "negligent", "closeness": 1, "reasoning": "Negligence is contradicted by recording every variant spelling." },
+        { "distractor": "fanciful", "closeness": 1, "reasoning": "Invention is at odds with notes that document what the manuscript actually shows." }
+      ]
+    }
+  ]
+}

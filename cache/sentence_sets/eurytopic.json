@@ -1,0 +1,53 @@
+{
+  "word": "eurytopic",
+  "sentenceSets": [
+    {
+      "sentence": "As a eurytopic species, it thrived in environments that would have stressed less adaptable organisms.",
+      "answerChoices": [
+        { "distractor": "hardy", "closeness": 3, "reasoning": "Hardiness names a general toughness, but the sentence contrasts this organism with others across a range of environments, pointing to breadth of tolerable conditions rather than sheer sturdiness in one." },
+        { "distractor": "invasive", "closeness": 3, "reasoning": "An invasive species is one that spreads where it does not belong and displaces natives, while the sentence says only that it does well under conditions that trouble others." },
+        { "distractor": "prolific", "closeness": 3, "reasoning": "Prolific describes rate of reproduction, and heavy breeding would not by itself let an organism thrive where conditions vary widely." },
+        { "distractor": "opportunistic", "closeness": 3, "reasoning": "Opportunism is exploiting openings as they appear, whereas the sentence's contrast is with organisms that would be stressed by the environments themselves." },
+        { "distractor": "migratory", "closeness": 2, "reasoning": "Migration means moving to better conditions, while this species is described as thriving in the demanding environments rather than leaving them." },
+        { "distractor": "dominant", "closeness": 2, "reasoning": "Dominance concerns outcompeting neighbors, and the comparison drawn is with organisms that cannot cope with the conditions at all." },
+        { "distractor": "solitary", "closeness": 2, "reasoning": "Solitariness is a social habit and has no bearing on tolerance of varied environments." },
+        { "distractor": "nocturnal", "closeness": 2, "reasoning": "Being active at night is one narrow adaptation and would not account for success across environments generally." },
+        { "distractor": "endangered", "closeness": 1, "reasoning": "An endangered species is failing to persist, contradicting one that thrives where others are stressed." },
+        { "distractor": "extinct", "closeness": 1, "reasoning": "An extinct species cannot thrive anywhere." },
+        { "distractor": "domesticated", "closeness": 1, "reasoning": "Domestication involves human breeding and care, which is unrelated to surviving environments that stress other organisms." }
+      ]
+    },
+    {
+      "sentence": "The tidepool crab is eurytopic, riding out salinity swings and a twenty-degree temperature range twice a day.",
+      "answerChoices": [
+        { "distractor": "amphibious", "closeness": 3, "reasoning": "Amphibious means able to live in water and on land, which does not cover the salinity and temperature swings the sentence lists as what the crab endures." },
+        { "distractor": "resilient", "closeness": 3, "reasoning": "Resilience is recovery after a blow, while the crab is described as carrying on through conditions that shift twice every day rather than bouncing back from damage." },
+        { "distractor": "armored", "closeness": 3, "reasoning": "Armor protects against physical attack and would do nothing about changes in salinity or temperature." },
+        { "distractor": "cold-blooded", "closeness": 3, "reasoning": "Being cold-blooded means body temperature tracks the surroundings, which explains the exposure rather than the tolerance the sentence credits the crab with." },
+        { "distractor": "burrowing", "closeness": 2, "reasoning": "Burrowing would be a way of escaping the swings, but the sentence describes the crab riding them out." },
+        { "distractor": "camouflaged", "closeness": 2, "reasoning": "Camouflage hides an animal from predators and has no effect on salinity or heat." },
+        { "distractor": "gregarious", "closeness": 2, "reasoning": "Gregariousness is a social trait, unrelated to twice-daily physical extremes." },
+        { "distractor": "edible", "closeness": 2, "reasoning": "Edibility concerns how humans regard the crab, not how it copes with its pool." },
+        { "distractor": "fragile", "closeness": 1, "reasoning": "Fragility contradicts an animal that rides out daily extremes." },
+        { "distractor": "sessile", "closeness": 1, "reasoning": "Being fixed in place is a matter of mobility and does not describe tolerance of changing conditions." },
+        { "distractor": "parasitic", "closeness": 1, "reasoning": "Parasitism describes how an organism feeds, not what range of conditions it can survive." }
+      ]
+    },
+    {
+      "sentence": "Restoration teams favor eurytopic plantings on disturbed ground, since nobody can predict what the soil chemistry will be in five years.",
+      "answerChoices": [
+        { "distractor": "native", "closeness": 3, "reasoning": "Native plantings are chosen for belonging to the region, whereas the reason given here is uncertainty about future soil chemistry, which calls for wide tolerance rather than local provenance." },
+        { "distractor": "fast-growing", "closeness": 3, "reasoning": "Fast growth would cover the ground quickly, but it would not help if the soil conditions in five years turn out to be hostile." },
+        { "distractor": "drought-tolerant", "closeness": 3, "reasoning": "Drought tolerance addresses a single variable, while the teams' worry is that they cannot predict which conditions will change." },
+        { "distractor": "sterile", "closeness": 3, "reasoning": "Sterile plantings cannot spread, a property chosen to control escape, which does nothing to answer uncertainty about soil chemistry." },
+        { "distractor": "ornamental", "closeness": 2, "reasoning": "Ornamental plantings are picked for looks, an irrelevant criterion on disturbed ground selected for survivability." },
+        { "distractor": "seasonal", "closeness": 2, "reasoning": "Seasonality concerns when a plant grows, not whether it can handle unpredictable chemistry over years." },
+        { "distractor": "grafted", "closeness": 2, "reasoning": "Grafting is a propagation technique and says nothing about tolerance of variable soils." },
+        { "distractor": "irrigated", "closeness": 2, "reasoning": "Irrigation is a management practice applied to plantings rather than a property that makes them suitable for uncertain ground." },
+        { "distractor": "delicate", "closeness": 1, "reasoning": "Delicate plantings are the worst choice where conditions cannot be predicted." },
+        { "distractor": "extinct", "closeness": 1, "reasoning": "Extinct species are unavailable for planting." },
+        { "distractor": "aquatic", "closeness": 1, "reasoning": "Aquatic plants require standing water, which is not what disturbed ground offers." }
+      ]
+    }
+  ]
+}

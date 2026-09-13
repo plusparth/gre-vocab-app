@@ -1,0 +1,53 @@
+{
+  "word": "evanescent",
+  "sentenceSets": [
+    {
+      "sentence": "The coalition was evanescent, dissolving before it had accomplished the single purpose for which it was formed.",
+      "answerChoices": [
+        { "distractor": "fragile", "closeness": 3, "reasoning": "Fragility means it could be broken by a blow, but the sentence reports no shock or attack, only that the coalition faded out on its own before finishing its work." },
+        { "distractor": "provisional", "closeness": 3, "reasoning": "A provisional body is set up to be replaced later by design, whereas this one was formed for a purpose it never reached, which makes its disappearance a failure rather than a plan." },
+        { "distractor": "fractious", "closeness": 3, "reasoning": "Fractiousness would mean the members quarreled, and the sentence gives no falling-out, only a dissolution that came too soon." },
+        { "distractor": "ineffectual", "closeness": 3, "reasoning": "Ineffectuality would describe a group that stayed together and achieved nothing, while the point here is that it did not last long enough to try." },
+        { "distractor": "clandestine", "closeness": 2, "reasoning": "Secrecy is not at issue, since the sentence discusses how long the coalition lasted and what it failed to do." },
+        { "distractor": "unpopular", "closeness": 2, "reasoning": "Unpopularity concerns outside opinion, and the sentence describes only the coalition's brief life." },
+        { "distractor": "unwieldy", "closeness": 2, "reasoning": "Unwieldiness suggests it was too big to steer, which is a different explanation from the simple brevity the sentence stresses." },
+        { "distractor": "informal", "closeness": 2, "reasoning": "Informality concerns the absence of official structure, and an informal alliance can persist for years." },
+        { "distractor": "enduring", "closeness": 1, "reasoning": "Endurance is contradicted by a coalition that dissolved before accomplishing anything." },
+        { "distractor": "entrenched", "closeness": 1, "reasoning": "Entrenchment implies it could not be dislodged, the opposite of what the sentence records." },
+        { "distractor": "victorious", "closeness": 1, "reasoning": "Victory is ruled out by the failure to accomplish its single purpose." }
+      ]
+    },
+    {
+      "sentence": "Snow on the platform was evanescent that morning, gone from the boards a minute after it landed.",
+      "answerChoices": [
+        { "distractor": "sparse", "closeness": 3, "reasoning": "Sparseness concerns how much snow fell, while the sentence measures the minute between landing and disappearing." },
+        { "distractor": "wet", "closeness": 3, "reasoning": "Wetness would explain why the snow melted, but the sentence describes the vanishing itself rather than the moisture content of the flakes." },
+        { "distractor": "intermittent", "closeness": 3, "reasoning": "Intermittent snowfall stops and starts, whereas the sentence's detail is that each landing flake was gone within the minute." },
+        { "distractor": "slushy", "closeness": 3, "reasoning": "Slush is snow that has partly melted and remains underfoot, contradicting boards that were bare again a minute later." },
+        { "distractor": "silent", "closeness": 2, "reasoning": "Silence is a property of falling snow generally and does not bear on how briefly it lasted on the platform." },
+        { "distractor": "unseasonal", "closeness": 2, "reasoning": "Being out of season concerns the calendar and would not explain the snow's quick disappearance from the boards." },
+        { "distractor": "granular", "closeness": 2, "reasoning": "Granularity describes the texture of the flakes rather than their short life on the platform." },
+        { "distractor": "welcome", "closeness": 2, "reasoning": "Whether the snow was welcome is a matter of opinion and does not describe how long it stayed." },
+        { "distractor": "persistent", "closeness": 1, "reasoning": "Persistence contradicts snow gone from the boards within a minute." },
+        { "distractor": "frozen", "closeness": 1, "reasoning": "Remaining frozen would keep the snow in place rather than clearing the platform." },
+        { "distractor": "deep", "closeness": 1, "reasoning": "Depth is impossible for snow that never accumulates." }
+      ]
+    },
+    {
+      "sentence": "Her fame proved evanescent, and the students who packed the hall in April could not place her name by autumn.",
+      "answerChoices": [
+        { "distractor": "undeserved", "closeness": 3, "reasoning": "Undeserved fame would be a judgment on her merit, while the sentence tracks only how quickly the students forgot her between April and autumn." },
+        { "distractor": "local", "closeness": 3, "reasoning": "Local fame is limited in place, but the students who forgot her are the same ones who filled the hall, which makes the loss a matter of time rather than geography." },
+        { "distractor": "notorious", "closeness": 3, "reasoning": "Notoriety is fame of a disreputable kind, and the sentence says nothing about scandal, only about how briefly her name stuck." },
+        { "distractor": "accidental", "closeness": 3, "reasoning": "Accidental fame concerns how she came by it, whereas the sentence is about how soon it was gone." },
+        { "distractor": "modest", "closeness": 2, "reasoning": "Modest fame is contradicted by a packed hall, and the sentence's point is the speed of the falling-off." },
+        { "distractor": "posthumous", "closeness": 2, "reasoning": "Posthumous fame arrives after death, while hers was in full force in April with her students present." },
+        { "distractor": "hereditary", "closeness": 2, "reasoning": "Inherited renown concerns its source rather than the few months it survived." },
+        { "distractor": "commercial", "closeness": 2, "reasoning": "Commercial fame would concern sales, and the measure the sentence uses is students' memory." },
+        { "distractor": "permanent", "closeness": 1, "reasoning": "Permanence is refuted by students who cannot place her name six months later." },
+        { "distractor": "growing", "closeness": 1, "reasoning": "Growing fame would fill more halls, not empty her name from memory." },
+        { "distractor": "legendary", "closeness": 1, "reasoning": "Legendary status implies a name that outlasts generations, the opposite of one forgotten by autumn." }
+      ]
+    }
+  ]
+}

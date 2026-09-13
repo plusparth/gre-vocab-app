@@ -1,0 +1,53 @@
+{
+  "word": "lampoon",
+  "sentenceSets": [
+    {
+      "sentence": "The satirical piece lampooned the initiative with such precision that its targets could not respond without confirming the characterization.",
+      "answerChoices": [
+        { "distractor": "parodied", "closeness": 3, "reasoning": "Parody works by imitating a form or style, but the sentence describes a piece that pinned down its targets so exactly that answering would prove the portrait right, which is attack rather than imitation." },
+        { "distractor": "mocked", "closeness": 3, "reasoning": "Mockery can be a passing jeer, while the sentence stresses a sustained written piece whose precision left its targets unable to reply, implying a crafted comic assault rather than a taunt." },
+        { "distractor": "caricatured", "closeness": 3, "reasoning": "To caricature is to exaggerate features out of proportion, which sits badly with the sentence's insistence that the piece was precise and its characterization accurate enough to be self-confirming." },
+        { "distractor": "skewered", "closeness": 3, "reasoning": "Skewering conveys a single sharp thrust, whereas the sentence describes an extended satirical piece whose effect was to trap its targets in a bind, not to land one puncturing blow." },
+        { "distractor": "criticized", "closeness": 2, "reasoning": "Straightforward criticism invites rebuttal on the merits, yet the sentence's point is that the targets were silenced because any reply would confirm the comic portrait." },
+        { "distractor": "denounced", "closeness": 2, "reasoning": "Denunciation is solemn public condemnation, which does not match a piece described as satirical and turning on characterization rather than accusation." },
+        { "distractor": "exaggerated", "closeness": 2, "reasoning": "The sentence explicitly credits the piece with precision, so overstatement is the wrong description of what it did to the initiative." },
+        { "distractor": "mimicked", "closeness": 2, "reasoning": "Mimicry reproduces someone's manner or voice, but the piece is aimed at an initiative, a policy rather than a person with a manner to copy." },
+        { "distractor": "praised", "closeness": 1, "reasoning": "Praise would give the targets nothing to resent, contradicting a sentence in which they are cornered and unable to respond." },
+        { "distractor": "endorsed", "closeness": 1, "reasoning": "An endorsement supports the initiative, the opposite of a satirical piece that its targets wish they could rebut." },
+        { "distractor": "summarized", "closeness": 1, "reasoning": "A neutral summary would carry no sting, yet the sentence turns on the targets being trapped by the piece's characterization of them." }
+      ]
+    },
+    {
+      "sentence": "The magazine's weekly lampoon of the mayor, complete with a cartoon of him wearing a paper crown, sold more copies than its investigative reporting ever had.",
+      "answerChoices": [
+        { "distractor": "invective", "closeness": 3, "reasoning": "Invective is abusive denunciation delivered in anger, which does not square with a cartoon of a paper crown, a detail that signals comic ridicule rather than fury." },
+        { "distractor": "diatribe", "closeness": 3, "reasoning": "A diatribe is a long bitter harangue, but the item described is a light recurring feature with an accompanying cartoon that readers evidently bought for entertainment." },
+        { "distractor": "caricature", "closeness": 3, "reasoning": "The caricature is named separately in the sentence as the cartoon accompanying the feature, so the feature itself must be something the drawing decorates rather than the drawing." },
+        { "distractor": "polemic", "closeness": 3, "reasoning": "A polemic argues a controversial position in earnest, while the paper crown and the contrast with serious investigative reporting mark this piece as comic rather than argumentative." },
+        { "distractor": "editorial", "closeness": 2, "reasoning": "An editorial states the publication's considered opinion, which would not be characterized by a cartoon crown or set against the magazine's investigative work as lighter fare." },
+        { "distractor": "exposé", "closeness": 2, "reasoning": "An exposé reveals hidden wrongdoing, yet the sentence contrasts this feature with the magazine's investigative reporting, marking it as a different kind of piece entirely." },
+        { "distractor": "profile", "closeness": 2, "reasoning": "A profile is a descriptive portrait of a person's life and character, which would not come 'complete with' a mocking cartoon of the subject in a paper crown." },
+        { "distractor": "critique", "closeness": 2, "reasoning": "A critique offers reasoned assessment, but nothing in the sentence suggests analysis; the selling point is a recurring comic feature with a cartoon." },
+        { "distractor": "eulogy", "closeness": 1, "reasoning": "A eulogy praises, usually the dead, and cannot be reconciled with a cartoon that puts a paper crown on a living mayor's head." },
+        { "distractor": "tribute", "closeness": 1, "reasoning": "A tribute honors its subject, the opposite of a weekly feature that ridicules the mayor with a mock coronation." },
+        { "distractor": "advertisement", "closeness": 1, "reasoning": "An advertisement is paid promotional copy, which makes no sense as the magazine's own recurring feature about the mayor." }
+      ]
+    },
+    {
+      "sentence": "Student newspapers have long been allowed to lampoon the administration, on the theory that a comic jab defuses more resentment than it creates.",
+      "answerChoices": [
+        { "distractor": "deride", "closeness": 3, "reasoning": "Derision is contemptuous scorn, but the sentence's justification rests on the target being a comic jab that lets air out of resentment, not on expressions of contempt." },
+        { "distractor": "lambaste", "closeness": 3, "reasoning": "To lambaste is to attack with harsh censure, which conflicts with the sentence's claim that what the papers do reduces rather than inflames bad feeling." },
+        { "distractor": "pillory", "closeness": 3, "reasoning": "Pillorying holds someone up for public shame and punishment, an outcome hard to reconcile with a practice tolerated because it is defusing and lighthearted." },
+        { "distractor": "needle", "closeness": 3, "reasoning": "Needling is persistent small provocation aimed at irritating someone, the very effect the sentence says the practice avoids by relieving resentment instead." },
+        { "distractor": "chastise", "closeness": 2, "reasoning": "Chastising is scolding from a position of authority, which student newspapers writing about the administration do not occupy." },
+        { "distractor": "harangue", "closeness": 2, "reasoning": "A harangue is a long forceful lecture, incompatible with the brief comic jab the sentence identifies as the mechanism at work." },
+        { "distractor": "provoke", "closeness": 2, "reasoning": "The sentence's stated rationale is that the practice creates less resentment than it dispels, so deliberate provocation is the opposite of the point." },
+        { "distractor": "scrutinize", "closeness": 2, "reasoning": "Scrutiny is careful examination, but the permission described is justified by humor's calming effect, not by any investigative value." },
+        { "distractor": "flatter", "closeness": 1, "reasoning": "Flattery would need no special permission and would not be described as a jab of any kind." },
+        { "distractor": "obey", "closeness": 1, "reasoning": "Obedience to the administration is the reverse of what a tolerated comic jab at it involves." },
+        { "distractor": "commend", "closeness": 1, "reasoning": "Commendation is praise, which would not require a theory about defusing resentment to justify permitting it." }
+      ]
+    }
+  ]
+}

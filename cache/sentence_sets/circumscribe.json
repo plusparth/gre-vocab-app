@@ -1,0 +1,53 @@
+{
+  "word": "circumscribe",
+  "sentenceSets": [
+    {
+      "sentence": "Company policy circumscribed what managers could offer in salary negotiations, frustrating both sides.",
+      "answerChoices": [
+        { "distractor": "curtailed", "closeness": 3, "reasoning": "Curtailing means cutting something back from what it was, but the sentence describes a standing policy that fixes the outer edges of what may be offered rather than a reduction of an earlier allowance." },
+        { "distractor": "capped", "closeness": 3, "reasoning": "A cap sets only an upper limit on an amount, while the sentence says the policy governed what could be offered at all, and frustration on both sides implies more than a ceiling on pay." },
+        { "distractor": "prescribed", "closeness": 3, "reasoning": "To prescribe is to specify what must be done, whereas the policy in the sentence works by ruling offers out and leaving managers with less room, not by dictating a single required offer." },
+        { "distractor": "restricted", "closeness": 3, "reasoning": "'Restricted' suggests a general clampdown, but the frustration of both parties points to precisely drawn boundaries that neither side can argue past." },
+        { "distractor": "influenced", "closeness": 2, "reasoning": "Influence is soft pressure, while the sentence shows managers unable to move beyond what policy allows, which is a hard boundary." },
+        { "distractor": "complicated", "closeness": 2, "reasoning": "Complication would make negotiations confusing, but the sentence indicates the limits were clear enough that both sides could feel blocked by them." },
+        { "distractor": "standardized", "closeness": 2, "reasoning": "Standardizing would make every offer uniform, yet the sentence leaves managers with a range of offers to make, just a narrower one." },
+        { "distractor": "delayed", "closeness": 2, "reasoning": "Nothing in the sentence concerns timing; the frustration comes from what may be offered, not from how long it takes." },
+        { "distractor": "expanded", "closeness": 1, "reasoning": "If policy had widened managers' options, neither side would be frustrated by it." },
+        { "distractor": "encouraged", "closeness": 1, "reasoning": "Encouragement would be welcomed rather than a source of frustration to both parties." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "A policy cannot ignore what managers may offer while simultaneously being the thing that shapes the negotiation." }
+      ]
+    },
+    {
+      "sentence": "Grief circumscribed her world to a few rooms and a handful of people she could bear to see.",
+      "answerChoices": [
+        { "distractor": "narrowed", "closeness": 3, "reasoning": "Narrowing describes a gradual tapering, but the sentence names a definite remainder, a specific set of rooms and people, with everything else outside it." },
+        { "distractor": "confined", "closeness": 3, "reasoning": "Confinement suggests being held in against her will, while the sentence says these are the people she could bear to see, so the boundary tracks what she can tolerate." },
+        { "distractor": "reduced", "closeness": 3, "reasoning": "'Reduced' emphasizes shrunken quantity, yet the sentence is describing where the edges of her life now fall rather than how much of it is left." },
+        { "distractor": "shrank", "closeness": 3, "reasoning": "Shrinking is something a world does on its own, but the sentence gives grief an active role in setting exactly which rooms and people remain." },
+        { "distractor": "darkened", "closeness": 2, "reasoning": "Darkening speaks to mood, while the sentence measures the change in rooms and people, which is a matter of extent." },
+        { "distractor": "emptied", "closeness": 2, "reasoning": "Emptying implies nothing left, but the sentence carefully lists what remains within the boundary." },
+        { "distractor": "simplified", "closeness": 2, "reasoning": "Simplification would suggest an easier life, whereas the sentence's cause is grief and the result is exclusion of nearly everything." },
+        { "distractor": "poisoned", "closeness": 2, "reasoning": "Poisoning would corrupt what remains, but the rooms and people named are precisely those she can still bear." },
+        { "distractor": "enlarged", "closeness": 1, "reasoning": "Ending at a few rooms and a handful of people is the opposite of an enlarged world." },
+        { "distractor": "brightened", "closeness": 1, "reasoning": "Grief that leaves her able to face only a handful of people has not brightened anything." },
+        { "distractor": "populated", "closeness": 1, "reasoning": "A handful of people is a subtraction from her world, not a filling of it." }
+      ]
+    },
+    {
+      "sentence": "The treaty circumscribes the powers of the new assembly so precisely that even its supporters call it a body without teeth.",
+      "answerChoices": [
+        { "distractor": "delimits", "closeness": 3, "reasoning": "Delimiting marks where an authority ends, but the sentence's result is an assembly that can do almost nothing, which comes from boundaries drawn tightly in every direction, not merely marked out." },
+        { "distractor": "defines", "closeness": 3, "reasoning": "Defining powers would explain what the assembly may do, whereas the sentence's consequence is a body without teeth, so the treaty's precision works by hemming the assembly in." },
+        { "distractor": "restrains", "closeness": 3, "reasoning": "Restraint implies holding back an active force, but the assembly is new and its weakness comes from the terms it was created under rather than from any check on power it once used." },
+        { "distractor": "curbs", "closeness": 3, "reasoning": "'Curbs' suggests trimming excess, while the word 'precisely' points to exact limits fixed in the text of the treaty rather than a general cutting back." },
+        { "distractor": "enumerates", "closeness": 2, "reasoning": "Enumeration would only list the powers, but a list alone would not explain why supporters consider the assembly powerless." },
+        { "distractor": "allocates", "closeness": 2, "reasoning": "Allocation would hand powers out, whereas the sentence's outcome is an assembly notable for what it cannot do." },
+        { "distractor": "weakens", "closeness": 2, "reasoning": "Weakening implies eroding strength the assembly already had, but this is a new body whose limits were set at its creation." },
+        { "distractor": "describes", "closeness": 2, "reasoning": "Mere description would leave the assembly's strength untouched, which conflicts with supporters calling it toothless because of the treaty." },
+        { "distractor": "augments", "closeness": 1, "reasoning": "A treaty that increased the assembly's powers would not leave it without teeth." },
+        { "distractor": "abolishes", "closeness": 1, "reasoning": "The assembly still exists and still has powers, however small, so nothing has been abolished." },
+        { "distractor": "celebrates", "closeness": 1, "reasoning": "A treaty is an instrument that sets terms, and celebration would not produce the toothlessness the sentence reports." }
+      ]
+    }
+  ]
+}

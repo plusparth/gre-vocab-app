@@ -1,0 +1,185 @@
+{
+  "word": "relegate",
+  "sentenceSets": [
+    {
+      "sentence": "The proposal was relegated to a working group that had no authority and no deadline, which is to say it was filed.",
+      "answerChoices": [
+        {
+          "distractor": "referred",
+          "closeness": 3,
+          "reasoning": "Referral is the neutral procedural term, but the second clause makes clear this was a burial in a powerless body rather than a routine handoff for further work."
+        },
+        {
+          "distractor": "consigned",
+          "closeness": 3,
+          "reasoning": "Close, though this word emphasizes handing something over for safekeeping or disposal, while the sentence stresses the drop in standing implied by a group with no authority."
+        },
+        {
+          "distractor": "banished",
+          "closeness": 3,
+          "reasoning": "Banishment implies expulsion from the premises altogether, yet the proposal remains inside the institution, parked in one of its committees."
+        },
+        {
+          "distractor": "shunted",
+          "closeness": 3,
+          "reasoning": "Shunting suggests being pushed aside to clear a path for something else, but the sentence says nothing about what took the proposal's place."
+        },
+        {
+          "distractor": "entrusted",
+          "closeness": 2,
+          "reasoning": "Entrusting implies confidence in the recipient, which is impossible for a group described as having neither authority nor a deadline."
+        },
+        {
+          "distractor": "transferred",
+          "closeness": 2,
+          "reasoning": "A transfer is lateral and neutral, missing the demotion the sentence conveys by calling the outcome equivalent to filing."
+        },
+        {
+          "distractor": "submitted",
+          "closeness": 2,
+          "reasoning": "Submission suggests seeking a decision from the group, but the sentence says the group can decide nothing."
+        },
+        {
+          "distractor": "delegated",
+          "closeness": 2,
+          "reasoning": "Delegation passes along authority to act, and the sentence specifies that this body has none."
+        },
+        {
+          "distractor": "elevated",
+          "closeness": 1,
+          "reasoning": "Being sent to a body with no power is not a rise in status."
+        },
+        {
+          "distractor": "promoted",
+          "closeness": 1,
+          "reasoning": "The sentence equates the move with shelving the proposal, the opposite of advancing it."
+        },
+        {
+          "distractor": "adopted",
+          "closeness": 1,
+          "reasoning": "Adoption would mean the proposal was accepted, contradicting the closing remark that it was effectively filed."
+        }
+      ]
+    },
+    {
+      "sentence": "After the new acquisitions arrived, the museum relegated its Victorian landscapes to a poorly lit corridor near the coat check.",
+      "answerChoices": [
+        {
+          "distractor": "exiled",
+          "closeness": 3,
+          "reasoning": "Exile implies expulsion from the building, but the paintings stay on display, just in the least prestigious spot in it."
+        },
+        {
+          "distractor": "demoted",
+          "closeness": 3,
+          "reasoning": "Demotion is about formal rank within a hierarchy, whereas what the sentence records is a physical move to worse wall space."
+        },
+        {
+          "distractor": "downgraded",
+          "closeness": 3,
+          "reasoning": "Downgrading changes an assigned rating or classification, while the sentence describes where the canvases were actually rehung."
+        },
+        {
+          "distractor": "sidelined",
+          "closeness": 3,
+          "reasoning": "Sidelining takes something out of play, but these canvases are still hanging where every visitor collecting a coat will pass them."
+        },
+        {
+          "distractor": "moved",
+          "closeness": 2,
+          "reasoning": "A neutral move ignores the pointed contrast between the arriving acquisitions and the dim corridor the landscapes ended up in."
+        },
+        {
+          "distractor": "stashed",
+          "closeness": 2,
+          "reasoning": "Stashing implies hiding away in storage, but these works remain hung where the public walks."
+        },
+        {
+          "distractor": "removed",
+          "closeness": 2,
+          "reasoning": "Removal would take the paintings off the walls, and the sentence tells us exactly where they now hang."
+        },
+        {
+          "distractor": "rotated",
+          "closeness": 2,
+          "reasoning": "Rotation is a routine, reversible cycling of a collection, which does not fit a one-way slide to the corridor by the coat check."
+        },
+        {
+          "distractor": "showcased",
+          "closeness": 1,
+          "reasoning": "A poorly lit corridor is the opposite of a place chosen to show work off."
+        },
+        {
+          "distractor": "restored",
+          "closeness": 1,
+          "reasoning": "Conservation work has nothing to do with where the paintings were rehung after the new pieces came in."
+        },
+        {
+          "distractor": "celebrated",
+          "closeness": 1,
+          "reasoning": "The location described signals neglect, not honor."
+        }
+      ]
+    },
+    {
+      "sentence": "Once he became mayor, he relegated his oldest friends to the occasional obligatory phone call.",
+      "answerChoices": [
+        {
+          "distractor": "reduced",
+          "closeness": 3,
+          "reasoning": "Reduction speaks to the shrinking quantity of contact, but the sentence's word 'obligatory' points to the friends' fall in importance to him, not merely to fewer minutes on the phone."
+        },
+        {
+          "distractor": "confined",
+          "closeness": 3,
+          "reasoning": "Confinement suggests an external boundary being imposed, whereas the sentence attributes the change to his own choices after winning office."
+        },
+        {
+          "distractor": "restricted",
+          "closeness": 3,
+          "reasoning": "Restriction implies a rule limiting access, but nothing keeps the mayor from his old friends except the lower place he now gives them."
+        },
+        {
+          "distractor": "limited",
+          "closeness": 3,
+          "reasoning": "This measures only how much contact remains, missing the demotion in standing signaled by friendships surviving as a duty."
+        },
+        {
+          "distractor": "neglected",
+          "closeness": 2,
+          "reasoning": "Neglect implies simple inattention, yet the calls do continue, on a schedule he apparently keeps out of obligation."
+        },
+        {
+          "distractor": "avoided",
+          "closeness": 2,
+          "reasoning": "He is not avoiding them, since the sentence has him still calling from time to time."
+        },
+        {
+          "distractor": "rationed",
+          "closeness": 2,
+          "reasoning": "Rationing implies a scarce resource he is carefully doling out, but the sentence points to changed priorities rather than scarcity."
+        },
+        {
+          "distractor": "dismissed",
+          "closeness": 2,
+          "reasoning": "Dismissal would end the relationship outright, and the obligatory calls show it persisting in diminished form."
+        },
+        {
+          "distractor": "cherished",
+          "closeness": 1,
+          "reasoning": "Treating friends as an obligation is not treasuring them."
+        },
+        {
+          "distractor": "prioritized",
+          "closeness": 1,
+          "reasoning": "An occasional dutiful phone call is the mark of low priority, not high."
+        },
+        {
+          "distractor": "embraced",
+          "closeness": 1,
+          "reasoning": "Drawing the friends closer contradicts a relationship reduced to a duty call."
+        }
+      ]
+    }
+  ]
+}

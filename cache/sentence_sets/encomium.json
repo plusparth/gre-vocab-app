@@ -1,0 +1,53 @@
+{
+  "word": "encomium",
+  "sentenceSets": [
+    {
+      "sentence": "The encomium delivered at her retirement dinner was so fulsome that even the honoree looked mildly embarrassed.",
+      "answerChoices": [
+        { "distractor": "tribute", "closeness": 3, "reasoning": "A tribute can be a plaque, a gift, or a moment of silence, but the sentence describes something delivered aloud at length enough to grow excessive, which points to a spoken address rather than any mark of respect." },
+        { "distractor": "toast", "closeness": 3, "reasoning": "A toast fits a dinner, yet toasts are brief and end in a raised glass, which does not square with praise so extended that it visibly discomfited its subject." },
+        { "distractor": "eulogy", "closeness": 3, "reasoning": "A eulogy is spoken over the dead, and the honoree in this sentence is present and reacting to what is said about her." },
+        { "distractor": "testimonial", "closeness": 3, "reasoning": "A testimonial is a firsthand vouching for someone's qualities or work, whereas the sentence's speech is characterized purely by the lavishness of its praise, not by any attestation of fact." },
+        { "distractor": "address", "closeness": 2, "reasoning": "Any speech at the dinner would be an address, so the word fails to capture what made this one excessive enough to embarrass her." },
+        { "distractor": "citation", "closeness": 2, "reasoning": "A citation is a short formal statement read out with an award, too clipped to become fulsome in the way the sentence describes." },
+        { "distractor": "introduction", "closeness": 2, "reasoning": "An introduction precedes a speaker, but the honoree here is the subject of the remarks and their audience, not someone about to take the podium." },
+        { "distractor": "anecdote", "closeness": 2, "reasoning": "An anecdote is a story, and the sentence says nothing about a narrated incident, only about praise laid on too thickly." },
+        { "distractor": "reprimand", "closeness": 1, "reasoning": "A reprimand at a retirement dinner would produce something other than the mild embarrassment of an over-praised honoree." },
+        { "distractor": "obituary", "closeness": 1, "reasoning": "An obituary is written after a death, which is incompatible with a living honoree seated at her own dinner." },
+        { "distractor": "indictment", "closeness": 1, "reasoning": "An indictment is an accusation, the opposite of the excessive praise the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "Reviewers who had savaged his first two books produced encomiums for the third, and he never entirely trusted the reversal.",
+      "answerChoices": [
+        { "distractor": "endorsements", "closeness": 3, "reasoning": "An endorsement is a recommendation attached to a product, but the sentence contrasts these notices with savage reviews, marking a swing in critical verdict rather than a promise to promote the book." },
+        { "distractor": "raves", "closeness": 3, "reasoning": "Raves are enthusiastic notices in journalistic slang, and the sentence's formal register, with reviewers producing something for a third book, calls for a term of set praise rather than a colloquial one." },
+        { "distractor": "concessions", "closeness": 3, "reasoning": "A concession grudgingly grants a point, which cannot be what makes the shift so complete that he distrusts it after two savagings." },
+        { "distractor": "apologias", "closeness": 3, "reasoning": "An apologia is a defense mounted against attack, but nothing in the sentence suggests the third book was under assault; the reviewers themselves are the ones who have changed." },
+        { "distractor": "reviews", "closeness": 2, "reasoning": "Reviews is neutral and would leave the reversal the sentence emphasizes entirely unexpressed, since the first two books were reviewed as well." },
+        { "distractor": "retractions", "closeness": 2, "reasoning": "A retraction withdraws an earlier statement, whereas these pieces are about the third book rather than corrections of what was said about the first two." },
+        { "distractor": "summaries", "closeness": 2, "reasoning": "A summary carries no evaluation, so it could not stand as the flattering counterpart to a savaging." },
+        { "distractor": "invitations", "closeness": 2, "reasoning": "An invitation is not something reviewers produce about a book, and it would give him nothing to be suspicious of in critical terms." },
+        { "distractor": "diatribes", "closeness": 1, "reasoning": "A diatribe is a sustained attack, which would continue the savaging rather than reverse it." },
+        { "distractor": "denunciations", "closeness": 1, "reasoning": "Denunciation is condemnation, the very thing the third book's reception is said to break from." },
+        { "distractor": "lampoons", "closeness": 1, "reasoning": "A lampoon ridicules its target, leaving no reversal for the author to distrust." }
+      ]
+    },
+    {
+      "sentence": "The committee's report reads less like an evaluation than an encomium, praising every initiative and identifying no weakness at all.",
+      "answerChoices": [
+        { "distractor": "advertisement", "closeness": 3, "reasoning": "An advertisement sets out to sell something to an outside buyer, while the report's fault as described is one-sided praise of initiatives it was meant to judge." },
+        { "distractor": "panegyric", "closeness": 3, "reasoning": "A panegyric is a formal oration composed for public delivery, and the sentence describes a written committee report that merely reads as unbroken praise." },
+        { "distractor": "puff", "closeness": 3, "reasoning": "Puff names inflated publicity written to promote, but the sentence faults the document for withholding criticism, not for exaggerating claims about results." },
+        { "distractor": "apology", "closeness": 3, "reasoning": "An apology either expresses regret or defends against charges, and the report is not answering any accusation; it is failing to raise any." },
+        { "distractor": "inventory", "closeness": 2, "reasoning": "An inventory would simply list the initiatives, whereas the complaint is that each one is praised." },
+        { "distractor": "digest", "closeness": 2, "reasoning": "A digest condenses material without commending it, so it does not name the uniform approval the sentence objects to." },
+        { "distractor": "memorandum", "closeness": 2, "reasoning": "A memorandum is a format rather than a stance, and the sentence contrasts the document with evaluation on the grounds of its unmixed praise." },
+        { "distractor": "prospectus", "closeness": 2, "reasoning": "A prospectus looks forward to what is planned, while the report is assessing initiatives already undertaken." },
+        { "distractor": "audit", "closeness": 1, "reasoning": "An audit is precisely the searching examination the report is said to fall short of." },
+        { "distractor": "censure", "closeness": 1, "reasoning": "Censure is formal disapproval, contradicted by a document that identifies no weakness at all." },
+        { "distractor": "postmortem", "closeness": 1, "reasoning": "A postmortem exists to find what went wrong, which this report explicitly does not do." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "cohesive",
+  "sentenceSets": [
+    {
+      "sentence": "A cohesive team needs not just shared goals but shared trust, which takes time to develop.",
+      "answerChoices": [
+        { "distractor": "unified", "closeness": 3, "reasoning": "Unity can be imposed from above by a common command, but the sentence says what holds this team together must be built between its members over time." },
+        { "distractor": "harmonious", "closeness": 3, "reasoning": "Harmony describes an absence of friction, while the sentence points to the bonds of trust that keep members working as one." },
+        { "distractor": "effective", "closeness": 3, "reasoning": "Effectiveness is measured by results, whereas the sentence is describing what makes the group hold together in the first place." },
+        { "distractor": "loyal", "closeness": 3, "reasoning": "Loyalty runs from each member toward the team, but the sentence describes trust flowing among them and binding the group internally." },
+        { "distractor": "diverse", "closeness": 2, "reasoning": "Diversity concerns the range of people involved, not the bonds between them that the sentence says take time." },
+        { "distractor": "ambitious", "closeness": 2, "reasoning": "Ambition is already covered by the shared goals the sentence says are not sufficient." },
+        { "distractor": "experienced", "closeness": 2, "reasoning": "Experience accumulates individually, while the trust described is something built between people." },
+        { "distractor": "disciplined", "closeness": 2, "reasoning": "Discipline comes from rules and habit, but the sentence attributes the quality in question to mutual trust." },
+        { "distractor": "fractured", "closeness": 1, "reasoning": "A team pulling apart is the opposite of one held together by trust." },
+        { "distractor": "temporary", "closeness": 1, "reasoning": "The sentence says the necessary trust takes time to develop, which a short-lived group would never gain." },
+        { "distractor": "anonymous", "closeness": 1, "reasoning": "People who do not know one another cannot build the trust the sentence requires." }
+      ]
+    },
+    {
+      "sentence": "The exhibition felt less like a survey than a cohesive argument, each room extending the claim made by the one before.",
+      "answerChoices": [
+        { "distractor": "coherent", "closeness": 3, "reasoning": "Coherence means the argument can be followed without contradiction, but the sentence describes rooms that actively build on one another into a single connected whole." },
+        { "distractor": "sustained", "closeness": 3, "reasoning": "Sustaining an argument is a matter of keeping it going, while the sentence emphasizes how the parts lock together as each room extends the last." },
+        { "distractor": "persuasive", "closeness": 3, "reasoning": "Persuasiveness concerns whether the visitor is convinced, whereas the sentence describes how tightly the sections are joined." },
+        { "distractor": "linear", "closeness": 3, "reasoning": "Linearity means merely proceeding in order, but the rooms here are said to develop one another rather than simply follow in sequence." },
+        { "distractor": "exhaustive", "closeness": 2, "reasoning": "Exhaustiveness is exactly what a survey offers, and the sentence sets the exhibition against a survey." },
+        { "distractor": "chronological", "closeness": 2, "reasoning": "Ordering by date would organize a survey, while the connection described is one of claim and extension." },
+        { "distractor": "elegant", "closeness": 2, "reasoning": "Elegance describes style, whereas the sentence explains how each room relates to its neighbor." },
+        { "distractor": "polemical", "closeness": 2, "reasoning": "Polemic implies attacking an opposing view, but nothing in the sentence sets up an opponent." },
+        { "distractor": "scattered", "closeness": 1, "reasoning": "Rooms that each extend the previous claim are the opposite of scattered." },
+        { "distractor": "silent", "closeness": 1, "reasoning": "The sentence describes an argument being made, not the absence of one." },
+        { "distractor": "unfinished", "closeness": 1, "reasoning": "An argument developed room by room to its conclusion is not incomplete." }
+      ]
+    },
+    {
+      "sentence": "Without a binder the powder never becomes cohesive, and the tablets crumble in the bottle before they reach a pharmacy.",
+      "answerChoices": [
+        { "distractor": "solid", "closeness": 3, "reasoning": "Solidity describes the state of matter, but the missing binder is what would make the particles cling to one another instead of falling apart." },
+        { "distractor": "compact", "closeness": 3, "reasoning": "Compactness is achieved by pressing material together, whereas the sentence says the failure is the absence of something to hold the grains to each other." },
+        { "distractor": "durable", "closeness": 3, "reasoning": "Durability is resistance to wear over time, while these tablets fall apart because nothing joins their particles at all." },
+        { "distractor": "uniform", "closeness": 3, "reasoning": "Uniformity concerns even distribution through the mixture, but the tablets crumble for want of anything binding the grains together." },
+        { "distractor": "soluble", "closeness": 2, "reasoning": "Dissolving is what a tablet should do once swallowed, not what keeps it intact in the bottle." },
+        { "distractor": "sterile", "closeness": 2, "reasoning": "Freedom from contamination has nothing to do with tablets breaking apart in transit." },
+        { "distractor": "potent", "closeness": 2, "reasoning": "Strength of dose is unaffected by whether the powder holds its shape." },
+        { "distractor": "granular", "closeness": 2, "reasoning": "Remaining granular is the problem the binder is meant to solve, not the goal." },
+        { "distractor": "toxic", "closeness": 1, "reasoning": "Nothing in the sentence concerns harm to the patient, only the tablets falling apart." },
+        { "distractor": "fragrant", "closeness": 1, "reasoning": "Smell has no bearing on whether the powder holds together." },
+        { "distractor": "liquid", "closeness": 1, "reasoning": "A liquid could not be pressed into tablets at all." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "motile",
+  "sentenceSets": [
+    {
+      "sentence": "The motile character of the argument, never settling in one position long enough to be engaged, made it difficult to answer directly.",
+      "answerChoices": [
+        { "distractor": "evasive", "closeness": 3, "reasoning": "Evasiveness implies an intent to dodge, but the sentence describes a quality of the argument itself, its constant shifting, without attributing any purpose to it." },
+        { "distractor": "volatile", "closeness": 3, "reasoning": "Volatility suggests sudden violent change or instability of temper, whereas the sentence describes continuous movement from position to position rather than eruptions." },
+        { "distractor": "nebulous", "closeness": 3, "reasoning": "Something nebulous is too vague to have a clear position at all, but this argument does take positions and simply will not stay in any of them." },
+        { "distractor": "protean", "closeness": 3, "reasoning": "Protean means changing in form or appearance, whereas the difficulty described is that the argument keeps moving between positions rather than that it keeps taking new shapes." },
+        { "distractor": "recursive", "closeness": 2, "reasoning": "A recursive argument folds back on itself in repeating loops, which would return to the same position rather than never settling in one." },
+        { "distractor": "acrimonious", "closeness": 2, "reasoning": "Acrimony is bitterness of tone, but the obstacle here is that the argument cannot be pinned down, not that it is hostile." },
+        { "distractor": "tentative", "closeness": 2, "reasoning": "A tentative argument is advanced with hesitation and would be easy to engage precisely because it holds still and awaits challenge." },
+        { "distractor": "byzantine", "closeness": 2, "reasoning": "Something byzantine is intricately complicated, a difficulty of structure rather than of the restlessness the sentence identifies." },
+        { "distractor": "static", "closeness": 1, "reasoning": "Static means unmoving, the exact opposite of an argument that never stays in one position." },
+        { "distractor": "conclusive", "closeness": 1, "reasoning": "A conclusive argument settles the matter, which cannot describe one that will not settle anywhere." },
+        { "distractor": "audible", "closeness": 1, "reasoning": "Audibility concerns whether something can be heard and has no bearing on an argument's refusal to stay put." }
+      ]
+    },
+    {
+      "sentence": "Under the microscope the sample separated into two populations, one motile and darting between the debris and one drifting wherever the current took it.",
+      "answerChoices": [
+        { "distractor": "buoyant", "closeness": 3, "reasoning": "Buoyancy is a tendency to float, which is the passive behaviour the sentence assigns to the second population drifting with the current." },
+        { "distractor": "kinetic", "closeness": 3, "reasoning": "Kinetic describes anything in motion, including the drifting group, so it cannot be what distinguishes the darting population from it." },
+        { "distractor": "agitated", "closeness": 3, "reasoning": "Agitation is movement imparted from outside by shaking or stirring, but the contrast drawn is with organisms carried by the current, which means the first group moves under its own power." },
+        { "distractor": "erratic", "closeness": 3, "reasoning": "Erratic describes movement as irregular rather than self-generated, and drifting on a shifting current can be irregular too." },
+        { "distractor": "adhesive", "closeness": 2, "reasoning": "Adhesive things stick to surfaces, contradicting a population observed darting between the debris." },
+        { "distractor": "inert", "closeness": 2, "reasoning": "Inert means chemically or physically unreactive and immobile, which fits neither of the two populations as described." },
+        { "distractor": "translucent", "closeness": 2, "reasoning": "Translucency is an optical property, but the sentence separates the populations by how they move." },
+        { "distractor": "fibrous", "closeness": 2, "reasoning": "Fibrous describes a threadlike structure, a matter of shape rather than the darting behaviour that distinguishes the first group." },
+        { "distractor": "sessile", "closeness": 1, "reasoning": "Sessile organisms are fixed in one place, which cannot describe anything darting between the debris." },
+        { "distractor": "extinct", "closeness": 1, "reasoning": "Extinct organisms no longer exist and could not be observed moving under a microscope." },
+        { "distractor": "audible", "closeness": 1, "reasoning": "Audibility has no meaning for microscopic populations distinguished by how they move." }
+      ]
+    },
+    {
+      "sentence": "The larvae remain motile for only a few hours before they attach to a rock and spend the rest of their lives fixed there.",
+      "answerChoices": [
+        { "distractor": "active", "closeness": 3, "reasoning": "An attached animal can still be active, filtering and feeding for years, so activity is not what the few hours before it fastens to the rock bring to an end." },
+        { "distractor": "airborne", "closeness": 3, "reasoning": "Airborne means carried through the air, but larvae that end up fixed to a rock are travelling through water rather than flying." },
+        { "distractor": "juvenile", "closeness": 3, "reasoning": "Juvenile marks a stage of life, and the sentence says the animal is still a larva when it attaches, so it does not stop being young at that moment." },
+        { "distractor": "dispersive", "closeness": 3, "reasoning": "Dispersive describes the spreading of a population across a range, an outcome of the larval stage rather than the capacity the individual loses when it settles." },
+        { "distractor": "translucent", "closeness": 2, "reasoning": "Translucency is an appearance the animal would not shed simply by attaching itself to a rock." },
+        { "distractor": "predatory", "closeness": 2, "reasoning": "Predation is a way of feeding, which many fixed animals continue to practise from where they sit." },
+        { "distractor": "dormant", "closeness": 2, "reasoning": "Dormancy is suspended activity, but these larvae spend their few hours doing something before settling, not resting." },
+        { "distractor": "gregarious", "closeness": 2, "reasoning": "Gregariousness is a tendency to gather in groups, which attachment to a rock would not necessarily end." },
+        { "distractor": "immobile", "closeness": 1, "reasoning": "Immobile is what the larvae become once fixed to the rock, not what they are during the hours beforehand." },
+        { "distractor": "petrified", "closeness": 1, "reasoning": "Petrified means turned to stone, which living larvae are not before they attach." },
+        { "distractor": "fictional", "closeness": 1, "reasoning": "Fictional describes something invented and cannot apply to larvae observed attaching to rocks." }
+      ]
+    }
+  ]
+}

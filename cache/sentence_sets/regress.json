@@ -1,0 +1,53 @@
+{
+  "word": "regress",
+  "sentenceSets": [
+    {
+      "sentence": "Deprived of practice for a full year, the students regressed to habits their teachers had spent two semesters correcting.",
+      "answerChoices": [
+        { "distractor": "reverted", "closeness": 3, "reasoning": "Close, but this word simply notes a return to a former state, while the sentence stresses that the habits recovered were ones the teachers had worked to eliminate, so ground was lost." },
+        { "distractor": "relapsed", "closeness": 3, "reasoning": "Relapse belongs to illness or addiction, and the sentence describes skills decaying from disuse rather than a condition returning." },
+        { "distractor": "backslid", "closeness": 3, "reasoning": "This carries a moral flavor of falling away from good conduct, whereas the students' loss here follows from a year without practice, not from weak resolve." },
+        { "distractor": "lapsed", "closeness": 3, "reasoning": "Lapsing suggests letting something quietly expire, but the sentence describes the active reappearance of specific corrected habits." },
+        { "distractor": "returned", "closeness": 2, "reasoning": "Too neutral for a sentence that frames the outcome as undoing two semesters of a teacher's work." },
+        { "distractor": "retreated", "closeness": 2, "reasoning": "Retreat implies a deliberate pulling back, while the change described happens to the students through absence of practice." },
+        { "distractor": "declined", "closeness": 2, "reasoning": "This names a general falling off but does not capture the return of particular old habits that the sentence specifies." },
+        { "distractor": "drifted", "closeness": 2, "reasoning": "Drifting suggests aimless movement, yet the students land back on identifiable habits their teachers had targeted." },
+        { "distractor": "advanced", "closeness": 1, "reasoning": "Moving forward contradicts a year of lost practice ending in old errors." },
+        { "distractor": "matured", "closeness": 1, "reasoning": "Growth is the opposite of returning to habits that had already been corrected." },
+        { "distractor": "persevered", "closeness": 1, "reasoning": "Persistence would have preserved the corrections rather than surrendering them." }
+      ]
+    },
+    {
+      "sentence": "Every explanation the philosopher offered depended on some prior cause, so the argument threatened to regress without end.",
+      "answerChoices": [
+        { "distractor": "recur", "closeness": 3, "reasoning": "Recurrence means the same thing happening again, but the sentence describes a chain running ever further back toward earlier and earlier causes." },
+        { "distractor": "multiply", "closeness": 3, "reasoning": "Multiplication would mean more explanations side by side, while the sentence sets them in a single backward line of prior causes." },
+        { "distractor": "extend", "closeness": 3, "reasoning": "Extension is directionless, and the sentence specifies movement toward what came before rather than growth in general." },
+        { "distractor": "spiral", "closeness": 3, "reasoning": "A spiral implies worsening intensity, but the trouble described is purely that each cause demands another one behind it." },
+        { "distractor": "circle", "closeness": 2, "reasoning": "Circular reasoning would return to where it started, whereas the sentence has each step reaching to a new prior cause." },
+        { "distractor": "wander", "closeness": 2, "reasoning": "Wandering suggests losing the thread, yet the argument here follows a perfectly consistent rule of asking what came before." },
+        { "distractor": "continue", "closeness": 2, "reasoning": "Too weak to name the problem, since an argument that simply continued would raise no threat at all." },
+        { "distractor": "branch", "closeness": 2, "reasoning": "Branching implies splitting into alternatives, but each explanation in the sentence has exactly one prior cause behind it." },
+        { "distractor": "conclude", "closeness": 1, "reasoning": "The phrase 'without end' rules out reaching any stopping point." },
+        { "distractor": "resolve", "closeness": 1, "reasoning": "The sentence presents an unresolved difficulty, not a settlement of one." },
+        { "distractor": "terminate", "closeness": 1, "reasoning": "Ending is precisely what the endless chain of prior causes prevents." }
+      ]
+    },
+    {
+      "sentence": "Six months after the therapy ended, two of the patients regressed, losing the motor control they had painstakingly regained.",
+      "answerChoices": [
+        { "distractor": "deteriorated", "closeness": 3, "reasoning": "Close, yet the sentence specifies the loss of gains they had already recovered once, a slide back to an earlier condition rather than general decay." },
+        { "distractor": "worsened", "closeness": 3, "reasoning": "This says only that things got worse, missing the point that the patients fell back to the state the therapy had lifted them out of." },
+        { "distractor": "faltered", "closeness": 3, "reasoning": "Faltering suggests a stumble or hesitation, but these patients lost the motor control entirely, not momentarily." },
+        { "distractor": "weakened", "closeness": 3, "reasoning": "Weakening points to diminished strength, while the sentence describes control that had been regained through effort being given back." },
+        { "distractor": "plateaued", "closeness": 2, "reasoning": "A plateau means gains stop accumulating, but here the gains themselves disappear." },
+        { "distractor": "stalled", "closeness": 2, "reasoning": "Stalling implies progress halting in place, which cannot describe patients who lost ground they had already covered." },
+        { "distractor": "slipped", "closeness": 2, "reasoning": "Too slight for the outcome described, in which painstakingly regained motor control is gone." },
+        { "distractor": "struggled", "closeness": 2, "reasoning": "Struggling would mean they were still fighting to hold on, whereas the sentence reports the loss as accomplished." },
+        { "distractor": "recovered", "closeness": 1, "reasoning": "Recovery is contradicted by the clause about losing what they had regained." },
+        { "distractor": "improved", "closeness": 1, "reasoning": "Improvement is the opposite of the outcome the second clause reports." },
+        { "distractor": "stabilized", "closeness": 1, "reasoning": "Holding steady is ruled out by the loss of motor control six months on." }
+      ]
+    }
+  ]
+}

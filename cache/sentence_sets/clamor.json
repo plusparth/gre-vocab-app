@@ -1,0 +1,53 @@
+{
+  "word": "clamor",
+  "sentenceSets": [
+    {
+      "sentence": "A clamor arose from the crowd when the announcement was delayed without explanation.",
+      "answerChoices": [
+        { "distractor": "murmur", "closeness": 3, "reasoning": "A murmur is low and indistinct, but the crowd here reacts to being kept waiting with no reason given, which produces noise loud enough to be described as rising from them all at once." },
+        { "distractor": "groan", "closeness": 3, "reasoning": "A groan is a single low sound of disappointment, while the sentence describes a whole crowd reacting audibly to an unexplained delay." },
+        { "distractor": "protest", "closeness": 3, "reasoning": "A protest implies an organized objection with a demand attached, whereas the sentence describes an immediate reaction of noise touched off by the delay." },
+        { "distractor": "commotion", "closeness": 3, "reasoning": "Commotion covers disorderly movement as well as sound, but nothing in the sentence suggests the crowd moved; what arose was directed at the announcement." },
+        { "distractor": "rumor", "closeness": 2, "reasoning": "A rumor is a piece of unverified information passing among people, while what the sentence describes is an audible reaction to a delay." },
+        { "distractor": "panic", "closeness": 2, "reasoning": "Panic implies fear of danger, but the crowd is merely denied an explanation for a wait." },
+        { "distractor": "silence", "closeness": 2, "reasoning": "Silence would not be said to arise from a crowd reacting to a slight; the sentence marks a change the audience could hear." },
+        { "distractor": "sigh", "closeness": 2, "reasoning": "A sigh is resigned and quiet, which understates a crowd's response to being told nothing at all." },
+        { "distractor": "applause", "closeness": 1, "reasoning": "An unexplained delay would not be greeted with approval." },
+        { "distractor": "hush", "closeness": 1, "reasoning": "A hush is the falling away of sound, the reverse of what a frustrated crowd produces." },
+        { "distractor": "fragrance", "closeness": 1, "reasoning": "Smell has nothing to do with a crowd's reaction to an announcement." }
+      ]
+    },
+    {
+      "sentence": "The mayor finally acted only after a sustained clamor from parents whose children had been walking to school along an unlit road.",
+      "answerChoices": [
+        { "distractor": "outcry", "closeness": 3, "reasoning": "An outcry is a burst of indignation, but the sentence says this went on long enough to be called sustained before it finally moved the mayor." },
+        { "distractor": "grumbling", "closeness": 3, "reasoning": "Grumbling is muttered complaint that no official need hear, whereas this was loud and persistent enough to force a mayor's hand." },
+        { "distractor": "petition", "closeness": 3, "reasoning": "A petition is a written document with signatures, while the sentence describes pressure the parents kept up until the mayor moved." },
+        { "distractor": "lobbying", "closeness": 3, "reasoning": "Lobbying works through private access to officials, but the parents in the sentence are ordinary residents making themselves heard from outside." },
+        { "distractor": "litigation", "closeness": 2, "reasoning": "No court is involved; the pressure came from parents making noise about an unlit road." },
+        { "distractor": "gossip", "closeness": 2, "reasoning": "Gossip circulates sideways among neighbors and would not force official action." },
+        { "distractor": "inquiry", "closeness": 2, "reasoning": "An inquiry seeks information, but these parents already know the road is unlit and want it fixed." },
+        { "distractor": "boycott", "closeness": 2, "reasoning": "A boycott withholds participation, whereas the sentence describes parents pressing loudly for something to be done." },
+        { "distractor": "endorsement", "closeness": 1, "reasoning": "Approval from parents would not be what finally forced the mayor to act." },
+        { "distractor": "indifference", "closeness": 1, "reasoning": "Parents who eventually moved the mayor were plainly not indifferent." },
+        { "distractor": "whisper", "closeness": 1, "reasoning": "Something described as sustained and effective against a mayor is not whispered." }
+      ]
+    },
+    {
+      "sentence": "Above the clamor of the trading floor, no one heard the phone that would have saved the account.",
+      "answerChoices": [
+        { "distractor": "din", "closeness": 3, "reasoning": "A din is undifferentiated noise, but a trading floor is loud because people are shouting orders at one another, and it is human voices that drown out the ringing." },
+        { "distractor": "bustle", "closeness": 3, "reasoning": "Bustle describes busy movement, while what masks the phone must be sound." },
+        { "distractor": "chatter", "closeness": 3, "reasoning": "Chatter is light and continuous talk, too mild to explain a ringing telephone going entirely unheard." },
+        { "distractor": "roar", "closeness": 3, "reasoning": "A roar is one massive undivided sound, whereas a trading floor's noise is made of many voices calling at once." },
+        { "distractor": "traffic", "closeness": 2, "reasoning": "Traffic belongs to a street outside, and the sentence locates the noise on the floor itself." },
+        { "distractor": "static", "closeness": 2, "reasoning": "Static is interference in a signal, but the phone rang and simply was not heard over the room." },
+        { "distractor": "frenzy", "closeness": 2, "reasoning": "Frenzy names a state of agitation rather than a sound something can be heard above." },
+        { "distractor": "urgency", "closeness": 2, "reasoning": "Urgency is a quality of the moment, not something that can physically cover a ringing telephone." },
+        { "distractor": "quiet", "closeness": 1, "reasoning": "In quiet conditions a ringing phone would have been heard immediately." },
+        { "distractor": "aroma", "closeness": 1, "reasoning": "A smell cannot prevent anyone from hearing a phone." },
+        { "distractor": "lull", "closeness": 1, "reasoning": "A lull is a pause in noise, which would have made the phone audible rather than lost." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "cache",
+  "sentenceSets": [
+    {
+      "sentence": "Archaeologists discovered a cache of ancient coins buried beneath the floor of the abandoned building.",
+      "answerChoices": [
+        { "distractor": "hoard", "closeness": 3, "reasoning": "A hoard emphasizes an accumulation amassed out of greed or fear, while the detail of coins buried under a floor points to something deliberately hidden away for keeping." },
+        { "distractor": "stash", "closeness": 3, "reasoning": "Close in sense but colloquial and usually applied to contraband, which sits oddly in a sentence about an archaeological find." },
+        { "distractor": "trove", "closeness": 3, "reasoning": "A trove stresses the richness and value of what was found, whereas the sentence emphasizes concealment beneath the floor." },
+        { "distractor": "deposit", "closeness": 3, "reasoning": "A deposit suggests material laid down by natural or geological processes, but these coins were placed under a floor by someone hiding them." },
+        { "distractor": "collection", "closeness": 2, "reasoning": "A collection implies items gathered for display or study, not concealed beneath floorboards in an abandoned building." },
+        { "distractor": "stockpile", "closeness": 2, "reasoning": "Stockpiles are amassed for future consumption, which does not describe coins buried and left behind." },
+        { "distractor": "chest", "closeness": 2, "reasoning": "A chest would be the container, but the sentence's phrase 'of ancient coins' names the hidden holding itself." },
+        { "distractor": "assortment", "closeness": 2, "reasoning": "Assortment stresses variety, and the sentence mentions only coins." },
+        { "distractor": "shortage", "closeness": 1, "reasoning": "Something discovered buried underground cannot be an absence of it." },
+        { "distractor": "forgery", "closeness": 1, "reasoning": "The sentence calls the coins ancient and says nothing about their authenticity." },
+        { "distractor": "catalog", "closeness": 1, "reasoning": "A list is not what gets buried beneath a floor and unearthed by archaeologists." }
+      ]
+    },
+    {
+      "sentence": "The climbers left a cache of fuel and freeze-dried meals at the col, marking the spot with a bamboo wand.",
+      "answerChoices": [
+        { "distractor": "depot", "closeness": 3, "reasoning": "A depot is a staffed or established facility, whereas what the climbers left is a small stock stowed on a mountain pass and marked with a stick." },
+        { "distractor": "store", "closeness": 3, "reasoning": "A store is any quantity kept for later, but the bamboo wand shows the point is that these supplies are hidden away and must be findable again." },
+        { "distractor": "reserve", "closeness": 3, "reasoning": "A reserve is anything held back against future need, which misses the fact that these goods were physically stowed at a marked location on the route." },
+        { "distractor": "supply", "closeness": 3, "reasoning": "Supply names the fuel and food themselves rather than the concealed stockpile the marker is there to help them relocate." },
+        { "distractor": "crate", "closeness": 2, "reasoning": "A crate is a container, and hauling wooden boxes to a high col is not what the sentence describes." },
+        { "distractor": "ration", "closeness": 2, "reasoning": "A ration is an allotted portion for one person, but this holding includes stove fuel as well as food." },
+        { "distractor": "parcel", "closeness": 2, "reasoning": "A parcel is something wrapped for delivery, not provisions stowed on a mountain for the party's own return." },
+        { "distractor": "bundle", "closeness": 2, "reasoning": "A bundle describes how items are tied together, which does not explain why the spot needed marking." },
+        { "distractor": "souvenir", "closeness": 1, "reasoning": "Fuel and freeze-dried meals are working supplies, not keepsakes." },
+        { "distractor": "banner", "closeness": 1, "reasoning": "The bamboo wand is already the marker; what was left is the food and fuel." },
+        { "distractor": "wager", "closeness": 1, "reasoning": "Nothing in the sentence involves a bet." }
+      ]
+    },
+    {
+      "sentence": "Investigators uncovered a cache of unregistered rifles behind a false wall in the garage.",
+      "answerChoices": [
+        { "distractor": "arsenal", "closeness": 3, "reasoning": "An arsenal stresses the firepower assembled, while the false wall makes concealment the point of the sentence." },
+        { "distractor": "armory", "closeness": 3, "reasoning": "An armory is a place where weapons are stored and issued, but here the guns are hidden in a domestic garage." },
+        { "distractor": "haul", "closeness": 3, "reasoning": "A haul is what the investigators carried away, whereas the blank names what was sitting behind the wall before they found it." },
+        { "distractor": "consignment", "closeness": 3, "reasoning": "A consignment is goods in transit to a buyer, and these rifles had been walled in rather than shipped." },
+        { "distractor": "shipment", "closeness": 2, "reasoning": "Nothing suggests the rifles were being moved; they were sealed behind a false wall." },
+        { "distractor": "rack", "closeness": 2, "reasoning": "A rack is a fixture for holding guns openly, which defeats the purpose of the hidden compartment." },
+        { "distractor": "pile", "closeness": 2, "reasoning": "A pile describes careless heaping and ignores the deliberate concealment the false wall implies." },
+        { "distractor": "inventory", "closeness": 2, "reasoning": "An inventory is a documented list, but investigators uncovered the weapons themselves." },
+        { "distractor": "display", "closeness": 1, "reasoning": "Something walled up in a garage is by definition not on show." },
+        { "distractor": "heirloom", "closeness": 1, "reasoning": "The rifles are described as unregistered and hidden, not as treasured family property." },
+        { "distractor": "receipt", "closeness": 1, "reasoning": "Paperwork is not what a false wall in a garage was built to hide here." }
+      ]
+    }
+  ]
+}

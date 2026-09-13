@@ -1,0 +1,53 @@
+{
+  "word": "misappropriate",
+  "sentenceSets": [
+    {
+      "sentence": "The funds were misappropriated over a period of years, in amounts too small to trigger automatic scrutiny.",
+      "answerChoices": [
+        { "distractor": "embezzled", "closeness": 3, "reasoning": "Embezzlement requires that the taker held the money in trust as part of his office, a relationship the sentence never establishes about whoever moved these sums." },
+        { "distractor": "squandered", "closeness": 3, "reasoning": "Squandering is wasteful spending on the intended holder's own account, which would show up as loss rather than as sums kept small enough to slip past the thresholds." },
+        { "distractor": "diverted", "closeness": 3, "reasoning": "Diverting only says the money went somewhere other than planned, which can be a lawful reallocation, whereas the deliberate sizing of the amounts to avoid scrutiny points to wrongful taking." },
+        { "distractor": "laundered", "closeness": 3, "reasoning": "Laundering disguises the origin of money already obtained illegally, but the sentence describes the taking itself, with concealment achieved simply by keeping each amount below the review threshold." },
+        { "distractor": "audited", "closeness": 2, "reasoning": "Auditing is the very scrutiny the small amounts were designed to escape, so it cannot also be what was done to the funds." },
+        { "distractor": "depreciated", "closeness": 2, "reasoning": "Depreciation is an accounting write-down of an asset's value over time, an ordinary and disclosed process rather than something structured to avoid detection." },
+        { "distractor": "reimbursed", "closeness": 2, "reasoning": "Reimbursement returns money to someone who spent it, which would not need to be hidden beneath a scrutiny threshold." },
+        { "distractor": "frozen", "closeness": 2, "reasoning": "Freezing funds blocks their movement, whereas here the money moved repeatedly in carefully sized increments." },
+        { "distractor": "donated", "closeness": 1, "reasoning": "Donating is an open transfer for charitable purposes and would not be arranged to avoid automatic review." },
+        { "distractor": "replenished", "closeness": 1, "reasoning": "Replenishing adds money back to an account, the opposite of what happened to these funds." },
+        { "distractor": "publicized", "closeness": 1, "reasoning": "Publicizing draws attention, contradicting a scheme built on keeping each amount beneath notice." }
+      ]
+    },
+    {
+      "sentence": "The council treasurer resigned after admitting he had misappropriated the flood relief account to cover the shortfall in his own building firm.",
+      "answerChoices": [
+        { "distractor": "plundered", "closeness": 3, "reasoning": "Plundering suggests violent seizure by an outsider, but this man held the account as treasurer and moved the money quietly enough that only his own admission brought it out." },
+        { "distractor": "pilfered", "closeness": 3, "reasoning": "Pilfering means taking small items of little value, which cannot describe drawing on a relief account to cover a company's shortfall." },
+        { "distractor": "mismanaged", "closeness": 3, "reasoning": "Mismanagement is incompetent handling with no personal gain, whereas the money went to his own firm and cost him his post." },
+        { "distractor": "borrowed", "closeness": 3, "reasoning": "Borrowing presumes permission and an arrangement to repay, neither of which fits a treasurer who had to resign as soon as he admitted what he had done." },
+        { "distractor": "forfeited", "closeness": 2, "reasoning": "Forfeiting is losing something as a penalty, but here the treasurer gained the use of the money rather than surrendering anything." },
+        { "distractor": "disclosed", "closeness": 2, "reasoning": "Disclosure is the admission that came afterward, not the act with the account that forced him out of office." },
+        { "distractor": "invested", "closeness": 2, "reasoning": "Investing places money to earn a return for the fund's owner, whereas this money plugged a hole in his private business." },
+        { "distractor": "insured", "closeness": 2, "reasoning": "Insuring protects an account against loss, which would be a defensible act rather than a resigning offence." },
+        { "distractor": "replenished", "closeness": 1, "reasoning": "Replenishing the relief account would have been the remedy, not the admission that ended his career." },
+        { "distractor": "inherited", "closeness": 1, "reasoning": "Inheriting comes by bequest and would give him lawful title, contradicting the resignation." },
+        { "distractor": "commended", "closeness": 1, "reasoning": "Commending is praising and cannot be done to a flood relief account." }
+      ]
+    },
+    {
+      "sentence": "Artists in the collective accused the fashion house of misappropriating their designs, reproducing the motifs on scarves without payment or acknowledgment.",
+      "answerChoices": [
+        { "distractor": "plagiarizing", "closeness": 3, "reasoning": "Plagiarism is passing another's work off as one's own original creation, but the complaint here rests on commercial reproduction without payment, which is possible even where the source is admitted." },
+        { "distractor": "imitating", "closeness": 3, "reasoning": "Imitation produces something in a similar manner, whereas the sentence says the motifs themselves were reproduced on the scarves." },
+        { "distractor": "licensing", "closeness": 3, "reasoning": "Licensing is the lawful purchase of permission to use a design, which is precisely what the missing payment and acknowledgment show did not happen." },
+        { "distractor": "adapting", "closeness": 3, "reasoning": "Adapting reworks material for a new medium and is generally treated as creative labour, but the artists object to the taking itself rather than to any transformation." },
+        { "distractor": "cataloguing", "closeness": 2, "reasoning": "Cataloguing lists and records works, an archival act that would not put the motifs onto merchandise for sale." },
+        { "distractor": "exhibiting", "closeness": 2, "reasoning": "Exhibiting displays the artists' work as theirs, which would supply exactly the acknowledgment the sentence says was withheld." },
+        { "distractor": "critiquing", "closeness": 2, "reasoning": "Critiquing evaluates the designs in words and would produce no scarves at all." },
+        { "distractor": "commissioning", "closeness": 2, "reasoning": "Commissioning would mean the house had engaged and paid the artists, contradicting the absence of payment at the heart of the accusation." },
+        { "distractor": "crediting", "closeness": 1, "reasoning": "Crediting is the acknowledgment the artists say they never received." },
+        { "distractor": "discarding", "closeness": 1, "reasoning": "Discarding throws the designs away, which cannot produce scarves carrying the motifs." },
+        { "distractor": "insulating", "closeness": 1, "reasoning": "Insulating shields something from heat or influence and has no bearing on the reuse of designs." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "cinematic",
+  "sentenceSets": [
+    {
+      "sentence": "The cinematic sweep of the opening chapter established a visual style that carried through the whole novel.",
+      "answerChoices": [
+        { "distractor": "theatrical", "closeness": 3, "reasoning": "The sentence describes a sweeping opening that establishes a visual style across a whole book, which suggests wide camera-like motion rather than the fixed stage and live performance that 'theatrical' evokes." },
+        { "distractor": "panoramic", "closeness": 3, "reasoning": "A panorama is a single wide view held still, but the sentence credits the opening with a style of seeing that continues chapter after chapter, which is about how images move and follow one another." },
+        { "distractor": "pictorial", "closeness": 3, "reasoning": "'Pictorial' points to static pictures, while the word 'sweep' in the sentence describes motion through a scene rather than an arrangement of still images." },
+        { "distractor": "painterly", "closeness": 3, "reasoning": "The sentence emphasizes sweep and carried-through style, not brushwork or color handling, so the comparison being drawn is to a moving medium rather than to canvas technique." },
+        { "distractor": "dramatic", "closeness": 2, "reasoning": "'Dramatic' would describe emotional intensity, but the sentence specifically credits the opening with a visual style, which is a matter of how things are shown rather than how tense they are." },
+        { "distractor": "vivid", "closeness": 2, "reasoning": "Vividness describes brightness of detail, yet the sentence is about a technique established at the opening and sustained structurally, which is more than mere sharpness of description." },
+        { "distractor": "operatic", "closeness": 2, "reasoning": "Opera implies music and grand vocal performance, neither of which appears anywhere in a sentence concerned solely with what the prose makes the reader see." },
+        { "distractor": "lush", "closeness": 2, "reasoning": "'Lush' would describe richness of texture, but the sentence attributes a specific and repeatable style to the opening, not simply abundance." },
+        { "distractor": "auditory", "closeness": 1, "reasoning": "The sentence explicitly identifies the style as visual, so a word about sound contradicts the detail it gives." },
+        { "distractor": "terse", "closeness": 1, "reasoning": "Terseness means clipped brevity, which cannot describe something called a sweep that extends across an entire novel." },
+        { "distractor": "fiscal", "closeness": 1, "reasoning": "Nothing in the sentence involves money or budgets; it concerns the visual manner of a novel's opening." }
+      ]
+    },
+    {
+      "sentence": "Even the courtroom testimony had a cinematic quality, with each witness appearing at the exact moment needed to overturn what the last one had said.",
+      "answerChoices": [
+        { "distractor": "staged", "closeness": 3, "reasoning": "The sentence reports how the sequence felt to an onlooker, whereas calling it staged would assert that someone actually arranged the witnesses, a claim the sentence never makes." },
+        { "distractor": "scripted", "closeness": 3, "reasoning": "'Scripted' implies the words were written in advance, but the detail supplied is about the timing of arrivals, not about anyone dictating what the witnesses said." },
+        { "distractor": "choreographed", "closeness": 3, "reasoning": "Choreography requires a planner, and the sentence presents the perfect timing as a striking impression of the proceedings rather than as evidence of coordination." },
+        { "distractor": "novelistic", "closeness": 3, "reasoning": "The described effect depends on entrances timed to the moment, an effect of watching events unfold in real time rather than of the interior narration a novel supplies." },
+        { "distractor": "improbable", "closeness": 2, "reasoning": "Improbability alone would not explain why the timing is described as a 'quality' the testimony possessed; the sentence is characterizing its manner, not rating its likelihood." },
+        { "distractor": "suspenseful", "closeness": 2, "reasoning": "Suspense concerns not knowing what comes next, while the sentence stresses that each reversal lands precisely on cue, which is a matter of arrangement rather than of tension." },
+        { "distractor": "rehearsed", "closeness": 2, "reasoning": "To call it rehearsed would accuse the witnesses of preparation, but the sentence only observes how neatly one entrance answered another." },
+        { "distractor": "literary", "closeness": 2, "reasoning": "'Literary' would point to style of language, yet the sentence describes no language at all, only the order and timing of who spoke." },
+        { "distractor": "documentary", "closeness": 1, "reasoning": "A documentary quality would mean plainness and unshaped reality, the opposite of the too-perfect timing the sentence highlights." },
+        { "distractor": "tedious", "closeness": 1, "reasoning": "The sentence describes each witness overturning the previous one, which is the opposite of dull." },
+        { "distractor": "statistical", "closeness": 1, "reasoning": "No numbers or data appear; the sentence concerns the sequence of witnesses in a courtroom." }
+      ]
+    },
+    {
+      "sentence": "The museum's ramped galleries unfold with cinematic pacing, revealing each new wing only after a deliberate turn.",
+      "answerChoices": [
+        { "distractor": "episodic", "closeness": 3, "reasoning": "'Episodic' suggests self-contained installments, but the sentence describes one continuous ramp on which each reveal is timed to a turn, a flow rather than a set of separate parts." },
+        { "distractor": "processional", "closeness": 3, "reasoning": "A procession is a formal march of people, whereas the sentence attributes the timing to the building itself and to what the visitor is shown when." },
+        { "distractor": "sequential", "closeness": 3, "reasoning": "Mere sequence would say only that the wings come one after another, missing the sentence's point that the withholding and the timed reveal are deliberate effects." },
+        { "distractor": "narrative", "closeness": 3, "reasoning": "'Narrative' pacing would imply a story with events and characters, but nothing is being recounted here; the visitor is simply shown views in a controlled order." },
+        { "distractor": "leisurely", "closeness": 2, "reasoning": "The sentence stresses that reveals are withheld until a deliberate turn, which is about control of timing rather than about slowness." },
+        { "distractor": "measured", "closeness": 2, "reasoning": "'Measured' would describe evenness of tempo, yet the effect described depends on a surprise held back and then delivered, not on regularity." },
+        { "distractor": "architectural", "closeness": 2, "reasoning": "Calling the pacing architectural is nearly empty in a sentence already about galleries and ramps; it names the medium instead of the quality of the timing." },
+        { "distractor": "rhythmic", "closeness": 2, "reasoning": "Rhythm implies a repeating beat, but the sentence describes single reveals earned by turning a corner, not a recurring pulse." },
+        { "distractor": "chaotic", "closeness": 1, "reasoning": "The word 'deliberate' in the sentence rules out disorder." },
+        { "distractor": "abrupt", "closeness": 1, "reasoning": "The galleries are said to unfold, which contradicts anything sudden or clipped." },
+        { "distractor": "monetary", "closeness": 1, "reasoning": "The sentence concerns how a visitor moves through space, with no reference to cost." }
+      ]
+    }
+  ]
+}

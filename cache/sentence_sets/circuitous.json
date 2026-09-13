@@ -1,0 +1,53 @@
+{
+  "word": "circuitous",
+  "sentenceSets": [
+    {
+      "sentence": "He took a circuitous route through the story, arriving at his main point only after three digressions.",
+      "answerChoices": [
+        { "distractor": "meandering", "closeness": 3, "reasoning": "Meandering suggests drifting with no destination in mind, but the sentence says he did arrive at a main point, so the detours led somewhere." },
+        { "distractor": "rambling", "closeness": 3, "reasoning": "Rambling implies loss of control over the telling, while the sentence presents the route as one he took, with the digressions counted and the point reached." },
+        { "distractor": "evasive", "closeness": 3, "reasoning": "Evasiveness implies he was avoiding the point, yet the sentence states he reached it, only by way of detours." },
+        { "distractor": "tortuous", "closeness": 3, "reasoning": "'Tortuous' emphasizes painful twisting and difficulty, but nothing in the sentence suggests the listener struggled, only that the path was longer than necessary." },
+        { "distractor": "leisurely", "closeness": 2, "reasoning": "Leisureliness is about slow pace, whereas the sentence measures the telling by the number of departures from the subject rather than by speed." },
+        { "distractor": "convoluted", "closeness": 2, "reasoning": "Convolution implies tangled complexity that is hard to follow, but the sentence describes three clean digressions and a destination, not confusion." },
+        { "distractor": "elaborate", "closeness": 2, "reasoning": "Elaborateness concerns richness of detail, while the sentence is counting departures from the subject, which is a matter of direction rather than ornament." },
+        { "distractor": "discursive", "closeness": 2, "reasoning": "'Discursive' describes ranging over many subjects, but the sentence tracks a single route with a fixed endpoint that he eventually reaches." },
+        { "distractor": "direct", "closeness": 1, "reasoning": "Three digressions before the main point is the opposite of directness." },
+        { "distractor": "blunt", "closeness": 1, "reasoning": "Bluntness means getting to the point immediately, which the sentence explicitly says he did not do." },
+        { "distractor": "immediate", "closeness": 1, "reasoning": "The sentence says the point came only at the end, after delays." }
+      ]
+    },
+    {
+      "sentence": "The delivery van followed a circuitous path through back alleys to avoid the parade traffic downtown.",
+      "answerChoices": [
+        { "distractor": "winding", "closeness": 3, "reasoning": "'Winding' describes the shape of a road itself, but the sentence explains the path by the driver's purpose of getting around a blockage, not by the curvature of the streets." },
+        { "distractor": "roundabout", "closeness": 3, "reasoning": "The sentence supplies a destination-driven reason for the detour, and this word is so bound to the idea of going around that it adds nothing the phrase 'through back alleys to avoid' has not already established." },
+        { "distractor": "serpentine", "closeness": 3, "reasoning": "Serpentine describes a snaking shape, yet the alleys are chosen for where they avoid going, not for how they curve." },
+        { "distractor": "indirect", "closeness": 3, "reasoning": "'Indirect' merely denies straightness, while the sentence describes an actual longer loop through alleys covering real extra ground." },
+        { "distractor": "illegal", "closeness": 2, "reasoning": "Nothing in the sentence suggests any rule was broken; the alleys are used to dodge congestion." },
+        { "distractor": "congested", "closeness": 2, "reasoning": "The congestion in the sentence is downtown, and the alleys are precisely what the van uses to escape it." },
+        { "distractor": "unfamiliar", "closeness": 2, "reasoning": "The driver clearly knows these alleys well enough to use them as an alternative, so unfamiliarity is not supported." },
+        { "distractor": "scenic", "closeness": 2, "reasoning": "Back alleys chosen under time pressure to dodge a parade are picked for practicality, not for views." },
+        { "distractor": "straight", "closeness": 1, "reasoning": "A path threaded through back alleys to skirt an obstruction cannot be straight." },
+        { "distractor": "shortest", "closeness": 1, "reasoning": "Going around the parade adds distance rather than saving it." },
+        { "distractor": "aerial", "closeness": 1, "reasoning": "A delivery van drives on streets, so an airborne route is impossible here." }
+      ]
+    },
+    {
+      "sentence": "Approval required a circuitous journey through four committees, each of which sent the proposal back to the one before it.",
+      "answerChoices": [
+        { "distractor": "byzantine", "closeness": 3, "reasoning": "Byzantine points to intricate hidden complexity, but the trouble the sentence names is simple to describe: the proposal keeps being sent backward along a chain." },
+        { "distractor": "protracted", "closeness": 3, "reasoning": "Protraction is only about length of time, while the sentence's complaint is about the shape of the path the proposal travels." },
+        { "distractor": "labyrinthine", "closeness": 3, "reasoning": "A labyrinth implies getting lost among many branching options, whereas the sentence describes exactly four committees in a known order." },
+        { "distractor": "cyclical", "closeness": 3, "reasoning": "'Cyclical' would mean the whole loop repeats on a schedule, but the sentence describes a single approval attempt sent backward step by step." },
+        { "distractor": "bureaucratic", "closeness": 2, "reasoning": "Naming the committees bureaucratic restates that they are committees rather than describing the doubling-back the sentence emphasizes." },
+        { "distractor": "tedious", "closeness": 2, "reasoning": "Tedium is the feeling produced, but the sentence's specific detail is the route the proposal takes among the four bodies." },
+        { "distractor": "redundant", "closeness": 2, "reasoning": "Redundancy would mean the same review done twice for no reason, yet the sentence says each committee returns the proposal to a different, earlier one." },
+        { "distractor": "adversarial", "closeness": 2, "reasoning": "No conflict between the committees is described; they pass the proposal backward rather than fight over it." },
+        { "distractor": "streamlined", "closeness": 1, "reasoning": "Four committees returning a proposal to one another is the opposite of a smoothed process." },
+        { "distractor": "instantaneous", "closeness": 1, "reasoning": "A journey through four committees with repeated returns takes considerable time." },
+        { "distractor": "voluntary", "closeness": 1, "reasoning": "The sentence says approval required this passage, so it was not optional." }
+      ]
+    }
+  ]
+}

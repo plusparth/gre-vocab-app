@@ -1,0 +1,53 @@
+{
+  "word": "entice",
+  "sentenceSets": [
+    {
+      "sentence": "The generous terms were designed to entice qualified applicants who might otherwise choose better-known institutions.",
+      "answerChoices": [
+        { "distractor": "attract", "closeness": 3, "reasoning": "Attracting can happen passively through reputation, but the sentence describes terms deliberately designed to pull candidates away from a rival choice, which is an act of inducement rather than of appeal." },
+        { "distractor": "recruit", "closeness": 3, "reasoning": "Recruiting is the whole process of finding and hiring people, while the sentence isolates the function of the terms themselves in making the offer tempting." },
+        { "distractor": "compel", "closeness": 3, "reasoning": "Compulsion removes choice, yet the sentence explicitly leaves applicants free to pick better-known institutions instead." },
+        { "distractor": "reassure", "closeness": 3, "reasoning": "Reassurance addresses a doubt or fear, and the obstacle named here is the pull of more famous rivals, not anxiety about this institution." },
+        { "distractor": "reward", "closeness": 2, "reasoning": "A reward follows service already given, whereas these terms operate before the applicants have decided anything." },
+        { "distractor": "identify", "closeness": 2, "reasoning": "Identifying qualified applicants is a matter of finding them, and the sentence's problem is winning over people who have already been found." },
+        { "distractor": "retain", "closeness": 2, "reasoning": "Retention keeps people who are already inside, while these applicants have not yet joined." },
+        { "distractor": "deserve", "closeness": 2, "reasoning": "Deserving applicants is not something terms can do, and the sentence describes an effect the terms are engineered to have on candidates' choices." },
+        { "distractor": "deter", "closeness": 1, "reasoning": "Deterrence would push qualified applicants away, defeating the purpose the terms were designed for." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Ignoring applicants is incompatible with terms crafted specifically to win them." },
+        { "distractor": "penalize", "closeness": 1, "reasoning": "Penalties would make the offer worse, contradicting the generosity the sentence attributes to the terms." }
+      ]
+    },
+    {
+      "sentence": "A neighbor kept trying to entice the stray out from under the porch with a saucer of milk, retreating a step each time it edged forward.",
+      "answerChoices": [
+        { "distractor": "coax", "closeness": 3, "reasoning": "Coaxing works through gentle persistence and soothing talk, while what the sentence shows is a lure set out and a bargain implied by the retreating step." },
+        { "distractor": "drive", "closeness": 3, "reasoning": "Driving an animal means forcing it out from behind, which is contradicted by the neighbor backing away to let it come forward." },
+        { "distractor": "summon", "closeness": 3, "reasoning": "Summoning implies a call the animal is expected to obey, and the sentence's method is a saucer of milk offered to a frightened stray, not a command." },
+        { "distractor": "startle", "closeness": 3, "reasoning": "Startling would send the stray deeper under the porch, whereas the neighbor's careful retreat is designed to keep it moving outward." },
+        { "distractor": "feed", "closeness": 2, "reasoning": "Feeding would be accomplished by leaving the saucer and walking off, but the sentence shows a sustained effort to bring the animal out." },
+        { "distractor": "catch", "closeness": 2, "reasoning": "Catching means laying hands on the stray, and the neighbor is instead stepping back each time it approaches." },
+        { "distractor": "follow", "closeness": 2, "reasoning": "Following would reverse the direction of movement the sentence describes, since the cat is the one advancing." },
+        { "distractor": "shelter", "closeness": 2, "reasoning": "Sheltering the stray would mean housing it, while the immediate problem in the sentence is getting it to emerge at all." },
+        { "distractor": "frighten", "closeness": 1, "reasoning": "Frightening the animal works directly against a saucer of milk and a careful retreat." },
+        { "distractor": "abandon", "closeness": 1, "reasoning": "Abandonment is the opposite of the patient effort the sentence records." },
+        { "distractor": "trap", "closeness": 1, "reasoning": "A trap requires a device and confinement, neither of which appears in the scene." }
+      ]
+    },
+    {
+      "sentence": "Prosecutors argued that the broker had enticed elderly clients into transfers whose fees he alone understood.",
+      "answerChoices": [
+        { "distractor": "defrauded", "closeness": 3, "reasoning": "Defrauding is a completed theft by deception, but the charge as phrased concerns how the clients were drawn into making the transfers themselves." },
+        { "distractor": "advised", "closeness": 3, "reasoning": "Advising is neutral counsel, which would not fit a prosecution premised on the broker's exclusive grasp of the fees involved." },
+        { "distractor": "pressured", "closeness": 3, "reasoning": "Pressure implies force or insistence, whereas the picture drawn is of clients led willingly into transfers whose costs were hidden from them." },
+        { "distractor": "flattered", "closeness": 3, "reasoning": "Flattery works on vanity, and nothing in the sentence turns on praise; the lever described is the attractiveness of the transfers themselves." },
+        { "distractor": "notified", "closeness": 2, "reasoning": "Notification would mean the clients were told, which sits badly with fees the broker alone understood." },
+        { "distractor": "reimbursed", "closeness": 2, "reasoning": "Reimbursement returns money to the clients, the reverse of the harm prosecutors allege." },
+        { "distractor": "represented", "closeness": 2, "reasoning": "Representing clients describes his role rather than the conduct the prosecution complains of." },
+        { "distractor": "consulted", "closeness": 2, "reasoning": "Consulting the clients would mean seeking their views, while the sentence stresses their ignorance of the fee structure." },
+        { "distractor": "warned", "closeness": 1, "reasoning": "Warning them about the fees is precisely what the sentence indicates did not happen." },
+        { "distractor": "protected", "closeness": 1, "reasoning": "Protection is the opposite of the conduct a prosecutor would be arguing about." },
+        { "distractor": "reported", "closeness": 1, "reasoning": "Reporting the clients makes no sense as a description of drawing them into transfers." }
+      ]
+    }
+  ]
+}

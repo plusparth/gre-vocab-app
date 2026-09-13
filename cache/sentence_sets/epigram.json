@@ -1,0 +1,53 @@
+{
+  "word": "epigram",
+  "sentenceSets": [
+    {
+      "sentence": "The epigram inscribed above the door captured the institution's philosophy in a way that no paragraph could.",
+      "answerChoices": [
+        { "distractor": "motto", "closeness": 3, "reasoning": "A motto is a slogan a body adopts to declare its allegiance, while the sentence praises this line for its wit and compression in doing what a paragraph could not." },
+        { "distractor": "proverb", "closeness": 3, "reasoning": "A proverb is anonymous folk wisdom in general circulation, whereas this line is presented as the particular expression of one institution's philosophy." },
+        { "distractor": "inscription", "closeness": 3, "reasoning": "Inscription names only the fact that words are carved above the door, which the sentence has already told us, leaving the pointed brevity unexpressed." },
+        { "distractor": "aphorism", "closeness": 3, "reasoning": "An aphorism states a general truth in plain terms, but the sentence emphasizes an artful turn that outdoes a paragraph, pointing to a crafted and polished line rather than a bare maxim." },
+        { "distractor": "manifesto", "closeness": 2, "reasoning": "A manifesto is a long public declaration, which is precisely the paragraph-length form the sentence says was outdone." },
+        { "distractor": "citation", "closeness": 2, "reasoning": "A citation points to a source, while the line above the door is doing the expressing itself." },
+        { "distractor": "eulogy", "closeness": 2, "reasoning": "A eulogy praises the dead, and the subject here is a living institution's guiding philosophy." },
+        { "distractor": "banner", "closeness": 2, "reasoning": "A banner is a physical object rather than a form of words, and the sentence is about how the words work." },
+        { "distractor": "footnote", "closeness": 1, "reasoning": "A footnote is subordinate matter tucked away, the opposite of a line placed above the door to sum everything up." },
+        { "distractor": "treatise", "closeness": 1, "reasoning": "A treatise is a book-length argument, contradicting the compression the sentence celebrates." },
+        { "distractor": "erratum", "closeness": 1, "reasoning": "An erratum is a printed correction and has nothing to do with expressing an institution's philosophy." }
+      ]
+    },
+    {
+      "sentence": "He could not sustain an argument for three pages, but he could turn an epigram that people repeated for a decade.",
+      "answerChoices": [
+        { "distractor": "phrase", "closeness": 3, "reasoning": "Phrase is neutral about wit or completeness, and the sentence contrasts his failure at extended argument with a compressed saying sharp enough to be quoted for years." },
+        { "distractor": "joke", "closeness": 3, "reasoning": "A joke aims only at laughter, while the contrast with sustaining an argument suggests something that carries thought in a small compass." },
+        { "distractor": "slogan", "closeness": 3, "reasoning": "A slogan is manufactured for a campaign and repeated to sell or rally, whereas what he turns is a personal saying admired for its point." },
+        { "distractor": "anecdote", "closeness": 3, "reasoning": "An anecdote is a small narrative, which takes more space than the concentrated line implied by his inability to write three pages." },
+        { "distractor": "argument", "closeness": 2, "reasoning": "Argument is the very thing the sentence says he could not sustain, so it cannot also be his gift." },
+        { "distractor": "essay", "closeness": 2, "reasoning": "An essay is the extended form he is said to fail at." },
+        { "distractor": "rumor", "closeness": 2, "reasoning": "Rumors are repeated too, but they spread as unverified news rather than as something a person composes." },
+        { "distractor": "lecture", "closeness": 2, "reasoning": "A lecture is a sustained performance, ruling it out for a writer who cannot hold an argument for three pages." },
+        { "distractor": "monograph", "closeness": 1, "reasoning": "A monograph is a book-length study, directly contradicting the sentence's account of his limits." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence cannot be turned or repeated for a decade." },
+        { "distractor": "apology", "closeness": 1, "reasoning": "An apology is an expression of regret and has no connection to a memorable turn of phrase." }
+      ]
+    },
+    {
+      "sentence": "The Latin poet ends each epigram with a sting in the final line, so that the couplet before it reads as an innocent setup.",
+      "answerChoices": [
+        { "distractor": "elegy", "closeness": 3, "reasoning": "An elegy is a lament, and lament does not lend itself to the final-line sting the sentence describes." },
+        { "distractor": "ode", "closeness": 3, "reasoning": "An ode is an extended poem of exalted praise, which leaves no room for the trick ending built on a two-line setup." },
+        { "distractor": "sonnet", "closeness": 3, "reasoning": "A sonnet has fourteen lines with a fixed rhyme scheme, but the sentence describes a piece so short that a single couplet serves as its whole setup." },
+        { "distractor": "riddle", "closeness": 3, "reasoning": "A riddle withholds an answer for the reader to supply, whereas the last line here delivers a barb the reader was not braced for." },
+        { "distractor": "stanza", "closeness": 2, "reasoning": "A stanza is a subdivision of a poem rather than a complete poem with its own ending." },
+        { "distractor": "chorus", "closeness": 2, "reasoning": "A chorus recurs, which is incompatible with a form defined by its unrepeatable final sting." },
+        { "distractor": "preface", "closeness": 2, "reasoning": "A preface introduces a work and would not carry the punch line the sentence puts at the end." },
+        { "distractor": "hymn", "closeness": 2, "reasoning": "A hymn is devotional and communal, at odds with the satirical bite described." },
+        { "distractor": "novel", "closeness": 1, "reasoning": "A novel could not be reduced to a couplet plus a final line." },
+        { "distractor": "index", "closeness": 1, "reasoning": "An index is a reference list and cannot end with a sting." },
+        { "distractor": "translation", "closeness": 1, "reasoning": "A translation is a version of a work rather than a poetic form the poet composes." }
+      ]
+    }
+  ]
+}

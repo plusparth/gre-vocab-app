@@ -1,0 +1,53 @@
+{
+  "word": "evenhanded",
+  "sentenceSets": [
+    {
+      "sentence": "An evenhanded account of the dispute acknowledges error on both sides without pretending they are equivalent.",
+      "answerChoices": [
+        { "distractor": "neutral", "closeness": 3, "reasoning": "A neutral account would decline to weigh the sides at all, but the sentence requires one that refuses to call the two errors equivalent, which means a judgment is being made." },
+        { "distractor": "balanced", "closeness": 3, "reasoning": "Balance suggests equal weight given to each party, and the sentence explicitly rules out treating the two sets of errors as if they matched." },
+        { "distractor": "dispassionate", "closeness": 3, "reasoning": "Dispassion concerns freedom from feeling, while the standard the sentence sets is about apportioning fault accurately rather than about the writer's temperature." },
+        { "distractor": "comprehensive", "closeness": 3, "reasoning": "Comprehensiveness is about covering everything, and an exhaustive account could still distribute blame unfairly." },
+        { "distractor": "diplomatic", "closeness": 2, "reasoning": "Diplomacy aims to avoid giving offense, which is at odds with an account that names error on both sides." },
+        { "distractor": "detailed", "closeness": 2, "reasoning": "Detail concerns how much is said, not whether fault is assigned fairly." },
+        { "distractor": "official", "closeness": 2, "reasoning": "An official account is one issued with authority and carries no guarantee about how it treats the parties." },
+        { "distractor": "sympathetic", "closeness": 2, "reasoning": "Sympathy leans toward one party's feelings, which the requirement of acknowledging error on both sides does not permit." },
+        { "distractor": "partisan", "closeness": 1, "reasoning": "A partisan account takes a side, contradicting the recognition of error on both." },
+        { "distractor": "slanted", "closeness": 1, "reasoning": "Slant is the distortion the sentence's standard is designed to exclude." },
+        { "distractor": "fabricated", "closeness": 1, "reasoning": "A fabricated account is invented and could make no honest acknowledgment of anything." }
+      ]
+    },
+    {
+      "sentence": "The referee was evenhanded to a fault, calling the identical foul on the home side in the final minute with the crowd screaming.",
+      "answerChoices": [
+        { "distractor": "strict", "closeness": 3, "reasoning": "Strictness would mean calling everything tightly, but the point the sentence makes is that the same foul drew the same call regardless of which team committed it." },
+        { "distractor": "fearless", "closeness": 3, "reasoning": "Fearlessness explains why the crowd did not deter him, while what the sentence highlights is that the treatment of the two sides matched." },
+        { "distractor": "consistent", "closeness": 3, "reasoning": "Consistency could be achieved by a referee who called the same fouls all game against one team only, whereas the sentence's detail is that the home side got the identical call." },
+        { "distractor": "meticulous", "closeness": 3, "reasoning": "Meticulousness concerns care over small details, and the sentence turns on which team the whistle went against, not on precision." },
+        { "distractor": "unpopular", "closeness": 2, "reasoning": "Unpopularity is the consequence of the call rather than the quality that produced it." },
+        { "distractor": "experienced", "closeness": 2, "reasoning": "Experience might explain his composure but says nothing about treating both teams alike." },
+        { "distractor": "audible", "closeness": 2, "reasoning": "Being heard over the crowd concerns volume rather than the fairness of the decision." },
+        { "distractor": "punctual", "closeness": 2, "reasoning": "Punctuality has no bearing on how he distributed calls between the sides." },
+        { "distractor": "corrupt", "closeness": 1, "reasoning": "Corruption would have prevented the call against the home side in the final minute." },
+        { "distractor": "erratic", "closeness": 1, "reasoning": "Erratic officiating is the opposite of a referee who applies the same standard to both teams." },
+        { "distractor": "timid", "closeness": 1, "reasoning": "Timidity would have swallowed the whistle with the crowd screaming." }
+      ]
+    },
+    {
+      "sentence": "Their father was evenhanded about chores, so the older boys got no fewer dishes than the youngest and no more of the car.",
+      "answerChoices": [
+        { "distractor": "generous", "closeness": 3, "reasoning": "Generosity would give the children more than their share, whereas the sentence describes shares that came out equal in both directions." },
+        { "distractor": "firm", "closeness": 3, "reasoning": "Firmness concerns whether the rules were enforced, and the detail here is how burdens and privileges were divided among the sons." },
+        { "distractor": "methodical", "closeness": 3, "reasoning": "A methodical father might run an orderly rota that still favored one boy, while the sentence stresses that no son came out ahead." },
+        { "distractor": "lenient", "closeness": 3, "reasoning": "Leniency would mean fewer chores overall, which is not what the sentence records; the dishes were still assigned, just not unequally." },
+        { "distractor": "thrifty", "closeness": 2, "reasoning": "Thrift concerns money, and the division described is of household work and use of the car." },
+        { "distractor": "punctual", "closeness": 2, "reasoning": "Punctuality about chores would concern timing rather than how the load was split." },
+        { "distractor": "vocal", "closeness": 2, "reasoning": "Being vocal describes how loudly he gave instructions, not the fairness of them." },
+        { "distractor": "distracted", "closeness": 2, "reasoning": "Distraction would produce haphazard assignments rather than the exact parity the sentence describes." },
+        { "distractor": "indulgent", "closeness": 1, "reasoning": "Indulgence would excuse the boys from dishes altogether, which the sentence says did not happen." },
+        { "distractor": "capricious", "closeness": 1, "reasoning": "Caprice is the opposite of a division in which no son received more or less than another." },
+        { "distractor": "absent", "closeness": 1, "reasoning": "An absent father could not have set the chore arrangements the sentence attributes to him." }
+      ]
+    }
+  ]
+}

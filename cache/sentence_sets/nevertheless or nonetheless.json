@@ -1,0 +1,53 @@
+{
+  "word": "nevertheless or nonetheless",
+  "sentenceSets": [
+    {
+      "sentence": "The evidence was thin and two reviewers said so in writing; the committee nevertheless or nonetheless approved the grant in full.",
+      "answerChoices": [
+        { "distractor": "therefore", "closeness": 3, "reasoning": "The clause before the semicolon reports thin evidence and written objections, which would lead away from full approval rather than toward it, so a word that presents the decision as flowing from those facts contradicts them." },
+        { "distractor": "accordingly", "closeness": 3, "reasoning": "This would make the approval the natural response to the reviewers' written objections, yet those objections pointed against funding and the committee funded the grant in full anyway." },
+        { "distractor": "predictably", "closeness": 3, "reasoning": "The sentence sets the reviewers' recorded doubts against a decision to approve everything asked for, presenting the outcome as running counter to what came before rather than as the expected result." },
+        { "distractor": "duly", "closeness": 3, "reasoning": "This presents the approval as the proper step in an orderly process, which sits badly with a sentence built to contrast the written objections with the committee's decision." },
+        { "distractor": "unanimously", "closeness": 2, "reasoning": "The sentence records how two reviewers voted on the merits, not how the committee's own members divided, so nothing establishes that the decision was without dissent." },
+        { "distractor": "eventually", "closeness": 2, "reasoning": "This would indicate delay, but the sentence contrasts the decision with the evidence rather than saying anything about how long the committee took." },
+        { "distractor": "privately", "closeness": 2, "reasoning": "The reviewers' doubts were put in writing and the grant was approved in full, and nothing suggests the decision itself was concealed." },
+        { "distractor": "narrowly", "closeness": 2, "reasoning": "Approving the grant in full is the opposite of a grudging or reduced award, so a word suggesting a bare margin fights the phrase that follows it." },
+        { "distractor": "never", "closeness": 1, "reasoning": "The sentence states plainly that the committee did approve the grant, so a word denying that it ever happened makes the clause self-contradictory." },
+        { "distractor": "angrily", "closeness": 1, "reasoning": "Nothing in the sentence describes the committee's mood, and an emotional adverb has no bearing on the contrast between the reviewers' doubts and the award." },
+        { "distractor": "silently", "closeness": 1, "reasoning": "Approving a grant in full is a formal recorded act, and the sentence's interest is in the clash between evidence and outcome rather than in noise." }
+      ]
+    },
+    {
+      "sentence": "He had been told twice that the mountain road was closed for the season; he nevertheless or nonetheless drove up as far as the second gate.",
+      "answerChoices": [
+        { "distractor": "instead", "closeness": 3, "reasoning": "This would set his driving up the road against some other action he might have taken, but the sentence offers no alternative course, only the warnings he had received and the fact that he went anyway." },
+        { "distractor": "consequently", "closeness": 3, "reasoning": "Being told twice that a road is closed is not a reason to drive up it, so presenting the drive as the result of those warnings inverts the relation the sentence sets up." },
+        { "distractor": "dutifully", "closeness": 3, "reasoning": "Driving past two warnings is the reverse of compliance, so a word implying he did as he was told cannot describe the same act." },
+        { "distractor": "promptly", "closeness": 3, "reasoning": "This treats the drive as a quick response to being told, whereas the warnings were reasons not to go and the sentence's point is that they failed to stop him." },
+        { "distractor": "cautiously", "closeness": 2, "reasoning": "The sentence weighs the warnings against his decision to go rather than describing how carefully he drove once he set out." },
+        { "distractor": "immediately", "closeness": 2, "reasoning": "The two warnings are offered as reasons he should have stayed away, and the sentence never says how soon after them he set off." },
+        { "distractor": "alone", "closeness": 2, "reasoning": "Nothing in the sentence concerns who was with him, only that he went despite being told the road was shut." },
+        { "distractor": "twice", "closeness": 2, "reasoning": "The number two already attaches to the warnings in the sentence, and repeating it here would count his trips instead, which the second gate does not support." },
+        { "distractor": "hardly", "closeness": 1, "reasoning": "The sentence reports that he did reach the second gate, so a word that all but denies the drive contradicts it." },
+        { "distractor": "asleep", "closeness": 1, "reasoning": "Reaching a particular gate up a closed mountain road requires him to be awake and steering." },
+        { "distractor": "backwards", "closeness": 1, "reasoning": "The sentence describes him going up the road to a specific point, not the direction his car was facing." }
+      ]
+    },
+    {
+      "sentence": "The treaty settled none of the border claims that had caused the war; it nevertheless or nonetheless kept the two armies apart for eleven years.",
+      "answerChoices": [
+        { "distractor": "thereby", "closeness": 3, "reasoning": "This would credit the separation of the armies to the settling of the claims, but the first clause says no claim was settled at all." },
+        { "distractor": "ultimately", "closeness": 3, "reasoning": "This suggests a result arriving after some delay, whereas the sentence contrasts what the treaty failed to do with what it managed anyway, and eleven years of quiet is the effect rather than a late arrival." },
+        { "distractor": "ostensibly", "closeness": 3, "reasoning": "This would cast the eleven years of separation as an appearance rather than a fact, yet the sentence reports the armies staying apart as something the treaty actually achieved." },
+        { "distractor": "arguably", "closeness": 3, "reasoning": "This turns the eleven years into a matter of opinion, but the sentence states the failure and the achievement as equally plain facts standing against each other." },
+        { "distractor": "briefly", "closeness": 2, "reasoning": "Eleven years is stated in the same clause, which rules out any description of the peace as short." },
+        { "distractor": "formally", "closeness": 2, "reasoning": "The sentence measures the treaty by what happened on the ground for eleven years rather than by what it declared on paper." },
+        { "distractor": "technically", "closeness": 2, "reasoning": "This would suggest the armies were only nominally separated, which conflicts with a separation the sentence dates for over a decade." },
+        { "distractor": "largely", "closeness": 2, "reasoning": "This qualifies the achievement as partial, whereas the sentence contrasts a complete failure on the claims with an unqualified eleven years of separation." },
+        { "distractor": "rarely", "closeness": 1, "reasoning": "The sentence describes a continuous eleven-year period, which cannot be reconciled with something that happened only occasionally." },
+        { "distractor": "loudly", "closeness": 1, "reasoning": "Volume has no application to a treaty holding two armies apart for a decade." },
+        { "distractor": "cheerfully", "closeness": 1, "reasoning": "A document has no mood, and the sentence weighs what the treaty failed and managed to do rather than any attitude." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "cohort",
+  "sentenceSets": [
+    {
+      "sentence": "The graduating cohort included several students who would later become prominent figures in their fields.",
+      "answerChoices": [
+        { "distractor": "class", "closeness": 3, "reasoning": "A class is the ordinary name for students taught together, but the sentence looks back at everyone who finished in the same year and traces where they ended up." },
+        { "distractor": "faculty", "closeness": 3, "reasoning": "Faculty are the teachers, whereas the sentence describes students who graduated and went on to distinguish themselves." },
+        { "distractor": "delegation", "closeness": 3, "reasoning": "A delegation is a group sent to represent others, while these students are simply those who completed their studies at the same time." },
+        { "distractor": "alumni", "closeness": 3, "reasoning": "Alumni are graduates of an institution across all years, but the sentence points to the particular group that finished together." },
+        { "distractor": "committee", "closeness": 2, "reasoning": "A committee is appointed to do work, whereas this group is defined by graduating in the same year." },
+        { "distractor": "seminar", "closeness": 2, "reasoning": "A seminar is a course rather than the whole body of students leaving together." },
+        { "distractor": "syllabus", "closeness": 2, "reasoning": "A syllabus is a document and cannot include students who became prominent." },
+        { "distractor": "scholarship", "closeness": 2, "reasoning": "A scholarship is an award, not a group of people who graduated at one time." },
+        { "distractor": "campus", "closeness": 1, "reasoning": "A campus is a place and cannot include people who later became prominent figures." },
+        { "distractor": "diploma", "closeness": 1, "reasoning": "A certificate does not contain students." },
+        { "distractor": "lecture", "closeness": 1, "reasoning": "A single talk is not a body of graduates." }
+      ]
+    },
+    {
+      "sentence": "Researchers followed a cohort of two thousand infants born in the same month for thirty years.",
+      "answerChoices": [
+        { "distractor": "sample", "closeness": 3, "reasoning": "A sample is drawn to represent a wider population, but this group is defined by all having been born in one particular month and is then tracked as a unit." },
+        { "distractor": "population", "closeness": 3, "reasoning": "A population is the whole body a study seeks to describe, whereas the two thousand here are a specific set followed together across three decades." },
+        { "distractor": "generation", "closeness": 3, "reasoning": "A generation spans a couple of decades of births, while the sentence narrows the group to a single month." },
+        { "distractor": "control", "closeness": 3, "reasoning": "A control group exists to be compared against a treated one, but no intervention or comparison group appears in the sentence." },
+        { "distractor": "census", "closeness": 2, "reasoning": "A census counts everyone at one moment rather than following the same individuals for thirty years." },
+        { "distractor": "survey", "closeness": 2, "reasoning": "A survey is an instrument for collecting answers, not a set of people born in one month." },
+        { "distractor": "registry", "closeness": 2, "reasoning": "A registry is a list of records, whereas the sentence describes the infants themselves being followed." },
+        { "distractor": "trial", "closeness": 2, "reasoning": "A trial tests an intervention, and none is mentioned in this long-term observation." },
+        { "distractor": "hypothesis", "closeness": 1, "reasoning": "A proposition cannot consist of two thousand infants." },
+        { "distractor": "instrument", "closeness": 1, "reasoning": "A tool is not a group of people who can be followed for decades." },
+        { "distractor": "clinic", "closeness": 1, "reasoning": "A building is not what researchers followed for thirty years." }
+      ]
+    },
+    {
+      "sentence": "He arrived with his usual cohort of advisers, none of whom had been invited.",
+      "answerChoices": [
+        { "distractor": "entourage", "closeness": 3, "reasoning": "An entourage exists to attend on an important person, while the sentence emphasizes the fixed group of associates who turn up with him wherever he goes." },
+        { "distractor": "retinue", "closeness": 3, "reasoning": "A retinue implies formal attendants in service, but these are advisers who accompany him as a matter of habit." },
+        { "distractor": "coterie", "closeness": 3, "reasoning": "A coterie is an exclusive circle bound by shared taste or outlook, whereas the sentence describes the working group he brings to meetings." },
+        { "distractor": "escort", "closeness": 3, "reasoning": "An escort accompanies someone for protection or ceremony, while these are advisers whose presence at the meeting was unwanted." },
+        { "distractor": "audience", "closeness": 2, "reasoning": "An audience watches a performance, whereas these people came in with him." },
+        { "distractor": "clientele", "closeness": 2, "reasoning": "Clients are those who buy a service, but advisers work for him rather than purchase from him." },
+        { "distractor": "committee", "closeness": 2, "reasoning": "A committee is formally constituted with a mandate, while this group is simply the one that always trails him." },
+        { "distractor": "congregation", "closeness": 2, "reasoning": "A congregation gathers for worship, which does not fit uninvited advisers at a meeting." },
+        { "distractor": "solitude", "closeness": 1, "reasoning": "He arrived with several people, so he was not alone." },
+        { "distractor": "itinerary", "closeness": 1, "reasoning": "A schedule cannot consist of advisers who were not invited." },
+        { "distractor": "invoice", "closeness": 1, "reasoning": "A bill is not a group of people arriving at a meeting." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "circumlocution",
+  "sentenceSets": [
+    {
+      "sentence": "Every direct question was met with circumlocution, the witness managing to say very little in a great many words.",
+      "answerChoices": [
+        { "distractor": "evasion", "closeness": 3, "reasoning": "Evasion would mean sidestepping the question, but the sentence stresses the sheer volume of words produced, which is a manner of speaking rather than a refusal to speak." },
+        { "distractor": "verbosity", "closeness": 3, "reasoning": "Verbosity names only the excess of words, while the sentence pairs that excess with the questions being direct, so the words go around what was asked rather than merely piling up." },
+        { "distractor": "digression", "closeness": 3, "reasoning": "Digression means wandering onto another subject, yet the sentence describes the witness responding to each question, saying little about it at great length." },
+        { "distractor": "obfuscation", "closeness": 3, "reasoning": "Obfuscation implies deliberately clouding a meaning, but the sentence reports only that little was conveyed, without claiming the witness hid anything." },
+        { "distractor": "hesitation", "closeness": 2, "reasoning": "Hesitation implies pauses and reluctance to begin, while the witness in the sentence produces a great many words without difficulty." },
+        { "distractor": "jargon", "closeness": 2, "reasoning": "Jargon would be technical vocabulary, but the sentence measures the answers by their length rather than by any specialized terminology." },
+        { "distractor": "understatement", "closeness": 2, "reasoning": "Understatement uses fewer words than the matter deserves, the reverse of the great many words the sentence describes." },
+        { "distractor": "rebuttal", "closeness": 2, "reasoning": "A rebuttal argues against something, but the sentence describes answers that convey very little, not counterarguments." },
+        { "distractor": "candor", "closeness": 1, "reasoning": "Candor would mean answering the direct questions plainly, which the sentence says did not happen." },
+        { "distractor": "brevity", "closeness": 1, "reasoning": "The sentence explicitly describes a great many words." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "The witness talks at length rather than saying nothing." }
+      ]
+    },
+    {
+      "sentence": "His letters are full of circumlocutions, so that a simple request for money occupies three courteous paragraphs.",
+      "answerChoices": [
+        { "distractor": "euphemisms", "closeness": 3, "reasoning": "A euphemism swaps in a gentler word, but the sentence measures the problem in paragraphs, describing expansion rather than substitution." },
+        { "distractor": "digressions", "closeness": 3, "reasoning": "Digressions would take the letters onto other topics, whereas the sentence says the three paragraphs are all occupied by the one simple request." },
+        { "distractor": "pleasantries", "closeness": 3, "reasoning": "Pleasantries sit beside the business of a letter as greetings, but here the three paragraphs are the request itself, stretched out." },
+        { "distractor": "qualifications", "closeness": 3, "reasoning": "Qualifications would narrow or condition the request, yet nothing in the sentence suggests the request changes; it simply takes far longer to make." },
+        { "distractor": "apologies", "closeness": 2, "reasoning": "The sentence calls the paragraphs courteous, not remorseful, and gives no hint of any wrong being excused." },
+        { "distractor": "flourishes", "closeness": 2, "reasoning": "Flourishes are decorative touches, but the sentence describes the entire request swelling to three paragraphs rather than being ornamented at the edges." },
+        { "distractor": "anecdotes", "closeness": 2, "reasoning": "Anecdotes would be stories inserted alongside the request, while the sentence says the request itself fills the space." },
+        { "distractor": "footnotes", "closeness": 2, "reasoning": "Footnotes are appended beneath a text, not the body of a letter that expands a request into paragraphs." },
+        { "distractor": "abbreviations", "closeness": 1, "reasoning": "Abbreviating shortens, which cannot produce three paragraphs from a simple request." },
+        { "distractor": "threats", "closeness": 1, "reasoning": "The sentence describes the paragraphs as courteous." },
+        { "distractor": "demands", "closeness": 1, "reasoning": "A demand would be blunt and short, contradicting both the courtesy and the length described." }
+      ]
+    },
+    {
+      "sentence": "Rather than admit the deadline had slipped, the manager retreated into circumlocution about 'evolving delivery horizons.'",
+      "answerChoices": [
+        { "distractor": "equivocation", "closeness": 3, "reasoning": "Equivocation means using words that can be read two ways, but the phrase quoted is not ambiguous so much as inflated, taking many syllables to avoid a plain fact." },
+        { "distractor": "doublespeak", "closeness": 3, "reasoning": "Doublespeak implies language meant to reverse a meaning, whereas the quoted phrase merely wraps the plain fact of a slipped deadline in longer wording." },
+        { "distractor": "hedging", "closeness": 3, "reasoning": "Hedging would add cautious qualifiers to limit a claim, but the manager makes no claim at all; the phrase simply talks around the delay at length." },
+        { "distractor": "abstraction", "closeness": 3, "reasoning": "Abstraction rises to general categories, while the quoted phrase is specifically about this schedule, expressed in more words than the facts require." },
+        { "distractor": "optimism", "closeness": 2, "reasoning": "Optimism would predict a good outcome, but the manager's phrase forecasts nothing and merely restates the slippage in grander terms." },
+        { "distractor": "denial", "closeness": 2, "reasoning": "Denial would flatly reject that the deadline slipped, whereas the phrase quoted concedes movement in the schedule while dressing it up." },
+        { "distractor": "metaphor", "closeness": 2, "reasoning": "A metaphor would substitute one image for the situation, but 'evolving delivery horizons' is corporate padding rather than a figure that illuminates anything." },
+        { "distractor": "bravado", "closeness": 2, "reasoning": "Bravado is loud confidence, while the manager is described as retreating, which signals avoidance rather than swagger." },
+        { "distractor": "confession", "closeness": 1, "reasoning": "The sentence says the manager declined to admit the slip." },
+        { "distractor": "bluntness", "closeness": 1, "reasoning": "The quoted phrase is padded and indirect, the opposite of blunt speech." },
+        { "distractor": "panic", "closeness": 1, "reasoning": "The manager produces polished corporate phrasing, which shows composure rather than alarm." }
+      ]
+    }
+  ]
+}

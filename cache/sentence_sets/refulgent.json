@@ -1,0 +1,53 @@
+{
+  "word": "refulgent",
+  "sentenceSets": [
+    {
+      "sentence": "The refulgent quality of the early enthusiasm made the subsequent dimming feel sharper than it would otherwise have seemed.",
+      "answerChoices": [
+        { "distractor": "luminous", "closeness": 3, "reasoning": "Close, but the sentence sets up a contrast with a later 'dimming', which calls for a word naming enthusiasm at its most blazing rather than merely giving off soft light." },
+        { "distractor": "incandescent", "closeness": 3, "reasoning": "This carries a suggestion of heat and even fury, whereas the sentence tracks brightness alone as the thing that later faded." },
+        { "distractor": "dazzling", "closeness": 3, "reasoning": "Dazzling describes the effect on an observer whose eyes are overwhelmed, but the sentence attributes the quality to the enthusiasm itself as something that later dimmed." },
+        { "distractor": "glowing", "closeness": 3, "reasoning": "A glow is low and steady, too faint a starting point to make the later dimming feel sharp by comparison." },
+        { "distractor": "fervent", "closeness": 2, "reasoning": "Fervor names intensity of feeling, but the sentence uses a light metaphor throughout, pairing this quality with a 'dimming' rather than a cooling." },
+        { "distractor": "buoyant", "closeness": 2, "reasoning": "Buoyancy describes lightness of spirit, which does not set up the brightness-to-darkness contrast the second half of the sentence depends on." },
+        { "distractor": "conspicuous", "closeness": 2, "reasoning": "Mere visibility would not make its loss feel sharp; the sentence implies something notably brilliant was lost." },
+        { "distractor": "heady", "closeness": 2, "reasoning": "Heady suggests intoxicating excitement, but the sentence's contrast is with dimming, not with sobering up." },
+        { "distractor": "murky", "closeness": 1, "reasoning": "Something already clouded could not later be described as dimming." },
+        { "distractor": "tepid", "closeness": 1, "reasoning": "Lukewarm enthusiasm would make its decline unremarkable rather than sharp." },
+        { "distractor": "sullen", "closeness": 1, "reasoning": "Sullenness contradicts the enthusiasm the sentence says was present at the start." }
+      ]
+    },
+    {
+      "sentence": "At dusk the cathedral's west window turned refulgent, throwing panels of colored light across the worn stone floor.",
+      "answerChoices": [
+        { "distractor": "gleaming", "closeness": 3, "reasoning": "A gleam is reflected off a surface, but the window here is casting light onto the floor rather than catching a glint." },
+        { "distractor": "blazing", "closeness": 3, "reasoning": "Blazing implies fire or fierce heat, which does not fit glass at dusk gently laying panels of color on the stone." },
+        { "distractor": "iridescent", "closeness": 3, "reasoning": "Iridescence involves colors shifting as the viewer moves, while the sentence describes steady panels of light thrown in one direction." },
+        { "distractor": "luminescent", "closeness": 3, "reasoning": "Luminescence means emitting light without heat from an internal source, but the window is lit from behind by the setting sun." },
+        { "distractor": "golden", "closeness": 2, "reasoning": "The light is explicitly described as colored, which rules out a single-hue description." },
+        { "distractor": "vivid", "closeness": 2, "reasoning": "Vividness applies to the colors themselves and misses the brightness that lets the window project onto the floor." },
+        { "distractor": "transparent", "closeness": 2, "reasoning": "Transparency is a permanent property of glass and could not be something the window 'turned' at dusk." },
+        { "distractor": "prismatic", "closeness": 2, "reasoning": "This would describe splitting light into a spectrum, whereas the colors here come from the stained panels themselves." },
+        { "distractor": "opaque", "closeness": 1, "reasoning": "A window that blocked light could not throw colored panels across the floor." },
+        { "distractor": "drab", "closeness": 1, "reasoning": "Dullness contradicts the colored light filling the interior." },
+        { "distractor": "cracked", "closeness": 1, "reasoning": "Physical damage has nothing to do with the transformation the sentence attributes to the fading daylight." }
+      ]
+    },
+    {
+      "sentence": "Her refulgent stage presence made the rest of the cast seem to recede into the scenery whenever she entered.",
+      "answerChoices": [
+        { "distractor": "radiant", "closeness": 3, "reasoning": "Radiance often suggests warmth or health beaming outward, while the sentence measures her presence by how thoroughly it outshines everyone else onstage." },
+        { "distractor": "scintillating", "closeness": 3, "reasoning": "This word points to sparkling wit and quickness, but the sentence says nothing about what she says, only about the effect of her entrance." },
+        { "distractor": "brilliant", "closeness": 3, "reasoning": "In describing a performer, 'brilliant' would be read as praise for skill, whereas the sentence describes an overwhelming visual presence that dims the other actors." },
+        { "distractor": "coruscating", "closeness": 3, "reasoning": "Coruscation implies flashing and glittering in bursts, at odds with a presence that steadily blots out the rest of the cast for as long as she is onstage." },
+        { "distractor": "charismatic", "closeness": 2, "reasoning": "Charisma is about drawing people toward you, but the sentence describes a light-and-shadow effect in which others visually fade away." },
+        { "distractor": "commanding", "closeness": 2, "reasoning": "A commanding presence directs attention through authority, while the sentence has the other performers dissolving into the scenery rather than deferring to her." },
+        { "distractor": "imposing", "closeness": 2, "reasoning": "Imposing suggests intimidating scale or bearing, and nothing in the sentence indicates the cast is cowed rather than eclipsed." },
+        { "distractor": "arresting", "closeness": 2, "reasoning": "Arresting means it stops you short, yet the sentence emphasizes sustained brightness across her whole time onstage." },
+        { "distractor": "unassuming", "closeness": 1, "reasoning": "Someone modest and easily overlooked would not make an entire cast recede." },
+        { "distractor": "wooden", "closeness": 1, "reasoning": "A stiff, lifeless performer is the opposite of one who dominates every scene she enters." },
+        { "distractor": "muted", "closeness": 1, "reasoning": "A subdued presence cannot be what pushes the other actors into the background." }
+      ]
+    }
+  ]
+}

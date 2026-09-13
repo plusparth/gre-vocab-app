@@ -1,0 +1,53 @@
+{
+  "word": "protean",
+  "sentenceSets": [
+    {
+      "sentence": "Her protean adaptability allowed her to serve effectively in roles whose requirements had nothing obvious in common.",
+      "answerChoices": [
+        { "distractor": "versatile", "closeness": 3, "reasoning": "Versatility names a broad competence applied to many tasks, but the roles here 'had nothing obvious in common,' pointing to a capacity to become something different in each rather than to bring one skill set everywhere." },
+        { "distractor": "resilient", "closeness": 3, "reasoning": "Resilience is recovery from setbacks, and the sentence reports no adversity at all, only unlike sets of requirements successfully met." },
+        { "distractor": "pliant", "closeness": 3, "reasoning": "Pliancy is yielding to pressure from someone, yet nobody in the sentence is pressing her; the differences lie between the roles themselves." },
+        { "distractor": "mercurial", "closeness": 3, "reasoning": "Mercurial describes unpredictable swings of temper, which would undercut rather than explain her serving effectively." },
+        { "distractor": "diligent", "closeness": 2, "reasoning": "Diligence is sustained effort, which would not account for why roles sharing no requirements were all within her reach." },
+        { "distractor": "prodigious", "closeness": 2, "reasoning": "Prodigious speaks to the size of a talent, while the sentence's emphasis falls on the range of dissimilar roles." },
+        { "distractor": "dogged", "closeness": 2, "reasoning": "Doggedness is persistence at one thing, the opposite of the movement between unrelated positions the sentence describes." },
+        { "distractor": "durable", "closeness": 2, "reasoning": "Durability is lasting over time, but the contrast the sentence draws is between the roles' unlike demands, not the length of her service." },
+        { "distractor": "rigid", "closeness": 1, "reasoning": "Rigidity would prevent her from meeting requirements that had nothing in common." },
+        { "distractor": "monolithic", "closeness": 1, "reasoning": "A single unvarying form cannot be what let her succeed across unrelated roles." },
+        { "distractor": "inept", "closeness": 1, "reasoning": "Ineptitude is contradicted by her serving effectively." }
+      ]
+    },
+    {
+      "sentence": "The novelist's protean prose shifts from clipped reportage to baroque interior monologue within a single chapter.",
+      "answerChoices": [
+        { "distractor": "variegated", "closeness": 3, "reasoning": "Variegated describes a surface bearing different colors at once, while the sentence traces a change from one manner into another across the chapter." },
+        { "distractor": "eclectic", "closeness": 3, "reasoning": "An eclectic style gathers borrowings and holds them together, but this prose abandons one register outright for a wholly different one." },
+        { "distractor": "restless", "closeness": 3, "reasoning": "Restlessness implies dissatisfaction driving constant movement, whereas the sentence names two settled manners the prose takes on in turn." },
+        { "distractor": "kaleidoscopic", "closeness": 3, "reasoning": "Kaleidoscopic suggests a swarm of fragments in constant motion, but only two clearly identified registers are at work here." },
+        { "distractor": "ornate", "closeness": 2, "reasoning": "Only the interior monologue is called baroque; the clipped reportage is its opposite, so elaborateness cannot describe the prose as a whole." },
+        { "distractor": "digressive", "closeness": 2, "reasoning": "Digression wanders from the subject, but what changes here is the manner of the writing rather than its topic." },
+        { "distractor": "unruly", "closeness": 2, "reasoning": "Unruliness implies the writing escapes the author's control, while moving between two clearly executed registers reads as deliberate." },
+        { "distractor": "verbose", "closeness": 2, "reasoning": "Clipped reportage is the opposite of wordiness, so the term cannot cover prose that includes it." },
+        { "distractor": "uniform", "closeness": 1, "reasoning": "Uniformity is flatly denied by prose that changes manner inside one chapter." },
+        { "distractor": "stolid", "closeness": 1, "reasoning": "Stolid means unmoved and expressionless, which cannot describe writing that rises into baroque monologue." },
+        { "distractor": "laconic", "closeness": 1, "reasoning": "Laconic brevity fits only the reportage half and is contradicted by the baroque half." }
+      ]
+    },
+    {
+      "sentence": "Nationalism has proved protean, attaching itself to liberal revolutions in one century and to their suppression in the next.",
+      "answerChoices": [
+        { "distractor": "opportunistic", "closeness": 3, "reasoning": "Opportunism implies an agent calculating its advantage, but the sentence presents nationalism as taking different shapes across centuries rather than as pursuing an aim." },
+        { "distractor": "malleable", "closeness": 3, "reasoning": "Malleable things are worked into shape by an outside force, yet the sentence supplies no shaper and says nationalism attaches itself." },
+        { "distractor": "resurgent", "closeness": 3, "reasoning": "Resurgence is a return after a lapse, while the sentence shows continuous presence in altered form across successive centuries." },
+        { "distractor": "contradictory", "closeness": 3, "reasoning": "A contradiction would hold both positions at once, but the sentence separates them by century, describing successive forms rather than simultaneous incoherence." },
+        { "distractor": "insidious", "closeness": 2, "reasoning": "Insidious means working harm by stealth, and the attachments named here are public revolutions and their equally public suppression." },
+        { "distractor": "ubiquitous", "closeness": 2, "reasoning": "Ubiquity is presence everywhere at once, whereas the claim being made concerns change over time." },
+        { "distractor": "atavistic", "closeness": 2, "reasoning": "Atavism is reversion to an ancestral type, but nationalism is shown aligning itself with whatever new movement each century produced." },
+        { "distractor": "doctrinaire", "closeness": 2, "reasoning": "A doctrinaire creed clings to fixed tenets, which cannot be squared with serving liberal revolution and its suppression alike." },
+        { "distractor": "immutable", "closeness": 1, "reasoning": "Immutability is refuted by attaching to opposite causes in consecutive centuries." },
+        { "distractor": "obsolete", "closeness": 1, "reasoning": "Something obsolete would not still be fastening itself to new political movements." },
+        { "distractor": "moribund", "closeness": 1, "reasoning": "A dying force could not be described as active across two centuries of opposed causes." }
+      ]
+    }
+  ]
+}

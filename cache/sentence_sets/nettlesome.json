@@ -1,0 +1,53 @@
+{
+  "word": "nettlesome",
+  "sentenceSets": [
+    {
+      "sentence": "The nettlesome detail that no one could resolve had been placed in a footnote, where it remained unaddressed.",
+      "answerChoices": [
+        { "distractor": "intractable", "closeness": 3, "reasoning": "Intractable stresses only that a thing cannot be solved, but the sentence also shows the detail being pushed into a footnote and left there, which is how people treat something that keeps bothering them." },
+        { "distractor": "trivial", "closeness": 3, "reasoning": "A trivial point would give no one any trouble, yet this one could not be resolved and had to be tucked out of sight." },
+        { "distractor": "obscure", "closeness": 3, "reasoning": "Obscurity means being little known or hard to understand, whereas this detail was well enough understood for everyone to see it could not be settled." },
+        { "distractor": "contentious", "closeness": 3, "reasoning": "A contentious point provokes argument between parties who take opposing sides, but the sentence describes a difficulty that no one could resolve and that was quietly shelved rather than fought over." },
+        { "distractor": "erroneous", "closeness": 2, "reasoning": "An erroneous detail would simply be corrected, not relegated to a footnote as an unsolved problem." },
+        { "distractor": "redundant", "closeness": 2, "reasoning": "A redundant detail repeats what is already stated and would be cut rather than preserved in a footnote." },
+        { "distractor": "peripheral", "closeness": 2, "reasoning": "Peripheral describes where a matter sits in relation to the main argument, and the footnote already establishes its placement without explaining why no one could resolve it." },
+        { "distractor": "technical", "closeness": 2, "reasoning": "A technical detail requires specialist knowledge but can be resolved by a specialist, while this one defeated everyone." },
+        { "distractor": "innocuous", "closeness": 1, "reasoning": "Innocuous means harmless and untroubling, contradicting a detail that bothered everyone and got buried." },
+        { "distractor": "settled", "closeness": 1, "reasoning": "A settled matter is one already resolved, which the sentence explicitly denies." },
+        { "distractor": "fragrant", "closeness": 1, "reasoning": "Fragrance describes smell and cannot characterize an unresolved point in a document." }
+      ]
+    },
+    {
+      "sentence": "For a fortnight a nettlesome cough kept waking him at three in the morning, though the doctor could find nothing wrong.",
+      "answerChoices": [
+        { "distractor": "chronic", "closeness": 3, "reasoning": "Chronic means long-lasting, and a fortnight is short, while the sentence's emphasis falls on the nightly waking rather than on duration." },
+        { "distractor": "debilitating", "closeness": 3, "reasoning": "A debilitating complaint would leave him unable to function, but the doctor could find nothing wrong and the trouble is confined to broken sleep." },
+        { "distractor": "acute", "closeness": 3, "reasoning": "Acute describes a condition that comes on sharply and severely, whereas this one is mild enough to escape diagnosis and simply persists in disturbing him." },
+        { "distractor": "contagious", "closeness": 3, "reasoning": "Contagiousness concerns whether others might catch it, a question the sentence never raises, since the trouble described is entirely his own broken nights." },
+        { "distractor": "productive", "closeness": 2, "reasoning": "A productive cough is one that brings up phlegm, a clinical distinction that would have given the doctor something to find." },
+        { "distractor": "audible", "closeness": 2, "reasoning": "Every cough is audible, so the word would say nothing about why this one mattered for a fortnight." },
+        { "distractor": "hereditary", "closeness": 2, "reasoning": "Hereditary conditions are inherited, and nothing in the sentence concerns his family or his history." },
+        { "distractor": "seasonal", "closeness": 2, "reasoning": "Seasonal ailments recur with the time of year, but the sentence follows a single fortnight and its three o'clock wakings." },
+        { "distractor": "soothing", "closeness": 1, "reasoning": "A soothing cough is a contradiction, and nothing that woke him nightly could be described as calming." },
+        { "distractor": "imaginary", "closeness": 1, "reasoning": "An imaginary cough would not wake him at a particular hour for fourteen nights running." },
+        { "distractor": "melodious", "closeness": 1, "reasoning": "Melodious describes pleasing music and cannot apply to something that ruined his sleep." }
+      ]
+    },
+    {
+      "sentence": "Her habit of repeating the last three words of every sentence he spoke was nettlesome in a way he found impossible to complain about without sounding petty.",
+      "answerChoices": [
+        { "distractor": "grating", "closeness": 3, "reasoning": "Grating describes a harshness that assaults the senses, but a quiet verbal habit works by small persistent needling rather than by abrasive noise." },
+        { "distractor": "offensive", "closeness": 3, "reasoning": "Something offensive gives real affront and would justify a complaint, whereas the sentence turns on his inability to object without seeming small-minded." },
+        { "distractor": "insufferable", "closeness": 3, "reasoning": "Insufferable means past all bearing, which cannot be true of a habit he continues to endure precisely because objecting would look petty." },
+        { "distractor": "endearing", "closeness": 3, "reasoning": "An endearing habit inspires affection, the opposite of one he privately wishes he could raise as a grievance." },
+        { "distractor": "deliberate", "closeness": 2, "reasoning": "Deliberate concerns whether she meant to do it, a question of intent that the sentence leaves open while describing the effect on him." },
+        { "distractor": "eccentric", "closeness": 2, "reasoning": "Eccentricity is mere oddity, which would puzzle rather than irritate him into wanting to complain." },
+        { "distractor": "unconscious", "closeness": 2, "reasoning": "Unconscious describes her awareness of the habit, not the effect that makes him want to raise it and stops him." },
+        { "distractor": "audible", "closeness": 2, "reasoning": "Audibility is a bare fact about speech and says nothing about why the repetition troubled him." },
+        { "distractor": "soothing", "closeness": 1, "reasoning": "A soothing habit would calm him, contradicting the urge to complain that he keeps suppressing." },
+        { "distractor": "silent", "closeness": 1, "reasoning": "The habit consists of repeating his words aloud, so it cannot be silent." },
+        { "distractor": "profitable", "closeness": 1, "reasoning": "Profitability concerns financial gain and has no bearing on a conversational mannerism." }
+      ]
+    }
+  ]
+}

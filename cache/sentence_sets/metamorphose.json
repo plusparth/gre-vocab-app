@@ -1,0 +1,53 @@
+{
+  "word": "metamorphose",
+  "sentenceSets": [
+    {
+      "sentence": "The organization metamorphosed over a decade from a local operation into one with global reach and ambitions.",
+      "answerChoices": [
+        { "distractor": "expanded", "closeness": 3, "reasoning": "Expansion is growth in size while the thing stays the same in kind, but the sentence marks a shift in what the organization is, from a local operation to something with global ambitions." },
+        { "distractor": "evolved", "closeness": 3, "reasoning": "Evolution suggests gradual adaptation in response to conditions, whereas the sentence emphasizes the finished contrast between the two states rather than a process of adjustment." },
+        { "distractor": "matured", "closeness": 3, "reasoning": "Maturing means becoming a fully developed version of what one already was, which understates a change of scope from a single locality to the whole world." },
+        { "distractor": "diversified", "closeness": 3, "reasoning": "Diversifying means adding new lines of activity alongside the old, but the sentence describes one thing becoming another rather than a single organization broadening its portfolio." },
+        { "distractor": "relocated", "closeness": 2, "reasoning": "Relocating changes an address, and the sentence describes a change in the organization's reach and ambitions rather than where it sits." },
+        { "distractor": "fluctuated", "closeness": 2, "reasoning": "Fluctuation is repeated variation around a mean, which contradicts a single decade-long passage from one condition to a very different one." },
+        { "distractor": "consolidated", "closeness": 2, "reasoning": "Consolidating draws operations tighter together, the opposite direction from a local body acquiring global reach." },
+        { "distractor": "persisted", "closeness": 2, "reasoning": "Persisting means continuing unchanged, which cannot describe a decade that ended with something quite different from what began it." },
+        { "distractor": "dissolved", "closeness": 1, "reasoning": "Dissolving ends the organization, but this one is still operating and now does so worldwide." },
+        { "distractor": "stagnated", "closeness": 1, "reasoning": "Stagnation is the absence of change, contradicting the decade of transformation the sentence records." },
+        { "distractor": "apologized", "closeness": 1, "reasoning": "Apologizing is something people do and cannot describe an organization's passage from local to global." }
+      ]
+    },
+    {
+      "sentence": "Within three weeks the caterpillar will metamorphose inside its case, emerging with wings and no memory of the leaf it ate.",
+      "answerChoices": [
+        { "distractor": "mature", "closeness": 3, "reasoning": "Maturing implies gradual growth toward an adult form of the same body, but the creature described leaves its case with wings it never had and none of its former life." },
+        { "distractor": "germinate", "closeness": 3, "reasoning": "Germination is a seed beginning to sprout, a plant process that cannot apply to a caterpillar sealed in a case." },
+        { "distractor": "hibernate", "closeness": 3, "reasoning": "Hibernating is passing a season dormant and waking essentially unchanged, whereas this animal comes out with a body it did not have going in." },
+        { "distractor": "molt", "closeness": 3, "reasoning": "Molting sheds an outer layer and leaves the same creature underneath, which does not account for the wings that appear where there were none." },
+        { "distractor": "migrate", "closeness": 2, "reasoning": "Migration is a journey, but this animal is enclosed in a case for three weeks and stays put." },
+        { "distractor": "reproduce", "closeness": 2, "reasoning": "Reproducing produces offspring, whereas the sentence follows the same individual out of the case in a new form." },
+        { "distractor": "camouflage", "closeness": 2, "reasoning": "Camouflage conceals an animal against its background, and the point of the case here is what happens to the body inside it, not concealment." },
+        { "distractor": "forage", "closeness": 2, "reasoning": "Foraging is searching for food, which the sealed creature cannot do and which the mention of the eaten leaf places in its past." },
+        { "distractor": "petrify", "closeness": 1, "reasoning": "To petrify is to turn to stone, which would not produce a winged animal that flies away." },
+        { "distractor": "corrode", "closeness": 1, "reasoning": "Corrosion is the chemical eating away of metal and has no application to a living caterpillar." },
+        { "distractor": "graduate", "closeness": 1, "reasoning": "Graduating is completing a course of study and cannot happen inside a case in three weeks." }
+      ]
+    },
+    {
+      "sentence": "In the final act the mild clerk is metamorphosed by a curse into a creature the townspeople hunt through the marsh.",
+      "answerChoices": [
+        { "distractor": "disguised", "closeness": 3, "reasoning": "A disguise conceals someone under an appearance while leaving the person intact beneath it, but the townspeople are hunting a creature rather than a man in costume." },
+        { "distractor": "possessed", "closeness": 3, "reasoning": "Possession puts another will inside an unchanged body, whereas the curse here produces a creature with a body the hunters can chase through the marsh." },
+        { "distractor": "afflicted", "closeness": 3, "reasoning": "Affliction inflicts suffering or disease on someone who remains himself, which does not explain how a clerk becomes a creature." },
+        { "distractor": "banished", "closeness": 3, "reasoning": "Banishment sends a person away but leaves him a person, while the hunt in the marsh is for something the curse turned him into." },
+        { "distractor": "bewitched", "closeness": 2, "reasoning": "Bewitching places someone under an enchantment's influence, but the curse's stated result is a different kind of being, not merely a mind under a spell." },
+        { "distractor": "accused", "closeness": 2, "reasoning": "An accusation is a charge made against someone, which would set the townspeople against a man rather than against a creature in the marsh." },
+        { "distractor": "vindicated", "closeness": 2, "reasoning": "Vindication clears someone of blame, which would not lead to his being hunted." },
+        { "distractor": "employed", "closeness": 2, "reasoning": "Employment gives a person work, an ordinary transaction that no curse would accomplish and no hunt would follow." },
+        { "distractor": "consoled", "closeness": 1, "reasoning": "Consoling offers comfort, which is not what a curse does or what precedes a hunt through the marsh." },
+        { "distractor": "promoted", "closeness": 1, "reasoning": "Promotion raises someone in rank, the reverse of a fate that leaves him pursued as a creature." },
+        { "distractor": "photographed", "closeness": 1, "reasoning": "Photographing records an image and could not be the work of a curse in the final act of a play." }
+      ]
+    }
+  ]
+}

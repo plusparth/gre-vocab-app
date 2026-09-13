@@ -1,0 +1,53 @@
+{
+  "word": "circumscribed",
+  "sentenceSets": [
+    {
+      "sentence": "Her authority was carefully circumscribed to prevent any single official from having unchecked power.",
+      "answerChoices": [
+        { "distractor": "bounded", "closeness": 3, "reasoning": "'Bounded' says only that some edge exists, but the word 'carefully' and the stated purpose indicate limits drawn deliberately at every side to keep her from acting alone." },
+        { "distractor": "delimited", "closeness": 3, "reasoning": "Delimiting marks where authority stops, whereas the sentence's aim of preventing unchecked power requires that the marked-off area itself be kept small." },
+        { "distractor": "constrained", "closeness": 3, "reasoning": "Constraint suggests continuing pressure against someone straining outward, but the sentence describes limits fixed in advance as a design feature of the office." },
+        { "distractor": "hedged", "closeness": 3, "reasoning": "Hedging implies qualifications and escape clauses, while the sentence describes a clean structural limit intended to keep one official from ruling alone." },
+        { "distractor": "monitored", "closeness": 2, "reasoning": "Monitoring watches what someone does after the fact, whereas the sentence describes a design that stops the concentration of power in the first place." },
+        { "distractor": "divided", "closeness": 2, "reasoning": "Division would distribute her authority among others, but the sentence describes her own authority being shaped, not parceled out." },
+        { "distractor": "documented", "closeness": 2, "reasoning": "Writing authority down does not by itself prevent unchecked power, which is the stated purpose in the sentence." },
+        { "distractor": "reviewed", "closeness": 2, "reasoning": "Review is an act performed periodically, while the sentence points to the shape her authority permanently has." },
+        { "distractor": "expanded", "closeness": 1, "reasoning": "Expanding her authority would produce exactly the unchecked power the sentence says was being prevented." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Authority that was ignored could not be described as carefully arranged to serve a purpose." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "Celebration has nothing to do with the safeguard the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "The experiment took place in a tightly circumscribed area of the reef, chosen so that changes could be attributed to the treatment rather than to currents.",
+      "answerChoices": [
+        { "distractor": "demarcated", "closeness": 3, "reasoning": "Demarcation draws a line on a map, but the sentence's reasoning requires that the working area be kept small enough for stray currents not to reach into it." },
+        { "distractor": "enclosed", "closeness": 3, "reasoning": "Enclosure implies a physical barrier around the site, whereas the sentence says only that the area was chosen, with no wall or cage mentioned." },
+        { "distractor": "restricted", "closeness": 3, "reasoning": "'Restricted' usually means access is limited by permission, while the concern in the sentence is the extent of the study site itself." },
+        { "distractor": "isolated", "closeness": 3, "reasoning": "Isolation would mean the site is cut off from its surroundings, but currents plainly still reach the reef, which is why the area had to be chosen so carefully." },
+        { "distractor": "fenced", "closeness": 2, "reasoning": "No barrier is described; the researchers selected a site rather than built anything around it." },
+        { "distractor": "protected", "closeness": 2, "reasoning": "Protection implies shielding the reef from harm, whereas the sentence's purpose is to keep the results interpretable." },
+        { "distractor": "controlled", "closeness": 2, "reasoning": "'Controlled' would describe the experiment's design as a whole, but the word here modifies the area, a matter of how much reef the study covers." },
+        { "distractor": "defined", "closeness": 2, "reasoning": "Merely defining a region says nothing about its size, and the word 'tightly' shows the point is how little ground it covers." },
+        { "distractor": "unlimited", "closeness": 1, "reasoning": "An area without limits could not be described as tightly anything, nor would it allow changes to be attributed to a treatment." },
+        { "distractor": "arbitrary", "closeness": 1, "reasoning": "The sentence says the area was chosen for a specific methodological reason." },
+        { "distractor": "ornamental", "closeness": 1, "reasoning": "A study site on a reef serves a research purpose, not a decorative one." }
+      ]
+    },
+    {
+      "sentence": "Within the strictly circumscribed vocabulary of the sonnet, she still found room for surprise.",
+      "answerChoices": [
+        { "distractor": "prescribed", "closeness": 3, "reasoning": "A prescribed vocabulary would be one handed to her word by word, but the sentence describes her finding room inside it, which implies an outer fence rather than a required list." },
+        { "distractor": "regulated", "closeness": 3, "reasoning": "Regulation suggests an authority policing usage, while the sentence attributes the limits to the form of the sonnet itself." },
+        { "distractor": "codified", "closeness": 3, "reasoning": "Codification means rules written down in a body of law, whereas the sentence points to the narrow range the form leaves her, not to any rulebook." },
+        { "distractor": "curtailed", "closeness": 3, "reasoning": "Curtailment implies something was cut back from a fuller state, but the sonnet's narrowness is a permanent feature of the form she is writing in." },
+        { "distractor": "formal", "closeness": 2, "reasoning": "Formality describes register rather than range, and the sentence's contrast is between how little room she has and the surprise she manages anyway." },
+        { "distractor": "traditional", "closeness": 2, "reasoning": "Tradition explains where the sonnet came from, but the obstacle she overcomes in the sentence is how narrow the available vocabulary is." },
+        { "distractor": "inherited", "closeness": 2, "reasoning": "Inheritance concerns the origin of the vocabulary, while 'strictly' points to how tightly it hems her in." },
+        { "distractor": "conventional", "closeness": 2, "reasoning": "Conventionality would mean the words are unremarkable, yet the sentence's tension comes from having few of them to work with, not from their being ordinary." },
+        { "distractor": "boundless", "closeness": 1, "reasoning": "If the vocabulary had no limits, finding room for surprise would take no effort and 'strictly' would make no sense." },
+        { "distractor": "improvised", "closeness": 1, "reasoning": "Improvisation implies invention on the spot, which contradicts the fixed constraints the sonnet imposes." },
+        { "distractor": "chaotic", "closeness": 1, "reasoning": "Chaos contradicts 'strictly,' which signals order and tight limits." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "proxy",
+  "sentenceSets": [
+    {
+      "sentence": "The delegate arrived as a proxy for the party that had declined to attend directly.",
+      "answerChoices": [
+        { "distractor": "surrogate", "closeness": 3, "reasoning": "A surrogate fills a role for someone who cannot perform it, but the sentence says the party chose to stay away and sent this person to occupy its place with its authority." },
+        { "distractor": "messenger", "closeness": 3, "reasoning": "A messenger carries words from a sender, whereas this delegate takes the absent party's place at the gathering itself." },
+        { "distractor": "placeholder", "closeness": 3, "reasoning": "A placeholder merely keeps a spot from being filled, while the delegate arrived to act where the party would have acted." },
+        { "distractor": "figurehead", "closeness": 3, "reasoning": "A figurehead holds a title without exercising it, but the sentence has this delegate actually attending on the party's behalf." },
+        { "distractor": "spokesman", "closeness": 2, "reasoning": "A spokesman makes statements for a group, and what the sentence describes is taking the party's seat rather than issuing its words." },
+        { "distractor": "witness", "closeness": 2, "reasoning": "A witness attends in order to see and attest, but this delegate came 'for the party' that stayed home." },
+        { "distractor": "mediator", "closeness": 2, "reasoning": "A mediator works between opposed sides, while this delegate belongs to one party and appears in its stead." },
+        { "distractor": "guest", "closeness": 2, "reasoning": "A guest attends on their own account, which cannot describe someone sent because the party itself declined." },
+        { "distractor": "rival", "closeness": 1, "reasoning": "A rival would oppose the party rather than appear on its behalf." },
+        { "distractor": "principal", "closeness": 1, "reasoning": "The principal is the party that declined to come; the delegate is the person sent instead." },
+        { "distractor": "bystander", "closeness": 1, "reasoning": "A bystander has no tie to the party, but this delegate came expressly for it." }
+      ]
+    },
+    {
+      "sentence": "Unable to travel to the annual meeting, thousands of shareholders returned a signed proxy, and the chairman cast their votes himself.",
+      "answerChoices": [
+        { "distractor": "ballot", "closeness": 3, "reasoning": "A ballot is the vote itself, yet the sentence has the chairman casting the votes; what the shareholders mailed back was the paper that let him do so." },
+        { "distractor": "waiver", "closeness": 3, "reasoning": "A waiver surrenders a right, but these shareholders kept their votes, which were cast for them at the meeting." },
+        { "distractor": "affidavit", "closeness": 3, "reasoning": "An affidavit swears to facts, and nothing here is being attested; the shareholders are arranging for someone else to act in their place." },
+        { "distractor": "mandate", "closeness": 3, "reasoning": "A mandate is the instruction a body issues collectively, whereas each of these thousands returned an individual signed paper." },
+        { "distractor": "petition", "closeness": 2, "reasoning": "A petition asks an authority for something, while these papers empowered the chairman to act rather than requested anything of him." },
+        { "distractor": "receipt", "closeness": 2, "reasoning": "A receipt acknowledges something already received, but this document arrives before the meeting and makes the voting possible." },
+        { "distractor": "resolution", "closeness": 2, "reasoning": "A resolution is the measure being voted on, not the instrument by which an absent holder's vote gets cast." },
+        { "distractor": "protest", "closeness": 2, "reasoning": "A protest registers objection, yet nothing in the sentence involves dissent; it explains how absent shareholders' votes reached the floor." },
+        { "distractor": "invoice", "closeness": 1, "reasoning": "An invoice demands payment and has no bearing on casting votes." },
+        { "distractor": "abstention", "closeness": 1, "reasoning": "An abstention withholds a vote, contradicting the chairman's casting these votes for them." },
+        { "distractor": "transcript", "closeness": 1, "reasoning": "A transcript records the meeting afterward, but these papers were returned beforehand." }
+      ]
+    },
+    {
+      "sentence": "Lacking direct income data, the researchers used household electricity consumption as a proxy for wealth.",
+      "answerChoices": [
+        { "distractor": "gauge", "closeness": 3, "reasoning": "A gauge measures the quantity itself, but the sentence states plainly that the quantity they wanted was unavailable to them." },
+        { "distractor": "correlate", "closeness": 3, "reasoning": "A correlate merely varies alongside wealth, whereas these researchers pressed electricity use into service in place of the missing measure." },
+        { "distractor": "benchmark", "closeness": 3, "reasoning": "A benchmark is a standard other things are compared against, while this quantity is filling a gap in the data." },
+        { "distractor": "yardstick", "closeness": 3, "reasoning": "A yardstick is applied directly to what is being sized up, and the sentence says the thing of interest could not be observed at all." },
+        { "distractor": "control", "closeness": 2, "reasoning": "A control is held constant to isolate an effect, but electricity use here is doing the measuring rather than being fixed." },
+        { "distractor": "covariate", "closeness": 2, "reasoning": "A covariate is an extra variable adjusted for alongside the main one, whereas this variable stands where the main one should have been." },
+        { "distractor": "sample", "closeness": 2, "reasoning": "A sample is a subset of households studied, not a quantity substituted for a missing one." },
+        { "distractor": "hypothesis", "closeness": 2, "reasoning": "A hypothesis is a claim awaiting a test, but electricity consumption is the measurement the researchers actually had in hand." },
+        { "distractor": "hindrance", "closeness": 1, "reasoning": "Calling it a hindrance contradicts its being what let the study proceed without income data." },
+        { "distractor": "distortion", "closeness": 1, "reasoning": "A distortion would spoil the findings, yet the sentence presents this choice as the researchers' deliberate solution." },
+        { "distractor": "conclusion", "closeness": 1, "reasoning": "A conclusion comes out of the analysis, while this quantity is an input the researchers started from." }
+      ]
+    }
+  ]
+}

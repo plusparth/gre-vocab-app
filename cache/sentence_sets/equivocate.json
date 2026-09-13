@@ -1,0 +1,53 @@
+{
+  "word": "equivocate",
+  "sentenceSets": [
+    {
+      "sentence": "She refused to equivocate; her answer was direct and her position clear, whatever the political cost.",
+      "answerChoices": [
+        { "distractor": "hedge", "closeness": 3, "reasoning": "Hedging qualifies a claim to limit exposure, but the contrast the sentence draws is with an answer that is direct and a position that is clear, which points to language that could be read more than one way rather than to added caveats." },
+        { "distractor": "dissemble", "closeness": 3, "reasoning": "Dissembling conceals one's real feelings behind a false front, whereas the alternative the sentence sets up is a clear position rather than a sincere one." },
+        { "distractor": "demur", "closeness": 3, "reasoning": "To demur is to object or hesitate, but the sentence contrasts her conduct with something that would have blurred her answer, not with a refusal to answer." },
+        { "distractor": "temporize", "closeness": 3, "reasoning": "Temporizing buys time by putting off a decision, while the sentence says she gave an answer and made her position clear, so the alternative concerns how she spoke rather than when." },
+        { "distractor": "apologize", "closeness": 2, "reasoning": "Apologizing expresses regret, which the sentence never suggests she owed or withheld." },
+        { "distractor": "elaborate", "closeness": 2, "reasoning": "Elaborating adds detail and is fully compatible with the directness the sentence praises." },
+        { "distractor": "retreat", "closeness": 2, "reasoning": "Retreating means abandoning the position, but the sentence says she held it despite the political cost." },
+        { "distractor": "speculate", "closeness": 2, "reasoning": "Speculation guesses about unknowns, whereas the sentence is about the clarity of a stance she already holds." },
+        { "distractor": "clarify", "closeness": 1, "reasoning": "Clarifying is what she did, not what she refused to do." },
+        { "distractor": "declare", "closeness": 1, "reasoning": "Declaring matches the direct answer described, so it cannot be the thing she refused." },
+        { "distractor": "shout", "closeness": 1, "reasoning": "Volume is not at issue in a sentence about the clarity of her position." }
+      ]
+    },
+    {
+      "sentence": "Asked twice whether the plant would close, the executive equivocated, saying only that no site was being singled out.",
+      "answerChoices": [
+        { "distractor": "deflected", "closeness": 3, "reasoning": "Deflection turns the question aside without engaging it, but the executive did answer, in words that leave the closure both denied and unaddressed." },
+        { "distractor": "demurred", "closeness": 3, "reasoning": "Demurring signals reluctance to answer at all, while this executive produced a statement that sounds like a denial without being one." },
+        { "distractor": "elaborated", "closeness": 3, "reasoning": "Elaborating would supply more detail, and the reply about no site being singled out gives the questioner nothing further about this plant." },
+        { "distractor": "lied", "closeness": 3, "reasoning": "A lie asserts something false, whereas the remark about singling out sites can be perfectly true and still leave the plant's fate open." },
+        { "distractor": "resigned", "closeness": 2, "reasoning": "Resigning is leaving the post, not a way of responding to a question about a plant." },
+        { "distractor": "confirmed", "closeness": 2, "reasoning": "Confirming the closure would settle the question, which the reply pointedly fails to do." },
+        { "distractor": "apologized", "closeness": 2, "reasoning": "An apology addresses a wrong done rather than the question of whether the plant will close." },
+        { "distractor": "shouted", "closeness": 2, "reasoning": "Manner of delivery is beside the point; what marks the answer is its double-edged wording." },
+        { "distractor": "denied", "closeness": 1, "reasoning": "A denial would state that the plant is not closing, which the quoted words carefully avoid saying." },
+        { "distractor": "specified", "closeness": 1, "reasoning": "Specifying is the opposite of an answer that names no site and settles nothing." },
+        { "distractor": "boasted", "closeness": 1, "reasoning": "Boasting has no place in an evasive reply about a possible plant closure." }
+      ]
+    },
+    {
+      "sentence": "The treaty's drafters equivocated on the word territory, and forty years of arbitration have turned on which meaning each side had in mind.",
+      "answerChoices": [
+        { "distractor": "compromised", "closeness": 3, "reasoning": "Compromising would mean each side surrendered something concrete, but the dispute described arises from a single word that can be read two ways rather than from a split difference." },
+        { "distractor": "blundered", "closeness": 3, "reasoning": "A blunder is an accident, and the sentence's picture of drafters leaving a key word open to two readings that each side could rely on suggests deliberate craft." },
+        { "distractor": "haggled", "closeness": 3, "reasoning": "Haggling is bargaining over terms, whereas the problem the arbitration inherits is the ambiguity of the term that was finally written down." },
+        { "distractor": "capitulated", "closeness": 3, "reasoning": "Capitulation would mean one side simply gave in, which cannot explain arbitrations in which both sides claim the word supports them." },
+        { "distractor": "insisted", "closeness": 2, "reasoning": "Insisting on the word would settle its meaning, not leave forty years of argument about it." },
+        { "distractor": "voted", "closeness": 2, "reasoning": "Voting is a procedural act and does not describe how the word came to bear two meanings." },
+        { "distractor": "footnoted", "closeness": 2, "reasoning": "A footnote would have supplied a gloss, which is precisely what the disputed word lacks." },
+        { "distractor": "translated", "closeness": 2, "reasoning": "Translation would raise a question between languages, while the sentence locates the trouble in what each side took the term to cover." },
+        { "distractor": "defined", "closeness": 1, "reasoning": "Defining the word would have prevented the decades of arbitration the sentence reports." },
+        { "distractor": "omitted", "closeness": 1, "reasoning": "The word appears in the treaty, since both sides are arguing over its meaning." },
+        { "distractor": "italicized", "closeness": 1, "reasoning": "Typography has no bearing on which meaning of the term each side had in mind." }
+      ]
+    }
+  ]
+}

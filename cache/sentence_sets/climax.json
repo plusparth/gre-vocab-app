@@ -1,0 +1,53 @@
+{
+  "word": "climax",
+  "sentenceSets": [
+    {
+      "sentence": "The trial reached its climax when the star witness contradicted her own earlier testimony.",
+      "answerChoices": [
+        { "distractor": "conclusion", "closeness": 3, "reasoning": "A conclusion is where proceedings stop, but a witness reversing herself in the middle of a trial is the moment of greatest tension, after which the trial still has to run its course." },
+        { "distractor": "turning point", "closeness": 3, "reasoning": "A turning point marks where matters change direction, while the sentence presents this contradiction as the peak the whole trial had been building toward." },
+        { "distractor": "verdict", "closeness": 3, "reasoning": "A verdict is the jury's decision, whereas what the sentence describes happens while a witness is still on the stand." },
+        { "distractor": "crisis", "closeness": 3, "reasoning": "A crisis is a moment of danger demanding a decision, but the sentence points to the trial's most dramatic and highest-pitched moment for those watching." },
+        { "distractor": "recess", "closeness": 2, "reasoning": "A recess is a pause in proceedings, not something reached through mounting drama." },
+        { "distractor": "sentencing", "closeness": 2, "reasoning": "Sentencing happens after guilt is settled, while this moment occurs during testimony." },
+        { "distractor": "impasse", "closeness": 2, "reasoning": "An impasse is a deadlock where nothing can proceed, yet the contradiction described is a revelation that moves things forward." },
+        { "distractor": "adjournment", "closeness": 2, "reasoning": "Adjournment ends the day's session and has nothing to do with the intensity of what a witness said." },
+        { "distractor": "outset", "closeness": 1, "reasoning": "The sentence describes something the trial built toward, not where it began." },
+        { "distractor": "lull", "closeness": 1, "reasoning": "A lull is a quiet stretch, the opposite of the trial's most charged moment." },
+        { "distractor": "footnote", "closeness": 1, "reasoning": "A minor aside cannot be what a trial reaches through a witness reversing her own account." }
+      ]
+    },
+    {
+      "sentence": "Her speech built through three examples to a climax that had half the hall on its feet.",
+      "answerChoices": [
+        { "distractor": "crescendo", "closeness": 3, "reasoning": "A crescendo is the rise in volume itself, but the sentence has already described the building through three examples and needs a word for the peak the audience responded to." },
+        { "distractor": "finale", "closeness": 3, "reasoning": "A finale is simply the last portion of a performance, while what lifts the hall to its feet is the high point the speech was designed to arrive at." },
+        { "distractor": "flourish", "closeness": 3, "reasoning": "A flourish is a decorative gesture, whereas the sentence describes a peak reached through a deliberate escalation of three examples." },
+        { "distractor": "punchline", "closeness": 3, "reasoning": "A punchline turns on a joke's surprise, but the audience here rises in enthusiasm at the summit of a building argument." },
+        { "distractor": "preamble", "closeness": 2, "reasoning": "A preamble comes before the substance, while the sentence describes what the three examples led up to." },
+        { "distractor": "digression", "closeness": 2, "reasoning": "A digression wanders off the point, yet the examples are said to build toward this moment." },
+        { "distractor": "refrain", "closeness": 2, "reasoning": "A refrain is a line that keeps returning, and the sentence describes an ascent through three distinct examples rather than a repetition." },
+        { "distractor": "aside", "closeness": 2, "reasoning": "An aside is a small remark set apart from the argument, which would not bring half a hall to its feet." },
+        { "distractor": "whisper", "closeness": 1, "reasoning": "Something built to through three escalating examples and greeted with an ovation is not delivered under the breath." },
+        { "distractor": "apology", "closeness": 1, "reasoning": "An audience does not rise to its feet at an admission of fault at the end of a rising argument." },
+        { "distractor": "intermission", "closeness": 1, "reasoning": "A break in the program is not what a speech builds toward through its examples." }
+      ]
+    },
+    {
+      "sentence": "After a decade of feuding, the dispute over the boundary hedge reached a climax at the parish meeting.",
+      "answerChoices": [
+        { "distractor": "resolution", "closeness": 3, "reasoning": "A resolution would mean the quarrel was settled, but the sentence records only that a decade of building hostility came to a head in public." },
+        { "distractor": "truce", "closeness": 3, "reasoning": "A truce is an agreement to stop fighting, whereas the meeting is where ten years of accumulated grievance finally burst out." },
+        { "distractor": "hearing", "closeness": 3, "reasoning": "A hearing is a scheduled proceeding, while the sentence describes the point at which a long feud boiled over at a meeting called for other business." },
+        { "distractor": "compromise", "closeness": 3, "reasoning": "Compromise implies mutual concession, but nothing in a decade of feuding coming to a head suggests either side gave ground." },
+        { "distractor": "settlement", "closeness": 2, "reasoning": "A settlement would end the matter, while the sentence marks the peak of the quarrel rather than its disposal." },
+        { "distractor": "postponement", "closeness": 2, "reasoning": "Postponing would defer the confrontation, yet the sentence says the dispute arrived at something at that meeting." },
+        { "distractor": "reconciliation", "closeness": 2, "reasoning": "Reconciliation would restore relations between the neighbors, which ten years of feuding erupting in public does not suggest." },
+        { "distractor": "inquiry", "closeness": 2, "reasoning": "An inquiry gathers facts, whereas the boundary and the grievances have been known to both parties for a decade." },
+        { "distractor": "beginning", "closeness": 1, "reasoning": "The feud is already ten years old when the meeting takes place." },
+        { "distractor": "oversight", "closeness": 1, "reasoning": "An oversight is something missed, not the point a long quarrel arrives at." },
+        { "distractor": "discount", "closeness": 1, "reasoning": "Nothing is being priced or sold in a dispute over a hedge." }
+      ]
+    }
+  ]
+}

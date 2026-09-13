@@ -1,0 +1,53 @@
+{
+  "word": "remuneration",
+  "sentenceSets": [
+    {
+      "sentence": "The remuneration for the role did not reflect the actual demands of the position, a discrepancy that had accumulated through a series of decisions no one had intended.",
+      "answerChoices": [
+        { "distractor": "compensation", "closeness": 3, "reasoning": "Very close in this context, but this word often points to making someone whole for a loss or injury, while the sentence weighs what the job pays against what the job requires." },
+        { "distractor": "salary", "closeness": 3, "reasoning": "A salary is one fixed component, whereas the mismatch described accumulated across many decisions and would take in every form of payment attached to the role." },
+        { "distractor": "pay", "closeness": 3, "reasoning": "Too colloquial and narrow for a sentence about an institutional discrepancy built up over years of formal decisions." },
+        { "distractor": "stipend", "closeness": 3, "reasoning": "A stipend is a fixed allowance, usually modest and for trainees or fellows, which sits awkwardly with a position described as having real and growing demands." },
+        { "distractor": "reward", "closeness": 2, "reasoning": "A reward is discretionary recognition for something achieved, not the standing terms attached to holding the position." },
+        { "distractor": "budget", "closeness": 2, "reasoning": "A budget is money the role controls, not money the role receives, so it could not be compared to the demands on its holder." },
+        { "distractor": "allowance", "closeness": 2, "reasoning": "An allowance covers expenses, which would not be expected to track the difficulty of the work." },
+        { "distractor": "honorarium", "closeness": 2, "reasoning": "An honorarium is a token payment for an occasional service, at odds with an ongoing position whose demands grew over time." },
+        { "distractor": "prestige", "closeness": 1, "reasoning": "The sentence measures the mismatch in something that accumulates through administrative decisions, not in reputation." },
+        { "distractor": "workload", "closeness": 1, "reasoning": "The demands of the position are the other side of the comparison, so the blank must be what is being weighed against them." },
+        { "distractor": "penalty", "closeness": 1, "reasoning": "Nothing suggests the role carries a punishment; the discrepancy is about what the job offers its holder." }
+      ]
+    },
+    {
+      "sentence": "She agreed to write the report without remuneration, expecting the contacts it brought her to be worth more than any fee.",
+      "answerChoices": [
+        { "distractor": "payment", "closeness": 3, "reasoning": "Plausible, but the sentence contrasts what she gave up with contacts gained in return, framing the missing item as what one earns for professional work rather than a transfer of money." },
+        { "distractor": "recompense", "closeness": 3, "reasoning": "Recompense answers a loss or an injury, whereas she is doing commissioned work and forgoing what the work would ordinarily earn her." },
+        { "distractor": "reimbursement", "closeness": 3, "reasoning": "Reimbursement returns money already spent, and the sentence mentions no expenses she incurred writing the report." },
+        { "distractor": "wages", "closeness": 3, "reasoning": "Wages are paid hourly to an employee, while she has agreed to a single piece of work on her own terms." },
+        { "distractor": "profit", "closeness": 2, "reasoning": "Profit is what remains after costs in a venture, not the sum she waived by writing a report for free." },
+        { "distractor": "royalties", "closeness": 2, "reasoning": "Royalties depend on continuing sales or use, but the sentence weighs the contacts against a straightforward fee." },
+        { "distractor": "funding", "closeness": 2, "reasoning": "Funding underwrites a project's costs rather than rewarding the person who did the writing." },
+        { "distractor": "credit", "closeness": 2, "reasoning": "Credit is public acknowledgment, and the sentence already gives her a nonmonetary gain in the contacts she expected." },
+        { "distractor": "hesitation", "closeness": 1, "reasoning": "The sentence says she agreed, and the missing item is set against a fee in the same clause." },
+        { "distractor": "complaint", "closeness": 1, "reasoning": "Working without grumbling is not what the comparison to a fee is measuring." },
+        { "distractor": "supervision", "closeness": 1, "reasoning": "Oversight has nothing to do with a trade of income for professional connections." }
+      ]
+    },
+    {
+      "sentence": "Shareholders demanded a full accounting of executive remuneration after the share price fell by half.",
+      "answerChoices": [
+        { "distractor": "emoluments", "closeness": 3, "reasoning": "Very close, though this word carries an archaic, chiefly legal flavor tied to holders of public office rather than to company executives answering to shareholders." },
+        { "distractor": "bonuses", "closeness": 3, "reasoning": "Bonuses are only the variable portion, but shareholders angry about a halved share price would want everything the executives received, not one line item." },
+        { "distractor": "perquisites", "closeness": 3, "reasoning": "Perquisites are the fringe benefits attached to a post, a narrow slice of what a full accounting after such a collapse would cover." },
+        { "distractor": "payouts", "closeness": 3, "reasoning": "A payout is a one-time disbursement, while the demand described covers what the executives are paid for holding their jobs." },
+        { "distractor": "turnover", "closeness": 2, "reasoning": "Turnover refers either to revenue or to staff departures, neither of which is what shareholders would demand an accounting of when the share price halves." },
+        { "distractor": "expenses", "closeness": 2, "reasoning": "Expense claims are money spent on the company's behalf, not what the executives themselves take home." },
+        { "distractor": "severance", "closeness": 2, "reasoning": "Severance applies to executives who have left, and the sentence describes scrutiny of those still in post." },
+        { "distractor": "incentives", "closeness": 2, "reasoning": "Incentives describe the design of a pay scheme rather than the total sums the executives received." },
+        { "distractor": "attendance", "closeness": 1, "reasoning": "Turning up to meetings is not the grievance a halved share price would provoke among shareholders." },
+        { "distractor": "seniority", "closeness": 1, "reasoning": "Length of service cannot be the subject of a financial accounting." },
+        { "distractor": "courtesy", "closeness": 1, "reasoning": "Manners have nothing to do with a demand for financial disclosure." }
+      ]
+    }
+  ]
+}

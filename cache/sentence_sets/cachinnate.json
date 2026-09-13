@@ -1,0 +1,53 @@
+{
+  "word": "cachinnate",
+  "sentenceSets": [
+    {
+      "sentence": "The audience cachinnated at the comedian's unexpected twist, their laughter filling the hall.",
+      "answerChoices": [
+        { "distractor": "guffawed", "closeness": 3, "reasoning": "Very close, though a guffaw is a single burst, while the sentence describes sound that goes on long enough to fill the whole hall." },
+        { "distractor": "roared", "closeness": 3, "reasoning": "Roaring names the volume alone, and on its own it could describe a crowd's anger as easily as its amusement." },
+        { "distractor": "howled", "closeness": 3, "reasoning": "Howling suggests a drawn-out wail that could equally signal pain or protest, whereas the second clause specifies laughter." },
+        { "distractor": "cackled", "closeness": 3, "reasoning": "A cackle is shrill and often malicious, which does not fit a crowd delighted by a clever twist." },
+        { "distractor": "chuckled", "closeness": 2, "reasoning": "A chuckle is quiet and private, far too small to fill a hall." },
+        { "distractor": "giggled", "closeness": 2, "reasoning": "Giggling is light and high-pitched, at odds with sound described as filling the room." },
+        { "distractor": "tittered", "closeness": 2, "reasoning": "A titter is nervous and suppressed, the opposite of laughter that carries through a hall." },
+        { "distractor": "snickered", "closeness": 2, "reasoning": "Snickering is stifled and sly, which would not produce the volume the sentence reports." },
+        { "distractor": "groaned", "closeness": 1, "reasoning": "A groan would signal a joke that failed, contradicting the laughter in the second clause." },
+        { "distractor": "wept", "closeness": 1, "reasoning": "Crying does not match a comedian landing an unexpected twist to a full house." },
+        { "distractor": "dozed", "closeness": 1, "reasoning": "A sleeping audience cannot fill a hall with laughter." }
+      ]
+    },
+    {
+      "sentence": "He cachinnated at his own joke long after everyone else in the room had stopped smiling.",
+      "answerChoices": [
+        { "distractor": "brayed", "closeness": 3, "reasoning": "Braying likens the sound to a donkey and comments on its ugliness, while the sentence's point is that he kept it up past everyone else's patience." },
+        { "distractor": "hooted", "closeness": 3, "reasoning": "Hooting suggests jeering or whooping at someone else, but here the joke and the amusement are both his own." },
+        { "distractor": "chortled", "closeness": 3, "reasoning": "A chortle is a small, self-satisfied noise, too quiet to be conspicuous in a room that has gone silent." },
+        { "distractor": "whooped", "closeness": 3, "reasoning": "A whoop is a single shout of triumph, while the sentence describes sustained laughter continuing well past the others'." },
+        { "distractor": "grinned", "closeness": 2, "reasoning": "The contrast is with people who had stopped smiling, so the blank must be something louder than a facial expression." },
+        { "distractor": "beamed", "closeness": 2, "reasoning": "Beaming is silent, which cannot explain why his behavior stands out after the room quiets." },
+        { "distractor": "snorted", "closeness": 2, "reasoning": "A snort is brief and involuntary, not something one keeps up long after the others have stopped." },
+        { "distractor": "laughed", "closeness": 2, "reasoning": "Ordinary laughter at one's own joke would hardly be worth remarking on; the sentence sets him apart from a room that has gone quiet." },
+        { "distractor": "sulked", "closeness": 1, "reasoning": "Sulking at one's own joke makes no sense alongside the room's smiles." },
+        { "distractor": "apologized", "closeness": 1, "reasoning": "An apology would not persist after everyone stopped smiling; the sentence shows him enjoying himself." },
+        { "distractor": "blushed", "closeness": 1, "reasoning": "Embarrassment is the opposite of the unselfconscious behavior the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "Something in the eulogy struck the twins as unbearably funny, and they cachinnated until an usher walked over.",
+      "answerChoices": [
+        { "distractor": "bellowed", "closeness": 3, "reasoning": "Bellowing describes shouting words at volume, but the sentence attributes their noise to finding the eulogy funny." },
+        { "distractor": "shrieked", "closeness": 3, "reasoning": "A shriek is a sharp cry that could signal terror, while the first clause identifies amusement as the cause." },
+        { "distractor": "convulsed", "closeness": 3, "reasoning": "Convulsing describes their bodies shaking, which an usher across the room might not even hear, whereas something audible clearly drew him over." },
+        { "distractor": "wheezed", "closeness": 3, "reasoning": "Wheezing is a strained, breathy sound made when laughter has worn someone out, too faint to summon an usher at a funeral." },
+        { "distractor": "smirked", "closeness": 2, "reasoning": "A smirk is silent, and an usher would have no reason to cross the room over a facial expression." },
+        { "distractor": "gasped", "closeness": 2, "reasoning": "Gasping suggests shock rather than the amusement the first clause names." },
+        { "distractor": "sniggered", "closeness": 2, "reasoning": "Sniggering is deliberately muffled, which is precisely what would have kept the usher away." },
+        { "distractor": "murmured", "closeness": 2, "reasoning": "Murmuring is low and indistinct, too quiet to require intervention." },
+        { "distractor": "sobbed", "closeness": 1, "reasoning": "Weeping at a eulogy would be unremarkable and contradicts finding it funny." },
+        { "distractor": "prayed", "closeness": 1, "reasoning": "Prayer at a funeral would not bring an usher over, and the twins are described as amused." },
+        { "distractor": "fainted", "closeness": 1, "reasoning": "Collapsing is not something one does 'until' an usher arrives, and it has nothing to do with the eulogy being funny." }
+      ]
+    }
+  ]
+}

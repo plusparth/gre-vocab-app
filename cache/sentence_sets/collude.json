@@ -1,0 +1,53 @@
+{
+  "word": "collude",
+  "sentenceSets": [
+    {
+      "sentence": "The companies were found to have colluded on pricing, keeping rates artificially high for a decade.",
+      "answerChoices": [
+        { "distractor": "cooperated", "closeness": 3, "reasoning": "Cooperation between firms is often lawful and open, but rates held artificially high for ten years and uncovered by an investigation point to an arrangement kept out of sight." },
+        { "distractor": "coordinated", "closeness": 3, "reasoning": "Coordination can describe openly aligned schedules or standards, whereas what was found here is a secret understanding that cheated customers." },
+        { "distractor": "competed", "closeness": 3, "reasoning": "Competition would have driven rates down, which is the opposite of what the sentence records." },
+        { "distractor": "consulted", "closeness": 3, "reasoning": "Consulting one another could be innocent exchange of views, but the sentence describes a decade of prices propped up by agreement." },
+        { "distractor": "merged", "closeness": 2, "reasoning": "A merger would make them one company, yet the sentence keeps them separate firms acting in concert." },
+        { "distractor": "negotiated", "closeness": 2, "reasoning": "Negotiation implies opposing interests bargaining, while these firms had a common interest in keeping rates up." },
+        { "distractor": "speculated", "closeness": 2, "reasoning": "Speculation is betting on price movements, not fixing them among rivals." },
+        { "distractor": "advertised", "closeness": 2, "reasoning": "Advertising is public promotion and would not hold rates high for a decade." },
+        { "distractor": "testified", "closeness": 1, "reasoning": "Giving evidence is something done in an inquiry, not the conduct the inquiry uncovered." },
+        { "distractor": "innovated", "closeness": 1, "reasoning": "Developing new products does not explain artificially inflated prices." },
+        { "distractor": "apologized", "closeness": 1, "reasoning": "An apology is not something companies do on pricing for ten years." }
+      ]
+    },
+    {
+      "sentence": "The valet must have colluded with the thieves, since only he knew which car held the paintings.",
+      "answerChoices": [
+        { "distractor": "conspired", "closeness": 3, "reasoning": "Conspiring implies joining in planning the crime itself, while the sentence's inference is narrower: he supplied the one thing only he knew." },
+        { "distractor": "sympathized", "closeness": 3, "reasoning": "Sympathy is a private feeling, but the reasoning in the sentence requires that his knowledge actually reached the thieves." },
+        { "distractor": "argued", "closeness": 3, "reasoning": "Arguing would set him against them, whereas the sentence infers that he worked with them." },
+        { "distractor": "gambled", "closeness": 3, "reasoning": "Gambling would explain a motive for needing money, but the sentence's inference concerns his role in the theft rather than his debts." },
+        { "distractor": "interfered", "closeness": 2, "reasoning": "Interference implies obstructing the thieves, which contradicts the theft succeeding on his information." },
+        { "distractor": "competed", "closeness": 2, "reasoning": "Competition makes no sense between a valet and the thieves who used his knowledge." },
+        { "distractor": "corresponded", "closeness": 2, "reasoning": "Exchanging letters describes a channel of contact but not the joint enterprise the sentence infers." },
+        { "distractor": "vanished", "closeness": 2, "reasoning": "Disappearing would be a later consequence, and the sentence reasons from what only he knew." },
+        { "distractor": "confessed", "closeness": 1, "reasoning": "A confession would remove the need for the inference the sentence makes." },
+        { "distractor": "resigned", "closeness": 1, "reasoning": "Quitting the job does not explain how the thieves learned which car to open." },
+        { "distractor": "photographed", "closeness": 1, "reasoning": "Taking pictures with the thieves is not what his exclusive knowledge implies." }
+      ]
+    },
+    {
+      "sentence": "Editors and advertisers colluded to keep the story off the front page until after the election.",
+      "answerChoices": [
+        { "distractor": "agreed", "closeness": 3, "reasoning": "An agreement can be reached openly and defended in public, but a story buried until the polls closed points to an understanding neither side would admit to." },
+        { "distractor": "bargained", "closeness": 3, "reasoning": "Bargaining involves each side conceding something, while the sentence shows both working quietly toward the same end." },
+        { "distractor": "lobbied", "closeness": 3, "reasoning": "Lobbying is pressure applied by one party to another, whereas the editors and advertisers act together here." },
+        { "distractor": "quarreled", "closeness": 3, "reasoning": "A quarrel would put them at odds, yet the story stayed off the front page, which required them to be aligned." },
+        { "distractor": "reported", "closeness": 2, "reasoning": "Reporting is what publishing the story would have meant, the opposite of holding it back." },
+        { "distractor": "campaigned", "closeness": 2, "reasoning": "Campaigning is public advocacy, while the sentence describes something done quietly before an election." },
+        { "distractor": "subscribed", "closeness": 2, "reasoning": "Paying for a publication has nothing to do with suppressing a story in it." },
+        { "distractor": "litigated", "closeness": 2, "reasoning": "No court proceeding is described; the story was simply kept off the page." },
+        { "distractor": "published", "closeness": 1, "reasoning": "Publishing is precisely what was avoided until the election was over." },
+        { "distractor": "resigned", "closeness": 1, "reasoning": "Leaving their posts would not keep a story off the front page." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "A story held back until after an election is not being marked with festivity." }
+      ]
+    }
+  ]
+}

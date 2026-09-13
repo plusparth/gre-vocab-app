@@ -1,0 +1,53 @@
+{
+  "word": "pugilist",
+  "sentenceSets": [
+    {
+      "sentence": "The retired pugilist still flinched when a hand moved too quickly near his face, a reflex forty years of bells and gloves had ground into him.",
+      "answerChoices": [
+        { "distractor": "wrestler", "closeness": 3, "reasoning": "The reflex described guards the face against an incoming hand, and gloves are named as part of the man's working life, both of which point to striking rather than grappling." },
+        { "distractor": "brawler", "closeness": 3, "reasoning": "Brawlers fight without schedule or equipment, but this man's habit was built over forty years of bells marking rounds." },
+        { "distractor": "gladiator", "closeness": 3, "reasoning": "Gladiators fought armed in ancient arenas, while bells and gloves place this man in a modern ring." },
+        { "distractor": "fencer", "closeness": 3, "reasoning": "A fencer's guard answers a blade held at reach, whereas this man flinches from a bare hand close to his face." },
+        { "distractor": "referee", "closeness": 2, "reasoning": "A referee stands among the bells and gloves but does not take the blows that would train such a reflex." },
+        { "distractor": "soldier", "closeness": 2, "reasoning": "Soldiering leaves its own reflexes, yet bells and gloves belong to a ring rather than a battlefield." },
+        { "distractor": "coach", "closeness": 2, "reasoning": "A coach works from outside the ropes, and this flinch came from being struck." },
+        { "distractor": "stuntman", "closeness": 2, "reasoning": "A stuntman takes falls on cue for a camera, not blows across forty years of timed rounds." },
+        { "distractor": "pacifist", "closeness": 1, "reasoning": "Someone committed to nonviolence would not have spent forty years among bells and gloves." },
+        { "distractor": "spectator", "closeness": 1, "reasoning": "A spectator watches from outside the ropes and absorbs none of the blows that built this reflex." },
+        { "distractor": "novice", "closeness": 1, "reasoning": "A novice has no forty-year history behind him." }
+      ]
+    },
+    {
+      "sentence": "Every pugilist on the card had to make weight by Friday, and the two lightest spent Thursday night sweating in plastic suits before they were gloved and sent through the ropes on Saturday.",
+      "answerChoices": [
+        { "distractor": "jockey", "closeness": 3, "reasoning": "Jockeys are the other athletes famous for starving down to a number, but these men are gloved and put through the ropes rather than into a saddle." },
+        { "distractor": "grappler", "closeness": 3, "reasoning": "Grapplers also cut weight, yet the sentence has these competitors fitted with gloves, which are worn to strike rather than to hold." },
+        { "distractor": "contender", "closeness": 3, "reasoning": "'Contender' would single out the men in the running for a title, while the weigh-in rule is said to bind everyone on the card." },
+        { "distractor": "featherweight", "closeness": 3, "reasoning": "A weight class names one division, but the requirement covers the whole card and only two men are identified as the lightest." },
+        { "distractor": "trainer", "closeness": 2, "reasoning": "Trainers hold the towels; the people described are the ones weighed, gloved, and sent out." },
+        { "distractor": "amateur", "closeness": 2, "reasoning": "Nothing marks these competitors as unpaid, and the sentence describes a card with formal weigh-in deadlines." },
+        { "distractor": "acrobat", "closeness": 2, "reasoning": "Acrobats are neither weighed in nor gloved before they perform." },
+        { "distractor": "runner", "closeness": 2, "reasoning": "Runners are not gloved, and the ropes here enclose a ring rather than mark a track." },
+        { "distractor": "promoter", "closeness": 1, "reasoning": "The promoter assembles the card and never steps through the ropes himself." },
+        { "distractor": "steward", "closeness": 1, "reasoning": "A steward enforces the rules rather than submitting to the scale and the gloves." },
+        { "distractor": "physician", "closeness": 1, "reasoning": "The ringside physician examines the competitors but is not weighed or gloved." }
+      ]
+    },
+    {
+      "sentence": "In cross-examination she was a pugilist, working the witness with short questions until his story came apart in the twelfth minute.",
+      "answerChoices": [
+        { "distractor": "tactician", "closeness": 3, "reasoning": "A tactician maneuvers from a distance, but the sentence has her working the witness at close range with a steady succession of hits." },
+        { "distractor": "marksman", "closeness": 3, "reasoning": "A marksman takes one carefully aimed shot, whereas her method is volume: question after short question." },
+        { "distractor": "duelist", "closeness": 3, "reasoning": "A duel is settled by a single exchange, while the story here comes apart only after twelve minutes of accumulated pressure." },
+        { "distractor": "surgeon", "closeness": 3, "reasoning": "A surgeon's cuts are few and precise, and the sentence describes her wearing the witness down rather than making one incision." },
+        { "distractor": "prosecutor", "closeness": 2, "reasoning": "'Prosecutor' names her office rather than her manner, and the sentence is describing how she fought." },
+        { "distractor": "predator", "closeness": 2, "reasoning": "A predator waits in concealment and strikes once, but this pressure is continuous and delivered in open court." },
+        { "distractor": "rhetorician", "closeness": 2, "reasoning": "A rhetorician persuades through developed argument, yet her questions are short and aimed at breaking a story rather than building one." },
+        { "distractor": "diplomat", "closeness": 2, "reasoning": "Diplomacy seeks a settlement, and what happens here is that the witness's account collapses." },
+        { "distractor": "stenographer", "closeness": 1, "reasoning": "The stenographer records the exchange rather than conducting it." },
+        { "distractor": "conciliator", "closeness": 1, "reasoning": "A conciliator smooths conflict away, which is the opposite of dismantling a witness's account." },
+        { "distractor": "bystander", "closeness": 1, "reasoning": "A bystander takes no part, but she is the one asking every question." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "cloak",
+  "sentenceSets": [
+    {
+      "sentence": "He used bureaucratic language to cloak the real purpose of the policy, which was to reduce access to services.",
+      "answerChoices": [
+        { "distractor": "conceal", "closeness": 3, "reasoning": "Concealing means putting something out of sight altogether, but the policy is published and discussed openly; only its purpose is wrapped in language that keeps readers from seeing it." },
+        { "distractor": "disguise", "closeness": 3, "reasoning": "A disguise makes something look like a different thing, whereas the sentence describes wording draped over the purpose so that it goes unnoticed rather than mistaken for something else." },
+        { "distractor": "obscure", "closeness": 3, "reasoning": "Obscuring makes a thing hard to make out, but the sentence attributes the effect to a deliberate covering chosen for the purpose." },
+        { "distractor": "justify", "closeness": 3, "reasoning": "Justification argues that a policy is right, while the sentence says the real aim was kept from view rather than defended." },
+        { "distractor": "announce", "closeness": 2, "reasoning": "Announcing would put the purpose before the public, contrary to the aim described." },
+        { "distractor": "postpone", "closeness": 2, "reasoning": "Delay concerns timing, but the language in the sentence works on what people understand the policy to be doing." },
+        { "distractor": "complicate", "closeness": 2, "reasoning": "Complication would make the policy harder to administer, whereas the effect described is on how its intent is perceived." },
+        { "distractor": "soften", "closeness": 2, "reasoning": "Softening would reduce the harshness of the policy, yet the sentence says the reduction in access remained the real purpose." },
+        { "distractor": "reveal", "closeness": 1, "reasoning": "Revealing the aim is precisely what the bureaucratic wording prevented." },
+        { "distractor": "abandon", "closeness": 1, "reasoning": "The purpose was carried out, not given up." },
+        { "distractor": "celebrate", "closeness": 1, "reasoning": "No one advertises a plan to cut services as something to be praised while hiding it behind jargon." }
+      ]
+    },
+    {
+      "sentence": "By eight the valley was under a cloak of fog, and the farmhouse lights showed only as smudges.",
+      "answerChoices": [
+        { "distractor": "blanket", "closeness": 3, "reasoning": "A blanket lies flat over a surface, but the fog here surrounds the whole valley so that lights within it are dimmed from every side." },
+        { "distractor": "veil", "closeness": 3, "reasoning": "A veil is thin enough to see through, while these lights are reduced to smudges by something that hangs heavily over the valley." },
+        { "distractor": "sheet", "closeness": 3, "reasoning": "A sheet suggests a flat expanse of even thickness, whereas the fog described drapes over a whole landscape and swallows what is inside it." },
+        { "distractor": "haze", "closeness": 3, "reasoning": "Haze is a thin suspension that softens distant outlines, too slight to reduce nearby farmhouse lights to blurs." },
+        { "distractor": "layer", "closeness": 2, "reasoning": "A layer describes a horizontal band, but the sentence shows the valley enveloped rather than capped." },
+        { "distractor": "column", "closeness": 2, "reasoning": "A column is narrow and upright, which cannot cover an entire valley." },
+        { "distractor": "trace", "closeness": 2, "reasoning": "A mere trace of fog would leave the lights clearly visible." },
+        { "distractor": "drift", "closeness": 2, "reasoning": "A drift is a patch carried on the wind, while the sentence describes the whole valley covered at once." },
+        { "distractor": "beam", "closeness": 1, "reasoning": "A beam of fog is impossible, and the fog obscures rather than illuminates." },
+        { "distractor": "clearing", "closeness": 1, "reasoning": "A clearing would let the farmhouse lights show sharply." },
+        { "distractor": "puddle", "closeness": 1, "reasoning": "A puddle lies on the ground and could not dim lights across a valley." }
+      ]
+    },
+    {
+      "sentence": "She hung her wet cloak by the fire and apologized for dripping on the flagstones.",
+      "answerChoices": [
+        { "distractor": "coat", "closeness": 3, "reasoning": "A coat has sleeves and buttons, while the garment described here is simply hung to dry after being worn out of doors in the rain." },
+        { "distractor": "shawl", "closeness": 3, "reasoning": "A shawl is a light wrap for the shoulders indoors, hardly the outer layer that soaked through on a walk and drips onto the floor." },
+        { "distractor": "jacket", "closeness": 3, "reasoning": "A jacket is short and fitted, whereas what she takes off has been carrying enough water to puddle on the flagstones." },
+        { "distractor": "hood", "closeness": 3, "reasoning": "A hood covers only the head, but she apologizes for the water running off the whole garment onto the floor." },
+        { "distractor": "umbrella", "closeness": 2, "reasoning": "An umbrella is carried rather than worn, and the sentence describes something hung up to dry after covering her." },
+        { "distractor": "scarf", "closeness": 2, "reasoning": "A scarf is a narrow accessory that would hold little water compared with what drips across the stones." },
+        { "distractor": "apron", "closeness": 2, "reasoning": "An apron is worn indoors over clothes for work, not out in the weather." },
+        { "distractor": "boots", "closeness": 2, "reasoning": "Boots are set down rather than hung, and the sentence's garment is placed by the fire on a hook." },
+        { "distractor": "kettle", "closeness": 1, "reasoning": "A kettle is not something one wears in from the rain." },
+        { "distractor": "letter", "closeness": 1, "reasoning": "Paper is not hung by a fire after a walk in the rain." },
+        { "distractor": "bench", "closeness": 1, "reasoning": "Furniture cannot be hung up to dry." }
+      ]
+    }
+  ]
+}

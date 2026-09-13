@@ -1,0 +1,53 @@
+{
+  "word": "cadge",
+  "sentenceSets": [
+    {
+      "sentence": "He tried to cadge a free meal from the restaurant, claiming he had forgotten his wallet.",
+      "answerChoices": [
+        { "distractor": "wheedle", "closeness": 3, "reasoning": "Wheedling works through flattery and coaxing talk, but his method here is a bare excuse about a missing wallet." },
+        { "distractor": "scrounge", "closeness": 3, "reasoning": "Scrounging suggests foraging about for whatever can be picked up, while he is working on one particular establishment for a meal on the house." },
+        { "distractor": "beg", "closeness": 3, "reasoning": "Begging is an open appeal to charity, whereas his wallet story is an attempt to get the meal without admitting he is asking for a handout." },
+        { "distractor": "finagle", "closeness": 3, "reasoning": "Finagling implies clever manipulation of rules or paperwork, but the sentence describes leaning on the restaurant's goodwill with a thin excuse." },
+        { "distractor": "extract", "closeness": 2, "reasoning": "Extraction implies force or leverage, and a diner claiming to have left his wallet has neither." },
+        { "distractor": "request", "closeness": 2, "reasoning": "A straightforward request would not require the pretext the sentence supplies." },
+        { "distractor": "secure", "closeness": 2, "reasoning": "Securing suggests locking down an arrangement in advance, not improvising at the table after eating." },
+        { "distractor": "negotiate", "closeness": 2, "reasoning": "Negotiation implies both sides have something to trade, but he offers nothing except the claim about his wallet." },
+        { "distractor": "purchase", "closeness": 1, "reasoning": "The meal is described as free and he claims to have no wallet, so no buying is involved." },
+        { "distractor": "prepare", "closeness": 1, "reasoning": "The restaurant, not the customer, cooks the food." },
+        { "distractor": "decline", "closeness": 1, "reasoning": "Turning the meal down contradicts an excuse aimed at getting it for nothing." }
+      ]
+    },
+    {
+      "sentence": "She cadged cigarettes off her coworkers for a year without ever buying a pack herself.",
+      "answerChoices": [
+        { "distractor": "bummed", "closeness": 3, "reasoning": "This is the casual slang for the same behavior, but the sentence's dry accounting of a full year suits a more formal register." },
+        { "distractor": "mooched", "closeness": 3, "reasoning": "Mooching is a broad charge of freeloading, while the sentence tracks a specific repeated ask for cigarettes rather than general living off others." },
+        { "distractor": "sponged", "closeness": 3, "reasoning": "Sponging implies depending on others for support generally, whereas her coworkers supplied only cigarettes and she otherwise looked after herself." },
+        { "distractor": "borrowed", "closeness": 3, "reasoning": "Borrowing implies eventual return, which is impossible for cigarettes she smoked and never replaced with a pack of her own." },
+        { "distractor": "accepted", "closeness": 2, "reasoning": "Acceptance implies the coworkers offered first, but a year of never buying any suggests she was the one initiating." },
+        { "distractor": "collected", "closeness": 2, "reasoning": "Collecting suggests gathering and keeping a set, not obtaining smokes one at a time from colleagues." },
+        { "distractor": "solicited", "closeness": 2, "reasoning": "Soliciting is formal and often official, at odds with casual daily requests around a workplace." },
+        { "distractor": "pocketed", "closeness": 2, "reasoning": "Pocketing suggests taking without asking, but the phrase 'off her coworkers' indicates they handed them over." },
+        { "distractor": "bought", "closeness": 1, "reasoning": "The second clause states outright that she never bought a pack." },
+        { "distractor": "distributed", "closeness": 1, "reasoning": "Giving cigarettes out reverses the direction the sentence describes." },
+        { "distractor": "refused", "closeness": 1, "reasoning": "Turning cigarettes down would not sustain a year of smoking on other people's supply." }
+      ]
+    },
+    {
+      "sentence": "Rather than pay for hotels, he spent the whole tour cadging beds from friends of friends.",
+      "answerChoices": [
+        { "distractor": "coaxing", "closeness": 3, "reasoning": "Coaxing implies gentle persuasion of a reluctant person, but strangers two removes away are more likely simply being asked than talked around." },
+        { "distractor": "wangling", "closeness": 3, "reasoning": "Wangling suggests contriving something through cunning or a bent rule, while he is straightforwardly relying on other people's hospitality." },
+        { "distractor": "procuring", "closeness": 3, "reasoning": "Procurement implies formal acquisition, usually by payment, which the opening clause rules out." },
+        { "distractor": "exacting", "closeness": 3, "reasoning": "Exacting means compelling someone to hand something over, and he has no hold at all over friends of friends." },
+        { "distractor": "renting", "closeness": 2, "reasoning": "Renting costs money, which contradicts the alternative to paying for hotels." },
+        { "distractor": "arranging", "closeness": 2, "reasoning": "Arranging is neutral planning and misses the imposition on near strangers the sentence highlights." },
+        { "distractor": "sharing", "closeness": 2, "reasoning": "Sharing implies a mutual exchange, but the flow of hospitality here runs one way." },
+        { "distractor": "claiming", "closeness": 2, "reasoning": "Claiming asserts a right, and he has no entitlement to a bed in these houses." },
+        { "distractor": "donating", "closeness": 1, "reasoning": "He is receiving lodging, not giving it away." },
+        { "distractor": "offering", "closeness": 1, "reasoning": "The beds come from the friends of friends, so he cannot be the one offering them." },
+        { "distractor": "inspecting", "closeness": 1, "reasoning": "Examining beds has nothing to do with avoiding hotel bills on tour." }
+      ]
+    }
+  ]
+}

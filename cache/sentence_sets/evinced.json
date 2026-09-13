@@ -1,0 +1,53 @@
+{
+  "word": "evinced",
+  "sentenceSets": [
+    {
+      "sentence": "The quality of his preparation evinced a commitment to the project that he had not openly expressed.",
+      "answerChoices": [
+        { "distractor": "announced", "closeness": 3, "reasoning": "Announcing is a public statement, and the sentence says explicitly that he never expressed the commitment in words; it was the preparation that gave him away." },
+        { "distractor": "created", "closeness": 3, "reasoning": "Creating the commitment would make the preparation its source, whereas the sentence treats the preparation as the sign by which an existing devotion could be read." },
+        { "distractor": "promised", "closeness": 3, "reasoning": "A promise is something given to others, which conflicts with a commitment he had never voiced." },
+        { "distractor": "rewarded", "closeness": 3, "reasoning": "Rewarding a commitment implies someone else held it and was being repaid, but the devotion here is his own." },
+        { "distractor": "required", "closeness": 2, "reasoning": "Requiring commitment would make the preparation a demand on him rather than a sign of what he already felt." },
+        { "distractor": "delayed", "closeness": 2, "reasoning": "Delay concerns timing and cannot be what the thoroughness of his work made apparent." },
+        { "distractor": "questioned", "closeness": 2, "reasoning": "Questioning the commitment would cast doubt on it, while careful preparation points the other way." },
+        { "distractor": "replaced", "closeness": 2, "reasoning": "Replacing a commitment implies substituting one for another, which the sentence does not describe." },
+        { "distractor": "hid", "closeness": 1, "reasoning": "Hiding is contradicted by preparation whose quality made the commitment legible to observers." },
+        { "distractor": "lacked", "closeness": 1, "reasoning": "Lacking commitment is the opposite of what careful preparation shows." },
+        { "distractor": "mocked", "closeness": 1, "reasoning": "Mockery would be an attitude toward the project rather than evidence of devotion to it." }
+      ]
+    },
+    {
+      "sentence": "In cross-examination the witness evinced an unease that three hours of friendly questioning had kept out of sight.",
+      "answerChoices": [
+        { "distractor": "confessed", "closeness": 3, "reasoning": "Confessing means putting something into words, but the unease is described as having been kept out of sight and now becoming visible under pressure." },
+        { "distractor": "overcame", "closeness": 3, "reasoning": "Overcoming the unease would mean it disappeared, whereas the cross-examination is what brought it into view." },
+        { "distractor": "feigned", "closeness": 3, "reasoning": "Feigning implies the unease was manufactured, and the sentence says it had merely been hidden during three hours of gentler questioning." },
+        { "distractor": "caused", "closeness": 3, "reasoning": "Causing the unease would make the witness its author, while the sentence presents the witness as the person in whom it finally showed." },
+        { "distractor": "recalled", "closeness": 2, "reasoning": "Recalling belongs to memory of events, and what emerged under cross-examination was a present state." },
+        { "distractor": "reported", "closeness": 2, "reasoning": "Reporting would mean the witness described the unease aloud, which conflicts with something that had been out of sight rather than unmentioned." },
+        { "distractor": "resented", "closeness": 2, "reasoning": "Resenting the unease is an attitude toward it, not the fact of its becoming apparent." },
+        { "distractor": "delayed", "closeness": 2, "reasoning": "Delaying concerns timing, and the sentence contrasts the friendly questioning with the moment the state showed itself." },
+        { "distractor": "concealed", "closeness": 1, "reasoning": "Concealing is what the three earlier hours achieved and what cross-examination undid." },
+        { "distractor": "denied", "closeness": 1, "reasoning": "Denial is a verbal act, while the unease is described as breaking through the witness's composure." },
+        { "distractor": "enjoyed", "closeness": 1, "reasoning": "Enjoying unease makes no sense of a witness under hostile questioning." }
+      ]
+    },
+    {
+      "sentence": "The building's cracked lintels and sagging joists evinced years of deferred maintenance long before the inspector opened his report.",
+      "answerChoices": [
+        { "distractor": "hastened", "closeness": 3, "reasoning": "Hastening the neglect would make the damage its cause, but cracked lintels and sagging joists are the consequences from which the neglect can be read." },
+        { "distractor": "excused", "closeness": 3, "reasoning": "Excusing deferred maintenance would justify it, whereas the damage is being treated as evidence that it occurred." },
+        { "distractor": "documented", "closeness": 3, "reasoning": "Documenting is what the inspector's report does with paper, while the timbers themselves simply bore the marks that anyone could read." },
+        { "distractor": "invited", "closeness": 3, "reasoning": "Inviting neglect would put the building's condition before the neglect in time, reversing the relation the sentence sets up." },
+        { "distractor": "financed", "closeness": 2, "reasoning": "Financing concerns money spent, and sagging joists are physical evidence rather than a source of funds." },
+        { "distractor": "delayed", "closeness": 2, "reasoning": "Delay is what deferred maintenance already means, leaving the damage doing nothing in the sentence." },
+        { "distractor": "surveyed", "closeness": 2, "reasoning": "Surveying is an act of inspection performed by the inspector, not by the lintels." },
+        { "distractor": "required", "closeness": 2, "reasoning": "Requiring maintenance would look forward to repairs, while the sentence looks back at years of it going undone." },
+        { "distractor": "prevented", "closeness": 1, "reasoning": "Preventing the neglect is contradicted by damage that accumulated over years." },
+        { "distractor": "repaired", "closeness": 1, "reasoning": "Cracked lintels and sagging joists are the opposite of repair." },
+        { "distractor": "insured", "closeness": 1, "reasoning": "Insuring is a financial arrangement that structural damage cannot perform." }
+      ]
+    }
+  ]
+}

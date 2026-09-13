@@ -1,0 +1,53 @@
+{
+  "word": "landmark",
+  "sentenceSets": [
+    {
+      "sentence": "The court's decision was a landmark in the development of the legal framework, cited in every subsequent proceeding that touched the same question.",
+      "answerChoices": [
+        { "distractor": "watershed", "closeness": 3, "reasoning": "A watershed marks a point after which everything runs in a different direction, but the sentence describes a decision that later proceedings kept returning to and citing, which is a fixed reference rather than a dividing line." },
+        { "distractor": "precedent", "closeness": 3, "reasoning": "Every cited ruling is a precedent, so the word would state the obvious rather than capture what the sentence emphasizes, namely the decision's standing as a defining point in a whole line of development." },
+        { "distractor": "touchstone", "closeness": 3, "reasoning": "A touchstone is a test against which quality is measured, but the sentence describes a decision that later cases cite as authority, not one they use to assay their own merit." },
+        { "distractor": "cornerstone", "closeness": 3, "reasoning": "A cornerstone is the first stone that a structure is built upon, yet the sentence places the decision within an ongoing development rather than at its foundation." },
+        { "distractor": "milestone", "closeness": 2, "reasoning": "A milestone records distance travelled along a route, a measure of progress, whereas the sentence stresses that later proceedings orient themselves by this decision rather than measure how far they have come from it." },
+        { "distractor": "benchmark", "closeness": 2, "reasoning": "A benchmark is a standard for comparing performance, but nothing here is being measured or rated against the decision; it is being cited as authority." },
+        { "distractor": "hallmark", "closeness": 2, "reasoning": "A hallmark is a distinguishing characteristic of something, not an event, and a single court decision cannot be a distinguishing feature of the framework it helped build." },
+        { "distractor": "codicil", "closeness": 2, "reasoning": "A codicil is a supplement amending a will, a minor addendum, which contradicts a decision important enough to be cited in every later case on the point." },
+        { "distractor": "obstacle", "closeness": 1, "reasoning": "An obstacle impedes development, while this decision is described as part of the framework's development and a reference for everything that followed." },
+        { "distractor": "afterthought", "closeness": 1, "reasoning": "An afterthought is something of marginal importance added late, the opposite of a ruling invoked in every subsequent proceeding." },
+        { "distractor": "formality", "closeness": 1, "reasoning": "A formality is an empty procedural step, which cannot describe a decision that shaped the legal framework and is cited continually." }
+      ]
+    },
+    {
+      "sentence": "The surveyors could no longer locate the stone landmark that had fixed the property line for two centuries, and the boundary dispute went to court.",
+      "answerChoices": [
+        { "distractor": "monument", "closeness": 3, "reasoning": "A monument is erected to commemorate a person or event, but the object here has a purely practical function of fixing where one parcel of land ends and another begins." },
+        { "distractor": "cairn", "closeness": 3, "reasoning": "A cairn is a heap of loose stones piled up as a marker, which conflicts with the sentence's description of a single stone object surveyors expected to find in one place." },
+        { "distractor": "obelisk", "closeness": 3, "reasoning": "An obelisk is a tall tapering pillar raised for display, and something that conspicuous would hardly be the kind of object surveyors fail to locate." },
+        { "distractor": "beacon", "closeness": 3, "reasoning": "A beacon is a signal meant to be seen at a distance, usually to warn or guide travellers, whereas this object silently held a property line for two hundred years." },
+        { "distractor": "bollard", "closeness": 2, "reasoning": "A bollard is a short post set to block or guide vehicles, a traffic fixture rather than something that could have settled where a property line ran since the eighteenth century." },
+        { "distractor": "signpost", "closeness": 2, "reasoning": "A signpost carries lettering that directs travellers, but nothing in the sentence suggests the missing object gave directions; it fixed a boundary." },
+        { "distractor": "outcrop", "closeness": 2, "reasoning": "An outcrop is bedrock breaking through the surface by natural accident, which would not simply go missing and could not have been set deliberately to fix a line." },
+        { "distractor": "plinth", "closeness": 2, "reasoning": "A plinth is the base a statue or column stands on, so it presupposes something mounted above it that the sentence never mentions." },
+        { "distractor": "warehouse", "closeness": 1, "reasoning": "A warehouse is a large storage building, not a stone object that surveyors search the ground for." },
+        { "distractor": "ledger", "closeness": 1, "reasoning": "A ledger is a book of accounts, which cannot be described as stone or as physically fixing a property line in the field." },
+        { "distractor": "footpath", "closeness": 1, "reasoning": "A footpath is a route people walk along rather than a marker, and the sentence describes something the surveyors expected to find standing at a point." }
+      ]
+    },
+    {
+      "sentence": "Tourists queue for an hour outside the landmark every morning, though few of them could say what happened there or who built it.",
+      "answerChoices": [
+        { "distractor": "edifice", "closeness": 3, "reasoning": "An edifice is simply a large building, a word about scale rather than fame, and it would not explain why crowds line up outside this one every morning." },
+        { "distractor": "shrine", "closeness": 3, "reasoning": "A shrine draws people for devotion to something they revere, which contradicts visitors who cannot say what happened at the site or who built it." },
+        { "distractor": "memorial", "closeness": 3, "reasoning": "A memorial exists to keep a particular event or person in mind, an aim defeated in a sentence where the visitors have no idea what occurred there." },
+        { "distractor": "spectacle", "closeness": 3, "reasoning": "A spectacle is a striking display or performance, something that happens, but the tourists are queueing outside a fixed structure that has a builder and a history." },
+        { "distractor": "museum", "closeness": 2, "reasoning": "A museum would explain its own contents to the visitors inside, which sits oddly with a crowd that leaves knowing nothing about the place." },
+        { "distractor": "plaza", "closeness": 2, "reasoning": "A plaza is an open public square, so there would be no outside to queue in front of and no builder to name." },
+        { "distractor": "terminus", "closeness": 2, "reasoning": "A terminus is the end point of a transport line, and people gather there to travel rather than to see the building itself." },
+        { "distractor": "pavilion", "closeness": 2, "reasoning": "A pavilion is a light ornamental structure put up for shelter or exhibition, too slight and too temporary to be a site whose history tourists have forgotten." },
+        { "distractor": "hovel", "closeness": 1, "reasoning": "A hovel is a squalid hut, which no one queues an hour to see." },
+        { "distractor": "vacancy", "closeness": 1, "reasoning": "A vacancy is an empty space or unfilled position, not a place with a builder and a history that tourists visit." },
+        { "distractor": "detour", "closeness": 1, "reasoning": "A detour is a roundabout route taken to avoid something, and one cannot stand outside it in a queue." }
+      ]
+    }
+  ]
+}

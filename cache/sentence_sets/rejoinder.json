@@ -1,0 +1,53 @@
+{
+  "word": "rejoinder",
+  "sentenceSets": [
+    {
+      "sentence": "His rejoinder was brief and accurate, which was more effective than the lengthy response the question had seemed to demand.",
+      "answerChoices": [
+        { "distractor": "retort", "closeness": 3, "reasoning": "A retort is sharp and stinging, but the sentence praises this remark for its accuracy and economy rather than for any bite." },
+        { "distractor": "riposte", "closeness": 3, "reasoning": "A riposte is a quick thrust back at an opponent, whereas the sentence describes someone answering a question well, not scoring a point off a rival." },
+        { "distractor": "rebuttal", "closeness": 3, "reasoning": "Rebuttal implies refuting a claim, but what he faced was a question, and the sentence says he answered it accurately." },
+        { "distractor": "comeback", "closeness": 3, "reasoning": "A comeback is a witty parting shot, at odds with a remark the sentence commends for being correct and to the point." },
+        { "distractor": "remark", "closeness": 2, "reasoning": "A remark need not answer anything, yet the sentence positions this squarely as what the question demanded." },
+        { "distractor": "quip", "closeness": 2, "reasoning": "A quip is a joke, and brevity plus accuracy is not what makes something funny." },
+        { "distractor": "statement", "closeness": 2, "reasoning": "Too general, since the sentence's whole comparison is with the long answer the question appeared to require." },
+        { "distractor": "explanation", "closeness": 2, "reasoning": "An explanation elaborates, which is exactly what the sentence says he declined to do to good effect." },
+        { "distractor": "question", "closeness": 1, "reasoning": "The sentence already names the question as what he was answering." },
+        { "distractor": "apology", "closeness": 1, "reasoning": "Nothing suggests he had anything to be sorry for; he supplied something accurate." },
+        { "distractor": "monologue", "closeness": 1, "reasoning": "A monologue is long by nature, contradicting the brevity the sentence praises." }
+      ]
+    },
+    {
+      "sentence": "The senator's rejoinder came so quickly that the questioner had not yet lowered the microphone.",
+      "answerChoices": [
+        { "distractor": "reply", "closeness": 3, "reasoning": "Close, but a reply can begin a conversation, while the timing here fixes this squarely as the return volley to something just put to her." },
+        { "distractor": "response", "closeness": 3, "reasoning": "Too broad for the scene, in which the microphone is still up because she is coming back at the questioner before he has finished the exchange." },
+        { "distractor": "counterargument", "closeness": 3, "reasoning": "A counterargument requires a case to argue against, but the sentence gives us a question posed at a microphone, not a thesis." },
+        { "distractor": "objection", "closeness": 3, "reasoning": "An objection protests the question's propriety, whereas the sentence emphasizes only the speed with which she came back at the questioner." },
+        { "distractor": "rebuke", "closeness": 2, "reasoning": "A rebuke would scold the questioner, and the sentence reports nothing about disapproval, only about timing." },
+        { "distractor": "interruption", "closeness": 2, "reasoning": "The questioner has clearly finished speaking, since he is in the act of lowering the microphone." },
+        { "distractor": "aside", "closeness": 2, "reasoning": "An aside is muttered away from the exchange, but this is plainly directed back at the person holding the microphone." },
+        { "distractor": "correction", "closeness": 2, "reasoning": "Nothing in the sentence indicates the questioner said anything factually wrong." },
+        { "distractor": "greeting", "closeness": 1, "reasoning": "The sentence describes the closing beat of a question-and-answer exchange, not an introduction." },
+        { "distractor": "lecture", "closeness": 1, "reasoning": "A lecture is extended, which clashes with something arriving before a microphone can be lowered." },
+        { "distractor": "endorsement", "closeness": 1, "reasoning": "Approving of the questioner has nothing to do with the speed the sentence highlights." }
+      ]
+    },
+    {
+      "sentence": "The journal printed the critique alongside the author's rejoinder, letting readers weigh both in a single issue.",
+      "answerChoices": [
+        { "distractor": "answer", "closeness": 3, "reasoning": "Plain enough to fit, but the sentence sets the author's piece against a critique as a matched pair for readers to weigh, a contest rather than a simple supplying of information." },
+        { "distractor": "counterpoint", "closeness": 3, "reasoning": "A counterpoint can be written by anyone on the other side, while the sentence identifies this as the author's own turn to speak after being criticized." },
+        { "distractor": "defense", "closeness": 3, "reasoning": "A defense might be mounted by a supporter or an editor, but the sentence pairs the critique with a piece from the author that comes second in the exchange." },
+        { "distractor": "refutation", "closeness": 3, "reasoning": "Refutation asserts that the critique has been disproved, whereas the sentence leaves the verdict to readers weighing both pieces." },
+        { "distractor": "commentary", "closeness": 2, "reasoning": "Commentary would be a third party's remarks, not the author's own answer to the critic." },
+        { "distractor": "revision", "closeness": 2, "reasoning": "A revision would replace the original work, but here the critique and the author's piece run side by side." },
+        { "distractor": "addendum", "closeness": 2, "reasoning": "An addendum adds material to the author's own earlier work rather than engaging the critique." },
+        { "distractor": "disclaimer", "closeness": 2, "reasoning": "A disclaimer disowns responsibility, which is not something readers would be asked to weigh against a critique." },
+        { "distractor": "retraction", "closeness": 1, "reasoning": "Withdrawing the work would leave readers nothing to weigh the critique against." },
+        { "distractor": "abstract", "closeness": 1, "reasoning": "A summary of the paper would not function as the other half of an exchange with a critic." },
+        { "distractor": "dedication", "closeness": 1, "reasoning": "A tribute at the front of a work has no bearing on a published dispute." }
+      ]
+    }
+  ]
+}

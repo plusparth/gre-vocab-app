@@ -1,0 +1,53 @@
+{
+  "word": "reminiscent",
+  "sentenceSets": [
+    {
+      "sentence": "The approach was reminiscent of an earlier attempt that had failed, which required explanation before it could receive fair consideration.",
+      "answerChoices": [
+        { "distractor": "suggestive", "closeness": 3, "reasoning": "Suggestive would mean the approach hinted at the earlier attempt indirectly, but the sentence implies a resemblance close enough that reviewers recognized it and needed reassurance." },
+        { "distractor": "indicative", "closeness": 3, "reasoning": "This would make the approach evidence that the earlier attempt was happening again, whereas the trouble described is only that it looked like the failed one." },
+        { "distractor": "symptomatic", "closeness": 3, "reasoning": "A symptom points to an underlying condition, but the sentence treats the resemblance itself, not any deeper problem it reveals, as what had to be explained." },
+        { "distractor": "evocative", "closeness": 3, "reasoning": "Evocative describes something that stirs feeling or imagination, while what the sentence describes is a likeness that raised a factual doubt requiring explanation." },
+        { "distractor": "typical", "closeness": 2, "reasoning": "Being typical of one specific failed attempt makes little sense, since the sentence points to a single prior case rather than a class of them." },
+        { "distractor": "characteristic", "closeness": 2, "reasoning": "This would mean the approach was a defining feature of the earlier attempt, but the two are presented as separate efforts that merely look alike." },
+        { "distractor": "reflective", "closeness": 2, "reasoning": "Reflective implies the approach mirrors something about the earlier attempt on purpose, whereas the sentence suggests an unwanted resemblance to be explained away." },
+        { "distractor": "expressive", "closeness": 2, "reasoning": "Expressiveness concerns conveying meaning or feeling, which has no bearing on why the proposal had to overcome a comparison to a failure." },
+        { "distractor": "independent", "closeness": 1, "reasoning": "If the approach were unrelated to the earlier attempt, no explanation would have been needed." },
+        { "distractor": "oblivious", "closeness": 1, "reasoning": "An approach cannot be unaware of anything, and the sentence describes how it looked to others." },
+        { "distractor": "contemptuous", "closeness": 1, "reasoning": "Nothing in the sentence indicates scorn toward the earlier attempt, only an awkward similarity to it." }
+      ]
+    },
+    {
+      "sentence": "The smell of woodsmoke and wet wool was reminiscent of the winters she had spent at her grandmother's farmhouse.",
+      "answerChoices": [
+        { "distractor": "redolent", "closeness": 3, "reasoning": "Close, but this word normally reports what a place or thing smells of, and the subject here is already a smell, which is instead calling those winters back to her." },
+        { "distractor": "emblematic", "closeness": 3, "reasoning": "An emblem stands for something publicly, while the sentence describes a private association between one person's memories and a particular smell." },
+        { "distractor": "symbolic", "closeness": 3, "reasoning": "Symbolism implies an assigned meaning, but the connection here is involuntary, arising from winters she actually lived through." },
+        { "distractor": "representative", "closeness": 3, "reasoning": "This would make the smell a typical sample of those winters, whereas the sentence describes it summoning them to mind." },
+        { "distractor": "illustrative", "closeness": 2, "reasoning": "Illustration implies explaining something to an audience, and no one is being shown anything here." },
+        { "distractor": "descriptive", "closeness": 2, "reasoning": "A smell does not describe anything; the sentence reports its effect on someone with a specific past." },
+        { "distractor": "conscious", "closeness": 2, "reasoning": "Awareness belongs to her, not to the woodsmoke and wool the sentence makes its subject." },
+        { "distractor": "mindful", "closeness": 2, "reasoning": "This attributes attentiveness to the smell itself, which cannot hold anything in mind." },
+        { "distractor": "dismissive", "closeness": 1, "reasoning": "Scorn toward her grandmother's winters is nowhere in a sentence about a smell and a memory." },
+        { "distractor": "devoid", "closeness": 1, "reasoning": "Emptiness contradicts a sentence built on the smell's rich connection to those winters." },
+        { "distractor": "ignorant", "closeness": 1, "reasoning": "A smell cannot lack knowledge, and the sentence turns on how strongly it connects to her past." }
+      ]
+    },
+    {
+      "sentence": "Listeners kept calling the quartet's second movement reminiscent, though the composer insisted she had never once heard the Bartok they all named.",
+      "answerChoices": [
+        { "distractor": "derivative", "closeness": 3, "reasoning": "Derivative is an accusation of copying, which the composer's insistence that she never heard the work would refute rather than merely complicate." },
+        { "distractor": "imitative", "closeness": 3, "reasoning": "Imitation requires a model the artist knew, and the sentence explicitly places that model outside her experience." },
+        { "distractor": "allusive", "closeness": 3, "reasoning": "An allusion is a deliberate nod to another work, impossible if she had never heard the piece listeners kept naming." },
+        { "distractor": "unoriginal", "closeness": 3, "reasoning": "This is a verdict on the music's worth, but the listeners are reporting what the movement brought to mind, not grading its inventiveness." },
+        { "distractor": "familiar", "closeness": 2, "reasoning": "Familiarity would mean listeners had heard this movement before, when what they report is being reminded of a different composer." },
+        { "distractor": "nostalgic", "closeness": 2, "reasoning": "Nostalgia involves longing for the past, and the listeners are naming a stylistic likeness, not a wistful mood." },
+        { "distractor": "referential", "closeness": 2, "reasoning": "Referring to another work presupposes knowledge of it, which the composer denies having." },
+        { "distractor": "secondhand", "closeness": 2, "reasoning": "This implies the material was taken from an intermediary source, a claim the sentence does not support." },
+        { "distractor": "original", "closeness": 1, "reasoning": "If the movement struck everyone as original, no one would keep invoking another composer's name." },
+        { "distractor": "unprecedented", "closeness": 1, "reasoning": "Listeners are pointing to an obvious precedent, so the movement can hardly be without one." },
+        { "distractor": "tuneless", "closeness": 1, "reasoning": "The debate in the sentence is about resemblance to Bartok, not about whether the music has a melody." }
+      ]
+    }
+  ]
+}

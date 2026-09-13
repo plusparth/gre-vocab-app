@@ -1,0 +1,53 @@
+{
+  "word": "proscribe",
+  "sentenceSets": [
+    {
+      "sentence": "The committee proscribed several approaches that had been widely used on the grounds that their risks had been underestimated.",
+      "answerChoices": [
+        { "distractor": "censured", "closeness": 3, "reasoning": "Censure is a formal rebuke aimed at conduct already committed, but the committee's stated concern is the danger of methods still in wide use going forward." },
+        { "distractor": "deprecated", "closeness": 3, "reasoning": "Deprecating registers disapproval while leaving a practice available; a finding that risks were underestimated supports removing the approaches from use, not merely recording an opinion about them." },
+        { "distractor": "curtailed", "closeness": 3, "reasoning": "Curtailing cuts something back in extent, whereas the grounds given argue against these approaches as such rather than against how much they are used." },
+        { "distractor": "vetoed", "closeness": 3, "reasoning": "A veto strikes down a specific proposal placed before a body, but these approaches were already in wide circulation, so nothing was pending for the committee to block." },
+        { "distractor": "audited", "closeness": 2, "reasoning": "An audit is an examination still to be carried out; the sentence reports a conclusion about risk that has already been reached." },
+        { "distractor": "revised", "closeness": 2, "reasoning": "Revision would modify the approaches, but the grounds cited are a reason to stop relying on them rather than to adjust them." },
+        { "distractor": "documented", "closeness": 2, "reasoning": "Documenting merely records that the approaches exist, which cannot be done 'on the grounds that' their risks were misjudged." },
+        { "distractor": "suspended", "closeness": 2, "reasoning": "Suspension implies a temporary hold pending some further step, yet the sentence presents the risk judgment as settled." },
+        { "distractor": "endorsed", "closeness": 1, "reasoning": "Endorsement is incompatible with the finding that the approaches carried underestimated risks." },
+        { "distractor": "mandated", "closeness": 1, "reasoning": "Requiring the approaches contradicts the committee's stated alarm about their danger." },
+        { "distractor": "invented", "closeness": 1, "reasoning": "The approaches 'had been widely used' already, so the committee cannot have created them." }
+      ]
+    },
+    {
+      "sentence": "After the coup, the new consuls proscribed a hundred senators, posting their names in the forum and promising rewards to anyone who killed them.",
+      "answerChoices": [
+        { "distractor": "exiled", "closeness": 3, "reasoning": "Exile removes people from the city and leaves them alive, but the consuls offered money for their deaths." },
+        { "distractor": "denounced", "closeness": 3, "reasoning": "A denunciation is an accusation the accused may answer; here the posted names come with a bounty, which settles the matter rather than opening it." },
+        { "distractor": "condemned", "closeness": 3, "reasoning": "Condemnation follows a judgment handed down by a court, yet these consuls skip any proceeding and leave the killing to whoever collects the reward." },
+        { "distractor": "impeached", "closeness": 3, "reasoning": "Impeachment is a charge that begins a formal process, and the sentence describes the consuls bypassing process entirely by paying private hands." },
+        { "distractor": "arrested", "closeness": 2, "reasoning": "Arrest puts men in custody, but these senators were left at large with a price on their heads." },
+        { "distractor": "expelled", "closeness": 2, "reasoning": "Expulsion would cost the senators their seats; the reward for killing them shows their lives were what was forfeit." },
+        { "distractor": "conscripted", "closeness": 2, "reasoning": "Conscription presses men into service, whereas these men are being hunted rather than enlisted." },
+        { "distractor": "summoned", "closeness": 2, "reasoning": "A summons asks someone to appear, but nothing was asked of these senators; their names were posted for others to act upon." },
+        { "distractor": "pardoned", "closeness": 1, "reasoning": "A pardon would shield the senators, the opposite of advertising a reward for their deaths." },
+        { "distractor": "honored", "closeness": 1, "reasoning": "Honoring the senators cannot be squared with promising money to their killers." },
+        { "distractor": "elected", "closeness": 1, "reasoning": "The men already sat in the Senate and were being pursued, not chosen for office." }
+      ]
+    },
+    {
+      "sentence": "The academy's charter proscribes any commercial use of the collection, a restriction the trustees have never once relaxed.",
+      "answerChoices": [
+        { "distractor": "regulates", "closeness": 3, "reasoning": "Regulation sets terms under which an activity may proceed, but the trustees' refusal to relax anything means no commercial use is available on any terms." },
+        { "distractor": "limits", "closeness": 3, "reasoning": "A limit permits the activity up to a threshold, and the sentence describes something the trustees treat as admitting no exceptions." },
+        { "distractor": "governs", "closeness": 3, "reasoning": "'Governs' says only that the charter has authority over the question, which does not explain why the clause is called a restriction." },
+        { "distractor": "penalizes", "closeness": 3, "reasoning": "A penalty attaches a cost while leaving the act possible, but the sentence presents commercial use as foreclosed rather than priced." },
+        { "distractor": "monitors", "closeness": 2, "reasoning": "Monitoring is watchfulness, and the clause described is one the trustees enforce as a bar rather than a duty to observe." },
+        { "distractor": "licenses", "closeness": 2, "reasoning": "Licensing grants permission on conditions, which contradicts a provision never once relaxed." },
+        { "distractor": "defines", "closeness": 2, "reasoning": "Defining commercial use would only say what counts as it; the clause in question is the one that forbids it." },
+        { "distractor": "anticipates", "closeness": 2, "reasoning": "Anticipation predicts what may happen, but a charter clause the trustees apply is a rule, not a forecast." },
+        { "distractor": "encourages", "closeness": 1, "reasoning": "Encouragement would invite exactly the use the trustees have consistently refused to permit." },
+        { "distractor": "requires", "closeness": 1, "reasoning": "Compelling commercial use is incompatible with an unbroken refusal to allow it." },
+        { "distractor": "ignores", "closeness": 1, "reasoning": "A clause that passed over commercial use in silence could not be the restriction the trustees uphold." }
+      ]
+    }
+  ]
+}

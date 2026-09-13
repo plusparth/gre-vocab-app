@@ -1,0 +1,53 @@
+{
+  "word": "cajole",
+  "sentenceSets": [
+    {
+      "sentence": "She cajoled the reluctant witness into testifying by assuring him that his identity would be protected.",
+      "answerChoices": [
+        { "distractor": "coaxed", "closeness": 3, "reasoning": "Coaxing is patient gentling of someone timid, while the sentence shows her working on his reluctance with a specific reassurance offered as an inducement." },
+        { "distractor": "wheedled", "closeness": 3, "reasoning": "Wheedling implies whining, ingratiating appeals, whereas she wins him over by promising something concrete about his safety." },
+        { "distractor": "persuaded", "closeness": 3, "reasoning": "Persuasion suggests he came around on the merits, but the sentence shows him still reluctant and won over by a sweetener rather than by argument." },
+        { "distractor": "inveigled", "closeness": 3, "reasoning": "Inveigling involves deceit, and nothing indicates her assurance about his identity was false." },
+        { "distractor": "pressured", "closeness": 2, "reasoning": "Pressure works by making refusal costly, but what she offers is protection, not a threat." },
+        { "distractor": "convinced", "closeness": 2, "reasoning": "Convincing changes someone's beliefs, whereas his hesitation was about risk to himself rather than about what he believed." },
+        { "distractor": "badgered", "closeness": 2, "reasoning": "Badgering means wearing someone down by repetition, and the sentence attributes his change of mind to a single assurance." },
+        { "distractor": "bribed", "closeness": 2, "reasoning": "A bribe is an improper payment, while confidentiality for a witness is a legitimate protection." },
+        { "distractor": "forced", "closeness": 1, "reasoning": "Compulsion is incompatible with reassuring someone until he agrees." },
+        { "distractor": "dissuaded", "closeness": 1, "reasoning": "Talking him out of it contradicts the fact that he testified." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Ignoring the witness could not produce testimony from him." }
+      ]
+    },
+    {
+      "sentence": "It took three phone calls to cajole the landlord into repainting the stairwell before the inspection.",
+      "answerChoices": [
+        { "distractor": "charm", "closeness": 3, "reasoning": "Charm works through personal appeal in someone's presence, which sits oddly with three separate phone calls about a stairwell." },
+        { "distractor": "flatter", "closeness": 3, "reasoning": "Flattery is praise laid on for effect, but the calls plainly concern a repair deadline rather than the landlord's virtues." },
+        { "distractor": "nag", "closeness": 3, "reasoning": "Nagging is pure repetition and irritation, whereas the phrase 'it took three calls' implies coaxing that eventually brought him around rather than sheer persistence." },
+        { "distractor": "pester", "closeness": 3, "reasoning": "Pestering describes annoying someone without regard to whether it works, and here the calls succeeded in getting the stairwell painted." },
+        { "distractor": "shame", "closeness": 2, "reasoning": "Shaming would require pointing to some disgrace, and the sentence mentions only an upcoming inspection." },
+        { "distractor": "hound", "closeness": 2, "reasoning": "Hounding suggests relentless pursuit, but three calls over one repair is modest." },
+        { "distractor": "harass", "closeness": 2, "reasoning": "Harassment implies wrongful persistence, while contacting a landlord about a needed repair is ordinary." },
+        { "distractor": "remind", "closeness": 2, "reasoning": "Reminding assumes he had already agreed and forgotten, but the effort described suggests he had to be brought round." },
+        { "distractor": "order", "closeness": 1, "reasoning": "A tenant cannot issue commands to a landlord, which is why repeated calls were needed." },
+        { "distractor": "sue", "closeness": 1, "reasoning": "Litigation is not conducted in three phone calls before an inspection." },
+        { "distractor": "thank", "closeness": 1, "reasoning": "Gratitude would come after the painting, not be the thing that produced it." }
+      ]
+    },
+    {
+      "sentence": "No amount of cajoling could get the toddler to put on her shoes.",
+      "answerChoices": [
+        { "distractor": "pleading", "closeness": 3, "reasoning": "Pleading is desperate appeal from below, while the sentence's 'no amount of' suggests sustained sweet-talking aimed at winning a small child over." },
+        { "distractor": "bargaining", "closeness": 3, "reasoning": "Bargaining requires terms and a trade, but a toddler refusing shoes is being worked on with charm rather than offered a deal." },
+        { "distractor": "sweet-talking", "closeness": 3, "reasoning": "This captures the flattery involved but is too informal for the balanced construction the sentence uses." },
+        { "distractor": "entreating", "closeness": 3, "reasoning": "Entreaty is earnest, dignified supplication, at odds with the wheedling tone adults adopt with a stubborn small child." },
+        { "distractor": "reasoning", "closeness": 2, "reasoning": "Argument presupposes someone who weighs reasons, which a toddler refusing shoes conspicuously does not." },
+        { "distractor": "negotiating", "closeness": 2, "reasoning": "Negotiation implies a counterparty with terms to offer, and the child simply refuses." },
+        { "distractor": "distracting", "closeness": 2, "reasoning": "Distraction diverts attention elsewhere rather than working on the child to cooperate." },
+        { "distractor": "scolding", "closeness": 2, "reasoning": "Scolding is harsh reproof, the opposite of the coaxing approach implied by measuring it in amounts." },
+        { "distractor": "sleeping", "closeness": 1, "reasoning": "Rest is irrelevant to a standoff over footwear." },
+        { "distractor": "applauding", "closeness": 1, "reasoning": "Praise for something not yet done would not be measured in amounts spent on the shoes." },
+        { "distractor": "apologizing", "closeness": 1, "reasoning": "The adult has nothing to be sorry for in a dispute about putting shoes on." }
+      ]
+    }
+  ]
+}

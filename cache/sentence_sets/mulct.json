@@ -1,0 +1,53 @@
+{
+  "word": "mulct",
+  "sentenceSets": [
+    {
+      "sentence": "The fee structure mulcted those least equipped to resist it, a design that could not have been accidental.",
+      "answerChoices": [
+        { "distractor": "burdened", "closeness": 3, "reasoning": "A burden is a weight borne, but the sentence describes a fee structure, which takes money from people rather than merely weighing on them, and the deliberate design points to extraction." },
+        { "distractor": "penalized", "closeness": 3, "reasoning": "A penalty is imposed for a wrong committed, whereas the people described are singled out for their inability to resist rather than for anything they did." },
+        { "distractor": "taxed", "closeness": 3, "reasoning": "A tax is a levy imposed by public authority for public purposes, but the sentence describes a private fee structure aimed at those who could not push back." },
+        { "distractor": "exploited", "closeness": 3, "reasoning": "Exploitation covers any unfair use of another's labour or position, while the instrument here is specifically a schedule of fees, which extracts sums of money." },
+        { "distractor": "alienated", "closeness": 2, "reasoning": "Alienating drives people away, but a fee structure aimed at those who cannot resist keeps them paying rather than losing them." },
+        { "distractor": "confused", "closeness": 2, "reasoning": "Confusing people is a matter of comprehension, and the sentence's charge concerns who bore the cost, not who understood the terms." },
+        { "distractor": "excluded", "closeness": 2, "reasoning": "Exclusion keeps people out altogether, whereas the fees fall on those who remain inside the arrangement and pay." },
+        { "distractor": "audited", "closeness": 2, "reasoning": "Auditing examines records, and a fee structure charges money rather than inspecting anyone's books." },
+        { "distractor": "reimbursed", "closeness": 1, "reasoning": "Reimbursement returns money, the opposite of a design that took it from those least able to object." },
+        { "distractor": "exempted", "closeness": 1, "reasoning": "Exempting relieves people of a charge, which contradicts a structure deliberately aimed at them." },
+        { "distractor": "entertained", "closeness": 1, "reasoning": "Entertaining amuses people and cannot be what a fee structure does to those who pay it." }
+      ]
+    },
+    {
+      "sentence": "The magistrate imposed a mulct of forty shillings on every household that had failed to send a man to the muster.",
+      "answerChoices": [
+        { "distractor": "levy", "closeness": 3, "reasoning": "A levy is a charge collected from everyone within a class as a matter of ordinary revenue, but this sum falls only on households that failed a duty, which makes it a punishment." },
+        { "distractor": "tithe", "closeness": 3, "reasoning": "A tithe is a fixed proportion of produce or income owed regularly to the church, whereas this is a set sum imposed for a specific failure." },
+        { "distractor": "tariff", "closeness": 3, "reasoning": "A tariff is a duty charged on goods crossing a border, which has nothing to do with households that did not supply a man for the muster." },
+        { "distractor": "surcharge", "closeness": 3, "reasoning": "A surcharge is an extra amount added to an existing bill, but nothing here suggests these households already owed something to which forty shillings was appended." },
+        { "distractor": "stipend", "closeness": 2, "reasoning": "A stipend is a payment made to someone, and the magistrate is taking money from these households rather than paying them." },
+        { "distractor": "bequest", "closeness": 2, "reasoning": "A bequest is property left by will, which a magistrate could not impose on anyone." },
+        { "distractor": "subsidy", "closeness": 2, "reasoning": "A subsidy is money granted in support, the reverse of a sum demanded from those who failed to appear." },
+        { "distractor": "audit", "closeness": 2, "reasoning": "An audit is an inspection of accounts and would not be measured in forty shillings per household." },
+        { "distractor": "pardon", "closeness": 1, "reasoning": "A pardon excuses an offence, contradicting a magistrate exacting something from those who failed their obligation." },
+        { "distractor": "banquet", "closeness": 1, "reasoning": "A banquet is a feast and cannot be imposed on a household in a sum of shillings." },
+        { "distractor": "sermon", "closeness": 1, "reasoning": "A sermon is a religious address, not something a magistrate quantifies at forty shillings." }
+      ]
+    },
+    {
+      "sentence": "Two men in good suits mulcted the widow of her savings with an elaborate story about an account frozen abroad.",
+      "answerChoices": [
+        { "distractor": "robbed", "closeness": 3, "reasoning": "Robbery takes property by force or threat, but these men used a story and good clothes to persuade her to hand the money over." },
+        { "distractor": "relieved", "closeness": 3, "reasoning": "To relieve someone of something is a genteel euphemism for simple theft, whereas the elaborate tale about a frozen account shows she was talked into parting with the money." },
+        { "distractor": "deprived", "closeness": 3, "reasoning": "Depriving someone of a thing states only the loss and says nothing of the trick, while the sentence makes the invented story the whole means." },
+        { "distractor": "extorted", "closeness": 3, "reasoning": "Extortion works by threat and requires the victim to fear something, but this widow was persuaded by a fabricated explanation rather than frightened into paying." },
+        { "distractor": "warned", "closeness": 2, "reasoning": "Warning someone alerts her to a danger, which would have protected the widow's savings instead of removing them." },
+        { "distractor": "advised", "closeness": 2, "reasoning": "Advising offers counsel the recipient may take or leave, and the sentence describes a story told to get her money, not guidance offered for her benefit." },
+        { "distractor": "reminded", "closeness": 2, "reasoning": "Reminding brings something already known back to mind, but the frozen account was an invention she had never heard of." },
+        { "distractor": "insured", "closeness": 2, "reasoning": "Insuring protects savings against loss, the opposite of what happened to hers." },
+        { "distractor": "reimbursed", "closeness": 1, "reasoning": "Reimbursing pays money back, contradicting a widow left without her savings." },
+        { "distractor": "escorted", "closeness": 1, "reasoning": "Escorting accompanies a person somewhere and cannot be done to her savings." },
+        { "distractor": "congratulated", "closeness": 1, "reasoning": "Congratulating offers good wishes and has no connection to a fabricated story that cost her everything." }
+      ]
+    }
+  ]
+}

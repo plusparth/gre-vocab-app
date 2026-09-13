@@ -1,0 +1,53 @@
+{
+  "word": "rend",
+  "sentenceSets": [
+    {
+      "sentence": "The disclosure rent the alliance that had been carefully constructed over years.",
+      "answerChoices": [
+        { "distractor": "tore", "closeness": 3, "reasoning": "Close, but tearing is what happens to cloth or paper, and the sentence applies the damage to a political arrangement built up deliberately over years." },
+        { "distractor": "split", "closeness": 3, "reasoning": "A split can be a clean, orderly parting of ways, whereas the sentence stresses years of careful construction destroyed at a stroke by a disclosure." },
+        { "distractor": "fractured", "closeness": 3, "reasoning": "Fracturing leaves the pieces still recognizably one damaged thing, which understates what a revelation does to something painstakingly assembled from separate parties." },
+        { "distractor": "sundered", "closeness": 3, "reasoning": "Sundering emphasizes the separation of two halves, while the alliance described has many strands built up over years rather than a single seam." },
+        { "distractor": "strained", "closeness": 2, "reasoning": "Strain leaves a relationship intact under pressure, too mild for a disclosure set against years of careful construction." },
+        { "distractor": "weakened", "closeness": 2, "reasoning": "Weakening is gradual and partial, but the sentence presents one disclosure acting decisively on the alliance." },
+        { "distractor": "damaged", "closeness": 2, "reasoning": "Too vague to register the violence implied by an alliance that took years to build coming apart at once." },
+        { "distractor": "unsettled", "closeness": 2, "reasoning": "Unsettling merely disturbs confidence, which does not match the finality the sentence assigns to the disclosure." },
+        { "distractor": "cemented", "closeness": 1, "reasoning": "Strengthening the alliance is the opposite of what a damaging disclosure does." },
+        { "distractor": "healed", "closeness": 1, "reasoning": "Nothing suggests the alliance was broken beforehand and in need of repair." },
+        { "distractor": "honored", "closeness": 1, "reasoning": "Paying respect to the alliance has no connection to the harm the disclosure caused." }
+      ]
+    },
+    {
+      "sentence": "The rescuers used a crowbar to rend the buckled door from its frame.",
+      "answerChoices": [
+        { "distractor": "wrench", "closeness": 3, "reasoning": "A wrench is a hard twisting pull, but the door here is buckled and stuck fast, so what the crowbar accomplishes is a violent tearing away rather than a twist." },
+        { "distractor": "wrest", "closeness": 3, "reasoning": "Wresting usually means seizing something away from someone's grip or control, and no one is holding the door; it is jammed in a deformed frame." },
+        { "distractor": "pry", "closeness": 3, "reasoning": "Prying is the patient leverage a crowbar offers, whereas removing a buckled door from its frame is a matter of forcing it free by main strength." },
+        { "distractor": "lever", "closeness": 3, "reasoning": "Levering names the mechanical action of the tool rather than the destructive result of pulling a warped door out of the surround holding it." },
+        { "distractor": "lift", "closeness": 2, "reasoning": "Lifting implies the door came away freely, which the word 'buckled' rules out." },
+        { "distractor": "force", "closeness": 2, "reasoning": "Forcing a door usually means getting it open, not separating it from the frame entirely as the phrase 'from its frame' specifies." },
+        { "distractor": "twist", "closeness": 2, "reasoning": "Twisting would not detach anything, and the door is already warped out of shape." },
+        { "distractor": "hammer", "closeness": 2, "reasoning": "Hammering drives something inward, whereas the crowbar is being used to pull the door away." },
+        { "distractor": "paint", "closeness": 1, "reasoning": "No crowbar is needed to paint, and the phrase 'from its frame' calls for removal." },
+        { "distractor": "install", "closeness": 1, "reasoning": "Putting the door in place contradicts taking it out of the frame." },
+        { "distractor": "polish", "closeness": 1, "reasoning": "Cleaning a surface has nothing to do with rescuers and a crowbar." }
+      ]
+    },
+    {
+      "sentence": "A single scream rent the stillness of the hospital corridor at three in the morning.",
+      "answerChoices": [
+        { "distractor": "pierced", "closeness": 3, "reasoning": "Piercing suggests a thin sound passing through the quiet and leaving it otherwise intact, while the sentence sets one scream against a stillness it destroys." },
+        { "distractor": "shattered", "closeness": 3, "reasoning": "Shattering scatters something into many fragments, whereas the image here is of quiet being torn open by a single cry." },
+        { "distractor": "ruptured", "closeness": 3, "reasoning": "Rupture belongs to pipes and tissue bursting from internal pressure, but the scream comes from outside the silence it breaks." },
+        { "distractor": "cleaved", "closeness": 3, "reasoning": "Cleaving implies a clean division into two parts, at odds with the ragged effect of a scream in an empty corridor." },
+        { "distractor": "broke", "closeness": 2, "reasoning": "Breaking a silence is the ordinary phrase for any noise at all, too flat for a scream at three in the morning." },
+        { "distractor": "disturbed", "closeness": 2, "reasoning": "Disturbing implies mild interference, which understates what a scream does to a sleeping ward." },
+        { "distractor": "filled", "closeness": 2, "reasoning": "Filling the stillness suggests sound spreading gently through it rather than a single cry tearing it apart." },
+        { "distractor": "interrupted", "closeness": 2, "reasoning": "An interruption is temporary and orderly, missing the violence of the scene." },
+        { "distractor": "soothed", "closeness": 1, "reasoning": "A scream cannot calm the corridor it rings through." },
+        { "distractor": "deepened", "closeness": 1, "reasoning": "Loud noise cannot make a stillness more profound." },
+        { "distractor": "preserved", "closeness": 1, "reasoning": "Keeping the quiet intact contradicts the arrival of a scream." }
+      ]
+    }
+  ]
+}

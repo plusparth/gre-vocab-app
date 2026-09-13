@@ -1,0 +1,53 @@
+{
+  "word": "pursuant",
+  "sentenceSets": [
+    {
+      "sentence": "Pursuant to the agreement, both parties submitted their documentation within thirty days.",
+      "answerChoices": [
+        { "distractor": "Subsequent", "closeness": 3, "reasoning": "'Subsequent to the agreement' would say only that the filings came afterward in time, but the thirty-day deadline is plainly a term the agreement itself fixed." },
+        { "distractor": "Incident", "closeness": 3, "reasoning": "'Incident to' marks something that merely accompanies an arrangement, while filing on a set schedule is what the arrangement demanded of both sides." },
+        { "distractor": "Consequent", "closeness": 3, "reasoning": "'Consequent to' presents the filings as an effect that happened to follow, whereas the parties acted in order to satisfy a term binding on them." },
+        { "distractor": "Relative", "closeness": 3, "reasoning": "'Relative to the agreement' would set up a comparison, but the sentence reports performance of an obligation rather than a measurement against one." },
+        { "distractor": "Prior", "closeness": 2, "reasoning": "'Prior to' would place the filings before the agreement existed, though the thirty-day clock only starts once it is in force." },
+        { "distractor": "Owing", "closeness": 2, "reasoning": "'Owing to' assigns a cause, while the sentence's point is that each side did what the arrangement called for." },
+        { "distractor": "Adjacent", "closeness": 2, "reasoning": "'Adjacent to' describes physical nearness, which cannot relate documents to an agreement." },
+        { "distractor": "Preliminary", "closeness": 2, "reasoning": "'Preliminary to' would make the filings a step toward the agreement, yet the agreement is already in place and setting the deadline." },
+        { "distractor": "Contrary", "closeness": 1, "reasoning": "'Contrary to the agreement' would mean the parties breached it, but they filed inside the thirty days." },
+        { "distractor": "Oblivious", "closeness": 1, "reasoning": "'Oblivious to' would mean the parties did not know of the agreement, which cannot be squared with meeting its deadline." },
+        { "distractor": "Indifferent", "closeness": 1, "reasoning": "'Indifferent to' implies they disregarded the agreement, yet both complied on time." }
+      ]
+    },
+    {
+      "sentence": "The inspector entered the warehouse pursuant to a warrant issued that morning.",
+      "answerChoices": [
+        { "distractor": "subject", "closeness": 3, "reasoning": "'Subject to a warrant' would make the inspector the one constrained by it, but here the warrant is what let him through the door." },
+        { "distractor": "incidental", "closeness": 3, "reasoning": "'Incidental to' would make the entry a side effect of the warrant, whereas entering is the very thing the warrant existed to permit." },
+        { "distractor": "preparatory", "closeness": 3, "reasoning": "'Preparatory to' would place the entry before the warrant's purpose came into play, yet the warrant was already in hand when he went in." },
+        { "distractor": "ancillary", "closeness": 3, "reasoning": "'Ancillary to' makes the entry a supporting side matter, while the warrant is what made that entry lawful in the first place." },
+        { "distractor": "privy", "closeness": 2, "reasoning": "'Privy to' means being in on something confidential, but a warrant is an instrument he executed rather than a secret he shared." },
+        { "distractor": "alert", "closeness": 2, "reasoning": "'Alert to' describes noticing something, and the inspector did far more than notice the warrant." },
+        { "distractor": "anterior", "closeness": 2, "reasoning": "'Anterior to' puts the entry before the warrant, though the sentence dates the warrant to that same morning as the basis for going in." },
+        { "distractor": "analogous", "closeness": 2, "reasoning": "'Analogous to' draws a likeness, while the sentence ties the entry to the warrant as its authority, not as its parallel." },
+        { "distractor": "opposed", "closeness": 1, "reasoning": "'Opposed to a warrant' would mean he defied it, but the warrant is what enabled his entry." },
+        { "distractor": "deaf", "closeness": 1, "reasoning": "'Deaf to' means paying no heed, contradicting an entry made on the warrant's strength." },
+        { "distractor": "hostile", "closeness": 1, "reasoning": "'Hostile to the warrant' cannot describe an inspector who relied on it to get inside." }
+      ]
+    },
+    {
+      "sentence": "Pursuant to Rule 14, the treasurer must publish the accounts before the annual meeting, and no board vote can waive that.",
+      "answerChoices": [
+        { "distractor": "Subordinate", "closeness": 3, "reasoning": "'Subordinate to Rule 14' would rank the duty beneath the rule, whereas the sentence presents the duty as the thing the rule imposes." },
+        { "distractor": "Tantamount", "closeness": 3, "reasoning": "'Tantamount to Rule 14' equates the publication with the rule itself, but the sentence keeps them distinct: the rule commands and the treasurer performs." },
+        { "distractor": "Secondary", "closeness": 3, "reasoning": "'Secondary to' implies something else takes precedence, yet the sentence says not even a board vote can displace this requirement." },
+        { "distractor": "Prefatory", "closeness": 3, "reasoning": "'Prefatory to Rule 14' would make the publication an introduction to the rule, though it is the rule that demands the publication." },
+        { "distractor": "Similar", "closeness": 2, "reasoning": "'Similar to Rule 14' compares the duty to the rule, while the sentence has the rule creating the duty." },
+        { "distractor": "Equal", "closeness": 2, "reasoning": "'Equal to Rule 14' measures one thing against another, which does nothing to explain why a board vote cannot set the duty aside." },
+        { "distractor": "Proportional", "closeness": 2, "reasoning": "'Proportional to' implies a quantity that scales, but a publication deadline is either met or missed." },
+        { "distractor": "Posterior", "closeness": 2, "reasoning": "'Posterior to Rule 14' would merely place the duty later in time, leaving its unwaivable force unaccounted for." },
+        { "distractor": "Averse", "closeness": 1, "reasoning": "'Averse to Rule 14' would report the treasurer's dislike, while the sentence states an obligation flatly." },
+        { "distractor": "Blind", "closeness": 1, "reasoning": "'Blind to Rule 14' would mean the rule is being ignored, but it is being enforced against every attempt to waive it." },
+        { "distractor": "Immune", "closeness": 1, "reasoning": "'Immune to Rule 14' would exempt the treasurer, which the sentence expressly denies." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "pundit",
+  "sentenceSets": [
+    {
+      "sentence": "Every pundit who had predicted the outcome was cited by those who had agreed with him and ignored by those who had not.",
+      "answerChoices": [
+        { "distractor": "forecaster", "closeness": 3, "reasoning": "A forecaster's work is checked against what happens, but these figures are quoted or buried according to whether the reader already agreed, which is the fate of a public opinion-giver." },
+        { "distractor": "analyst", "closeness": 3, "reasoning": "An analyst produces findings for a client or a firm, while these people are traded back and forth in open argument." },
+        { "distractor": "oracle", "closeness": 3, "reasoning": "An oracle is treated as authoritative by everyone who consults it, yet these predictions were embraced only by the already convinced." },
+        { "distractor": "journalist", "closeness": 3, "reasoning": "A journalist reports what has happened, whereas these figures had committed themselves in advance to how things would turn out." },
+        { "distractor": "gambler", "closeness": 2, "reasoning": "A gambler stakes money on a result, but nothing here is wagered; the predictions were made publicly to be quoted." },
+        { "distractor": "statistician", "closeness": 2, "reasoning": "A statistician's claims are tested against data, while these were sorted by whether people liked them." },
+        { "distractor": "witness", "closeness": 2, "reasoning": "A witness reports what occurred, and these people spoke before the outcome was known." },
+        { "distractor": "candidate", "closeness": 2, "reasoning": "A candidate is a subject of such predictions rather than their author." },
+        { "distractor": "novice", "closeness": 1, "reasoning": "A beginner's predictions would not be worth citing on either side." },
+        { "distractor": "recluse", "closeness": 1, "reasoning": "Someone withdrawn from public life would have no predictions circulating in argument." },
+        { "distractor": "spectator", "closeness": 1, "reasoning": "A spectator offers no prediction to be cited or ignored." }
+      ]
+    },
+    {
+      "sentence": "The village pundit could recite the whole commentary from memory, and disputes over ritual were brought to his door rather than to the temple.",
+      "answerChoices": [
+        { "distractor": "priest", "closeness": 3, "reasoning": "The temple is named as the alternative the villagers passed over, so the man they consult is not its officiant." },
+        { "distractor": "scribe", "closeness": 3, "reasoning": "A scribe copies texts onto the page, but this man carries the commentary in his head and settles arguments out of it." },
+        { "distractor": "elder", "closeness": 3, "reasoning": "An elder is heeded for age and standing, whereas people come to this door for his command of the commentary." },
+        { "distractor": "arbiter", "closeness": 3, "reasoning": "An arbiter is appointed to decide disputes, while these are brought to him informally because of what he knows." },
+        { "distractor": "magistrate", "closeness": 2, "reasoning": "A magistrate rules by state authority, and these are ritual quarrels carried to a private door." },
+        { "distractor": "mystic", "closeness": 2, "reasoning": "A mystic claims direct visionary access, but this man's standing rests on a text he has memorized." },
+        { "distractor": "teacher", "closeness": 2, "reasoning": "Teaching passes knowledge to pupils, and the villagers arrive with quarrels rather than lessons." },
+        { "distractor": "chronicler", "closeness": 2, "reasoning": "A chronicler records past events, whereas the commentary he knows governs how rituals are to be performed." },
+        { "distractor": "apprentice", "closeness": 1, "reasoning": "Someone still learning would not be the person disputes are brought to." },
+        { "distractor": "heretic", "closeness": 1, "reasoning": "A man who rejected the tradition would not be trusted to settle questions of ritual." },
+        { "distractor": "vagrant", "closeness": 1, "reasoning": "A wanderer with no place in the village would have no door for disputes to be brought to." }
+      ]
+    },
+    {
+      "sentence": "By eight o'clock the network had four pundits arguing on a split screen, none of whom had been within a thousand miles of the vote count.",
+      "answerChoices": [
+        { "distractor": "correspondents", "closeness": 3, "reasoning": "Correspondents are posted where the story is, and the sentence stresses that none of these four were anywhere near it." },
+        { "distractor": "anchors", "closeness": 3, "reasoning": "An anchor presents the broadcast and hands off to others, whereas these four are the ones arguing with each other." },
+        { "distractor": "officials", "closeness": 3, "reasoning": "An official would have some part in the count itself, but these people are a thousand miles away from it." },
+        { "distractor": "moderators", "closeness": 3, "reasoning": "A moderator keeps an argument orderly rather than joining it, and all four here are arguing." },
+        { "distractor": "auditors", "closeness": 2, "reasoning": "Auditing a tally requires being where the ballots are, which is precisely where these four were not." },
+        { "distractor": "researchers", "closeness": 2, "reasoning": "Research happens before the broadcast and off camera, while these four are on screen trading opinions." },
+        { "distractor": "activists", "closeness": 2, "reasoning": "Activists campaign for a cause, and nothing here suggests they want anything beyond airtime." },
+        { "distractor": "editors", "closeness": 2, "reasoning": "Editors shape coverage behind the scenes rather than appearing on a split screen at eight o'clock." },
+        { "distractor": "clerks", "closeness": 1, "reasoning": "The clerks handle ballots at the count, which is where the sentence says none of these people were." },
+        { "distractor": "technicians", "closeness": 1, "reasoning": "Technicians run the split screen instead of arguing on it." },
+        { "distractor": "viewers", "closeness": 1, "reasoning": "Viewers watch the argument rather than being the four people conducting it." }
+      ]
+    }
+  ]
+}

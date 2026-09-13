@@ -1,0 +1,53 @@
+{
+  "word": "melee",
+  "sentenceSets": [
+    {
+      "sentence": "What had begun as a structured debate descended into a melee of competing claims that the moderator struggled to untangle.",
+      "answerChoices": [
+        { "distractor": "welter", "closeness": 3, "reasoning": "A welter is a disordered mass of things heaped together, but the sentence describes claims actively contending against one another, which is a struggle rather than a pile." },
+        { "distractor": "cacophony", "closeness": 3, "reasoning": "A cacophony is unpleasant noise, a matter of sound, whereas the moderator's difficulty is with the substance of claims that have to be untangled from one another." },
+        { "distractor": "morass", "closeness": 3, "reasoning": "A morass is a bog that swallows and immobilizes, suggesting stagnation, while the sentence's claims are in active competition after a debate broke down." },
+        { "distractor": "tangle", "closeness": 3, "reasoning": "The untangling is already named as the moderator's task, so the word would restate the remedy rather than describe the disorderly contest that produced it." },
+        { "distractor": "consensus", "closeness": 2, "reasoning": "A consensus is agreement reached, the opposite of what happens when a structured debate breaks down into competing claims." },
+        { "distractor": "recess", "closeness": 2, "reasoning": "A recess is a scheduled break in proceedings, which would give the moderator relief rather than something to struggle with." },
+        { "distractor": "colloquy", "closeness": 2, "reasoning": "A colloquy is an orderly formal conversation, precisely the condition the debate is said to have descended from." },
+        { "distractor": "digression", "closeness": 2, "reasoning": "A digression is a single wandering from the subject, too tidy and too singular for the mass of competing claims described." },
+        { "distractor": "armistice", "closeness": 1, "reasoning": "An armistice is a cessation of hostilities, the reverse of a debate collapsing into contention." },
+        { "distractor": "solitude", "closeness": 1, "reasoning": "Solitude is the state of being alone, impossible in a scene of many voices making competing claims." },
+        { "distractor": "syllabus", "closeness": 1, "reasoning": "A syllabus is an outline of a course of study and has nothing to do with a debate breaking down." }
+      ]
+    },
+    {
+      "sentence": "A shove near the barricade set off a melee, and within a minute nobody in the square could have said who was fighting whom.",
+      "answerChoices": [
+        { "distractor": "skirmish", "closeness": 3, "reasoning": "A skirmish is a brief clash between identifiable sides, which contradicts a scene where no one could tell who was fighting whom." },
+        { "distractor": "duel", "closeness": 3, "reasoning": "A duel is a formal fight between two opponents under agreed rules, incompatible with a square full of people whose alignments have dissolved." },
+        { "distractor": "riot", "closeness": 3, "reasoning": "A riot implies a crowd turned violently against property or authority, but the sentence describes people fighting one another indiscriminately after a single shove." },
+        { "distractor": "stampede", "closeness": 3, "reasoning": "A stampede is a panicked rush of people all moving the same way, whereas here they are fighting each other rather than fleeing together." },
+        { "distractor": "parade", "closeness": 2, "reasoning": "A parade is an organized procession, which could not be touched off by a shove or leave anyone confused about who was fighting." },
+        { "distractor": "standoff", "closeness": 2, "reasoning": "A standoff is a tense pause in which neither side moves, the opposite of a minute of indiscriminate fighting." },
+        { "distractor": "siege", "closeness": 2, "reasoning": "A siege is a prolonged encirclement of a fortified place, not something that erupts in seconds from a shove in a square." },
+        { "distractor": "procession", "closeness": 2, "reasoning": "A procession moves in orderly file, which cannot describe a crowd in which combatants are indistinguishable." },
+        { "distractor": "truce", "closeness": 1, "reasoning": "A truce suspends fighting, contradicting a shove that started it." },
+        { "distractor": "lullaby", "closeness": 1, "reasoning": "A lullaby is a soothing song and cannot be set off by a shove at a barricade." },
+        { "distractor": "banquet", "closeness": 1, "reasoning": "A banquet is a formal feast, which has no place in a square where people are fighting indiscriminately." }
+      ]
+    },
+    {
+      "sentence": "In the melee in front of the goal, three players went down and the referee admitted afterward that he had no idea who had touched the ball last.",
+      "answerChoices": [
+        { "distractor": "scrum", "closeness": 3, "reasoning": "A scrum is a formation set deliberately by the rules of rugby, whereas the sentence describes an accidental pileup in front of a goal that left the referee unable to follow the play." },
+        { "distractor": "collision", "closeness": 3, "reasoning": "A collision involves two bodies striking each other in a moment, too simple an event to leave three players down and the referee unable to reconstruct what happened." },
+        { "distractor": "rally", "closeness": 3, "reasoning": "A rally is a sustained exchange of play or a surge of scoring, which describes momentum rather than the confused physical pileup the sentence reports." },
+        { "distractor": "altercation", "closeness": 3, "reasoning": "An altercation is a heated dispute between parties who know exactly whom they are quarrelling with, unlike a mass in front of the goal that even the referee could not sort out." },
+        { "distractor": "timeout", "closeness": 2, "reasoning": "A timeout is a called stoppage, but the events described are happening in live play in front of the goal." },
+        { "distractor": "penalty", "closeness": 2, "reasoning": "A penalty is the sanction awarded afterward, not the confused physical event during which the referee lost track of the ball." },
+        { "distractor": "formation", "closeness": 2, "reasoning": "A formation is a planned arrangement of players, which would not leave three of them on the ground and the ball's last touch unknown." },
+        { "distractor": "substitution", "closeness": 2, "reasoning": "A substitution swaps one player for another at a stoppage, an orderly procedure unrelated to a pileup at the goalmouth." },
+        { "distractor": "anthem", "closeness": 1, "reasoning": "An anthem is sung before play begins and could not occur in front of the goal during a passage of action." },
+        { "distractor": "interview", "closeness": 1, "reasoning": "An interview is a conversation held off the field, not the incident that put three players on the ground." },
+        { "distractor": "trophy", "closeness": 1, "reasoning": "A trophy is an award presented after a competition and cannot be the thing happening in front of the goal." }
+      ]
+    }
+  ]
+}

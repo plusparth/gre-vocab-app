@@ -1,0 +1,53 @@
+{
+  "word": "entitlement",
+  "sentenceSets": [
+    {
+      "sentence": "Her sense of entitlement made it difficult for her to accept feedback that applied to everyone at her level.",
+      "answerChoices": [
+        { "distractor": "superiority", "closeness": 3, "reasoning": "A sense of superiority is a claim to be better than others, but her difficulty is with rules and comments meant for everyone at her level, which is a claim to exemption rather than to excellence." },
+        { "distractor": "pride", "closeness": 3, "reasoning": "Pride would make criticism sting, yet the sentence pins her resistance on the feedback's applying generally, which implies she thinks the general case should not reach her." },
+        { "distractor": "vanity", "closeness": 3, "reasoning": "Vanity concerns wanting to be admired, while her objection is to being included in a category with her peers." },
+        { "distractor": "grievance", "closeness": 3, "reasoning": "A grievance is a complaint about being wronged, and the sentence describes her rejecting ordinary feedback rather than alleging any injury." },
+        { "distractor": "insecurity", "closeness": 2, "reasoning": "Insecurity would make her fear the feedback was true, whereas the sentence suggests she resists its applying to her in the first place." },
+        { "distractor": "ambition", "closeness": 2, "reasoning": "Ambition would give her reason to absorb advice about her level in order to leave it." },
+        { "distractor": "stubbornness", "closeness": 2, "reasoning": "Stubbornness resists everything equally, while the sentence specifies the trigger as feedback aimed at her whole cohort." },
+        { "distractor": "detachment", "closeness": 2, "reasoning": "Detachment would leave her indifferent to the feedback rather than finding it difficult to accept." },
+        { "distractor": "humility", "closeness": 1, "reasoning": "Humility would make general feedback easy to take, the reverse of what the sentence reports." },
+        { "distractor": "gratitude", "closeness": 1, "reasoning": "Gratitude has no role in a sentence about resisting criticism directed at an entire peer group." },
+        { "distractor": "deference", "closeness": 1, "reasoning": "Deference means yielding to others' judgment, contradicting her difficulty in accepting it." }
+      ]
+    },
+    {
+      "sentence": "The statute created an entitlement, so the agency lost the discretion it had once exercised over who received the payments.",
+      "answerChoices": [
+        { "distractor": "obligation", "closeness": 3, "reasoning": "An obligation names what the agency must do, but the sentence turns on the claim the statute gave applicants, which is why the agency can no longer pick among them." },
+        { "distractor": "allowance", "closeness": 3, "reasoning": "An allowance is a sum granted, and the sentence's point is not the size of the payments but the legal footing that removed the agency's power to withhold them." },
+        { "distractor": "subsidy", "closeness": 3, "reasoning": "A subsidy describes money paid to support an activity, which would be equally compatible with the discretionary regime the statute replaced." },
+        { "distractor": "mandate", "closeness": 3, "reasoning": "A mandate is an instruction to the agency, whereas the loss of discretion described follows from the recipients' having a claim they can assert." },
+        { "distractor": "program", "closeness": 2, "reasoning": "A program is an administrative structure, and the agency had run programs before while keeping its discretion." },
+        { "distractor": "exemption", "closeness": 2, "reasoning": "An exemption relieves someone of a duty, while the sentence concerns who is guaranteed to receive payments." },
+        { "distractor": "precedent", "closeness": 2, "reasoning": "Precedent arises from decided cases, but the sentence attributes the change to the statute itself." },
+        { "distractor": "loophole", "closeness": 2, "reasoning": "A loophole is an unintended gap, and the sentence describes a deliberate statutory change that stripped the agency of choice." },
+        { "distractor": "prohibition", "closeness": 1, "reasoning": "A prohibition forbids conduct rather than guaranteeing payments to applicants." },
+        { "distractor": "penalty", "closeness": 1, "reasoning": "A penalty is a sanction, which cannot be what the payments' recipients gained." },
+        { "distractor": "vacancy", "closeness": 1, "reasoning": "A vacancy is an unfilled position and has nothing to do with the agency's control over payments." }
+      ]
+    },
+    {
+      "sentence": "Long tenure had bred in the department an entitlement to the corner offices that no one could point to a rule for.",
+      "answerChoices": [
+        { "distractor": "custom", "closeness": 3, "reasoning": "A custom is simply what has been done, but the sentence describes the department treating the offices as owed to it, which is a claim rather than a practice." },
+        { "distractor": "preference", "closeness": 3, "reasoning": "A preference is what the department would like, whereas the clause about no rule existing shows it believed the offices were its due." },
+        { "distractor": "reputation", "closeness": 3, "reasoning": "Reputation concerns how others regard the department, not what it takes itself to be owed in floor space." },
+        { "distractor": "prerogative", "closeness": 3, "reasoning": "A prerogative is a recognized privilege attached to an office, and the sentence stresses that nobody could produce a rule conferring anything." },
+        { "distractor": "attachment", "closeness": 2, "reasoning": "Attachment is fondness for the offices, which would not need a rule and so would not raise the question the sentence poses." },
+        { "distractor": "seniority", "closeness": 2, "reasoning": "Seniority is the tenure itself, named earlier in the sentence as the cause rather than the thing bred." },
+        { "distractor": "nostalgia", "closeness": 2, "reasoning": "Nostalgia looks back at the past rather than laying claim to present accommodations." },
+        { "distractor": "efficiency", "closeness": 2, "reasoning": "Efficiency would be an argument for a particular allocation, and the sentence says no justification could be produced at all." },
+        { "distractor": "indifference", "closeness": 1, "reasoning": "Indifference to the corner offices contradicts a department that treats them as its own." },
+        { "distractor": "prohibition", "closeness": 1, "reasoning": "A prohibition against the offices reverses the sense of a department claiming them." },
+        { "distractor": "apology", "closeness": 1, "reasoning": "An apology has no place in a description of an unwritten claim to prime workspace." }
+      ]
+    }
+  ]
+}

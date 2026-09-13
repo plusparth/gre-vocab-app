@@ -1,0 +1,53 @@
+{
+  "word": "matriarch",
+  "sentenceSets": [
+    {
+      "sentence": "The matriarch of the organization had shaped its culture so thoroughly that her preferences continued to influence decisions long after her departure.",
+      "answerChoices": [
+        { "distractor": "founder", "closeness": 3, "reasoning": "A founder is the person who established the organization, a fact about its origin, while the sentence says nothing about who started it and everything about who dominated its life until she left." },
+        { "distractor": "figurehead", "closeness": 3, "reasoning": "A figurehead holds a title without real authority, which contradicts a person whose preferences still govern decisions years after she is gone." },
+        { "distractor": "doyenne", "closeness": 3, "reasoning": "A doyenne is the most senior and respected member of a field, honored for long standing rather than for the ruling authority the sentence attributes to her over the organization's culture." },
+        { "distractor": "benefactress", "closeness": 3, "reasoning": "A benefactress gives money or support, but the sentence credits her with shaping culture and directing decisions rather than with funding anything." },
+        { "distractor": "chairwoman", "closeness": 2, "reasoning": "A chairwoman holds a defined term of office that ends when she leaves, which sits badly with an influence the sentence says outlived her departure." },
+        { "distractor": "steward", "closeness": 2, "reasoning": "A steward manages something on another's behalf and defers to the owner's wishes, whereas here it is her own preferences that everyone continues to follow." },
+        { "distractor": "apprentice", "closeness": 2, "reasoning": "An apprentice is learning under someone else's direction, the reverse of a person whose taste became the organization's culture." },
+        { "distractor": "custodian", "closeness": 2, "reasoning": "A custodian preserves what already exists, but the sentence says she shaped the culture rather than merely kept it intact." },
+        { "distractor": "novice", "closeness": 1, "reasoning": "A novice is a beginner with no standing at all, which cannot describe someone whose preferences still steer the organization." },
+        { "distractor": "detractor", "closeness": 1, "reasoning": "A detractor disparages the organization from outside its life, not someone who defined its culture from within." },
+        { "distractor": "spectator", "closeness": 1, "reasoning": "A spectator only watches, contradicting a figure whose influence pervaded the organization's decisions." }
+      ]
+    },
+    {
+      "sentence": "Every Sunday the family gathered at the house of its matriarch, who settled quarrels, arranged marriages, and decided which grievances were worth remembering.",
+      "answerChoices": [
+        { "distractor": "elder", "closeness": 3, "reasoning": "An elder is respected for age and consulted for counsel, but the sentence shows a woman issuing decisions on quarrels and marriages rather than offering advice others may weigh." },
+        { "distractor": "arbiter", "closeness": 3, "reasoning": "An arbiter is called in to judge a particular dispute, whereas this woman's authority is continuous and domestic, extending to marriages and the family's very memory." },
+        { "distractor": "hostess", "closeness": 3, "reasoning": "A hostess receives guests in her home, and while the family does gather at her house, hospitality does not explain her power to arrange marriages and settle quarrels." },
+        { "distractor": "grandmother", "closeness": 3, "reasoning": "Grandmother states a relation of blood and generation only, saying nothing about the governing role over the whole family that the listed powers describe." },
+        { "distractor": "chaperone", "closeness": 2, "reasoning": "A chaperone supervises the conduct of young people on particular occasions, a narrow duty next to deciding marriages and adjudicating family disputes." },
+        { "distractor": "confidante", "closeness": 2, "reasoning": "A confidante receives secrets and keeps them, a passive role that cannot account for the decisions she hands down each Sunday." },
+        { "distractor": "executrix", "closeness": 2, "reasoning": "An executrix administers a dead person's estate under a will, but this woman is alive and presiding over the living family week after week." },
+        { "distractor": "spinster", "closeness": 2, "reasoning": "A spinster is simply an unmarried woman, a marital status that says nothing about the authority the sentence describes." },
+        { "distractor": "usher", "closeness": 1, "reasoning": "An usher shows people to their seats, a functionary's task unrelated to arranging marriages or ruling on grievances." },
+        { "distractor": "tenant", "closeness": 1, "reasoning": "A tenant rents a dwelling from someone else, which conveys no authority over anyone who visits it." },
+        { "distractor": "orphan", "closeness": 1, "reasoning": "An orphan is a child without parents, the opposite of a woman at the head of an extended family." }
+      ]
+    },
+    {
+      "sentence": "Researchers tracked the herd for a decade and found that when the oldest matriarch died, the younger females led the group to dry watering holes for two seasons.",
+      "answerChoices": [
+        { "distractor": "sentinel", "closeness": 3, "reasoning": "A sentinel watches for danger and raises the alarm, but what the herd loses when she dies is knowledge of where water can be found." },
+        { "distractor": "scout", "closeness": 3, "reasoning": "A scout ranges ahead to survey unfamiliar ground, whereas the sentence implies the dead animal carried remembered routes the younger females had not learned." },
+        { "distractor": "alpha", "closeness": 3, "reasoning": "An alpha holds rank by winning dominance contests, but the loss described is practical rather than hierarchical, since the herd still had leaders and only lacked her memory of the watering holes." },
+        { "distractor": "progenitor", "closeness": 3, "reasoning": "A progenitor is an ancestor from whom a line descends, a matter of lineage that would not change where the herd went in the two seasons after her death." },
+        { "distractor": "specimen", "closeness": 2, "reasoning": "A specimen is an individual studied as a sample of its kind, which would not have led the herd anywhere or left a gap when it died." },
+        { "distractor": "calf", "closeness": 2, "reasoning": "A calf is a juvenile, incompatible with an animal the sentence identifies as the oldest and as the one the herd depended on." },
+        { "distractor": "quarry", "closeness": 2, "reasoning": "Quarry is the animal being hunted, but this one is a member of the herd whose death changed how the group navigated." },
+        { "distractor": "forager", "closeness": 2, "reasoning": "A forager gathers food for itself, an ordinary activity of every animal in the herd rather than a role whose loss misdirected the whole group." },
+        { "distractor": "predator", "closeness": 1, "reasoning": "A predator hunts the herd from outside, and its death would not leave the females unable to find water." },
+        { "distractor": "poacher", "closeness": 1, "reasoning": "A poacher is a human who kills animals illegally and cannot be the oldest member of the herd." },
+        { "distractor": "carcass", "closeness": 1, "reasoning": "A carcass is a dead body, which cannot itself be described as dying and leaving a leadership gap." }
+      ]
+    }
+  ]
+}

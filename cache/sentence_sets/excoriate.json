@@ -1,0 +1,53 @@
+{
+  "word": "excoriate",
+  "sentenceSets": [
+    {
+      "sentence": "The review excoriated the research for its methodological lapses, calling its conclusions unsupported.",
+      "answerChoices": [
+        { "distractor": "criticized", "closeness": 3, "reasoning": "Criticizing covers any degree of fault-finding, but the review is described as declaring the conclusions unsupported outright, which is condemnation rather than measured comment." },
+        { "distractor": "faulted", "closeness": 3, "reasoning": "Faulting identifies a defect, while the sentence shows the review going further and rejecting the work's conclusions altogether." },
+        { "distractor": "corrected", "closeness": 3, "reasoning": "Correcting would supply the right method or result, and the review instead denounces what was done and dismisses its findings." },
+        { "distractor": "questioned", "closeness": 3, "reasoning": "Questioning leaves the matter open, whereas calling conclusions unsupported states a verdict." },
+        { "distractor": "retracted", "closeness": 2, "reasoning": "Retraction is an act of the journal or authors withdrawing the paper, not of a review assessing it." },
+        { "distractor": "replicated", "closeness": 2, "reasoning": "Replicating would mean repeating the study, which is not what a review does when it attacks the methods." },
+        { "distractor": "summarized", "closeness": 2, "reasoning": "Summarizing carries no judgment and cannot account for the charge that the conclusions are unsupported." },
+        { "distractor": "funded", "closeness": 2, "reasoning": "Funding is a matter of money, unrelated to a review's assessment of methodological lapses." },
+        { "distractor": "praised", "closeness": 1, "reasoning": "Praise contradicts a review that calls the conclusions unsupported." },
+        { "distractor": "endorsed", "closeness": 1, "reasoning": "Endorsement is impossible alongside a charge of methodological lapses." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Ignoring the research would leave no room for the specific complaints the sentence lists." }
+      ]
+    },
+    {
+      "sentence": "In the pulpit he excoriated the mill owners by name, and half the congregation stopped attending within a month.",
+      "answerChoices": [
+        { "distractor": "rebuked", "closeness": 3, "reasoning": "A rebuke is a sharp reproof, but naming the owners from the pulpit and driving off half the congregation implies a scourging far beyond a reprimand." },
+        { "distractor": "admonished", "closeness": 3, "reasoning": "Admonishing warns a person for their own good, which would hardly split a congregation the way the sentence describes." },
+        { "distractor": "shunned", "closeness": 3, "reasoning": "Shunning means refusing contact, while the sentence shows him addressing the owners directly and at length in front of everyone." },
+        { "distractor": "exposed", "closeness": 3, "reasoning": "Exposing reveals hidden facts, and the sentence gives no secret brought to light; it describes an attack on men already known to the congregation." },
+        { "distractor": "counseled", "closeness": 2, "reasoning": "Counseling is private advice, at odds with a denunciation delivered from the pulpit." },
+        { "distractor": "petitioned", "closeness": 2, "reasoning": "Petitioning asks the owners for something, whereas the reaction the sentence records is to an assault on them." },
+        { "distractor": "employed", "closeness": 2, "reasoning": "Employing the mill owners inverts the relationship and would not empty the pews." },
+        { "distractor": "baptized", "closeness": 2, "reasoning": "Baptizing is a sacrament and would not cause half a congregation to leave." },
+        { "distractor": "blessed", "closeness": 1, "reasoning": "A blessing on the owners would not drive away the people who heard it." },
+        { "distractor": "commended", "closeness": 1, "reasoning": "Commendation is the opposite of an attack fierce enough to fracture a church." },
+        { "distractor": "thanked", "closeness": 1, "reasoning": "Thanking the owners cannot explain the exodus the sentence reports." }
+      ]
+    },
+    {
+      "sentence": "Salt spray will excoriate the paint on any hull left through a winter at that mooring.",
+      "answerChoices": [
+        { "distractor": "discolor", "closeness": 3, "reasoning": "Discoloring changes the paint's shade, while the sentence describes what spray does to a surface over a winter of physical exposure." },
+        { "distractor": "dull", "closeness": 3, "reasoning": "Dulling removes gloss, a lighter effect than what a season of salt spray works on an unprotected hull." },
+        { "distractor": "corrode", "closeness": 3, "reasoning": "Corrosion is a chemical eating away of metal, and the target here is the paint layer covering the hull." },
+        { "distractor": "stain", "closeness": 3, "reasoning": "Staining adds a mark to the surface rather than wearing the surface off, which is what a winter of spray does to paint." },
+        { "distractor": "insulate", "closeness": 2, "reasoning": "Insulating adds a protective layer, the reverse of damage from exposure." },
+        { "distractor": "submerge", "closeness": 2, "reasoning": "Submerging the paint is not something spray does to a hull at its mooring." },
+        { "distractor": "loosen", "closeness": 2, "reasoning": "Loosening applies to fittings and fasteners rather than to a painted surface exposed to spray." },
+        { "distractor": "freeze", "closeness": 2, "reasoning": "Freezing describes what cold does to water, not the wearing action the sentence attributes to salt spray." },
+        { "distractor": "polish", "closeness": 1, "reasoning": "Polishing improves the finish, contradicting the harm a winter at that mooring causes." },
+        { "distractor": "protect", "closeness": 1, "reasoning": "Protection is the opposite of what the sentence warns will happen to the paint." },
+        { "distractor": "repaint", "closeness": 1, "reasoning": "Repainting is a repair a person performs, not an effect of salt spray." }
+      ]
+    }
+  ]
+}

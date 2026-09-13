@@ -1,0 +1,53 @@
+{
+  "word": "malapropism",
+  "sentenceSets": [
+    {
+      "sentence": "His malapropism during the formal address produced a ripple of suppressed laughter that derailed the intended solemnity.",
+      "answerChoices": [
+        { "distractor": "solecism", "closeness": 3, "reasoning": "A solecism is a breach of grammar or usage, and a grammatical slip in a formal address would draw wincing rather than the ripple of laughter the sentence records." },
+        { "distractor": "gaffe", "closeness": 3, "reasoning": "A gaffe is a socially embarrassing blunder of any kind, including a tactless remark, but the sentence locates the mishap in the wording itself, something heard and instantly found funny." },
+        { "distractor": "faux pas", "closeness": 3, "reasoning": "A faux pas is a breach of etiquette, which typically produces awkward silence rather than the suppressed laughter the audience here struggles to hold in." },
+        { "distractor": "misstatement", "closeness": 3, "reasoning": "A misstatement is an inaccurate assertion, a problem of content that listeners would correct rather than laugh at during a solemn occasion." },
+        { "distractor": "digression", "closeness": 2, "reasoning": "A digression is a wandering away from the topic, which would bore an audience rather than set off laughter it has to suppress." },
+        { "distractor": "stammer", "closeness": 2, "reasoning": "A stammer is a disfluency in delivery, and an audience at a formal address would be embarrassed for the speaker rather than amused." },
+        { "distractor": "aside", "closeness": 2, "reasoning": "An aside is a deliberate remark made in passing, but the sentence's contrast with the intended solemnity implies the speaker produced something unplanned." },
+        { "distractor": "non sequitur", "closeness": 2, "reasoning": "A non sequitur is a conclusion that fails to follow from what preceded it, a lapse of logic rather than the kind of slip that ripples through a room as laughter." },
+        { "distractor": "benediction", "closeness": 1, "reasoning": "A benediction is a blessing that would reinforce solemnity rather than derail it." },
+        { "distractor": "citation", "closeness": 1, "reasoning": "A citation is a reference to a source, an ordinary feature of formal addresses that would provoke no reaction at all." },
+        { "distractor": "eulogy", "closeness": 1, "reasoning": "A eulogy is an entire speech of praise, not a momentary slip occurring during an address." }
+      ]
+    },
+    {
+      "sentence": "Her speech was remembered less for its argument than for the malapropism that turned a vast expanse of grassland into a vast expense of grassland.",
+      "answerChoices": [
+        { "distractor": "spoonerism", "closeness": 3, "reasoning": "A spoonerism swaps the opening sounds of two words, but the sentence shows one word replaced by a similar-sounding different word, with nothing exchanged between them." },
+        { "distractor": "misnomer", "closeness": 3, "reasoning": "A misnomer is an unsuitable name given to a thing, whereas the slip here occurs inside a phrase and is a single wrong word substituted for the right one in the moment." },
+        { "distractor": "pun", "closeness": 3, "reasoning": "A pun is an intentional play on similar sounds that the speaker means the audience to catch, but this speaker is remembered for a slip that undercut her argument rather than for wit." },
+        { "distractor": "howler", "closeness": 3, "reasoning": "A howler is any glaring mistake, including one of fact or arithmetic, while the error described is specifically a word replaced by its near-homophone." },
+        { "distractor": "typo", "closeness": 2, "reasoning": "A typo is an error in typing, but this mistake occurred in a spoken speech that listeners heard and remembered." },
+        { "distractor": "mispronunciation", "closeness": 2, "reasoning": "A mispronunciation distorts the sound of the intended word, whereas the sentence shows a genuinely different word, with its own meaning, taking the place of the intended one." },
+        { "distractor": "euphemism", "closeness": 2, "reasoning": "A euphemism substitutes a milder expression on purpose to soften something unpleasant, and there is nothing delicate about grassland that would call for softening." },
+        { "distractor": "circumlocution", "closeness": 2, "reasoning": "Circumlocution is talking around a point at length, but the slip described is a single substituted word, not a roundabout stretch of speech." },
+        { "distractor": "epigram", "closeness": 1, "reasoning": "An epigram is a polished witty saying, the sort of thing a speaker would want remembered rather than an accident that overshadowed her argument." },
+        { "distractor": "syllogism", "closeness": 1, "reasoning": "A syllogism is a form of deductive reasoning, which has nothing to do with one word being swapped for a similar-sounding one." },
+        { "distractor": "sonnet", "closeness": 1, "reasoning": "A sonnet is a fourteen-line poem and cannot occur as a slip inside a phrase about grassland." }
+      ]
+    },
+    {
+      "sentence": "The sitcom built an entire character around malapropisms, letting him mangle one familiar phrase per episode for reliable laughs.",
+      "answerChoices": [
+        { "distractor": "mixed metaphors", "closeness": 3, "reasoning": "A mixed metaphor jams two incompatible images together, which requires figurative language, whereas the sentence says the character mangles a single familiar phrase each time." },
+        { "distractor": "double entendres", "closeness": 3, "reasoning": "A double entendre works because both meanings are intended and one is risqué, but the humor here comes from the character garbling a phrase rather than slyly implying anything." },
+        { "distractor": "bungled idioms", "closeness": 3, "reasoning": "Bungled idioms would restrict the joke to fixed expressions, yet the sentence's phrase-mangling character is defined by the words he reaches for rather than by any category of expression." },
+        { "distractor": "wisecracks", "closeness": 3, "reasoning": "Wisecracks are clever jokes the speaker makes deliberately, which conflicts with a character whose comedy comes from mangling what he is trying to say." },
+        { "distractor": "one-liners", "closeness": 2, "reasoning": "A one-liner is a joke delivered as a compact quip, but the humor described depends on a familiar phrase coming out wrong, not on the character telling jokes." },
+        { "distractor": "pratfalls", "closeness": 2, "reasoning": "A pratfall is a comic physical tumble, and the sentence locates the joke entirely in what the character says." },
+        { "distractor": "monologues", "closeness": 2, "reasoning": "A monologue is an extended solo speech, too large a unit to describe one mangled phrase per episode." },
+        { "distractor": "innuendos", "closeness": 2, "reasoning": "Innuendo hints at something improper without stating it, requiring the speaker's control over implication, which a character who mangles his phrases plainly lacks." },
+        { "distractor": "sermons", "closeness": 1, "reasoning": "A sermon is a religious discourse and has no place in a description of a sitcom's recurring verbal joke." },
+        { "distractor": "elegies", "closeness": 1, "reasoning": "An elegy is a mournful poem, the opposite in tone to a device used for reliable laughs." },
+        { "distractor": "manifestos", "closeness": 1, "reasoning": "A manifesto is a public declaration of policy, unrelated to a comic character garbling familiar phrases." }
+      ]
+    }
+  ]
+}
