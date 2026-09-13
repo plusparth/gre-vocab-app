@@ -1,0 +1,53 @@
+{
+  "word": "ire",
+  "sentenceSets": [
+    {
+      "sentence": "The decision provoked the ire of long-term members who felt it violated an understanding they had never needed to make explicit.",
+      "answerChoices": [
+        { "distractor": "indignation", "closeness": 3, "reasoning": "Indignation asserts a moral wrong publicly, but the members are relying on a custom they never wrote down, which weakens any claim of clear injustice." },
+        { "distractor": "resentment", "closeness": 3, "reasoning": "Resentment smolders over a long stretch, while the sentence describes a response set off by one decision." },
+        { "distractor": "outrage", "closeness": 3, "reasoning": "Outrage implies shock at something scandalous, whereas the grievance here is that a quiet arrangement was disregarded." },
+        { "distractor": "wrath", "closeness": 3, "reasoning": "Wrath suggests punishing fury on a grand scale, and the sentence describes members of an organization objecting to a policy." },
+        { "distractor": "dismay", "closeness": 2, "reasoning": "Dismay is disheartened surprise, which would not be described as something a decision provoked out of people." },
+        { "distractor": "objection", "closeness": 2, "reasoning": "An objection is a reasoned statement against a proposal, while the sentence reports a feeling the decision stirred up." },
+        { "distractor": "unease", "closeness": 2, "reasoning": "Unease is vague discomfort, too faint for members who believe an understanding was violated." },
+        { "distractor": "disappointment", "closeness": 2, "reasoning": "Disappointment implies unmet hopes, but these members believe something owed to them was breached." },
+        { "distractor": "approval", "closeness": 1, "reasoning": "Approval cannot follow from members feeling an understanding was violated." },
+        { "distractor": "gratitude", "closeness": 1, "reasoning": "Gratitude is incompatible with a sense of having been wronged." },
+        { "distractor": "indifference", "closeness": 1, "reasoning": "Indifference would leave nothing for the decision to provoke." }
+      ]
+    },
+    {
+      "sentence": "In the older version of the tale it is the sea god's ire, not a storm, that keeps the hero from home.",
+      "answerChoices": [
+        { "distractor": "malice", "closeness": 3, "reasoning": "Malice is a settled wish to do harm, while the sentence sets the god's feeling against a mere storm, which points to something roused rather than long held." },
+        { "distractor": "vengeance", "closeness": 3, "reasoning": "Vengeance is the act of paying someone back, but the sentence names what the god felt, with the hero's delay following from it." },
+        { "distractor": "displeasure", "closeness": 3, "reasoning": "Displeasure is mild and formal, far too tepid to be the alternative explanation to a storm for a hero's long exile." },
+        { "distractor": "caprice", "closeness": 3, "reasoning": "Caprice would make the god's interference arbitrary, whereas contrasting it with weather implies a will directed at this hero in particular." },
+        { "distractor": "grief", "closeness": 2, "reasoning": "Grief is sorrow over a loss, which would not be something a god turns against a traveler." },
+        { "distractor": "jealousy", "closeness": 2, "reasoning": "Jealousy requires a rival for something the god wants, and none appears in the sentence." },
+        { "distractor": "curse", "closeness": 2, "reasoning": "A curse is a pronounced spell, an instrument rather than the feeling the sentence offers in place of bad weather." },
+        { "distractor": "decree", "closeness": 2, "reasoning": "A decree is a formal order, which would make the delay an administrative matter rather than the passionate cause the contrast suggests." },
+        { "distractor": "mercy", "closeness": 1, "reasoning": "Mercy from the sea god would speed the hero home rather than keep him away." },
+        { "distractor": "blessing", "closeness": 1, "reasoning": "A blessing cannot be what prevents a hero from reaching home." },
+        { "distractor": "indulgence", "closeness": 1, "reasoning": "Indulgence implies favor granted, the opposite of an obstacle placed in the hero's way." }
+      ]
+    },
+    {
+      "sentence": "A single line in the appendix drew the ire of an industry that had ignored the report's first two hundred pages.",
+      "answerChoices": [
+        { "distractor": "scrutiny", "closeness": 3, "reasoning": "Scrutiny would mean only that the line got examined closely, which does not explain why a body that skipped two hundred pages suddenly had something to say." },
+        { "distractor": "ridicule", "closeness": 3, "reasoning": "Ridicule would have the industry mocking the line, but the contrast with the ignored pages suggests something in it touched the industry's interests." },
+        { "distractor": "condemnation", "closeness": 3, "reasoning": "Condemnation is a verdict pronounced against something, while the sentence describes a reaction pulled out of an audience that had not been paying attention." },
+        { "distractor": "censure", "closeness": 3, "reasoning": "Censure is an official rebuke issued by a body with standing to issue it, and an industry reacting to an appendix has no such authority over the report's authors." },
+        { "distractor": "notice", "closeness": 2, "reasoning": "Notice would only mean the line was read, which is far less than a reaction worth recording." },
+        { "distractor": "comment", "closeness": 2, "reasoning": "Comment is neutral and would not stand in contrast to two hundred pages met with silence." },
+        { "distractor": "complaint", "closeness": 2, "reasoning": "A complaint is a stated grievance, whereas the sentence describes what the line pulled out of the industry rather than the form the response took." },
+        { "distractor": "alarm", "closeness": 2, "reasoning": "Alarm is fear of what may come, but an industry that ignored the report until the appendix is reacting to what has been said about it." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Praise would not be notable coming from a body that had ignored the report." },
+        { "distractor": "thanks", "closeness": 1, "reasoning": "Thanks is incompatible with a reaction singled out as the report's one consequence." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence is what the first two hundred pages received, so it cannot be what the appendix provoked." }
+      ]
+    }
+  ]
+}

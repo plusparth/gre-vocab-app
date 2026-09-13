@@ -1,0 +1,53 @@
+{
+  "word": "decibel",
+  "sentenceSets": [
+    {
+      "sentence": "The noise levels exceeded regulatory limits by twenty decibels, making a legal challenge possible.",
+      "answerChoices": [
+        { "distractor": "watts", "closeness": 3, "reasoning": "Watts measure raw power output, but what the regulation caps and the sentence measures is how loud the noise is at the receiving end." },
+        { "distractor": "hertz", "closeness": 3, "reasoning": "Hertz count how many times a sound wave repeats per second, describing pitch rather than the loudness that an exceeded noise limit implies." },
+        { "distractor": "phons", "closeness": 3, "reasoning": "Phons are a specialist unit tied to perceived equal-loudness curves at a given frequency, and no frequency is specified in a plain regulatory noise limit." },
+        { "distractor": "sones", "closeness": 3, "reasoning": "Sones express loudness in a linear perceptual scale used for appliance ratings, a scale on which 'twenty over the limit' would describe a difference vastly larger than ordinary noise disputes involve." },
+        { "distractor": "percent", "closeness": 2, "reasoning": "Percent expresses a proportion, but the sentence states an amount by which a measured level overshot a fixed threshold." },
+        { "distractor": "degrees", "closeness": 2, "reasoning": "Degrees belong to temperature or angle and have nothing to measure in a noise-level dispute." },
+        { "distractor": "points", "closeness": 2, "reasoning": "'Points' names a unit only on some index whose scale the sentence never introduces, whereas noise limits are set in a recognized physical unit." },
+        { "distractor": "units", "closeness": 2, "reasoning": "'Units' is contentless here and would leave the regulatory limit unmeasurable, undercutting the basis for a legal challenge." },
+        { "distractor": "gallons", "closeness": 1, "reasoning": "Gallons measure volume of liquid and cannot describe noise levels." },
+        { "distractor": "acres", "closeness": 1, "reasoning": "Acres measure land area, which is unrelated to how loud something is." },
+        { "distractor": "lumens", "closeness": 1, "reasoning": "Lumens measure light output, not the sound the regulation restricts." }
+      ]
+    },
+    {
+      "sentence": "Workers on the stamping line wore ear protection because the presses rarely dropped below ninety decibels.",
+      "answerChoices": [
+        { "distractor": "pascals", "closeness": 3, "reasoning": "Pascals state absolute sound pressure, and ninety pascals would be an extraordinary figure; the everyday shop-floor threshold that triggers ear protection is stated on a logarithmic scale instead." },
+        { "distractor": "octaves", "closeness": 3, "reasoning": "Octaves mark intervals between pitches, so ninety of them is meaningless, and pitch is not what damages hearing or requires protection." },
+        { "distractor": "megahertz", "closeness": 3, "reasoning": "Megahertz belong to radio and processor frequencies far above audible sound, which cannot explain why workers on a press line need earmuffs." },
+        { "distractor": "bels", "closeness": 3, "reasoning": "Ninety bels would be an absurdly extreme figure on that scale, far beyond anything a stamping press produces, so the unit implied must be the finer one used for workplace noise." },
+        { "distractor": "beats", "closeness": 2, "reasoning": "Beats are rhythmic events per minute and describe tempo, not the intensity that makes hearing protection necessary." },
+        { "distractor": "cycles", "closeness": 2, "reasoning": "Cycles count wave repetitions and so again concern frequency rather than the loudness the presses generate." },
+        { "distractor": "tones", "closeness": 2, "reasoning": "Tones are individual sounds, and 'dropping below ninety tones' gives no measure of how loud the line is." },
+        { "distractor": "vibrations", "closeness": 2, "reasoning": "Vibrations are the physical motion of the machinery, not the quantified noise level that would justify the protective gear." },
+        { "distractor": "meters", "closeness": 1, "reasoning": "Meters measure distance and cannot be the quantity that stays above ninety while machines run." },
+        { "distractor": "calories", "closeness": 1, "reasoning": "Calories measure energy in food and have no application to press noise." },
+        { "distractor": "pixels", "closeness": 1, "reasoning": "Pixels belong to images and cannot describe anything about a stamping line's sound." }
+      ]
+    },
+    {
+      "sentence": "The engineer shaved three decibels off the cabin noise by relining the wheel wells with dense foam.",
+      "answerChoices": [
+        { "distractor": "frequencies", "closeness": 3, "reasoning": "Removing three frequencies would change the character of the sound, while foam lining is described as reducing how much noise reaches the cabin overall." },
+        { "distractor": "kilohertz", "closeness": 3, "reasoning": "Kilohertz would locate a band of pitch, but the improvement claimed is a quieter cabin rather than a shifted tonal profile." },
+        { "distractor": "amplitudes", "closeness": 3, "reasoning": "Amplitude is a property of a single wave and is not the sort of thing one counts off in threes when reporting a noise reduction." },
+        { "distractor": "wavelengths", "closeness": 3, "reasoning": "Wavelengths describe the physical size of the waves, so subtracting three of them says nothing about how much quieter the cabin became." },
+        { "distractor": "seconds", "closeness": 2, "reasoning": "Seconds measure duration, but foam in the wheel wells affects how loud the noise is, not how long it lasts." },
+        { "distractor": "inches", "closeness": 2, "reasoning": "Inches would measure the foam or the well, not the cabin noise the engineer reduced." },
+        { "distractor": "ounces", "closeness": 2, "reasoning": "Ounces measure weight, which the added lining would increase rather than shave off the noise." },
+        { "distractor": "millibars", "closeness": 2, "reasoning": "Millibars report atmospheric pressure and are not the scale in which cabin noise improvements are reported." },
+        { "distractor": "colors", "closeness": 1, "reasoning": "Colors are visual and cannot be removed from a car's noise by lining the wheel wells." },
+        { "distractor": "miles", "closeness": 1, "reasoning": "Miles measure distance travelled, unrelated to sound in the cabin." },
+        { "distractor": "dollars", "closeness": 1, "reasoning": "Adding dense foam is a cost, so shaving dollars off contradicts the work described." }
+      ]
+    }
+  ]
+}

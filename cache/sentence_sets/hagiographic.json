@@ -1,0 +1,53 @@
+{
+  "word": "hagiographic",
+  "sentenceSets": [
+    {
+      "sentence": "The authorized biography was so hagiographic that critics dismissed it as a press release rather than a serious work.",
+      "answerChoices": [
+        { "distractor": "flattering", "closeness": 3, "reasoning": "Flattery is praise aimed at pleasing its object, but the comparison to a press release points to a book that treats its subject as beyond criticism throughout rather than one that merely pays compliments." },
+        { "distractor": "sympathetic", "closeness": 3, "reasoning": "A sympathetic biography can still record failings, whereas critics here refused to count the book as serious work at all." },
+        { "distractor": "derivative", "closeness": 3, "reasoning": "Being derivative means borrowing from earlier books, while the objection raised is about the reverential treatment of the subject." },
+        { "distractor": "promotional", "closeness": 3, "reasoning": "This is close, since a press release promotes, but promotion describes the book's function in the marketplace rather than the worshipful posture toward the subject that provoked the charge." },
+        { "distractor": "exhaustive", "closeness": 2, "reasoning": "An exhaustive biography would be faulted for length, not dismissed as publicity." },
+        { "distractor": "posthumous", "closeness": 2, "reasoning": "Whether the subject was living tells us nothing about why critics refused to take the book seriously." },
+        { "distractor": "unauthorized", "closeness": 2, "reasoning": "The sentence already calls the biography authorized, so this contradicts its own setup." },
+        { "distractor": "anecdotal", "closeness": 2, "reasoning": "Relying on anecdotes is a methodological weakness, but the complaint is about a book that reads like advertising for its subject." },
+        { "distractor": "scathing", "closeness": 1, "reasoning": "A scathing book attacks its subject, which no one would mistake for a press release." },
+        { "distractor": "impartial", "closeness": 1, "reasoning": "Impartiality is what critics found missing, not what they objected to." },
+        { "distractor": "scholarly", "closeness": 1, "reasoning": "Critics denied the book was serious work, so it cannot be faulted for being scholarly." }
+      ]
+    },
+    {
+      "sentence": "Museum labels written in the 1950s are relentlessly hagiographic about the collector, mentioning neither where the objects came from nor what he paid.",
+      "answerChoices": [
+        { "distractor": "vague", "closeness": 3, "reasoning": "Vagueness would mean the labels say little of substance, but they are wordy enough about the collector and silent only on the awkward questions." },
+        { "distractor": "outdated", "closeness": 3, "reasoning": "Being outdated would concern the scholarship's age, while the problem described is the adoring treatment of one man alongside two pointed omissions." },
+        { "distractor": "brief", "closeness": 3, "reasoning": "Brevity would explain the omissions innocently, yet the word 'relentlessly' indicates the labels dwell at length on their subject." },
+        { "distractor": "technical", "closeness": 3, "reasoning": "Technical labels would discuss materials and dating, whereas these are preoccupied with the collector himself." },
+        { "distractor": "anonymous", "closeness": 2, "reasoning": "Anonymity would mean no author is named, which says nothing about how the collector is portrayed." },
+        { "distractor": "handwritten", "closeness": 2, "reasoning": "How the labels were produced has no bearing on their treatment of provenance and price." },
+        { "distractor": "multilingual", "closeness": 2, "reasoning": "The number of languages used does not explain a reverent posture toward the collector." },
+        { "distractor": "illegible", "closeness": 2, "reasoning": "Illegible labels could not be characterized by what they say about the collector." },
+        { "distractor": "critical", "closeness": 1, "reasoning": "Critical labels would raise exactly the questions of provenance and price the sentence says are missing." },
+        { "distractor": "accusatory", "closeness": 1, "reasoning": "Accusation runs against a treatment that avoids every uncomfortable fact about the man." },
+        { "distractor": "apologetic", "closeness": 1, "reasoning": "An apologetic tone would concede fault, which labels silent on where the objects came from plainly do not." }
+      ]
+    },
+    {
+      "sentence": "The documentary is hagiographic for its first hour, then abruptly turns on its subject in the final twenty minutes.",
+      "answerChoices": [
+        { "distractor": "tedious", "closeness": 3, "reasoning": "Tedium describes how dull the film is, but the contrast drawn is with turning on the subject, which sets up an earlier stretch of unbroken admiration." },
+        { "distractor": "meandering", "closeness": 3, "reasoning": "Meandering would mean the film lacks direction, while the sharp reversal at the end implies the first hour had a very clear posture toward its subject." },
+        { "distractor": "restrained", "closeness": 3, "reasoning": "Restraint would mean holding back, whereas the pivot at the end gains its force from an opening hour of unrestrained reverence." },
+        { "distractor": "conventional", "closeness": 3, "reasoning": "Conventionality concerns the film's form, but the contrast is about its attitude toward the person on screen." },
+        { "distractor": "silent", "closeness": 2, "reasoning": "A documentary with sound cannot be silent, and the reversal concerns what it says about its subject." },
+        { "distractor": "animated", "closeness": 2, "reasoning": "Animation is a production technique and would not switch partway through in a way that contrasts with turning on the subject." },
+        { "distractor": "unfinished", "closeness": 2, "reasoning": "An unfinished film could not have a deliberate structural turn in its final twenty minutes." },
+        { "distractor": "subtitled", "closeness": 2, "reasoning": "Subtitles are a presentation choice with no relation to the film's stance toward its subject." },
+        { "distractor": "hostile", "closeness": 1, "reasoning": "Hostility is what arrives at the end, so it cannot also describe the hour that precedes the turn." },
+        { "distractor": "damning", "closeness": 1, "reasoning": "A damning opening would make the late reversal pointless." },
+        { "distractor": "skeptical", "closeness": 1, "reasoning": "Skepticism early on would blunt the abruptness the sentence emphasizes." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "disenfranchise",
+  "sentenceSets": [
+    {
+      "sentence": "The new voting requirements disenfranchised thousands of eligible citizens who lacked the required documentation.",
+      "answerChoices": [
+        { "distractor": "disqualified", "closeness": 3, "reasoning": "Disqualification implies the citizens failed some legitimate test of eligibility, but the sentence calls them eligible and locates the problem in paperwork imposed on them." },
+        { "distractor": "barred", "closeness": 3, "reasoning": "'Barred' suggests being physically turned away at a door, whereas the requirements operated in advance by stripping people of a right they already held." },
+        { "distractor": "excluded", "closeness": 3, "reasoning": "Exclusion is a general shutting out and does not specify what was lost; the sentence is about a rule governing who may vote taking that capacity away." },
+        { "distractor": "disempowered", "closeness": 3, "reasoning": "Disempowerment describes a diffuse loss of influence, but here something exact and legal was removed by an enacted requirement." },
+        { "distractor": "burdened", "closeness": 2, "reasoning": "A burden can be borne, yet these citizens lacked the documentation altogether, so the effect was not merely added difficulty." },
+        { "distractor": "inconvenienced", "closeness": 2, "reasoning": "Inconvenience understates a consequence serious enough to be measured in thousands of citizens and framed around eligibility." },
+        { "distractor": "alienated", "closeness": 2, "reasoning": "Alienation is a change in how people feel toward the system, while the requirements produced a concrete legal result." },
+        { "distractor": "deterred", "closeness": 2, "reasoning": "Deterrence implies people chose not to try, but the sentence describes those who could not comply rather than those who declined to." },
+        { "distractor": "enfranchised", "closeness": 1, "reasoning": "Enfranchising would have extended the vote, contradicting a rule that shut eligible citizens out." },
+        { "distractor": "empowered", "closeness": 1, "reasoning": "Empowerment is the opposite of what documentation requirements did to people who lacked the documents." },
+        { "distractor": "naturalized", "closeness": 1, "reasoning": "Naturalization confers citizenship, which the sentence says these people already had." }
+      ]
+    },
+    {
+      "sentence": "The reorganization disenfranchised the junior partners, who kept their titles and their offices but lost every vote that mattered.",
+      "answerChoices": [
+        { "distractor": "sidelined", "closeness": 3, "reasoning": "Being sidelined implies removal from the action, yet these partners remain in place with titles and offices intact; what they lost is specifically their say in decisions." },
+        { "distractor": "marginalized", "closeness": 3, "reasoning": "Marginalization is a gradual pushing to the edges of influence, while the sentence describes one reorganization that took away their votes outright." },
+        { "distractor": "demoted", "closeness": 3, "reasoning": "Demotion would lower their rank, but the sentence is explicit that they kept their titles." },
+        { "distractor": "dispossessed", "closeness": 3, "reasoning": "Dispossession refers to being stripped of property, and their offices remain theirs; the loss was of a right to decide." },
+        { "distractor": "angered", "closeness": 2, "reasoning": "Anger is a reaction the partners might have, not the structural change the reorganization made to their standing." },
+        { "distractor": "insulted", "closeness": 2, "reasoning": "An insult wounds pride, which does not account for a concrete loss of voting power in the firm." },
+        { "distractor": "outnumbered", "closeness": 2, "reasoning": "Being outnumbered would mean they still voted and lost, contradicting the statement that they lost the votes themselves." },
+        { "distractor": "displaced", "closeness": 2, "reasoning": "Displacement means being moved out of a position, which conflicts with keeping both title and office." },
+        { "distractor": "promoted", "closeness": 1, "reasoning": "Promotion would enlarge their influence, the reverse of losing every vote that mattered." },
+        { "distractor": "compensated", "closeness": 1, "reasoning": "Compensation is a payment and does not describe what happened to their role in firm decisions." },
+        { "distractor": "consulted", "closeness": 1, "reasoning": "Consulting them would preserve their voice, contradicting the loss the sentence records." }
+      ]
+    },
+    {
+      "sentence": "Felony statutes in several states disenfranchise people for decades, long after their sentences have been served in full.",
+      "answerChoices": [
+        { "distractor": "penalize", "closeness": 3, "reasoning": "Penalizing covers any punishment, but the sentence stresses that the formal punishment is already complete, so what persists must be a separate loss of civic standing." },
+        { "distractor": "stigmatize", "closeness": 3, "reasoning": "Stigma is imposed by public attitude, whereas the sentence names statutes, meaning the lasting effect is written into law rather than into opinion." },
+        { "distractor": "ostracize", "closeness": 3, "reasoning": "Ostracism is social exclusion by a community, not something a state statute can accomplish by its own operation." },
+        { "distractor": "supervise", "closeness": 3, "reasoning": "Supervision would extend the correctional relationship, but the sentence marks that relationship as finished when the sentence was served." },
+        { "distractor": "imprison", "closeness": 2, "reasoning": "Imprisonment cannot continue after a sentence has been served in full, which is precisely the point of contrast." },
+        { "distractor": "monitor", "closeness": 2, "reasoning": "Monitoring is a corrections practice tied to an ongoing term, and the sentence emphasizes that the term has ended." },
+        { "distractor": "shame", "closeness": 2, "reasoning": "Shaming is a matter of feeling and reputation, not the operation of a statute on a person's legal capacities." },
+        { "distractor": "indict", "closeness": 2, "reasoning": "An indictment initiates a prosecution, which could not be the standing effect on people who already completed their sentences." },
+        { "distractor": "pardon", "closeness": 1, "reasoning": "A pardon restores standing, the opposite of an effect that persists for decades after release." },
+        { "distractor": "rehabilitate", "closeness": 1, "reasoning": "Rehabilitation is the aim of a sentence, not a lasting harm imposed after one is complete." },
+        { "distractor": "reinstate", "closeness": 1, "reasoning": "Reinstating people would give them back what these statutes withhold." }
+      ]
+    }
+  ]
+}

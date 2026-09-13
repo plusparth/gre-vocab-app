@@ -1,0 +1,53 @@
+{
+  "word": "ford",
+  "sentenceSets": [
+    {
+      "sentence": "The engineers fording the bureaucratic process found the resistance lower than they had anticipated.",
+      "answerChoices": [
+        { "distractor": "navigating", "closeness": 3, "reasoning": "Navigating stresses finding a route through something complicated, but the figure here is of pushing straight through a current, which is why the sentence measures the resistance they met." },
+        { "distractor": "circumventing", "closeness": 3, "reasoning": "Circumventing means going around an obstacle, and people who went around the process would never learn how much resistance it offered." },
+        { "distractor": "auditing", "closeness": 3, "reasoning": "Auditing examines a process from outside, whereas these engineers are moving through it and feeling the push against them." },
+        { "distractor": "designing", "closeness": 3, "reasoning": "Designing the process would make them its authors, but they are described as encountering a resistance they had only been able to anticipate in advance." },
+        { "distractor": "postponing", "closeness": 2, "reasoning": "Postponing delays an encounter, which is incompatible with discovering how strong the resistance actually was." },
+        { "distractor": "financing", "closeness": 2, "reasoning": "Financing supplies money and would not put the engineers in contact with the process's resistance." },
+        { "distractor": "documenting", "closeness": 2, "reasoning": "Documenting records what a process involves without requiring anyone to press through it." },
+        { "distractor": "abandoning", "closeness": 2, "reasoning": "Abandoning the process would end their progress before any comparison with expectations could be made." },
+        { "distractor": "damming", "closeness": 1, "reasoning": "Damming would block the flow rather than move through it, and the engineers are the ones meeting resistance." },
+        { "distractor": "drowning", "closeness": 1, "reasoning": "Being overwhelmed contradicts a finding that the resistance was lower than feared." },
+        { "distractor": "ignoring", "closeness": 1, "reasoning": "Ignoring the process would leave them with no experience of its resistance at all." }
+      ]
+    },
+    {
+      "sentence": "The wagons crossed at a ford below the mill, where the water rarely rose above the axles.",
+      "answerChoices": [
+        { "distractor": "bridge", "closeness": 3, "reasoning": "A bridge carries traffic over the water, which would make the height of the river against the axles irrelevant." },
+        { "distractor": "ferry", "closeness": 3, "reasoning": "A ferry floats vehicles across, so the wagons' wheels would never be in the water at all." },
+        { "distractor": "dam", "closeness": 3, "reasoning": "A dam holds water back and would deepen the river above it rather than offer a place shallow enough to drive through." },
+        { "distractor": "weir", "closeness": 3, "reasoning": "A weir is a low barrier built to control flow, not a crossing point wagons would use." },
+        { "distractor": "wharf", "closeness": 2, "reasoning": "A wharf is a structure for loading boats and does not provide a way across to the far bank." },
+        { "distractor": "canal", "closeness": 2, "reasoning": "A canal is a channel dug for boats to travel along, not a place where wagons go from one side to the other." },
+        { "distractor": "levee", "closeness": 2, "reasoning": "A levee is an embankment built to hold floodwater in, which runs alongside a river rather than across it." },
+        { "distractor": "harbor", "closeness": 2, "reasoning": "A harbor is deep water sheltering ships, the opposite of a spot where the river barely reaches an axle." },
+        { "distractor": "waterfall", "closeness": 1, "reasoning": "No wagon could cross at a waterfall, and the sentence describes shallow, placid water." },
+        { "distractor": "rapids", "closeness": 1, "reasoning": "Rapids are violent and deep-cutting, contradicting water that rarely rises above the wheels." },
+        { "distractor": "reservoir", "closeness": 1, "reasoning": "A reservoir is a large body of stored water, not a shallow crossing place below a mill." }
+      ]
+    },
+    {
+      "sentence": "We had to ford the stream twice before the trail climbed away from the water for good.",
+      "answerChoices": [
+        { "distractor": "follow", "closeness": 3, "reasoning": "Following the stream would mean walking alongside it, but the sentence contrasts these two episodes with the trail finally climbing away from the water." },
+        { "distractor": "bridge", "closeness": 3, "reasoning": "Bridging would require building a span, an undertaking no hiker performs twice in an afternoon." },
+        { "distractor": "dredge", "closeness": 3, "reasoning": "Dredging deepens a channel with heavy equipment and has nothing to do with getting a trail party to the other bank." },
+        { "distractor": "survey", "closeness": 3, "reasoning": "Surveying measures the stream, which would not need doing twice before the trail leaves the water behind." },
+        { "distractor": "drain", "closeness": 2, "reasoning": "Draining a stream is a major engineering act, not something walkers do to continue along a trail." },
+        { "distractor": "photograph", "closeness": 2, "reasoning": "Photographing is optional and would not be described as something we had to do to keep going." },
+        { "distractor": "dam", "closeness": 2, "reasoning": "Damming the stream would block it rather than get us across, and the trail's eventual climb implies we were simply passing through." },
+        { "distractor": "fish", "closeness": 2, "reasoning": "Fishing is a pastime and is not necessitated by a route that repeatedly meets the water." },
+        { "distractor": "avoid", "closeness": 1, "reasoning": "Avoiding the stream contradicts having to deal with it twice on the way up." },
+        { "distractor": "flood", "closeness": 1, "reasoning": "Flooding the stream is something we could not do and would make the trail impassable." },
+        { "distractor": "swallow", "closeness": 1, "reasoning": "Drinking a whole stream is nonsensical as a step in getting along a trail." }
+      ]
+    }
+  ]
+}

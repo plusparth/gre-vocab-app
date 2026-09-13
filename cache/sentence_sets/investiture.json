@@ -1,0 +1,53 @@
+{
+  "word": "investiture",
+  "sentenceSets": [
+    {
+      "sentence": "The investiture ceremony formally transferred authority that had been informally exercised for several months.",
+      "answerChoices": [
+        { "distractor": "inauguration", "closeness": 3, "reasoning": "An inauguration marks the beginning of a term, yet the sentence says the authority had already been in use for months, so the ceremony confirmed a state of affairs rather than starting one." },
+        { "distractor": "coronation", "closeness": 3, "reasoning": "A coronation places a crown on a monarch, and nothing in the sentence involves a throne or a royal succession." },
+        { "distractor": "induction", "closeness": 3, "reasoning": "Induction admits someone into a body as a member, while what the sentence says changed hands is authority itself." },
+        { "distractor": "initiation", "closeness": 3, "reasoning": "Initiation brings a newcomer into a group and its practices, but this ceremony handed over powers the person had already been using." },
+        { "distractor": "appointment", "closeness": 2, "reasoning": "An appointment is a decision made by whoever has the power to name someone, not a ceremony that formally conveys the office." },
+        { "distractor": "promotion", "closeness": 2, "reasoning": "A promotion raises someone within an existing structure, whereas the sentence describes authority being transferred from one holder to another." },
+        { "distractor": "commencement", "closeness": 2, "reasoning": "Commencement names a beginning, which sits awkwardly with authority that had been exercised for months beforehand." },
+        { "distractor": "ratification", "closeness": 2, "reasoning": "Ratification approves a document or agreement, while the sentence describes a person being formally given powers." },
+        { "distractor": "resignation", "closeness": 1, "reasoning": "A resignation gives up an office rather than conferring one." },
+        { "distractor": "rehearsal", "closeness": 1, "reasoning": "A rehearsal is practice for an event and would transfer nothing formally." },
+        { "distractor": "retirement", "closeness": 1, "reasoning": "Retirement ends a career and is the opposite of receiving authority." }
+      ]
+    },
+    {
+      "sentence": "The quarrel over investiture set popes against emperors for fifty years, since whoever bestowed the ring and staff effectively chose the bishop.",
+      "answerChoices": [
+        { "distractor": "consecration", "closeness": 3, "reasoning": "Consecration sets a person or object apart as holy, but the stake the sentence identifies is who hands over the ring and staff and thereby picks the man." },
+        { "distractor": "patronage", "closeness": 3, "reasoning": "Patronage is a general power to dispense favors and posts, while the fifty-year quarrel described turns on one particular ceremonial act." },
+        { "distractor": "nomination", "closeness": 3, "reasoning": "Nomination proposes a candidate for others to approve, yet the sentence says the giver of the ring and staff effectively chose the bishop outright." },
+        { "distractor": "succession", "closeness": 3, "reasoning": "Succession concerns who follows whom in an office, whereas this dispute is over who does the conferring." },
+        { "distractor": "ordination", "closeness": 2, "reasoning": "Ordination makes a man a priest, a step the sentence's contested ceremony comes after, since what is at issue is who gets a particular see." },
+        { "distractor": "tribute", "closeness": 2, "reasoning": "Tribute is payment made to a superior power, and the objects named here are a ring and a staff, symbols of office rather than payment." },
+        { "distractor": "excommunication", "closeness": 2, "reasoning": "Excommunication expels someone from the church, the opposite of the act of placing a man in a bishopric." },
+        { "distractor": "arbitration", "closeness": 2, "reasoning": "Arbitration settles a dispute, while the sentence names the thing the dispute was about." },
+        { "distractor": "pilgrimage", "closeness": 1, "reasoning": "A pilgrimage is a journey to a holy site and has nothing to do with who appoints bishops." },
+        { "distractor": "heresy", "closeness": 1, "reasoning": "Heresy is doctrinal error, not a ceremony involving a ring and staff." },
+        { "distractor": "almsgiving", "closeness": 1, "reasoning": "Almsgiving is charity to the poor and could not set popes against emperors over episcopal appointments." }
+      ]
+    },
+    {
+      "sentence": "Her investiture as dean came with a medallion, a ninety-minute procession, and no additional budget.",
+      "answerChoices": [
+        { "distractor": "elevation", "closeness": 3, "reasoning": "Elevation describes a rise in rank, but the sentence itemizes the trappings of a formal ceremony rather than the change in her standing." },
+        { "distractor": "confirmation", "closeness": 3, "reasoning": "Confirmation approves a choice someone else has already made, while the medallion and procession are the act of placing her in the office." },
+        { "distractor": "enthronement", "closeness": 3, "reasoning": "Enthronement seats a monarch or bishop on a throne, and a deanship offers no throne to seat her in." },
+        { "distractor": "commissioning", "closeness": 3, "reasoning": "Commissioning grants an officer authority to act in a service or military sense, which does not match an academic procession and medallion." },
+        { "distractor": "reception", "closeness": 2, "reasoning": "A reception is the social gathering that follows an occasion, whereas the medallion and procession are the occasion itself." },
+        { "distractor": "convocation", "closeness": 2, "reasoning": "A convocation is an assembly summoned for a purpose, but the sentence describes a ceremony that conferred a post on one person." },
+        { "distractor": "graduation", "closeness": 2, "reasoning": "Graduation marks the completion of study, while she is being put in charge of a school." },
+        { "distractor": "endowment", "closeness": 2, "reasoning": "An endowment is a gift of money, and the sentence pointedly notes that no money came with the honor." },
+        { "distractor": "dismissal", "closeness": 1, "reasoning": "A dismissal removes someone from a post rather than installing her in one." },
+        { "distractor": "audit", "closeness": 1, "reasoning": "An audit examines accounts and would not come with a medallion and a procession." },
+        { "distractor": "sabbatical", "closeness": 1, "reasoning": "A sabbatical is leave from duties, the opposite of taking on a deanship." }
+      ]
+    }
+  ]
+}

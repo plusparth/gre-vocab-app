@@ -1,0 +1,53 @@
+{
+  "word": "interchangeable",
+  "sentenceSets": [
+    {
+      "sentence": "The components were designed to be interchangeable, so any replacement could be sourced from multiple suppliers.",
+      "answerChoices": [
+        { "distractor": "identical", "closeness": 3, "reasoning": "Identical parts would have to match in every particular, but the sentence only requires that a part from any supplier can take the place of another, which different manufacturers' versions can do without being the same." },
+        { "distractor": "compatible", "closeness": 3, "reasoning": "Compatible would mean the components work properly alongside one another, whereas the sentence is about one part standing in for another in the same position." },
+        { "distractor": "standardized", "closeness": 3, "reasoning": "Standardized describes conformity to a published specification, which is the likely means of achieving the result, not the substitutability that sourcing from many suppliers actually depends on." },
+        { "distractor": "generic", "closeness": 3, "reasoning": "Generic classifies a part as unbranded, but the sentence says the components were designed a certain way, which is a deliberate engineering choice rather than a question of branding." },
+        { "distractor": "modular", "closeness": 2, "reasoning": "Modular describes a system built from separable units, which says nothing about whether a unit from one supplier can replace one from another." },
+        { "distractor": "disposable", "closeness": 2, "reasoning": "Disposable means meant to be thrown away, and the sentence is concerned with where a replacement can be obtained, not how long a part lasts." },
+        { "distractor": "uniform", "closeness": 2, "reasoning": "Uniform would mean the parts look or measure the same, which is a description of appearance rather than the design goal of easy replacement." },
+        { "distractor": "adaptable", "closeness": 2, "reasoning": "Adaptable would mean a part can be modified to fit, but the whole advantage described is that no modification is needed." },
+        { "distractor": "bespoke", "closeness": 1, "reasoning": "Bespoke parts are made for one application alone and could not be bought from several suppliers." },
+        { "distractor": "irreplaceable", "closeness": 1, "reasoning": "Irreplaceable contradicts the sentence's explicit mention of replacements being sourced." },
+        { "distractor": "obsolete", "closeness": 1, "reasoning": "Obsolete parts would be hard to obtain from anyone, the opposite of the supply flexibility described." }
+      ]
+    },
+    {
+      "sentence": "To the studio the three leads were interchangeable, a casual assumption that the audience punctured within a week of the recast.",
+      "answerChoices": [
+        { "distractor": "indistinguishable", "closeness": 3, "reasoning": "Indistinguishable would mean nobody could tell the performers apart, yet the audience noticed the substitution within a week." },
+        { "distractor": "expendable", "closeness": 3, "reasoning": "Expendable means they could be dropped with no loss, but the studio did not drop anyone—it moved one performer into another's part." },
+        { "distractor": "anonymous", "closeness": 3, "reasoning": "Anonymous would mean viewers did not know who the performers were, which cannot be true of an audience that objected to the change almost immediately." },
+        { "distractor": "replaceable", "closeness": 3, "reasoning": "Replaceable only claims that a substitute exists somewhere, while the studio's assumption was the stronger one that these three in particular could be swapped for one another." },
+        { "distractor": "comparable", "closeness": 2, "reasoning": "Comparable says only that the three invite comparison, which falls well short of an assumption confident enough to justify a recast." },
+        { "distractor": "forgettable", "closeness": 2, "reasoning": "Forgettable would predict that viewers did not care who was on screen, but they reacted within a week." },
+        { "distractor": "typecast", "closeness": 2, "reasoning": "Typecast describes performers confined to one kind of role, which might explain a resemblance but would not license swapping one for another." },
+        { "distractor": "negligible", "closeness": 2, "reasoning": "Negligible would mean the leads mattered little to the production, while the failure of the recast shows they mattered a great deal." },
+        { "distractor": "singular", "closeness": 1, "reasoning": "Singular would mean each was one of a kind, which is the audience's position rather than the studio's assumption." },
+        { "distractor": "indispensable", "closeness": 1, "reasoning": "If the studio had thought them indispensable it would never have attempted the recast." },
+        { "distractor": "unmistakable", "closeness": 1, "reasoning": "Unmistakable would make the studio's casual assumption absurd on its face rather than something it held until proved wrong." }
+      ]
+    },
+    {
+      "sentence": "In her arrangement the viola and clarinet lines are interchangeable, and she has performed the piece both ways.",
+      "answerChoices": [
+        { "distractor": "reversible", "closeness": 3, "reasoning": "Reversible would describe a single line that can be played backward, whereas the sentence concerns two instruments trading which part each plays." },
+        { "distractor": "transposable", "closeness": 3, "reasoning": "Transposable means shiftable into another key, but nothing in the sentence changes pitch—only which player takes which line." },
+        { "distractor": "optional", "closeness": 3, "reasoning": "Optional would mean either line could be omitted, yet the sentence has both performed in each version." },
+        { "distractor": "equivalent", "closeness": 3, "reasoning": "Equivalent would claim the two lines amount to the same music, while the only evidence the sentence supplies is that she has assigned them to either instrument and performed the result." },
+        { "distractor": "improvised", "closeness": 2, "reasoning": "Improvised would mean the lines are invented in performance, but the sentence refers to her arrangement, which is written in advance." },
+        { "distractor": "symmetrical", "closeness": 2, "reasoning": "Symmetrical describes a shape or pattern within the music rather than a freedom about which player takes which part." },
+        { "distractor": "harmonized", "closeness": 2, "reasoning": "Harmonized would say the two lines sound together in chords, which is true of most duets and would not be worth performing two different ways." },
+        { "distractor": "flexible", "closeness": 2, "reasoning": "Flexible is too loose to explain the specific fact given, that she has played the piece with the assignments swapped." },
+        { "distractor": "fixed", "closeness": 1, "reasoning": "Fixed lines could not be performed both ways, which is exactly what the sentence reports she has done." },
+        { "distractor": "immutable", "closeness": 1, "reasoning": "Immutable rules out the very variation the second half of the sentence documents." },
+        { "distractor": "discordant", "closeness": 1, "reasoning": "Discordant describes an unpleasant clash of sound and says nothing about which instrument plays which line." }
+      ]
+    }
+  ]
+}

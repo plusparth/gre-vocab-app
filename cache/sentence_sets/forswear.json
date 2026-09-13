@@ -1,0 +1,53 @@
+{
+  "word": "forswear",
+  "sentenceSets": [
+    {
+      "sentence": "She forswore any further involvement in the project, citing conflicts that made her participation inappropriate.",
+      "answerChoices": [
+        { "distractor": "declined", "closeness": 3, "reasoning": "Declining turns down a particular offer, but she rules out any further involvement at all, which is a standing commitment rather than one refusal." },
+        { "distractor": "postponed", "closeness": 3, "reasoning": "Postponing leaves the door open for later, whereas the conflicts she cites make her participation inappropriate rather than merely badly timed." },
+        { "distractor": "concealed", "closeness": 3, "reasoning": "Concealing her involvement would keep it hidden while it continued, but she is publicly stating why she is stepping away." },
+        { "distractor": "delegated", "closeness": 3, "reasoning": "Delegating would hand her role to someone else on her behalf, which would not resolve a conflict that makes her participation improper." },
+        { "distractor": "criticized", "closeness": 2, "reasoning": "Criticizing the project would attack its merits, while her statement concerns her own position with respect to it." },
+        { "distractor": "funded", "closeness": 2, "reasoning": "Funding would deepen her connection to the project, contradicting the conflicts she cites." },
+        { "distractor": "documented", "closeness": 2, "reasoning": "Documenting her involvement records it rather than bringing it to an end." },
+        { "distractor": "questioned", "closeness": 2, "reasoning": "Questioning implies uncertainty, but she gives a definite reason and a definite outcome." },
+        { "distractor": "resumed", "closeness": 1, "reasoning": "Resuming involvement is the opposite of citing conflicts that make participation inappropriate." },
+        { "distractor": "embraced", "closeness": 1, "reasoning": "Embracing further involvement contradicts her stated grounds for stepping back." },
+        { "distractor": "demanded", "closeness": 1, "reasoning": "Demanding more involvement runs against the conflicts she identifies." }
+      ]
+    },
+    {
+      "sentence": "After the second hospital stay he forswore tobacco, and twenty years later he had still not touched a cigarette.",
+      "answerChoices": [
+        { "distractor": "resented", "closeness": 3, "reasoning": "Resenting tobacco is a feeling that could coexist with smoking, while the second clause records two decades of complete abstention." },
+        { "distractor": "rationed", "closeness": 3, "reasoning": "Rationing would allow a controlled amount, but he has not touched a cigarette in twenty years." },
+        { "distractor": "criticized", "closeness": 3, "reasoning": "Criticizing tobacco is a public stance, whereas the evidence offered is his own unbroken conduct over two decades." },
+        { "distractor": "hid", "closeness": 3, "reasoning": "Hiding tobacco would imply he still had some, which cannot be reconciled with never touching a cigarette again." },
+        { "distractor": "taxed", "closeness": 2, "reasoning": "Taxing is a government action and not something an individual does to tobacco after a hospital stay." },
+        { "distractor": "cultivated", "closeness": 2, "reasoning": "Cultivating tobacco means growing it, an activity unrelated to the abstention the sentence reports." },
+        { "distractor": "studied", "closeness": 2, "reasoning": "Studying tobacco is an intellectual pursuit and would not be evidenced by twenty years without a cigarette." },
+        { "distractor": "smuggled", "closeness": 2, "reasoning": "Smuggling would put him in contact with tobacco, contradicting the clean record described." },
+        { "distractor": "craved", "closeness": 1, "reasoning": "Craving is what he had to overcome, not the decision that produced twenty years of abstinence." },
+        { "distractor": "resumed", "closeness": 1, "reasoning": "Resuming tobacco is ruled out by never having touched a cigarette since." },
+        { "distractor": "endorsed", "closeness": 1, "reasoning": "Endorsing tobacco after two hospital stays contradicts the behavior described." }
+      ]
+    },
+    {
+      "sentence": "Knights entering the order were required to forswear all claim to land and title before the ceremony could proceed.",
+      "answerChoices": [
+        { "distractor": "prove", "closeness": 3, "reasoning": "Proving a claim would establish it, but the requirement stands between the knight and the ceremony, marking something he must give up to be admitted." },
+        { "distractor": "inherit", "closeness": 3, "reasoning": "Inheriting land and title would add to the knight's holdings, while the order imposes this step as a condition of entry into a life apart." },
+        { "distractor": "register", "closeness": 3, "reasoning": "Registering a claim records it with an authority, which would preserve rather than resolve the knight's worldly interests." },
+        { "distractor": "defend", "closeness": 3, "reasoning": "Defending a claim asserts it against rivals, the opposite of a precondition for joining an order." },
+        { "distractor": "bequeath", "closeness": 2, "reasoning": "Bequeathing passes property on at death, which cannot be completed before a ceremony the knight is about to undergo." },
+        { "distractor": "purchase", "closeness": 2, "reasoning": "Purchasing land and title would acquire them, and the requirement is framed as something the order demands of entrants." },
+        { "distractor": "catalogue", "closeness": 2, "reasoning": "Cataloguing holdings is an inventory and would not be a condition of admission." },
+        { "distractor": "mortgage", "closeness": 2, "reasoning": "Mortgaging borrows against property while keeping the underlying claim intact." },
+        { "distractor": "expand", "closeness": 1, "reasoning": "Expanding a claim to land conflicts with a requirement imposed before entering a religious order." },
+        { "distractor": "seize", "closeness": 1, "reasoning": "Seizing land is an act of acquisition, contrary to what entry into the order demands." },
+        { "distractor": "covet", "closeness": 1, "reasoning": "Coveting is a desire rather than a formal act that could be required before a ceremony." }
+      ]
+    }
+  ]
+}

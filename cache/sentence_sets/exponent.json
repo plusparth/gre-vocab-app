@@ -1,0 +1,53 @@
+{
+  "word": "exponent",
+  "sentenceSets": [
+    {
+      "sentence": "She became a prominent exponent of the theory, defending it in debates where it faced fierce opposition.",
+      "answerChoices": [
+        { "distractor": "critic", "closeness": 3, "reasoning": "A critic argues against a position, but she is described as defending the theory when others attack it." },
+        { "distractor": "student", "closeness": 3, "reasoning": "A student studies a theory without necessarily committing to it, while she stands up for this one in hostile debate." },
+        { "distractor": "originator", "closeness": 3, "reasoning": "The originator devises a theory, whereas the sentence shows her taking up an existing one and carrying it into public argument." },
+        { "distractor": "witness", "closeness": 3, "reasoning": "A witness reports what she has observed, but the role described is arguing for a theory against fierce opposition." },
+        { "distractor": "beneficiary", "closeness": 2, "reasoning": "A beneficiary gains from something, and the sentence shows her spending effort on the theory rather than profiting from it." },
+        { "distractor": "chronicler", "closeness": 2, "reasoning": "A chronicler records how a controversy unfolded, while she is a participant in it." },
+        { "distractor": "moderator", "closeness": 2, "reasoning": "Moderating a debate means staying neutral, which conflicts with defending one side of it." },
+        { "distractor": "translator", "closeness": 2, "reasoning": "Translation concerns rendering material in another language and has no place in a description of her role in the dispute." },
+        { "distractor": "opponent", "closeness": 1, "reasoning": "She is on the theory's side, since the fierce opposition is what she defends it against." },
+        { "distractor": "saboteur", "closeness": 1, "reasoning": "Undermining the theory contradicts a role defined by defending it in public." },
+        { "distractor": "novice", "closeness": 1, "reasoning": "Being described as prominent and holding her own in fierce debate rules out inexperience." }
+      ]
+    },
+    {
+      "sentence": "Among pianists of his generation he was the leading exponent of a style that prized restraint over display.",
+      "answerChoices": [
+        { "distractor": "arbiter", "closeness": 3, "reasoning": "An arbiter rules on what counts as correct within a style, whereas the sentence measures him against other pianists, which places him as one who performs the style rather than one who judges it." },
+        { "distractor": "inventor", "closeness": 3, "reasoning": "An inventor would have created the style, but the comparison with his contemporaries presents a manner of playing that others share and he executes best." },
+        { "distractor": "patron", "closeness": 3, "reasoning": "A patron funds artists, while the sentence ranks him among pianists, placing him at the keyboard rather than behind the checkbook." },
+        { "distractor": "biographer", "closeness": 3, "reasoning": "A biographer writes about others, yet the ranking is of pianists by how they play." },
+        { "distractor": "collector", "closeness": 2, "reasoning": "Collecting concerns acquiring objects or recordings and does not describe a standing among performing pianists." },
+        { "distractor": "publisher", "closeness": 2, "reasoning": "A publisher issues scores, a trade role unconnected to the comparison of players in a generation." },
+        { "distractor": "reviewer", "closeness": 2, "reasoning": "Reviewers assess concerts from the audience, but the sentence situates him among the pianists themselves." },
+        { "distractor": "successor", "closeness": 2, "reasoning": "A successor follows a particular predecessor, while the sentence compares him laterally with his own contemporaries." },
+        { "distractor": "detractor", "closeness": 1, "reasoning": "Disparaging the style is incompatible with leading it among his peers." },
+        { "distractor": "imitator", "closeness": 1, "reasoning": "Being called the leading figure in the style sits badly with the derivative sense of imitation." },
+        { "distractor": "amateur", "closeness": 1, "reasoning": "The comparison with the pianists of a whole generation implies professional stature." }
+      ]
+    },
+    {
+      "sentence": "The exponent in the second term was printed so small that half the class read it as a stray mark.",
+      "answerChoices": [
+        { "distractor": "coefficient", "closeness": 3, "reasoning": "A coefficient sits at normal size in front of a term, so it would not be mistaken for a stray mark the way something printed tiny is." },
+        { "distractor": "variable", "closeness": 3, "reasoning": "A variable is written at full size in the body of the term and is exactly what the small mark would be attached to." },
+        { "distractor": "denominator", "closeness": 3, "reasoning": "A denominator appears below a fraction bar, a position the sentence does not describe and one that is not typeset in miniature." },
+        { "distractor": "operator", "closeness": 3, "reasoning": "Operators such as plus or times sit between terms at ordinary size rather than being tucked in so small as to vanish." },
+        { "distractor": "equation", "closeness": 2, "reasoning": "An equation is the whole statement, not something contained within a single term of it." },
+        { "distractor": "footnote", "closeness": 2, "reasoning": "A footnote lives at the bottom of the page, whereas this mark is inside the second term itself." },
+        { "distractor": "margin", "closeness": 2, "reasoning": "A margin is blank space around the text and cannot be located within a term." },
+        { "distractor": "diagram", "closeness": 2, "reasoning": "A diagram is a figure set apart from the notation, not a tiny element inside an expression." },
+        { "distractor": "chapter", "closeness": 1, "reasoning": "A chapter is a division of a book and has no place inside a mathematical term." },
+        { "distractor": "lecture", "closeness": 1, "reasoning": "A lecture is an event, not something printed small within a term on the page." },
+        { "distractor": "instructor", "closeness": 1, "reasoning": "A person cannot be printed in the second term of an expression." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "itinerant",
+  "sentenceSets": [
+    {
+      "sentence": "An itinerant consultant, she moved between clients and cities without maintaining a permanent base in any of them.",
+      "answerChoices": [
+        { "distractor": "nomadic", "closeness": 3, "reasoning": "Nomadic describes whole peoples moving with herds and seasons, while the sentence describes a professional whose route is set by where her clients are." },
+        { "distractor": "peripatetic", "closeness": 3, "reasoning": "Peripatetic stresses walking about or wandering without fixed purpose, whereas her movement is dictated by work waiting for her in each city." },
+        { "distractor": "freelance", "closeness": 3, "reasoning": "Freelance describes how she is employed rather than the fact that she keeps no permanent base anywhere." },
+        { "distractor": "transient", "closeness": 3, "reasoning": "Transient implies a brief stay that ends, but the sentence presents this as her continuing way of working rather than a passing phase." },
+        { "distractor": "traveling", "closeness": 2, "reasoning": "Traveling would cover anyone who takes trips, including a consultant who returns each week to a fixed office." },
+        { "distractor": "mobile", "closeness": 2, "reasoning": "Mobile says only that she can move, which is true of anyone and does not capture a working life spent between cities." },
+        { "distractor": "independent", "closeness": 2, "reasoning": "Independent concerns whom she answers to, not where she lives and works." },
+        { "distractor": "rootless", "closeness": 2, "reasoning": "Rootless carries a suggestion of drift and loss, while the sentence presents her arrangement neutrally as how she serves clients." },
+        { "distractor": "sedentary", "closeness": 1, "reasoning": "Sedentary contradicts moving between clients and cities." },
+        { "distractor": "resident", "closeness": 1, "reasoning": "Resident would place her permanently in one city, which the sentence denies." },
+        { "distractor": "housebound", "closeness": 1, "reasoning": "Housebound is impossible for someone whose work takes her from city to city." }
+      ]
+    },
+    {
+      "sentence": "Itinerant harvest crews followed the ripening north through three states each summer.",
+      "answerChoices": [
+        { "distractor": "seasonal", "closeness": 3, "reasoning": "Seasonal tells us when the crews worked but not that they carried themselves across three states to do it." },
+        { "distractor": "roving", "closeness": 3, "reasoning": "Roving suggests wandering without a set route, whereas these crews followed the ripening in one direction on a predictable schedule." },
+        { "distractor": "vagrant", "closeness": 3, "reasoning": "Vagrant implies homelessness and no lawful occupation, while these crews are moving precisely because there is work ahead of them." },
+        { "distractor": "displaced", "closeness": 3, "reasoning": "Displaced would mean they had been driven from somewhere, but the sentence describes a route they chose in order to follow the harvest." },
+        { "distractor": "hired", "closeness": 2, "reasoning": "Hired states that they were employed, which says nothing about the three states they crossed." },
+        { "distractor": "temporary", "closeness": 2, "reasoning": "Temporary describes how long each job lasted, while the sentence's subject is the crews' movement across the map." },
+        { "distractor": "organized", "closeness": 2, "reasoning": "Organized would point to unions or coordination, and the sentence describes geography rather than labor structure." },
+        { "distractor": "northbound", "closeness": 2, "reasoning": "Northbound merely restates the direction already given in the sentence, adding nothing about how the crews worked." },
+        { "distractor": "settled", "closeness": 1, "reasoning": "Settled crews could not follow ripening fields across three states." },
+        { "distractor": "local", "closeness": 1, "reasoning": "Local contradicts a summer route spanning three states." },
+        { "distractor": "stationary", "closeness": 1, "reasoning": "Stationary is the opposite of following a harvest northward." }
+      ]
+    },
+    {
+      "sentence": "The circuit judge's itinerant practice meant that a village might see a courtroom twice a year and a jail never.",
+      "answerChoices": [
+        { "distractor": "occasional", "closeness": 3, "reasoning": "Occasional describes how often he appeared, while the sentence explains that rarity by his carrying the court from village to village." },
+        { "distractor": "rotating", "closeness": 3, "reasoning": "Rotating implies judges taking turns among fixed posts, but the sentence has one judge bringing the courtroom with him." },
+        { "distractor": "sporadic", "closeness": 3, "reasoning": "Sporadic means irregular and unpredictable, whereas twice a year is a schedule villagers could count on." },
+        { "distractor": "provisional", "closeness": 3, "reasoning": "Provisional would make the court's authority temporary, and the sentence's concern is where the court sat rather than how binding its rulings were." },
+        { "distractor": "rural", "closeness": 2, "reasoning": "Rural describes the villages rather than the judge's way of reaching them." },
+        { "distractor": "informal", "closeness": 2, "reasoning": "Informal concerns procedure, and the sentence is about the court arriving twice a year rather than how it conducted itself." },
+        { "distractor": "intermittent", "closeness": 2, "reasoning": "Intermittent describes the pattern the villagers experienced without naming the judge's traveling that produced it." },
+        { "distractor": "makeshift", "closeness": 2, "reasoning": "Makeshift would fault the arrangements as improvised, while the sentence treats the twice-yearly visit as the system working as designed." },
+        { "distractor": "permanent", "closeness": 1, "reasoning": "A permanent practice would give the village a courtroom far more than twice a year." },
+        { "distractor": "fixed", "closeness": 1, "reasoning": "Fixed contradicts a judge who rides a circuit among villages." },
+        { "distractor": "continuous", "closeness": 1, "reasoning": "Continuous is the opposite of a court that appears twice a year." }
+      ]
+    }
+  ]
+}

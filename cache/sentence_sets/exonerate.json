@@ -1,0 +1,53 @@
+{
+  "word": "exonerate",
+  "sentenceSets": [
+    {
+      "sentence": "The investigation exonerated the officer but recommended systemic changes to prevent similar incidents.",
+      "answerChoices": [
+        { "distractor": "pardoned", "closeness": 3, "reasoning": "A pardon lets a wrongdoer off, which would sit oddly beside a report whose only proposed remedy is structural change rather than individual accountability." },
+        { "distractor": "excused", "closeness": 3, "reasoning": "Excusing concedes the officer erred and waives the consequence, whereas the report's recommendations target the system rather than any personal lapse." },
+        { "distractor": "reinstated", "closeness": 3, "reasoning": "Reinstatement would restore a post the sentence never says was lost; the investigation's outcome is a finding, not a personnel action." },
+        { "distractor": "disciplined", "closeness": 3, "reasoning": "Discipline is an adverse measure against the individual, which the contrastive 'but' rules out by setting the officer's outcome against the call for broader reform." },
+        { "distractor": "interviewed", "closeness": 2, "reasoning": "Interviewing is a step in conducting an inquiry, but the clause reports what the completed investigation determined." },
+        { "distractor": "promoted", "closeness": 2, "reasoning": "Promotion concerns advancement, and nothing in a report about preventing incidents addresses the officer's career trajectory." },
+        { "distractor": "commended", "closeness": 2, "reasoning": "Commendation is praise for merit, which overshoots a report that pairs its finding with a warning about recurring failures." },
+        { "distractor": "retrained", "closeness": 2, "reasoning": "Retraining is an intervention aimed at the individual, while the recommendations named are explicitly systemic." },
+        { "distractor": "indicted", "closeness": 1, "reasoning": "Charging the officer would contradict the contrast the sentence draws with its purely structural recommendations." },
+        { "distractor": "suspended", "closeness": 1, "reasoning": "Suspension is a penalty, incompatible with a report whose only corrective aim is at the system." },
+        { "distractor": "blamed", "closeness": 1, "reasoning": "If the officer were held at fault, the word 'but' before the systemic recommendations would make no sense." }
+      ]
+    },
+    {
+      "sentence": "The settlement exonerated the widow from the debts her husband had quietly accumulated before his death.",
+      "answerChoices": [
+        { "distractor": "absolved", "closeness": 3, "reasoning": "Absolution forgives a wrong the person committed, but the debts were run up by her husband and the settlement is lifting a financial obligation, not pardoning conduct." },
+        { "distractor": "protected", "closeness": 3, "reasoning": "Protection would guard her against collectors while the obligation itself stood, whereas the settlement removes the liability outright." },
+        { "distractor": "exempted", "closeness": 3, "reasoning": "An exemption carves someone out of a rule before it ever applies to them, but these debts had already attached to the estate she inherited." },
+        { "distractor": "shielded", "closeness": 3, "reasoning": "Shielding suggests interposing a defense between her and the creditors, which is weaker than a settlement that resolves what she owes." },
+        { "distractor": "compensated", "closeness": 2, "reasoning": "Compensation would pay her something, but the sentence describes an obligation being lifted from her rather than money flowing toward her." },
+        { "distractor": "informed", "closeness": 2, "reasoning": "Informing concerns her learning about the debts, while the settlement is what changes her legal position with respect to them." },
+        { "distractor": "reimbursed", "closeness": 2, "reasoning": "Reimbursement returns money already spent, yet the debts are described as unpaid obligations her husband left behind." },
+        { "distractor": "insured", "closeness": 2, "reasoning": "Insurance is a prior arrangement against future loss, not a settlement resolving liabilities that already exist." },
+        { "distractor": "burdened", "closeness": 1, "reasoning": "Adding to her obligations reverses what a settlement resolving her husband's debts accomplishes." },
+        { "distractor": "billed", "closeness": 1, "reasoning": "Billing her would enforce the debts rather than release her from them." },
+        { "distractor": "sued", "closeness": 1, "reasoning": "A settlement is what ends litigation, so it cannot be the act of bringing a claim against her." }
+      ]
+    },
+    {
+      "sentence": "Even after the lab retracted its findings, nothing could exonerate the researcher in the eyes of the colleagues who had lost grants over the affair.",
+      "answerChoices": [
+        { "distractor": "vindicate", "closeness": 3, "reasoning": "Vindication would show the researcher's position was correct all along, but the retraction concerns whether blame sticks, and the colleagues' grievance is about the damage they suffered." },
+        { "distractor": "rehabilitate", "closeness": 3, "reasoning": "Rehabilitation restores standing over time through subsequent conduct, while the sentence describes a single retraction failing to shift a fixed judgment." },
+        { "distractor": "console", "closeness": 3, "reasoning": "Consolation would address the researcher's distress, yet the sentence turns on how the colleagues regard him, not on how he feels." },
+        { "distractor": "reconcile", "closeness": 3, "reasoning": "Reconciling would repair the relationship between the parties, but the obstacle described is the verdict the colleagues hold, which is about fault rather than friendship." },
+        { "distractor": "reimburse", "closeness": 2, "reasoning": "Repaying the lost grant money would address the financial harm without touching the judgment the colleagues have formed about who was responsible." },
+        { "distractor": "persuade", "closeness": 2, "reasoning": "Persuasion takes an argument as its object, whereas the sentence needs something done to the researcher's standing with the aggrieved colleagues." },
+        { "distractor": "impress", "closeness": 2, "reasoning": "Impressing them would win admiration, which is beside the point for people whose complaint is the grants they lost." },
+        { "distractor": "restore", "closeness": 2, "reasoning": "Restoration would return something taken, but what the colleagues withhold is a favorable view rather than a possession." },
+        { "distractor": "implicate", "closeness": 1, "reasoning": "Tying him further to the affair would confirm the colleagues' view instead of countering it." },
+        { "distractor": "accuse", "closeness": 1, "reasoning": "An accusation is what the retraction was supposed to undercut, not something that could relieve him." },
+        { "distractor": "penalize", "closeness": 1, "reasoning": "Punishing him would deepen the harm the retraction was meant to offset." }
+      ]
+    }
+  ]
+}

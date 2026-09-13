@@ -1,0 +1,53 @@
+{
+  "word": "hobble",
+  "sentenceSets": [
+    {
+      "sentence": "The contractual restrictions hobbled the company, preventing it from responding to market changes with any speed.",
+      "answerChoices": [
+        { "distractor": "paralyzed", "closeness": 3, "reasoning": "Paralysis would stop the company entirely, but the sentence says it could still respond, only never quickly." },
+        { "distractor": "bankrupted", "closeness": 3, "reasoning": "Bankruptcy is a financial collapse, whereas the harm described is a loss of speed in reacting to the market." },
+        { "distractor": "restructured", "closeness": 3, "reasoning": "Restructuring reorganizes a company's shape, while these restrictions leave it intact and merely slow." },
+        { "distractor": "dissolved", "closeness": 3, "reasoning": "Dissolution ends a company's existence, which conflicts with one still trying to respond to market changes." },
+        { "distractor": "audited", "closeness": 2, "reasoning": "An audit reviews the books and would not itself account for sluggish responses to the market." },
+        { "distractor": "insured", "closeness": 2, "reasoning": "Insurance protects against loss rather than limiting how fast a firm can act." },
+        { "distractor": "sued", "closeness": 2, "reasoning": "A lawsuit is a proceeding brought by a party, while the sentence attributes the effect to the terms themselves." },
+        { "distractor": "acquired", "closeness": 2, "reasoning": "Acquisition transfers ownership and does not describe an impairment of responsiveness." },
+        { "distractor": "accelerated", "closeness": 1, "reasoning": "Speeding the company up contradicts restrictions that kept it from responding quickly." },
+        { "distractor": "liberated", "closeness": 1, "reasoning": "Freeing the company is the opposite of what contractual restrictions did to it." },
+        { "distractor": "rewarded", "closeness": 1, "reasoning": "A reward is a benefit, which cannot be squared with an inability to react to the market." }
+      ]
+    },
+    {
+      "sentence": "He hobbled from the car to the front steps, pausing twice to let the pain in his knee subside.",
+      "answerChoices": [
+        { "distractor": "strolled", "closeness": 3, "reasoning": "Strolling is leisurely and easy, but he has to stop twice for pain, which makes his progress laborious rather than relaxed." },
+        { "distractor": "sprinted", "closeness": 3, "reasoning": "Sprinting is fast running, impossible for someone who must pause repeatedly because of his knee." },
+        { "distractor": "crawled", "closeness": 3, "reasoning": "Crawling puts a person on hands and knees, which would aggravate rather than spare the knee the sentence says is hurting." },
+        { "distractor": "marched", "closeness": 3, "reasoning": "Marching implies a steady, disciplined stride, which the two forced stops rule out." },
+        { "distractor": "drove", "closeness": 2, "reasoning": "He has already left the car, so the movement to the steps is made on foot." },
+        { "distractor": "glanced", "closeness": 2, "reasoning": "Glancing is a movement of the eyes and cannot carry him from the car to the steps." },
+        { "distractor": "shouted", "closeness": 2, "reasoning": "Shouting is a vocal act and does not describe covering the distance to the front steps." },
+        { "distractor": "waved", "closeness": 2, "reasoning": "Waving is a gesture rather than a way of traveling to the house." },
+        { "distractor": "leapt", "closeness": 1, "reasoning": "Leaping demands exactly the sound knee he does not have." },
+        { "distractor": "danced", "closeness": 1, "reasoning": "Dancing is incompatible with pausing twice for pain on a short walk." },
+        { "distractor": "vaulted", "closeness": 1, "reasoning": "Vaulting requires springing off the legs, which his knee will not permit." }
+      ]
+    },
+    {
+      "sentence": "The herders hobble their horses at night so the animals can graze without wandering past the ridge.",
+      "answerChoices": [
+        { "distractor": "tether", "closeness": 3, "reasoning": "Tethering ties a horse to a fixed point, which would keep it in one spot rather than letting it graze across the area up to the ridge." },
+        { "distractor": "corral", "closeness": 3, "reasoning": "Corralling puts the animals inside a built enclosure, but these horses are out on open ground restrained only enough to limit how far they get." },
+        { "distractor": "saddle", "closeness": 3, "reasoning": "Saddling prepares a horse to be ridden and would not be done for animals left to graze overnight." },
+        { "distractor": "shoe", "closeness": 3, "reasoning": "Shoeing fits iron to the hooves for travel over hard ground and has nothing to do with keeping horses near camp." },
+        { "distractor": "brand", "closeness": 2, "reasoning": "Branding marks ownership, which helps recover strays but does not stop them straying in the first place." },
+        { "distractor": "groom", "closeness": 2, "reasoning": "Grooming cleans the coat and would do nothing to limit where the horses go overnight." },
+        { "distractor": "water", "closeness": 2, "reasoning": "Watering the horses meets a need but does not restrain their movement past the ridge." },
+        { "distractor": "count", "closeness": 2, "reasoning": "Counting the herd checks how many remain rather than preventing them from wandering." },
+        { "distractor": "release", "closeness": 1, "reasoning": "Releasing the horses would let them wander freely, the outcome the herders are guarding against." },
+        { "distractor": "race", "closeness": 1, "reasoning": "Racing horses at night is unrelated to letting them graze near camp." },
+        { "distractor": "sell", "closeness": 1, "reasoning": "Selling the horses would remove them altogether rather than keep them grazing within sight." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "exscind",
+  "sentenceSets": [
+    {
+      "sentence": "The surgeon exscinded the affected tissue with precision, preserving the surrounding structures.",
+      "answerChoices": [
+        { "distractor": "cauterized", "closeness": 3, "reasoning": "Cauterizing burns tissue in place to seal it, whereas the sentence contrasts what was taken with the surrounding structures left behind, implying the diseased part was removed entirely." },
+        { "distractor": "treated", "closeness": 3, "reasoning": "Treating is a general term covering drugs, radiation, and rest, but the emphasis on precision and on sparing adjacent structures points to a physical taking-out." },
+        { "distractor": "biopsied", "closeness": 3, "reasoning": "A biopsy takes a small sample for testing, while the sentence describes dealing with the affected tissue as a whole." },
+        { "distractor": "sutured", "closeness": 3, "reasoning": "Suturing closes a wound and would come after the diseased tissue was dealt with, not instead of it." },
+        { "distractor": "examined", "closeness": 2, "reasoning": "Examining involves no intervention and could not be praised for preserving the surrounding structures." },
+        { "distractor": "irrigated", "closeness": 2, "reasoning": "Irrigating flushes a site with fluid rather than addressing the affected tissue itself." },
+        { "distractor": "photographed", "closeness": 2, "reasoning": "Imaging records the site and leaves the affected tissue exactly where it was." },
+        { "distractor": "bandaged", "closeness": 2, "reasoning": "Bandaging covers a wound from outside and does nothing about diseased tissue within." },
+        { "distractor": "grafted", "closeness": 1, "reasoning": "Grafting adds tissue to a site, the opposite of dealing with tissue that is diseased." },
+        { "distractor": "cultivated", "closeness": 1, "reasoning": "Cultivating would encourage the affected tissue to grow, contradicting the point of the procedure." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Ignoring the tissue cannot be done with precision, and the sentence credits the surgeon with careful work on it." }
+      ]
+    },
+    {
+      "sentence": "Before the second printing the author exscinded an entire chapter, and the book reads faster for its absence.",
+      "answerChoices": [
+        { "distractor": "condensed", "closeness": 3, "reasoning": "Condensing compresses a chapter into fewer pages while keeping its substance, but the sentence says the book improved because the chapter is absent altogether." },
+        { "distractor": "rewrote", "closeness": 3, "reasoning": "Rewriting keeps the chapter in the book in altered form, which conflicts with the improvement being credited to its absence." },
+        { "distractor": "relocated", "closeness": 3, "reasoning": "Moving the chapter elsewhere would leave it in the volume, yet the sentence attributes the faster reading to its no longer being there." },
+        { "distractor": "serialized", "closeness": 3, "reasoning": "Serializing a chapter would publish it in parts somewhere, which has no bearing on how the book itself now reads." },
+        { "distractor": "annotated", "closeness": 2, "reasoning": "Annotating adds notes to the chapter and would slow the reading rather than quicken it." },
+        { "distractor": "footnoted", "closeness": 2, "reasoning": "Turning the material into footnotes would keep it in the volume, which the phrase about its absence rules out." },
+        { "distractor": "illustrated", "closeness": 2, "reasoning": "Adding images to the chapter is an addition, not the removal the sentence describes." },
+        { "distractor": "praised", "closeness": 2, "reasoning": "Praising his own chapter would not change the physical contents of the second printing." },
+        { "distractor": "appended", "closeness": 1, "reasoning": "Appending adds material to the end, the reverse of a chapter that is gone." },
+        { "distractor": "expanded", "closeness": 1, "reasoning": "Expanding would lengthen the book, contradicting the faster read produced by the cut." },
+        { "distractor": "reinstated", "closeness": 1, "reasoning": "Reinstating would put the chapter back, which cannot explain the book reading faster for its absence." }
+      ]
+    },
+    {
+      "sentence": "Editors of the state broadcaster were told to exscind any reference to the strike from the evening bulletin.",
+      "answerChoices": [
+        { "distractor": "downplay", "closeness": 3, "reasoning": "Downplaying would keep the strike in the bulletin while softening it, but the instruction covers any reference at all, leaving nothing behind." },
+        { "distractor": "qualify", "closeness": 3, "reasoning": "Qualifying adds hedges to a claim, which still requires the strike to be mentioned in the broadcast." },
+        { "distractor": "postpone", "closeness": 3, "reasoning": "Postponing would hold the item for a later bulletin, whereas the order concerns what the evening broadcast is to contain at all." },
+        { "distractor": "dispute", "closeness": 3, "reasoning": "Disputing the reports would put the broadcaster into open argument about the strike rather than clearing it from the script." },
+        { "distractor": "investigate", "closeness": 2, "reasoning": "Investigating would produce more coverage of the strike, not the handling of references the order demands." },
+        { "distractor": "broadcast", "closeness": 2, "reasoning": "Broadcasting the references would carry them to the audience, which is plainly not what editors under instruction were asked to do." },
+        { "distractor": "verify", "closeness": 2, "reasoning": "Verification is routine editorial checking and would not need to be ordered specifically for one subject." },
+        { "distractor": "translate", "closeness": 2, "reasoning": "Translating the references changes the language while keeping them in the bulletin." },
+        { "distractor": "highlight", "closeness": 1, "reasoning": "Highlighting the strike is the opposite of what a state broadcaster's editors were being told to do with it." },
+        { "distractor": "expand", "closeness": 1, "reasoning": "Expanding the coverage contradicts an order aimed at references to the strike in the bulletin." },
+        { "distractor": "applaud", "closeness": 1, "reasoning": "Applauding the strike on air is not a treatment of references within a script." }
+      ]
+    }
+  ]
+}

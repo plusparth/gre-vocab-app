@@ -1,0 +1,53 @@
+{
+  "word": "inviolate",
+  "sentenceSets": [
+    {
+      "sentence": "She kept the confidence inviolate, even when telling it would have materially helped her own position.",
+      "answerChoices": [
+        { "distractor": "secret", "closeness": 3, "reasoning": "Secret describes the information's status, but the sentence is about her conduct under temptation—what she refused to do when disclosure would have paid." },
+        { "distractor": "intact", "closeness": 3, "reasoning": "Intact would say nothing had been damaged, while the pressure the sentence describes is specifically to speak." },
+        { "distractor": "sacrosanct", "closeness": 3, "reasoning": "Sacrosanct means everyone regards the thing as untouchable, whereas the sentence shows her alone deciding to honor it against her own interest." },
+        { "distractor": "confidential", "closeness": 3, "reasoning": "Confidential describes how the information was classified when it was given to her, not whether she honored that classification when it cost her." },
+        { "distractor": "private", "closeness": 2, "reasoning": "Private describes the kind of matter involved, and the sentence is about what she did with it rather than what sort of thing it was." },
+        { "distractor": "sealed", "closeness": 2, "reasoning": "Sealed suggests a physical document closed against inspection, but the confidence here is something she could simply have said aloud." },
+        { "distractor": "hidden", "closeness": 2, "reasoning": "Hidden implies active concealment from searchers, while the sentence describes her declining an opportunity to speak." },
+        { "distractor": "guarded", "closeness": 2, "reasoning": "Guarded describes wariness in how one speaks, which falls short of the flat refusal the sentence records even at a cost to herself." },
+        { "distractor": "public", "closeness": 1, "reasoning": "Making it public is exactly what she declined to do." },
+        { "distractor": "compromised", "closeness": 1, "reasoning": "Compromised would mean the confidence had been broken, contradicting the sentence." },
+        { "distractor": "notorious", "closeness": 1, "reasoning": "Notorious means widely and unfavorably known, the opposite of something she kept to herself." }
+      ]
+    },
+    {
+      "sentence": "The treaty promised that the burial grounds would remain inviolate, a promise the survey crews broke within eleven years.",
+      "answerChoices": [
+        { "distractor": "undisturbed", "closeness": 3, "reasoning": "Undisturbed describes a physical condition that weather or animals could upset just as easily, while the sentence names human crews breaking a promise, which makes the guarantee one against entry by right." },
+        { "distractor": "protected", "closeness": 3, "reasoning": "Protected implies someone posted to guard the site, but the treaty's promise was that no one would come, not that anyone would stand watch." },
+        { "distractor": "sacred", "closeness": 3, "reasoning": "Sacred concerns the site's religious standing, which a treaty can acknowledge but cannot confer or withdraw." },
+        { "distractor": "untouched", "closeness": 3, "reasoning": "Untouched reports a state of affairs, whereas what the crews violated was an undertaking that the ground was not to be entered at all." },
+        { "distractor": "unmarked", "closeness": 2, "reasoning": "Unmarked would mean no boundary or monument was set up, but a treaty securing burial grounds would more likely mark them than hide them." },
+        { "distractor": "preserved", "closeness": 2, "reasoning": "Preserved implies active upkeep, which is a different obligation from leaving a place alone." },
+        { "distractor": "fenced", "closeness": 2, "reasoning": "Fenced describes a physical barrier, and the sentence's promise is a legal undertaking that crews later disregarded." },
+        { "distractor": "restricted", "closeness": 2, "reasoning": "Restricted implies access granted under conditions, while the promise the crews broke admitted of no conditions." },
+        { "distractor": "excavated", "closeness": 1, "reasoning": "Excavation is what breaking the promise would amount to, not what the treaty guaranteed." },
+        { "distractor": "developed", "closeness": 1, "reasoning": "Development of the ground is the opposite of what a treaty protecting burial grounds would promise." },
+        { "distractor": "forfeited", "closeness": 1, "reasoning": "Forfeited would mean the ground was surrendered, which no one would promise on behalf of a burial site." }
+      ]
+    },
+    {
+      "sentence": "He treated the rule against speaking to reporters as inviolate, and twenty years of pressure never produced an exception.",
+      "answerChoices": [
+        { "distractor": "absolute", "closeness": 3, "reasoning": "Absolute describes the wording of a rule as admitting no degrees, but the evidence the sentence offers is about his own conduct over twenty years, not about how the rule was drafted." },
+        { "distractor": "binding", "closeness": 3, "reasoning": "Binding means formally enforceable by someone else, while the sentence shows him honoring the rule by his own resolve under pressure." },
+        { "distractor": "unconditional", "closeness": 3, "reasoning": "Unconditional describes a rule written without provisos, whereas what the sentence records is that no circumstance ever moved him to set it aside." },
+        { "distractor": "rigid", "closeness": 3, "reasoning": "Rigid is ordinarily a complaint about inflexibility, yet the sentence presents twenty years without an exception as a record he kept rather than a fault." },
+        { "distractor": "permanent", "closeness": 2, "reasoning": "Permanent concerns how long the rule stays in force, not whether he would break it when pressed." },
+        { "distractor": "immutable", "closeness": 2, "reasoning": "Immutable means the rule cannot be amended, but the sentence is about his obedience to it rather than anyone's power to rewrite it." },
+        { "distractor": "explicit", "closeness": 2, "reasoning": "Explicit describes clarity of wording, which would not by itself explain twenty years of unbroken compliance." },
+        { "distractor": "customary", "closeness": 2, "reasoning": "Customary would make the rule a habit others share, while the sentence singles out how he in particular treated it." },
+        { "distractor": "negotiable", "closeness": 1, "reasoning": "Negotiable would invite exactly the exceptions the sentence says were never made." },
+        { "distractor": "optional", "closeness": 1, "reasoning": "Optional would mean the rule could be ignored at will, contradicting twenty years of pressure failing to move him." },
+        { "distractor": "obsolete", "closeness": 1, "reasoning": "Obsolete would mean the rule no longer applied, leaving nothing for the pressure to test." }
+      ]
+    }
+  ]
+}

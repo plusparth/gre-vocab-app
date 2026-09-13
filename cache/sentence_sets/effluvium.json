@@ -1,0 +1,53 @@
+{
+  "word": "effluvium",
+  "sentenceSets": [
+    {
+      "sentence": "An effluvium from the storage tanks permeated the neighborhood on warm days, making windows impossible to open.",
+      "answerChoices": [
+        { "distractor": "vapor", "closeness": 3, "reasoning": "A vapor is the gaseous form of a named liquid, but the sentence identifies only a source and an effect, describing whatever the tanks give off on warm days." },
+        { "distractor": "miasma", "closeness": 3, "reasoning": "A miasma is a thick, unwholesome cloud believed to breed sickness, yet the complaint here is that people cannot open their windows, not that anyone fell ill." },
+        { "distractor": "exhalation", "closeness": 3, "reasoning": "An exhalation implies something breathed out by a living body, an image at odds with sealed industrial tanks." },
+        { "distractor": "emanation", "closeness": 3, "reasoning": "An emanation may be anything at all that issues from a source, including heat or light, and carries none of the offensiveness that shuts windows." },
+        { "distractor": "haze", "closeness": 2, "reasoning": "A haze is visible and would obscure the view rather than force windows closed." },
+        { "distractor": "residue", "closeness": 2, "reasoning": "A residue settles on surfaces and would be wiped away, not something that permeates a neighborhood in warm weather." },
+        { "distractor": "spill", "closeness": 2, "reasoning": "A spill is a single escape of liquid onto the ground, whereas this recurs whenever the weather turns warm." },
+        { "distractor": "emission", "closeness": 2, "reasoning": "Emission is the regulatory term for a measured release, but the sentence conveys what residents experience rather than what any monitor recorded." },
+        { "distractor": "breeze", "closeness": 1, "reasoning": "A breeze would carry the problem rather than be it, and open windows welcome breezes." },
+        { "distractor": "fragrance", "closeness": 1, "reasoning": "A fragrance is pleasant and would not keep a neighborhood shut indoors." },
+        { "distractor": "chill", "closeness": 1, "reasoning": "A chill contradicts the warm days that bring the problem on." }
+      ]
+    },
+    {
+      "sentence": "A faint effluvium of formaldehyde hung about the specimen room long after the last jar had been sealed.",
+      "answerChoices": [
+        { "distractor": "odor", "closeness": 3, "reasoning": "An odor is what a nose detects, but the sentence describes something that hangs in the room as a lingering physical presence traceable to the sealed jars." },
+        { "distractor": "reek", "closeness": 3, "reasoning": "A reek is powerful and rank, which contradicts the modifier 'faint.'" },
+        { "distractor": "whiff", "closeness": 3, "reasoning": "A whiff is caught for an instant in passing, whereas this persists in the room long after the jars were closed." },
+        { "distractor": "aura", "closeness": 3, "reasoning": "An aura is an intangible atmosphere surrounding a person or place, not something given off by a chemical preservative." },
+        { "distractor": "film", "closeness": 2, "reasoning": "A film would coat the glass and benches, but the sentence says the thing hangs about the room rather than lying on its surfaces." },
+        { "distractor": "cloud", "closeness": 2, "reasoning": "A cloud would be visible and dense, at odds with something described as faint." },
+        { "distractor": "stain", "closeness": 2, "reasoning": "A stain is a fixed mark on a surface and cannot hang about a room." },
+        { "distractor": "memory", "closeness": 2, "reasoning": "A memory belongs to a person, while this is attributed to the formaldehyde itself and to the sealed jars." },
+        { "distractor": "perfume", "closeness": 1, "reasoning": "Perfume is an agreeable scent applied on purpose, which formaldehyde in a specimen room is not." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence has no connection to a chemical lingering after jars are sealed." },
+        { "distractor": "glow", "closeness": 1, "reasoning": "A glow is light, and nothing about formaldehyde or the sealed jars produces one." }
+      ]
+    },
+    {
+      "sentence": "Something in the marsh released an effluvium that the villagers had long blamed for their summer fevers.",
+      "answerChoices": [
+        { "distractor": "exudation", "closeness": 3, "reasoning": "An exudation oozes out and clings to the surface it comes from, but the villagers connect their illness to something carried through the air to their houses." },
+        { "distractor": "seepage", "closeness": 3, "reasoning": "Seepage moves through soil and water, whereas fevers blamed on a marsh in summer point to what rises from it rather than what drains out of it." },
+        { "distractor": "fume", "closeness": 3, "reasoning": "A fume implies burning or a strong chemical reaction, which a marsh does not supply." },
+        { "distractor": "damp", "closeness": 3, "reasoning": "A damp is moisture in the air, and the sentence says the marsh released something, a discrete emission rather than general wetness." },
+        { "distractor": "toxin", "closeness": 2, "reasoning": "A toxin is identified by its chemistry and effect, but the villagers' belief rests on what they could smell and sense rather than on any analysis." },
+        { "distractor": "spore", "closeness": 2, "reasoning": "A spore is a discrete reproductive particle, and the sentence describes a single continuous release from the marsh rather than countable objects." },
+        { "distractor": "sediment", "closeness": 2, "reasoning": "Sediment settles at the bottom of standing water and could not travel to the village to be blamed for fevers." },
+        { "distractor": "current", "closeness": 2, "reasoning": "A current is a movement of water or air and is not something a marsh releases." },
+        { "distractor": "blessing", "closeness": 1, "reasoning": "A blessing could not be blamed for recurring summer fevers." },
+        { "distractor": "melody", "closeness": 1, "reasoning": "A melody is sound and has nothing to do with illness attributed to a marsh." },
+        { "distractor": "harvest", "closeness": 1, "reasoning": "A harvest is gathered by people, not released by a marsh." }
+      ]
+    }
+  ]
+}

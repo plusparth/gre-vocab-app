@@ -1,0 +1,53 @@
+{
+  "word": "husbandry",
+  "sentenceSets": [
+    {
+      "sentence": "Good husbandry of the organization's resources meant it could withstand disruptions that overwhelmed less prudent competitors.",
+      "answerChoices": [
+        { "distractor": "accounting", "closeness": 3, "reasoning": "Accounting records where money went, but the sentence credits the organization with surviving shocks, which depends on how the resources were tended rather than how they were tallied." },
+        { "distractor": "hoarding", "closeness": 3, "reasoning": "Hoarding piles things up indiscriminately, whereas the word 'prudent' in the comparison points to careful management rather than mere accumulation." },
+        { "distractor": "expansion", "closeness": 3, "reasoning": "Expansion consumes resources to grow, which is a strategy that leaves a firm more exposed to disruption, not less." },
+        { "distractor": "valuation", "closeness": 3, "reasoning": "Valuation puts a price on what an organization holds and does not by itself prepare it to absorb a shock." },
+        { "distractor": "advertising", "closeness": 2, "reasoning": "Advertising spends resources to attract attention rather than conserving them against hard times." },
+        { "distractor": "insurance", "closeness": 2, "reasoning": "Insurance transfers risk to a third party, while the sentence attributes the resilience to the organization's own handling of what it had." },
+        { "distractor": "inventory", "closeness": 2, "reasoning": "An inventory is a list of holdings, a snapshot rather than the ongoing prudence the comparison with competitors implies." },
+        { "distractor": "regulation", "closeness": 2, "reasoning": "Regulation is imposed from outside, but the quality being praised is the organization's own stewardship." },
+        { "distractor": "squandering", "closeness": 1, "reasoning": "Wasting resources would leave the organization worse placed than the less prudent competitors, not better." },
+        { "distractor": "negligence", "closeness": 1, "reasoning": "Negligence is the opposite of the prudence the sentence contrasts with rivals who were overwhelmed." },
+        { "distractor": "extravagance", "closeness": 1, "reasoning": "Lavish spending would exhaust reserves rather than build the cushion the sentence describes." }
+      ]
+    },
+    {
+      "sentence": "Three generations of careful husbandry had turned thin upland soil into pasture that carried more sheep than the valley farms.",
+      "answerChoices": [
+        { "distractor": "irrigation", "closeness": 3, "reasoning": "Irrigation adds water, a single technique, while the sentence credits an accumulated practice sustained across three generations to build the ground up." },
+        { "distractor": "surveying", "closeness": 3, "reasoning": "Surveying measures and maps land and leaves its fertility exactly as it found it." },
+        { "distractor": "enclosure", "closeness": 3, "reasoning": "Enclosure fences land into private holdings, an act of ownership rather than the long work that improved thin soil." },
+        { "distractor": "harvesting", "closeness": 3, "reasoning": "Harvesting takes the crop off the land, whereas the achievement described is land made more productive over time." },
+        { "distractor": "taxation", "closeness": 2, "reasoning": "Taxes are levied by an authority and would not transform upland soil into good pasture." },
+        { "distractor": "excavation", "closeness": 2, "reasoning": "Excavation digs ground out, which would strip the thin soil rather than improve it." },
+        { "distractor": "inheritance", "closeness": 2, "reasoning": "Inheritance passes land down, but what changed the soil was the work done on it, not the fact of succession." },
+        { "distractor": "speculation", "closeness": 2, "reasoning": "Speculating on land value is a financial activity that leaves the pasture itself untouched." },
+        { "distractor": "neglect", "closeness": 1, "reasoning": "Neglect would leave the upland thinner still, not carrying more sheep than the valley." },
+        { "distractor": "abandonment", "closeness": 1, "reasoning": "Abandoned ground cannot become pasture that outperforms the farms below." },
+        { "distractor": "erosion", "closeness": 1, "reasoning": "Erosion strips soil away, contradicting three generations of improvement." }
+      ]
+    },
+    {
+      "sentence": "The college offers a degree in animal husbandry, and most of its graduates go straight into dairy work.",
+      "answerChoices": [
+        { "distractor": "behavior", "closeness": 3, "reasoning": "Animal behavior is a research field studying how creatures act, while these graduates go directly into the practical business of running dairy herds." },
+        { "distractor": "anatomy", "closeness": 3, "reasoning": "Anatomy is the study of bodily structure, a laboratory subject rather than training that leads straight onto a working farm." },
+        { "distractor": "medicine", "closeness": 3, "reasoning": "Veterinary medicine treats sick animals and requires clinical licensing, which is a different path from going into dairy work after graduation." },
+        { "distractor": "photography", "closeness": 3, "reasoning": "Photographing animals is an artistic pursuit and would not funnel graduates into dairies." },
+        { "distractor": "rights", "closeness": 2, "reasoning": "Animal rights is an ethical and legal field whose graduates would head into advocacy rather than milking parlors." },
+        { "distractor": "taxonomy", "closeness": 2, "reasoning": "Taxonomy classifies species and belongs to museum and academic work rather than to dairy farming." },
+        { "distractor": "psychology", "closeness": 2, "reasoning": "Animal psychology investigates minds and learning, which is not the training a dairy employer looks for." },
+        { "distractor": "illustration", "closeness": 2, "reasoning": "Illustration is a drawing skill unrelated to the careers the sentence says graduates enter." },
+        { "distractor": "mythology", "closeness": 1, "reasoning": "Mythology studies stories and would lead nowhere near a working dairy." },
+        { "distractor": "cruelty", "closeness": 1, "reasoning": "No college awards a degree in cruelty, and it would not prepare anyone for dairy work." },
+        { "distractor": "extinction", "closeness": 1, "reasoning": "Extinction is an outcome studied by conservation biologists, not a course of training for dairy employment." }
+      ]
+    }
+  ]
+}

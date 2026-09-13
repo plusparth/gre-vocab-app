@@ -1,0 +1,53 @@
+{
+  "word": "perfidious",
+  "sentenceSets": [
+    {
+      "sentence": "The perfidious ally had provided intelligence that served its own interests and damaged the interests it had claimed to share.",
+      "answerChoices": [
+        { "distractor": "duplicitous", "closeness": 3, "reasoning": "Duplicity locates the fault in saying one thing while meaning another, but the injury here was done through the material the ally actually handed over, in breach of a standing alliance rather than in a conversation." },
+        { "distractor": "mercenary", "closeness": 3, "reasoning": "Mercenary means acting for payment, and the gain the sentence names is the ally's own interests, with no money changing hands." },
+        { "distractor": "opportunistic", "closeness": 3, "reasoning": "Opportunism takes whatever circumstances offer, whereas this ally had first claimed a shared interest and then acted against it, which adds a broken undertaking to mere self-interest." },
+        { "distractor": "self-serving", "closeness": 3, "reasoning": "Self-serving covers only the first half of the sentence and leaves out the harm done to the partner the ally had promised to stand beside." },
+        { "distractor": "incompetent", "closeness": 2, "reasoning": "Incompetence would mean the damage was an accident, but the intelligence is described as serving the ally's own ends precisely." },
+        { "distractor": "reckless", "closeness": 2, "reasoning": "Recklessness is indifference to consequences, and this ally's supply of intelligence produced exactly the outcome that suited it." },
+        { "distractor": "secretive", "closeness": 2, "reasoning": "Secrecy would mean withholding information, while the whole complaint is about what the ally did provide." },
+        { "distractor": "unreliable", "closeness": 2, "reasoning": "Unreliability suggests inconsistency, but the sentence describes a purposeful act aligned with the ally's own advantage." },
+        { "distractor": "loyal", "closeness": 1, "reasoning": "Loyalty is the opposite of damaging the interests one has claimed to share." },
+        { "distractor": "steadfast", "closeness": 1, "reasoning": "Standing firm with a partner cannot describe an ally that acted against that partner's interests." },
+        { "distractor": "candid", "closeness": 1, "reasoning": "Openness is ruled out by an ally that made a claim about shared interests and then acted otherwise." }
+      ]
+    },
+    {
+      "sentence": "Her perfidious friend repeated in a sworn deposition every confidence she had promised never to write down.",
+      "answerChoices": [
+        { "distractor": "indiscreet", "closeness": 3, "reasoning": "Indiscretion is careless talk that slips out, but this friend testified under oath, a deliberate act in a formal proceeding, about secrets she had specifically undertaken to keep off paper." },
+        { "distractor": "malicious", "closeness": 3, "reasoning": "Malice requires a wish to injure, and the sentence establishes only that a promise was broken, not that harm was the object." },
+        { "distractor": "vindictive", "closeness": 3, "reasoning": "Vindictiveness is payback for some earlier injury, and no grievance of the friend's appears anywhere in the sentence." },
+        { "distractor": "hypocritical", "closeness": 3, "reasoning": "Hypocrisy is professing standards one does not live by, whereas what is broken here is a particular promise made to one particular person." },
+        { "distractor": "garrulous", "closeness": 2, "reasoning": "Garrulousness is talking too much in general, and a deposition is a setting where one answers specific questions under oath." },
+        { "distractor": "cowardly", "closeness": 2, "reasoning": "Cowardice would explain a refusal to speak, not the decision to repeat everything." },
+        { "distractor": "litigious", "closeness": 2, "reasoning": "Litigiousness means being quick to sue, but this friend is a witness in the matter rather than a party bringing it." },
+        { "distractor": "evasive", "closeness": 2, "reasoning": "Evasiveness would mean dodging the questions, and the sentence says she repeated every confidence." },
+        { "distractor": "discreet", "closeness": 1, "reasoning": "Discretion is exactly what the promise called for and exactly what the deposition destroyed." },
+        { "distractor": "protective", "closeness": 1, "reasoning": "Protecting her would have meant keeping the confidences out of the record." },
+        { "distractor": "forgetful", "closeness": 1, "reasoning": "Forgetting is impossible for someone who recounted every confidence she had been told." }
+      ]
+    },
+    {
+      "sentence": "Chroniclers of the period painted the duke as perfidious, a man who signed treaties in the morning and moved his cavalry by night.",
+      "answerChoices": [
+        { "distractor": "ruthless", "closeness": 3, "reasoning": "Ruthlessness is willingness to inflict harm without pity, but the detail the chroniclers dwell on is that the harm followed his own signature on a treaty." },
+        { "distractor": "ambitious", "closeness": 3, "reasoning": "Ambition would explain why he wanted more ground, not why the morning's signing and the night's march are set side by side as the damning pair." },
+        { "distractor": "capricious", "closeness": 3, "reasoning": "Caprice is unpredictable whim, whereas signing by day and marching by dark is a consistent method, repeated often enough for chroniclers to make it his emblem." },
+        { "distractor": "impetuous", "closeness": 3, "reasoning": "Impetuousness is acting on impulse, and moving cavalry under cover of night after a morning's ceremony shows deliberate planning." },
+        { "distractor": "belligerent", "closeness": 2, "reasoning": "Belligerence is a taste for war, which would not require him to sign the treaties first." },
+        { "distractor": "avaricious", "closeness": 2, "reasoning": "Greed concerns what he wanted, while the chroniclers' charge concerns how he obtained it after giving his word." },
+        { "distractor": "tyrannical", "closeness": 2, "reasoning": "Tyranny describes how a ruler treats his own subjects, and the sentence shows him dealing with the parties across the treaty table." },
+        { "distractor": "reclusive", "closeness": 2, "reasoning": "A recluse avoids the world, which cannot be said of a duke who signs treaties in the morning and campaigns at night." },
+        { "distractor": "scrupulous", "closeness": 1, "reasoning": "Scruple would have kept the cavalry in their quarters once the treaty was signed." },
+        { "distractor": "honorable", "closeness": 1, "reasoning": "Honor is precisely what the pairing of signature and night march denies him." },
+        { "distractor": "peaceable", "closeness": 1, "reasoning": "A peaceable man would not be moving cavalry at all, let alone after signing an agreement." }
+      ]
+    }
+  ]
+}

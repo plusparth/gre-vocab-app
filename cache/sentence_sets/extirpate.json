@@ -1,0 +1,53 @@
+{
+  "word": "extirpate",
+  "sentenceSets": [
+    {
+      "sentence": "The policy aimed to extirpate the practice entirely rather than simply regulate it.",
+      "answerChoices": [
+        { "distractor": "curtail", "closeness": 3, "reasoning": "Curtailing cuts something back while letting it continue at a reduced level, but the sentence sets the goal against regulation and marks it as total." },
+        { "distractor": "discourage", "closeness": 3, "reasoning": "Discouraging works on people's willingness and leaves the practice available to anyone undeterred, which falls short of the completeness the sentence insists on." },
+        { "distractor": "criminalize", "closeness": 3, "reasoning": "Criminalizing attaches a penalty, which is itself a form of regulation and so belongs on the side of the contrast the policy rejects." },
+        { "distractor": "supervise", "closeness": 3, "reasoning": "Supervision keeps the practice going under watch, the very alternative the sentence says the policy went beyond." },
+        { "distractor": "study", "closeness": 2, "reasoning": "Studying the practice gathers information and changes nothing about whether it continues." },
+        { "distractor": "tax", "closeness": 2, "reasoning": "Taxing raises the cost of continuing the practice, which presumes it will continue." },
+        { "distractor": "license", "closeness": 2, "reasoning": "Licensing formalizes permission to carry on, which is squarely on the regulatory side of the contrast." },
+        { "distractor": "document", "closeness": 2, "reasoning": "Documenting records the practice and is not an aim a policy would set against regulating it." },
+        { "distractor": "promote", "closeness": 1, "reasoning": "Promoting the practice reverses a policy framed as going further than mere regulation against it." },
+        { "distractor": "legalize", "closeness": 1, "reasoning": "Legalizing removes restrictions, the opposite direction from a policy that found regulation insufficient." },
+        { "distractor": "subsidize", "closeness": 1, "reasoning": "Funding the practice contradicts a policy aimed against it." }
+      ]
+    },
+    {
+      "sentence": "Rats introduced by whaling ships extirpated the petrels from the island within forty years, leaving only bones in the dunes.",
+      "answerChoices": [
+        { "distractor": "displaced", "closeness": 3, "reasoning": "Displacement moves a population elsewhere, but bones in the dunes and nothing else indicate the birds did not relocate." },
+        { "distractor": "decimated", "closeness": 3, "reasoning": "Decimating implies heavy losses with survivors remaining, while the sentence leaves only bones behind." },
+        { "distractor": "outcompeted", "closeness": 3, "reasoning": "Outcompeting describes an advantage in resources that plays out gradually, whereas the outcome recorded here is the petrels' complete disappearance from the island." },
+        { "distractor": "harassed", "closeness": 3, "reasoning": "Harassment would disturb the birds without accounting for a colony reduced to skeletal remains." },
+        { "distractor": "domesticated", "closeness": 2, "reasoning": "Domestication would mean taming the petrels, which rats could not do and which bones in the dunes contradict." },
+        { "distractor": "startled", "closeness": 2, "reasoning": "Startling is momentary and cannot explain a change measured over forty years." },
+        { "distractor": "colonized", "closeness": 2, "reasoning": "Colonizing describes what the rats did to the island rather than what happened to the birds." },
+        { "distractor": "catalogued", "closeness": 2, "reasoning": "Cataloguing is something naturalists do, not an effect rats have on a seabird colony." },
+        { "distractor": "protected", "closeness": 1, "reasoning": "Protection would have preserved the petrels, contradicting the remains left in the dunes." },
+        { "distractor": "propagated", "closeness": 1, "reasoning": "Propagating would increase the birds' numbers, which conflicts with their disappearance." },
+        { "distractor": "reintroduced", "closeness": 1, "reasoning": "Reintroduction brings a species back, the reverse of what the rats accomplished." }
+      ]
+    },
+    {
+      "sentence": "She spent three seasons trying to extirpate the bindweed, digging out every last white root before it could run under the fence again.",
+      "answerChoices": [
+        { "distractor": "prune", "closeness": 3, "reasoning": "Pruning trims growth to shape a plant and keep it healthy, but she is going after the roots so that nothing survives to spread." },
+        { "distractor": "contain", "closeness": 3, "reasoning": "Containing would keep the weed within bounds, yet she is chasing the roots under the fence rather than settling for a boundary." },
+        { "distractor": "transplant", "closeness": 3, "reasoning": "Transplanting moves a plant to a better spot, which is not the aim of someone digging out every last root of a weed." },
+        { "distractor": "mulch", "closeness": 3, "reasoning": "Mulching suppresses growth by covering the soil, a surface measure that would not involve extracting roots one by one." },
+        { "distractor": "fertilize", "closeness": 2, "reasoning": "Feeding the bindweed would encourage the very growth she has spent three seasons fighting." },
+        { "distractor": "harvest", "closeness": 2, "reasoning": "Harvesting gathers a crop for use, and nothing suggests she wants the bindweed for anything." },
+        { "distractor": "photograph", "closeness": 2, "reasoning": "Photographing records the plant and leaves its roots exactly where they are." },
+        { "distractor": "identify", "closeness": 2, "reasoning": "Identifying the species is a first step, but she already knows what she is digging out." },
+        { "distractor": "cultivate", "closeness": 1, "reasoning": "Cultivating the bindweed would be the opposite of three seasons spent removing its roots." },
+        { "distractor": "admire", "closeness": 1, "reasoning": "Admiration is incompatible with digging the plant out root by root." },
+        { "distractor": "propagate", "closeness": 1, "reasoning": "Propagating would multiply the bindweed she is trying to be rid of." }
+      ]
+    }
+  ]
+}

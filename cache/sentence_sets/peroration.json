@@ -1,0 +1,53 @@
+{
+  "word": "peroration",
+  "sentenceSets": [
+    {
+      "sentence": "His peroration was the strongest part of the address, arriving with the force of everything that had preceded it.",
+      "answerChoices": [
+        { "distractor": "preamble", "closeness": 3, "reasoning": "A preamble opens a speech, but this passage is described as arriving carrying the weight of everything already said, which places it at the far end." },
+        { "distractor": "digression", "closeness": 3, "reasoning": "A digression steps aside from the argument, whereas the power of this passage is said to come from all the argument that led up to it." },
+        { "distractor": "aside", "closeness": 3, "reasoning": "An aside is a small remark dropped in passing, too slight to be the strongest part of an address or to gather the force of everything before it." },
+        { "distractor": "summary", "closeness": 3, "reasoning": "A summary merely restates what has already been said, while this passage is described as the address's strongest stretch rather than a recapitulation of it." },
+        { "distractor": "refrain", "closeness": 2, "reasoning": "A refrain returns again and again, but the sentence gives this a single arrival at one moment in the speech." },
+        { "distractor": "anecdote", "closeness": 2, "reasoning": "An anecdote is a story inserted to illustrate a point, and it would draw its effect from itself rather than from everything preceding it." },
+        { "distractor": "rebuttal", "closeness": 2, "reasoning": "A rebuttal answers an opponent, and the sentence describes a single speaker's address with no adversary in it." },
+        { "distractor": "footnote", "closeness": 2, "reasoning": "A footnote is a minor qualification set apart from the main text, the opposite of the strongest part of a spoken address." },
+        { "distractor": "heckle", "closeness": 1, "reasoning": "A heckle comes from the audience, not from the speaker whose address is being described." },
+        { "distractor": "intermission", "closeness": 1, "reasoning": "An intermission is a pause in which nothing is said and so cannot be the strongest passage of a speech." },
+        { "distractor": "transcript", "closeness": 1, "reasoning": "A transcript is the written record made afterward rather than a part of the address as delivered." }
+      ]
+    },
+    {
+      "sentence": "By the time he reached his peroration half the hall had already begun edging quietly toward the doors.",
+      "answerChoices": [
+        { "distractor": "punchline", "closeness": 3, "reasoning": "A punchline is the single sharp line a joke turns on, while the sentence describes a stretch of speech he arrived at after a long approach that had worn the room out." },
+        { "distractor": "crescendo", "closeness": 3, "reasoning": "A crescendo is a swelling of sound, which could occur anywhere in a speech and does not name the part one reaches at the end of it." },
+        { "distractor": "encore", "closeness": 3, "reasoning": "An encore is an extra performance given because the audience calls for more, and this hall is emptying rather than demanding anything further." },
+        { "distractor": "postscript", "closeness": 3, "reasoning": "A postscript is appended after a piece is already finished, whereas he is still delivering the address while the doors begin to fill." },
+        { "distractor": "prologue", "closeness": 2, "reasoning": "A prologue comes first, but the audience here has endured enough of the speech to start leaving before he gets to this part." },
+        { "distractor": "sermon", "closeness": 2, "reasoning": "A sermon is an entire address, and the sentence needs something within the speech that he eventually reached." },
+        { "distractor": "ovation", "closeness": 2, "reasoning": "An ovation comes from the listeners, and these listeners are edging toward the exits instead of applauding." },
+        { "distractor": "interlude", "closeness": 2, "reasoning": "An interlude falls between parts of a program rather than at the point a speaker finally arrives at." },
+        { "distractor": "overture", "closeness": 1, "reasoning": "An overture opens a performance, which cannot be what he only reaches after half the hall has given up." },
+        { "distractor": "applause", "closeness": 1, "reasoning": "Applause belongs to the audience, and this audience is leaving." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence is the absence of speech and cannot be a part of an address that a speaker reaches." }
+      ]
+    },
+    {
+      "sentence": "The defense saved its documentary evidence for the peroration, so that the jury would hear the strongest exhibit last.",
+      "answerChoices": [
+        { "distractor": "cross-examination", "closeness": 3, "reasoning": "Cross-examination is the questioning of the other side's witnesses, not a passage of the defense's own speech into which it could place an exhibit." },
+        { "distractor": "opening", "closeness": 3, "reasoning": "The opening comes before any evidence is heard, and the point of the strategy described is that this material lands at the very end." },
+        { "distractor": "deliberation", "closeness": 3, "reasoning": "Deliberation is what the jurors do once the lawyers have stopped talking, so counsel could not schedule an exhibit inside it." },
+        { "distractor": "verdict", "closeness": 3, "reasoning": "A verdict is the jury's answer at the close, and the sentence describes something the jury is still being shown while the defense speaks." },
+        { "distractor": "recess", "closeness": 2, "reasoning": "A recess is a break in proceedings during which nothing is presented to the jury." },
+        { "distractor": "sidebar", "closeness": 2, "reasoning": "A sidebar is a private conference at the bench held out of the jury's hearing, which defeats the purpose of timing an exhibit for them." },
+        { "distractor": "affidavit", "closeness": 2, "reasoning": "An affidavit is itself a piece of evidence rather than the moment in the argument at which evidence is deployed." },
+        { "distractor": "docket", "closeness": 2, "reasoning": "A docket is the court's schedule of cases and has nothing to do with the order of material within one argument." },
+        { "distractor": "arraignment", "closeness": 1, "reasoning": "Arraignment happens at the very start of a prosecution, long before any jury hears exhibits." },
+        { "distractor": "sentencing", "closeness": 1, "reasoning": "Sentencing follows conviction, by which point the jury has already decided and no exhibit could sway it." },
+        { "distractor": "appeal", "closeness": 1, "reasoning": "An appeal is heard by another court entirely and involves no jury for the defense to time its evidence for." }
+      ]
+    }
+  ]
+}

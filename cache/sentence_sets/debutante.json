@@ -1,0 +1,53 @@
+{
+  "word": "debutante",
+  "sentenceSets": [
+    {
+      "sentence": "As a debutante in the conference circuit, she was surprised by how quickly she was taken seriously.",
+      "answerChoices": [
+        { "distractor": "novice", "closeness": 3, "reasoning": "A novice is someone still unskilled, but the surprise described is about her reception at a first appearance, not about her lacking ability — indeed she was taken seriously at once." },
+        { "distractor": "newcomer", "closeness": 3, "reasoning": "'Newcomer' merely marks recent arrival, while the sentence pivots on this being her formal first appearance on the circuit, the occasion that made the warm reception noteworthy." },
+        { "distractor": "initiate", "closeness": 3, "reasoning": "An initiate has been admitted into a closed body through some rite, yet nothing here suggests induction into a group; she simply made her first showing at conferences." },
+        { "distractor": "ingenue", "closeness": 3, "reasoning": "An ingenue is defined by naivety and innocence, which clashes with someone whose contributions were immediately given weight by a professional audience." },
+        { "distractor": "outsider", "closeness": 2, "reasoning": "An outsider is kept at the margins, contradicting the sentence's point that she was quickly accepted." },
+        { "distractor": "apprentice", "closeness": 2, "reasoning": "An apprentice works under a master, but no mentor or training relationship appears anywhere in the sentence." },
+        { "distractor": "amateur", "closeness": 2, "reasoning": "Amateur status implies she was not a professional, which sits badly with colleagues taking her seriously in her field." },
+        { "distractor": "observer", "closeness": 2, "reasoning": "An observer only watches, yet being 'taken seriously' requires that she was participating and being judged on what she offered." },
+        { "distractor": "veteran", "closeness": 1, "reasoning": "A veteran would expect to be taken seriously, so there would be nothing to be surprised about." },
+        { "distractor": "skeptic", "closeness": 1, "reasoning": "Skepticism describes an attitude she might hold, not a stage in her career on the circuit." },
+        { "distractor": "organizer", "closeness": 1, "reasoning": "An organizer runs the conferences and would already command attention by virtue of the role." }
+      ]
+    },
+    {
+      "sentence": "Photographers swarmed each debutante as she descended the staircase in white, her family name announced to the room just before her.",
+      "answerChoices": [
+        { "distractor": "socialite", "closeness": 3, "reasoning": "A socialite is already established in fashionable circles, whereas the announcement of the family name and the white dress mark this as a presentation of someone appearing for the first time." },
+        { "distractor": "belle", "closeness": 3, "reasoning": "A belle is singled out as the most admired woman present, but the photographers swarm every one of them in turn, which points to a ceremonial category rather than a distinction of beauty." },
+        { "distractor": "maiden", "closeness": 3, "reasoning": "'Maiden' picks out an unmarried young woman generally and misses the ritual occasion the staircase, the white dress, and the announced name together stage." },
+        { "distractor": "protegee", "closeness": 3, "reasoning": "A protegee is defined by her relation to a patron, yet what is announced is her own family name, and no sponsor appears in the scene." },
+        { "distractor": "heiress", "closeness": 2, "reasoning": "An heiress is marked by expected wealth, but the sentence gives us a ceremony of presentation rather than any mention of fortune." },
+        { "distractor": "bridesmaid", "closeness": 2, "reasoning": "A bridesmaid attends a bride, and no wedding or bride is present in this scene." },
+        { "distractor": "hostess", "closeness": 2, "reasoning": "A hostess receives guests rather than descending a staircase to be photographed and announced." },
+        { "distractor": "chaperone", "closeness": 2, "reasoning": "A chaperone accompanies and supervises someone else, which conflicts with being the one the photographers and the announcement are focused on." },
+        { "distractor": "widow", "closeness": 1, "reasoning": "A widow would not be dressed in white and presented as the evening's fresh arrival." },
+        { "distractor": "matron", "closeness": 1, "reasoning": "A matron is an older married woman, at odds with a ceremony introducing young women to society." },
+        { "distractor": "stranger", "closeness": 1, "reasoning": "The family name is announced to the room, so the woman is precisely not anonymous." }
+      ]
+    },
+    {
+      "sentence": "Her memoir treats the first exhibition as the moment she ceased to be a debutante and became a working artist.",
+      "answerChoices": [
+        { "distractor": "beginner", "closeness": 3, "reasoning": "'Beginner' concerns how little she could do, but the turning point named is an exhibition — a first public showing — rather than the acquisition of skill." },
+        { "distractor": "hopeful", "closeness": 3, "reasoning": "A hopeful is someone waiting for a chance, yet this stage ends at the exhibition itself, which is the appearance rather than the hoping." },
+        { "distractor": "aspirant", "closeness": 3, "reasoning": "An aspirant is still reaching for entry, whereas the sentence places her inside the art world already, making her debut within it." },
+        { "distractor": "trainee", "closeness": 3, "reasoning": "A trainee is under formal instruction, but nothing in the sentence involves a program or supervisor she graduated from; the marker is a show of her own work." },
+        { "distractor": "student", "closeness": 2, "reasoning": "Student status would end with a course or degree, not with a first exhibition." },
+        { "distractor": "dilettante", "closeness": 2, "reasoning": "A dilettante dabbles without seriousness, an insult the memoir's account of a career milestone does not imply." },
+        { "distractor": "unknown", "closeness": 2, "reasoning": "Being unknown is about public recognition, while the contrast drawn is with becoming a 'working' artist, which is about entering practice." },
+        { "distractor": "prodigy", "closeness": 2, "reasoning": "A prodigy is remarkable for precocious gifts, and one does not stop being a prodigy by holding an exhibition." },
+        { "distractor": "master", "closeness": 1, "reasoning": "Ceasing to be a master and becoming a working artist reverses the direction of the career the sentence traces." },
+        { "distractor": "patron", "closeness": 1, "reasoning": "A patron funds artists rather than exhibiting work, so the contrast with 'working artist' collapses." },
+        { "distractor": "critic", "closeness": 1, "reasoning": "A critic writes about exhibitions instead of mounting them, which does not fit a memoir about her own first show." }
+      ]
+    }
+  ]
+}

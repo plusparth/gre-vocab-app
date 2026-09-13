@@ -1,0 +1,53 @@
+{
+  "word": "effluvia",
+  "sentenceSets": [
+    {
+      "sentence": "The effluvia from the processing plant had bothered residents for years before the first formal complaint was filed.",
+      "answerChoices": [
+        { "distractor": "fumes", "closeness": 3, "reasoning": "Fumes are visible or acrid gases given off by burning or chemical reaction, but what has quietly annoyed the neighborhood for years is something that drifts off the plant unseen." },
+        { "distractor": "vapors", "closeness": 3, "reasoning": "Vapors are the gaseous phase of a specific liquid, whereas the sentence points to whatever the plant gives off generally, without naming a substance." },
+        { "distractor": "emanations", "closeness": 3, "reasoning": "Emanations can issue from anything, including light or influence, and lack the note of something unpleasant that would eventually drive residents to file a complaint." },
+        { "distractor": "exhalations", "closeness": 3, "reasoning": "Exhalations suggest breathing out and are more at home describing a living thing than the steady output of an industrial site." },
+        { "distractor": "emissions", "closeness": 2, "reasoning": "Emissions is the regulatory term for what a plant releases, measured and reported, while the sentence describes what residents smelled and endured long before any official process began." },
+        { "distractor": "discharges", "closeness": 2, "reasoning": "Discharges usually run into water or sewers, which would not be the thing bothering people in their homes for years." },
+        { "distractor": "byproducts", "closeness": 2, "reasoning": "Byproducts are the leftover materials of a process, things that sit in drums rather than drift across a neighborhood." },
+        { "distractor": "residues", "closeness": 2, "reasoning": "Residues remain behind on surfaces and would have to be found rather than simply suffered by residents at home." },
+        { "distractor": "fragrances", "closeness": 1, "reasoning": "Fragrances are pleasant and would not provoke complaints." },
+        { "distractor": "breezes", "closeness": 1, "reasoning": "Breezes carry things from the plant but are not themselves produced by it." },
+        { "distractor": "sirens", "closeness": 1, "reasoning": "Sirens are sounds and belong to a different sense entirely from what a processing plant sends over a neighborhood." }
+      ]
+    },
+    {
+      "sentence": "Even with the windows sealed, effluvia from the tannery worked their way into curtains, upholstery, and the linings of coats.",
+      "answerChoices": [
+        { "distractor": "odors", "closeness": 3, "reasoning": "Odors are simply what the nose registers, but the sentence describes something issuing from the tannery and physically penetrating sealed rooms and fabric." },
+        { "distractor": "smells", "closeness": 3, "reasoning": "A smell is a perception rather than a substance, so it could not be said to work its way into the lining of a coat." },
+        { "distractor": "miasmas", "closeness": 3, "reasoning": "Miasmas are heavy, disease-bearing clouds hanging over a place, too weighty and too localized to describe something seeping through closed windows into cloth." },
+        { "distractor": "stenches", "closeness": 3, "reasoning": "A stench names the intensity of a bad smell, while the sentence is concerned with the invisible output of the tannery and its power to get everywhere." },
+        { "distractor": "chemicals", "closeness": 2, "reasoning": "Chemicals would name the substances used in tanning rather than what escapes the building and reaches the neighbors." },
+        { "distractor": "particles", "closeness": 2, "reasoning": "Particles are solid matter that sealed windows would largely keep out, unlike something that passes through unnoticed." },
+        { "distractor": "dyes", "closeness": 2, "reasoning": "Dyes would stain the curtains visibly, but the sentence describes an infiltration noticed by the nose rather than the eye." },
+        { "distractor": "wastes", "closeness": 2, "reasoning": "Wastes are the material a tannery disposes of, which stays in drains and pits instead of drifting into upholstery." },
+        { "distractor": "perfumes", "closeness": 1, "reasoning": "Perfumes are agreeable scents and would not be described as forcing their way past sealed windows." },
+        { "distractor": "rumors", "closeness": 1, "reasoning": "Rumors spread among people, not into curtains and coat linings." },
+        { "distractor": "profits", "closeness": 1, "reasoning": "Profits belong to the tannery's accounts and cannot permeate fabric." }
+      ]
+    },
+    {
+      "sentence": "He complained about the effluvia of the internet age, the half-formed opinions that drift into everyone's attention unbidden.",
+      "answerChoices": [
+        { "distractor": "outpourings", "closeness": 3, "reasoning": "Outpourings suggest a deliberate release of feeling by someone who means to express it, whereas these opinions merely seep outward and reach people who never sought them." },
+        { "distractor": "effusions", "closeness": 3, "reasoning": "Effusions are gushing utterances made with enthusiasm, but the sentence describes matter that drifts rather than pours, and that arrives unbidden." },
+        { "distractor": "excretions", "closeness": 3, "reasoning": "Excretions are solid or liquid waste expelled by a body, too gross and too deliberate an image for something that hangs in the air and drifts into attention." },
+        { "distractor": "exudations", "closeness": 3, "reasoning": "Exudations ooze slowly from a surface and stay near it, which does not capture opinions that travel to everyone without being sought." },
+        { "distractor": "detritus", "closeness": 2, "reasoning": "Detritus is the debris left behind after something breaks down, but these opinions are actively circulating rather than lying in the wreckage." },
+        { "distractor": "noise", "closeness": 2, "reasoning": "Noise names interference that drowns out signal, while the complaint is about what the age gives off and how it reaches people unasked." },
+        { "distractor": "clutter", "closeness": 2, "reasoning": "Clutter is an accumulation of things in a space, but nothing here piles up; the opinions drift and disperse." },
+        { "distractor": "refuse", "closeness": 2, "reasoning": "Refuse is discarded material collected and thrown away, which does not float into people's attention on its own." },
+        { "distractor": "treasures", "closeness": 1, "reasoning": "Treasures would be valued, contradicting a complaint about half-formed opinions." },
+        { "distractor": "achievements", "closeness": 1, "reasoning": "Achievements are accomplishments to be credited, not the nuisance the sentence describes." },
+        { "distractor": "silences", "closeness": 1, "reasoning": "Silences cannot be the thing that fills everyone's attention with opinions." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "invective",
+  "sentenceSets": [
+    {
+      "sentence": "His response descended into invective, abandoning the argument entirely for an attack on the person making it.",
+      "answerChoices": [
+        { "distractor": "vitriol", "closeness": 3, "reasoning": "Vitriol names the bitterness of a tone, while the sentence describes what the whole response turned into once reasoning was dropped in favor of going after a person." },
+        { "distractor": "diatribe", "closeness": 3, "reasoning": "A diatribe is a long denunciation that still presses a case, but the sentence says the argument was abandoned entirely." },
+        { "distractor": "polemic", "closeness": 3, "reasoning": "A polemic attacks a position with vigor, and the sentence specifies that he turned away from the position to attack the man holding it." },
+        { "distractor": "sarcasm", "closeness": 3, "reasoning": "Sarcasm works indirectly by saying the reverse of what is meant, whereas the sentence describes a direct assault on the person." },
+        { "distractor": "complaint", "closeness": 2, "reasoning": "A complaint states a grievance and could be made calmly, which would not count as a descent from argument." },
+        { "distractor": "rebuttal", "closeness": 2, "reasoning": "A rebuttal answers the case on its merits, the very thing the sentence says he stopped doing." },
+        { "distractor": "innuendo", "closeness": 2, "reasoning": "Innuendo insinuates without stating, while the sentence describes an open attack." },
+        { "distractor": "reproach", "closeness": 2, "reasoning": "Reproach expresses disappointment at someone's conduct, a mild register that would hardly count as the collapse the sentence reports." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Praise cannot be an attack on the person making an argument." },
+        { "distractor": "concession", "closeness": 1, "reasoning": "A concession grants a point to the other side, the opposite of abandoning argument to attack." },
+        { "distractor": "flattery", "closeness": 1, "reasoning": "Flattery compliments its target and could not be described as a descent into an attack." }
+      ]
+    },
+    {
+      "sentence": "The transcript preserves four minutes of invective from the defendant's brother before the bailiff cleared the gallery.",
+      "answerChoices": [
+        { "distractor": "tirade", "closeness": 3, "reasoning": "A tirade is one long angry speech that might be entirely about a policy or a misfortune, but the bailiff's emptying of the gallery shows the words were aimed at people in the room." },
+        { "distractor": "harangue", "closeness": 3, "reasoning": "A harangue lectures at an audience to move it toward something, whereas nobody here is being urged to act—the outburst simply had to be stopped." },
+        { "distractor": "profanity", "closeness": 3, "reasoning": "Profanity classifies which words were used as obscene, while what emptied a courtroom gallery was an assault directed at particular people present." },
+        { "distractor": "heckling", "closeness": 3, "reasoning": "Heckling consists of interjections thrown at a speaker, yet the transcript preserves four uninterrupted minutes from one man." },
+        { "distractor": "testimony", "closeness": 2, "reasoning": "Testimony is evidence given under oath from the stand, not something a relative delivers from the gallery until removed." },
+        { "distractor": "protest", "closeness": 2, "reasoning": "A protest objects to a decision or policy, and the sentence gives no indication that anything was being contested rather than someone being attacked." },
+        { "distractor": "grievance", "closeness": 2, "reasoning": "A grievance is a stated wrong one has suffered, which a court would hear rather than clear the room over." },
+        { "distractor": "objection", "closeness": 2, "reasoning": "An objection is a brief formal interruption by counsel, not four minutes from a defendant's relative." },
+        { "distractor": "eulogy", "closeness": 1, "reasoning": "A eulogy praises someone and would not require a bailiff." },
+        { "distractor": "apology", "closeness": 1, "reasoning": "An apology would calm a courtroom rather than lead to its gallery being emptied." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence would leave a transcript with nothing to preserve and give the bailiff nothing to act on." }
+      ]
+    },
+    {
+      "sentence": "The pamphlet's invective against the bishops—page after page of insult with scarcely an argument in it—was reprinted for a century.",
+      "answerChoices": [
+        { "distractor": "satire", "closeness": 3, "reasoning": "Satire works by ridicule that implies some standard the target has fallen short of, but the sentence describes pages of insult with scarcely an argument in them." },
+        { "distractor": "denunciation", "closeness": 3, "reasoning": "A denunciation charges its targets with specific wrongs, which would require the reasoning the sentence says is nearly absent." },
+        { "distractor": "calumny", "closeness": 3, "reasoning": "Calumny consists of false accusations of fact, while the pages are characterized as insult rather than as charges that could be true or false." },
+        { "distractor": "lampoon", "closeness": 3, "reasoning": "A lampoon caricatures its subject for amusement, and nothing in the description suggests the pamphlet was meant to be funny." },
+        { "distractor": "criticism", "closeness": 2, "reasoning": "Criticism weighs merits and faults, which the sentence says the pamphlet scarcely bothered to do." },
+        { "distractor": "gossip", "closeness": 2, "reasoning": "Gossip trades in private rumor, whereas this was printed openly and aimed at the bishops as a body." },
+        { "distractor": "sermon", "closeness": 2, "reasoning": "A sermon instructs a congregation from a position of authority, which is the bishops' own role rather than the pamphleteer's." },
+        { "distractor": "petition", "closeness": 2, "reasoning": "A petition asks an authority for redress, and pages of insult are not a request for anything." },
+        { "distractor": "panegyric", "closeness": 1, "reasoning": "A panegyric is elaborate praise, the opposite of page after page of insult." },
+        { "distractor": "hymn", "closeness": 1, "reasoning": "A hymn honors the sacred and cannot be an attack on bishops." },
+        { "distractor": "treaty", "closeness": 1, "reasoning": "A treaty is a negotiated agreement between powers, not a pamphlet aimed at churchmen." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "invigorate",
+  "sentenceSets": [
+    {
+      "sentence": "The unexpected success invigorated the team, restoring motivation that months of incremental progress had not.",
+      "answerChoices": [
+        { "distractor": "galvanized", "closeness": 3, "reasoning": "Galvanized implies a jolt that sets people moving, but the sentence measures the effect as motivation restored rather than action suddenly begun." },
+        { "distractor": "revived", "closeness": 3, "reasoning": "Revived would mean the team had gone dead, whereas the sentence says it had been making progress all along, only in small steps." },
+        { "distractor": "energized", "closeness": 3, "reasoning": "Energized speaks to sheer activity level, while what the sentence says came back is motivation—the willingness to keep at the work." },
+        { "distractor": "emboldened", "closeness": 3, "reasoning": "Emboldened would mean the team grew readier to take risks, but the sentence describes renewed appetite for the work rather than new daring." },
+        { "distractor": "reassured", "closeness": 2, "reasoning": "Reassured would only settle the team's doubts, which does not account for motivation that months of steady progress had failed to supply." },
+        { "distractor": "pleased", "closeness": 2, "reasoning": "Pleased describes a passing feeling about the news, not the lasting change in drive the sentence records." },
+        { "distractor": "vindicated", "closeness": 2, "reasoning": "Vindicated would mean the team had been doubted and was proved right, but the sentence frames the success as unexpected even to them." },
+        { "distractor": "distracted", "closeness": 2, "reasoning": "Distracted would pull attention away from the work, the opposite of restoring the will to pursue it." },
+        { "distractor": "exhausted", "closeness": 1, "reasoning": "Exhaustion cannot restore motivation." },
+        { "distractor": "demoralized", "closeness": 1, "reasoning": "Demoralized is precisely the state the success is said to have reversed." },
+        { "distractor": "bored", "closeness": 1, "reasoning": "Boredom would be the effect of incremental progress, not of an unexpected success." }
+      ]
+    },
+    {
+      "sentence": "A cold swim before dawn invigorates her more reliably than coffee ever did.",
+      "answerChoices": [
+        { "distractor": "refreshes", "closeness": 3, "reasoning": "Refreshes suggests relief from heat or fatigue, while the comparison with coffee points to something that supplies drive for the day ahead." },
+        { "distractor": "rouses", "closeness": 3, "reasoning": "Rouses means waking someone from sleep or torpor, but she is already awake and in the water before dawn." },
+        { "distractor": "stimulates", "closeness": 3, "reasoning": "Stimulates describes a substance acting chemically on the body, which is how coffee works and precisely what the swim replaced." },
+        { "distractor": "braces", "closeness": 3, "reasoning": "Braces implies steeling oneself against something unpleasant ahead, whereas the swim is what she chooses in order to start the day well." },
+        { "distractor": "soothes", "closeness": 2, "reasoning": "Soothing calms a person down, which is not what anyone drinks coffee for." },
+        { "distractor": "exhilarates", "closeness": 2, "reasoning": "Exhilarates points to a rush of excitement, but the sentence praises the swim for its reliability rather than its thrill." },
+        { "distractor": "warms", "closeness": 2, "reasoning": "Warms is contradicted by the water being cold, and warmth is the one thing coffee supplies that a dawn swim does not." },
+        { "distractor": "awakens", "closeness": 2, "reasoning": "Awakens repeats what being up before dawn already establishes about her." },
+        { "distractor": "numbs", "closeness": 1, "reasoning": "Numbing would be a reason to avoid a cold swim rather than to prefer it to coffee." },
+        { "distractor": "drains", "closeness": 1, "reasoning": "Draining her would make the swim a worse start to the day than coffee, not a better one." },
+        { "distractor": "sedates", "closeness": 1, "reasoning": "Sedation is the opposite of what a person seeks from a morning routine." }
+      ]
+    },
+    {
+      "sentence": "New translations invigorated a field that had been reading the same three commentaries since the war.",
+      "answerChoices": [
+        { "distractor": "revitalized", "closeness": 3, "reasoning": "Revitalized implies the field had fallen from an earlier vigor, while the sentence describes long stagnation in what scholars read rather than a decline from health." },
+        { "distractor": "transformed", "closeness": 3, "reasoning": "Transformed would mean the field became something different in kind, but new texts on the same subject give existing scholars more to work with without changing what the field is." },
+        { "distractor": "enlivened", "closeness": 3, "reasoning": "Enlivened suggests the field became more entertaining, whereas the problem named is that everyone had been confined to three commentaries." },
+        { "distractor": "expanded", "closeness": 3, "reasoning": "Expanded would mean the field grew larger in membership or scope, and the sentence points instead to what the same scholars were finally able to read." },
+        { "distractor": "unsettled", "closeness": 2, "reasoning": "Unsettled implies disruption and anxiety, but the sentence presents the long reliance on three commentaries as the unfortunate condition being relieved." },
+        { "distractor": "modernized", "closeness": 2, "reasoning": "Modernized concerns methods being brought up to date, while what changed here is the body of texts available." },
+        { "distractor": "fragmented", "closeness": 2, "reasoning": "Fragmented would break the field into rival camps, which the sentence does not describe." },
+        { "distractor": "popularized", "closeness": 2, "reasoning": "Popularized concerns reaching a wider public, and the sentence stays inside the field's own reading habits." },
+        { "distractor": "stifled", "closeness": 1, "reasoning": "Stifling the field is what a diet of three commentaries had been doing, not what new translations accomplished." },
+        { "distractor": "impoverished", "closeness": 1, "reasoning": "Impoverished contradicts the arrival of new material to read." },
+        { "distractor": "silenced", "closeness": 1, "reasoning": "Silenced would end the field's work rather than refresh it." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "elegy",
+  "sentenceSets": [
+    {
+      "sentence": "The poem was an elegy for a friendship the speaker had allowed to lapse without understanding its value.",
+      "answerChoices": [
+        { "distractor": "ode", "closeness": 3, "reasoning": "An ode exalts and celebrates its subject, but this poem is written for something the speaker has lost through his own neglect." },
+        { "distractor": "epitaph", "closeness": 3, "reasoning": "An epitaph is a short inscription cut on a stone, whereas the sentence describes a poem that works through the speaker's dawning understanding of what he let slip." },
+        { "distractor": "obituary", "closeness": 3, "reasoning": "An obituary reports the facts of a life for readers who may not have known it, while this poem is a private reckoning with a friendship that mattered to the speaker himself." },
+        { "distractor": "homage", "closeness": 3, "reasoning": "Homage honors the worth of its object, yet the poem's subject is the speaker's failure to recognize that worth until the friendship was over." },
+        { "distractor": "apology", "closeness": 2, "reasoning": "An apology is addressed to the injured party and asks something of them, but there is no one left in the poem to receive it." },
+        { "distractor": "admission", "closeness": 2, "reasoning": "An admission is a bare acknowledgment of fault, too small a thing for a whole poem written about a lost friendship." },
+        { "distractor": "anecdote", "closeness": 2, "reasoning": "An anecdote recounts a single incident, while the poem takes as its subject an entire relationship and its ending." },
+        { "distractor": "argument", "closeness": 2, "reasoning": "An argument aims to convince someone of a claim, and nothing in the sentence suggests the poem is trying to win a point." },
+        { "distractor": "advertisement", "closeness": 1, "reasoning": "An advertisement sells something, which has no bearing on a lapsed friendship." },
+        { "distractor": "insult", "closeness": 1, "reasoning": "An insult would attack the friend, but the regret in the sentence is directed at the speaker's own neglect." },
+        { "distractor": "invitation", "closeness": 1, "reasoning": "An invitation looks forward to a meeting, contradicting a friendship already allowed to lapse." }
+      ]
+    },
+    {
+      "sentence": "At the graveside he read the elegy he had written the night before, and his voice failed him twice.",
+      "answerChoices": [
+        { "distractor": "lament", "closeness": 3, "reasoning": "A lament is any outpouring of grief, including wordless ones, whereas what he holds is a composed piece written the night before for this occasion." },
+        { "distractor": "eulogy", "closeness": 3, "reasoning": "A eulogy is a spoken tribute recounting the life and virtues of the dead, while the sentence presents a piece written in a single night and read as verse at the grave." },
+        { "distractor": "dirge", "closeness": 3, "reasoning": "A dirge is sung or played as music at a funeral, but he reads this aloud rather than performing it." },
+        { "distractor": "tribute", "closeness": 3, "reasoning": "A tribute may take any form, a donation or a gesture, and carries praise rather than the grief that breaks his voice." },
+        { "distractor": "sermon", "closeness": 2, "reasoning": "A sermon expounds scripture for a congregation and would come from a clergyman, not from a mourner writing through the night." },
+        { "distractor": "prayer", "closeness": 2, "reasoning": "A prayer is addressed to God and would not be described as something he sat down and composed the evening before." },
+        { "distractor": "statement", "closeness": 2, "reasoning": "A statement is an official communication, an oddly bureaucratic thing to read at a graveside with a failing voice." },
+        { "distractor": "poem", "closeness": 2, "reasoning": "'Poem' names only the form and leaves out the fact that this one was written for the dead and read over the grave." },
+        { "distractor": "toast", "closeness": 1, "reasoning": "A toast is raised in celebration with a glass, not delivered at a burial." },
+        { "distractor": "joke", "closeness": 1, "reasoning": "A joke cannot be what breaks a man's voice at a graveside." },
+        { "distractor": "contract", "closeness": 1, "reasoning": "A contract is a legal document and has no place in the scene described." }
+      ]
+    },
+    {
+      "sentence": "The album closes with a quiet elegy for the mill towns, three verses long and without a chorus.",
+      "answerChoices": [
+        { "distractor": "requiem", "closeness": 3, "reasoning": "A requiem is a mass for the dead with a fixed liturgical shape, which cannot be described as three verses and no chorus on a record." },
+        { "distractor": "threnody", "closeness": 3, "reasoning": "A threnody is a formal composition of wailing for a named death, but the subject here is a set of towns that have declined rather than anyone who has died." },
+        { "distractor": "hymn", "closeness": 3, "reasoning": "A hymn is written to praise and to be sung by a congregation, whereas this closing track mourns places that have gone quiet." },
+        { "distractor": "memorial", "closeness": 3, "reasoning": "A memorial is usually a lasting public object or ceremony, while this is a short song placed last on an album." },
+        { "distractor": "ballad", "closeness": 2, "reasoning": "A ballad tells a story through its verses, but the sentence gives us grief for a whole region rather than a narrative." },
+        { "distractor": "anthem", "closeness": 2, "reasoning": "An anthem is built for crowds to sing together, which is hard to square with a quiet track that has no chorus." },
+        { "distractor": "instrumental", "closeness": 2, "reasoning": "An instrumental has no words at all, contradicting the three verses the sentence counts." },
+        { "distractor": "interlude", "closeness": 2, "reasoning": "An interlude sits between other pieces, whereas this one closes the album." },
+        { "distractor": "jingle", "closeness": 1, "reasoning": "A jingle is a brief commercial tune and could not be a quiet closing piece about vanished mill towns." },
+        { "distractor": "waltz", "closeness": 1, "reasoning": "A waltz names a dance rhythm and says nothing about mourning a region." },
+        { "distractor": "advertisement", "closeness": 1, "reasoning": "An advertisement sells a product and has no business closing an album about lost towns." }
+      ]
+    }
+  ]
+}

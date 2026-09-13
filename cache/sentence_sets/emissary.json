@@ -1,0 +1,53 @@
+{
+  "word": "emissary",
+  "sentenceSets": [
+    {
+      "sentence": "The emissary carried a private message that the official diplomatic channels could not have conveyed without causing offense.",
+      "answerChoices": [
+        { "distractor": "envoy", "closeness": 3, "reasoning": "An envoy holds a recognized diplomatic rank, which is exactly the machinery the sentence says was unusable because it would have given offense." },
+        { "distractor": "ambassador", "closeness": 3, "reasoning": "An ambassador is the permanent, accredited head of a mission, so anything he delivered would travel through the official channels the sentence rules out." },
+        { "distractor": "delegate", "closeness": 3, "reasoning": "A delegate is sent to sit in a body and vote or negotiate on behalf of a group, whereas this person's single task is to place one private message in the right hands." },
+        { "distractor": "courier", "closeness": 3, "reasoning": "A courier merely transports a sealed item and has no standing to speak for the sender, but the delicacy described requires someone who represents the sender's interests." },
+        { "distractor": "spy", "closeness": 2, "reasoning": "A spy gathers information secretly, while this person's errand is to deliver something on behalf of a known principal." },
+        { "distractor": "translator", "closeness": 2, "reasoning": "Translation concerns the language of the message, not the problem of how to get it delivered without insult." },
+        { "distractor": "aide", "closeness": 2, "reasoning": "An aide assists a superior in daily work and is not by that role entrusted with a mission to another power." },
+        { "distractor": "lawyer", "closeness": 2, "reasoning": "A lawyer acts in legal matters, but the difficulty here is diplomatic offense rather than any question of law." },
+        { "distractor": "sovereign", "closeness": 1, "reasoning": "A sovereign is the one who sends messages rather than the one who carries them." },
+        { "distractor": "hostage", "closeness": 1, "reasoning": "A hostage is held by the other side and could not be entrusted with a confidential errand." },
+        { "distractor": "journalist", "closeness": 1, "reasoning": "A journalist publishes what he learns, which is incompatible with a private message." }
+      ]
+    },
+    {
+      "sentence": "The family sent its emissary to the rival household, a cousin trusted by both sides and carrying no weapon.",
+      "answerChoices": [
+        { "distractor": "mediator", "closeness": 3, "reasoning": "A mediator stands between the parties and belongs to neither, but this man is sent by one household and acts on its behalf, even though the other side trusts him." },
+        { "distractor": "negotiator", "closeness": 3, "reasoning": "A negotiator has authority to bargain and settle terms, whereas the sentence tells us only that he was sent across, trusted, and unarmed." },
+        { "distractor": "intermediary", "closeness": 3, "reasoning": "An intermediary is a channel through which two parties communicate, a standing role, while this cousin is dispatched on one errand by one of the families." },
+        { "distractor": "representative", "closeness": 3, "reasoning": "A representative speaks for a body in a continuing capacity, but what the sentence emphasizes is a person sent into the other camp on a single dangerous approach." },
+        { "distractor": "informant", "closeness": 2, "reasoning": "An informant secretly feeds information to one side, which would destroy the trust from both households the sentence insists on." },
+        { "distractor": "bodyguard", "closeness": 2, "reasoning": "A bodyguard protects someone by force, and this man is explicitly unarmed." },
+        { "distractor": "accountant", "closeness": 2, "reasoning": "An accountant handles money and would have no reason to be sent into a rival household." },
+        { "distractor": "witness", "closeness": 2, "reasoning": "A witness observes and later testifies, but the cousin is sent to carry something to the other side, not to watch." },
+        { "distractor": "assassin", "closeness": 1, "reasoning": "An assassin would not be unarmed or trusted by both sides." },
+        { "distractor": "stranger", "closeness": 1, "reasoning": "A stranger could not be a cousin trusted by both households." },
+        { "distractor": "prisoner", "closeness": 1, "reasoning": "A prisoner is held rather than sent." }
+      ]
+    },
+    {
+      "sentence": "Before the merger was announced, the chairman dispatched a quiet emissary to sound out the union leadership.",
+      "answerChoices": [
+        { "distractor": "agent", "closeness": 3, "reasoning": "An agent acts with authority to bind his principal, but this person is sent only to take soundings before anything has been announced or decided with the union." },
+        { "distractor": "proxy", "closeness": 3, "reasoning": "A proxy stands in the chairman's place and exercises his powers, whereas the sentence describes someone sent ahead to test the ground on his behalf." },
+        { "distractor": "deputy", "closeness": 3, "reasoning": "A deputy holds a standing position second to the chairman, while the word 'dispatched' marks this as a person sent out on a particular confidential errand." },
+        { "distractor": "messenger", "closeness": 3, "reasoning": "A messenger delivers words already settled, but this errand involves drawing out what the union leadership thinks, which requires discretion and judgment on the spot." },
+        { "distractor": "consultant", "closeness": 2, "reasoning": "A consultant is hired for expert advice and would report to the chairman rather than be sent to the union." },
+        { "distractor": "lobbyist", "closeness": 2, "reasoning": "A lobbyist works on legislators and officials, not on a union's own leadership before a merger is public." },
+        { "distractor": "auditor", "closeness": 2, "reasoning": "An auditor inspects records, which has nothing to do with sounding out how people will react." },
+        { "distractor": "recruiter", "closeness": 2, "reasoning": "A recruiter hires staff, but the mission described is to gauge the leadership's likely response to a deal." },
+        { "distractor": "rival", "closeness": 1, "reasoning": "A rival would not be dispatched by the chairman to act in his interest." },
+        { "distractor": "bystander", "closeness": 1, "reasoning": "A bystander is uninvolved and cannot be sent anywhere on an errand." },
+        { "distractor": "shareholder", "closeness": 1, "reasoning": "A shareholder owns stock and holds no commission from the chairman to approach the union." }
+      ]
+    }
+  ]
+}

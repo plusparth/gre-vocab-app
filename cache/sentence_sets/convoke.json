@@ -1,0 +1,53 @@
+{
+  "word": "convoke",
+  "sentenceSets": [
+    {
+      "sentence": "The chair convoked an emergency session when it became clear the regular meeting could not address the crisis.",
+      "answerChoices": [
+        { "distractor": "convened", "closeness": 3, "reasoning": "The sentence makes the chair the one issuing the call while the session is the thing brought into being; 'convened' more often describes a body coming together on its own timetable, which clashes with the picture of an authority reaching for an unscheduled session." },
+        { "distractor": "summoned", "closeness": 3, "reasoning": "What follows the blank is a session, not people; 'summoned' fits ordering individuals to appear and reads oddly when its object is the meeting itself." },
+        { "distractor": "assembled", "closeness": 3, "reasoning": "'Assembled' describes physically bringing bodies into one room, but the sentence is about the formal act of putting an extra session on the books because the regular one was inadequate." },
+        { "distractor": "scheduled", "closeness": 3, "reasoning": "The phrase 'when it became clear' marks an immediate response to an unfolding crisis, while scheduling implies fixing something for a later date rather than getting people into the room now." },
+        { "distractor": "chaired", "closeness": 2, "reasoning": "The sentence already identifies the person as the chair, so presiding over the session tells us nothing new; the point being made is that the extra session came into existence at all." },
+        { "distractor": "attended", "closeness": 2, "reasoning": "Attending is passive participation, but the sentence credits this person with the initiative taken once the regular meeting proved inadequate." },
+        { "distractor": "announced", "closeness": 2, "reasoning": "Announcing is publicity about a session that already exists; the sentence describes the act that brought the session about in response to the crisis." },
+        { "distractor": "requested", "closeness": 2, "reasoning": "A request can be refused, which sits badly with a chair acting decisively in a crisis and with a session that plainly took place." },
+        { "distractor": "adjourned", "closeness": 1, "reasoning": "Adjourning ends a sitting, the opposite of what the sentence describes happening because the regular meeting was insufficient." },
+        { "distractor": "canceled", "closeness": 1, "reasoning": "Canceling would leave the crisis unaddressed, contradicting the stated reason for acting." },
+        { "distractor": "dissolved", "closeness": 1, "reasoning": "Dissolving disbands a body permanently, which makes no sense as a response to needing more meeting time." }
+      ]
+    },
+    {
+      "sentence": "When the treaty talks stalled, the archbishop convoked the regional synod at short notice, and delegates arrived from three provinces within the week.",
+      "answerChoices": [
+        { "distractor": "gathered", "closeness": 3, "reasoning": "'Gathered' suggests collecting people already nearby, yet the delegates had to travel in from three provinces after being sent for, which points to a formal call rather than a rounding-up." },
+        { "distractor": "mustered", "closeness": 3, "reasoning": "Mustering carries a military flavor of drawing up forces for action; the object here is a deliberative church assembly convened to take up stalled talks." },
+        { "distractor": "rallied", "closeness": 3, "reasoning": "Rallying implies stirring up enthusiasm for a cause, but nothing in the sentence describes persuasion — only a summons that delegates answered within the week." },
+        { "distractor": "marshaled", "closeness": 3, "reasoning": "Marshaling is about arranging and organizing resources already at hand, which does not match a body that had to be called into existence before its members could travel." },
+        { "distractor": "notified", "closeness": 2, "reasoning": "Notification is merely informing; the sentence shows an authority whose word actually brought delegates across provincial borders." },
+        { "distractor": "petitioned", "closeness": 2, "reasoning": "Petitioning would make the archbishop a supplicant, but the sentence presents him as the one with power to act when the talks stalled." },
+        { "distractor": "hosted", "closeness": 2, "reasoning": "Hosting concerns accommodating a gathering, not the decisive act taken at short notice that caused the gathering to occur." },
+        { "distractor": "addressed", "closeness": 2, "reasoning": "Addressing a synod presupposes that the synod is already sitting, whereas the delegates only arrive in the week following this act." },
+        { "distractor": "disbanded", "closeness": 1, "reasoning": "Disbanding would send the delegates home, contradicting their arrival from three provinces." },
+        { "distractor": "postponed", "closeness": 1, "reasoning": "Postponement conflicts directly with 'at short notice' and with delegates showing up within the week." },
+        { "distractor": "ignored", "closeness": 1, "reasoning": "Ignoring the synod cannot produce the travel and attendance the second half of the sentence records." }
+      ]
+    },
+    {
+      "sentence": "Rather than convoke the full committee over a single line of text, the editor settled the dispute by email.",
+      "answerChoices": [
+        { "distractor": "call", "closeness": 3, "reasoning": "'Call' alone is vague about what is being called and is more naturally completed by 'call a meeting of'; the contrast drawn is between formally bringing the whole body into session and a quiet exchange of messages." },
+        { "distractor": "reconvene", "closeness": 3, "reasoning": "Reconvening implies resuming a session already begun and adjourned, but nothing suggests the committee had been sitting on this line of text before." },
+        { "distractor": "consult", "closeness": 3, "reasoning": "Consulting the committee could be done by the very email the editor chose, so it fails to provide the contrast the sentence sets up between two different procedures." },
+        { "distractor": "canvass", "closeness": 3, "reasoning": "Canvassing means soliciting opinions one by one, which is closer to what the editor actually did than to the cumbersome alternative being rejected." },
+        { "distractor": "alert", "closeness": 2, "reasoning": "Alerting the committee is compatible with settling things by email and so is not the burdensome option the sentence contrasts with." },
+        { "distractor": "involve", "closeness": 2, "reasoning": "'Involve' is too general to be the thing avoided, since sending an email about the dispute already involves someone." },
+        { "distractor": "survey", "closeness": 2, "reasoning": "A survey is a way of collecting views remotely, precisely the sort of thing email handles, so it cannot be the heavy procedure being skipped." },
+        { "distractor": "lobby", "closeness": 2, "reasoning": "Lobbying means pressing members to adopt a position, but the editor is described as resolving the matter, not campaigning within it." },
+        { "distractor": "dismiss", "closeness": 1, "reasoning": "Dismissing the committee is a matter of removing it from office, unrelated to choosing a lighter way to resolve a small textual argument." },
+        { "distractor": "avoid", "closeness": 1, "reasoning": "'Rather than avoid the full committee' reverses the logic, since avoiding the committee is exactly what the editor did." },
+        { "distractor": "abolish", "closeness": 1, "reasoning": "Abolishing a committee over one line of text is a wildly disproportionate act and has nothing to do with the email solution described." }
+      ]
+    }
+  ]
+}

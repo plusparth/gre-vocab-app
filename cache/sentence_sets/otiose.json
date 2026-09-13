@@ -1,0 +1,53 @@
+{
+  "word": "otiose",
+  "sentenceSets": [
+    {
+      "sentence": "The committee's otiose proceedings continued for months, producing recommendations that no one had the authority or intention to implement.",
+      "answerChoices": [
+        { "distractor": "protracted", "closeness": 3, "reasoning": "The sentence does say the proceedings ran for months, which makes length a tempting reading, but length alone would not explain why the recommendations went nowhere; the clause about no one having authority or intention points to work that could never matter, not merely work that took a long time." },
+        { "distractor": "desultory", "closeness": 3, "reasoning": "Desultory work jumps around without method, yet the sentence describes proceedings that continued steadily for months and actually produced recommendations at the end, so the problem is not a lack of follow-through but the emptiness of the result." },
+        { "distractor": "perfunctory", "closeness": 3, "reasoning": "A perfunctory effort is done quickly and without care, which contradicts proceedings sustained over months; the sentence faults the outcome, not the amount of attention the committee gave the task." },
+        { "distractor": "moribund", "closeness": 3, "reasoning": "Something moribund is dying out, but these proceedings kept going and delivered a product, so the sentence describes activity that accomplished nothing rather than activity that was winding down." },
+        { "distractor": "acrimonious", "closeness": 2, "reasoning": "Nothing in the sentence describes disagreement or bad feeling among the members; the only failure named is that no one would act on what they wrote." },
+        { "distractor": "clandestine", "closeness": 2, "reasoning": "Proceedings that generate formal recommendations for other parties to implement are not being kept secret, and the sentence raises no question of concealment." },
+        { "distractor": "exhaustive", "closeness": 2, "reasoning": "Months of meetings might suggest thoroughness, but the sentence points at how little the output could ever accomplish, and a thorough inquiry would not be described by the clause about no one intending to act." },
+        { "distractor": "improvised", "closeness": 2, "reasoning": "An improvised process is unplanned, whereas the sentence shows a committee following a course long enough to arrive at written recommendations." },
+        { "distractor": "decisive", "closeness": 1, "reasoning": "The sentence ends by noting that nothing would be implemented, which is the opposite of a process that settles anything." },
+        { "distractor": "consequential", "closeness": 1, "reasoning": "Recommendations that no one has the authority or intention to carry out are by definition without consequence in the sentence's own terms." },
+        { "distractor": "lucrative", "closeness": 1, "reasoning": "No money, payment, or gain appears anywhere in the sentence, which concerns only whether the committee's output would be acted on." }
+      ]
+    },
+    {
+      "sentence": "During the cleanup the engineer deleted several otiose lines of code that had been copied forward through a dozen revisions without ever executing.",
+      "answerChoices": [
+        { "distractor": "redundant", "closeness": 3, "reasoning": "Redundancy requires that something else already does the same job, but the sentence says these lines never executed at all, so they were not duplicating work performed elsewhere." },
+        { "distractor": "obsolete", "closeness": 3, "reasoning": "Calling the lines obsolete implies they once did useful work and were later superseded, while the sentence says they never ran in any of the dozen revisions they survived." },
+        { "distractor": "vestigial", "closeness": 3, "reasoning": "A vestigial remnant is the shrunken leftover of something formerly functional, and the sentence gives no history of function, only a record of being carried along unexecuted." },
+        { "distractor": "spurious", "closeness": 3, "reasoning": "Spurious suggests something counterfeit or falsely introduced, but the lines were carried forward openly by the maintainers themselves through revision after revision." },
+        { "distractor": "convoluted", "closeness": 2, "reasoning": "The sentence never describes the lines as tangled or hard to follow; the only fact given about them is that control never reached them." },
+        { "distractor": "undocumented", "closeness": 2, "reasoning": "Missing comments would be a separate complaint, and the engineer's reason for deleting the lines is stated as their failure to execute, not the absence of explanation." },
+        { "distractor": "erratic", "closeness": 2, "reasoning": "Erratic behavior implies the code runs unpredictably, which is ruled out by the statement that it never executed." },
+        { "distractor": "proprietary", "closeness": 2, "reasoning": "Ownership or licensing is nowhere at issue; the engineer is doing housekeeping on code that does nothing." },
+        { "distractor": "essential", "closeness": 1, "reasoning": "An engineer doing cleanup would not delete lines the program depended on, and code that never executes cannot be required for anything." },
+        { "distractor": "indispensable", "closeness": 1, "reasoning": "The sentence's whole justification for deletion is that the lines had never done anything across a dozen revisions." },
+        { "distractor": "elegant", "closeness": 1, "reasoning": "Praise for the craftsmanship of the code would make no sense as a reason for removing it during a cleanup." }
+      ]
+    },
+    {
+      "sentence": "Arguing about the seating chart after the last guest had gone home struck her as an otiose exercise, and she said so.",
+      "answerChoices": [
+        { "distractor": "belated", "closeness": 3, "reasoning": "Belated fixes on the lateness of the argument, but a late complaint can still change something; here the guests have already gone, so nothing the argument settles can affect the evening at all." },
+        { "distractor": "gratuitous", "closeness": 3, "reasoning": "Gratuitous means uncalled for or unprovoked, yet the seating chart was a real arrangement that really happened, so the argument has a genuine subject and fails only because the occasion is over." },
+        { "distractor": "quixotic", "closeness": 3, "reasoning": "A quixotic effort chases a noble but unreachable ideal, and squabbling over where people sat at a dinner carries no idealism for the sentence to point to." },
+        { "distractor": "fatuous", "closeness": 3, "reasoning": "Fatuous locates the fault in the silliness of the arguers' reasoning, while the sentence locates it in timing: the last guest had already left." },
+        { "distractor": "peevish", "closeness": 2, "reasoning": "The sentence reports her judgment of the argument rather than the mood of the people having it, and she objects to the exercise itself, not to anyone's irritability." },
+        { "distractor": "unseemly", "closeness": 2, "reasoning": "Nothing suggests the argument breached decorum in front of anyone; by the time it starts there is no audience left to offend." },
+        { "distractor": "tedious", "closeness": 2, "reasoning": "Tedium is about how the argument felt to sit through, but she objects immediately and on principle, before any length has accumulated." },
+        { "distractor": "hypothetical", "closeness": 2, "reasoning": "The seating chart was an actual arrangement at an actual dinner, so the dispute is about something real rather than an imagined case." },
+        { "distractor": "urgent", "closeness": 1, "reasoning": "An argument that begins only after everyone has gone home cannot be pressing, and she objects to having it at all." },
+        { "distractor": "productive", "closeness": 1, "reasoning": "She speaks up against the argument, which makes no sense if she regarded it as yielding something worth having." },
+        { "distractor": "decorous", "closeness": 1, "reasoning": "Praising the argument as well mannered would give her no reason to say so disapprovingly." }
+      ]
+    }
+  ]
+}

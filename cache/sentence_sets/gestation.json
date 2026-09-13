@@ -1,0 +1,53 @@
+{
+  "word": "gestation",
+  "sentenceSets": [
+    {
+      "sentence": "The policy had a long gestation, moving through committees and consultations for nearly two years before emerging.",
+      "answerChoices": [
+        { "distractor": "delay", "closeness": 3, "reasoning": "A delay is dead time in which nothing happens, but the two years described are filled with committee work and consultation that shaped the policy." },
+        { "distractor": "debate", "closeness": 3, "reasoning": "Debate names argument over a proposal that already exists, while this period is what the policy passed through before it emerged at all." },
+        { "distractor": "trial", "closeness": 3, "reasoning": "A trial tests a policy in operation, which can only happen after it exists, whereas this stretch precedes its emergence." },
+        { "distractor": "campaign", "closeness": 3, "reasoning": "A campaign is a push to win support for something already formulated, not the internal process of committees and consultations that produced it." },
+        { "distractor": "revision", "closeness": 2, "reasoning": "Revision reworks an existing draft, but the sentence covers the whole span before the policy came into being." },
+        { "distractor": "implementation", "closeness": 2, "reasoning": "Implementation follows emergence, and the two years are explicitly placed before it." },
+        { "distractor": "audit", "closeness": 2, "reasoning": "An audit reviews something in force, while nothing was yet in force during these two years." },
+        { "distractor": "rollout", "closeness": 2, "reasoning": "A rollout is the staged introduction of a finished policy, the opposite end of the timeline from what the sentence describes." },
+        { "distractor": "collapse", "closeness": 1, "reasoning": "Collapse would mean the policy failed, contradicting its emergence after two years." },
+        { "distractor": "repeal", "closeness": 1, "reasoning": "Repeal cancels an existing policy and cannot precede its first appearance." },
+        { "distractor": "expiration", "closeness": 1, "reasoning": "Expiration is the end of a policy's life, not the period before it began." }
+      ]
+    },
+    {
+      "sentence": "Elephants have the longest gestation of any land mammal, nearly two years from conception to birth.",
+      "answerChoices": [
+        { "distractor": "infancy", "closeness": 3, "reasoning": "Infancy begins after birth, but the span measured here runs from conception up to the moment of birth." },
+        { "distractor": "lifespan", "closeness": 3, "reasoning": "A lifespan covers the whole life, which for an elephant far exceeds the two years the sentence bounds by conception and birth." },
+        { "distractor": "maturation", "closeness": 3, "reasoning": "Maturation describes growing to adulthood, a process that occurs after the animal is born." },
+        { "distractor": "hibernation", "closeness": 3, "reasoning": "Hibernation is a seasonal dormancy and has nothing to do with the interval between conception and birth." },
+        { "distractor": "migration", "closeness": 2, "reasoning": "Migration is seasonal travel and cannot be measured from conception to birth." },
+        { "distractor": "lactation", "closeness": 2, "reasoning": "Lactation is the nursing period that follows delivery, not the time leading up to it." },
+        { "distractor": "molting", "closeness": 2, "reasoning": "Molting is the shedding of a coat or feathers and is unrelated to prenatal development." },
+        { "distractor": "courtship", "closeness": 2, "reasoning": "Courtship precedes conception, whereas the span given starts at conception itself." },
+        { "distractor": "extinction", "closeness": 1, "reasoning": "Extinction is the loss of a whole species and cannot be a duration within an individual's reproduction." },
+        { "distractor": "digestion", "closeness": 1, "reasoning": "Digestion is the processing of food and has no bearing on the interval before birth." },
+        { "distractor": "domestication", "closeness": 1, "reasoning": "Domestication happens to populations over generations and is not bounded by conception and birth." }
+      ]
+    },
+    {
+      "sentence": "The novel had a gestation of eleven years, most of it spent on a version the author eventually threw away.",
+      "answerChoices": [
+        { "distractor": "run", "closeness": 3, "reasoning": "A run is how long a published work stays in print or on sale, but these eleven years were spent on a draft that never reached readers." },
+        { "distractor": "revision", "closeness": 3, "reasoning": "Revision reworks a completed manuscript, whereas the sentence covers the whole stretch before the book existed, including a version abandoned entirely." },
+        { "distractor": "reception", "closeness": 3, "reasoning": "Reception is how readers responded, which can only follow publication and has nothing to do with a discarded draft." },
+        { "distractor": "serialization", "closeness": 3, "reasoning": "Serialization publishes a work in installments, but the eleven years were private labor on material the author threw out." },
+        { "distractor": "advance", "closeness": 2, "reasoning": "An advance is a payment from a publisher and is not a period of time." },
+        { "distractor": "printing", "closeness": 2, "reasoning": "Printing is a manufacturing step measured in weeks, not the long stretch of composition described." },
+        { "distractor": "translation", "closeness": 2, "reasoning": "Translation happens to a finished book, while this time was spent on a version the author discarded." },
+        { "distractor": "dedication", "closeness": 2, "reasoning": "A dedication is a few lines at the front of a book, not a span of years." },
+        { "distractor": "epilogue", "closeness": 1, "reasoning": "An epilogue is a section at the end of a novel and cannot last eleven years." },
+        { "distractor": "sequel", "closeness": 1, "reasoning": "A sequel is a later book and could not precede the one being described." },
+        { "distractor": "royalty", "closeness": 1, "reasoning": "Royalties are earnings after publication and are not a period of composition." }
+      ]
+    }
+  ]
+}

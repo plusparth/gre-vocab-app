@@ -1,0 +1,53 @@
+{
+  "word": "exiguity",
+  "sentenceSets": [
+    {
+      "sentence": "The exiguity of the budget forced creative solutions that later became standard practice.",
+      "answerChoices": [
+        { "distractor": "frugality", "closeness": 3, "reasoning": "Frugality describes a habit of the people doing the spending, but the sentence treats the budget as an external constraint that forced their hand rather than a virtue they practiced." },
+        { "distractor": "austerity", "closeness": 3, "reasoning": "Austerity names a deliberate policy of restraint imposed for its own sake, whereas nothing here suggests the shortfall was chosen; it simply had to be worked around." },
+        { "distractor": "stinginess", "closeness": 3, "reasoning": "Stinginess attributes an unwillingness to give, which requires a withholding party the sentence never mentions; the budget itself is what the solutions had to accommodate." },
+        { "distractor": "modesty", "closeness": 3, "reasoning": "Calling a budget modest suggests it was merely unassuming, too mild a reading for a shortfall severe enough to force inventions that outlived it." },
+        { "distractor": "rigidity", "closeness": 2, "reasoning": "Rigidity would mean the money could not be moved between uses, but the difficulty described is one that creativity about methods solved, pointing to how little there was rather than how it was fenced." },
+        { "distractor": "volatility", "closeness": 2, "reasoning": "Volatility implies unpredictable swings, yet the pressure described is constant enough that the workarounds it produced hardened into standard practice." },
+        { "distractor": "opacity", "closeness": 2, "reasoning": "Opacity concerns whether the budget could be understood, which has no bearing on solutions that had to be invented to get work done within it." },
+        { "distractor": "complexity", "closeness": 2, "reasoning": "Complexity would make the budget hard to administer, but the sentence points to a limit that had to be worked around, not a structure that had to be untangled." },
+        { "distractor": "abundance", "closeness": 1, "reasoning": "Plentiful funding would remove the very pressure the sentence credits with forcing the new methods." },
+        { "distractor": "extravagance", "closeness": 1, "reasoning": "Extravagance means lavish spending, which is incompatible with a constraint that compelled improvisation." },
+        { "distractor": "expansion", "closeness": 1, "reasoning": "Growth in the budget would loosen rather than impose the limits the sentence says drove the solutions." }
+      ]
+    },
+    {
+      "sentence": "Reviewers complained about the exiguity of the evidence, noting that three interviews could hardly support so sweeping a claim.",
+      "answerChoices": [
+        { "distractor": "flimsiness", "closeness": 3, "reasoning": "Flimsiness faults the quality of what was gathered, but the reviewers' objection is a count: three interviews, too few for the claim's reach." },
+        { "distractor": "irrelevance", "closeness": 3, "reasoning": "Irrelevant evidence would fail to bear on the claim at all, whereas interviews are apparently the right kind of material and there are simply not enough of them." },
+        { "distractor": "obscurity", "closeness": 3, "reasoning": "Obscurity would mean the evidence was hard to make out, yet the complaint identifies exactly what was collected and objects to its quantity." },
+        { "distractor": "banality", "closeness": 3, "reasoning": "Banality would concern how unremarkable the findings were, while the reviewers are measuring three interviews against a sweeping conclusion." },
+        { "distractor": "novelty", "closeness": 2, "reasoning": "Novelty is not a complaint the sentence supports; what troubles the reviewers is the gap between three interviews and a broad claim." },
+        { "distractor": "ambiguity", "closeness": 2, "reasoning": "Ambiguity would mean the evidence pointed several ways, but the objection raised concerns how much there was rather than what it showed." },
+        { "distractor": "redundancy", "closeness": 2, "reasoning": "Redundancy implies the same ground covered repeatedly, the reverse of an objection premised on there being only three interviews." },
+        { "distractor": "cost", "closeness": 2, "reasoning": "Expense is never at issue in the reviewers' complaint, which weighs the size of the evidence base against the size of the claim." },
+        { "distractor": "abundance", "closeness": 1, "reasoning": "An abundance of evidence would remove the objection that three interviews cannot carry a sweeping claim." },
+        { "distractor": "rigor", "closeness": 1, "reasoning": "Rigor is a merit, and the reviewers are complaining rather than praising." },
+        { "distractor": "breadth", "closeness": 1, "reasoning": "Breadth is precisely what three interviews lack, so naming it as the object of complaint inverts the sentence." }
+      ]
+    },
+    {
+      "sentence": "The exiguity of the island's fresh water shaped every custom on it, from how meals were cooked to when visitors were permitted to stay.",
+      "answerChoices": [
+        { "distractor": "scarceness", "closeness": 3, "reasoning": "This is a plausible near-fit, but it names a shortage relative to demand at a given moment, while the customs described are permanent arrangements built around how little water the island has at all." },
+        { "distractor": "salinity", "closeness": 3, "reasoning": "Salinity would be a property of the water's content, and the sentence calls it fresh water, so the constraint cannot be how salty it is." },
+        { "distractor": "purity", "closeness": 3, "reasoning": "Purity concerns whether the water is safe or clean, but rationing visitors and regulating cooking are responses to how much there is rather than what is in it." },
+        { "distractor": "seasonality", "closeness": 3, "reasoning": "Seasonality would mean the supply came and went with the calendar, yet the customs listed govern daily practice and admission generally, not a wet and dry cycle." },
+        { "distractor": "sanctity", "closeness": 2, "reasoning": "Treating the water as sacred could also generate customs, but the examples given are practical rationing measures rather than acts of reverence." },
+        { "distractor": "depth", "closeness": 2, "reasoning": "Depth describes a body of water physically and does not explain rules about cooking and the length of a visitor's stay." },
+        { "distractor": "temperature", "closeness": 2, "reasoning": "Temperature has no bearing on why guests would be limited in when they may remain on the island." },
+        { "distractor": "distribution", "closeness": 2, "reasoning": "Distribution would concern where on the island the water sits, whereas restricting visitors points to a limit on the total available." },
+        { "distractor": "plenitude", "closeness": 1, "reasoning": "Ample water would make rationing visitors and regulating cooking unnecessary." },
+        { "distractor": "surplus", "closeness": 1, "reasoning": "A surplus is the opposite of a condition strict enough to shape when outsiders may stay." },
+        { "distractor": "sweetness", "closeness": 1, "reasoning": "Taste is irrelevant to customs that govern how long a visitor may remain." }
+      ]
+    }
+  ]
+}

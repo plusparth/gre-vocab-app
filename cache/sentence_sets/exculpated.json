@@ -1,0 +1,53 @@
+{
+  "word": "exculpated",
+  "sentenceSets": [
+    {
+      "sentence": "She was exculpated by the investigation, which found that she had acted appropriately in every particular.",
+      "answerChoices": [
+        { "distractor": "pardoned", "closeness": 3, "reasoning": "A pardon forgives conduct that is still treated as wrong, but the investigation's finding is that her conduct was appropriate throughout, leaving nothing to forgive." },
+        { "distractor": "acquitted", "closeness": 3, "reasoning": "Acquittal is a verdict reached in a trial, while the sentence names an investigation and describes a finding about her behavior rather than a judgment on a charge." },
+        { "distractor": "absolved", "closeness": 3, "reasoning": "Absolution releases someone from blame that is granted to exist; the phrase 'in every particular' says the review found no fault to release her from." },
+        { "distractor": "excused", "closeness": 3, "reasoning": "Excusing concedes a misstep and waives its consequences, which sits badly with a finding that she did the right thing at every point." },
+        { "distractor": "praised", "closeness": 2, "reasoning": "The investigation is described as reaching a finding about propriety, not as issuing commendation." },
+        { "distractor": "promoted", "closeness": 2, "reasoning": "Nothing in the sentence concerns her rank or position; the outcome described is a conclusion about her conduct." },
+        { "distractor": "questioned", "closeness": 2, "reasoning": "Being questioned is a step in an inquiry, but the sentence reports the inquiry's conclusion and what it established." },
+        { "distractor": "reinstated", "closeness": 2, "reasoning": "Reinstatement presupposes a removal the sentence never mentions; the only result given is the finding about her conduct." },
+        { "distractor": "implicated", "closeness": 1, "reasoning": "The relative clause says she acted appropriately in every particular, which rules out being tied to wrongdoing." },
+        { "distractor": "censured", "closeness": 1, "reasoning": "Formal disapproval contradicts an investigation that found no fault in anything she did." },
+        { "distractor": "dismissed", "closeness": 1, "reasoning": "Being dismissed is an adverse consequence, incompatible with a review that endorsed her conduct at every point." }
+      ]
+    },
+    {
+      "sentence": "Decades later, historians exculpated the captain, showing that the orders he was blamed for defying had never reached his ship.",
+      "answerChoices": [
+        { "distractor": "rehabilitated", "closeness": 3, "reasoning": "Rehabilitation restores a damaged reputation without necessarily disturbing the underlying charge, but the historians' discovery is that the orders never arrived, which dissolves the charge itself." },
+        { "distractor": "vindicated", "closeness": 3, "reasoning": "Vindication would mean his judgment or choice is shown to have been right, yet the finding is that he never received the orders and so never made the choice he was faulted for." },
+        { "distractor": "exonerated", "closeness": 3, "reasoning": "This is the closest trap in a sentence about lifting an accusation, but it carries the added sense of releasing someone from a burden or duty, whereas the historians are simply establishing a fact about what he was never sent." },
+        { "distractor": "eulogized", "closeness": 3, "reasoning": "A eulogy praises the dead, and although the passage of decades invites that reading, the sentence's second clause is documentary evidence about message delivery, not tribute." },
+        { "distractor": "celebrated", "closeness": 2, "reasoning": "Celebration honors achievement, while the historians' contribution here is to correct the record about an accusation." },
+        { "distractor": "canonized", "closeness": 2, "reasoning": "Canonization elevates someone to exemplary status, which overshoots a finding that merely removes a specific charge of disobedience." },
+        { "distractor": "reassessed", "closeness": 2, "reasoning": "Reassessment names the activity without saying how it came out, but the sentence's evidence about undelivered orders points to a definite outcome in his favor." },
+        { "distractor": "memorialized", "closeness": 2, "reasoning": "Memorializing preserves a person's memory, whereas the clause about the orders is doing argumentative work against a specific allegation." },
+        { "distractor": "condemned", "closeness": 1, "reasoning": "Condemnation is what the old account did; the new evidence about undelivered orders pushes in the opposite direction." },
+        { "distractor": "court-martialed", "closeness": 1, "reasoning": "Historians decades afterward have no power to try anyone, and the finding described works against the accusation rather than pressing it." },
+        { "distractor": "forgot", "closeness": 1, "reasoning": "The sentence shows historians actively investigating and establishing what happened, the opposite of letting the matter lapse." }
+      ]
+    },
+    {
+      "sentence": "Her friends rushed to exculpate her at the dinner table, insisting that the argument had been started by someone else entirely.",
+      "answerChoices": [
+        { "distractor": "defend", "closeness": 3, "reasoning": "Defending covers any advocacy on her behalf, including arguing that what she did was justified, but the friends' specific move is to relocate the origin of the quarrel to another person." },
+        { "distractor": "excuse", "closeness": 3, "reasoning": "An excuse would grant that she started something and offer a reason for it, while the insistence reported here denies that she started anything." },
+        { "distractor": "console", "closeness": 3, "reasoning": "Consoling attends to her feelings, whereas the friends are making a claim about who began the argument, which is an assertion about facts rather than comfort." },
+        { "distractor": "absolve", "closeness": 3, "reasoning": "Absolution is something an offended party or authority grants, but the friends at the table have no standing to forgive and are instead contesting the account of events." },
+        { "distractor": "flatter", "closeness": 2, "reasoning": "Flattery would be praise aimed at pleasing her, which has nothing to do with settling who set the quarrel off." },
+        { "distractor": "interrupt", "closeness": 2, "reasoning": "Interrupting describes the manner of speaking rather than its purpose, and the sentence tells us what they were arguing for." },
+        { "distractor": "avenge", "closeness": 2, "reasoning": "Avenging would mean retaliating against whoever wronged her, but the friends are described only as reassigning responsibility for starting the argument." },
+        { "distractor": "silence", "closeness": 2, "reasoning": "Silencing her would cut off her side, the opposite of an intervention made on her behalf." },
+        { "distractor": "accuse", "closeness": 1, "reasoning": "The friends are pushing blame toward someone else entirely, so they cannot be leveling it at her." },
+        { "distractor": "humiliate", "closeness": 1, "reasoning": "Rushing to her aid at the table is incompatible with trying to shame her." },
+        { "distractor": "betray", "closeness": 1, "reasoning": "Betrayal would mean turning on her, while the sentence has them insisting on an account that helps her." }
+      ]
+    }
+  ]
+}

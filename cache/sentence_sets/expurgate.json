@@ -1,0 +1,53 @@
+{
+  "word": "expurgate",
+  "sentenceSets": [
+    {
+      "sentence": "The publisher expurgated the correspondence before releasing it, removing passages that might have embarrassed living figures.",
+      "answerChoices": [
+        { "distractor": "abridged", "closeness": 3, "reasoning": "Abridging shortens a text for convenience, but the cuts here were chosen by what might embarrass particular people who are still alive." },
+        { "distractor": "annotated", "closeness": 3, "reasoning": "Annotating adds explanatory notes, whereas the sentence describes material being taken out before publication." },
+        { "distractor": "redacted", "closeness": 3, "reasoning": "Redacting blacks out passages so the reader can see that something was withheld, while this publisher released a version from which the embarrassing matter had been quietly removed." },
+        { "distractor": "paraphrased", "closeness": 3, "reasoning": "Paraphrasing keeps the content while changing the words, which would not protect anyone from the embarrassment the passages contain." },
+        { "distractor": "authenticated", "closeness": 2, "reasoning": "Authentication establishes that the letters are genuine, a separate matter from what the publisher chose to cut." },
+        { "distractor": "catalogued", "closeness": 2, "reasoning": "Cataloguing organizes the letters for reference and involves removing nothing from them." },
+        { "distractor": "serialized", "closeness": 2, "reasoning": "Serializing releases material in installments, which is a matter of publishing schedule rather than of excising passages." },
+        { "distractor": "translated", "closeness": 2, "reasoning": "Translation changes the language of the correspondence and would leave the awkward passages fully intact." },
+        { "distractor": "restored", "closeness": 1, "reasoning": "Restoring would put missing material back, the opposite of removing passages before release." },
+        { "distractor": "fabricated", "closeness": 1, "reasoning": "Fabricating would mean inventing letters, whereas the publisher is described as cutting from existing ones." },
+        { "distractor": "publicized", "closeness": 1, "reasoning": "Publicizing draws attention to the material, which works against the aim of sparing living figures embarrassment." }
+      ]
+    },
+    {
+      "sentence": "School boards in three counties voted to expurgate the anthology, and teachers arrived in September to find four poems missing.",
+      "answerChoices": [
+        { "distractor": "ban", "closeness": 3, "reasoning": "A ban would keep the whole anthology out of classrooms, but the teachers still have the book and find only four poems gone from it." },
+        { "distractor": "reprint", "closeness": 3, "reasoning": "Reprinting is a manufacturing decision that would not by itself explain particular poems disappearing from the collection." },
+        { "distractor": "replace", "closeness": 3, "reasoning": "Replacing the anthology would put a different book in teachers' hands, whereas they received the same one with gaps in it." },
+        { "distractor": "review", "closeness": 3, "reasoning": "Reviewing the anthology would be an assessment, and the sentence reports an action whose immediate result is missing poems." },
+        { "distractor": "endorse", "closeness": 2, "reasoning": "Endorsement approves a text as it stands and cannot account for four poems being gone." },
+        { "distractor": "purchase", "closeness": 2, "reasoning": "Purchasing copies would supply the anthology intact rather than shortened by four poems." },
+        { "distractor": "digitize", "closeness": 2, "reasoning": "Digitizing changes the format and would preserve the contents rather than thin them." },
+        { "distractor": "translate", "closeness": 2, "reasoning": "Translation would alter the language of the poems, not remove them from the volume." },
+        { "distractor": "expand", "closeness": 1, "reasoning": "Expanding the anthology would add poems, contradicting the four that are missing." },
+        { "distractor": "memorize", "closeness": 1, "reasoning": "Memorizing is something students do and is not a decision a school board takes by vote." },
+        { "distractor": "praise", "closeness": 1, "reasoning": "Praise leaves the contents untouched and explains nothing about the gaps teachers discovered." }
+      ]
+    },
+    {
+      "sentence": "Late in life he tried to expurgate his own diaries, but the ink he used to blot the worst entries proved disappointingly transparent.",
+      "answerChoices": [
+        { "distractor": "conceal", "closeness": 3, "reasoning": "Concealing would mean hiding the diaries away whole, but he is working inside them entry by entry to get rid of what he now regrets." },
+        { "distractor": "destroy", "closeness": 3, "reasoning": "Destroying the diaries would leave nothing behind, whereas he keeps the volumes and works only on the worst entries within them." },
+        { "distractor": "revise", "closeness": 3, "reasoning": "Revising implies rewriting toward a better version, while his ink is applied to blot out passages rather than to improve them." },
+        { "distractor": "publish", "closeness": 3, "reasoning": "Publishing would expose the entries, the reverse of an effort undone by ink that failed to hide them." },
+        { "distractor": "index", "closeness": 2, "reasoning": "Indexing would help a reader find entries, which is the last thing someone blotting them would want." },
+        { "distractor": "date", "closeness": 2, "reasoning": "Dating entries is a clerical act and has nothing to do with covering over compromising passages." },
+        { "distractor": "bind", "closeness": 2, "reasoning": "Binding concerns the physical assembly of the volumes rather than the content of particular entries." },
+        { "distractor": "bequeath", "closeness": 2, "reasoning": "Bequeathing the diaries would pass them to someone else intact, which his blotting was meant to prevent." },
+        { "distractor": "recopy", "closeness": 1, "reasoning": "Recopying would reproduce the very entries he is trying to blot out." },
+        { "distractor": "advertise", "closeness": 1, "reasoning": "Advertising the diaries would call attention to the material he was struggling to obscure." },
+        { "distractor": "illuminate", "closeness": 1, "reasoning": "Making the entries more legible runs directly against ink applied to cover them." }
+      ]
+    }
+  ]
+}

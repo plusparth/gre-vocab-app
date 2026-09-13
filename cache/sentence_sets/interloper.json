@@ -1,0 +1,53 @@
+{
+  "word": "interloper",
+  "sentenceSets": [
+    {
+      "sentence": "He was seen as an interloper in the field, arriving without the training or credentials that the established community expected.",
+      "answerChoices": [
+        { "distractor": "outsider", "closeness": 3, "reasoning": "Outsider says only that he did not belong, but the sentence has him arriving in the field and working there, which is what the established community resented." },
+        { "distractor": "upstart", "closeness": 3, "reasoning": "Upstart implies he had risen quickly in standing, yet the sentence reports nothing about his success—only that he came without the expected preparation." },
+        { "distractor": "amateur", "closeness": 3, "reasoning": "Amateur is a judgment about the quality or seriousness of his work, while the sentence describes how the community classified his presence among them." },
+        { "distractor": "trespasser", "closeness": 3, "reasoning": "A trespasser crosses a physical boundary, and the field in question is a scholarly community rather than a piece of ground." },
+        { "distractor": "novice", "closeness": 2, "reasoning": "A novice is simply new to a practice and would be welcomed for training, which is precisely what this man skipped." },
+        { "distractor": "dilettante", "closeness": 2, "reasoning": "A dilettante dabbles without commitment, but the sentence says nothing about how seriously he pursued the work." },
+        { "distractor": "rival", "closeness": 2, "reasoning": "Rival would place him in competition with particular members, whereas the objection described is to his arrival in the field at all." },
+        { "distractor": "usurper", "closeness": 2, "reasoning": "A usurper takes a position away from whoever held it, and the sentence describes him entering the field rather than displacing anyone." },
+        { "distractor": "authority", "closeness": 1, "reasoning": "Authority is exactly the standing that the missing credentials denied him." },
+        { "distractor": "veteran", "closeness": 1, "reasoning": "Veteran implies long service in the field, contradicting his arrival without training." },
+        { "distractor": "mentor", "closeness": 1, "reasoning": "A mentor guides newcomers, a role unavailable to someone the community did not credential." }
+      ]
+    },
+    {
+      "sentence": "The cat treated every visitor as an interloper, stationing herself on the threshold until the guest gave up the armchair.",
+      "answerChoices": [
+        { "distractor": "intruder", "closeness": 3, "reasoning": "An intruder enters without permission, but these visitors were let in and are called guests." },
+        { "distractor": "invader", "closeness": 3, "reasoning": "Invader implies force and conquest, while the cat's answer is to sit in a doorway and outwait the person." },
+        { "distractor": "stranger", "closeness": 3, "reasoning": "Stranger means merely unknown, and the sentence says the cat treated every visitor this way regardless of familiarity." },
+        { "distractor": "squatter", "closeness": 3, "reasoning": "A squatter settles in and stays, whereas the guest here occupies the armchair only until the cat wins it back." },
+        { "distractor": "nuisance", "closeness": 2, "reasoning": "Nuisance describes a general annoyance, but the cat's objection is specifically territorial—she wants the chair and the doorway." },
+        { "distractor": "competitor", "closeness": 2, "reasoning": "Competitor would suggest the visitor was trying to win something, while the visitor is unaware of any contest and simply sits down." },
+        { "distractor": "predator", "closeness": 2, "reasoning": "Predator implies a threat to the cat's safety, yet her response is a stubborn vigil rather than flight or defense." },
+        { "distractor": "meddler", "closeness": 2, "reasoning": "A meddler interferes in other people's business, and the guest does nothing but occupy a seat." },
+        { "distractor": "companion", "closeness": 1, "reasoning": "A companion would be welcome, which is the opposite of being stared off the furniture." },
+        { "distractor": "ally", "closeness": 1, "reasoning": "Ally implies shared interest, contradicting a standoff over the armchair." },
+        { "distractor": "host", "closeness": 1, "reasoning": "The host is the person who admitted the visitor, not the visitor the cat opposes." }
+      ]
+    },
+    {
+      "sentence": "The two incumbent carriers coordinated their schedules so thoroughly that any interloper found no gate left to lease.",
+      "answerChoices": [
+        { "distractor": "newcomer", "closeness": 3, "reasoning": "Newcomer marks only recent arrival, while the sentence shows two established firms arranging matters specifically to shut someone out of what they treat as theirs." },
+        { "distractor": "entrant", "closeness": 3, "reasoning": "Entrant is a neutral label for a firm joining a market, but the coordinated blocking described casts the arrival as an encroachment rather than a routine event." },
+        { "distractor": "challenger", "closeness": 3, "reasoning": "Challenger implies a direct contest already under way, yet the sentence has the firm stopped before it could obtain a gate and compete at all." },
+        { "distractor": "poacher", "closeness": 3, "reasoning": "A poacher takes what another already holds, whereas the obstacle here is that the firm cannot get in to take anything." },
+        { "distractor": "startup", "closeness": 2, "reasoning": "Startup describes a company's age and funding, and the sentence's obstacle would face an established airline arriving from elsewhere just as squarely." },
+        { "distractor": "subsidiary", "closeness": 2, "reasoning": "A subsidiary belongs to a parent company, and the sentence describes an unwelcome arrival rather than an affiliate of anyone." },
+        { "distractor": "operator", "closeness": 2, "reasoning": "Operator would cover the incumbents as readily as the excluded party, so it cannot be what the coordination was aimed against." },
+        { "distractor": "speculator", "closeness": 2, "reasoning": "A speculator trades on price movements, but the party here wants a gate in order to fly." },
+        { "distractor": "incumbent", "closeness": 1, "reasoning": "The incumbents are the two carriers doing the coordinating, not the party left without a gate." },
+        { "distractor": "monopolist", "closeness": 1, "reasoning": "A monopolist is what the coordinating pair are approaching, the opposite of the shut-out party." },
+        { "distractor": "passenger", "closeness": 1, "reasoning": "Passengers buy seats, not gate leases." }
+      ]
+    }
+  ]
+}

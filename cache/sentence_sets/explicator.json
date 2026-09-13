@@ -1,0 +1,53 @@
+{
+  "word": "explicator",
+  "sentenceSets": [
+    {
+      "sentence": "As an explicator of difficult texts, she had no equal in the department.",
+      "answerChoices": [
+        { "distractor": "critic", "closeness": 3, "reasoning": "A critic's business is evaluating what a text achieves, but the praise here attaches specifically to handling texts that are hard to follow." },
+        { "distractor": "translator", "closeness": 3, "reasoning": "Translation moves a work between languages, while the difficulty named is the texts' own density rather than the tongue they are written in." },
+        { "distractor": "editor", "closeness": 3, "reasoning": "An editor alters or prepares a text for publication, whereas the sentence credits her with what she does for readers facing texts as they already are." },
+        { "distractor": "anthologist", "closeness": 3, "reasoning": "An anthologist selects and collects works, a curatorial skill unrelated to making a demanding text tractable." },
+        { "distractor": "novelist", "closeness": 2, "reasoning": "Writing fiction is a separate occupation from working on other people's difficult texts." },
+        { "distractor": "archivist", "closeness": 2, "reasoning": "An archivist preserves and organizes documents, which says nothing about helping anyone through their difficulty." },
+        { "distractor": "administrator", "closeness": 2, "reasoning": "Departmental administration concerns running the unit, not skill with hard texts." },
+        { "distractor": "collector", "closeness": 2, "reasoning": "Collecting texts is about acquiring them, whereas the phrase 'of difficult texts' here names the material she works on for others." },
+        { "distractor": "obscurer", "closeness": 1, "reasoning": "Someone who made texts harder would hardly be praised as unmatched in a department." },
+        { "distractor": "plagiarist", "closeness": 1, "reasoning": "Copying others' work is a discredit, not a distinction she is admired for." },
+        { "distractor": "spectator", "closeness": 1, "reasoning": "A spectator merely watches, which cannot be the basis of a professional reputation built on difficult texts." }
+      ]
+    },
+    {
+      "sentence": "Television networks keep a few reliable explicators on call for nights when the election returns refuse to behave.",
+      "answerChoices": [
+        { "distractor": "commentators", "closeness": 3, "reasoning": "Commentators supply opinion and color, but these people are summoned precisely when the returns stop making sense, which calls for someone to unpack what the numbers mean." },
+        { "distractor": "correspondents", "closeness": 3, "reasoning": "Correspondents are sent out to report from the field, while these figures are kept on call to handle confusing results on air." },
+        { "distractor": "partisans", "closeness": 3, "reasoning": "Partisans argue for a side, and a network wanting reliability on a chaotic night is not looking for advocacy." },
+        { "distractor": "anchors", "closeness": 3, "reasoning": "Anchors run the broadcast from the desk all evening rather than being held in reserve for moments when the data turns strange." },
+        { "distractor": "sponsors", "closeness": 2, "reasoning": "Sponsors pay for airtime and have no role in making returns intelligible to viewers." },
+        { "distractor": "auditors", "closeness": 2, "reasoning": "Auditors would verify the count itself, a function of election officials rather than of people a network puts on air." },
+        { "distractor": "entertainers", "closeness": 2, "reasoning": "Entertainment is not what a network needs when the returns refuse to behave and viewers want to know what is happening." },
+        { "distractor": "producers", "closeness": 2, "reasoning": "Producers work behind the camera, whereas being kept on call for a confusing night implies someone brought out to address the audience." },
+        { "distractor": "obfuscators", "closeness": 1, "reasoning": "Someone who muddies matters is the last thing a network would keep ready for a night the returns already make no sense." },
+        { "distractor": "hecklers", "closeness": 1, "reasoning": "Hecklers interrupt from outside and could not be described as reliable professionals a network retains." },
+        { "distractor": "candidates", "closeness": 1, "reasoning": "The candidates are the subjects of the returns, not people the network keeps in reserve to handle them." }
+      ]
+    },
+    {
+      "sentence": "Every dense legal opinion eventually finds its explicator, usually a blogger with more patience than the judges who wrote it.",
+      "answerChoices": [
+        { "distractor": "champion", "closeness": 3, "reasoning": "A champion would defend the opinion's reasoning, but the joke turns on patience with a dense text, which points to someone willing to work through it for readers." },
+        { "distractor": "detractor", "closeness": 3, "reasoning": "A detractor attacks the opinion, whereas the quality singled out is patience, a virtue for unpacking difficulty rather than for opposing it." },
+        { "distractor": "successor", "closeness": 3, "reasoning": "A successor would take over the judges' role, but the blogger is described as coming to the written opinion from outside the court." },
+        { "distractor": "summarizer", "closeness": 3, "reasoning": "Summarizing is quick work by nature, which sits badly with a sentence whose whole point is the patience the task demands." },
+        { "distractor": "appellant", "closeness": 2, "reasoning": "An appellant is a party challenging a ruling in court, not a blogger working on the text afterward." },
+        { "distractor": "clerk", "closeness": 2, "reasoning": "Clerks assist judges in producing opinions, while this figure arrives after publication and is explicitly not part of the court." },
+        { "distractor": "publisher", "closeness": 2, "reasoning": "Publishing distributes the opinion, a mechanical service that does not require patience with its density." },
+        { "distractor": "litigant", "closeness": 2, "reasoning": "Litigants are the parties to the case, and the sentence describes someone taking up the written opinion out of interest." },
+        { "distractor": "author", "closeness": 1, "reasoning": "The judges are identified as the authors, so this slot must belong to someone else." },
+        { "distractor": "censor", "closeness": 1, "reasoning": "A censor suppresses material, which has nothing to do with patiently working through a published opinion." },
+        { "distractor": "forger", "closeness": 1, "reasoning": "Forgery involves faking documents, unrelated to the patient handling of a dense but genuine text." }
+      ]
+    }
+  ]
+}

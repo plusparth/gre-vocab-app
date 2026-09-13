@@ -1,0 +1,53 @@
+{
+  "word": "interlocutor",
+  "sentenceSets": [
+    {
+      "sentence": "She served as the principal interlocutor for the negotiations, a role that required equal parts patience and authority.",
+      "answerChoices": [
+        { "distractor": "mediator", "closeness": 3, "reasoning": "A mediator draws influence from having no stake and belonging to neither side, but the sentence says the role carried authority, which means she spoke on someone's behalf." },
+        { "distractor": "arbiter", "closeness": 3, "reasoning": "An arbiter decides the matter and imposes the result, which would make the patience the sentence stresses unnecessary." },
+        { "distractor": "envoy", "closeness": 3, "reasoning": "An envoy is dispatched somewhere to deliver a position and return, while the sentence describes a standing place inside the negotiations themselves." },
+        { "distractor": "liaison", "closeness": 3, "reasoning": "A liaison keeps two organizations informed of each other, a coordinating job that would not demand the authority the sentence attaches to the role." },
+        { "distractor": "delegate", "closeness": 2, "reasoning": "A delegate is one of several sent to represent a body, whereas the sentence singles her out as the principal one." },
+        { "distractor": "advocate", "closeness": 2, "reasoning": "An advocate argues a case to a decision-maker, but a negotiation has no judge to persuade—only the other side to keep talking to." },
+        { "distractor": "translator", "closeness": 2, "reasoning": "A translator carries words between languages and would need neither the authority nor the standing the sentence describes." },
+        { "distractor": "moderator", "closeness": 2, "reasoning": "A moderator manages a discussion without taking part in its substance, which does not fit someone whose job requires authority of her own." },
+        { "distractor": "bystander", "closeness": 1, "reasoning": "A bystander takes no part at all, which contradicts her serving in a principal role." },
+        { "distractor": "adversary", "closeness": 1, "reasoning": "An adversary is who she faced across the table, not the position she occupied." },
+        { "distractor": "archivist", "closeness": 1, "reasoning": "An archivist keeps records and has no function in a live negotiation." }
+      ]
+    },
+    {
+      "sentence": "In the dialogue Socrates chooses an interlocutor who is confident enough to keep answering and unwary enough to contradict himself.",
+      "answerChoices": [
+        { "distractor": "opponent", "closeness": 3, "reasoning": "Opponent frames the exchange as a contest to be won, but the man is chosen for his willingness to keep answering, which is what sustains a conversation rather than a fight." },
+        { "distractor": "pupil", "closeness": 3, "reasoning": "A pupil is there to be taught, while this man is selected for his confidence in asserting things of his own." },
+        { "distractor": "respondent", "closeness": 3, "reasoning": "Respondent belongs to formal proceedings where one party answers a charge, and the sentence describes an informal give-and-take of questions and replies." },
+        { "distractor": "foil", "closeness": 3, "reasoning": "A foil is defined by the contrast it throws on someone else, which names a literary function rather than the man's part in the talking." },
+        { "distractor": "disciple", "closeness": 2, "reasoning": "A disciple already accepts the teacher's views and so would have little to contradict himself about." },
+        { "distractor": "critic", "closeness": 2, "reasoning": "A critic evaluates from outside, but this man is inside the exchange, supplying the answers Socrates works with." },
+        { "distractor": "rival", "closeness": 2, "reasoning": "Rival implies competition for the same standing or prize, and nothing in the sentence suggests the two want the same thing." },
+        { "distractor": "witness", "closeness": 2, "reasoning": "A witness reports what he has seen, whereas this man is being drawn into stating positions he then undermines." },
+        { "distractor": "narrator", "closeness": 1, "reasoning": "A narrator tells the story from outside it and would not be chosen by a character within the dialogue." },
+        { "distractor": "spectator", "closeness": 1, "reasoning": "A spectator watches silently, which cannot be squared with someone who keeps answering." },
+        { "distractor": "scribe", "closeness": 1, "reasoning": "A scribe writes down what is said rather than taking a part in saying it." }
+      ]
+    },
+    {
+      "sentence": "The chatbot's designers trained it to mirror whatever register its interlocutor used, which made long conversations feel oddly circular.",
+      "answerChoices": [
+        { "distractor": "user", "closeness": 3, "reasoning": "User names anyone who operates the software, but what the system copies is specifically the speech of the person talking with it." },
+        { "distractor": "correspondent", "closeness": 3, "reasoning": "A correspondent exchanges letters or messages across a distance, while the sentence describes conversations sustained long enough to start doubling back on themselves." },
+        { "distractor": "operator", "closeness": 3, "reasoning": "An operator runs a machine, and a register is something a person adopts in speaking rather than a control that gets worked." },
+        { "distractor": "audience", "closeness": 3, "reasoning": "An audience receives without speaking, yet the mirroring described depends entirely on the other party producing language of their own." },
+        { "distractor": "client", "closeness": 2, "reasoning": "Client marks a commercial relationship, which has no bearing on whose manner of speech the system imitates." },
+        { "distractor": "subscriber", "closeness": 2, "reasoning": "A subscriber is someone who pays for access, a billing category rather than a participant in the exchange being described." },
+        { "distractor": "programmer", "closeness": 2, "reasoning": "The programmers are the designers named earlier in the sentence, not the party whose register is copied during a conversation." },
+        { "distractor": "listener", "closeness": 2, "reasoning": "A listener supplies nothing to copy, and the circularity arises because the system feeds a person's own manner back at them." },
+        { "distractor": "manufacturer", "closeness": 1, "reasoning": "A manufacturer builds the product and does not appear in the conversation at all." },
+        { "distractor": "regulator", "closeness": 1, "reasoning": "A regulator oversees an industry and has no role in the exchange the sentence describes." },
+        { "distractor": "vendor", "closeness": 1, "reasoning": "A vendor sells the software rather than talking with it." }
+      ]
+    }
+  ]
+}

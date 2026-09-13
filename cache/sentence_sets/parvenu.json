@@ -1,0 +1,53 @@
+{
+  "word": "parvenu",
+  "sentenceSets": [
+    {
+      "sentence": "As a parvenu in the field, she was watched with the particular attention reserved for those who have not yet made a significant mistake.",
+      "answerChoices": [
+        { "distractor": "novice", "closeness": 3, "reasoning": "A novice is simply untrained, but the sentence shows her holding a place prominent enough that the whole field is watching her, which is not the situation of someone still learning the basics." },
+        { "distractor": "prodigy", "closeness": 3, "reasoning": "Prodigy asserts exceptional gifts, and the sentence supplies no evidence of talent at all, only that she is new and that everyone is waiting for her first stumble." },
+        { "distractor": "interloper", "closeness": 3, "reasoning": "An interloper has pushed in where they have no business, yet the sentence treats her presence in the field as established and merely recent." },
+        { "distractor": "apprentice", "closeness": 3, "reasoning": "An apprentice works under a named master who is responsible for the work, while the attention here comes from the field at large and rests on her own record." },
+        { "distractor": "dilettante", "closeness": 2, "reasoning": "A dilettante dabbles without commitment, but nothing suggests she is unserious; the sentence's interest is in how new she is." },
+        { "distractor": "outsider", "closeness": 2, "reasoning": "An outsider stands beyond the field, whereas the sentence places her inside it and under its scrutiny." },
+        { "distractor": "protege", "closeness": 2, "reasoning": "A protege is advanced by a patron, and no sponsor appears to explain the attention she is getting." },
+        { "distractor": "functionary", "closeness": 2, "reasoning": "A functionary carries out routine duties in obscurity, which is the opposite of being singled out for close watching." },
+        { "distractor": "doyenne", "closeness": 1, "reasoning": "A doyenne is the senior figure of a field, incompatible with someone whose first significant mistake is still awaited." },
+        { "distractor": "veteran", "closeness": 1, "reasoning": "Long service would have produced a record of errors already, removing the reason for this particular kind of watching." },
+        { "distractor": "recluse", "closeness": 1, "reasoning": "A recluse withdraws from view, while she is the object of everyone's attention." }
+      ]
+    },
+    {
+      "sentence": "The old families of the valley treated the mill owner as a parvenu, inviting him to their dinners and never to their weddings.",
+      "answerChoices": [
+        { "distractor": "usurper", "closeness": 3, "reasoning": "A usurper has seized a place that belonged to someone else, but the old families have let him partway in of their own accord, to dinners if not to weddings." },
+        { "distractor": "profiteer", "closeness": 3, "reasoning": "Profiteer condemns how the money was made, and the sentence says nothing about his business methods, only about which invitations he receives." },
+        { "distractor": "boor", "closeness": 3, "reasoning": "A boor offends by crude manners, yet he is welcome at their dinner tables, so his conduct in company is evidently acceptable to them." },
+        { "distractor": "supplicant", "closeness": 3, "reasoning": "A supplicant begs for favor, while he is the one being sent invitations rather than the one asking for them." },
+        { "distractor": "benefactor", "closeness": 2, "reasoning": "A benefactor gives to the community and would be honored for it, which does not fit a man pointedly left off the wedding lists." },
+        { "distractor": "rival", "closeness": 2, "reasoning": "Rivalry would mean the families were competing with him for something, and the sentence describes a social line rather than a contest." },
+        { "distractor": "tenant", "closeness": 2, "reasoning": "A tenant holds land from another, but he owns the mill and the families' reservation concerns his standing, not his lease." },
+        { "distractor": "novelty", "closeness": 2, "reasoning": "A novelty would be paraded for amusement, whereas the pattern of invitations shows a considered limit on how far he is admitted." },
+        { "distractor": "patriarch", "closeness": 1, "reasoning": "A patriarch heads one of the old families himself and would be at the weddings by right." },
+        { "distractor": "aristocrat", "closeness": 1, "reasoning": "The valley's established families draw the line precisely against him, which they would not do with one of their own kind." },
+        { "distractor": "pauper", "closeness": 1, "reasoning": "A man who owns the mill and dines with the leading families is plainly not penniless." }
+      ]
+    },
+    {
+      "sentence": "Two years after his first election he was still dismissed as a parvenu by colleagues whose families had held the same seat for generations.",
+      "answerChoices": [
+        { "distractor": "amateur", "closeness": 3, "reasoning": "Amateur charges a want of skill, but the contrast the sentence draws is between his two years and the colleagues' inherited generations, a matter of lineage rather than competence." },
+        { "distractor": "opportunist", "closeness": 3, "reasoning": "Opportunist attacks his motives, and no motive of his appears; the only fact set against him is how recently his family arrived in the chamber." },
+        { "distractor": "demagogue", "closeness": 3, "reasoning": "A demagogue inflames crowds, and the sentence contains no speeches, no crowds, and no appeals, only the disdain of hereditary colleagues." },
+        { "distractor": "neophyte", "closeness": 3, "reasoning": "Neophyte points to inexperience alone, which two years in office begins to answer, whereas the sneer described is aimed at families rather than at service." },
+        { "distractor": "insurgent", "closeness": 2, "reasoning": "An insurgent challenges the sitting order, but he now holds the seat himself and is being snubbed rather than resisted." },
+        { "distractor": "backbencher", "closeness": 2, "reasoning": "Backbencher describes rank within a party, and the line drawn here runs between old families and a newcomer." },
+        { "distractor": "partisan", "closeness": 2, "reasoning": "Partisanship concerns loyalty to a faction, while the colleagues' contempt rests on the age of his claim to the seat." },
+        { "distractor": "provincial", "closeness": 2, "reasoning": "Provincial implies he came from somewhere unfashionable, but the seat is the same one those families held, so he comes from their own district." },
+        { "distractor": "grandee", "closeness": 1, "reasoning": "A grandee is one of the established great, exactly what his colleagues deny him." },
+        { "distractor": "statesman", "closeness": 1, "reasoning": "Statesman is a term of honor and could not be the substance of a dismissal." },
+        { "distractor": "scion", "closeness": 1, "reasoning": "A scion descends from a distinguished line, which is what the colleagues have and he conspicuously does not." }
+      ]
+    }
+  ]
+}

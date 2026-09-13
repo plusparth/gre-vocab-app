@@ -1,0 +1,53 @@
+{
+  "word": "perjury",
+  "sentenceSets": [
+    {
+      "sentence": "The witness was later charged with perjury after documents contradicted statements she had made under oath.",
+      "answerChoices": [
+        { "distractor": "libel", "closeness": 3, "reasoning": "Libel is a damaging falsehood published about a person, but what the documents contradicted were spoken answers given on the stand about the facts at issue." },
+        { "distractor": "fraud", "closeness": 3, "reasoning": "Fraud requires deceiving someone out of money or property, and nothing here was obtained; the offense attaches to sworn statements the records later disproved." },
+        { "distractor": "contempt", "closeness": 3, "reasoning": "Contempt punishes defiance of the court's authority, such as refusing to answer, whereas she did answer and the trouble arose from what her answers said." },
+        { "distractor": "slander", "closeness": 3, "reasoning": "Slander is spoken defamation of a person's reputation, and the sentence gives no indication that her statements concerned anyone's character." },
+        { "distractor": "forgery", "closeness": 2, "reasoning": "Forgery is faking a document, but the documents in this sentence are the genuine evidence that exposed her testimony." },
+        { "distractor": "obstruction", "closeness": 2, "reasoning": "Obstruction covers interference with an investigation generally, while the charge here follows specifically from statements made under oath." },
+        { "distractor": "extortion", "closeness": 2, "reasoning": "Extortion involves threats used to extract something, and no demand of any kind appears in the sentence." },
+        { "distractor": "negligence", "closeness": 2, "reasoning": "Negligence is carelessness rather than a criminal charge brought over sworn words, and one is not charged for failing to take care on a witness stand." },
+        { "distractor": "candor", "closeness": 1, "reasoning": "Frankness is not a crime, and it is contradicted by testimony the documents proved wrong." },
+        { "distractor": "testimony", "closeness": 1, "reasoning": "Giving testimony is exactly what witnesses are called to do and could not be the basis of a charge." },
+        { "distractor": "acquittal", "closeness": 1, "reasoning": "An acquittal is a court's finding of not guilty and cannot be something a person is charged with." }
+      ]
+    },
+    {
+      "sentence": "Rather than commit perjury, the old clerk admitted on the stand that he had signed the register himself.",
+      "answerChoices": [
+        { "distractor": "treason", "closeness": 3, "reasoning": "Treason is betrayal of the state, and the clerk's dilemma concerns what he will say about a register he signed with his own hand." },
+        { "distractor": "blasphemy", "closeness": 3, "reasoning": "Blasphemy offends against the sacred, while the oath binding this man is one sworn to a court about a matter of record." },
+        { "distractor": "heresy", "closeness": 3, "reasoning": "Heresy is departure from religious doctrine, which has no bearing on testimony about who signed a book." },
+        { "distractor": "cowardice", "closeness": 3, "reasoning": "Cowardice would be a failure of nerve, but the sentence sets his confession against something specific he could have done while on the stand under oath." },
+        { "distractor": "evasion", "closeness": 2, "reasoning": "Evasion means dodging the question, which would not require the stark alternative of confessing that he signed the register." },
+        { "distractor": "concealment", "closeness": 2, "reasoning": "Concealment is hiding something, and he is being asked questions to which he must give an answer one way or the other." },
+        { "distractor": "sacrilege", "closeness": 2, "reasoning": "Sacrilege is violation of holy things, and the setting is a witness box rather than a temple." },
+        { "distractor": "disgrace", "closeness": 2, "reasoning": "Disgrace is the consequence he accepts by confessing, not the thing he refuses to do in its place." },
+        { "distractor": "honesty", "closeness": 1, "reasoning": "Honesty is what his admission consists of, so it cannot be the alternative he rejected." },
+        { "distractor": "clemency", "closeness": 1, "reasoning": "Clemency is mercy granted by a court and is not something a witness could commit." },
+        { "distractor": "eloquence", "closeness": 1, "reasoning": "Fine speaking is not an offense and would not stand opposed to a plain admission of fact." }
+      ]
+    },
+    {
+      "sentence": "The committee referred the matter to prosecutors, arguing that the discrepancy amounted to perjury rather than a lapse of memory.",
+      "answerChoices": [
+        { "distractor": "dishonesty", "closeness": 3, "reasoning": "Dishonesty is a general failing of character, and the committee is asking prosecutors to act on words given to it in a formal proceeding where truth was compelled." },
+        { "distractor": "misrepresentation", "closeness": 3, "reasoning": "Misrepresentation covers any false statement, including one made casually over lunch, whereas the referral turns on the particular setting in which the discrepancy arose." },
+        { "distractor": "contradiction", "closeness": 3, "reasoning": "A contradiction is the clash between two accounts, which is the evidence the committee relies on rather than the offense it wants charged." },
+        { "distractor": "deception", "closeness": 3, "reasoning": "Deception describes the effect produced on the listener, while what can be sent to prosecutors is the act of having given the false account where the law forbade it." },
+        { "distractor": "confusion", "closeness": 2, "reasoning": "Confusion is the innocent explanation the committee is expressly rejecting when it sets the discrepancy against a lapse of memory." },
+        { "distractor": "insubordination", "closeness": 2, "reasoning": "Insubordination is refusing a superior's orders, and the witness before the committee answered rather than refused." },
+        { "distractor": "defamation", "closeness": 2, "reasoning": "Defamation injures someone's reputation, and nothing in the sentence says the statements were about another person." },
+        { "distractor": "exaggeration", "closeness": 2, "reasoning": "Exaggeration is overstatement, which prosecutors would have no occasion to pursue and which does not fit a measurable discrepancy." },
+        { "distractor": "accuracy", "closeness": 1, "reasoning": "Accuracy would leave nothing to refer to prosecutors at all." },
+        { "distractor": "amnesia", "closeness": 1, "reasoning": "Memory loss is the very defense the committee sets aside in the second half of the sentence." },
+        { "distractor": "cooperation", "closeness": 1, "reasoning": "Cooperating with the committee is the opposite of conduct that gets a matter sent to prosecutors." }
+      ]
+    }
+  ]
+}

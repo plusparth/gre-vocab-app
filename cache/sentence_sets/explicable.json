@@ -1,0 +1,53 @@
+{
+  "word": "explicable",
+  "sentenceSets": [
+    {
+      "sentence": "Her behavior seemed bizarre, but once the context was understood it became entirely explicable.",
+      "answerChoices": [
+        { "distractor": "excusable", "closeness": 3, "reasoning": "Excusable would mean the behavior is forgiven, but the sentence says only that supplying the context changed how it could be understood, not that anyone let her off." },
+        { "distractor": "predictable", "closeness": 3, "reasoning": "Predictability looks forward and would mean the behavior could have been anticipated, whereas the change described happens after the fact, once the background is known." },
+        { "distractor": "ordinary", "closeness": 3, "reasoning": "Calling it ordinary would deny that it was ever strange, yet the sentence keeps the strangeness intact and reports only that it can now be accounted for." },
+        { "distractor": "justifiable", "closeness": 3, "reasoning": "Justification concerns whether the behavior was right, while the context here does the work of making sense of it rather than defending it." },
+        { "distractor": "commonplace", "closeness": 2, "reasoning": "Commonplace would mean people do this all the time, which clashes with the opening description of her behavior as bizarre." },
+        { "distractor": "irreproachable", "closeness": 2, "reasoning": "Being beyond criticism is a moral verdict, and the sentence only tracks whether the behavior can be made sense of." },
+        { "distractor": "deliberate", "closeness": 2, "reasoning": "Deliberateness concerns her intent, but what changes in the sentence is the observer's grasp of the situation." },
+        { "distractor": "tolerable", "closeness": 2, "reasoning": "Tolerability asks whether others can put up with the behavior, a different question from whether the context accounts for it." },
+        { "distractor": "inexplicable", "closeness": 1, "reasoning": "This reverses the sentence, which moves from apparent strangeness to clarity once the context is known." },
+        { "distractor": "baffling", "closeness": 1, "reasoning": "The word 'but' marks a turn away from bafflement, so the second clause cannot restate it." },
+        { "distractor": "unprecedented", "closeness": 1, "reasoning": "Having no precedent would make the behavior harder to account for, not the resolution the sentence reports." }
+      ]
+    },
+    {
+      "sentence": "The sudden drop in readings was perfectly explicable: a technician had leaned against the sensor housing during the calibration run.",
+      "answerChoices": [
+        { "distractor": "trivial", "closeness": 3, "reasoning": "Triviality would mean the drop did not matter, but the colon introduces a cause, showing the sentence is concerned with accounting for the anomaly rather than dismissing its importance." },
+        { "distractor": "harmless", "closeness": 3, "reasoning": "Harmlessness concerns consequences for the equipment or study, while what follows the colon is an explanation of why the readings moved." },
+        { "distractor": "avoidable", "closeness": 3, "reasoning": "Avoidability would be a judgment about whether the incident should have happened, yet the clause after the colon is offered to make sense of the data, not to assign fault." },
+        { "distractor": "reproducible", "closeness": 3, "reasoning": "Reproducibility asks whether the same result can be obtained again, whereas the technician leaning on the housing is a one-off accident offered as the cause." },
+        { "distractor": "alarming", "closeness": 2, "reasoning": "Alarm would be the reaction before the cause was found, and the sentence's structure presents the cause as settling the matter." },
+        { "distractor": "measurable", "closeness": 2, "reasoning": "The drop was already measured, since it appears in the readings; what the sentence supplies is why it appeared." },
+        { "distractor": "documented", "closeness": 2, "reasoning": "Documentation concerns whether the event was recorded, but the point of the second clause is to identify its source." },
+        { "distractor": "systematic", "closeness": 2, "reasoning": "A systematic error recurs by design of the method, which conflicts with an accidental lean during a single calibration run." },
+        { "distractor": "mysterious", "closeness": 1, "reasoning": "The colon immediately supplies the cause, which dissolves any mystery." },
+        { "distractor": "unaccountable", "closeness": 1, "reasoning": "An account is given in the very next clause, so this contradicts the sentence." },
+        { "distractor": "fraudulent", "closeness": 1, "reasoning": "Fraud implies deliberate deception, while the sentence describes a technician accidentally brushing the housing." }
+      ]
+    },
+    {
+      "sentence": "What made the ritual so hard to study was that almost none of its steps were explicable even to the elders who performed them.",
+      "answerChoices": [
+        { "distractor": "audible", "closeness": 3, "reasoning": "Audibility concerns whether the steps could be heard, but the difficulty described is that the elders themselves cannot supply reasons for what they do." },
+        { "distractor": "visible", "closeness": 3, "reasoning": "The steps are clearly observable, since the elders perform them and researchers try to study them; the obstacle lies in accounting for them." },
+        { "distractor": "translatable", "closeness": 3, "reasoning": "Translation would be a language problem between researcher and elder, yet the sentence locates the gap in the elders' own grasp of the steps." },
+        { "distractor": "negotiable", "closeness": 3, "reasoning": "Negotiability would mean the steps could be altered by agreement, which has nothing to do with why the ritual resisted study." },
+        { "distractor": "consistent", "closeness": 2, "reasoning": "Consistency would concern whether the steps are performed the same way each time, but the stated problem is the absence of any account of them." },
+        { "distractor": "sacred", "closeness": 2, "reasoning": "Sacredness might explain a refusal to discuss the ritual, whereas the sentence says the elders themselves lack the account, not that they withhold it." },
+        { "distractor": "recorded", "closeness": 2, "reasoning": "Whether the steps were written down is a matter of documentation, not of whether anyone can say why they are done." },
+        { "distractor": "abbreviated", "closeness": 2, "reasoning": "Shortened steps would not create the particular difficulty of elders who cannot account for what they perform." },
+        { "distractor": "obscure", "closeness": 1, "reasoning": "Obscurity is the condition the sentence already establishes, so placing it after 'were' would make the clause say the ritual was hard to study because it was hard to study." },
+        { "distractor": "meaningless", "closeness": 1, "reasoning": "This asserts the steps have no significance, a stronger claim than the sentence makes about the elders' inability to give reasons." },
+        { "distractor": "forbidden", "closeness": 1, "reasoning": "A prohibition would bar outsiders from the ritual, but the elders are described as performing the steps openly enough to be studied." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "corrosion",
+  "sentenceSets": [
+    {
+      "sentence": "Years of corrosion had weakened the bridge's structural supports to a degree that required urgent repair.",
+      "answerChoices": [
+        { "distractor": "rust", "closeness": 3, "reasoning": "Rust names one particular reddish product that forms on iron, while the sentence speaks generally of a years-long process acting on the supports as a whole." },
+        { "distractor": "erosion", "closeness": 3, "reasoning": "Erosion is the wearing away of material by water or wind, but nothing here mentions a river or weather scouring the bridge; the damage is to the metal supports themselves." },
+        { "distractor": "oxidation", "closeness": 3, "reasoning": "Oxidation names a chemical reaction rather than the cumulative structural damage the sentence measures in weakened supports needing urgent repair." },
+        { "distractor": "decay", "closeness": 3, "reasoning": "Decay suits organic material rotting away, which sits oddly with the load-bearing metal supports of a bridge." },
+        { "distractor": "fatigue", "closeness": 2, "reasoning": "Fatigue comes from repeated loading and stress cycles, but the sentence attributes the damage to the passage of years rather than to traffic cycling over the span." },
+        { "distractor": "wear", "closeness": 2, "reasoning": "Wear implies loss from friction and contact, which does not describe supports quietly degrading over years beneath a bridge." },
+        { "distractor": "weathering", "closeness": 2, "reasoning": "Weathering points at exposure to climate generally, a broader cause than the specific deterioration that left the supports unsafe." },
+        { "distractor": "sediment", "closeness": 2, "reasoning": "Sediment is deposited material, which accumulates rather than weakens, so it cannot explain why the supports lost strength." },
+        { "distractor": "reinforcement", "closeness": 1, "reasoning": "Reinforcement would strengthen the supports, contradicting the sentence's statement that they were weakened." },
+        { "distractor": "restoration", "closeness": 1, "reasoning": "Restoration is the repair the bridge now urgently needs, not the thing that made repair necessary." },
+        { "distractor": "illumination", "closeness": 1, "reasoning": "Lighting has no bearing on the structural strength of supports and belongs to a different subject entirely." }
+      ]
+    },
+    {
+      "sentence": "The slow corrosion of public trust began long before the scandal, in a hundred small evasions no one bothered to correct.",
+      "answerChoices": [
+        { "distractor": "degradation", "closeness": 3, "reasoning": "Degradation suggests a fall in quality or standing, but the sentence describes something being eaten away gradually from within by accumulated small evasions rather than lowered in rank." },
+        { "distractor": "attrition", "closeness": 3, "reasoning": "Attrition implies steady loss of numbers or strength through sustained pressure, whereas the cause here is quiet, unopposed, and unnoticed until a scandal exposed it." },
+        { "distractor": "dissolution", "closeness": 3, "reasoning": "Dissolution names a complete breaking apart, which conflicts with 'slow' and with a process still underway before the scandal arrived." },
+        { "distractor": "atrophy", "closeness": 3, "reasoning": "Atrophy is wasting from disuse, yet the sentence gives an active cause — a hundred evasions — rather than mere neglect of something unexercised." },
+        { "distractor": "collapse", "closeness": 2, "reasoning": "Collapse is sudden and total, incompatible with a process explicitly described as slow and as beginning long before the scandal." },
+        { "distractor": "fracture", "closeness": 2, "reasoning": "A fracture is a sharp break at a point, which cannot be 'slow' or built from a hundred accumulating small acts." },
+        { "distractor": "decline", "closeness": 2, "reasoning": "Decline describes a downward trend without any sense of something being eaten away by the specific agent the sentence names." },
+        { "distractor": "suspicion", "closeness": 2, "reasoning": "Suspicion is a state of mind held by the public, not the process working on their trust over years." },
+        { "distractor": "renewal", "closeness": 1, "reasoning": "Renewal would restore trust, the opposite of what the evasions accomplished." },
+        { "distractor": "consolidation", "closeness": 1, "reasoning": "Consolidation means strengthening and gathering together, contradicting a sentence about trust being lost." },
+        { "distractor": "celebration", "closeness": 1, "reasoning": "Celebration is entirely out of keeping with evasions, scandal, and failure to correct." }
+      ]
+    },
+    {
+      "sentence": "The lab coats its seafloor sensors in a ceramic film because untreated housings suffer corrosion within a few weeks of deployment.",
+      "answerChoices": [
+        { "distractor": "pitting", "closeness": 3, "reasoning": "Pitting names one localized form of damage, small cavities, while the sentence justifies coating the entire housing against a general attack by seawater." },
+        { "distractor": "tarnish", "closeness": 3, "reasoning": "Tarnish is a surface discoloration that would hardly justify an engineered ceramic film on an instrument meant to survive the seafloor." },
+        { "distractor": "etching", "closeness": 3, "reasoning": "Etching implies a deliberate patterning of a surface, but the sentence describes unwanted damage the lab spends effort to prevent." },
+        { "distractor": "deterioration", "closeness": 3, "reasoning": "Deterioration is a catch-all decline that gives no reason a ceramic barrier in particular would help, whereas the coating is there to keep seawater off the metal." },
+        { "distractor": "contamination", "closeness": 2, "reasoning": "Contamination is the arrival of unwanted matter, not the destruction of the housings themselves that the protective film exists to prevent." },
+        { "distractor": "fouling", "closeness": 2, "reasoning": "Fouling refers to organisms and debris accumulating on a surface, which a ceramic film would not particularly deter." },
+        { "distractor": "leakage", "closeness": 2, "reasoning": "Leakage is water getting inside, a consequence rather than the process attacking the untreated housings." },
+        { "distractor": "condensation", "closeness": 2, "reasoning": "Condensation forms from vapor and is irrelevant to housings already submerged in seawater." },
+        { "distractor": "insulation", "closeness": 1, "reasoning": "Insulation is a protective measure like the ceramic film itself, not the harm the film is applied to stop." },
+        { "distractor": "hardening", "closeness": 1, "reasoning": "Hardening would make the housings more durable, the opposite of a problem requiring a protective coating." },
+        { "distractor": "purification", "closeness": 1, "reasoning": "Purification belongs to cleaning processes and cannot be something a sensor housing suffers within weeks." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "extol",
+  "sentenceSets": [
+    {
+      "sentence": "The review extolled the production without qualification, praising every element from the script to the costumes.",
+      "answerChoices": [
+        { "distractor": "commended", "closeness": 3, "reasoning": "Commending is measured approval, which sits oddly with a notice that withholds nothing and works through every department of the show." },
+        { "distractor": "defended", "closeness": 3, "reasoning": "Defending implies answering attacks, but no criticism of the production is mentioned for the reviewer to push back against." },
+        { "distractor": "analyzed", "closeness": 3, "reasoning": "Analysis breaks a production into parts to assess them, while this review runs through the elements only to approve of each one." },
+        { "distractor": "recommended", "closeness": 3, "reasoning": "A recommendation advises the reader to go, whereas the sentence describes the reviewer heaping approval on the work itself element by element." },
+        { "distractor": "summarized", "closeness": 2, "reasoning": "Summarizing recounts what happens on stage and carries no verdict, which the phrase 'without qualification' plainly supplies." },
+        { "distractor": "previewed", "closeness": 2, "reasoning": "A preview anticipates a production before it opens, while this piece passes judgment on a show already seen in full." },
+        { "distractor": "financed", "closeness": 2, "reasoning": "A review is a piece of writing and cannot fund anything." },
+        { "distractor": "attended", "closeness": 2, "reasoning": "Attending is something the reviewer did, not something the review could do to the production." },
+        { "distractor": "panned", "closeness": 1, "reasoning": "A pan is hostile, contradicting praise extended to the script, the costumes, and everything between." },
+        { "distractor": "disparaged", "closeness": 1, "reasoning": "Disparagement belittles, which cannot be squared with approval offered without qualification." },
+        { "distractor": "ridiculed", "closeness": 1, "reasoning": "Mockery is the opposite of a notice that finds every element worth praising." }
+      ]
+    },
+    {
+      "sentence": "Recruiters extol the flexibility of the job and say nothing about the weekends it quietly consumes.",
+      "answerChoices": [
+        { "distractor": "mention", "closeness": 3, "reasoning": "Merely mentioning flexibility would not create the imbalance the sentence draws with what recruiters leave unsaid about lost weekends." },
+        { "distractor": "guarantee", "closeness": 3, "reasoning": "Guaranteeing is a promise of terms, whereas the contrast in the sentence is between what they talk up and what they keep quiet." },
+        { "distractor": "exaggerate", "closeness": 3, "reasoning": "Exaggerating would concede that the flexibility claim is inflated, but the sentence's charge is one of omission: the weekends go unmentioned." },
+        { "distractor": "misrepresent", "closeness": 3, "reasoning": "Misrepresenting means stating something falsely, while the flexibility itself is not disputed here; the silence about weekends is." },
+        { "distractor": "measure", "closeness": 2, "reasoning": "Measuring flexibility would be an analytical exercise, not the selling recruiters are doing." },
+        { "distractor": "schedule", "closeness": 2, "reasoning": "Scheduling concerns arranging hours rather than how recruiters talk about the role." },
+        { "distractor": "restrict", "closeness": 2, "reasoning": "Restricting flexibility would be an action on the job's terms, but the sentence is about what recruiters say to candidates." },
+        { "distractor": "investigate", "closeness": 2, "reasoning": "Investigating would mean looking into the claim, which is the reverse of the promotional posture described." },
+        { "distractor": "conceal", "closeness": 1, "reasoning": "Concealment is what they do with the weekends, and the sentence sets that against how they treat the flexibility." },
+        { "distractor": "deny", "closeness": 1, "reasoning": "Denying the flexibility would undercut the pitch the second clause implies they are making." },
+        { "distractor": "resent", "closeness": 1, "reasoning": "Resentment describes a feeling toward the job, not the recruiters' promotional treatment of it." }
+      ]
+    },
+    {
+      "sentence": "Village histories written in the 1890s extol the founder at such length that the reader learns almost nothing about the village.",
+      "answerChoices": [
+        { "distractor": "describe", "closeness": 3, "reasoning": "Describing the founder would still leave room for the village, whereas the complaint is that the pages devoted to him crowd everything else out with tribute." },
+        { "distractor": "mythologize", "closeness": 3, "reasoning": "Mythologizing invents legends about a figure, but the sentence measures the histories by their sheer volume of adulation rather than by invented stories." },
+        { "distractor": "catalogue", "closeness": 3, "reasoning": "Cataloguing implies dry enumeration, which would not explain why so much space goes to one man at the expense of the place." },
+        { "distractor": "commemorate", "closeness": 3, "reasoning": "Commemorating marks a person's memory in a fixed ceremonial way, while these books go on at such length that nothing else fits." },
+        { "distractor": "interview", "closeness": 2, "reasoning": "Nineteenth-century village histories cannot interview a founder who belongs to an earlier era." },
+        { "distractor": "identify", "closeness": 2, "reasoning": "Identifying the founder takes a line, not the extended treatment the sentence complains about." },
+        { "distractor": "employ", "closeness": 2, "reasoning": "Employing someone is an economic relation and not something a written history does." },
+        { "distractor": "bury", "closeness": 2, "reasoning": "Burial is a physical act performed on a person, not a way a book treats its subject." },
+        { "distractor": "malign", "closeness": 1, "reasoning": "Maligning would be hostile, which does not fit histories that lavish pages on the founder." },
+        { "distractor": "omit", "closeness": 1, "reasoning": "Omitting the founder contradicts the complaint that he takes up so much of the book." },
+        { "distractor": "prosecute", "closeness": 1, "reasoning": "Prosecution is a legal action and cannot be carried out by a village history." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "parley",
+  "sentenceSets": [
+    {
+      "sentence": "The two factions agreed to parley before any formal positions had been committed to print.",
+      "answerChoices": [
+        { "distractor": "negotiate", "closeness": 3, "reasoning": "Negotiation means trading terms back and forth, but the sentence places this meeting before either side has set down a position, so there is nothing yet on the table to trade." },
+        { "distractor": "arbitrate", "closeness": 3, "reasoning": "Arbitration requires an outside party empowered to decide between the two sides, and the sentence shows the factions themselves agreeing to meet." },
+        { "distractor": "mediate", "closeness": 3, "reasoning": "A mediator stands apart from the dispute, whereas the subject of the verb here is the two disputing factions, who cannot stand between themselves." },
+        { "distractor": "bargain", "closeness": 3, "reasoning": "Bargaining presumes each side has something to concede and a stated demand, which the clause about nothing being committed to print rules out." },
+        { "distractor": "convene", "closeness": 2, "reasoning": "Convening is what a single body does when it calls itself into session, while the sentence describes two separate factions agreeing to come together." },
+        { "distractor": "reconcile", "closeness": 2, "reasoning": "Reconciliation is an outcome, and the sentence records only that the two sides agreed to sit down, with nothing settled." },
+        { "distractor": "litigate", "closeness": 2, "reasoning": "Litigation runs through a court and requires filed claims, which is precisely the sort of formal commitment the sentence says has not yet happened." },
+        { "distractor": "capitulate", "closeness": 2, "reasoning": "Capitulation is one side giving way, but both factions are named as equal parties to the agreement." },
+        { "distractor": "disband", "closeness": 1, "reasoning": "Breaking up the factions would leave no one to arrive at positions, formal or otherwise." },
+        { "distractor": "renounce", "closeness": 1, "reasoning": "Renunciation requires something already declared to give up, and the sentence says nothing has been put in writing yet." },
+        { "distractor": "gloat", "closeness": 1, "reasoning": "Gloating presupposes a victory, while the sentence describes a stage at which neither side has even stated its terms." }
+      ]
+    },
+    {
+      "sentence": "Under a white flag the besieged garrison sent a young officer out through the gate to parley with the enemy commander.",
+      "answerChoices": [
+        { "distractor": "haggle", "closeness": 3, "reasoning": "Haggling is bickering over a price, which has no place in a scene of a garrison under siege sending an officer through its own gate." },
+        { "distractor": "surrender", "closeness": 3, "reasoning": "Surrender would mean handing over the garrison, but only one officer goes out, and the white flag signals a request to talk rather than a transfer of the position." },
+        { "distractor": "petition", "closeness": 3, "reasoning": "A petition is a one-way appeal submitted to an authority over you, while the officer is sent to speak face to face with the opposing side's commander." },
+        { "distractor": "remonstrate", "closeness": 3, "reasoning": "To remonstrate is to protest a wrong, and nothing suggests the garrison has a grievance to press; it is a besieged force seeking contact with the enemy." },
+        { "distractor": "fraternize", "closeness": 2, "reasoning": "Fraternizing is informal mixing with the other side, which does not fit an officer dispatched formally under a flag of truce." },
+        { "distractor": "conspire", "closeness": 2, "reasoning": "Conspiracy is secret, yet the white flag and the open passage through the gate make this the most visible act possible." },
+        { "distractor": "skirmish", "closeness": 2, "reasoning": "A skirmish is fighting, which the white flag exists specifically to suspend." },
+        { "distractor": "reconnoiter", "closeness": 2, "reasoning": "Reconnoitering is covert observation of enemy positions, but the officer is sent to meet the commander, not to look around unnoticed." },
+        { "distractor": "flee", "closeness": 1, "reasoning": "Flight would not be announced with a white flag or aimed at the enemy commander." },
+        { "distractor": "bombard", "closeness": 1, "reasoning": "A single officer on foot under a truce flag cannot be conducting an artillery attack." },
+        { "distractor": "celebrate", "closeness": 1, "reasoning": "A garrison under siege has nothing to celebrate, and the errand is directed at the opposing commander." }
+      ]
+    },
+    {
+      "sentence": "The neighbors parleyed across the fence for the better part of an hour about the disputed line of hedges before anyone thought to mention lawyers.",
+      "answerChoices": [
+        { "distractor": "quibbled", "closeness": 3, "reasoning": "A quibble is a petty objection about something trivial, but the subject here is a contested property line serious enough that lawyers come up at the end." },
+        { "distractor": "bickered", "closeness": 3, "reasoning": "Bickering is snapping back and forth, which does not match an exchange that lasted most of an hour and only afterward turned adversarial." },
+        { "distractor": "wrangled", "closeness": 3, "reasoning": "Wrangling implies the dispute was already hostile throughout, yet the sentence marks the mention of lawyers as the turn, implying the hour before it was not yet a fight." },
+        { "distractor": "commiserated", "closeness": 3, "reasoning": "Commiseration means sharing sorrow over a common misfortune, and these two stand on opposite sides of the hedge line they disagree about." },
+        { "distractor": "gossiped", "closeness": 2, "reasoning": "Gossip is idle talk about absent third parties, while the subject of this hour is the boundary between the speakers' own properties." },
+        { "distractor": "sparred", "closeness": 2, "reasoning": "Sparring suggests testing blows for practice, but each neighbor has a real stake in where the hedges fall." },
+        { "distractor": "equivocated", "closeness": 2, "reasoning": "Equivocation is deliberate vagueness by one speaker, and the sentence describes an exchange between two people rather than anyone's evasiveness." },
+        { "distractor": "temporized", "closeness": 2, "reasoning": "Temporizing means stalling to avoid committing, which sits oddly with two neighbors who spend an hour on the substance of the hedge line." },
+        { "distractor": "reminisced", "closeness": 1, "reasoning": "Reminiscence looks back fondly at the past, whereas this conversation concerns a present disagreement headed toward lawyers." },
+        { "distractor": "dozed", "closeness": 1, "reasoning": "Sleeping is incompatible with an hour of talk about a contested boundary." },
+        { "distractor": "brooded", "closeness": 1, "reasoning": "Brooding is done silently and alone, but the sentence has two neighbors speaking to each other across a fence." }
+      ]
+    }
+  ]
+}

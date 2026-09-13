@@ -1,0 +1,53 @@
+{
+  "word": "pathogenic",
+  "sentenceSets": [
+    {
+      "sentence": "The pathogenic element of the institutional culture had been identified but not addressed, and it continued to damage.",
+      "answerChoices": [
+        { "distractor": "insidious", "closeness": 3, "reasoning": "Insidious means working unnoticed, but the sentence states plainly that the element had already been identified; what went wrong afterward was the failure to act on it." },
+        { "distractor": "latent", "closeness": 3, "reasoning": "Something latent is not yet active, which contradicts the final clause saying it continued to do harm." },
+        { "distractor": "endemic", "closeness": 3, "reasoning": "Endemic describes how firmly established something is in a population, not whether it causes injury, and the sentence's whole point is the ongoing damage." },
+        { "distractor": "contentious", "closeness": 3, "reasoning": "Contentious would mean people disagreed about the element, yet the sentence says it was identified, with the failure lying only in the response." },
+        { "distractor": "entrenched", "closeness": 2, "reasoning": "Entrenchment speaks to how hard something is to remove, while the sentence explains its persistence by the fact that nobody tried to remove it." },
+        { "distractor": "anomalous", "closeness": 2, "reasoning": "An anomaly is an oddity that stands apart, and this is described as an element of the culture itself, doing steady harm from within." },
+        { "distractor": "vestigial", "closeness": 2, "reasoning": "Vestigial implies a functionless leftover, which cannot be reconciled with something that goes on damaging the institution." },
+        { "distractor": "ambiguous", "closeness": 2, "reasoning": "Ambiguity would make the element hard to pin down, but the sentence grants that it was successfully identified." },
+        { "distractor": "benign", "closeness": 1, "reasoning": "Benign means doing no harm, directly contradicted by the clause about continued damage." },
+        { "distractor": "salutary", "closeness": 1, "reasoning": "Salutary means beneficial, which cannot describe something the institution needed to address and did not." },
+        { "distractor": "decorative", "closeness": 1, "reasoning": "Decoration is inert and harmless, the opposite of an element that keeps injuring the culture around it." }
+      ]
+    },
+    {
+      "sentence": "Only a handful of the bacteria found in the sample were pathogenic; the rest were harmless residents of the gut.",
+      "answerChoices": [
+        { "distractor": "contagious", "closeness": 3, "reasoning": "Contagiousness concerns how readily something passes from one host to another, but the division the sentence makes is between organisms that harm their host and those it calls harmless." },
+        { "distractor": "toxic", "closeness": 3, "reasoning": "Toxic points to poisoning by chemical action, while the sentence sorts the sample by whether the organisms make the host ill at all." },
+        { "distractor": "invasive", "closeness": 3, "reasoning": "Invasiveness is about pushing into tissue, yet the contrast drawn is with bacteria described as harmless residents, which are equally present in the gut." },
+        { "distractor": "parasitic", "closeness": 3, "reasoning": "Parasites live at the host's expense, but the harmless majority also live in the gut off what passes through it without being counted among the few." },
+        { "distractor": "motile", "closeness": 2, "reasoning": "Movement has nothing to do with the harmless-versus-harmful split the semicolon sets up." },
+        { "distractor": "dormant", "closeness": 2, "reasoning": "Dormancy would make the handful inactive, which gives no reason to separate them from the harmless remainder." },
+        { "distractor": "anaerobic", "closeness": 2, "reasoning": "Oxygen tolerance is a metabolic trait shared by many ordinary gut organisms and would not distinguish a worrying handful from a harmless majority." },
+        { "distractor": "unidentified", "closeness": 2, "reasoning": "The sentence has already counted and characterized both groups, so neither is unknown to the investigator." },
+        { "distractor": "harmless", "closeness": 1, "reasoning": "The second clause assigns harmlessness to the rest, so the handful must be the opposite." },
+        { "distractor": "beneficial", "closeness": 1, "reasoning": "Beneficial would make the handful better than the merely harmless remainder, reversing the contrast the semicolon draws." },
+        { "distractor": "synthetic", "closeness": 1, "reasoning": "These organisms were found living in a sample from the gut, not manufactured." }
+      ]
+    },
+    {
+      "sentence": "Investigators traced the outbreak to a cooling tower where pathogenic bacteria had multiplied for months in water that was never chlorinated.",
+      "answerChoices": [
+        { "distractor": "airborne", "closeness": 3, "reasoning": "Airborne describes how the organisms travelled to people, while the sentence explains the outbreak by what was allowed to breed in untreated standing water." },
+        { "distractor": "resistant", "closeness": 3, "reasoning": "Resistance concerns surviving drugs or disinfectants, but the failure the investigators found is that no disinfectant was ever applied." },
+        { "distractor": "mutant", "closeness": 3, "reasoning": "A mutation would mean the organisms changed, and the sentence attributes the outbreak to months of unchecked multiplication rather than to any change in the bacteria." },
+        { "distractor": "prolific", "closeness": 3, "reasoning": "Prolific only restates that they multiplied, which the sentence has already said, and leaves unexplained why their multiplying produced an outbreak." },
+        { "distractor": "waterborne", "closeness": 2, "reasoning": "Waterborne names where the organisms lived, a fact the cooling tower already supplies, without accounting for people falling ill." },
+        { "distractor": "microscopic", "closeness": 2, "reasoning": "All bacteria are too small to see, so this would do nothing to single out the ones behind the outbreak." },
+        { "distractor": "unregulated", "closeness": 2, "reasoning": "Regulation applies to the tower and its owners rather than to organisms, and the lapse is already stated as the absent chlorination." },
+        { "distractor": "novel", "closeness": 2, "reasoning": "Novelty would make these organisms newly emerged, but the investigators trace the outbreak to neglected maintenance, not to an unfamiliar agent." },
+        { "distractor": "inert", "closeness": 1, "reasoning": "Something inert does nothing, which cannot account for an outbreak investigators had to trace." },
+        { "distractor": "sterile", "closeness": 1, "reasoning": "Sterile water contains no living organisms, contradicting bacteria that multiplied there for months." },
+        { "distractor": "innocuous", "closeness": 1, "reasoning": "Harmless bacteria in a cooling tower would give investigators nothing to trace an outbreak to." }
+      ]
+    }
+  ]
+}

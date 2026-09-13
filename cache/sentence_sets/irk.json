@@ -1,0 +1,53 @@
+{
+  "word": "irk",
+  "sentenceSets": [
+    {
+      "sentence": "The constant interruptions irked her far more than the interruptions themselves justified.",
+      "answerChoices": [
+        { "distractor": "vexed", "closeness": 3, "reasoning": "Vexed carries a sense of being perplexed or worried by a problem, whereas an interruption simply breaks a train of thought." },
+        { "distractor": "nettled", "closeness": 3, "reasoning": "Nettled implies a sting from something said or implied against a person, but interruptions are not slights aimed at her." },
+        { "distractor": "wearied", "closeness": 3, "reasoning": "Wearied would mean the interruptions wore her down over time, while the sentence measures a reaction out of proportion to its cause rather than accumulated fatigue." },
+        { "distractor": "distracted", "closeness": 3, "reasoning": "Distracted names the plain effect any interruption has, and the sentence insists the trouble lay in how much they got to her." },
+        { "distractor": "angered", "closeness": 2, "reasoning": "Angered is too heavy for a reaction the sentence treats as a small irritation blown out of scale." },
+        { "distractor": "unsettled", "closeness": 2, "reasoning": "Unsettled suggests she was left uneasy about something, but the sentence points to her being bothered rather than shaken." },
+        { "distractor": "offended", "closeness": 2, "reasoning": "Offended requires an affront to her dignity, and the interruptions are described as constant rather than insulting." },
+        { "distractor": "exhausted", "closeness": 2, "reasoning": "Exhausted would be a physical toll, while the sentence compares her reaction against what the interruptions actually warranted." },
+        { "distractor": "delighted", "closeness": 1, "reasoning": "Delight could not be described as more than the interruptions justified in a sentence about constant disruption." },
+        { "distractor": "soothed", "closeness": 1, "reasoning": "Being soothed by constant interruptions is the reverse of what the comparison implies." },
+        { "distractor": "amused", "closeness": 1, "reasoning": "Amusement would give her no grievance to be out of proportion about." }
+      ]
+    },
+    {
+      "sentence": "What irks me about the new sign is not the wording but the fact that nobody asked.",
+      "answerChoices": [
+        { "distractor": "puzzles", "closeness": 3, "reasoning": "Puzzles would mean the speaker cannot make sense of something, but the wording is explicitly set aside as not the problem and the second grievance is perfectly clear to him." },
+        { "distractor": "concerns", "closeness": 3, "reasoning": "Concerns implies worry about consequences ahead, while the grievance named is a courtesy skipped before the sign went up." },
+        { "distractor": "offends", "closeness": 3, "reasoning": "Offends claims the sign insults him, yet he has just ruled out its wording as the source of his complaint." },
+        { "distractor": "galls", "closeness": 3, "reasoning": "Galls suggests a resentment that keeps chafing, whereas the speaker states his objection plainly in a single breath." },
+        { "distractor": "worries", "closeness": 2, "reasoning": "Worries points toward future harm, and nothing in the sentence suggests the sign will cause any." },
+        { "distractor": "surprises", "closeness": 2, "reasoning": "Surprises would be about the sign's appearing unexpectedly, but the complaint is that a consultation was owed and skipped." },
+        { "distractor": "embarrasses", "closeness": 2, "reasoning": "Embarrasses would require the sign to reflect badly on him, and his objection is to how it came about rather than what it says." },
+        { "distractor": "interests", "closeness": 2, "reasoning": "Interests is a neutral reaction, which does not fit a sentence built to separate two possible grounds of complaint." },
+        { "distractor": "pleases", "closeness": 1, "reasoning": "Being pleased that nobody asked reverses the grievance the sentence is making." },
+        { "distractor": "reassures", "closeness": 1, "reasoning": "Reassurance is the opposite of a complaint about being left out." },
+        { "distractor": "flatters", "closeness": 1, "reasoning": "Flattery has no place in an objection to not having been consulted." }
+      ]
+    },
+    {
+      "sentence": "Reviewers were irked by a footnote that seemed to claim credit for work three other laboratories had published first.",
+      "answerChoices": [
+        { "distractor": "baffled", "closeness": 3, "reasoning": "Baffled would mean the reviewers could not follow the footnote, yet the sentence says its claim was clear enough for them to see what it asserted." },
+        { "distractor": "unimpressed", "closeness": 3, "reasoning": "Unimpressed reports a low opinion of the work's quality, while the objection here is to a claim of priority over three other laboratories." },
+        { "distractor": "affronted", "closeness": 3, "reasoning": "Affronted implies a personal insult to the reviewers, but the credit at issue belongs to the laboratories that published first." },
+        { "distractor": "alienated", "closeness": 3, "reasoning": "Alienated would mean the reviewers were driven away from the paper altogether, whereas the sentence attributes their reaction to a single footnote." },
+        { "distractor": "disturbed", "closeness": 2, "reasoning": "Disturbed suggests deep unease about something troubling, which is heavier than a response to an overreaching citation." },
+        { "distractor": "unnerved", "closeness": 2, "reasoning": "Unnerved implies fear or loss of composure, and nothing in the footnote threatens the reviewers." },
+        { "distractor": "confused", "closeness": 2, "reasoning": "Confused conflicts with the reviewers having identified precisely what the footnote was claiming and who had published earlier." },
+        { "distractor": "startled", "closeness": 2, "reasoning": "Startled implies sudden shock, but a footnote reviewers had to check against three prior publications is not something that catches anyone unawares." },
+        { "distractor": "impressed", "closeness": 1, "reasoning": "Impressed would be a favorable response, which cannot follow from spotting a claim on other laboratories' work." },
+        { "distractor": "charmed", "closeness": 1, "reasoning": "Charm is out of place in a dispute over who published first." },
+        { "distractor": "comforted", "closeness": 1, "reasoning": "Comforted has no possible relation to a contested claim of credit." }
+      ]
+    }
+  ]
+}

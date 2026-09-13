@@ -1,0 +1,53 @@
+{
+  "word": "goosebumps",
+  "sentenceSets": [
+    {
+      "sentence": "The performance gave the audience goosebumps, the kind produced not by temperature but by something entirely unexpected.",
+      "answerChoices": [
+        { "distractor": "chills", "closeness": 3, "reasoning": "Chills are a felt coldness running through the body, but the sentence explicitly sets its reaction apart from temperature and points to something visible on the skin." },
+        { "distractor": "shivers", "closeness": 3, "reasoning": "Shivering is a movement of the whole body, and the clause distinguishing this reaction from cold rules out the trembling that cold produces." },
+        { "distractor": "tears", "closeness": 3, "reasoning": "Tears would never be confused with a response to temperature, so the sentence's careful contrast with cold would make no sense." },
+        { "distractor": "palpitations", "closeness": 3, "reasoning": "Palpitations are felt in the chest as an irregular heartbeat, which has no cold-weather counterpart for the sentence to distinguish itself from." },
+        { "distractor": "applause", "closeness": 2, "reasoning": "Applause is a deliberate act of approval, not an involuntary reaction that could also be caused by a drop in temperature." },
+        { "distractor": "headaches", "closeness": 2, "reasoning": "A headache is discomfort rather than the kind of involuntary skin response the contrast with temperature implies." },
+        { "distractor": "whispers", "closeness": 2, "reasoning": "Whispering is something an audience does, not a bodily reaction a performance gives them." },
+        { "distractor": "nightmares", "closeness": 2, "reasoning": "Nightmares come later in sleep, whereas this is a response the performance produced on the spot." },
+        { "distractor": "sunburn", "closeness": 1, "reasoning": "Sunburn takes hours of exposure outdoors and could not be given by a performance." },
+        { "distractor": "receipts", "closeness": 1, "reasoning": "Receipts are documents and have no connection to an involuntary reaction contrasted with cold." },
+        { "distractor": "refunds", "closeness": 1, "reasoning": "A refund is a transaction, not a physical response the performance produced in the audience." }
+      ]
+    },
+    {
+      "sentence": "Every time the old recording reached the final chorus, she felt goosebumps rise along her forearms.",
+      "answerChoices": [
+        { "distractor": "hairs", "closeness": 3, "reasoning": "Hairs are a permanent feature of the arm and could be said to stand rather than to rise as something new, but the sentence describes a response appearing at the chorus and then passing." },
+        { "distractor": "sweat", "closeness": 3, "reasoning": "Sweat is a response to heat or exertion, and nothing in a woman listening to a recording suggests either." },
+        { "distractor": "bruises", "closeness": 3, "reasoning": "Bruises come from injury and would not appear on cue each time a song reached its chorus." },
+        { "distractor": "welts", "closeness": 3, "reasoning": "Welts are raised marks left by a blow or an allergic reaction, which no piece of music could produce repeatedly." },
+        { "distractor": "freckles", "closeness": 2, "reasoning": "Freckles develop slowly with sun exposure and do not come and go with a song." },
+        { "distractor": "veins", "closeness": 2, "reasoning": "Veins are permanent structures and would not be described as rising in response to a chorus." },
+        { "distractor": "scars", "closeness": 2, "reasoning": "Scars are lasting marks of old injuries, not a momentary reaction to music." },
+        { "distractor": "blisters", "closeness": 2, "reasoning": "Blisters form from friction or burns and could not be triggered by listening to a recording." },
+        { "distractor": "opinions", "closeness": 1, "reasoning": "Opinions are not something that rises along a forearm." },
+        { "distractor": "memories", "closeness": 1, "reasoning": "Memories may return with a song, but they do not appear on the skin of the arms." },
+        { "distractor": "shadows", "closeness": 1, "reasoning": "Shadows are cast by light and are not a bodily response to a chorus." }
+      ]
+    },
+    {
+      "sentence": "Sports psychologists sometimes measure goosebumps as a rough index of how deeply an athlete is moved by the anthem.",
+      "answerChoices": [
+        { "distractor": "heartbeats", "closeness": 3, "reasoning": "Heartbeats rise with exertion as much as with feeling, which would make them a poor sign of being moved specifically by the anthem." },
+        { "distractor": "tremors", "closeness": 3, "reasoning": "Tremors suggest nerves or fatigue and are read as signs of strain rather than of emotional depth." },
+        { "distractor": "footsteps", "closeness": 3, "reasoning": "Footsteps are voluntary movements and could not serve as an involuntary index of how a person is affected." },
+        { "distractor": "calories", "closeness": 3, "reasoning": "Calories track energy expenditure, a measure of physical work rather than of feeling during a song." },
+        { "distractor": "injuries", "closeness": 2, "reasoning": "Injuries record physical damage and say nothing about an athlete's emotional response to music." },
+        { "distractor": "salaries", "closeness": 2, "reasoning": "Pay is a contractual figure and cannot index a reaction to the anthem." },
+        { "distractor": "reflexes", "closeness": 2, "reasoning": "Reflexes are tested responses to stimuli like a tap on the knee, not a marker of how moved someone is." },
+        { "distractor": "penalties", "closeness": 2, "reasoning": "Penalties are officiating decisions during play and bear no relation to an athlete's feeling during the anthem." },
+        { "distractor": "uniforms", "closeness": 1, "reasoning": "Uniforms are clothing and could not be measured as an index of emotion." },
+        { "distractor": "trophies", "closeness": 1, "reasoning": "Trophies record past victories rather than a response occurring in the moment." },
+        { "distractor": "signatures", "closeness": 1, "reasoning": "Signatures are marks on paper and have nothing to do with being moved by an anthem." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "perigee",
+  "sentenceSets": [
+    {
+      "sentence": "The satellite suffers the worst of the atmospheric drag at perigee, where each pass skims the thin upper edge of the air.",
+      "answerChoices": [
+        { "distractor": "apogee", "closeness": 3, "reasoning": "The sentence places this point where the craft grazes the top of the atmosphere, which must be the low end of the path rather than the far end." },
+        { "distractor": "zenith", "closeness": 3, "reasoning": "Zenith is the point of the sky directly above an observer on the ground, a direction rather than a place along the satellite's own path." },
+        { "distractor": "nadir", "closeness": 3, "reasoning": "Nadir names the point directly beneath an observer, so it too describes a bearing from the surface instead of a station in the orbit." },
+        { "distractor": "culmination", "closeness": 3, "reasoning": "Culmination is the moment a body reaches its highest point in the sky as seen from below, which says nothing about how close it comes to the air." },
+        { "distractor": "aphelion", "closeness": 2, "reasoning": "Aphelion measures distance from the sun, while the drag in this sentence depends on how near the craft passes to the earth's own atmosphere." },
+        { "distractor": "precession", "closeness": 2, "reasoning": "Precession is the slow turning of the whole orbit over time, not a point on it where the craft dips into the air." },
+        { "distractor": "equinox", "closeness": 2, "reasoning": "An equinox is a date in the year, and the sentence needs a place in the orbit that recurs on every pass." },
+        { "distractor": "inclination", "closeness": 2, "reasoning": "Inclination is the tilt of the orbital plane, which does not single out the part of each circuit that brushes the atmosphere." },
+        { "distractor": "latitude", "closeness": 1, "reasoning": "Latitude locates a position on the earth's surface, not a point on a satellite's path." },
+        { "distractor": "sunrise", "closeness": 1, "reasoning": "The time of day has no bearing on where in its circuit the craft comes nearest to the air." },
+        { "distractor": "twilight", "closeness": 1, "reasoning": "Twilight is a lighting condition and cannot be the place where drag is worst." }
+      ]
+    },
+    {
+      "sentence": "Because the moon stood near perigee that night, the tide ran higher than the harbor wall had ever been built to expect.",
+      "answerChoices": [
+        { "distractor": "conjunction", "closeness": 3, "reasoning": "A conjunction is an apparent alignment of two bodies in our sky, whereas what lifts the water in this sentence is how near the moon has come to the earth." },
+        { "distractor": "opposition", "closeness": 3, "reasoning": "Opposition places a body on the far side of the sky from the sun, which tells us about direction rather than about the distance that would raise the tide." },
+        { "distractor": "eclipse", "closeness": 3, "reasoning": "An eclipse is a shadow thrown during an alignment, and a shadow would not drive water over the top of a harbor wall." },
+        { "distractor": "moonrise", "closeness": 3, "reasoning": "Moonrise happens every night as the moon clears the horizon and so could not explain a tide higher than any the wall was designed for." },
+        { "distractor": "solstice", "closeness": 2, "reasoning": "A solstice is a date fixed by the sun's course through the year, not a position of the moon relative to the earth." },
+        { "distractor": "midnight", "closeness": 2, "reasoning": "The hour of the night is already covered by the phrase that night and does nothing to account for the exceptional height of the water." },
+        { "distractor": "quadrature", "closeness": 2, "reasoning": "Quadrature is the moon standing at a right angle to the sun, an arrangement associated with the weakest tides rather than the strongest." },
+        { "distractor": "declination", "closeness": 2, "reasoning": "Declination is how far north or south of the equator a body appears, which is a matter of angle rather than of nearness." },
+        { "distractor": "sunset", "closeness": 1, "reasoning": "The sun going down is a daily event and cannot produce a record tide." },
+        { "distractor": "dusk", "closeness": 1, "reasoning": "Dusk names a time of evening, not a place in the moon's orbit." },
+        { "distractor": "anchorage", "closeness": 1, "reasoning": "An anchorage is a spot where ships moor, and the moon cannot stand near one." }
+      ]
+    },
+    {
+      "sentence": "Mission planners scheduled the burn for perigee, when the spacecraft would be moving fastest and the maneuver would cost the least fuel.",
+      "answerChoices": [
+        { "distractor": "perihelion", "closeness": 3, "reasoning": "Perihelion is the closest approach to the sun, but this craft is circling the earth, and the speed the planners are exploiting comes from its nearness to the body it orbits." },
+        { "distractor": "insertion", "closeness": 3, "reasoning": "Insertion is the one-time moment a craft enters orbit, whereas the planners are choosing among points the vehicle passes through on every circuit." },
+        { "distractor": "reentry", "closeness": 3, "reasoning": "Reentry ends the flight in the atmosphere, and this burn is being planned to save fuel for what the mission does next." },
+        { "distractor": "liftoff", "closeness": 3, "reasoning": "Liftoff happens from the ground before any orbit exists, while the sentence describes a spacecraft already circling and varying its speed." },
+        { "distractor": "rendezvous", "closeness": 2, "reasoning": "A rendezvous requires a second vehicle to meet, and none appears in the sentence." },
+        { "distractor": "daybreak", "closeness": 2, "reasoning": "Sunrise has no effect on how fast the craft is travelling or on what the burn will cost in fuel." },
+        { "distractor": "separation", "closeness": 2, "reasoning": "Separation is the moment stages or payloads part company, not a recurring point on the path where speed peaks." },
+        { "distractor": "checkout", "closeness": 2, "reasoning": "Checkout is a period of testing systems, which has nothing to do with the vehicle's velocity." },
+        { "distractor": "splashdown", "closeness": 1, "reasoning": "Splashdown is the end of the mission in the water and cannot be when an economical burn is made." },
+        { "distractor": "recovery", "closeness": 1, "reasoning": "Recovery happens after the craft is down and could not be a moment of maximum orbital speed." },
+        { "distractor": "countdown", "closeness": 1, "reasoning": "A countdown precedes launch and is over long before the spacecraft is in orbit choosing burn points." }
+      ]
+    }
+  ]
+}

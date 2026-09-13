@@ -1,0 +1,53 @@
+{
+  "word": "peons",
+  "sentenceSets": [
+    {
+      "sentence": "The hacienda's peons were bound to the land by debts that the estate ledger showed could never be worked off.",
+      "answerChoices": [
+        { "distractor": "serfs", "closeness": 3, "reasoning": "Serfdom bound people to an estate by inherited legal status, whereas the sentence traces the binding to entries in a ledger of debts kept by the owners." },
+        { "distractor": "tenants", "closeness": 3, "reasoning": "A tenant holds land under a lease that ends, but the sentence says the obligation could never be worked off, leaving these people no exit at all." },
+        { "distractor": "apprentices", "closeness": 3, "reasoning": "An apprentice is bound for a fixed term in exchange for training, and the sentence describes an account that never closes rather than a course that finishes." },
+        { "distractor": "conscripts", "closeness": 3, "reasoning": "Conscripts are compelled into service by the state, while the force holding these workers in place is a private estate's book of debts." },
+        { "distractor": "stewards", "closeness": 2, "reasoning": "A steward manages the property on the owner's behalf and would be the one keeping the ledger rather than the one trapped by it." },
+        { "distractor": "artisans", "closeness": 2, "reasoning": "Artisans are defined by a craft they carry with them, and nothing in the sentence gives these workers a trade or ties them to anything but the land." },
+        { "distractor": "migrants", "closeness": 2, "reasoning": "Migrants move from place to place, the direct opposite of people the sentence describes as bound to one estate." },
+        { "distractor": "overseers", "closeness": 2, "reasoning": "An overseer enforces the estate's labor, and the debt in the sentence is what holds the workers, not what governs the man watching them." },
+        { "distractor": "landowners", "closeness": 1, "reasoning": "The hacienda belongs to someone else, and the people described are held to it by what they owe." },
+        { "distractor": "creditors", "closeness": 1, "reasoning": "Creditors are owed money, whereas these people are the ones whose debts can never be discharged." },
+        { "distractor": "magistrates", "closeness": 1, "reasoning": "A magistrate holds public office and would not appear in a private estate's ledger as an unpayable account." }
+      ]
+    },
+    {
+      "sentence": "The partners took the credit in the client meeting while the peons in the back office reconciled the figures until midnight.",
+      "answerChoices": [
+        { "distractor": "clerks", "closeness": 3, "reasoning": "Clerk names a job title neutrally, but the sentence works by setting these workers against partners who take the credit, which calls for a word carrying the contempt in that contrast." },
+        { "distractor": "interns", "closeness": 3, "reasoning": "Interns are present temporarily to learn, and the people here are doing the firm's substantive reconciliation work late into the night." },
+        { "distractor": "subordinates", "closeness": 3, "reasoning": "Subordinate states a rank without any sting, which loses the disdain the sentence builds between the meeting where credit is claimed and the back office where the work is done." },
+        { "distractor": "assistants", "closeness": 3, "reasoning": "An assistant helps someone else perform a task, while these workers are performing the reconciliation themselves and getting nothing for it." },
+        { "distractor": "auditors", "closeness": 2, "reasoning": "Auditors check work from outside the firm and would not be described as the partners' unrewarded back office." },
+        { "distractor": "temps", "closeness": 2, "reasoning": "Temporary staffing is not what the sentence contrasts with partnership; the contrast is between who does the work and who is seen doing it." },
+        { "distractor": "rivals", "closeness": 2, "reasoning": "Rivals compete with the partners, but these people are working for them while the partners are in the client meeting." },
+        { "distractor": "veterans", "closeness": 2, "reasoning": "Long service would earn standing, which is exactly what the sentence denies the people in the back office." },
+        { "distractor": "executives", "closeness": 1, "reasoning": "Executives would be in the client meeting taking the credit, not reconciling figures at midnight." },
+        { "distractor": "clients", "closeness": 1, "reasoning": "The clients are the audience in the meeting and do not stay behind to balance the firm's numbers." },
+        { "distractor": "shareholders", "closeness": 1, "reasoning": "Shareholders own a stake and do no work, which contradicts the midnight reconciliation." }
+      ]
+    },
+    {
+      "sentence": "In the old district offices the peons carried files from room to room and were the only people who knew where anything was.",
+      "answerChoices": [
+        { "distractor": "porters", "closeness": 3, "reasoning": "A porter's business is carrying loads for travelers or at a gate, while these men move the office's own paperwork and hold its working knowledge." },
+        { "distractor": "messengers", "closeness": 3, "reasoning": "Messengers carry word between places, but the sentence keeps these men inside a single building, going from room to room." },
+        { "distractor": "orderlies", "closeness": 3, "reasoning": "Orderlies attend on officers in a hospital or a regiment, and the setting the sentence gives is a civil district office." },
+        { "distractor": "custodians", "closeness": 3, "reasoning": "A custodian looks after the premises themselves, whereas these men handle the files and alone know where each one has gone." },
+        { "distractor": "registrars", "closeness": 2, "reasoning": "A registrar keeps the official record as an officer of the office, which sits oddly with men whose knowledge is described as informal and unshared." },
+        { "distractor": "typists", "closeness": 2, "reasoning": "Typists produce documents at a desk rather than moving them between rooms." },
+        { "distractor": "sentries", "closeness": 2, "reasoning": "A sentry stands at a post to guard it and would not be carrying files around the building." },
+        { "distractor": "surveyors", "closeness": 2, "reasoning": "Surveyors work in the field measuring land, not in the corridors of the district office." },
+        { "distractor": "commissioners", "closeness": 1, "reasoning": "A commissioner heads the district office and would have others fetch the files for him." },
+        { "distractor": "petitioners", "closeness": 1, "reasoning": "Petitioners come in from outside to ask for something and would not know the building's filing at all." },
+        { "distractor": "ministers", "closeness": 1, "reasoning": "Ministers sit far above a district office and never appear in its corridors carrying paper." }
+      ]
+    }
+  ]
+}

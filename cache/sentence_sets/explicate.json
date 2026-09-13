@@ -1,0 +1,53 @@
+{
+  "word": "explicate",
+  "sentenceSets": [
+    {
+      "sentence": "The footnotes explicated references that would have been opaque to readers unfamiliar with the period.",
+      "answerChoices": [
+        { "distractor": "translated", "closeness": 3, "reasoning": "Translation converts wording from one language into another, but the barrier named is unfamiliarity with a historical period, which calls for background rather than a change of language." },
+        { "distractor": "catalogued", "closeness": 3, "reasoning": "Cataloguing would simply list the references in order, which would leave a reader who does not know the period no better off than before." },
+        { "distractor": "paraphrased", "closeness": 3, "reasoning": "Paraphrasing restates the same content in different words, and restating an obscure allusion does nothing to supply the context the reader lacks." },
+        { "distractor": "abridged", "closeness": 3, "reasoning": "Abridging cuts material down, whereas footnotes add matter alongside the text to make its references usable." },
+        { "distractor": "invented", "closeness": 2, "reasoning": "Inventing references would create them, but these already exist in the text and the footnotes address readers' difficulty with them." },
+        { "distractor": "praised", "closeness": 2, "reasoning": "Praise expresses approval, which would not relieve opacity for readers who do not recognize what is being referred to." },
+        { "distractor": "verified", "closeness": 2, "reasoning": "Verification confirms that a reference is accurate, a separate task from making it intelligible to an unprepared reader." },
+        { "distractor": "numbered", "closeness": 2, "reasoning": "Numbering is an organizational convenience and leaves the substance of the references just as opaque." },
+        { "distractor": "obscured", "closeness": 1, "reasoning": "Making the references harder to follow would worsen exactly the problem the footnotes are said to address." },
+        { "distractor": "deleted", "closeness": 1, "reasoning": "Removing the references would remove the material the footnotes are attached to and explain." },
+        { "distractor": "encrypted", "closeness": 1, "reasoning": "Encryption deliberately conceals meaning, the reverse of a footnote written for readers unfamiliar with the period." }
+      ]
+    },
+    {
+      "sentence": "Before the vote, she took twenty minutes to explicate the clause that everyone had been arguing about without reading.",
+      "answerChoices": [
+        { "distractor": "defend", "closeness": 3, "reasoning": "Defending would commit her to one side of the dispute, but the sentence's joke is that nobody had read the clause, so what the room needs is an account of what it says." },
+        { "distractor": "amend", "closeness": 3, "reasoning": "Amending changes the clause's wording, which no one can sensibly do before the vote when the text has not yet been understood." },
+        { "distractor": "summarize", "closeness": 3, "reasoning": "A summary compresses, and twenty minutes spent on a single clause points to working through it in detail rather than boiling it down." },
+        { "distractor": "quote", "closeness": 3, "reasoning": "Merely reading the words aloud would reproduce the text without addressing why it had been so badly misunderstood." },
+        { "distractor": "table", "closeness": 2, "reasoning": "Tabling would postpone the clause, but the sentence has her using the time immediately before the vote to deal with its content." },
+        { "distractor": "endorse", "closeness": 2, "reasoning": "Endorsement announces support and adds nothing for colleagues who do not yet know what the clause provides." },
+        { "distractor": "circulate", "closeness": 2, "reasoning": "Circulating the text would be a quick administrative act, not twenty minutes of her own speaking time." },
+        { "distractor": "ratify", "closeness": 2, "reasoning": "Ratification is what the vote itself will do, so it cannot be what she spends the preceding twenty minutes on." },
+        { "distractor": "conceal", "closeness": 1, "reasoning": "Hiding the clause would be pointless in a meeting convened to vote on it." },
+        { "distractor": "shred", "closeness": 1, "reasoning": "Destroying the document contradicts an effort made in the minutes before a vote on it." },
+        { "distractor": "misquote", "closeness": 1, "reasoning": "Misquoting would deepen the confusion the twenty minutes are spent dispelling." }
+      ]
+    },
+    {
+      "sentence": "A good teacher can explicate a difficult poem without flattening it into a single tidy message.",
+      "answerChoices": [
+        { "distractor": "recite", "closeness": 3, "reasoning": "Reciting delivers the poem aloud, which leaves its difficulty untouched and could not risk reducing it to one tidy message." },
+        { "distractor": "simplify", "closeness": 3, "reasoning": "Simplifying is precisely the flattening the second half of the sentence warns against, so it cannot also be the skill being praised." },
+        { "distractor": "critique", "closeness": 3, "reasoning": "Critiquing evaluates how good the poem is, whereas the danger named is reducing its meaning, which points to work on understanding rather than judgment." },
+        { "distractor": "memorize", "closeness": 3, "reasoning": "Memorizing is a private feat of retention and does nothing for students facing a difficult text in class." },
+        { "distractor": "anthologize", "closeness": 2, "reasoning": "Anthologizing places a poem in a collection, an editorial act unrelated to helping readers with its difficulty." },
+        { "distractor": "rewrite", "closeness": 2, "reasoning": "Rewriting alters the poem itself, but the teacher's task here is to work on readers' understanding of the poem as it stands." },
+        { "distractor": "dramatize", "closeness": 2, "reasoning": "Dramatizing stages the poem for effect, which is a performance choice rather than a way of opening up its difficulty." },
+        { "distractor": "assign", "closeness": 2, "reasoning": "Assigning the poem merely puts it in front of students and leaves the difficulty entirely to them." },
+        { "distractor": "mystify", "closeness": 1, "reasoning": "Deepening the confusion is the opposite of what a good teacher is being credited with." },
+        { "distractor": "ridicule", "closeness": 1, "reasoning": "Mocking the poem would not be praised as a teaching skill in a sentence concerned with preserving its richness." },
+        { "distractor": "censor", "closeness": 1, "reasoning": "Censoring removes parts of the text, which conflicts with an approach that refuses to reduce the poem." }
+      ]
+    }
+  ]
+}

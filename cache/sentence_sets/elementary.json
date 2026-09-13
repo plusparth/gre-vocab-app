@@ -1,0 +1,53 @@
+{
+  "word": "elementary",
+  "sentenceSets": [
+    {
+      "sentence": "The errors were elementary, the kind made by someone who had not grasped the most basic principles of the subject.",
+      "answerChoices": [
+        { "distractor": "basic", "closeness": 3, "reasoning": "The sentence already uses 'basic' for the principles that were missed, so putting it in the blank would make the clause repeat itself instead of characterizing the errors." },
+        { "distractor": "rudimentary", "closeness": 3, "reasoning": "Rudimentary describes something undeveloped or existing only in crude outline, which fits an unfinished skill better than a mistake that reveals a gap in first principles." },
+        { "distractor": "simple", "closeness": 3, "reasoning": "A simple error is one easy to describe or to fix, but the point of the second clause is what the errors reveal about the person's grasp of the subject." },
+        { "distractor": "trivial", "closeness": 3, "reasoning": "Trivial errors do not matter, yet these matter a great deal, since they show the writer never understood the foundations." },
+        { "distractor": "careless", "closeness": 2, "reasoning": "Carelessness implies the person knew better and slipped, contradicting a diagnosis of never having grasped the principles." },
+        { "distractor": "frequent", "closeness": 2, "reasoning": "Frequency counts how often the errors occurred, which the following clause about basic principles does not address." },
+        { "distractor": "predictable", "closeness": 2, "reasoning": "Predictability concerns whether a reader could anticipate the errors, not the level of understanding they betray." },
+        { "distractor": "minor", "closeness": 2, "reasoning": "Calling the errors minor downplays them, while the sentence treats them as evidence of a serious gap." },
+        { "distractor": "sophisticated", "closeness": 1, "reasoning": "Sophisticated errors would come from someone with a deep command of the subject, the opposite of what the sentence says." },
+        { "distractor": "advanced", "closeness": 1, "reasoning": "Advanced mistakes presuppose mastery of the basics the person is said to lack." },
+        { "distractor": "profound", "closeness": 1, "reasoning": "Profundity is a compliment and cannot describe errors attributed to missing first principles." }
+      ]
+    },
+    {
+      "sentence": "Before the advanced seminar began, she spent two weeks reviewing elementary set theory with students who had come from other departments.",
+      "answerChoices": [
+        { "distractor": "introductory", "closeness": 3, "reasoning": "Introductory material is arranged to bring newcomers into a subject, but she is revisiting the simplest content of set theory itself with people who need the groundwork rather than an orientation." },
+        { "distractor": "preliminary", "closeness": 3, "reasoning": "Preliminary refers to whatever comes first in a sequence, which describes the timing of these two weeks rather than the level of the mathematics being covered." },
+        { "distractor": "foundational", "closeness": 3, "reasoning": "Foundational results are the deep theorems a field rests on, often difficult in themselves, whereas what outsiders need before an advanced seminar is the simplest material." },
+        { "distractor": "primary", "closeness": 3, "reasoning": "Primary means chief or first in importance, which would misdescribe a review conducted for students who lack background rather than a survey of the field's central results." },
+        { "distractor": "abstract", "closeness": 2, "reasoning": "Abstraction is a feature of set theory at every level and would not distinguish the material chosen for underprepared students." },
+        { "distractor": "classical", "closeness": 2, "reasoning": "Classical marks an older body of results as against modern ones, a distinction irrelevant to students from other departments needing to catch up." },
+        { "distractor": "optional", "closeness": 2, "reasoning": "Optional material could be skipped, but these two weeks are described as necessary preparation for the seminar." },
+        { "distractor": "remedial", "closeness": 2, "reasoning": "Remedial work repairs a deficiency in students who should already know better, an unfair characterization of visitors from departments where set theory is never taught." },
+        { "distractor": "graduate", "closeness": 1, "reasoning": "Graduate-level set theory is what the advanced seminar itself will cover, not the catch-up material preceding it." },
+        { "distractor": "esoteric", "closeness": 1, "reasoning": "Esoteric material is known only to specialists, the opposite of what unprepared students need first." },
+        { "distractor": "unrelated", "closeness": 1, "reasoning": "Unrelated topics would be a waste of two weeks spent preparing students for the seminar." }
+      ]
+    },
+    {
+      "sentence": "Identifying the forged signature proved elementary once the two documents were laid side by side on the light table.",
+      "answerChoices": [
+        { "distractor": "straightforward", "closeness": 3, "reasoning": "Straightforward suggests a task with no complications along the way, whereas the sentence describes a difficulty that dissolved the instant the right comparison was set up." },
+        { "distractor": "effortless", "closeness": 3, "reasoning": "Effortlessness emphasizes that no work was required, but arranging the documents on a light table was itself the work that made the answer plain." },
+        { "distractor": "obvious", "closeness": 3, "reasoning": "'Obvious' would say the forgery leapt out at anyone, while the sentence stresses the specific condition under which it became easy to settle." },
+        { "distractor": "easy", "closeness": 3, "reasoning": "'Easy' is a flat judgment about difficulty and misses the note of the problem turning out to be a matter of the simplest comparison." },
+        { "distractor": "quick", "closeness": 2, "reasoning": "Quickness concerns the time taken, but the sentence is about how little skill the comparison finally demanded." },
+        { "distractor": "conclusive", "closeness": 2, "reasoning": "Conclusiveness is a property of the evidence rather than of the act of identifying, which is what the blank modifies." },
+        { "distractor": "routine", "closeness": 2, "reasoning": "Routine implies this is done all the time, but nothing suggests the examiner faces forged signatures regularly." },
+        { "distractor": "unnecessary", "closeness": 2, "reasoning": "Calling the identification unnecessary would contradict the trouble taken to lay both documents on the light table." },
+        { "distractor": "impossible", "closeness": 1, "reasoning": "Impossibility conflicts with the forgery actually being identified." },
+        { "distractor": "arduous", "closeness": 1, "reasoning": "Arduousness contradicts the word 'once,' which marks the moment the task became simple." },
+        { "distractor": "controversial", "closeness": 1, "reasoning": "Controversy implies ongoing dispute, but the side-by-side comparison settled the matter." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "exodus",
+  "sentenceSets": [
+    {
+      "sentence": "The exodus of skilled workers from the region left employers competing for a rapidly shrinking pool of talent.",
+      "answerChoices": [
+        { "distractor": "departure", "closeness": 3, "reasoning": "A departure can be a single person walking out the door, but the consequence described is a labor pool shrinking fast enough to set employers against one another, which requires movement on a mass scale." },
+        { "distractor": "displacement", "closeness": 3, "reasoning": "Displacement implies people were pushed out by force or disaster, while the sentence gives no such cause and focuses on workers leaving a region employers still occupy." },
+        { "distractor": "attrition", "closeness": 3, "reasoning": "Attrition describes losses accumulating gradually through ordinary turnover, whereas the word 'rapidly' and the scramble among employers point to a wave of leaving rather than slow erosion." },
+        { "distractor": "defection", "closeness": 3, "reasoning": "Defection implies abandoning a cause or allegiance for a rival one, but the workers are described only as leaving a geographic region, not switching sides." },
+        { "distractor": "dispersal", "closeness": 2, "reasoning": "Dispersal stresses scattering in many directions, while the sentence cares only that the workers are gone from the region and no longer available to hire." },
+        { "distractor": "recruitment", "closeness": 2, "reasoning": "Recruitment is what the employers are now forced into, not the event that shrank the pool in the first place." },
+        { "distractor": "retirement", "closeness": 2, "reasoning": "Retirement would end careers, but the workers are leaving the region, which is why other employers elsewhere can still compete for them." },
+        { "distractor": "shortage", "closeness": 2, "reasoning": "A shortage is the state the employers now face rather than the movement out of the region that produced it." },
+        { "distractor": "influx", "closeness": 1, "reasoning": "An arrival of workers would enlarge the pool instead of shrinking it." },
+        { "distractor": "settlement", "closeness": 1, "reasoning": "Settling means staying and putting down roots, the opposite of the movement that emptied the region of talent." },
+        { "distractor": "recovery", "closeness": 1, "reasoning": "Recovery suggests conditions improving, which contradicts employers fighting over a dwindling supply of workers." }
+      ]
+    },
+    {
+      "sentence": "Within an hour of the final whistle the stadium emptied, and the exodus clogged every road for miles.",
+      "answerChoices": [
+        { "distractor": "crowd", "closeness": 3, "reasoning": "A crowd is a gathering that can sit perfectly still, but what clogs the roads is people in motion away from a stadium the sentence says has already emptied." },
+        { "distractor": "procession", "closeness": 3, "reasoning": "A procession moves in orderly formation toward a destination, which does not match tens of thousands of drivers jamming every road at once after a game." },
+        { "distractor": "stampede", "closeness": 3, "reasoning": "A stampede is a panicked rush, and nothing here suggests alarm; the emptying takes a full hour and the trouble is traffic volume, not terror." },
+        { "distractor": "commotion", "closeness": 3, "reasoning": "Commotion is noisy disturbance, whereas the specific effect named is roads blocked for miles, which is about the sheer number of people leaving." },
+        { "distractor": "congestion", "closeness": 2, "reasoning": "Congestion is the result on the roads rather than the thing that caused it; the sentence needs a word for the departing multitude itself." },
+        { "distractor": "spectacle", "closeness": 2, "reasoning": "A spectacle is something watched, but the sentence describes participants creating a traffic problem, not an audience observing one." },
+        { "distractor": "assembly", "closeness": 2, "reasoning": "An assembly is people coming together, which describes the hours before the whistle rather than the emptying afterward." },
+        { "distractor": "spillover", "closeness": 2, "reasoning": "Spillover suggests an excess that overflows a boundary, but the stadium is described as fully emptying rather than overfilling." },
+        { "distractor": "arrival", "closeness": 1, "reasoning": "Arrivals fill a stadium; this sentence follows the final whistle and describes it emptying." },
+        { "distractor": "silence", "closeness": 1, "reasoning": "Silence cannot clog a road, and the clause requires something physically occupying the routes out." },
+        { "distractor": "postponement", "closeness": 1, "reasoning": "A postponement concerns scheduling, but the match has ended and the sentence is about people leaving it." }
+      ]
+    },
+    {
+      "sentence": "Historians still debate what triggered the exodus that emptied the valley's settlements within two generations.",
+      "answerChoices": [
+        { "distractor": "collapse", "closeness": 3, "reasoning": "A collapse would mean the settlements failed and fell apart in place, whereas the sentence specifies that the valley was emptied, which points to people going somewhere else." },
+        { "distractor": "plague", "closeness": 3, "reasoning": "A plague would be one candidate cause historians might argue over, but the sentence places it among the things that triggered the emptying rather than the emptying itself." },
+        { "distractor": "famine", "closeness": 3, "reasoning": "Famine names a hardship that could prompt people to leave, so it belongs on the list of triggers being debated, not in the slot for what the trigger produced." },
+        { "distractor": "decline", "closeness": 3, "reasoning": "Decline describes a slow weakening that leaves the settlements standing but diminished, while the sentence says they were emptied outright over two generations." },
+        { "distractor": "uprising", "closeness": 2, "reasoning": "An uprising is a revolt against authority, which would not by itself explain settlements standing empty afterward." },
+        { "distractor": "conquest", "closeness": 2, "reasoning": "Conquest implies a conqueror taking possession, yet the valley is described as emptied rather than occupied by someone new." },
+        { "distractor": "drought", "closeness": 2, "reasoning": "Like famine, a drought is the sort of cause historians would nominate; the sentence reserves that role for whatever 'triggered' the event." },
+        { "distractor": "reform", "closeness": 2, "reasoning": "Reform concerns changes to institutions and does not account for abandoned settlements across a whole valley." },
+        { "distractor": "resettlement", "closeness": 1, "reasoning": "Resettlement would mean people being placed into the valley, which conflicts with settlements standing empty." },
+        { "distractor": "prosperity", "closeness": 1, "reasoning": "Flourishing conditions would keep the valley populated rather than empty it." },
+        { "distractor": "census", "closeness": 1, "reasoning": "A census counts a population and cannot itself empty a valley of settlements." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "exculpate",
+  "sentenceSets": [
+    {
+      "sentence": "The new evidence did not simply cast doubt; it fully exculpated the defendant.",
+      "answerChoices": [
+        { "distractor": "acquitted", "closeness": 3, "reasoning": "The subject here is a piece of evidence, and the sentence credits it with acting on its own; an acquittal is a verdict that only a court or jury can return, so evidence can supply the grounds for one but cannot perform it." },
+        { "distractor": "pardoned", "closeness": 3, "reasoning": "A pardon is an act of mercy extended after guilt is assumed, whereas the sentence describes evidence going past mere doubt about whether the defendant did anything at all." },
+        { "distractor": "extenuated", "closeness": 3, "reasoning": "The word 'fully' and the contrast with 'did not simply cast doubt' mark this as an all-or-nothing outcome, while extenuating would only soften how serious the conduct looked." },
+        { "distractor": "absolved", "closeness": 3, "reasoning": "Absolution is granted by someone with authority to forgive and presumes there is something to forgive; the sentence instead has the evidence itself settling the factual question." },
+        { "distractor": "rehabilitated", "closeness": 2, "reasoning": "Rehabilitation restores a standing that was fairly lost, but nothing in the sentence says the defendant's reputation is being rebuilt after a deserved fall." },
+        { "distractor": "defended", "closeness": 2, "reasoning": "Defending is an ongoing effort on someone's behalf, yet the sentence describes a settled result reached the moment the evidence appeared." },
+        { "distractor": "exempted", "closeness": 2, "reasoning": "Exemption means being left out of a rule that still applies to others; the sentence is about a charge being answered, not a requirement being waived." },
+        { "distractor": "corroborated", "closeness": 2, "reasoning": "Corroboration supports a statement or testimony, but the object here is a person, and the sentence is about the defendant's position in the case rather than the truth of any account." },
+        { "distractor": "incriminated", "closeness": 1, "reasoning": "This would reverse the sentence: the evidence is described as doing more than raise doubt in the defendant's favor, not as tying him to wrongdoing." },
+        { "distractor": "condemned", "closeness": 1, "reasoning": "Condemnation is a hostile judgment, which contradicts the sentence's build from casting doubt to something stronger on the defendant's behalf." },
+        { "distractor": "indicted", "closeness": 1, "reasoning": "An indictment starts a prosecution, the opposite direction from the favorable turn the new evidence is said to produce." }
+      ]
+    },
+    {
+      "sentence": "The committee's report exculpated the graduate student, attributing the flawed data entirely to a miscalibrated instrument.",
+      "answerChoices": [
+        { "distractor": "excused", "closeness": 3, "reasoning": "To excuse someone is to forgive a lapse that really was theirs, but the report places the cause entirely in the instrument, leaving the student with no lapse to forgive." },
+        { "distractor": "exempted", "closeness": 3, "reasoning": "The report is resolving who was responsible for bad data, not releasing the student from a duty that still binds everyone else." },
+        { "distractor": "whitewashed", "closeness": 3, "reasoning": "Whitewashing implies a cover-up that papers over a real problem, yet the sentence says the report identified a concrete physical cause rather than concealing one." },
+        { "distractor": "reinstated", "closeness": 3, "reasoning": "Reinstatement returns someone to a position they were removed from, and the sentence mentions no suspension or removal, only a finding about the source of the flaw." },
+        { "distractor": "commended", "closeness": 2, "reasoning": "Praise is a different act from settling responsibility; the report's stated content is an attribution of cause, not an assessment of merit." },
+        { "distractor": "shielded", "closeness": 2, "reasoning": "Shielding suggests deflecting consequences that would otherwise land, whereas the report reaches a conclusion about where the fault actually lay." },
+        { "distractor": "credited", "closeness": 2, "reasoning": "Crediting assigns a good outcome to someone, but the outcome in this sentence is flawed data, which the report traces away from the student entirely." },
+        { "distractor": "consoled", "closeness": 2, "reasoning": "Consolation addresses feelings, while the report is described as making a factual attribution about equipment." },
+        { "distractor": "blamed", "closeness": 1, "reasoning": "The second clause moves the fault to the instrument, so the student cannot simultaneously be the one held at fault." },
+        { "distractor": "reprimanded", "closeness": 1, "reasoning": "A reprimand is a formal scolding, which conflicts with a report that assigns the problem to a miscalibrated device." },
+        { "distractor": "expelled", "closeness": 1, "reasoning": "Expulsion is a punishment, and nothing in the report as described supports punishing someone whose data failed because of a machine." }
+      ]
+    },
+    {
+      "sentence": "No amount of retrospective justification could exculpate him in his own mind, though the court had long since closed the matter.",
+      "answerChoices": [
+        { "distractor": "vindicate", "closeness": 3, "reasoning": "Vindication proves that a person's judgment or position was right all along, but the sentence shows him constructing after-the-fact arguments about conduct he cannot stop holding against himself." },
+        { "distractor": "redeem", "closeness": 3, "reasoning": "Redemption is earned by later conduct that makes up for a wrong, whereas what fails here is argument, and the sentence gives him no compensating acts at all." },
+        { "distractor": "clear", "closeness": 3, "reasoning": "Being cleared describes a public or official finding, which he already has from the closed case; the sentence turns specifically on the private verdict he keeps returning to." },
+        { "distractor": "reprieve", "closeness": 3, "reasoning": "A reprieve postpones a punishment that is still coming, but the court's involvement is over and what persists is his own continuing self-judgment." },
+        { "distractor": "comfort", "closeness": 2, "reasoning": "Comfort would ease his distress without touching the question of fault, yet the sentence frames the attempts as justification, which is an argument about whether he did wrong." },
+        { "distractor": "reassure", "closeness": 2, "reasoning": "Reassurance addresses uncertainty about what might happen, while the matter here is legally settled and what remains is the judgment he passes on himself." },
+        { "distractor": "distract", "closeness": 2, "reasoning": "Distraction would pull his attention elsewhere, but the sentence describes him building justifications, an activity aimed squarely at the question rather than away from it." },
+        { "distractor": "satisfy", "closeness": 2, "reasoning": "Satisfaction is too general for a sentence whose whole contrast is between a court that stopped asking and a man who has not." },
+        { "distractor": "accuse", "closeness": 1, "reasoning": "He is already the one leveling the charge against himself, so this reverses the relation the sentence sets up." },
+        { "distractor": "convict", "closeness": 1, "reasoning": "The sentence states the court closed the matter, and the justifications are attempts in his favor, not efforts to secure a finding of guilt." },
+        { "distractor": "torment", "closeness": 1, "reasoning": "Torment is what he already endures; the justifications are offered against it, not as a means of producing it." }
+      ]
+    }
+  ]
+}

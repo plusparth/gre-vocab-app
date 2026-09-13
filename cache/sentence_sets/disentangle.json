@@ -1,0 +1,53 @@
+{
+  "word": "disentangle",
+  "sentenceSets": [
+    {
+      "sentence": "She worked patiently to disentangle the competing claims, identifying which were factual and which were merely rhetorical.",
+      "answerChoices": [
+        { "distractor": "separate", "closeness": 3, "reasoning": "Separating implies the claims sit side by side waiting to be divided, but 'competing' and the patience required suggest they were knotted into one another and had to be worked apart." },
+        { "distractor": "unravel", "closeness": 3, "reasoning": "Unravelling suggests undoing something until it comes apart entirely, whereas she keeps the claims intact and sorts them into factual and rhetorical." },
+        { "distractor": "distinguish", "closeness": 3, "reasoning": "Distinguishing is the act named in the second half of the sentence, so using it in the blank would make the sentence say the same thing twice rather than describe the labor that made the sorting possible." },
+        { "distractor": "parse", "closeness": 3, "reasoning": "Parsing is a close reading of how something is worded, but her task is pulling interwoven claims free of one another, a matter of untying rather than analyzing grammar." },
+        { "distractor": "evaluate", "closeness": 2, "reasoning": "Evaluating would mean judging the claims' worth, and the judging is described afterward as the result of the patient work, not the work itself." },
+        { "distractor": "summarize", "closeness": 2, "reasoning": "A summary compresses material, which would blur the competing claims together instead of teasing them apart." },
+        { "distractor": "reconcile", "closeness": 2, "reasoning": "Reconciling would make the competing claims agree, but she keeps them distinct and sorts them by kind." },
+        { "distractor": "catalog", "closeness": 2, "reasoning": "Cataloging is listing items already discrete, which skips the difficulty the word 'patiently' signals." },
+        { "distractor": "conflate", "closeness": 1, "reasoning": "Conflating would merge the claims, the opposite of telling the factual from the rhetorical." },
+        { "distractor": "entangle", "closeness": 1, "reasoning": "Entangling would knot the claims further and defeat the sorting the sentence reports." },
+        { "distractor": "ignore", "closeness": 1, "reasoning": "Ignoring the claims is incompatible with patiently identifying which ones were factual." }
+      ]
+    },
+    {
+      "sentence": "It took twenty careful minutes to disentangle the kitten from the ball of yarn without cutting a single strand.",
+      "answerChoices": [
+        { "distractor": "extract", "closeness": 3, "reasoning": "Extracting means pulling something out, which is what one could have done at once by cutting; the twenty minutes and the intact strands indicate the yarn itself had to be worked loose step by step." },
+        { "distractor": "free", "closeness": 3, "reasoning": "'Free' states only the outcome and says nothing about the knotted condition that made the job take twenty minutes and require every strand to survive." },
+        { "distractor": "loosen", "closeness": 3, "reasoning": "Loosening slackens the yarn without necessarily getting the kitten out, but the sentence describes a job carried through to completion." },
+        { "distractor": "pry", "closeness": 3, "reasoning": "Prying uses force against something rigid, which would snap yarn rather than preserve every strand." },
+        { "distractor": "lift", "closeness": 2, "reasoning": "Lifting the kitten would simply drag the tangled yarn along with it, so it cannot be what took twenty minutes." },
+        { "distractor": "coax", "closeness": 2, "reasoning": "Coaxing persuades the animal to move on its own, but the difficulty here lies in the yarn wound around it, not in the kitten's willingness." },
+        { "distractor": "rescue", "closeness": 2, "reasoning": "Rescue implies danger, and a kitten in a ball of yarn is inconvenienced rather than imperiled." },
+        { "distractor": "unwind", "closeness": 2, "reasoning": "Unwinding is something done to the yarn itself, yet the sentence makes the kitten the object being worked free." },
+        { "distractor": "snare", "closeness": 1, "reasoning": "Snaring would trap the kitten further in the yarn rather than getting it out." },
+        { "distractor": "bind", "closeness": 1, "reasoning": "Binding the kitten to the yarn reverses the whole point of the twenty minutes' work." },
+        { "distractor": "abandon", "closeness": 1, "reasoning": "Abandoning the kitten contradicts the care taken not to cut even one strand." }
+      ]
+    },
+    {
+      "sentence": "After the merger collapsed, the two firms spent a year disentangling their pension schemes, shared patents, and overlapping supply contracts.",
+      "answerChoices": [
+        { "distractor": "unwinding", "closeness": 3, "reasoning": "Unwinding fits closing out a position or a deal, but the year of work described is about pulling apart assets that had been interwoven between two organizations." },
+        { "distractor": "severing", "closeness": 3, "reasoning": "Severing implies a clean cut, which is exactly what a year of painstaking work over shared patents and joint contracts was not." },
+        { "distractor": "dividing", "closeness": 3, "reasoning": "Dividing suggests apportioning things into shares, yet schemes and contracts that were already merged had first to be worked free of one another before anything could be allocated." },
+        { "distractor": "unpicking", "closeness": 3, "reasoning": "Unpicking describes taking apart something stitched together piece by piece, which suits a single document or plan better than the joint holdings of two firms." },
+        { "distractor": "auditing", "closeness": 2, "reasoning": "An audit examines and verifies records, but the firms had to physically separate their commitments, not merely inspect them." },
+        { "distractor": "liquidating", "closeness": 2, "reasoning": "Liquidation would convert the assets to cash and end them, whereas both firms clearly continue to operate their own schemes and patents afterward." },
+        { "distractor": "renegotiating", "closeness": 2, "reasoning": "Renegotiating changes terms between continuing partners, which conflicts with a merger that collapsed and left the two firms going separate ways." },
+        { "distractor": "consolidating", "closeness": 2, "reasoning": "Consolidation merges holdings together, the very process the collapse of the merger reversed." },
+        { "distractor": "merging", "closeness": 1, "reasoning": "Merging is what the failed deal would have done, so it cannot be what the firms did after it collapsed." },
+        { "distractor": "combining", "closeness": 1, "reasoning": "Combining the schemes and patents runs directly against the separation the collapse required." },
+        { "distractor": "ignoring", "closeness": 1, "reasoning": "Ignoring shared pensions and patents could not occupy two firms for a year." }
+      ]
+    }
+  ]
+}

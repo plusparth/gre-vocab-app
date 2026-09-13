@@ -1,0 +1,53 @@
+{
+  "word": "overshadow",
+  "sentenceSets": [
+    {
+      "sentence": "The controversy overshadowed genuine achievements that deserved more attention than the circumstances allowed.",
+      "answerChoices": [
+        { "distractor": "dwarfed", "closeness": 3, "reasoning": "Dwarfing is a comparison of magnitude, but the sentence never says the controversy was bigger than the achievements; it says the achievements went unnoticed because of it." },
+        { "distractor": "supplanted", "closeness": 3, "reasoning": "To supplant is to take something's place, yet the achievements are described as still genuine and still deserving attention, so nothing replaced them." },
+        { "distractor": "preempted", "closeness": 3, "reasoning": "Preempting means getting there first and crowding something out in advance, but the achievements already existed and the controversy came after them." },
+        { "distractor": "negated", "closeness": 3, "reasoning": "Negation would cancel the achievements' worth, and the sentence insists they were genuine and merited attention, so their value survives intact." },
+        { "distractor": "discredited", "closeness": 2, "reasoning": "Discrediting attacks the credibility of the achievements themselves, while the sentence calls them genuine and complains only that attention went elsewhere." },
+        { "distractor": "accompanied", "closeness": 2, "reasoning": "Mere accompaniment would not explain why the achievements received less attention than they deserved." },
+        { "distractor": "postponed", "closeness": 2, "reasoning": "Nothing is delayed here; the achievements had already been made, and only the notice given to them is at stake." },
+        { "distractor": "complicated", "closeness": 2, "reasoning": "Complication implies the achievements became harder to accomplish or interpret, whereas the sentence's regret is about the attention they failed to receive." },
+        { "distractor": "highlighted", "closeness": 1, "reasoning": "Drawing attention to the achievements is the opposite of the outcome the sentence laments." },
+        { "distractor": "celebrated", "closeness": 1, "reasoning": "The sentence explicitly says the achievements got less notice than they deserved, which rules out their being honored." },
+        { "distractor": "amplified", "closeness": 1, "reasoning": "Amplification would increase the achievements' prominence, contradicting the complaint that circumstances denied them attention." }
+      ]
+    },
+    {
+      "sentence": "The new tower overshadows the small courtyard garden, and by early afternoon the roses planted there receive no direct light at all.",
+      "answerChoices": [
+        { "distractor": "eclipses", "closeness": 3, "reasoning": "An eclipse is a brief blocking that occurs when bodies happen to align, but the tower stands permanently above the courtyard and the effect recurs every afternoon." },
+        { "distractor": "obscures", "closeness": 3, "reasoning": "Obscuring concerns what can be seen, while the stated consequence is that the roses get no sunlight, a matter of what reaches the garden from above rather than of visibility." },
+        { "distractor": "engulfs", "closeness": 3, "reasoning": "Engulfing implies the garden is swallowed up entirely, yet the sentence limits the effect to a particular part of the day, beginning in early afternoon." },
+        { "distractor": "shrouds", "closeness": 3, "reasoning": "A shroud covers something closely as a cloth would, suggesting concealment, but the tower affects the courtyard from a distance by standing between it and the sun." },
+        { "distractor": "abuts", "closeness": 2, "reasoning": "Abutting describes two things touching at a boundary, which says nothing about why the roses lose their light in the afternoon." },
+        { "distractor": "encircles", "closeness": 2, "reasoning": "A single tower cannot surround the courtyard, and the sentence describes one structure and one garden." },
+        { "distractor": "crowds", "closeness": 2, "reasoning": "Crowding suggests the tower squeezes the garden's space, but the loss described is of sunlight rather than of room." },
+        { "distractor": "blights", "closeness": 2, "reasoning": "Blight names damage or decay directly inflicted, whereas the sentence traces the harm to the roses through the intermediate fact of lost afternoon light." },
+        { "distractor": "illuminates", "closeness": 1, "reasoning": "The roses are said to receive no direct light, so the tower cannot be supplying any." },
+        { "distractor": "brightens", "closeness": 1, "reasoning": "Brightening contradicts the second clause, which reports the garden going dark from early afternoon onward." },
+        { "distractor": "adorns", "closeness": 1, "reasoning": "Decoration has nothing to do with the sunlight the roses are losing." }
+      ]
+    },
+    {
+      "sentence": "Growing up, he felt overshadowed by an older sister whose trophies filled the hallway shelf outside his bedroom door.",
+      "answerChoices": [
+        { "distractor": "upstaged", "closeness": 3, "reasoning": "Upstaging happens on a particular occasion when someone steals the moment, but the sentence describes a condition that lasted his whole childhood and a shelf he walked past every day." },
+        { "distractor": "outclassed", "closeness": 3, "reasoning": "Being outclassed implies the two competed and he was judged the lesser, yet the sentence never puts them in the same contest; her trophies simply sat there." },
+        { "distractor": "belittled", "closeness": 3, "reasoning": "Belittling requires someone actively making him feel small, and the sister does nothing to him in the sentence except win awards." },
+        { "distractor": "sidelined", "closeness": 3, "reasoning": "To be sidelined is to be kept out of an activity, but he is at home in his own house, excluded from nothing the sentence mentions." },
+        { "distractor": "intimidated", "closeness": 2, "reasoning": "Intimidation involves fear of the other person, and the sentence gives him no reason to fear a sister whose only described act is collecting trophies." },
+        { "distractor": "neglected", "closeness": 2, "reasoning": "Neglect would mean his needs went untended, while the sentence concerns how he compared with a sibling whose successes were on display." },
+        { "distractor": "displaced", "closeness": 2, "reasoning": "Displacement implies he was pushed out of a position he held, but no place of his own is described as lost." },
+        { "distractor": "unnerved", "closeness": 2, "reasoning": "Being unnerved is a momentary loss of composure, which does not match a feeling that persisted throughout his growing up." },
+        { "distractor": "inspired", "closeness": 1, "reasoning": "The sentence frames the sister's trophies as something he felt diminished by, not spurred on by." },
+        { "distractor": "adored", "closeness": 1, "reasoning": "Adoration would reverse the direction of the sentence, which reports what he suffered rather than what he gave." },
+        { "distractor": "championed", "closeness": 1, "reasoning": "Being championed means having an advocate, the opposite of the shadow the trophy shelf casts over him." }
+      ]
+    }
+  ]
+}
